@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T18:44:07.483121Z",
+  "updated": "2026-09-13T18:55:45.705125Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+      "published": "Sun, 13 Sep 2026 18:45:08 +0000",
+      "ts": 1789325108
+    },
     {
       "source": "Yahoo Finance",
       "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
@@ -244,13 +251,6 @@
       "source": "CoinDesk",
       "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
       "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
-      "published": "Sat, 12 Sep 2026 16:00:00 +0000",
-      "ts": 1789228800
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
-      "link": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
       "published": "Sat, 12 Sep 2026 16:00:00 +0000",
       "ts": 1789228800
     },
