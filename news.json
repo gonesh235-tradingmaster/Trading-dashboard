@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T13:09:17.962833Z",
+  "updated": "2026-09-13T13:24:44.985749Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
+      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 13:15:00 GMT",
+      "ts": 1789305300
+    },
     {
       "source": "CoinDesk",
       "title": "Fed rate hike is about Wall Street, not inflation, says economist",
@@ -185,25 +192,11 @@
       "ts": 1789221600
     },
     {
-      "source": "MarketWatch",
-      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
-      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
-      "published": "Sat, 12 Sep 2026 13:00:00 GMT",
-      "ts": 1789218000
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Caleres (CAL) Stock Lags Behind Its Brand Portfolio’s Surge",
       "link": "https://finance.yahoo.com/markets/stocks/articles/caleres-cal-stock-lags-behind-115147339.html",
       "published": "2026-09-12T11:51:47Z",
       "ts": 1789213907
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "For Twenty Years He Made IRA Contributions the IRS Never Let Him Deduct. One Form Filed Every April Is the Only Thing Standing Between Him and Being Taxed on That $150,000 Twice",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/twenty-years-made-ira-contributions-114624990.html",
-      "published": "2026-09-12T11:46:24Z",
-      "ts": 1789213584
     },
     {
       "source": "Yahoo Finance",
@@ -228,17 +221,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dlocal's 2026 Outlook: Soaring Total Payment Volume Meets a Reasonable Valuation",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dlocals-2026-outlook-soaring-total-113508200.html",
-      "published": "2026-09-12T11:35:08Z",
-      "ts": 1789212908
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Jim Cramer Calls Applied Materials (AMAT) a Long-Term Buy",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-applied-materials-113036796.html",
       "published": "2026-09-12T11:30:36Z",
       "ts": 1789212636
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Boards were built for a vertical world. Risk has gone horizontal",
+      "link": "https://finance.yahoo.com/small-business/articles/boards-were-built-vertical-world-113000791.html",
+      "published": "2026-09-12T11:30:00Z",
+      "ts": 1789212600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AI Data Centers Are on Track to Fuel ‘Explosive’ Growth in Captive Insurance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-centers-track-fuel-113000003.html",
+      "published": "2026-09-12T11:30:00Z",
+      "ts": 1789212600
     },
     {
       "source": "Yahoo Finance",
