@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T10:38:37.867933Z",
+  "updated": "2026-09-13T10:51:13.080614Z",
   "count": 60,
   "items": [
     {
@@ -172,6 +172,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Jim Cramer Calls Akamai (AKAM) “Terrific” and Cloudflare (NET) One of His Favorites",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-akamai-akam-090349309.html",
+      "published": "2026-09-12T09:03:49Z",
+      "ts": 1789203829
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Palantir and Nvidia Are Building a Sovereign AI Stack. Who Captures More of the Economics?",
       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-building-sovereign-ai-085205506.html",
       "published": "2026-09-12T08:52:05Z",
@@ -207,6 +214,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Is a Stock Market Crash Looming Under President Donald Trump? Nearly 156 Years of History Offers Up an Unpleasant Truth for Wall Street.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-looming-under-082601234.html",
+      "published": "2026-09-12T08:26:01Z",
+      "ts": 1789201561
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Billionaire Stanley Druckenmiller Dumped Broadcom, Intel, and Micron for This Chip Stock. Here's Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-dumped-broadcom-082300775.html",
+      "published": "2026-09-12T08:23:00Z",
+      "ts": 1789201380
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Investors Title’s (ITIC) Profit Surge Isn’t As Clean As It Looks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-title-itic-profit-surge-081740418.html",
       "published": "2026-09-12T08:17:40Z",
@@ -214,31 +235,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "SpaceX Eyes Orbital AI Compute as Starship Reuse Pushes Costs Lower",
-      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-eyes-orbital-ai-compute-080200892.html",
-      "published": "2026-09-12T08:02:00Z",
-      "ts": 1789200120
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Eupraxia Pharma (EPRX): When Painful Swallowing Nearly Disappeared, Investors Took Notice",
       "link": "https://finance.yahoo.com/healthcare/articles/eupraxia-pharma-eprx-painful-swallowing-075610532.html",
       "published": "2026-09-12T07:56:10Z",
       "ts": 1789199770
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Prediction: D-Wave Quantum's Revenue Triples Before 2030",
-      "link": "https://finance.yahoo.com/technology/ai/articles/prediction-d-wave-quantums-revenue-075401099.html",
-      "published": "2026-09-12T07:54:01Z",
-      "ts": 1789199641
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BridgeBio Oncology Therapeutics (BBOT) Bets Big On A Narrower KRAS Playbook",
-      "link": "https://finance.yahoo.com/healthcare/articles/bridgebio-oncology-therapeutics-bbot-bets-074039253.html",
-      "published": "2026-09-12T07:40:39Z",
-      "ts": 1789198839
     },
     {
       "source": "MarketWatch",
