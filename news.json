@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-13T19:23:21.476136Z",
+  "updated": "2026-09-13T19:36:50.545020Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
+      "published": "2026-09-13T19:13:28Z",
+      "ts": 1789326808
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
+      "published": "2026-09-13T19:10:52Z",
+      "ts": 1789326652
+    },
     {
       "source": "Yahoo Finance",
       "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
@@ -73,25 +87,11 @@
       "ts": 1789318073
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Being a millionaire isn’t enough to join America’s top 10% — here’s the net worth it actually takes to be in the top",
-      "link": "https://finance.yahoo.com/markets/articles/being-millionaire-isn-t-enough-164500172.html",
-      "published": "2026-09-13T16:45:00Z",
-      "ts": 1789317900
-    },
-    {
       "source": "MarketWatch",
       "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
       "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 16:30:00 GMT",
       "ts": 1789317000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike",
-      "link": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T16:11:39Z",
-      "ts": 1789315899
     },
     {
       "source": "MarketWatch",
