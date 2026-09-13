@@ -1,20 +1,34 @@
 {
-  "updated": "2026-09-13T23:37:32.330352Z",
+  "updated": "2026-09-13T23:50:02.807818Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-to-near-07150-as-hot-us-inflation-data-boost-case-for-fed-rate-hike-202609132339",
+      "published": "Sun, 13 Sep 2026 23:39:47 GMT",
+      "ts": 1789342787
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike",
+      "link": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
+      "published": "2026-09-13T23:34:11Z",
+      "ts": 1789342451
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-13T23:33:51Z",
+      "ts": 1789342431
+    },
     {
       "source": "FXStreet",
       "title": "Iran says commercial vessel struck in Strait of Hormuz",
       "link": "https://www.fxstreet.com/news/iran-says-commercial-vessel-struck-in-strait-of-hormuz-202609132306",
       "published": "Sun, 13 Sep 2026 23:06:53 GMT",
       "ts": 1789340813
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T22:51:56Z",
-      "ts": 1789339916
     },
     {
       "source": "FXStreet",
@@ -113,13 +127,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
       "published": "2026-09-13T19:13:28Z",
       "ts": 1789326808
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
-      "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
-      "published": "2026-09-13T19:10:52Z",
-      "ts": 1789326652
     },
     {
       "source": "Investing Crypto",
@@ -351,13 +358,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-neckline-failure-keeps-bears-in-control-202609111953",
       "published": "Fri, 11 Sep 2026 19:53:25 GMT",
       "ts": 1789156405
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forecasting the upcoming week: Fed, BoE and BoJ headline a central bank triple-header",
-      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-headline-a-central-bank-triple-header-202609111952",
-      "published": "Fri, 11 Sep 2026 19:52:21 GMT",
-      "ts": 1789156341
     },
     {
       "source": "CoinTelegraph",
