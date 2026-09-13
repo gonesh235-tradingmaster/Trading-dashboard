@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T08:58:02.202336Z",
+  "updated": "2026-09-13T09:08:28.075239Z",
   "count": 60,
   "items": [
     {
@@ -158,6 +158,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Investors Title’s (ITIC) Profit Surge Isn’t As Clean As It Looks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-title-itic-profit-surge-081740418.html",
+      "published": "2026-09-12T08:17:40Z",
+      "ts": 1789201060
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BridgeBio Oncology Therapeutics (BBOT) Bets Big On A Narrower KRAS Playbook",
+      "link": "https://finance.yahoo.com/healthcare/articles/bridgebio-oncology-therapeutics-bbot-bets-074039253.html",
+      "published": "2026-09-12T07:40:39Z",
+      "ts": 1789198839
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Palantir Stock Remains Attractive Even After a 50% Rally in August",
       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-remains-attractive-even-053002026.html",
       "published": "2026-09-12T05:30:02Z",
@@ -165,17 +179,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Morgan Stanley warns of possible stock market correction",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-warns-possible-stock-033300942.html",
-      "published": "2026-09-12T03:33:00Z",
-      "ts": 1789183980
+      "title": "Alcoa Sees Aluminum Deficit, Strong Demand and Tariff Upside at Jefferies Conference",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/alcoa-sees-aluminum-deficit-strong-050200543.html",
+      "published": "2026-09-12T05:02:00Z",
+      "ts": 1789189320
     },
     {
       "source": "Yahoo Finance",
-      "title": "How To Earn $500 A Month From Oracle Stock Ahead Of Q1 Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/earn-500-month-oracle-stock-033007408.html",
-      "published": "2026-09-12T03:30:07Z",
-      "ts": 1789183807
+      "title": "monday.com's 2026 Outlook: Scaling High-Value Enterprise Client Momentum",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/monday-coms-2026-outlook-scaling-040101549.html",
+      "published": "2026-09-12T04:01:01Z",
+      "ts": 1789185661
     },
     {
       "source": "Yahoo Finance",
@@ -211,20 +225,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-puts-1-024807694.html",
       "published": "2026-09-12T02:48:07Z",
       "ts": 1789181287
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oracle (ORCL)’s Licensing Terms Draw the Same EU Scrutiny that Just Cost SAP Concessions",
-      "link": "https://finance.yahoo.com/technology/articles/oracle-orcl-licensing-terms-draw-003229309.html",
-      "published": "2026-09-12T00:32:29Z",
-      "ts": 1789173149
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Baldness Drug Stocks like Veradermics (MANE) and Absci (ABSI) Are Chasing the Same Wall Street Magic as Ozempic",
-      "link": "https://finance.yahoo.com/healthcare/articles/baldness-drug-stocks-veradermics-mane-002949530.html",
-      "published": "2026-09-12T00:29:49Z",
-      "ts": 1789172989
     },
     {
       "source": "MarketWatch",
