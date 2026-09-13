@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-13T15:24:58.274548Z",
+  "updated": "2026-09-13T15:38:39.265037Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Berkshire Hathaway Has Nearly 14% of Its $359 Billion Portfolio Invested in This Winning Stock That's Doubled in 5 Years",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-nearly-14-359-152200373.html",
+      "published": "2026-09-13T15:22:00Z",
+      "ts": 1789312920
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Retiring in 2027? 3 Essential Financial Moves to Make",
+      "link": "https://finance.yahoo.com/markets/articles/retiring-2027-3-essential-financial-152000740.html",
+      "published": "2026-09-13T15:20:00Z",
+      "ts": 1789312800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike",
+      "link": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
+      "published": "2026-09-13T15:19:52Z",
+      "ts": 1789312792
+    },
     {
       "source": "MarketWatch",
       "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
@@ -11,24 +32,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "On Second Thought, Never Mind: Here’s Why ORCL’s Larry Ellison Just Canceled $7.5 Billion Stock Sale",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/second-thought-never-mind-why-145340407.html",
-      "published": "2026-09-13T14:53:40Z",
-      "ts": 1789311220
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
       "published": "2026-09-13T14:52:36Z",
       "ts": 1789311156
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Where Will XRP Be in 3 Years?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/where-xrp-3-years-145100536.html",
-      "published": "2026-09-13T14:51:00Z",
-      "ts": 1789311060
     },
     {
       "source": "MarketWatch",
@@ -92,13 +99,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html",
       "published": "2026-09-13T13:38:32Z",
       "ts": 1789306712
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html",
-      "published": "2026-09-13T13:36:58Z",
-      "ts": 1789306618
     },
     {
       "source": "MarketWatch",
