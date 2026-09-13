@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T09:51:24.665810Z",
+  "updated": "2026-09-13T10:16:49.467808Z",
   "count": 60,
   "items": [
     {
@@ -165,13 +165,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Calls Akamai (AKAM) “Terrific” and Cloudflare (NET) One of His Favorites",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-akamai-akam-090349309.html",
-      "published": "2026-09-12T09:03:49Z",
-      "ts": 1789203829
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Palantir and Nvidia Are Building a Sovereign AI Stack. Who Captures More of the Economics?",
       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-building-sovereign-ai-085205506.html",
       "published": "2026-09-12T08:52:05Z",
@@ -186,10 +179,38 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Meta May Overtake Google Search in Ad Revenue This Year, Bernstein Says",
+      "link": "https://finance.yahoo.com/media-advertising/articles/meta-may-overtake-google-search-084633342.html",
+      "published": "2026-09-12T08:46:33Z",
+      "ts": 1789202793
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Krispy Kreme’s (DNUT) Turnaround Math Still Has A Revenue Problem",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/krispy-kreme-dnut-turnaround-math-084300822.html",
+      "published": "2026-09-12T08:43:00Z",
+      "ts": 1789202580
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "3D Systems (DDD) Finally Turns The Corner, But Cracks Remain",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3d-systems-ddd-finally-turns-083804802.html",
+      "published": "2026-09-12T08:38:04Z",
+      "ts": 1789202284
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Investors Title’s (ITIC) Profit Surge Isn’t As Clean As It Looks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-title-itic-profit-surge-081740418.html",
       "published": "2026-09-12T08:17:40Z",
       "ts": 1789201060
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SpaceX Eyes Orbital AI Compute as Starship Reuse Pushes Costs Lower",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-eyes-orbital-ai-compute-080200892.html",
+      "published": "2026-09-12T08:02:00Z",
+      "ts": 1789200120
     },
     {
       "source": "Yahoo Finance",
@@ -200,38 +221,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Prediction: D-Wave Quantum's Revenue Triples Before 2030",
+      "link": "https://finance.yahoo.com/technology/ai/articles/prediction-d-wave-quantums-revenue-075401099.html",
+      "published": "2026-09-12T07:54:01Z",
+      "ts": 1789199641
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "BridgeBio Oncology Therapeutics (BBOT) Bets Big On A Narrower KRAS Playbook",
       "link": "https://finance.yahoo.com/healthcare/articles/bridgebio-oncology-therapeutics-bbot-bets-074039253.html",
       "published": "2026-09-12T07:40:39Z",
       "ts": 1789198839
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A raid on pensioners would destroy growth. Here’s the proof",
-      "link": "https://finance.yahoo.com/economy/articles/raid-pensioners-destroy-growth-proof-053655741.html",
-      "published": "2026-09-12T05:36:55Z",
-      "ts": 1789191415
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Palantir Stock Remains Attractive Even After a 50% Rally in August",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-remains-attractive-even-053002026.html",
-      "published": "2026-09-12T05:30:02Z",
-      "ts": 1789191002
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 Ways to Invest in Anthropic Pre-IPO",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-ways-invest-anthropic-pre-052000832.html",
-      "published": "2026-09-12T05:20:00Z",
-      "ts": 1789190400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "GM and Ford Take their Century-Old Rivalry to the Battlefield and the Power Grid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gm-ford-century-old-rivalry-032650745.html",
-      "published": "2026-09-12T03:26:50Z",
-      "ts": 1789183610
     },
     {
       "source": "MarketWatch",
