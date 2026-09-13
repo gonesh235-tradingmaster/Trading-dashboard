@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T21:38:06.500831Z",
+  "updated": "2026-09-13T21:50:16.858138Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Ahead",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-13T21:29:19Z",
+      "ts": 1789334959
+    },
     {
       "source": "MarketWatch",
       "title": "These are the 10 biggest retirement fears — and what you can do about them",
@@ -15,13 +22,6 @@
       "link": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 20:59:00 GMT",
       "ts": 1789333140
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Ahead",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T20:44:54Z",
-      "ts": 1789332294
     },
     {
       "source": "MarketWatch",
