@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-13T12:53:38.709587Z",
+  "updated": "2026-09-13T13:09:17.962833Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+      "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+      "published": "Sun, 13 Sep 2026 13:00:00 +0000",
+      "ts": 1789304400
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+      "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+      "published": "Sun, 13 Sep 2026 13:00:00 +0000",
+      "ts": 1789304400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The price of almost everything on your dinner table is climbing at once — and Wall Street is taking notice",
+      "link": "https://www.marketwatch.com/story/the-price-of-almost-everything-on-your-dinner-table-is-climbing-at-once-and-wall-street-is-taking-notice-9623d1fc?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 13:00:00 GMT",
+      "ts": 1789304400
+    },
     {
       "source": "MarketWatch",
       "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
@@ -172,6 +193,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Caleres (CAL) Stock Lags Behind Its Brand Portfolio’s Surge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/caleres-cal-stock-lags-behind-115147339.html",
+      "published": "2026-09-12T11:51:47Z",
+      "ts": 1789213907
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "For Twenty Years He Made IRA Contributions the IRS Never Let Him Deduct. One Form Filed Every April Is the Only Thing Standing Between Him and Being Taxed on That $150,000 Twice",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/twenty-years-made-ira-contributions-114624990.html",
+      "published": "2026-09-12T11:46:24Z",
+      "ts": 1789213584
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Zscaler (ZS)’s Depressed Stock Opportunity Or Warning? Answer May Lie in Emerging AI Security Business",
       "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-depressed-stock-opportunity-114031388.html",
       "published": "2026-09-12T11:40:31Z",
@@ -193,10 +228,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "IGLB vs LQD: Which Corporate Bond ETF Fits Your Portfolio?",
-      "link": "https://finance.yahoo.com/markets/options/articles/iglb-vs-lqd-corporate-bond-113201114.html",
-      "published": "2026-09-12T11:32:01Z",
-      "ts": 1789212721
+      "title": "Dlocal's 2026 Outlook: Soaring Total Payment Volume Meets a Reasonable Valuation",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dlocals-2026-outlook-soaring-total-113508200.html",
+      "published": "2026-09-12T11:35:08Z",
+      "ts": 1789212908
     },
     {
       "source": "Yahoo Finance",
@@ -204,13 +239,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-applied-materials-113036796.html",
       "published": "2026-09-12T11:30:36Z",
       "ts": 1789212636
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Want in on Anthropic Before the IPO? Buy These 8 Stocks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/want-anthropic-ipo-buy-8-113034122.html",
-      "published": "2026-09-12T11:30:34Z",
-      "ts": 1789212634
     },
     {
       "source": "Yahoo Finance",
@@ -234,20 +262,6 @@
       "ts": 1789212118
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Oracle Just Added $30 Billion in AI Contracts. Nvidia Investors Should Read the Fine Print",
-      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-just-added-30-billion-111550996.html",
-      "published": "2026-09-12T11:15:50Z",
-      "ts": 1789211750
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
-      "published": "Sat, 12 Sep 2026 10:11:01 +0000",
-      "ts": 1789207861
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
@@ -260,13 +274,6 @@
       "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
       "published": "Fri, 11 Sep 2026 23:54:00 GMT",
       "ts": 1789170840
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
-      "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
-      "published": "Fri, 11 Sep 2026 23:47:51 +0000",
-      "ts": 1789170471
     },
     {
       "source": "MarketWatch",
@@ -309,13 +316,6 @@
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-break-08150-as-cpi-fuels-fed-bets-202609112101",
       "published": "Fri, 11 Sep 2026 21:01:46 GMT",
       "ts": 1789160506
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tesla could transform the trucking business — and capitalize on high diesel prices",
-      "link": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
-      "published": "Fri, 11 Sep 2026 20:49:00 GMT",
-      "ts": 1789159740
     },
     {
       "source": "FXStreet",
