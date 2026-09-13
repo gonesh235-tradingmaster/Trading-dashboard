@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-13T22:50:59.076803Z",
+  "updated": "2026-09-13T23:09:01.136429Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Iran says commercial vessel struck in Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/iran-says-commercial-vessel-struck-in-strait-of-hormuz-202609132306",
+      "published": "Sun, 13 Sep 2026 23:06:53 GMT",
+      "ts": 1789340813
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-13T22:48:01Z",
+      "ts": 1789339681
+    },
     {
       "source": "FXStreet",
       "title": "Oman meeting between Gulf states and Iran delayed — Reuters",
@@ -10,11 +24,11 @@
       "ts": 1789338561
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T22:21:49Z",
-      "ts": 1789338109
+      "source": "Investing Crypto",
+      "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
+      "published": "2026-09-13 21:59:53",
+      "ts": 1789336793
     },
     {
       "source": "MarketWatch",
@@ -199,13 +213,6 @@
       "ts": 1789291641
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips below $77,000 as rate pressure clashes with diversification case",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
-      "published": "2026-09-13 09:26:43",
-      "ts": 1789291603
-    },
-    {
       "source": "Investing Forex",
       "title": "Speculators turn bullish on yen for first time since February",
       "link": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
@@ -365,13 +372,6 @@
       "link": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 11 Sep 2026 19:46:24 +0000",
       "ts": 1789155984
-    },
-    {
-      "source": "FXStreet",
-      "title": "Bank of Japan: Gradual path toward neutral rate – ING",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-gradual-path-toward-neutral-rate-ing-202609111924",
-      "published": "Fri, 11 Sep 2026 19:24:00 GMT",
-      "ts": 1789154640
     },
     {
       "source": "Investing Forex",
