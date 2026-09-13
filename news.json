@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T11:50:58.138699Z",
+  "updated": "2026-09-13T12:12:27.382278Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+      "published": "Sun, 13 Sep 2026 12:00:00 +0000",
+      "ts": 1789300800
+    },
     {
       "source": "CoinTelegraph",
       "title": "Anthropic chief urges slowdown in AI development to safer pace",
@@ -165,6 +172,34 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Jim Cramer Names Amazon (AMZN) a “Sleep-at-Night Growth Stock”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-names-amazon-amzn-105432511.html",
+      "published": "2026-09-12T10:54:32Z",
+      "ts": 1789210472
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Found The TJX Companies, Inc. (NYSE:TJX)’s Share Price Performance “Unbelievable”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-found-tjx-companies-105419525.html",
+      "published": "2026-09-12T10:54:19Z",
+      "ts": 1789210459
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Might Have Made A Big Shift For Costco Wholesale Corporation (NASDAQ:COST)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-might-made-big-105333167.html",
+      "published": "2026-09-12T10:53:33Z",
+      "ts": 1789210413
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Thinks This Retailer Is “Extraordinary” With An “Unsung” CEO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-retailer-extraordinary-105310371.html",
+      "published": "2026-09-12T10:53:10Z",
+      "ts": 1789210390
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer Remains A Believer In Affirm Holdings (NASDAQ:AFRM)",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-remains-believer-affirm-105203543.html",
       "published": "2026-09-12T10:52:03Z",
@@ -176,6 +211,13 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-called-well-known-105130007.html",
       "published": "2026-09-12T10:51:30Z",
       "ts": 1789210290
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Said Snowflake Inc. (NYSE:SNOW)’s Q2 Was Great For AI",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-snowflake-inc-105109354.html",
+      "published": "2026-09-12T10:51:09Z",
+      "ts": 1789210269
     },
     {
       "source": "Yahoo Finance",
@@ -197,41 +239,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discussed-contradictions-surrounding-104912429.html",
       "published": "2026-09-12T10:49:12Z",
       "ts": 1789210152
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Weighs Amgen (AMGN) After Novartis Trial Failure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-amgen-amgn-104813723.html",
-      "published": "2026-09-12T10:48:13Z",
-      "ts": 1789210093
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Notes lululemon (LULU) is “Executing Really Poorly”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-lululemon-lulu-104632623.html",
-      "published": "2026-09-12T10:46:32Z",
-      "ts": 1789209992
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ovid Therapeutics (OVID) Cashes In One Bet To Fund Its Next Two",
-      "link": "https://finance.yahoo.com/healthcare/articles/ovid-therapeutics-ovid-cashes-one-104615720.html",
-      "published": "2026-09-12T10:46:15Z",
-      "ts": 1789209975
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘Money has no utility’: Warren Buffett prizes 1 personal asset above all else — here's how you can take advantage of it",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/money-no-utility-warren-buffett-104500733.html",
-      "published": "2026-09-12T10:45:00Z",
-      "ts": 1789209900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Names NVIDIA the Main Portfolio “Running Back”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-names-nvidia-main-104325250.html",
-      "published": "2026-09-12T10:43:25Z",
-      "ts": 1789209805
     },
     {
       "source": "CoinDesk",
@@ -379,13 +386,6 @@
       "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 11 Sep 2026 18:45:15 +0000",
       "ts": 1789152315
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
-      "published": "Fri, 11 Sep 2026 17:12:45 +0000",
-      "ts": 1789146765
     },
     {
       "source": "CoinTelegraph",
