@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T11:09:09.943687Z",
+  "updated": "2026-09-13T11:24:34.198003Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Anthropic chief urges slowdown in AI development to safer pace",
+      "link": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 13 Sep 2026 11:09:54 +0000",
+      "ts": 1789297794
+    },
     {
       "source": "CoinTelegraph",
       "title": "Revolut says customer data exposed through fake government email",
@@ -157,6 +164,55 @@
       "ts": 1789218000
     },
     {
+      "source": "Yahoo Finance",
+      "title": "AUCATZYL Sales Are Exploding, But Autolus (AUTL) Still Isn’t In The Black",
+      "link": "https://finance.yahoo.com/healthcare/articles/aucatzyl-sales-exploding-autolus-autl-102145491.html",
+      "published": "2026-09-12T10:21:45Z",
+      "ts": 1789208505
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Meet the Value Stock That's Crushing the S&P 500. Here's Why It's Still a Great Buy in September.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meet-value-stock-thats-crushing-102000257.html",
+      "published": "2026-09-12T10:20:00Z",
+      "ts": 1789208400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "‘Basically the Payday Lender of the Middle Class’: Dave Ramsey Rips the Policy a Couple’s Estate Attorney Pitched",
+      "link": "https://finance.yahoo.com/small-business/articles/basically-payday-lender-middle-class-101505002.html",
+      "published": "2026-09-12T10:15:05Z",
+      "ts": 1789208105
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Michael Burry calls Lululemon ‘the trickster’ in his portfolio — why it’s now his biggest position",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-calls-lululemon-trickster-101500396.html",
+      "published": "2026-09-12T10:15:00Z",
+      "ts": 1789208100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "'Cash is trash': Kiyosaki says Americans stockpiling cash are 'big losers' making a huge mistake. 5 real assets he likes",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/cash-trash-kiyosaki-says-americans-101500988.html",
+      "published": "2026-09-12T10:15:00Z",
+      "ts": 1789208100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Rigetti and D-Wave Just Got $100 Million Each. 1 Quantum Stock Has More Upside From Here.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/rigetti-d-wave-just-got-101415832.html",
+      "published": "2026-09-12T10:14:15Z",
+      "ts": 1789208055
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SandRidge (SD) Turns Bigger Wells And Bigger Dividends Into Real Cash",
+      "link": "https://finance.yahoo.com/energy/articles/sandridge-sd-turns-bigger-wells-101227806.html",
+      "published": "2026-09-12T10:12:27Z",
+      "ts": 1789207947
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
       "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
@@ -164,81 +220,32 @@
       "ts": 1789207861
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Best CD rates today, Saturday, September 12, 2026: Lock in up to 4.35% APY with an 18-month CD",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-12-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000342.html",
+      "published": "2026-09-12T10:00:00Z",
+      "ts": 1789207200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mortgage and refinance interest rates today, Saturday, September 12, 2026: Mortgage rates up for the second straight day",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-12-2026-mortgage-rates-up-for-the-second-straight-day-100000822.html",
+      "published": "2026-09-12T10:00:00Z",
+      "ts": 1789207200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "York Water’s (YORW) Rate Hike Just Rewrote Its Earnings Picture",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/york-water-yorw-rate-hike-095848522.html",
+      "published": "2026-09-12T09:58:48Z",
+      "ts": 1789207128
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
       "published": "2026-09-12 09:52:28",
       "ts": 1789206748
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Intrepid’s (IPI) Trio Turnaround Funds A Bigger Buyback And Cleaner Balance Sheet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intrepid-ipi-trio-turnaround-funds-090859798.html",
-      "published": "2026-09-12T09:08:59Z",
-      "ts": 1789204139
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Calls Akamai (AKAM) “Terrific” and Cloudflare (NET) One of His Favorites",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-akamai-akam-090349309.html",
-      "published": "2026-09-12T09:03:49Z",
-      "ts": 1789203829
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Palantir and Nvidia Are Building a Sovereign AI Stack. Who Captures More of the Economics?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-building-sovereign-ai-085205506.html",
-      "published": "2026-09-12T08:52:05Z",
-      "ts": 1789203125
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "GE Aerospace Is Making a $12 Billion Acquisition. Here's What Investors Should Know.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-making-12-billion-085000042.html",
-      "published": "2026-09-12T08:50:00Z",
-      "ts": 1789203000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer on Builders FirstSource (BLDR): “No, Thank You”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-builders-firstsource-bldr-084935902.html",
-      "published": "2026-09-12T08:49:35Z",
-      "ts": 1789202975
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Meta May Overtake Google Search in Ad Revenue This Year, Bernstein Says",
-      "link": "https://finance.yahoo.com/media-advertising/articles/meta-may-overtake-google-search-084633342.html",
-      "published": "2026-09-12T08:46:33Z",
-      "ts": 1789202793
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Krispy Kreme’s (DNUT) Turnaround Math Still Has A Revenue Problem",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/krispy-kreme-dnut-turnaround-math-084300822.html",
-      "published": "2026-09-12T08:43:00Z",
-      "ts": 1789202580
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3D Systems (DDD) Finally Turns The Corner, But Cracks Remain",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3d-systems-ddd-finally-turns-083804802.html",
-      "published": "2026-09-12T08:38:04Z",
-      "ts": 1789202284
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "1 Top Warren Buffett Stock for Dividend Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-top-warren-buffett-stock-083500151.html",
-      "published": "2026-09-12T08:35:00Z",
-      "ts": 1789202100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Investors Title’s (ITIC) Profit Surge Isn’t As Clean As It Looks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-title-itic-profit-surge-081740418.html",
-      "published": "2026-09-12T08:17:40Z",
-      "ts": 1789201060
     },
     {
       "source": "MarketWatch",
@@ -393,13 +400,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 11 Sep 2026 16:03:37 +0000",
       "ts": 1789142617
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary",
-      "link": "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 11 Sep 2026 13:44:27 +0000",
-      "ts": 1789134267
     },
     {
       "source": "Investing Forex",
