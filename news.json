@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-13T16:52:38.699650Z",
+  "updated": "2026-09-13T17:09:06.082996Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+      "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
+      "published": "Sun, 13 Sep 2026 17:00:00 +0000",
+      "ts": 1789318800
+    },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 13 Sep 2026 16:47:53 +0000",
       "ts": 1789318073
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Being a millionaire isn’t enough to join America’s top 10% — here’s the net worth it actually takes to be in the top",
+      "link": "https://finance.yahoo.com/markets/articles/being-millionaire-isn-t-enough-164500172.html",
+      "published": "2026-09-13T16:45:00Z",
+      "ts": 1789317900
     },
     {
       "source": "MarketWatch",
@@ -92,13 +106,6 @@
       "link": "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 14:00:00 GMT",
       "ts": 1789308000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-grows-134921293.html",
-      "published": "2026-09-13T13:49:21Z",
-      "ts": 1789307361
     },
     {
       "source": "MarketWatch",
@@ -274,13 +281,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
       "published": "2026-09-12T14:37:00Z",
       "ts": 1789223820
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Staked ether should be seen as the benchmark of the decentralized economy",
-      "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
-      "published": "Sat, 12 Sep 2026 14:00:00 +0000",
-      "ts": 1789221600
     },
     {
       "source": "Investing Crypto",
