@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T15:09:25.390272Z",
+  "updated": "2026-09-13T15:24:58.274548Z",
   "count": 60,
   "items": [
     {
@@ -10,11 +10,53 @@
       "ts": 1789311600
     },
     {
+      "source": "Yahoo Finance",
+      "title": "On Second Thought, Never Mind: Here’s Why ORCL’s Larry Ellison Just Canceled $7.5 Billion Stock Sale",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/second-thought-never-mind-why-145340407.html",
+      "published": "2026-09-13T14:53:40Z",
+      "ts": 1789311220
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-13T14:52:36Z",
+      "ts": 1789311156
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Where Will XRP Be in 3 Years?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/where-xrp-3-years-145100536.html",
+      "published": "2026-09-13T14:51:00Z",
+      "ts": 1789311060
+    },
+    {
       "source": "MarketWatch",
       "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
       "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 14:30:00 GMT",
       "ts": 1789309800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Amgen (AMGN) Fell 5% on a Drug That Isn’t Even Its Own. Here’s the Lp(a) Bet Now in Question.",
+      "link": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html",
+      "published": "2026-09-13T14:29:16Z",
+      "ts": 1789309756
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
+      "published": "2026-09-13T14:08:37Z",
+      "ts": 1789308517
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
+      "published": "2026-09-13T14:02:10Z",
+      "ts": 1789308130
     },
     {
       "source": "MarketWatch",
@@ -29,6 +71,34 @@
       "link": "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 14:00:00 GMT",
       "ts": 1789308000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-grows-134921293.html",
+      "published": "2026-09-13T13:49:21Z",
+      "ts": 1789307361
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The RealReal (REAL) Posts Record Sales, But The Losses Keep Growing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-posts-record-sales-134612583.html",
+      "published": "2026-09-13T13:46:12Z",
+      "ts": 1789307172
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Snowflake’s Blowout Quarter Adds to a Software Sector Already Rallying on AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html",
+      "published": "2026-09-13T13:38:32Z",
+      "ts": 1789306712
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html",
+      "published": "2026-09-13T13:36:58Z",
+      "ts": 1789306618
     },
     {
       "source": "MarketWatch",
@@ -211,76 +281,6 @@
       "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
       "published": "Sat, 12 Sep 2026 14:00:00 +0000",
       "ts": 1789221600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Frequency Electronics (FEIM) Soars After Record Revenue",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/frequency-electronics-feim-soars-record-133402974.html",
-      "published": "2026-09-12T13:34:02Z",
-      "ts": 1789220042
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Alibaba (BABA)’s AI Bet Faces a $10.2 Billion Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-ai-bet-faces-133035025.html",
-      "published": "2026-09-12T13:30:35Z",
-      "ts": 1789219835
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Scott Bessent dismisses 'Bloomberg Terminal bros' as 10-year Treasury yield hits 4.94% despite $5.2B buyback",
-      "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-dismisses-bloomberg-terminal-133000792.html",
-      "published": "2026-09-12T13:30:00Z",
-      "ts": 1789219800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Will Midterm Elections Cause the Stock Market to Plunge? 75 Years of History Offer an Unexpected Answer.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/midterm-elections-cause-stock-market-132601186.html",
-      "published": "2026-09-12T13:26:01Z",
-      "ts": 1789219561
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "d OECD commercial oil inventories have “barely drawn since the war began,” reflecting a smaller-than-expected supply deficit and the concentration of inventory declines in strategic reserves, oil stored on water and China.",
-      "link": "https://finance.yahoo.com/energy/articles/d-oecd-commercial-oil-inventories-132600424.html",
-      "published": "2026-09-12T13:26:00Z",
-      "ts": 1789219560
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html",
-      "published": "2026-09-12T13:22:14Z",
-      "ts": 1789219334
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ABM Industries’ (ABM) Cash Flow Jump Masks A Split Business Story",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/abm-industries-abm-cash-flow-132127889.html",
-      "published": "2026-09-12T13:21:27Z",
-      "ts": 1789219287
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dan Loeb’s Third Point Increased Its Reported Hut 8 Stake and Disclosed Riot Debt Exposure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dan-loeb-third-point-increased-132101919.html",
-      "published": "2026-09-12T13:21:01Z",
-      "ts": 1789219261
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Netskope’s (NTSK) AI Security Push Is Already Paying Off",
-      "link": "https://finance.yahoo.com/technology/ai/articles/netskope-ntsk-ai-security-push-131420161.html",
-      "published": "2026-09-12T13:14:20Z",
-      "ts": 1789218860
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "NVIDIA and Digital Realty’s Flexible AI Factory Faces a Test That More Funding Alone Can’t Solve",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-digital-realty-flexible-ai-131211843.html",
-      "published": "2026-09-12T13:12:11Z",
-      "ts": 1789218731
     },
     {
       "source": "Investing Crypto",
