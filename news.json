@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-13T15:38:39.265037Z",
+  "updated": "2026-09-13T15:51:07.321947Z",
   "count": 60,
   "items": [
     {
       "source": "Yahoo Finance",
-      "title": "Berkshire Hathaway Has Nearly 14% of Its $359 Billion Portfolio Invested in This Winning Stock That's Doubled in 5 Years",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-nearly-14-359-152200373.html",
-      "published": "2026-09-13T15:22:00Z",
-      "ts": 1789312920
+      "title": "Rivian vs. Lucid: This Stock Is Clearly the Better Buy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-vs-lucid-stock-clearly-153500179.html",
+      "published": "2026-09-13T15:35:00Z",
+      "ts": 1789313700
     },
     {
       "source": "Yahoo Finance",
-      "title": "Retiring in 2027? 3 Essential Financial Moves to Make",
-      "link": "https://finance.yahoo.com/markets/articles/retiring-2027-3-essential-financial-152000740.html",
-      "published": "2026-09-13T15:20:00Z",
-      "ts": 1789312800
+      "title": "From Bad to Catastrophic: Saudi Pipeline Outage Threatens to Make Gas Prices Even More Brutal",
+      "link": "https://finance.yahoo.com/energy/articles/bad-catastrophic-saudi-pipeline-outage-153110199.html",
+      "published": "2026-09-13T15:31:10Z",
+      "ts": 1789313470
     },
     {
       "source": "Yahoo Finance",
@@ -92,13 +92,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-posts-record-sales-134612583.html",
       "published": "2026-09-13T13:46:12Z",
       "ts": 1789307172
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Snowflake’s Blowout Quarter Adds to a Software Sector Already Rallying on AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html",
-      "published": "2026-09-13T13:38:32Z",
-      "ts": 1789306712
     },
     {
       "source": "MarketWatch",
@@ -274,6 +267,13 @@
       "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
       "published": "Sat, 12 Sep 2026 15:00:00 GMT",
       "ts": 1789225200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Smith & Wesson’s (SWBI) Profit Turnaround Comes With a Catch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/smith-wesson-swbi-profit-turnaround-142440248.html",
+      "published": "2026-09-12T14:24:40Z",
+      "ts": 1789223080
     },
     {
       "source": "CoinDesk",
