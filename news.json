@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T14:24:57.596589Z",
+  "updated": "2026-09-13T14:38:41.175119Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
+      "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 14:30:00 GMT",
+      "ts": 1789309800
+    },
     {
       "source": "MarketWatch",
       "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
@@ -200,6 +207,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "NVIDIA and Digital Realty’s Flexible AI Factory Faces a Test That More Funding Alone Can’t Solve",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-digital-realty-flexible-ai-131211843.html",
+      "published": "2026-09-12T13:12:11Z",
+      "ts": 1789218731
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Goldman Sachs Is Bullish. Here Are 3 Reasons AFRM Stock Could Climb 69%.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-bullish-3-reasons-130003545.html",
       "published": "2026-09-12T13:00:03Z",
@@ -218,6 +232,20 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-bloomberg-analysts-reveal-130000521.html",
       "published": "2026-09-12T13:00:00Z",
       "ts": 1789218000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Nike's Index Demotion a Warning or a Buying Opportunity?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nikes-index-demotion-warning-buying-125500367.html",
+      "published": "2026-09-12T12:55:00Z",
+      "ts": 1789217700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "3 Agentic AI Stocks to Own Before AI Changes the World as We Know It",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-agentic-ai-stocks-own-125000827.html",
+      "published": "2026-09-12T12:50:00Z",
+      "ts": 1789217400
     },
     {
       "source": "Yahoo Finance",
@@ -242,31 +270,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Real Cost of Retiring in Florida on a Military Pension and Social Security",
-      "link": "https://finance.yahoo.com/real-estate/articles/real-cost-retiring-florida-military-124058992.html",
-      "published": "2026-09-12T12:40:58Z",
-      "ts": 1789216858
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AMD Just Raised the Top of the Company's 2030 Market to $3 Trillion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-just-raised-top-companys-123901236.html",
-      "published": "2026-09-12T12:39:01Z",
-      "ts": 1789216741
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Why stocks haven't tanked despite higher bond yields: Chart of the Day",
       "link": "https://finance.yahoo.com/news/why-stocks-havent-tanked-despite-higher-bond-yields-chart-of-the-day-123346395.html",
       "published": "2026-09-12T12:33:46Z",
       "ts": 1789216426
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why It’s Time to Buy the Dip in Affirm Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-time-buy-dip-affirm-122742771.html",
-      "published": "2026-09-12T12:27:42Z",
-      "ts": 1789216062
     },
     {
       "source": "Investing Crypto",
@@ -281,13 +288,6 @@
       "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
       "published": "Fri, 11 Sep 2026 23:54:00 GMT",
       "ts": 1789170840
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
-      "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-      "published": "Fri, 11 Sep 2026 22:06:00 GMT",
-      "ts": 1789164360
     },
     {
       "source": "FXStreet",
