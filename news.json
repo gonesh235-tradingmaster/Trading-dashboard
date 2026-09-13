@@ -1,27 +1,20 @@
 {
-  "updated": "2026-09-13T16:26:10.108425Z",
+  "updated": "2026-09-13T16:40:57.376956Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 16:30:00 GMT",
+      "ts": 1789317000
+    },
     {
       "source": "Yahoo Finance",
       "title": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike",
       "link": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
       "published": "2026-09-13T16:11:39Z",
       "ts": 1789315899
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "If You'd Invested $5,000 in VGT 10 Years Ago, Here's Exactly How Much You'd Have Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-5-000-vgt-160700906.html",
-      "published": "2026-09-13T16:07:00Z",
-      "ts": 1789315620
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Could Upstart 10x From Here? The AI Fintech Platform Could Be the Most Misunderstood Stock on the Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/could-upstart-10x-ai-fintech-160501346.html",
-      "published": "2026-09-13T16:05:01Z",
-      "ts": 1789315501
     },
     {
       "source": "Yahoo Finance",
@@ -129,13 +122,6 @@
       "ts": 1789304400
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 12:40:00 GMT",
-      "ts": 1789303200
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
       "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
@@ -220,6 +206,13 @@
       "ts": 1789238613
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Musk sent governments a message about the robot economy",
+      "link": "https://finance.yahoo.com/economy/articles/musk-sent-governments-message-robot-174700228.html",
+      "published": "2026-09-12T17:47:00Z",
+      "ts": 1789235220
+    },
+    {
       "source": "MarketWatch",
       "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
       "link": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
@@ -274,6 +267,13 @@
       "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
       "published": "Sat, 12 Sep 2026 15:00:00 GMT",
       "ts": 1789225200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Morgan Stanley delivers blunt message to America’s pet owners",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
+      "published": "2026-09-12T14:37:00Z",
+      "ts": 1789223820
     },
     {
       "source": "CoinDesk",
