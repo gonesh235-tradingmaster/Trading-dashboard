@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T20:25:53.665638Z",
+  "updated": "2026-09-13T20:39:39.296171Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
+      "link": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 20:30:00 GMT",
+      "ts": 1789331400
+    },
     {
       "source": "MarketWatch",
       "title": "How to trade a well-paying job for more work-life balance — without going broke",
@@ -13,8 +20,15 @@
       "source": "Yahoo Finance",
       "title": "Dow Jones Futures: AI Stocks In Focus As Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T19:59:33Z",
-      "ts": 1789329573
+      "published": "2026-09-13T20:06:05Z",
+      "ts": 1789329965
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Chewy’s (CHWY) Margin Story Losing Steam, or Is a 48% Drop the Opportunity?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-chwy-margin-story-losing-195717174.html",
+      "published": "2026-09-13T19:57:17Z",
+      "ts": 1789329437
     },
     {
       "source": "MarketWatch",
@@ -94,13 +108,6 @@
       "ts": 1789319447
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Korn Ferry (KFY) Expands Global Standing With AMS Acquisition",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/korn-ferry-kfy-expands-global-170618310.html",
-      "published": "2026-09-13T17:06:18Z",
-      "ts": 1789319178
-    },
-    {
       "source": "CoinDesk",
       "title": "Quantum-proof blockchain: why math, not machines, holds the key",
       "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
@@ -148,13 +155,6 @@
       "link": "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 14:00:00 GMT",
       "ts": 1789308000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
-      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 13:15:00 GMT",
-      "ts": 1789305300
     },
     {
       "source": "CoinDesk",
@@ -211,6 +211,13 @@
       "link": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
       "published": "2026-09-12 22:52:48",
       "ts": 1789253568
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
+      "published": "2026-09-12T21:37:00Z",
+      "ts": 1789249020
     },
     {
       "source": "CoinDesk",
@@ -274,13 +281,6 @@
       "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 12 Sep 2026 15:12:40 +0000",
       "ts": 1789225960
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Morgan Stanley delivers blunt message to America’s pet owners",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
-      "published": "2026-09-12T14:37:00Z",
-      "ts": 1789223820
     },
     {
       "source": "Investing Crypto",
