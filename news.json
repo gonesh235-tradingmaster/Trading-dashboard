@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T10:51:13.080614Z",
+  "updated": "2026-09-13T11:09:09.943687Z",
   "count": 60,
   "items": [
     {
@@ -172,6 +172,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Intrepid’s (IPI) Trio Turnaround Funds A Bigger Buyback And Cleaner Balance Sheet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intrepid-ipi-trio-turnaround-funds-090859798.html",
+      "published": "2026-09-12T09:08:59Z",
+      "ts": 1789204139
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer Calls Akamai (AKAM) “Terrific” and Cloudflare (NET) One of His Favorites",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-akamai-akam-090349309.html",
       "published": "2026-09-12T09:03:49Z",
@@ -183,6 +190,13 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-building-sovereign-ai-085205506.html",
       "published": "2026-09-12T08:52:05Z",
       "ts": 1789203125
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "GE Aerospace Is Making a $12 Billion Acquisition. Here's What Investors Should Know.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-making-12-billion-085000042.html",
+      "published": "2026-09-12T08:50:00Z",
+      "ts": 1789203000
     },
     {
       "source": "Yahoo Finance",
@@ -214,17 +228,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is a Stock Market Crash Looming Under President Donald Trump? Nearly 156 Years of History Offers Up an Unpleasant Truth for Wall Street.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-looming-under-082601234.html",
-      "published": "2026-09-12T08:26:01Z",
-      "ts": 1789201561
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Billionaire Stanley Druckenmiller Dumped Broadcom, Intel, and Micron for This Chip Stock. Here's Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-dumped-broadcom-082300775.html",
-      "published": "2026-09-12T08:23:00Z",
-      "ts": 1789201380
+      "title": "1 Top Warren Buffett Stock for Dividend Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-top-warren-buffett-stock-083500151.html",
+      "published": "2026-09-12T08:35:00Z",
+      "ts": 1789202100
     },
     {
       "source": "Yahoo Finance",
@@ -232,13 +239,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-title-itic-profit-surge-081740418.html",
       "published": "2026-09-12T08:17:40Z",
       "ts": 1789201060
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Eupraxia Pharma (EPRX): When Painful Swallowing Nearly Disappeared, Investors Took Notice",
-      "link": "https://finance.yahoo.com/healthcare/articles/eupraxia-pharma-eprx-painful-swallowing-075610532.html",
-      "published": "2026-09-12T07:56:10Z",
-      "ts": 1789199770
     },
     {
       "source": "MarketWatch",
