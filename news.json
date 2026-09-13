@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T14:51:07.408708Z",
+  "updated": "2026-09-13T15:09:25.390272Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 15:00:00 GMT",
+      "ts": 1789311600
+    },
     {
       "source": "MarketWatch",
       "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
@@ -207,6 +214,41 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Frequency Electronics (FEIM) Soars After Record Revenue",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/frequency-electronics-feim-soars-record-133402974.html",
+      "published": "2026-09-12T13:34:02Z",
+      "ts": 1789220042
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Alibaba (BABA)’s AI Bet Faces a $10.2 Billion Test",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-ai-bet-faces-133035025.html",
+      "published": "2026-09-12T13:30:35Z",
+      "ts": 1789219835
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Scott Bessent dismisses 'Bloomberg Terminal bros' as 10-year Treasury yield hits 4.94% despite $5.2B buyback",
+      "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-dismisses-bloomberg-terminal-133000792.html",
+      "published": "2026-09-12T13:30:00Z",
+      "ts": 1789219800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Will Midterm Elections Cause the Stock Market to Plunge? 75 Years of History Offer an Unexpected Answer.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/midterm-elections-cause-stock-market-132601186.html",
+      "published": "2026-09-12T13:26:01Z",
+      "ts": 1789219561
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "d OECD commercial oil inventories have “barely drawn since the war began,” reflecting a smaller-than-expected supply deficit and the concentration of inventory declines in strategic reserves, oil stored on water and China.",
+      "link": "https://finance.yahoo.com/energy/articles/d-oecd-commercial-oil-inventories-132600424.html",
+      "published": "2026-09-12T13:26:00Z",
+      "ts": 1789219560
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
       "link": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html",
       "published": "2026-09-12T13:22:14Z",
@@ -235,45 +277,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "5 REITs That Turn Long-Term Leases Into Reliable Dividend Income",
-      "link": "https://finance.yahoo.com/real-estate/articles/5-reits-turn-long-term-131213401.html",
-      "published": "2026-09-12T13:12:13Z",
-      "ts": 1789218733
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "NVIDIA and Digital Realty’s Flexible AI Factory Faces a Test That More Funding Alone Can’t Solve",
       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-digital-realty-flexible-ai-131211843.html",
       "published": "2026-09-12T13:12:11Z",
       "ts": 1789218731
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Some Dividend Growth ETFs Are Beating the Broad Market -- Is It Sustainable?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-growth-etfs-beating-broad-130500806.html",
-      "published": "2026-09-12T13:05:00Z",
-      "ts": 1789218300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Goldman Sachs Is Bullish. Here Are 3 Reasons AFRM Stock Could Climb 69%.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-bullish-3-reasons-130003545.html",
-      "published": "2026-09-12T13:00:03Z",
-      "ts": 1789218003
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Intuit vs. Block: 1 Fintech Stock Is Built for the Next Decade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-vs-block-1-fintech-130003367.html",
-      "published": "2026-09-12T13:00:03Z",
-      "ts": 1789218003
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ray Dalio and Bloomberg analysts reveal where to put $10,000 as stocks hit highs and bonds sell off in 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-bloomberg-analysts-reveal-130000521.html",
-      "published": "2026-09-12T13:00:00Z",
-      "ts": 1789218000
     },
     {
       "source": "Investing Crypto",
@@ -281,13 +288,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
       "published": "2026-09-12 09:52:28",
       "ts": 1789206748
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
-      "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
-      "published": "Fri, 11 Sep 2026 23:54:00 GMT",
-      "ts": 1789170840
     },
     {
       "source": "FXStreet",
