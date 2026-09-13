@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T18:55:45.705125Z",
+  "updated": "2026-09-13T19:09:15.723679Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
+      "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 19:00:00 GMT",
+      "ts": 1789326000
+    },
     {
       "source": "CoinDesk",
       "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
@@ -267,13 +274,6 @@
       "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 12 Sep 2026 15:12:40 +0000",
       "ts": 1789225960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
-      "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-      "published": "Sat, 12 Sep 2026 15:00:00 GMT",
-      "ts": 1789225200
     },
     {
       "source": "Yahoo Finance",
