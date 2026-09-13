@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T21:09:36.026274Z",
+  "updated": "2026-09-13T21:24:36.210091Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "These are the 10 biggest retirement fears — and what you can do about them",
+      "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 21:10:00 GMT",
+      "ts": 1789333800
+    },
     {
       "source": "MarketWatch",
       "title": "I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?",
@@ -148,13 +155,6 @@
       "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 15:00:00 GMT",
       "ts": 1789311600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
-      "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 14:30:00 GMT",
-      "ts": 1789309800
     },
     {
       "source": "CoinDesk",
