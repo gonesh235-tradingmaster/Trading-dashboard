@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T09:08:28.075239Z",
+  "updated": "2026-09-13T09:51:24.665810Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Revolut says customer data exposed through fake government email",
+      "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 13 Sep 2026 09:27:21 +0000",
+      "ts": 1789291641
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin slips to $77,200 as rate pressure clashes with diversification case",
@@ -158,10 +165,38 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Jim Cramer Calls Akamai (AKAM) “Terrific” and Cloudflare (NET) One of His Favorites",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-akamai-akam-090349309.html",
+      "published": "2026-09-12T09:03:49Z",
+      "ts": 1789203829
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Palantir and Nvidia Are Building a Sovereign AI Stack. Who Captures More of the Economics?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-building-sovereign-ai-085205506.html",
+      "published": "2026-09-12T08:52:05Z",
+      "ts": 1789203125
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer on Builders FirstSource (BLDR): “No, Thank You”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-builders-firstsource-bldr-084935902.html",
+      "published": "2026-09-12T08:49:35Z",
+      "ts": 1789202975
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Investors Title’s (ITIC) Profit Surge Isn’t As Clean As It Looks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-title-itic-profit-surge-081740418.html",
       "published": "2026-09-12T08:17:40Z",
       "ts": 1789201060
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Eupraxia Pharma (EPRX): When Painful Swallowing Nearly Disappeared, Investors Took Notice",
+      "link": "https://finance.yahoo.com/healthcare/articles/eupraxia-pharma-eprx-painful-swallowing-075610532.html",
+      "published": "2026-09-12T07:56:10Z",
+      "ts": 1789199770
     },
     {
       "source": "Yahoo Finance",
@@ -172,6 +207,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "A raid on pensioners would destroy growth. Here’s the proof",
+      "link": "https://finance.yahoo.com/economy/articles/raid-pensioners-destroy-growth-proof-053655741.html",
+      "published": "2026-09-12T05:36:55Z",
+      "ts": 1789191415
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Palantir Stock Remains Attractive Even After a 50% Rally in August",
       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-remains-attractive-even-053002026.html",
       "published": "2026-09-12T05:30:02Z",
@@ -179,17 +221,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Alcoa Sees Aluminum Deficit, Strong Demand and Tariff Upside at Jefferies Conference",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/alcoa-sees-aluminum-deficit-strong-050200543.html",
-      "published": "2026-09-12T05:02:00Z",
-      "ts": 1789189320
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "monday.com's 2026 Outlook: Scaling High-Value Enterprise Client Momentum",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/monday-coms-2026-outlook-scaling-040101549.html",
-      "published": "2026-09-12T04:01:01Z",
-      "ts": 1789185661
+      "title": "3 Ways to Invest in Anthropic Pre-IPO",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ways-invest-anthropic-pre-052000832.html",
+      "published": "2026-09-12T05:20:00Z",
+      "ts": 1789190400
     },
     {
       "source": "Yahoo Finance",
@@ -197,34 +232,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/gm-ford-century-old-rivalry-032650745.html",
       "published": "2026-09-12T03:26:50Z",
       "ts": 1789183610
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Equinix (EQIX): A 1998 Data Center Company that Found its Own AI Niche",
-      "link": "https://finance.yahoo.com/technology/ai/articles/equinix-eqix-1998-data-center-031006844.html",
-      "published": "2026-09-12T03:10:06Z",
-      "ts": 1789182606
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "KKR Expands Home Services Portfolio with $2 Billion A1 Deal",
-      "link": "https://finance.yahoo.com/real-estate/articles/kkr-expands-home-services-portfolio-030813064.html",
-      "published": "2026-09-12T03:08:13Z",
-      "ts": 1789182493
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Honda (HMC) Squeezes its Suppliers to Fight Off Cheaper Chinese Rivals",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/honda-hmc-squeezes-suppliers-fight-025128873.html",
-      "published": "2026-09-12T02:51:28Z",
-      "ts": 1789181488
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "American Airlines (AAL) Puts $1,000 Behind its Workers’ Kids",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-puts-1-024807694.html",
-      "published": "2026-09-12T02:48:07Z",
-      "ts": 1789181287
     },
     {
       "source": "MarketWatch",
@@ -386,13 +393,6 @@
       "link": "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 11 Sep 2026 13:44:27 +0000",
       "ts": 1789134267
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Trading stocks against BONER is the latest trend for DeFi degens",
-      "link": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 11 Sep 2026 13:30:00 +0000",
-      "ts": 1789133400
     },
     {
       "source": "Investing Forex",
