@@ -1,13 +1,20 @@
 {
-  "updated": "2026-09-13T22:25:47.331457Z",
+  "updated": "2026-09-13T22:40:04.734363Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Oman meeting between Gulf states and Iran delayed — Reuters",
+      "link": "https://www.fxstreet.com/news/oman-meeting-between-gulf-states-and-iran-delayed-reuters-202609132229",
+      "published": "Sun, 13 Sep 2026 22:29:21 GMT",
+      "ts": 1789338561
+    },
     {
       "source": "Yahoo Finance",
       "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T22:07:18Z",
-      "ts": 1789337238
+      "published": "2026-09-13T22:21:49Z",
+      "ts": 1789338109
     },
     {
       "source": "MarketWatch",
@@ -372,13 +379,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-yen-slips-dollar-holds-near-weekly-high-4897219",
       "published": "2026-09-11 19:17:21",
       "ts": 1789154241
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Treasury yields ease after CPI as Fed hike risks linger",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-ease-after-cpi-but-fed-hike-risks-linger-202609111852",
-      "published": "Fri, 11 Sep 2026 18:52:24 GMT",
-      "ts": 1789152744
     },
     {
       "source": "CoinTelegraph",
