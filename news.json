@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T11:24:34.198003Z",
+  "updated": "2026-09-13T11:37:46.991417Z",
   "count": 60,
   "items": [
     {
@@ -165,24 +165,45 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Hello Group (MOMO) Turns A Profit While China Revenue Slides",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hello-group-momo-turns-profit-103916010.html",
+      "published": "2026-09-12T10:39:16Z",
+      "ts": 1789209556
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The S&P 500 Trades at 25x Earnings. This Dividend ETF Is Beating It With Stocks Trading at Much Lower Valuations",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-trades-25x-earnings-103659306.html",
+      "published": "2026-09-12T10:36:59Z",
+      "ts": 1789209419
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Prediction: Nvidia Will Overtake Apple in Stock Buybacks and Dividends Under New Apple CEO John Ternus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-overtake-apple-stock-103600908.html",
+      "published": "2026-09-12T10:36:00Z",
+      "ts": 1789209360
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The biggest threat to your retirement is based on a myth — it could rip through your nest egg and even ruin your health",
+      "link": "https://finance.yahoo.com/healthcare/articles/biggest-threat-retirement-based-myth-103000574.html",
+      "published": "2026-09-12T10:30:00Z",
+      "ts": 1789209000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Chiron Real Estate (XRN) Turns Second Quarter Into A Pivot Point",
+      "link": "https://finance.yahoo.com/real-estate/articles/chiron-real-estate-xrn-turns-102850781.html",
+      "published": "2026-09-12T10:28:50Z",
+      "ts": 1789208930
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "AUCATZYL Sales Are Exploding, But Autolus (AUTL) Still Isn’t In The Black",
       "link": "https://finance.yahoo.com/healthcare/articles/aucatzyl-sales-exploding-autolus-autl-102145491.html",
       "published": "2026-09-12T10:21:45Z",
       "ts": 1789208505
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Meet the Value Stock That's Crushing the S&P 500. Here's Why It's Still a Great Buy in September.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meet-value-stock-thats-crushing-102000257.html",
-      "published": "2026-09-12T10:20:00Z",
-      "ts": 1789208400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘Basically the Payday Lender of the Middle Class’: Dave Ramsey Rips the Policy a Couple’s Estate Attorney Pitched",
-      "link": "https://finance.yahoo.com/small-business/articles/basically-payday-lender-middle-class-101505002.html",
-      "published": "2026-09-12T10:15:05Z",
-      "ts": 1789208105
     },
     {
       "source": "Yahoo Finance",
@@ -218,27 +239,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
       "published": "Sat, 12 Sep 2026 10:11:01 +0000",
       "ts": 1789207861
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Best CD rates today, Saturday, September 12, 2026: Lock in up to 4.35% APY with an 18-month CD",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-12-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000342.html",
-      "published": "2026-09-12T10:00:00Z",
-      "ts": 1789207200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Saturday, September 12, 2026: Mortgage rates up for the second straight day",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-12-2026-mortgage-rates-up-for-the-second-straight-day-100000822.html",
-      "published": "2026-09-12T10:00:00Z",
-      "ts": 1789207200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "York Water’s (YORW) Rate Hike Just Rewrote Its Earnings Picture",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/york-water-yorw-rate-hike-095848522.html",
-      "published": "2026-09-12T09:58:48Z",
-      "ts": 1789207128
     },
     {
       "source": "Investing Crypto",
