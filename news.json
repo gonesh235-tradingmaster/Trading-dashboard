@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T14:38:41.175119Z",
+  "updated": "2026-09-13T14:51:07.408708Z",
   "count": 60,
   "items": [
     {
@@ -207,10 +207,52 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html",
+      "published": "2026-09-12T13:22:14Z",
+      "ts": 1789219334
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ABM Industries’ (ABM) Cash Flow Jump Masks A Split Business Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/abm-industries-abm-cash-flow-132127889.html",
+      "published": "2026-09-12T13:21:27Z",
+      "ts": 1789219287
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dan Loeb’s Third Point Increased Its Reported Hut 8 Stake and Disclosed Riot Debt Exposure",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dan-loeb-third-point-increased-132101919.html",
+      "published": "2026-09-12T13:21:01Z",
+      "ts": 1789219261
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Netskope’s (NTSK) AI Security Push Is Already Paying Off",
+      "link": "https://finance.yahoo.com/technology/ai/articles/netskope-ntsk-ai-security-push-131420161.html",
+      "published": "2026-09-12T13:14:20Z",
+      "ts": 1789218860
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "5 REITs That Turn Long-Term Leases Into Reliable Dividend Income",
+      "link": "https://finance.yahoo.com/real-estate/articles/5-reits-turn-long-term-131213401.html",
+      "published": "2026-09-12T13:12:13Z",
+      "ts": 1789218733
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "NVIDIA and Digital Realty’s Flexible AI Factory Faces a Test That More Funding Alone Can’t Solve",
       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-digital-realty-flexible-ai-131211843.html",
       "published": "2026-09-12T13:12:11Z",
       "ts": 1789218731
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Some Dividend Growth ETFs Are Beating the Broad Market -- Is It Sustainable?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-growth-etfs-beating-broad-130500806.html",
+      "published": "2026-09-12T13:05:00Z",
+      "ts": 1789218300
     },
     {
       "source": "Yahoo Finance",
@@ -232,48 +274,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-bloomberg-analysts-reveal-130000521.html",
       "published": "2026-09-12T13:00:00Z",
       "ts": 1789218000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Nike's Index Demotion a Warning or a Buying Opportunity?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nikes-index-demotion-warning-buying-125500367.html",
-      "published": "2026-09-12T12:55:00Z",
-      "ts": 1789217700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 Agentic AI Stocks to Own Before AI Changes the World as We Know It",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-agentic-ai-stocks-own-125000827.html",
-      "published": "2026-09-12T12:50:00Z",
-      "ts": 1789217400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "5 easy ways US boomers fry their nest egg and retire poor (even with big savings) — are you making the same mistakes?",
-      "link": "https://finance.yahoo.com/small-business/articles/5-easy-ways-us-boomers-124500767.html",
-      "published": "2026-09-12T12:45:00Z",
-      "ts": 1789217100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Destination XL’s (DXLG) Profit Surge Can’t Outrun Its Traffic Problem",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/destination-xl-dxlg-profit-surge-124327339.html",
-      "published": "2026-09-12T12:43:27Z",
-      "ts": 1789217007
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Cathie Wood Is Selling Google and Buying More Meta Platforms Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-cathie-wood-selling-google-124304062.html",
-      "published": "2026-09-12T12:43:04Z",
-      "ts": 1789216984
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why stocks haven't tanked despite higher bond yields: Chart of the Day",
-      "link": "https://finance.yahoo.com/news/why-stocks-havent-tanked-despite-higher-bond-yields-chart-of-the-day-123346395.html",
-      "published": "2026-09-12T12:33:46Z",
-      "ts": 1789216426
     },
     {
       "source": "Investing Crypto",
