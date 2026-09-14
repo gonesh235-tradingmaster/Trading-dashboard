@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-14T14:12:48.750108Z",
+  "updated": "2026-09-14T14:31:35.557544Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
+      "link": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
+      "published": "Mon, 14 Sep 2026 14:27:48 +0000",
+      "ts": 1789396068
+    },
+    {
+      "source": "FXStreet",
+      "title": "Federal Reserve: One-off September hike view – ING",
+      "link": "https://www.fxstreet.com/news/federal-reserve-one-off-september-hike-view-ing-202609141417",
+      "published": "Mon, 14 Sep 2026 14:17:38 GMT",
+      "ts": 1789395458
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Couples with a big age gap need more money — they have to plan for two retirements",
+      "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 14:15:00 GMT",
+      "ts": 1789395300
+    },
     {
       "source": "CoinDesk",
       "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
       "link": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
       "published": "Mon, 14 Sep 2026 14:06:28 +0000",
       "ts": 1789394788
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitmine Purchases Another $68 Million Of Ethereum",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-another-68-million-140500872.html",
+      "published": "2026-09-14T14:05:00Z",
+      "ts": 1789394700
     },
     {
       "source": "MarketWatch",
@@ -25,10 +53,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Goldman Sachs Just Supercharged Its Humanoid Robot Prediction 5X to 6.5 Million by 2035",
-      "link": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-just-supercharged-humanoid-135551371.html",
-      "published": "2026-09-14T13:55:51Z",
-      "ts": 1789394151
+      "title": "Kalshi To Offer U.S. Stock And Commodities Trading",
+      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-offer-u-stock-commodities-140300562.html",
+      "published": "2026-09-14T14:03:00Z",
+      "ts": 1789394580
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tech stocks today: AI warnings send shock through chip stocks",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
+      "published": "2026-09-14T14:01:34Z",
+      "ts": 1789394494
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Strategy Again Leaves Bitcoin Holdings Unchanged",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-again-leaves-bitcoin-holdings-140100959.html",
+      "published": "2026-09-14T14:01:00Z",
+      "ts": 1789394460
     },
     {
       "source": "FXStreet",
@@ -59,6 +101,13 @@
       "ts": 1789393500
     },
     {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steady at $78k amid M.East tensions, rate hike jitters",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
+      "published": "2026-09-14 13:44:36",
+      "ts": 1789393476
+    },
+    {
       "source": "Yahoo Finance",
       "title": "Stock Market Today: Dow Falls On Surging Oil; Nvidia, Micron, Sandisk Dive On AI Warning (Live Coverage)",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
@@ -67,10 +116,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dominion, NextEra propose $1 billion-a-year Virginia supplier program",
-      "link": "https://finance.yahoo.com/news/dominion-nextera-propose-1-billion-133808617.html",
-      "published": "2026-09-14T13:38:08Z",
-      "ts": 1789393088
+      "title": "Stock Market Today (Sept. 14, 2026): S&P 500 falls on rising oil prices, sagging AI stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
+      "published": "2026-09-14T13:38:32Z",
+      "ts": 1789393112
     },
     {
       "source": "MarketWatch",
@@ -85,13 +134,6 @@
       "link": "https://www.fxstreet.com/news/euro-ecb-credibility-may-offer-support-against-dollar-dbs-202609141335",
       "published": "Mon, 14 Sep 2026 13:35:15 GMT",
       "ts": 1789392915
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "US Pentagon triggers alarm for 150M+ American drivers after massive ID breach — is your identity exposed? Do this now",
-      "link": "https://finance.yahoo.com/technology/articles/us-pentagon-triggers-alarm-150m-133500969.html",
-      "published": "2026-09-14T13:35:00Z",
-      "ts": 1789392900
     },
     {
       "source": "CoinTelegraph",
@@ -122,13 +164,6 @@
       "ts": 1789392214
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Definium, Up 190% This Year, Succeeds Again With Synthetic LSD; Shares Fly",
-      "link": "https://www.investors.com/news/technology/definium-therapeutics-synthetic-lsd-generalized-anxiety-disorder/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T13:23:17Z",
-      "ts": 1789392197
-    },
-    {
       "source": "FXStreet",
       "title": "Sweden: Election uncertainty and fiscal stance – Nomura",
       "link": "https://www.fxstreet.com/news/sweden-election-uncertainty-and-fiscal-stance-nomura-202609141317",
@@ -143,25 +178,11 @@
       "ts": 1789391700
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Chase Home Loans' mortgage rate sale returns for a 3-week run",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-loans-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
-      "published": "2026-09-14T13:01:00Z",
-      "ts": 1789390860
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
       "link": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
       "published": "Mon, 14 Sep 2026 12:58:42 +0000",
       "ts": 1789390722
-    },
-    {
-      "source": "FXStreet",
-      "title": "Federal Reserve: Inflation keeps pressure on – Commerzbank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-inflation-keeps-pressure-on-commerzbank-202609141235",
-      "published": "Mon, 14 Sep 2026 12:35:49 GMT",
-      "ts": 1789389349
     },
     {
       "source": "Investing Forex",
@@ -214,7 +235,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin manages small gains as stocks drop on AI concern, oil surges",
+      "title": "Live updates: Bitcoin climbs as stocks drop, U.S. 10-year yield rises to 5%",
       "link": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
       "published": "Mon, 14 Sep 2026 11:44:21 +0000",
       "ts": 1789386261
@@ -304,13 +325,6 @@
       "ts": 1789378597
     },
     {
-      "source": "CoinDesk",
-      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
-      "published": "Mon, 14 Sep 2026 09:29:57 +0000",
-      "ts": 1789378197
-    },
-    {
       "source": "Investing Forex",
       "title": "BofA says Danish krone weakness driven by flows, not peg fears",
       "link": "https://www.investing.com/news/forex-news/bofa-says-danish-krone-weakness-driven-by-flows-not-peg-fears-93CH-4898992",
@@ -323,13 +337,6 @@
       "link": "https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 09:04:00 GMT",
       "ts": 1789376640
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Massive sinkhole still threatens Nicolas Cage’s $10.5 million Malibu mansion",
-      "link": "https://www.marketwatch.com/story/massive-sinkhole-still-threatens-nicolas-cages-10-5-million-malibu-mansion-ec0c7497?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 09:03:00 GMT",
-      "ts": 1789376580
     },
     {
       "source": "CoinTelegraph",
@@ -374,18 +381,11 @@
       "ts": 1789369674
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steady at $77.7k amid M.East tensions, rate hike jitters",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
-      "published": "2026-09-14 06:30:37",
-      "ts": 1789367437
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 05:31:55 +0000",
-      "ts": 1789363915
+      "published": "Mon, 14 Sep 2026 05:45:00 +0000",
+      "ts": 1789364700
     },
     {
       "source": "CoinTelegraph",
