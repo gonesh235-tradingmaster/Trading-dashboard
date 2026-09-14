@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-14T18:11:17.203503Z",
+  "updated": "2026-09-14T18:31:25.423331Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The next Social Security ‘COLA’ could be the biggest in five years. It’s no cause for celebration.",
+      "link": "https://www.marketwatch.com/story/why-the-social-security-cola-is-much-ado-about-nothing-cf9b90d4?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 18:27:00 GMT",
+      "ts": 1789410420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 18:20:00 GMT",
+      "ts": 1789410000
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/CAD Price Forecast: Buyers challenge 100-day SMA after double-bottom formation",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-buyers-challenge-100-day-sma-after-double-bottom-formation-202609141818",
+      "published": "Mon, 14 Sep 2026 18:18:27 GMT",
+      "ts": 1789409907
+    },
+    {
+      "source": "MarketWatch",
+      "title": "10-year Treasury yield eases back from crucial 5% level despite concerns about AI and the surge in oil prices",
+      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 18:14:00 GMT",
+      "ts": 1789409640
+    },
     {
       "source": "MarketWatch",
       "title": "AI companies say they want to slow down. Here’s how Washington might help apply the brakes.",
@@ -36,13 +64,6 @@
       "link": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 17:42:04 +0000",
       "ts": 1789407724
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why the Social Security COLA is much ado about nothing",
-      "link": "https://www.marketwatch.com/story/why-the-social-security-cola-is-much-ado-about-nothing-cf9b90d4?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 17:36:00 GMT",
-      "ts": 1789407360
     },
     {
       "source": "MarketWatch",
@@ -137,13 +158,6 @@
     },
     {
       "source": "MarketWatch",
-      "title": "10-year Treasury yield briefly tops 5%, hitting its highest level since 2007 as bond-market selloff deepens",
-      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 15:40:00 GMT",
-      "ts": 1789400400
-    },
-    {
-      "source": "MarketWatch",
       "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
       "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 15:30:00 GMT",
@@ -155,13 +169,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-slides-to-monthly-low-as-fed-hike-odds-firm-202609141528",
       "published": "Mon, 14 Sep 2026 15:28:26 GMT",
       "ts": 1789399706
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: JPY underperforms into BoJ – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-jpy-underperforms-into-boj-scotiabank-202609141524",
-      "published": "Mon, 14 Sep 2026 15:24:22 GMT",
-      "ts": 1789399462
     },
     {
       "source": "CoinTelegraph",
@@ -218,13 +225,6 @@
       "link": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
       "published": "Mon, 14 Sep 2026 14:06:28 +0000",
       "ts": 1789394788
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Novo Nordisk is changing its name and its culture to try to compete in the GLP-1 diet-drug wars",
-      "link": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 14:05:00 GMT",
-      "ts": 1789394700
     },
     {
       "source": "Investing Crypto",
@@ -368,8 +368,8 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Sunday, September 13, 2026: Mortgage rates surged higher in the last week",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-rates-surged-higher-in-the-last-week-100000138.html",
+      "title": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week",
+      "link": "https://finance.yahoo.com/markets/article/a-highly-anticipated-fed-meeting-war-worries-and-an-unblinking-stock-market-what-to-watch-this-week-100000843.html",
       "published": "2026-09-13T10:00:00Z",
       "ts": 1789293600
     },
