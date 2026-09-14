@@ -1,13 +1,104 @@
 {
-  "updated": "2026-09-14T09:30:29.554055Z",
+  "updated": "2026-09-14T09:56:59.872130Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "A couple earning $310,000 a year faces a $100,000 debt divide that's putting their marriage plans on hold",
+      "link": "https://finance.yahoo.com/small-business/articles/couple-earning-310-000-faces-094500308.html",
+      "published": "2026-09-14T09:45:00Z",
+      "ts": 1789379100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Billionaire David Einhorn Says SpaceX Is Making History, but Not in a Good Way",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-einhorn-says-spacex-094500185.html",
+      "published": "2026-09-14T09:45:00Z",
+      "ts": 1789379100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
+      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 09:45:00 GMT",
+      "ts": 1789379100
+    },
+    {
+      "source": "CoinDesk",
+      "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
+      "link": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
+      "published": "Mon, 14 Sep 2026 09:43:45 +0000",
+      "ts": 1789379025
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: BoJ guidance crucial for further gains against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-guidance-crucial-for-further-gains-against-us-dollar-ocbc-202609140943",
+      "published": "Mon, 14 Sep 2026 09:43:44 GMT",
+      "ts": 1789379024
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "China urges more FX hedging as strong yuan hits exporters, sources say",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/china-urges-more-fx-hedging-094330539.html",
+      "published": "2026-09-14T09:43:30Z",
+      "ts": 1789379010
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stocks to Watch Monday: Nvidia, Oracle, SoftBank",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/stocks-to-watch-monday-nvidia-oracle-softbank-z8oHxWLCC1rwQAwr0oUs?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-14T09:37:54Z",
+      "ts": 1789378674
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+      "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+      "published": "2026-09-14T09:36:37Z",
+      "ts": 1789378597
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI extend opening gains amid fears of further energy supply risks",
+      "link": "https://www.fxstreet.com/news/wti-extend-opening-gains-amid-fears-of-further-energy-supply-risks-202609140932",
+      "published": "Mon, 14 Sep 2026 09:32:05 GMT",
+      "ts": 1789378325
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc nears yearly lows as Fed rate hike bets boost US Dollar",
+      "link": "https://www.fxstreet.com/news/swiss-franc-nears-yearly-lows-as-fed-rate-hike-bets-boost-us-dollar-202609140932",
+      "published": "Mon, 14 Sep 2026 09:32:02 GMT",
+      "ts": 1789378322
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609140930",
+      "published": "Mon, 14 Sep 2026 09:30:18 GMT",
+      "ts": 1789378218
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "50% of Americans wildly overestimate how much income $100,000 in retirement savings can produce, NIRS finds",
+      "link": "https://finance.yahoo.com/markets/articles/50-americans-wildly-overestimate-much-093000280.html",
+      "published": "2026-09-14T09:30:00Z",
+      "ts": 1789378200
+    },
     {
       "source": "CoinDesk",
       "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
       "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
       "published": "Mon, 14 Sep 2026 09:29:57 +0000",
       "ts": 1789378197
+    },
+    {
+      "source": "FXStreet",
+      "title": "Brent: Supply risks keep prices elevated – Danske Bank",
+      "link": "https://www.fxstreet.com/news/brent-supply-risks-keep-prices-elevated-danske-bank-202609140929",
+      "published": "Mon, 14 Sep 2026 09:29:36 GMT",
+      "ts": 1789378176
     },
     {
       "source": "MarketWatch",
@@ -17,11 +108,11 @@
       "ts": 1789378140
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Buying Tokenized Gold in the UK Might Get Easier. Here's What the FCA Is Weighing",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/buying-tokenized-gold-uk-might-092020480.html",
-      "published": "2026-09-14T09:20:20Z",
-      "ts": 1789377620
+      "source": "Investing Forex",
+      "title": "BofA says Danish krone weakness driven by flows, not peg fears",
+      "link": "https://www.investing.com/news/forex-news/bofa-says-danish-krone-weakness-driven-by-flows-not-peg-fears-93CH-4898992",
+      "published": "2026-09-14 09:23:41",
+      "ts": 1789377821
     },
     {
       "source": "FXStreet",
@@ -94,55 +185,6 @@
       "ts": 1789376134
     },
     {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar: Growth check and scope for dovish repricing – BBH",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-growth-check-and-scope-for-dovish-repricing-bbh-202609140853",
-      "published": "Mon, 14 Sep 2026 08:53:44 GMT",
-      "ts": 1789376024
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Downtrend capped with 0.8185 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-downtrend-capped-with-08185-against-us-dollar-uob-202609140846",
-      "published": "Mon, 14 Sep 2026 08:46:03 GMT",
-      "ts": 1789375563
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro drops against Canadian Dollar amid energy shocks, growing Fed rate hike pressures",
-      "link": "https://www.fxstreet.com/news/euro-drops-against-canadian-dollar-amid-energy-shocks-growing-fed-rate-hike-pressures-202609140843",
-      "published": "Mon, 14 Sep 2026 08:43:02 GMT",
-      "ts": 1789375382
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The math behind Databricks' $190B price doesn't add up—yet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/math-behind-databricks-190b-price-084100123.html",
-      "published": "2026-09-14T08:41:00Z",
-      "ts": 1789375260
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB’s Kazimir: Will consider all options for next policy decision",
-      "link": "https://www.fxstreet.com/news/ecbs-kazimir-will-consider-all-options-for-next-policy-decision-202609140837",
-      "published": "Mon, 14 Sep 2026 08:37:59 GMT",
-      "ts": 1789375079
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Inflation-driven rate risks and premium – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-inflation-driven-rate-risks-and-premium-commerzbank-202609140833",
-      "published": "Mon, 14 Sep 2026 08:33:03 GMT",
-      "ts": 1789374783
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Companies left China to dodge tariffs. Now some are heading back",
-      "link": "https://finance.yahoo.com/economy/policy/articles/companies-left-china-dodge-tariffs-075131494.html",
-      "published": "2026-09-14T08:17:43Z",
-      "ts": 1789373863
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as oil-driven dollar rally weighs",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-oildriven-dollar-rally-weighs-4898927",
@@ -162,13 +204,6 @@
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
       "published": "2026-09-14T08:05:59Z",
       "ts": 1789373159
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Soaring Oil Prices Put Fed on Track for September Rate Hike",
-      "link": "https://finance.yahoo.com/economy/policy/articles/soaring-oil-prices-put-fed-080000535.html",
-      "published": "2026-09-14T08:00:00Z",
-      "ts": 1789372800
     },
     {
       "source": "Investing Forex",
@@ -197,13 +232,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 07:07:54 +0000",
       "ts": 1789369674
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T06:40:45Z",
-      "ts": 1789368045
     },
     {
       "source": "Investing Crypto",
@@ -311,13 +339,6 @@
       "ts": 1789331400
     },
     {
-      "source": "MarketWatch",
-      "title": "How to trade a well-paying job for more work-life balance — without going broke",
-      "link": "https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 20:17:00 GMT",
-      "ts": 1789330620
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
@@ -388,13 +409,6 @@
       "ts": 1789253568
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
-      "published": "2026-09-12T21:37:00Z",
-      "ts": 1789249020
-    },
-    {
       "source": "CoinDesk",
       "title": "OpenAI IPO won't happen this year, says Sam Altman",
       "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
@@ -407,20 +421,6 @@
       "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
       "published": "Sat, 12 Sep 2026 21:09:06 +0000",
       "ts": 1789247346
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-      "published": "Sat, 12 Sep 2026 18:51:04 +0000",
-      "ts": 1789239064
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
-      "published": "2026-09-12 09:52:28",
-      "ts": 1789206748
     }
   ]
 }
