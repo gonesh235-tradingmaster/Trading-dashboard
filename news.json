@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-14T00:14:34.180203Z",
+  "updated": "2026-09-14T00:38:44.306385Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 00:15:37 +0000",
+      "ts": 1789344937
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike",
@@ -263,6 +270,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Descartes (DSGX) Posts Record Q2 Results, Analysts See 30% Upside",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/descartes-dsgx-posts-record-q2-135154400.html",
+      "published": "2026-09-12T13:51:54Z",
+      "ts": 1789221114
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Frequency Electronics (FEIM) Soars After Record Revenue",
       "link": "https://finance.yahoo.com/markets/stocks/articles/frequency-electronics-feim-soars-record-133402974.html",
       "published": "2026-09-12T13:34:02Z",
@@ -295,13 +309,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/abm-industries-abm-cash-flow-132127889.html",
       "published": "2026-09-12T13:21:27Z",
       "ts": 1789219287
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dan Loeb’s Third Point Increased Its Reported Hut 8 Stake and Disclosed Riot Debt Exposure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dan-loeb-third-point-increased-132101919.html",
-      "published": "2026-09-12T13:21:01Z",
-      "ts": 1789219261
     },
     {
       "source": "Investing Crypto",
@@ -393,13 +400,6 @@
       "link": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 11 Sep 2026 16:05:15 +0000",
       "ts": 1789142715
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
-      "link": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 11 Sep 2026 16:03:37 +0000",
-      "ts": 1789142617
     },
     {
       "source": "Investing Forex",
