@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T01:42:17.852739Z",
+  "updated": "2026-09-14T01:54:38.143027Z",
   "count": 60,
   "items": [
     {
@@ -283,6 +283,13 @@
       "ts": 1789228214
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Here's who stands to make money from the Anthropic IPO",
+      "link": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
+      "published": "2026-09-12T15:16:19Z",
+      "ts": 1789226179
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
       "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -291,17 +298,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Genesco (GCO) Proves Smaller Sales Can Still Mean Bigger Profits",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/genesco-gco-proves-smaller-sales-150521690.html",
+      "published": "2026-09-12T15:05:21Z",
+      "ts": 1789225521
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Big Players ravage prediction markets",
+      "link": "https://finance.yahoo.com/markets/options/articles/big-players-ravage-prediction-markets-145400068.html",
+      "published": "2026-09-12T14:54:00Z",
+      "ts": 1789224840
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Victoria’s Secret’s (VSXY) Bra Boom Just Rewrote Its Growth Story",
       "link": "https://finance.yahoo.com/markets/stocks/articles/victoria-secret-vsxy-bra-boom-144101942.html",
       "published": "2026-09-12T14:41:01Z",
       "ts": 1789224061
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "(Sm)all banks should compete on technology, not fear it",
-      "link": "https://finance.yahoo.com/technology/articles/sm-banks-compete-technology-not-143831523.html",
-      "published": "2026-09-12T14:38:31Z",
-      "ts": 1789223911
     },
     {
       "source": "Yahoo Finance",
@@ -330,20 +344,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/wiley-wly-ai-bet-starting-141033390.html",
       "published": "2026-09-12T14:10:33Z",
       "ts": 1789222233
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why AMD Stock Forecast Has Room to Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-forecast-room-140002995.html",
-      "published": "2026-09-12T14:00:02Z",
-      "ts": 1789221602
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Descartes (DSGX) Posts Record Q2 Results, Analysts See 30% Upside",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/descartes-dsgx-posts-record-q2-135154400.html",
-      "published": "2026-09-12T13:51:54Z",
-      "ts": 1789221114
     },
     {
       "source": "Investing Crypto",
