@@ -1,20 +1,27 @@
 {
-  "updated": "2026-09-14T19:55:36.607910Z",
+  "updated": "2026-09-14T20:11:39.779623Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Saudi Arabia may be just days away from not being able to export much oil",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:05:00 GMT",
+      "ts": 1789416300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The future of retirement? Work until you die.",
+      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 19:59:00 GMT",
+      "ts": 1789415940
+    },
     {
       "source": "MarketWatch",
       "title": "Couples with a big age gap need more money — they have to plan for two retirements",
       "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 19:49:00 GMT",
       "ts": 1789415340
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "UK regulators to develop tokenization roadmap after industry feedback",
-      "link": "https://cointelegraph.com/news/uk-regulators-to-develop-tokenization-roadmap-after-industry-feedback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 19:38:28 +0000",
-      "ts": 1789414708
     },
     {
       "source": "MarketWatch",
@@ -129,25 +136,11 @@
       "ts": 1789410420
     },
     {
-      "source": "MarketWatch",
-      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
-      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 18:20:00 GMT",
-      "ts": 1789410000
-    },
-    {
       "source": "FXStreet",
       "title": "USD/CAD Price Forecast: Buyers challenge 100-day SMA after double-bottom formation",
       "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-buyers-challenge-100-day-sma-after-double-bottom-formation-202609141818",
       "published": "Mon, 14 Sep 2026 18:18:27 GMT",
       "ts": 1789409907
-    },
-    {
-      "source": "MarketWatch",
-      "title": "10-year Treasury yield eases back from crucial 5% level despite concerns about AI and the surge in oil prices",
-      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 18:14:00 GMT",
-      "ts": 1789409640
     },
     {
       "source": "CoinDesk",
@@ -318,6 +311,13 @@
       "ts": 1789387667
     },
     {
+      "source": "CoinTelegraph",
+      "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
+      "link": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 11:38:44 +0000",
+      "ts": 1789385924
+    },
+    {
       "source": "Investing Forex",
       "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
@@ -368,6 +368,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Lakeland’s (LAKE) Fire Business Is Carrying A Bumpy Turnaround",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lakeland-lake-fire-business-carrying-110817440.html",
+      "published": "2026-09-13T11:08:17Z",
+      "ts": 1789297697
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back",
       "link": "https://finance.yahoo.com/economy/policy/articles/borderlands-mexico-exports-mexican-made-110000609.html",
       "published": "2026-09-13T11:00:00Z",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/rex-american-resources-rex-notches-103748951.html",
       "published": "2026-09-13T10:37:48Z",
       "ts": 1789295868
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nvidia May Put $10 Billion Into Anthropic’s $2 Trillion IPO. Amazon Already Has Much More Riding on It",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-may-put-10-billion-103618397.html",
-      "published": "2026-09-13T10:36:18Z",
-      "ts": 1789295778
     }
   ]
 }
