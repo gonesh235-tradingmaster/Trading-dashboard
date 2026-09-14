@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-14T05:15:02.863607Z",
+  "updated": "2026-09-14T05:30:07.186630Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Retains bullish bias above mid-$98.00s and 61.8% Fibo.",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-retains-bullish-bias-above-mid-9800s-and-618-fibo-202609140524",
+      "published": "Mon, 14 Sep 2026 05:24:48 GMT",
+      "ts": 1789363488
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies weaken as dollar rises, yen holds near seven-month high",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
+      "published": "2026-09-14 05:22:47",
+      "ts": 1789363367
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "King Charles to host AI chiefs amid industry call to slow development",
+      "link": "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 05:16:59 +0000",
+      "ts": 1789363019
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc weakens as US Dollar gains on Fed rate hike odds",
@@ -78,13 +99,6 @@
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-below-05800-on-rbnz-dovish-signals-202609140257",
       "published": "Mon, 14 Sep 2026 02:57:21 GMT",
       "ts": 1789354641
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD bears have the upper hand below $64.75-$64.85 confluence",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bears-have-the-upper-hand-below-6475-6485-confluence-202609140231",
-      "published": "Mon, 14 Sep 2026 02:31:50 GMT",
-      "ts": 1789353110
     },
     {
       "source": "MarketWatch",
@@ -277,6 +291,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Dear Nike Stock Fans, Mark Your Calendars for September 21",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-nike-stock-fans-mark-193002692.html",
+      "published": "2026-09-12T19:30:02Z",
+      "ts": 1789241402
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Google Just Dropped a Bombshell on AI Spending — Alphabet’s $200 Billion AI Bet Is Starting to Pay Off Big",
       "link": "https://finance.yahoo.com/technology/ai/articles/google-just-dropped-bombshell-ai-185617741.html",
       "published": "2026-09-12T18:56:17Z",
@@ -305,17 +326,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Firefly Aerospace vs. Joby Aviation: Which Industrials Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-joby-aviation-180401509.html",
+      "published": "2026-09-12T18:04:01Z",
+      "ts": 1789236241
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Kenvue Underperforming the Nasdaq?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/kenvue-underperforming-nasdaq-175724434.html",
       "published": "2026-09-12T17:57:24Z",
       "ts": 1789235844
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Some Retirees Keep 25% of Their Portfolio in Cash and Treasuries",
-      "link": "https://finance.yahoo.com/markets/articles/why-retirees-keep-25-portfolio-175152760.html",
-      "published": "2026-09-12T17:51:52Z",
-      "ts": 1789235512
     },
     {
       "source": "Yahoo Finance",
@@ -346,13 +367,6 @@
       "ts": 1789234422
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test",
-      "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pediatric-obesity-171917899.html",
-      "published": "2026-09-12T17:19:17Z",
-      "ts": 1789233557
-    },
-    {
       "source": "CoinTelegraph",
       "title": "North Korea using foreign talent to help infiltrate US companies: Report",
       "link": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -372,13 +386,6 @@
       "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 12 Sep 2026 15:50:14 +0000",
       "ts": 1789228214
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
-      "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 12 Sep 2026 15:12:40 +0000",
-      "ts": 1789225960
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-uk-gdp-beats-dollar-firms-on-cpi-bets-4897403",
       "published": "2026-09-11 09:09:22",
       "ts": 1789117762
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-783k-on-iran-jitters-higher-yields-4894954",
-      "published": "2026-09-10 21:43:48",
-      "ts": 1789076628
     }
   ]
 }
