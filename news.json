@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T02:10:35.840704Z",
+  "updated": "2026-09-14T02:28:52.416856Z",
   "count": 60,
   "items": [
     {
@@ -290,6 +290,13 @@
       "ts": 1789229309
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Samsara (IOT) Crosses $2B, But Growth Comes With A Hardware Tax",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/samsara-iot-crosses-2b-growth-160016151.html",
+      "published": "2026-09-12T16:00:16Z",
+      "ts": 1789228816
+    },
+    {
       "source": "CoinDesk",
       "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
       "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
@@ -312,6 +319,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Rivian Sacrificed Its 2027 Profit Target. Here's Why Investors Should Applaud.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-sacrificed-2027-profit-target-152500464.html",
+      "published": "2026-09-12T15:25:00Z",
+      "ts": 1789226700
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Here's who stands to make money from the Anthropic IPO",
       "link": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
       "published": "2026-09-12T15:16:19Z",
@@ -323,13 +337,6 @@
       "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 12 Sep 2026 15:12:40 +0000",
       "ts": 1789225960
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Pepsi has a convenience-store problem that's not Coca-Cola",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pepsi-convenience-store-problem-thats-150700897.html",
-      "published": "2026-09-12T15:07:00Z",
-      "ts": 1789225620
     },
     {
       "source": "Yahoo Finance",
@@ -358,13 +365,6 @@
       "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-eyes-recovery-1-55-143258369.html",
       "published": "2026-09-12T14:32:58Z",
       "ts": 1789223578
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Smith & Wesson’s (SWBI) Profit Turnaround Comes With a Catch",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/smith-wesson-swbi-profit-turnaround-142440248.html",
-      "published": "2026-09-12T14:24:40Z",
-      "ts": 1789223080
     },
     {
       "source": "Investing Crypto",
