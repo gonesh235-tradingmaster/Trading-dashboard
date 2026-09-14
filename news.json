@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-14T01:54:38.143027Z",
+  "updated": "2026-09-14T02:10:35.840704Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar gains support from higher oil prices amid Saudi pipeline disruptions",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-support-from-higher-oil-prices-amid-saudi-pipeline-disruptions-202609140210",
+      "published": "Mon, 14 Sep 2026 02:10:30 GMT",
+      "ts": 1789351830
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen edges lower vs USD amid Middle East jitters as Fed, BoJ meetings loom",
+      "link": "https://www.fxstreet.com/news/japanese-yen-edges-lower-vs-usd-amid-middle-east-jitters-as-fed-boj-meetings-loom-202609140204",
+      "published": "Mon, 14 Sep 2026 02:04:53 GMT",
+      "ts": 1789351493
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold edges lower below $4,350 on imminent Fed rate hike",
+      "link": "https://www.fxstreet.com/news/gold-edges-lower-below-4-350-on-imminent-fed-rate-hike-202609140200",
+      "published": "Mon, 14 Sep 2026 02:00:32 GMT",
+      "ts": 1789351232
+    },
     {
       "source": "MarketWatch",
       "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
@@ -284,6 +305,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Foxconn Just Delivered a Major Bullish Signal for Nvidia Stock",
+      "link": "https://finance.yahoo.com/technology/ai/articles/foxconn-just-delivered-major-bullish-153002905.html",
+      "published": "2026-09-12T15:30:02Z",
+      "ts": 1789227002
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Here's who stands to make money from the Anthropic IPO",
       "link": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
       "published": "2026-09-12T15:16:19Z",
@@ -298,17 +326,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Pepsi has a convenience-store problem that's not Coca-Cola",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pepsi-convenience-store-problem-thats-150700897.html",
+      "published": "2026-09-12T15:07:00Z",
+      "ts": 1789225620
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Genesco (GCO) Proves Smaller Sales Can Still Mean Bigger Profits",
       "link": "https://finance.yahoo.com/markets/stocks/articles/genesco-gco-proves-smaller-sales-150521690.html",
       "published": "2026-09-12T15:05:21Z",
       "ts": 1789225521
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Big Players ravage prediction markets",
-      "link": "https://finance.yahoo.com/markets/options/articles/big-players-ravage-prediction-markets-145400068.html",
-      "published": "2026-09-12T14:54:00Z",
-      "ts": 1789224840
     },
     {
       "source": "Yahoo Finance",
@@ -339,13 +367,6 @@
       "ts": 1789223080
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Wiley’s (WLY) AI Bet Is Starting To Pay Off",
-      "link": "https://finance.yahoo.com/technology/ai/articles/wiley-wly-ai-bet-starting-141033390.html",
-      "published": "2026-09-12T14:10:33Z",
-      "ts": 1789222233
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
@@ -353,32 +374,11 @@
       "ts": 1789206748
     },
     {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-doji-high-guards-bulls-as-fed-bets-bite-202609112201",
-      "published": "Fri, 11 Sep 2026 22:01:02 GMT",
-      "ts": 1789164062
-    },
-    {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Downside bias capped with 1.2705 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-downside-bias-capped-with-12705-against-us-dollar-uob-202609112121",
-      "published": "Fri, 11 Sep 2026 21:21:00 GMT",
-      "ts": 1789161660
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
       "published": "2026-09-11 21:20:45",
       "ts": 1789161645
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CHF Price Forecast: Bulls break 0.8150 as CPI fuels Fed bets",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-break-08150-as-cpi-fuels-fed-bets-202609112101",
-      "published": "Fri, 11 Sep 2026 21:01:46 GMT",
-      "ts": 1789160506
     },
     {
       "source": "CoinTelegraph",
