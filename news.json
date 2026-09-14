@@ -1,13 +1,55 @@
 {
-  "updated": "2026-09-14T18:56:46.964579Z",
+  "updated": "2026-09-14T19:13:13.092925Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold gets squeezed by 5% Treasury yields as FOMC week begins",
+      "link": "https://www.fxstreet.com/news/gold-gets-squeezed-by-5-treasury-yields-as-fomc-week-begins-202609141909",
+      "published": "Mon, 14 Sep 2026 19:09:48 GMT",
+      "ts": 1789412988
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
+      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 19:01:00 GMT",
+      "ts": 1789412460
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index: Fed pricing supports gains – Scotiabank",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-fed-pricing-supports-gains-scotiabank-202609141858",
+      "published": "Mon, 14 Sep 2026 18:58:14 GMT",
+      "ts": 1789412294
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
+      "link": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 18:56:28 +0000",
+      "ts": 1789412188
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar: Hawkish Fed may offer only limited gains - BBH",
       "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-may-offer-only-limited-gains-bbh-202609141851",
       "published": "Mon, 14 Sep 2026 18:51:09 GMT",
       "ts": 1789411869
+    },
+    {
+      "source": "MarketWatch",
+      "title": "30-year mortgage rate jumps to 7.17% — a nearly 2-year high — in the latest blow to the housing market",
+      "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-jumps-to-7-17-a-nearly-2-year-high-in-the-latest-blow-to-the-housing-market-aadbd63e?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 18:42:00 GMT",
+      "ts": 1789411320
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
+      "link": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 18:37:00 GMT",
+      "ts": 1789411020
     },
     {
       "source": "CoinDesk",
@@ -17,11 +59,46 @@
       "ts": 1789410849
     },
     {
+      "source": "MarketWatch",
+      "title": "Calls for an AI slowdown meet vigorous pushback: Trump calls it a ‘sick conspiracy’",
+      "link": "https://www.marketwatch.com/story/calls-for-an-ai-slowdown-meet-vigorous-pushback-trump-calls-it-a-sick-conspiracy-21b3c1ab?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 18:32:00 GMT",
+      "ts": 1789410720
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The next Social Security ‘COLA’ could be the biggest in five years. It’s no cause for celebration.",
+      "link": "https://www.marketwatch.com/story/why-the-social-security-cola-is-much-ado-about-nothing-cf9b90d4?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 18:27:00 GMT",
+      "ts": 1789410420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 18:20:00 GMT",
+      "ts": 1789410000
+    },
+    {
       "source": "FXStreet",
       "title": "USD/CAD Price Forecast: Buyers challenge 100-day SMA after double-bottom formation",
       "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-buyers-challenge-100-day-sma-after-double-bottom-formation-202609141818",
       "published": "Mon, 14 Sep 2026 18:18:27 GMT",
       "ts": 1789409907
+    },
+    {
+      "source": "MarketWatch",
+      "title": "10-year Treasury yield eases back from crucial 5% level despite concerns about AI and the surge in oil prices",
+      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 18:14:00 GMT",
+      "ts": 1789409640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "As AI companies call for a slowdown, here’s how Washington could pump the brakes",
+      "link": "https://www.marketwatch.com/story/ai-companies-say-they-want-to-slow-down-heres-how-washington-might-help-apply-the-brakes-7db9dabb?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 18:08:00 GMT",
+      "ts": 1789409280
     },
     {
       "source": "CoinDesk",
@@ -38,11 +115,25 @@
       "ts": 1789408212
     },
     {
+      "source": "MarketWatch",
+      "title": "Inflation is sinking your high-yield savings account’s returns. Here’s one way to fight it.",
+      "link": "https://www.marketwatch.com/story/inflation-is-sinking-your-high-yield-savings-accounts-returns-heres-one-way-to-fight-it-6aa798e9?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 17:46:00 GMT",
+      "ts": 1789407960
+    },
+    {
       "source": "CoinTelegraph",
       "title": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
       "link": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 17:42:04 +0000",
       "ts": 1789407724
+    },
+    {
+      "source": "MarketWatch",
+      "title": "There’s every reason to slow AI development. But here’s why it probably won’t happen.",
+      "link": "https://www.marketwatch.com/story/theres-every-reason-to-slow-ai-development-but-heres-why-it-probably-wont-happen-80be6ad6?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 17:22:00 GMT",
+      "ts": 1789406520
     },
     {
       "source": "FXStreet",
@@ -106,13 +197,6 @@
       "link": "https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 15:55:59 +0000",
       "ts": 1789401359
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro area: Supply chain risks and core goods outlook – Societe Generale",
-      "link": "https://www.fxstreet.com/news/euro-area-supply-chain-risks-and-core-goods-outlook-societe-generale-202609141547",
-      "published": "Mon, 14 Sep 2026 15:47:00 GMT",
-      "ts": 1789400820
     },
     {
       "source": "CoinTelegraph",
@@ -227,25 +311,11 @@
       "ts": 1789385924
     },
     {
-      "source": "FXStreet",
-      "title": "Gold falls as Fed rate hike bets, rising Oil push Treasury yields to 5%",
-      "link": "https://www.fxstreet.com/news/gold-starts-the-week-lower-as-traders-await-fed-verdict-202609141130",
-      "published": "Mon, 14 Sep 2026 11:30:18 GMT",
-      "ts": 1789385418
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
       "published": "2026-09-14 10:17:45",
       "ts": 1789381065
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 10:02:00 +0000",
-      "ts": 1789380120
     },
     {
       "source": "Investing Forex",
@@ -298,6 +368,41 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "C3.ai (AI) Just Posted Its Most Promising Quarter In Years",
+      "link": "https://finance.yahoo.com/technology/ai/articles/c3-ai-ai-just-posted-102417897.html",
+      "published": "2026-09-13T10:24:17Z",
+      "ts": 1789295057
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Retiree, 70, lost over $2,000 in an Amazon impersonation scam. How fraudsters got him ‘hook, line and sinker’",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/retiree-70-lost-over-2-101500668.html",
+      "published": "2026-09-13T10:15:00Z",
+      "ts": 1789294500
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Gold.com (GOLD): On A Gold Rush With Cracks Underneath",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gold-com-gold-gold-rush-101442314.html",
+      "published": "2026-09-13T10:14:42Z",
+      "ts": 1789294482
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Signet Jewelers (SIG) Lifts Guidance on Tariff Refunds and Cost Discipline",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/signet-jewelers-sig-lifts-guidance-100950018.html",
+      "published": "2026-09-13T10:09:50Z",
+      "ts": 1789294190
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Matrix Service (MTRX) Returns To Profit, But Can It Last",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/matrix-mtrx-returns-profit-last-100415091.html",
+      "published": "2026-09-13T10:04:15Z",
+      "ts": 1789293855
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Argan’s (AGX) Power Boom Comes With A Margin Catch",
       "link": "https://finance.yahoo.com/energy/articles/argan-agx-power-boom-comes-100043772.html",
       "published": "2026-09-13T10:00:43Z",
@@ -316,111 +421,6 @@
       "link": "https://finance.yahoo.com/markets/article/a-highly-anticipated-fed-meeting-war-worries-and-an-unblinking-stock-market-what-to-watch-this-week-100000843.html",
       "published": "2026-09-13T10:00:00Z",
       "ts": 1789293600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Best CD rates today, Sunday, September 13, 2026: Lock in up to 4.35% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-13-2026-lock-in-up-to-435-apy-100000271.html",
-      "published": "2026-09-13T10:00:00Z",
-      "ts": 1789293600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Phreesia’s (PHR) Profit Turnaround Meets A Cash-Strapped Client Base",
-      "link": "https://finance.yahoo.com/healthcare/articles/phreesia-phr-profit-turnaround-meets-095338755.html",
-      "published": "2026-09-13T09:53:38Z",
-      "ts": 1789293218
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Robinhood (HOOD) Expands Prediction Markets With Crypto.com Partnership",
-      "link": "https://finance.yahoo.com/markets/options/articles/robinhood-hood-expands-prediction-markets-094928525.html",
-      "published": "2026-09-13T09:49:28Z",
-      "ts": 1789292968
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Campbell’s (CPB) Slashes Its Dividend To Fund A Brutal Reset",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-cpb-slashes-dividend-fund-094655845.html",
-      "published": "2026-09-13T09:46:55Z",
-      "ts": 1789292815
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Roivant Sciences Ltd. (ROIV)’s Pulmonary Hypertension Breakthrough Could Transform Its Growth Story",
-      "link": "https://finance.yahoo.com/healthcare/articles/roivant-sciences-ltd-roiv-pulmonary-094515386.html",
-      "published": "2026-09-13T09:45:15Z",
-      "ts": 1789292715
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Speculators turn bullish on yen for first time since February",
-      "link": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
-      "published": "2026-09-13 06:44:32",
-      "ts": 1789281872
-    },
-    {
-      "source": "Investing Forex",
-      "title": "EUR/USD could retest 1.17 after Fed decision - Citi says",
-      "link": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
-      "published": "2026-09-12 22:52:48",
-      "ts": 1789253568
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
-      "published": "2026-09-12 09:52:28",
-      "ts": 1789206748
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
-      "published": "2026-09-11 21:20:45",
-      "ts": 1789161645
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar up on Fed rate hike bets, yen set for first two-week win streak since May",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-yen-slips-dollar-holds-near-weekly-high-4897219",
-      "published": "2026-09-11 19:17:21",
-      "ts": 1789154241
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. 10-year yield briefly breaks 5% for first time since 2024 after Aug CPI",
-      "link": "https://www.investing.com/news/forex-news/european-debt-extended-in-5week-decline-on-rate-hikes-and-surging-oil-prices-4897325",
-      "published": "2026-09-11 13:03:28",
-      "ts": 1789131808
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-783k-on-iran-jitters-higher-yields-4894954",
-      "published": "2026-09-10 21:43:48",
-      "ts": 1789076628
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Uniswap Labs Launches StablePair Hook, a Dynamic-Fee Hook for Stable Pairs",
-      "link": "https://www.investing.com/news/cryptocurrency-news/uniswap-labs-launches-stablepair-hook-a-dynamicfee-hook-for-stable-pairs-4896728",
-      "published": "2026-09-10 19:00:36",
-      "ts": 1789066836
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Tag Markets Names Craig Lund Chief Executive Officer",
-      "link": "https://www.investing.com/news/cryptocurrency-news/tag-markets-names-craig-lund-chief-executive-officer-4896666",
-      "published": "2026-09-10 18:00:35",
-      "ts": 1789063235
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin’s next adoption wave could come from retirement accounts",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoins-next-adoption-wave-could-come-from-retirement-accounts-4896632",
-      "published": "2026-09-10 17:39:05",
-      "ts": 1789061945
     }
   ]
 }
