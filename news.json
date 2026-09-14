@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-14T22:43:21.376740Z",
+  "updated": "2026-09-14T22:55:05.333949Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar gets caught between AI selloff and 5% US yields",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gets-caught-between-ai-selloff-and-5-us-yields-202609142246",
+      "published": "Mon, 14 Sep 2026 22:46:21 GMT",
+      "ts": 1789425981
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
@@ -199,13 +206,6 @@
       "ts": 1789413494
     },
     {
-      "source": "FXStreet",
-      "title": "Gold gets squeezed by 5% Treasury yields as FOMC week begins",
-      "link": "https://www.fxstreet.com/news/gold-gets-squeezed-by-5-treasury-yields-as-fomc-week-begins-202609141909",
-      "published": "Mon, 14 Sep 2026 19:09:48 GMT",
-      "ts": 1789412988
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
       "link": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -382,6 +382,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Amgen (AMGN) Fell 5% on a Drug That Isn’t Even Its Own. Here’s the Lp(a) Bet Now in Question.",
+      "link": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html",
+      "published": "2026-09-13T14:29:16Z",
+      "ts": 1789309756
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
       "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
       "published": "2026-09-13T14:08:37Z",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-posts-record-sales-134612583.html",
       "published": "2026-09-13T13:46:12Z",
       "ts": 1789307172
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Snowflake’s Blowout Quarter Adds to a Software Sector Already Rallying on AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html",
-      "published": "2026-09-13T13:38:32Z",
-      "ts": 1789306712
     }
   ]
 }
