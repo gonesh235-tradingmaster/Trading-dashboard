@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-14T10:43:39.004117Z",
+  "updated": "2026-09-14T10:55:45.487783Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed to raise interest rates to 3.75%-4.00% on September 16 – Reuters poll",
+      "link": "https://www.fxstreet.com/news/fed-to-raise-interest-rates-to-375-400-on-september-16-reuters-poll-202609141051",
+      "published": "Mon, 14 Sep 2026 10:51:18 GMT",
+      "ts": 1789383078
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T10:45:11Z",
+      "ts": 1789382711
+    },
     {
       "source": "Yahoo Finance",
       "title": "Morning Bid: Go slow AI",
@@ -206,13 +220,6 @@
       "ts": 1789377052
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Further downside favoured against US Dollar - ING",
-      "link": "https://www.fxstreet.com/news/euro-further-downside-favoured-against-us-dollar-ing-202609140910",
-      "published": "Mon, 14 Sep 2026 09:10:21 GMT",
-      "ts": 1789377021
-    },
-    {
       "source": "MarketWatch",
       "title": "The very big caveat to the report that Anthropic is profitable for a second straight quarter",
       "link": "https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories",
@@ -246,13 +253,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
       "published": "Mon, 14 Sep 2026 08:07:16 +0000",
       "ts": 1789373236
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
-      "published": "2026-09-14T08:05:59Z",
-      "ts": 1789373159
     },
     {
       "source": "Investing Forex",
