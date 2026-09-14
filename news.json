@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-14T00:38:44.306385Z",
+  "updated": "2026-09-14T00:56:13.908245Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro softens below 1.1600 as markets price in Fed rate hike",
+      "link": "https://www.fxstreet.com/news/euro-softens-below-11600-as-markets-price-in-fed-rate-hike-202609140047",
+      "published": "Mon, 14 Sep 2026 00:47:22 GMT",
+      "ts": 1789346842
+    },
     {
       "source": "CoinTelegraph",
       "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
@@ -270,6 +277,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Wiley’s (WLY) AI Bet Is Starting To Pay Off",
+      "link": "https://finance.yahoo.com/technology/ai/articles/wiley-wly-ai-bet-starting-141033390.html",
+      "published": "2026-09-12T14:10:33Z",
+      "ts": 1789222233
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why AMD Stock Forecast Has Room to Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-forecast-room-140002995.html",
+      "published": "2026-09-12T14:00:02Z",
+      "ts": 1789221602
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Descartes (DSGX) Posts Record Q2 Results, Analysts See 30% Upside",
       "link": "https://finance.yahoo.com/markets/stocks/articles/descartes-dsgx-posts-record-q2-135154400.html",
       "published": "2026-09-12T13:51:54Z",
@@ -295,20 +316,6 @@
       "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-dismisses-bloomberg-terminal-133000792.html",
       "published": "2026-09-12T13:30:00Z",
       "ts": 1789219800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html",
-      "published": "2026-09-12T13:22:14Z",
-      "ts": 1789219334
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ABM Industries’ (ABM) Cash Flow Jump Masks A Split Business Story",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/abm-industries-abm-cash-flow-132127889.html",
-      "published": "2026-09-12T13:21:27Z",
-      "ts": 1789219287
     },
     {
       "source": "Investing Crypto",
@@ -365,13 +372,6 @@
       "link": "https://www.fxstreet.com/news/chinese-yuan-bullish-bias-fades-against-dollar-uob-202609111956",
       "published": "Fri, 11 Sep 2026 19:56:00 GMT",
       "ts": 1789156560
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: Neckline failure keeps bears in control",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-neckline-failure-keeps-bears-in-control-202609111953",
-      "published": "Fri, 11 Sep 2026 19:53:25 GMT",
-      "ts": 1789156405
     },
     {
       "source": "CoinTelegraph",
