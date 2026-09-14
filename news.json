@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:41:35.600524Z",
+  "updated": "2026-09-14T21:54:11.046879Z",
   "count": 60,
   "items": [
     {
@@ -368,6 +368,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
+      "link": "https://finance.yahoo.com/media-advertising/articles/clear-channel-outdoor-cco-grows-132626831.html",
+      "published": "2026-09-13T13:26:26Z",
+      "ts": 1789305986
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Adobe’s (ADBE) AI Bet Is Finally Showing Up In Revenue",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-ai-bet-finally-132237575.html",
+      "published": "2026-09-13T13:22:37Z",
+      "ts": 1789305757
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "LightPath’s (LPTH) Defense Pivot Just Showed Up In The Numbers",
       "link": "https://finance.yahoo.com/markets/stocks/articles/lightpath-lpth-defense-pivot-just-131404572.html",
       "published": "2026-09-13T13:14:04Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-declared-war-doordash-123023266.html",
       "published": "2026-09-13T12:30:23Z",
       "ts": 1789302623
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "IBEX (IBEX) Turns The AI Threat Into Its Biggest Growth Engine",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ibex-ibex-turns-ai-threat-121949823.html",
-      "published": "2026-09-13T12:19:49Z",
-      "ts": 1789301989
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wall Street Is Betting Against Designer Brands (DBI) Even as Profits Double",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-betting-against-designer-121631989.html",
-      "published": "2026-09-13T12:16:31Z",
-      "ts": 1789301791
     }
   ]
 }
