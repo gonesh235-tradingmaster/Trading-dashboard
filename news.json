@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-14T07:11:10.399981Z",
+  "updated": "2026-09-14T07:29:18.215470Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro extends losses against British Pound amid high Oil prices and risk-off markets",
+      "link": "https://www.fxstreet.com/news/euro-extends-losses-against-british-pound-amid-high-oil-prices-and-risk-off-markets-202609140728",
+      "published": "Mon, 14 Sep 2026 07:28:41 GMT",
+      "ts": 1789370921
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: Extends recovery above 20-day EMA",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-extends-recovery-above-20-day-ema-202609140724",
+      "published": "Mon, 14 Sep 2026 07:24:57 GMT",
+      "ts": 1789370697
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar declines as US Dollar gains on Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-slips-due-to-stronger-us-dollar-soaring-oil-prices-202609140723",
+      "published": "Mon, 14 Sep 2026 07:23:09 GMT",
+      "ts": 1789370589
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Bullish but momentum slowing against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bullish-but-momentum-slowing-against-us-dollar-uob-202609140719",
+      "published": "Mon, 14 Sep 2026 07:19:57 GMT",
+      "ts": 1789370397
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 07:07:54 +0000",
+      "ts": 1789369674
+    },
     {
       "source": "FXStreet",
       "title": "Indonesian Rupiah slips due to stronger US Dollar, soaring oil prices",
@@ -45,39 +80,11 @@
       "ts": 1789367944
     },
     {
-      "source": "FXStreet",
-      "title": "ECB’s Lagarde: The current shock is longer-lasting",
-      "link": "https://www.fxstreet.com/news/ecbs-lagarde-the-current-shock-is-longer-lasting-202609140637",
-      "published": "Mon, 14 Sep 2026 06:37:18 GMT",
-      "ts": 1789367838
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold: Sideways near support before FOMC – OCBC",
-      "link": "https://www.fxstreet.com/news/gold-sideways-near-support-before-fomc-ocbc-202609140634",
-      "published": "Mon, 14 Sep 2026 06:34:12 GMT",
-      "ts": 1789367652
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin steady at $77.7k amid M.East tensions, rate hike jitters",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
       "published": "2026-09-14 06:30:37",
       "ts": 1789367437
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brent: Middle East risks support prices – ING",
-      "link": "https://www.fxstreet.com/news/brent-middle-east-risks-support-prices-ing-202609140621",
-      "published": "Mon, 14 Sep 2026 06:21:51 GMT",
-      "ts": 1789366911
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Support at 1.1565 watched against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-support-at-11565-watched-against-us-dollar-uob-202609140613",
-      "published": "Mon, 14 Sep 2026 06:13:22 GMT",
-      "ts": 1789366402
     },
     {
       "source": "CoinTelegraph",
@@ -347,10 +354,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Comcast CFO warns of a rising threat as internet customers depart",
-      "link": "https://finance.yahoo.com/technology/articles/comcast-cfo-sends-stern-warning-193700479.html",
-      "published": "2026-09-12T19:37:00Z",
-      "ts": 1789241820
+      "title": "Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/toast-stock-buy-record-9-195000742.html",
+      "published": "2026-09-12T19:50:00Z",
+      "ts": 1789242600
     },
     {
       "source": "Yahoo Finance",
@@ -386,13 +393,6 @@
       "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
       "published": "Sat, 12 Sep 2026 16:00:00 +0000",
       "ts": 1789228800
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
-      "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 12 Sep 2026 15:50:14 +0000",
-      "ts": 1789228214
     },
     {
       "source": "Investing Crypto",
