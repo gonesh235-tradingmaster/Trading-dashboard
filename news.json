@@ -1,13 +1,83 @@
 {
-  "updated": "2026-09-14T11:45:43.318525Z",
+  "updated": "2026-09-14T12:13:42.767534Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
+      "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 12:11:00 GMT",
+      "ts": 1789387860
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
+      "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
+      "published": "Mon, 14 Sep 2026 12:07:19 +0000",
+      "ts": 1789387639
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Policy-regime shift backs JPY against US Dollar – DBS",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-regime-shift-backs-jpy-against-us-dollar-dbs-202609141206",
+      "published": "Mon, 14 Sep 2026 12:06:48 GMT",
+      "ts": 1789387608
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dutch Bros vs. Uber Technologies: Which Consumer Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dutch-bros-vs-uber-technologies-120157817.html",
+      "published": "2026-09-14T12:01:57Z",
+      "ts": 1789387317
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oil over $100 has JPMorgan stock-market strategists fearing a missing out on a swift decline",
+      "link": "https://www.marketwatch.com/story/oil-over-100-has-jpmorgan-stock-market-strategists-fearing-a-missing-out-on-a-swift-decline-ba32bfd4?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 11:59:00 GMT",
+      "ts": 1789387140
+    },
+    {
+      "source": "CoinDesk",
+      "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
+      "link": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
+      "published": "Mon, 14 Sep 2026 11:58:28 +0000",
+      "ts": 1789387108
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads AI Slowdown Call; Fed Meeting Ahead",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T11:57:49Z",
+      "ts": 1789387069
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: BoE hold, slower QT and dovish repricing risk – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-hold-slower-qt-and-dovish-repricing-risk-bbh-202609141152",
+      "published": "Mon, 14 Sep 2026 11:52:18 GMT",
+      "ts": 1789386738
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen trims gains with Fed and BoJ decisions looming",
+      "link": "https://www.fxstreet.com/news/japanese-yen-trims-gains-with-fed-and-boj-decisions-looming-202609141150",
+      "published": "Mon, 14 Sep 2026 11:50:00 GMT",
+      "ts": 1789386600
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin manages small gains as stocks drop on AI concern, oil surges",
       "link": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
       "published": "Mon, 14 Sep 2026 11:44:21 +0000",
       "ts": 1789386261
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html",
+      "published": "2026-09-14T11:42:45Z",
+      "ts": 1789386165
     },
     {
       "source": "FXStreet",
@@ -29,6 +99,13 @@
       "link": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 11:38:44 +0000",
       "ts": 1789385924
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Carney, locked in US trade war, pitches Canada to global investment titans",
+      "link": "https://finance.yahoo.com/news/carney-locked-us-trade-war-100319218.html",
+      "published": "2026-09-14T11:31:54Z",
+      "ts": 1789385514
     },
     {
       "source": "FXStreet",
@@ -53,20 +130,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T11:24:53Z",
-      "ts": 1789385093
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Euronext, Deutsche Boerse Shares Rise After CEO’s Merger Comments",
-      "link": "https://www.wsj.com/business/deals/euronext-deutsche-boerse-shares-rise-after-ceos-merger-comments-4e96bbe9?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-14T11:24:00Z",
-      "ts": 1789385040
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Gold prices today, Monday, September 14, 2026: Gold sinks following new attacks on Saudi pipeline and more",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-14-2026-gold-sinks-following-new-attacks-on-saudi-pipeline-and-more-111825907.html",
       "published": "2026-09-14T11:18:25Z",
@@ -77,13 +140,6 @@
       "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
       "link": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
       "published": "Mon, 14 Sep 2026 11:15:00 +0000",
-      "ts": 1789384500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
-      "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 11:15:00 GMT",
       "ts": 1789384500
     },
     {
@@ -108,25 +164,11 @@
       "ts": 1789383984
     },
     {
-      "source": "FXStreet",
-      "title": "Brent jumps above $104 as fresh supply threats rattle Oil markets",
-      "link": "https://www.fxstreet.com/news/brent-jumps-above-104-as-fresh-supply-threats-rattle-oil-markets-202609141105",
-      "published": "Mon, 14 Sep 2026 11:05:22 GMT",
-      "ts": 1789383922
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Electra Therapeutics targets $977.6 million valuation in US IPO",
       "link": "https://finance.yahoo.com/healthcare/articles/electra-therapeutics-targets-977-6-110028846.html",
       "published": "2026-09-14T11:00:28Z",
       "ts": 1789383628
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed to raise interest rates to 3.75%-4.00% on September 16 – Reuters poll",
-      "link": "https://www.fxstreet.com/news/fed-to-raise-interest-rates-to-375-400-on-september-16-reuters-poll-202609141051",
-      "published": "Mon, 14 Sep 2026 10:51:18 GMT",
-      "ts": 1789383078
     },
     {
       "source": "Yahoo Finance",
@@ -136,25 +178,11 @@
       "ts": 1789382700
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Morning Bid: Go slow AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/morning-bid-slow-ai-103901753.html",
-      "published": "2026-09-14T10:39:01Z",
-      "ts": 1789382341
-    },
-    {
       "source": "MarketWatch",
       "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
       "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 10:35:00 GMT",
       "ts": 1789382100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "My husband insisted we split our bills 50/50, even though he made more money. Now I do, and he's refusing the same deal",
-      "link": "https://finance.yahoo.com/small-business/articles/husband-insisted-split-bills-50-103000362.html",
-      "published": "2026-09-14T10:30:00Z",
-      "ts": 1789381800
     },
     {
       "source": "Investing Forex",
@@ -283,13 +311,6 @@
       "ts": 1789371488
     },
     {
-      "source": "FXStreet",
-      "title": "Canada CPI Preview: Inflation forecast to remain stable in August",
-      "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-steady-inflation-in-august-202609140730",
-      "published": "Mon, 14 Sep 2026 07:30:00 GMT",
-      "ts": 1789371000
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin trapped in $76K-$81K rectangle: Live breakout levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
@@ -374,13 +395,6 @@
       "ts": 1789333800
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?",
-      "link": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 20:59:00 GMT",
-      "ts": 1789333140
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
@@ -400,20 +414,6 @@
       "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
       "published": "Sun, 13 Sep 2026 17:00:00 +0000",
       "ts": 1789318800
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
-      "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
-      "published": "Sun, 13 Sep 2026 13:00:00 +0000",
-      "ts": 1789304400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-      "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
-      "published": "Sun, 13 Sep 2026 13:00:00 +0000",
-      "ts": 1789304400
     },
     {
       "source": "Investing Forex",
