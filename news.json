@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-14T08:56:12.723527Z",
+  "updated": "2026-09-14T09:11:49.089822Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen weakens as rising risk aversion lifts US Dollar",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-rising-risk-aversion-lifts-us-dollar-202609140910",
+      "published": "Mon, 14 Sep 2026 09:10:52 GMT",
+      "ts": 1789377052
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Further downside favoured against US Dollar - ING",
+      "link": "https://www.fxstreet.com/news/euro-further-downside-favoured-against-us-dollar-ing-202609140910",
+      "published": "Mon, 14 Sep 2026 09:10:21 GMT",
+      "ts": 1789377021
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The very big caveat to the report that Anthropic is profitable for a second straight quarter",
+      "link": "https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 09:04:00 GMT",
+      "ts": 1789376640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Massive sinkhole still threatens Nicolas Cage’s $10.5 million Malibu mansion",
+      "link": "https://www.marketwatch.com/story/massive-sinkhole-still-threatens-nicolas-cages-10-5-million-malibu-mansion-ec0c7497?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 09:03:00 GMT",
+      "ts": 1789376580
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Bears flirt with monthly low, near 1.3480-1.3470 confluence",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bears-flirt-with-monthly-low-near-13480-13470-confluence-202609140901",
+      "published": "Mon, 14 Sep 2026 09:01:21 GMT",
+      "ts": 1789376481
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
+      "link": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 08:57:00 +0000",
+      "ts": 1789376220
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar: Growth check and scope for dovish repricing – BBH",
@@ -43,34 +85,6 @@
       "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-clings-to-gains-above-20800-bearish-bias-intact-ahead-of-boe-boj-202609140827",
       "published": "Mon, 14 Sep 2026 08:27:01 GMT",
       "ts": 1789374421
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB Simkus: Can't exclude action at any meeting",
-      "link": "https://www.fxstreet.com/news/ecb-simkus-cant-exclude-action-at-any-meeting-202609140824",
-      "published": "Mon, 14 Sep 2026 08:24:39 GMT",
-      "ts": 1789374279
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee: Reserve buffer and carry dynamics – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-reserve-buffer-and-carry-dynamics-societe-generale-202609140821",
-      "published": "Mon, 14 Sep 2026 08:21:09 GMT",
-      "ts": 1789374069
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro drops to monthly lows below 1.1550 amid high Oil pisces, Fed hiking bets",
-      "link": "https://www.fxstreet.com/news/euro-drops-to-monthly-lows-below-11550-amid-high-oil-pisces-fed-hiking-bets-202609140819",
-      "published": "Mon, 14 Sep 2026 08:19:46 GMT",
-      "ts": 1789373986
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar underperforms amid risk-off mood",
-      "link": "https://www.fxstreet.com/news/australian-dollar-underperforms-amid-risk-off-mood-202609140817",
-      "published": "Mon, 14 Sep 2026 08:17:26 GMT",
-      "ts": 1789373846
     },
     {
       "source": "Investing Forex",
@@ -141,6 +155,13 @@
       "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 04:55:28 +0000",
       "ts": 1789361728
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold remains depressed above $4,300 as USD sticks to gains amid Fed hike bets, Iran risks",
+      "link": "https://www.fxstreet.com/news/gold-flat-lines-above-4-300-as-firmer-usd-caps-upside-amid-hawkish-central-bank-bets-202609140452",
+      "published": "Mon, 14 Sep 2026 04:52:16 GMT",
+      "ts": 1789361536
     },
     {
       "source": "CoinTelegraph",
@@ -227,25 +248,11 @@
       "ts": 1789329360
     },
     {
-      "source": "MarketWatch",
-      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
-      "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 19:55:00 GMT",
-      "ts": 1789329300
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
       "published": "2026-09-13 19:02:21",
       "ts": 1789326141
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-      "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 19:00:00 GMT",
-      "ts": 1789326000
     },
     {
       "source": "CoinDesk",
@@ -407,13 +414,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
       "published": "Sat, 12 Sep 2026 18:43:33 +0000",
       "ts": 1789238613
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "North Korea using foreign talent to help infiltrate US companies: Report",
-      "link": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 12 Sep 2026 16:08:29 +0000",
-      "ts": 1789229309
     },
     {
       "source": "Investing Crypto",
