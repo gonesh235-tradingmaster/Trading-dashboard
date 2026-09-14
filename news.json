@@ -1,18 +1,74 @@
 {
-  "updated": "2026-09-14T09:56:59.872130Z",
+  "updated": "2026-09-14T10:10:03.721153Z",
   "count": 60,
   "items": [
     {
+      "source": "FXStreet",
+      "title": "British Pound: Downside pressure persists against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-downside-pressure-persists-against-us-dollar-uob-202609141005",
+      "published": "Mon, 14 Sep 2026 10:05:40 GMT",
+      "ts": 1789380340
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 10:00:17 +0000",
+      "ts": 1789380017
+    },
+    {
       "source": "Yahoo Finance",
-      "title": "A couple earning $310,000 a year faces a $100,000 debt divide that's putting their marriage plans on hold",
-      "link": "https://finance.yahoo.com/small-business/articles/couple-earning-310-000-faces-094500308.html",
-      "published": "2026-09-14T09:45:00Z",
-      "ts": 1789379100
+      "title": "HELOC and home equity loan rates today, Monday, September 14, 2026: A 33-basis-point differential",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-differential-100000523.html",
+      "published": "2026-09-14T10:00:00Z",
+      "ts": 1789380000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html",
+      "published": "2026-09-14T10:00:00Z",
+      "ts": 1789380000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The market says a Fed rate hike is a done deal. Here's why it might hold steady.",
+      "link": "https://finance.yahoo.com/economy/policy/article/the-market-says-a-fed-rate-hike-is-a-done-deal-heres-why-it-might-hold-steady-100000374.html",
+      "published": "2026-09-14T10:00:00Z",
+      "ts": 1789380000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
+      "published": "2026-09-14T10:00:00Z",
+      "ts": 1789380000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Best high-yield savings interest rates today, Monday, September 14, 2026: Earn up to 4.10% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-14-2026-earn-up-to-410-apy-100000167.html",
+      "published": "2026-09-14T10:00:00Z",
+      "ts": 1789380000
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
+      "link": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 09:55:35 +0000",
+      "ts": 1789379735
     },
     {
       "source": "Yahoo Finance",
       "title": "Billionaire David Einhorn Says SpaceX Is Making History, but Not in a Good Way",
       "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-einhorn-says-spacex-094500185.html",
+      "published": "2026-09-14T09:45:00Z",
+      "ts": 1789379100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A couple earning $310,000 a year faces a $100,000 debt divide that's putting their marriage plans on hold",
+      "link": "https://finance.yahoo.com/small-business/articles/couple-earning-310-000-faces-094500308.html",
       "published": "2026-09-14T09:45:00Z",
       "ts": 1789379100
     },
@@ -46,13 +102,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stocks to Watch Monday: Nvidia, Oracle, SoftBank",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/stocks-to-watch-monday-nvidia-oracle-softbank-z8oHxWLCC1rwQAwr0oUs?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-14T09:37:54Z",
-      "ts": 1789378674
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
       "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
       "published": "2026-09-14T09:36:37Z",
@@ -78,13 +127,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609140930",
       "published": "Mon, 14 Sep 2026 09:30:18 GMT",
       "ts": 1789378218
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "50% of Americans wildly overestimate how much income $100,000 in retirement savings can produce, NIRS finds",
-      "link": "https://finance.yahoo.com/markets/articles/50-americans-wildly-overestimate-much-093000280.html",
-      "published": "2026-09-14T09:30:00Z",
-      "ts": 1789378200
     },
     {
       "source": "CoinDesk",
@@ -136,13 +178,6 @@
       "ts": 1789377021
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Here’s the minimum net worth you need to be considered ‘upper class’ in your 60s — and the magic step to get you there",
-      "link": "https://finance.yahoo.com/markets/articles/minimum-net-worth-considered-upper-120500252.html",
-      "published": "2026-09-14T09:05:00Z",
-      "ts": 1789376700
-    },
-    {
       "source": "MarketWatch",
       "title": "The very big caveat to the report that Anthropic is profitable for a second straight quarter",
       "link": "https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories",
@@ -157,32 +192,11 @@
       "ts": 1789376580
     },
     {
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Bears flirt with monthly low, near 1.3480-1.3470 confluence",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bears-flirt-with-monthly-low-near-13480-13470-confluence-202609140901",
-      "published": "Mon, 14 Sep 2026 09:01:21 GMT",
-      "ts": 1789376481
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "7 ‘bad assets’ that could cause you to retire poor in America — how many do you own?",
-      "link": "https://finance.yahoo.com/markets/articles/7-bad-assets-could-cause-090000457.html",
-      "published": "2026-09-14T09:00:00Z",
-      "ts": 1789376400
-    },
-    {
       "source": "CoinTelegraph",
       "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
       "link": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 08:57:00 +0000",
       "ts": 1789376220
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Africa's biggest oil refinery opens to public ownership, sparking excitement among retail investors",
-      "link": "https://finance.yahoo.com/energy/articles/africas-biggest-oil-refinery-opens-085534787.html",
-      "published": "2026-09-14T08:55:34Z",
-      "ts": 1789376134
     },
     {
       "source": "Investing Forex",
@@ -379,20 +393,6 @@
       "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
       "published": "Sun, 13 Sep 2026 12:00:00 +0000",
       "ts": 1789300800
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Anthropic chief urges slowdown in AI development to safer pace",
-      "link": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 13 Sep 2026 11:09:54 +0000",
-      "ts": 1789297794
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Revolut says customer data exposed through fake government email",
-      "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 13 Sep 2026 09:27:21 +0000",
-      "ts": 1789291641
     },
     {
       "source": "Investing Forex",
