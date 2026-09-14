@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-14T09:11:49.089822Z",
+  "updated": "2026-09-14T09:30:29.554055Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
+      "published": "Mon, 14 Sep 2026 09:29:57 +0000",
+      "ts": 1789378197
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How investors are reacting to the AI pause calls from Anthropic and other frontier labs",
+      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 09:29:00 GMT",
+      "ts": 1789378140
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Buying Tokenized Gold in the UK Might Get Easier. Here's What the FCA Is Weighing",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/buying-tokenized-gold-uk-might-092020480.html",
+      "published": "2026-09-14T09:20:20Z",
+      "ts": 1789377620
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro advances against Japanese Yen despite BoJ rate hike expectations",
+      "link": "https://www.fxstreet.com/news/euro-advances-against-japanese-yen-despite-boj-rate-hike-expectations-202609140915",
+      "published": "Mon, 14 Sep 2026 09:15:40 GMT",
+      "ts": 1789377340
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen weakens as rising risk aversion lifts US Dollar",
@@ -15,6 +43,13 @@
       "link": "https://www.fxstreet.com/news/euro-further-downside-favoured-against-us-dollar-ing-202609140910",
       "published": "Mon, 14 Sep 2026 09:10:21 GMT",
       "ts": 1789377021
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Here’s the minimum net worth you need to be considered ‘upper class’ in your 60s — and the magic step to get you there",
+      "link": "https://finance.yahoo.com/markets/articles/minimum-net-worth-considered-upper-120500252.html",
+      "published": "2026-09-14T09:05:00Z",
+      "ts": 1789376700
     },
     {
       "source": "MarketWatch",
@@ -38,11 +73,25 @@
       "ts": 1789376481
     },
     {
+      "source": "Yahoo Finance",
+      "title": "7 ‘bad assets’ that could cause you to retire poor in America — how many do you own?",
+      "link": "https://finance.yahoo.com/markets/articles/7-bad-assets-could-cause-090000457.html",
+      "published": "2026-09-14T09:00:00Z",
+      "ts": 1789376400
+    },
+    {
       "source": "CoinTelegraph",
       "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
       "link": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 08:57:00 +0000",
       "ts": 1789376220
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Africa's biggest oil refinery opens to public ownership, sparking excitement among retail investors",
+      "link": "https://finance.yahoo.com/energy/articles/africas-biggest-oil-refinery-opens-085534787.html",
+      "published": "2026-09-14T08:55:34Z",
+      "ts": 1789376134
     },
     {
       "source": "FXStreet",
@@ -66,6 +115,13 @@
       "ts": 1789375382
     },
     {
+      "source": "Yahoo Finance",
+      "title": "The math behind Databricks' $190B price doesn't add up—yet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/math-behind-databricks-190b-price-084100123.html",
+      "published": "2026-09-14T08:41:00Z",
+      "ts": 1789375260
+    },
+    {
       "source": "FXStreet",
       "title": "ECB’s Kazimir: Will consider all options for next policy decision",
       "link": "https://www.fxstreet.com/news/ecbs-kazimir-will-consider-all-options-for-next-policy-decision-202609140837",
@@ -80,11 +136,11 @@
       "ts": 1789374783
     },
     {
-      "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Clings to gains above 208.00; bearish bias intact ahead of BoE/BoJ",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-clings-to-gains-above-20800-bearish-bias-intact-ahead-of-boe-boj-202609140827",
-      "published": "Mon, 14 Sep 2026 08:27:01 GMT",
-      "ts": 1789374421
+      "source": "Yahoo Finance",
+      "title": "Companies left China to dodge tariffs. Now some are heading back",
+      "link": "https://finance.yahoo.com/economy/policy/articles/companies-left-china-dodge-tariffs-075131494.html",
+      "published": "2026-09-14T08:17:43Z",
+      "ts": 1789373863
     },
     {
       "source": "Investing Forex",
@@ -99,6 +155,20 @@
       "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
       "published": "Mon, 14 Sep 2026 08:07:16 +0000",
       "ts": 1789373236
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
+      "published": "2026-09-14T08:05:59Z",
+      "ts": 1789373159
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Soaring Oil Prices Put Fed on Track for September Rate Hike",
+      "link": "https://finance.yahoo.com/economy/policy/articles/soaring-oil-prices-put-fed-080000535.html",
+      "published": "2026-09-14T08:00:00Z",
+      "ts": 1789372800
     },
     {
       "source": "Investing Forex",
@@ -127,6 +197,13 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 07:07:54 +0000",
       "ts": 1789369674
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T06:40:45Z",
+      "ts": 1789368045
     },
     {
       "source": "Investing Crypto",
@@ -241,13 +318,6 @@
       "ts": 1789330620
     },
     {
-      "source": "MarketWatch",
-      "title": "The future of retirement? Work until you die.",
-      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 19:56:00 GMT",
-      "ts": 1789329360
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
@@ -319,69 +389,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "GE Aerospace (GE)’s $12 Billion CPP Acquisition Puts Its Growth Strategy to the Test",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-ge-12-billion-223833187.html",
-      "published": "2026-09-12T22:38:33Z",
-      "ts": 1789252713
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "U.S. Bancorp (USB)’s Dividend Increase Has More Behind It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-dividend-increase-221600807.html",
-      "published": "2026-09-12T22:16:00Z",
-      "ts": 1789251360
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here is Why Piper Sandler Named Q2 Holdings (QTWO) Its Top Pick",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-piper-sandler-named-q2-221304680.html",
-      "published": "2026-09-12T22:13:04Z",
-      "ts": 1789251184
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Block, Inc (XYZ)’s Bank Charter Push Signals Bigger Ambitions in Digital Assets",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/block-inc-xyz-bank-charter-220930244.html",
-      "published": "2026-09-12T22:09:30Z",
-      "ts": 1789250970
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ACV Auctions (ACVA) Was This Week’s Top Stock — Here’s What Drove Gains",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-week-top-220605819.html",
-      "published": "2026-09-12T22:06:05Z",
-      "ts": 1789250765
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
-      "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html",
-      "published": "2026-09-12T22:05:58Z",
-      "ts": 1789250758
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html",
-      "published": "2026-09-12T22:03:11Z",
-      "ts": 1789250591
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Office Expenses Outgrew Revenue Each Year Since 2021",
-      "link": "https://finance.yahoo.com/real-estate/articles/office-expenses-outgrew-revenue-since-215731804.html",
-      "published": "2026-09-12T21:57:31Z",
-      "ts": 1789250251
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar",
-      "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html",
-      "published": "2026-09-12T21:51:16Z",
-      "ts": 1789249876
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
       "published": "2026-09-12T21:37:00Z",
@@ -407,13 +414,6 @@
       "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
       "published": "Sat, 12 Sep 2026 18:51:04 +0000",
       "ts": 1789239064
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
-      "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
-      "published": "Sat, 12 Sep 2026 18:43:33 +0000",
-      "ts": 1789238613
     },
     {
       "source": "Investing Crypto",
