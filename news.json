@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-14T20:27:34.464555Z",
+  "updated": "2026-09-14T20:42:32.402928Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The 10 most overvalued housing markets in America",
+      "link": "https://www.marketwatch.com/story/the-10-most-overvalued-housing-markets-in-america-6d28efdf?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:35:00 GMT",
+      "ts": 1789418100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:30:00 GMT",
+      "ts": 1789417800
+    },
     {
       "source": "FXStreet",
       "title": "Crude Oil spikes on a shut Saudi pipeline and unwinds on Trump's posts",
@@ -127,20 +141,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
       "published": "Mon, 14 Sep 2026 18:34:09 +0000",
       "ts": 1789410849
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Calls for an AI slowdown meet vigorous pushback: Trump calls it a ‘sick conspiracy’",
-      "link": "https://www.marketwatch.com/story/calls-for-an-ai-slowdown-meet-vigorous-pushback-trump-calls-it-a-sick-conspiracy-21b3c1ab?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 18:32:00 GMT",
-      "ts": 1789410720
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The next Social Security ‘COLA’ could be the biggest in five years. It’s no cause for celebration.",
-      "link": "https://www.marketwatch.com/story/why-the-social-security-cola-is-much-ado-about-nothing-cf9b90d4?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 18:27:00 GMT",
-      "ts": 1789410420
     },
     {
       "source": "FXStreet",
@@ -368,6 +368,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Nscale’s Funding Talks Put Dell and Nokia’s AI Supply Relationships to the Test",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nscale-funding-talks-put-dell-114055829.html",
+      "published": "2026-09-13T11:40:55Z",
+      "ts": 1789299655
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Broadcom’s Anthropic Ramp Puts Google’s TPU Business in a Different Light",
+      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-anthropic-ramp-puts-google-113804111.html",
+      "published": "2026-09-13T11:38:04Z",
+      "ts": 1789299484
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Limoneira (LMNR) Leans On Avocados And Land Deals As Lemons Slump",
       "link": "https://finance.yahoo.com/markets/stocks/articles/limoneira-lmnr-leans-avocados-land-112636841.html",
       "published": "2026-09-13T11:26:36Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/academy-sports-aso-turns-tariff-105619595.html",
       "published": "2026-09-13T10:56:19Z",
       "ts": 1789296979
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Firmus Adds OpenAI. NVIDIA and Blackstone Face Different Sides of the AI Buildout",
-      "link": "https://finance.yahoo.com/technology/ai/articles/firmus-adds-openai-nvidia-blackstone-105141455.html",
-      "published": "2026-09-13T10:51:41Z",
-      "ts": 1789296701
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Bold Was Cotton's Move?",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bold-cottons-move-104604438.html",
-      "published": "2026-09-13T10:46:04Z",
-      "ts": 1789296364
     }
   ]
 }
