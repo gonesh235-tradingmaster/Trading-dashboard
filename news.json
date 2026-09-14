@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-14T03:46:41.308742Z",
+  "updated": "2026-09-14T04:10:20.892196Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Trades near 178.50 after rebounding from descending channel bottom",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-trades-near-17850-after-rebounding-from-descending-channel-bottom-202609140409",
+      "published": "Mon, 14 Sep 2026 04:09:00 GMT",
+      "ts": 1789358940
+    },
     {
       "source": "CoinTelegraph",
       "title": "US Republicans send ‘final’ CLARITY Act offer to Democrats",
@@ -78,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-consolidates-above-13500-vs-usd-ahead-of-this-weeks-uk-data-fed-boe-202609140119",
       "published": "Mon, 14 Sep 2026 01:19:13 GMT",
       "ts": 1789348753
-    },
-    {
-      "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7698 vs. 6.7743 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67698-vs-67743-previous-202609140115",
-      "published": "Mon, 14 Sep 2026 01:15:27 GMT",
-      "ts": 1789348527
     },
     {
       "source": "MarketWatch",
@@ -291,6 +291,41 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test",
+      "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pediatric-obesity-171917899.html",
+      "published": "2026-09-12T17:19:17Z",
+      "ts": 1789233557
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A Tale of Two Dollars: Why Dollar General Outpaced Dollar Tree This Quarter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tale-two-dollars-why-dollar-170915358.html",
+      "published": "2026-09-12T17:09:15Z",
+      "ts": 1789232955
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BioMarin Shares Jump 5% After Global Patent Settlement With Ascendis",
+      "link": "https://finance.yahoo.com/healthcare/articles/biomarin-shares-jump-5-global-170253036.html",
+      "published": "2026-09-12T17:02:53Z",
+      "ts": 1789232573
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Gen Z Burnout Could Stall Earning Power — 5 Moves To Get Your Career Back on Track",
+      "link": "https://finance.yahoo.com/small-business/articles/gen-z-burnout-could-stall-170028733.html",
+      "published": "2026-09-12T17:00:28Z",
+      "ts": 1789232428
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Teva’s (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain",
+      "link": "https://finance.yahoo.com/healthcare/articles/teva-teva-125-million-bioxcel-165735518.html",
+      "published": "2026-09-12T16:57:35Z",
+      "ts": 1789232255
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer Explains Why Merck (MRK) Is His Fantasy Defense Stock",
       "link": "https://finance.yahoo.com/healthcare/articles/jim-cramer-explains-why-merck-164911925.html",
       "published": "2026-09-12T16:49:11Z",
@@ -309,41 +344,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/egain-egan-bold-ai-pivot-163723656.html",
       "published": "2026-09-12T16:37:23Z",
       "ts": 1789231043
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BRP (DOO) Posts A Quarterly Loss And Raises Its Outlook Anyway",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brp-doo-posts-quarterly-loss-163212953.html",
-      "published": "2026-09-12T16:32:12Z",
-      "ts": 1789230732
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Is an IPO? Most New Listings Lose Money in Year 1. Here's How I Filter the Winners.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ipo-most-listings-lose-money-163200527.html",
-      "published": "2026-09-12T16:32:00Z",
-      "ts": 1789230720
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mama’s Creations (MAMA) Just Proved Its Growth Spurt Wasn’t A Fluke",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mama-creations-mama-just-proved-162554673.html",
-      "published": "2026-09-12T16:25:54Z",
-      "ts": 1789230354
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Apple, Taiwan Semi Lead Five Stocks Near Buy Points",
-      "link": "https://www.investors.com/news/apple-taiwan-semiconductor-lead-5-top-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-      "published": "2026-09-12T16:22:05Z",
-      "ts": 1789230125
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lululemon’s (LULU) Brand Problems Force Another Steep Guidance Downgrade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-brand-problems-force-161627412.html",
-      "published": "2026-09-12T16:16:27Z",
-      "ts": 1789229787
     },
     {
       "source": "CoinTelegraph",
