@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-14T15:15:17.208758Z",
+  "updated": "2026-09-14T15:42:10.432566Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar slides to monthly low as Fed hike odds firm",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slides-to-monthly-low-as-fed-hike-odds-firm-202609141528",
+      "published": "Mon, 14 Sep 2026 15:28:26 GMT",
+      "ts": 1789399706
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: JPY underperforms into BoJ – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-jpy-underperforms-into-boj-scotiabank-202609141524",
+      "published": "Mon, 14 Sep 2026 15:24:22 GMT",
+      "ts": 1789399462
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Why are AI’s biggest companies suddenly asking to slow down?",
+      "link": "https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 15:18:46 +0000",
+      "ts": 1789399126
+    },
+    {
+      "source": "FXStreet",
+      "title": "Federal Reserve: Forward guidance impact – Commerzbank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-forward-guidance-impact-commerzbank-202609141515",
+      "published": "Mon, 14 Sep 2026 15:15:59 GMT",
+      "ts": 1789398959
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Europe’s AI Trade Hits Reverse",
+      "link": "https://finance.yahoo.com/technology/ai/articles/europe-ai-trade-hits-reverse-151219286.html",
+      "published": "2026-09-14T15:12:19Z",
+      "ts": 1789398739
+    },
     {
       "source": "CoinDesk",
       "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
@@ -17,11 +52,25 @@
       "ts": 1789398429
     },
     {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be worth $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 15:01:00 GMT",
-      "ts": 1789398060
+      "source": "Yahoo Finance",
+      "title": "Walmart (WMT) Delivery Push Gains Momentum with Papa John’s Partnership",
+      "link": "https://finance.yahoo.com/media-advertising/articles/walmart-wmt-delivery-push-gains-150509817.html",
+      "published": "2026-09-14T15:05:09Z",
+      "ts": 1789398309
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/vale-vale-deepens-china-ties-150347789.html",
+      "published": "2026-09-14T15:03:47Z",
+      "ts": 1789398227
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Energy Transfer’s Texas Listing Could Boost Visibility, but Risks Remain",
+      "link": "https://finance.yahoo.com/energy/articles/energy-transfer-texas-listing-could-150231871.html",
+      "published": "2026-09-14T15:02:31Z",
+      "ts": 1789398151
     },
     {
       "source": "Yahoo Finance",
@@ -38,46 +87,11 @@
       "ts": 1789397726
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Enbridge (ENB) Expands its U.S. Oil Footprint with Tallgrass Acquisition",
-      "link": "https://finance.yahoo.com/energy/articles/enbridge-enb-expands-u-oil-145324207.html",
-      "published": "2026-09-14T14:53:24Z",
-      "ts": 1789397604
-    },
-    {
       "source": "FXStreet",
       "title": "Euro: Support seen near 1.15 against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/euro-support-seen-near-115-against-us-dollar-scotiabank-202609141452",
       "published": "Mon, 14 Sep 2026 14:52:12 GMT",
       "ts": 1789397532
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "TotalEnergies (TTE) Sees Long-Term Potential in Angola’s Offshore Oil",
-      "link": "https://finance.yahoo.com/energy/articles/totalenergies-tte-sees-long-term-145201682.html",
-      "published": "2026-09-14T14:52:01Z",
-      "ts": 1789397521
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Marriott International (MAR)’s Middle East Headwind Eases, but War Risks Remain",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marriott-international-mar-middle-east-145034601.html",
-      "published": "2026-09-14T14:50:34Z",
-      "ts": 1789397434
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lyft (LYFT)’s Robotaxi Strategy Takes Shape with Waymo",
-      "link": "https://finance.yahoo.com/technology/articles/lyft-lyft-robotaxi-strategy-takes-144853683.html",
-      "published": "2026-09-14T14:48:53Z",
-      "ts": 1789397333
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Howmet Aerospace (HWM) Faces New Competitive Pressure after GE’s $11.75 Billion CPP Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-hwm-faces-competitive-144705103.html",
-      "published": "2026-09-14T14:47:05Z",
-      "ts": 1789397225
     },
     {
       "source": "FXStreet",
@@ -136,53 +150,11 @@
       "ts": 1789396068
     },
     {
-      "source": "FXStreet",
-      "title": "Federal Reserve: One-off September hike view – ING",
-      "link": "https://www.fxstreet.com/news/federal-reserve-one-off-september-hike-view-ing-202609141417",
-      "published": "Mon, 14 Sep 2026 14:17:38 GMT",
-      "ts": 1789395458
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Couples with a big age gap need more money — they have to plan for two retirements",
-      "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 14:15:00 GMT",
-      "ts": 1789395300
-    },
-    {
       "source": "CoinDesk",
       "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
       "link": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
       "published": "Mon, 14 Sep 2026 14:06:28 +0000",
       "ts": 1789394788
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Novo Nordisk is changing its name and its culture to try to compete in the GLP-1 diet-drug wars",
-      "link": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 14:05:00 GMT",
-      "ts": 1789394700
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: BoE risks in focus – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-risks-in-focus-scotiabank-202609141404",
-      "published": "Mon, 14 Sep 2026 14:04:46 GMT",
-      "ts": 1789394686
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound loses ground as markets brace for Fed, BoE monetary decisions",
-      "link": "https://www.fxstreet.com/news/british-pound-loses-ground-as-markets-brace-for-fed-boe-monetary-decisions-202609141348",
-      "published": "Mon, 14 Sep 2026 13:48:56 GMT",
-      "ts": 1789393736
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s how to prepare your portfolio for the Fed’s next interest-rate moves",
-      "link": "https://www.marketwatch.com/story/heres-how-to-prepare-your-portfolio-for-the-feds-next-interest-rate-moves-ac306c90?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 13:45:00 GMT",
-      "ts": 1789393500
     },
     {
       "source": "Investing Crypto",
@@ -199,13 +171,6 @@
       "ts": 1789393112
     },
     {
-      "source": "MarketWatch",
-      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
-      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 13:37:00 GMT",
-      "ts": 1789393020
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
       "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -220,13 +185,6 @@
       "ts": 1789392600
     },
     {
-      "source": "MarketWatch",
-      "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
-      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 13:15:00 GMT",
-      "ts": 1789391700
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
       "link": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
@@ -239,13 +197,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
       "published": "2026-09-14 12:13:47",
       "ts": 1789388027
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
-      "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 12:11:00 GMT",
-      "ts": 1789387860
     },
     {
       "source": "CoinDesk",
@@ -267,13 +218,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
       "published": "Mon, 14 Sep 2026 12:07:19 +0000",
       "ts": 1789387639
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Oil over $100 has JPMorgan strategists warning stock-market investors against missing out on a sudden turnaround",
-      "link": "https://www.marketwatch.com/story/oil-over-100-has-jpmorgan-stock-market-strategists-fearing-a-missing-out-on-a-swift-decline-ba32bfd4?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 11:59:00 GMT",
-      "ts": 1789387140
     },
     {
       "source": "CoinDesk",
@@ -304,25 +248,11 @@
       "ts": 1789385418
     },
     {
-      "source": "MarketWatch",
-      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-      "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 10:35:00 GMT",
-      "ts": 1789382100
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
       "published": "2026-09-14 10:17:45",
       "ts": 1789381065
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 10:15:00 GMT",
-      "ts": 1789380900
     },
     {
       "source": "CoinTelegraph",
@@ -395,13 +325,6 @@
       "ts": 1789363019
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
-      "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 04:55:28 +0000",
-      "ts": 1789361728
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Another coffeehouse files for Chapter 11 as costs, prices rise",
       "link": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
@@ -421,6 +344,83 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
       "published": "2026-09-13 19:02:21",
       "ts": 1789326141
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Speculators turn bullish on yen for first time since February",
+      "link": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
+      "published": "2026-09-13 06:44:32",
+      "ts": 1789281872
+    },
+    {
+      "source": "Investing Forex",
+      "title": "EUR/USD could retest 1.17 after Fed decision - Citi says",
+      "link": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
+      "published": "2026-09-12 22:52:48",
+      "ts": 1789253568
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
+      "published": "2026-09-12 09:52:28",
+      "ts": 1789206748
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
+      "published": "2026-09-11 21:20:45",
+      "ts": 1789161645
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar up on Fed rate hike bets, yen set for first two-week win streak since May",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-yen-slips-dollar-holds-near-weekly-high-4897219",
+      "published": "2026-09-11 19:17:21",
+      "ts": 1789154241
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. 10-year yield briefly breaks 5% for first time since 2024 after Aug CPI",
+      "link": "https://www.investing.com/news/forex-news/european-debt-extended-in-5week-decline-on-rate-hikes-and-surging-oil-prices-4897325",
+      "published": "2026-09-11 13:03:28",
+      "ts": 1789131808
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-783k-on-iran-jitters-higher-yields-4894954",
+      "published": "2026-09-10 21:43:48",
+      "ts": 1789076628
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Uniswap Labs Launches StablePair Hook, a Dynamic-Fee Hook for Stable Pairs",
+      "link": "https://www.investing.com/news/cryptocurrency-news/uniswap-labs-launches-stablepair-hook-a-dynamicfee-hook-for-stable-pairs-4896728",
+      "published": "2026-09-10 19:00:36",
+      "ts": 1789066836
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Tag Markets Names Craig Lund Chief Executive Officer",
+      "link": "https://www.investing.com/news/cryptocurrency-news/tag-markets-names-craig-lund-chief-executive-officer-4896666",
+      "published": "2026-09-10 18:00:35",
+      "ts": 1789063235
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin’s next adoption wave could come from retirement accounts",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoins-next-adoption-wave-could-come-from-retirement-accounts-4896632",
+      "published": "2026-09-10 17:39:05",
+      "ts": 1789061945
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "When is the Fed's next meeting? See the full schedule for 2026.",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/when-is-the-next-fed-meeting-full-schedule-150709698.html",
+      "published": "2024-06-06T15:07:09Z",
+      "ts": 1717686429
     }
   ]
 }
