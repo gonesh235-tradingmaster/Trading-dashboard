@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-14T05:30:07.186630Z",
+  "updated": "2026-09-14T05:44:42.427947Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound trades higher at start of UK data-packed, BoE policy week",
+      "link": "https://www.fxstreet.com/news/british-pound-trades-higher-at-start-of-uk-data-packed-boe-policy-week-202609140536",
+      "published": "Mon, 14 Sep 2026 05:36:53 GMT",
+      "ts": 1789364213
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 05:31:55 +0000",
+      "ts": 1789363915
+    },
     {
       "source": "FXStreet",
       "title": "WTI Price Forecast: Retains bullish bias above mid-$98.00s and 61.8% Fibo.",
@@ -92,13 +106,6 @@
       "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-shows-resilience-below-382-fibo-near-mid-07100s-202609140306",
       "published": "Mon, 14 Sep 2026 03:06:35 GMT",
       "ts": 1789355195
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar weakens below 0.5800 on RBNZ dovish signals",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-below-05800-on-rbnz-dovish-signals-202609140257",
-      "published": "Mon, 14 Sep 2026 02:57:21 GMT",
-      "ts": 1789354641
     },
     {
       "source": "MarketWatch",
@@ -213,13 +220,6 @@
       "ts": 1789318800
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 13 Sep 2026 16:47:53 +0000",
-      "ts": 1789318073
-    },
-    {
       "source": "CoinDesk",
       "title": "Fed rate hike is about Wall Street, not inflation, says economist",
       "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
@@ -326,10 +326,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Firefly Aerospace vs. Joby Aviation: Which Industrials Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-joby-aviation-180401509.html",
-      "published": "2026-09-12T18:04:01Z",
-      "ts": 1789236241
+      "title": "He Spent Down the Roth First to ‘Save’ the IRA for His Kids. He Left Them a $120,000 Tax Bill Instead of a Tax-Free Account",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/spent-down-roth-first-save-180913692.html",
+      "published": "2026-09-12T18:09:13Z",
+      "ts": 1789236553
     },
     {
       "source": "Yahoo Finance",
