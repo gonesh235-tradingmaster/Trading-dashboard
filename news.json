@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-14T14:31:35.557544Z",
+  "updated": "2026-09-14T14:57:14.597156Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Support seen near 1.15 against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-support-seen-near-115-against-us-dollar-scotiabank-202609141452",
+      "published": "Mon, 14 Sep 2026 14:52:12 GMT",
+      "ts": 1789397532
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Further gains favored against US Dollar - BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-further-gains-favored-against-us-dollar-bbh-202609141442",
+      "published": "Mon, 14 Sep 2026 14:42:31 GMT",
+      "ts": 1789396951
+    },
+    {
+      "source": "FXStreet",
+      "title": "US 10-year yield crosses 5% rubicon as Fed hike looks locked",
+      "link": "https://www.fxstreet.com/news/us-10-year-yield-crosses-5-rubicon-as-fed-hike-looks-locked-202609141440",
+      "published": "Mon, 14 Sep 2026 14:40:28 GMT",
+      "ts": 1789396828
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 14:38:18 +0000",
+      "ts": 1789396698
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
+      "link": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
+      "published": "Mon, 14 Sep 2026 14:37:56 +0000",
+      "ts": 1789396676
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Don’t let perfect be the enemy of Clarity",
+      "link": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
+      "published": "Mon, 14 Sep 2026 14:34:56 +0000",
+      "ts": 1789396496
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro tumbles to one-month low as Fed rate hike bets dominate",
+      "link": "https://www.fxstreet.com/news/euro-tumbles-to-one-month-low-as-fed-rate-hike-bets-dominate-202609141433",
+      "published": "Mon, 14 Sep 2026 14:33:34 GMT",
+      "ts": 1789396414
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canada: Contained inflation pressures support steady BoC – RBC",
+      "link": "https://www.fxstreet.com/news/canada-contained-inflation-pressures-support-steady-boc-rbc-202609141432",
+      "published": "Mon, 14 Sep 2026 14:32:53 GMT",
+      "ts": 1789396373
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "5 habits rich retirees lean on to protect their wealth in retirement",
+      "link": "https://finance.yahoo.com/markets/articles/5-habits-rich-retirees-lean-143000557.html",
+      "published": "2026-09-14T14:30:00Z",
+      "ts": 1789396200
+    },
     {
       "source": "CoinDesk",
       "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
@@ -109,13 +172,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Falls On Surging Oil; Nvidia, Micron, Sandisk Dive On AI Warning (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T13:44:21Z",
-      "ts": 1789393461
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Stock Market Today (Sept. 14, 2026): S&P 500 falls on rising oil prices, sagging AI stocks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
       "published": "2026-09-14T13:38:32Z",
@@ -127,13 +183,6 @@
       "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 13:37:00 GMT",
       "ts": 1789393020
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: ECB credibility may offer support against Dollar – DBS",
-      "link": "https://www.fxstreet.com/news/euro-ecb-credibility-may-offer-support-against-dollar-dbs-202609141335",
-      "published": "Mon, 14 Sep 2026 13:35:15 GMT",
-      "ts": 1789392915
     },
     {
       "source": "CoinTelegraph",
@@ -148,27 +197,6 @@
       "link": "https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 13:30:00 +0000",
       "ts": 1789392600
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold: CTA liquidation and dip-buying narrative – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-cta-liquidation-and-dip-buying-narrative-td-securities-202609141326",
-      "published": "Mon, 14 Sep 2026 13:26:21 GMT",
-      "ts": 1789392381
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar remains under pressure following mixed inflation data",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-following-mixed-inflation-data-202609141323",
-      "published": "Mon, 14 Sep 2026 13:23:34 GMT",
-      "ts": 1789392214
-    },
-    {
-      "source": "FXStreet",
-      "title": "Sweden: Election uncertainty and fiscal stance – Nomura",
-      "link": "https://www.fxstreet.com/news/sweden-election-uncertainty-and-fiscal-stance-nomura-202609141317",
-      "published": "Mon, 14 Sep 2026 13:17:36 GMT",
-      "ts": 1789391856
     },
     {
       "source": "MarketWatch",
@@ -249,7 +277,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold starts the week lower as traders await Fed verdict",
+      "title": "Gold falls as Fed rate hike bets, rising Oil push Treasury yields to 5%",
       "link": "https://www.fxstreet.com/news/gold-starts-the-week-lower-as-traders-await-fed-verdict-202609141130",
       "published": "Mon, 14 Sep 2026 11:30:18 GMT",
       "ts": 1789385418
@@ -283,13 +311,6 @@
       "ts": 1789380900
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
-      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
-      "published": "Mon, 14 Sep 2026 10:09:41 +0000",
-      "ts": 1789380581
-    },
-    {
       "source": "CoinTelegraph",
       "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
       "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -309,13 +330,6 @@
       "link": "https://www.investing.com/news/forex-news/bofa-sees-dollar-sideways-into-yearend-despite-fed-hike-bets-93CH-4899034",
       "published": "2026-09-14 09:55:05",
       "ts": 1789379705
-    },
-    {
-      "source": "CoinDesk",
-      "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
-      "link": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
-      "published": "Mon, 14 Sep 2026 09:43:45 +0000",
-      "ts": 1789379025
     },
     {
       "source": "Yahoo Finance",
@@ -360,13 +374,6 @@
       "ts": 1789373159
     },
     {
-      "source": "FXStreet",
-      "title": "Breaking: Canada hedline CPI rose 3.0% YoY in August",
-      "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-steady-inflation-in-august-202609140730",
-      "published": "Mon, 14 Sep 2026 07:30:00 GMT",
-      "ts": 1789371000
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin trapped in $76K-$81K rectangle: Live breakout levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
@@ -379,13 +386,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 07:07:54 +0000",
       "ts": 1789369674
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 05:45:00 +0000",
-      "ts": 1789364700
     },
     {
       "source": "CoinTelegraph",
