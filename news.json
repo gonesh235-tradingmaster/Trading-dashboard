@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-14T23:24:03.976354Z",
+  "updated": "2026-09-14T23:37:03.166804Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Saudi Arabia issues emergency alert for Khamis Mushait, Abha",
+      "link": "https://www.fxstreet.com/news/saudi-arabia-issues-emergency-alert-for-khamis-mushait-abha-202609142332",
+      "published": "Mon, 14 Sep 2026 23:32:35 GMT",
+      "ts": 1789428755
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+      "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+      "published": "Mon, 14 Sep 2026 23:30:40 +0000",
+      "ts": 1789428640
+    },
     {
       "source": "MarketWatch",
       "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
@@ -185,13 +199,6 @@
       "ts": 1789416849
     },
     {
-      "source": "FXStreet",
-      "title": "Forex Today: US Dollar firms ahead of UK jobs and a midweek Fed decision",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-uk-jobs-and-a-midweek-fed-decision-202609141929",
-      "published": "Mon, 14 Sep 2026 19:29:51 GMT",
-      "ts": 1789414191
-    },
-    {
       "source": "CoinDesk",
       "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
       "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
@@ -290,13 +297,6 @@
       "ts": 1789396496
     },
     {
-      "source": "CoinDesk",
-      "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
-      "link": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
-      "published": "Mon, 14 Sep 2026 14:27:48 +0000",
-      "ts": 1789396068
-    },
-    {
       "source": "Yahoo Finance",
       "title": "National specialty clothing chain closing all its stores",
       "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
@@ -389,6 +389,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Zcash Price Prediction: Bearish RSI Divergence Sets Stage for Pullback to $850",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-prediction-bearish-rsi-160848407.html",
+      "published": "2026-09-13T16:08:48Z",
+      "ts": 1789315728
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Pay is back on the rise for job switchers, even in low-hire job market",
       "link": "https://finance.yahoo.com/economy/article/pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
       "published": "2026-09-13T15:45:04Z",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html",
       "published": "2026-09-13T14:29:16Z",
       "ts": 1789309756
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
-      "published": "2026-09-13T14:08:37Z",
-      "ts": 1789308517
     }
   ]
 }
