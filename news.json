@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-14T23:09:23.101550Z",
+  "updated": "2026-09-14T23:24:03.976354Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 23:19:00 GMT",
+      "ts": 1789427940
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold falls below $4,300 as higher US yields bolster Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/gold-falls-below-4-300-as-higher-us-yields-bolster-fed-rate-hike-bets-202609142314",
+      "published": "Mon, 14 Sep 2026 23:14:36 GMT",
+      "ts": 1789427676
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar gets caught between AI selloff and 5% US yields",
@@ -171,25 +185,11 @@
       "ts": 1789416849
     },
     {
-      "source": "MarketWatch",
-      "title": "Saudi Arabia may be just days away from not being able to export much oil",
-      "link": "https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 20:05:00 GMT",
-      "ts": 1789416300
-    },
-    {
       "source": "FXStreet",
       "title": "Forex Today: US Dollar firms ahead of UK jobs and a midweek Fed decision",
       "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-uk-jobs-and-a-midweek-fed-decision-202609141929",
       "published": "Mon, 14 Sep 2026 19:29:51 GMT",
       "ts": 1789414191
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: Neckline rejection keeps $60 in sight",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-neckline-rejection-keeps-60-in-sight-202609141925",
-      "published": "Mon, 14 Sep 2026 19:25:56 GMT",
-      "ts": 1789413956
     },
     {
       "source": "CoinDesk",
@@ -297,6 +297,13 @@
       "ts": 1789396068
     },
     {
+      "source": "Yahoo Finance",
+      "title": "National specialty clothing chain closing all its stores",
+      "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
+      "published": "2026-09-14T14:07:00Z",
+      "ts": 1789394820
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
       "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -382,6 +389,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Pay is back on the rise for job switchers, even in low-hire job market",
+      "link": "https://finance.yahoo.com/economy/article/pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
+      "published": "2026-09-13T15:45:04Z",
+      "ts": 1789314304
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bank exits squeeze truck financing for mid-size fleets",
+      "link": "https://finance.yahoo.com/small-business/articles/bank-exits-squeeze-truck-financing-154006871.html",
+      "published": "2026-09-13T15:40:06Z",
+      "ts": 1789314006
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia Is Focused on Redefining AI Infrastructure as an Income-Generating Asset",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-focused-redefining-ai-infrastructure-153002085.html",
+      "published": "2026-09-13T15:30:02Z",
+      "ts": 1789313402
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Amgen (AMGN) Fell 5% on a Drug That Isn’t Even Its Own. Here’s the Lp(a) Bet Now in Question.",
       "link": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html",
       "published": "2026-09-13T14:29:16Z",
@@ -393,34 +421,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
       "published": "2026-09-13T14:08:37Z",
       "ts": 1789308517
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
-      "published": "2026-09-13T14:02:10Z",
-      "ts": 1789308130
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-worth-buying-shorting-140002756.html",
-      "published": "2026-09-13T14:00:02Z",
-      "ts": 1789308002
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-grows-134921293.html",
-      "published": "2026-09-13T13:49:21Z",
-      "ts": 1789307361
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The RealReal (REAL) Posts Record Sales, But The Losses Keep Growing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-posts-record-sales-134612583.html",
-      "published": "2026-09-13T13:46:12Z",
-      "ts": 1789307172
     }
   ]
 }
