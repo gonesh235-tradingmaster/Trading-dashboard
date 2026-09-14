@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-14T10:27:20.939297Z",
+  "updated": "2026-09-14T10:43:39.004117Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Morning Bid: Go slow AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/morning-bid-slow-ai-103901753.html",
+      "published": "2026-09-14T10:39:01Z",
+      "ts": 1789382341
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "If You'd Invested $5,000 in the S&P 500 at the Great Recession Bottom, Here's What You'd Have Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-5-000-p-103800385.html",
+      "published": "2026-09-14T10:38:00Z",
+      "ts": 1789382280
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
+      "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 10:35:00 GMT",
+      "ts": 1789382100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "My husband insisted we split our bills 50/50, even though he made more money. Now I do, and he's refusing the same deal",
+      "link": "https://finance.yahoo.com/small-business/articles/husband-insisted-split-bills-50-103000362.html",
+      "published": "2026-09-14T10:30:00Z",
+      "ts": 1789381800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Hewlett Packard Enterprise (HPE) Surges 19% in a Week — What to Watch For Next?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-surges-102301377.html",
+      "published": "2026-09-14T10:23:01Z",
+      "ts": 1789381381
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
+      "published": "2026-09-14 10:17:45",
+      "ts": 1789381065
+    },
     {
       "source": "Yahoo Finance",
       "title": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
@@ -10,18 +52,18 @@
       "ts": 1789380918
     },
     {
+      "source": "Yahoo Finance",
+      "title": "‘Black Swan’ investor backs Michael Burry’s AI warning: ‘Euphoric rally’ comes before historic crash. Protect your money",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/black-swan-investor-backs-michael-101500434.html",
+      "published": "2026-09-14T10:15:00Z",
+      "ts": 1789380900
+    },
+    {
       "source": "MarketWatch",
       "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
       "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 10:15:00 GMT",
       "ts": 1789380900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How luxury brands are redesigning packaging for sustainability",
-      "link": "https://finance.yahoo.com/media-advertising/articles/luxury-brands-redesigning-packaging-sustainability-101346329.html",
-      "published": "2026-09-14T10:13:46Z",
-      "ts": 1789380826
     },
     {
       "source": "FXStreet",
@@ -38,6 +80,13 @@
       "ts": 1789380581
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Analysis-Defense, space firms turn to SPACs as investor appetite soars",
+      "link": "https://finance.yahoo.com/news/analysis-defense-space-firms-turn-100910914.html",
+      "published": "2026-09-14T10:09:10Z",
+      "ts": 1789380550
+    },
+    {
       "source": "FXStreet",
       "title": "British Pound: Downside pressure persists against US Dollar - UOB",
       "link": "https://www.fxstreet.com/news/british-pound-downside-pressure-persists-against-us-dollar-uob-202609141005",
@@ -45,60 +94,11 @@
       "ts": 1789380340
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Analysis-Bitcoin's late summer rally set to face off against the Fed, Congress",
-      "link": "https://finance.yahoo.com/news/analysis-bitcoins-summer-rally-set-100329922.html",
-      "published": "2026-09-14T10:05:05Z",
-      "ts": 1789380305
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 10:00:21",
-      "ts": 1789380021
-    },
-    {
       "source": "CoinTelegraph",
       "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
       "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 10:00:17 +0000",
       "ts": 1789380017
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "HELOC and home equity loan rates today, Monday, September 14, 2026: A 33-basis-point differential",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-differential-100000523.html",
-      "published": "2026-09-14T10:00:00Z",
-      "ts": 1789380000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html",
-      "published": "2026-09-14T10:00:00Z",
-      "ts": 1789380000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
-      "published": "2026-09-14T10:00:00Z",
-      "ts": 1789380000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The market says a Fed rate hike is a done deal. Here's why it might hold steady.",
-      "link": "https://finance.yahoo.com/economy/policy/article/the-market-says-a-fed-rate-hike-is-a-done-deal-heres-why-it-might-hold-steady-100000374.html",
-      "published": "2026-09-14T10:00:00Z",
-      "ts": 1789380000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Walt Disney borrowed $60,000 against his life insurance to build Disneyland — how policy loans work",
-      "link": "https://finance.yahoo.com/small-business/articles/walt-disney-borrowed-60-000-100000051.html",
-      "published": "2026-09-14T10:00:00Z",
-      "ts": 1789380000
     },
     {
       "source": "CoinTelegraph",
@@ -134,6 +134,13 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-boj-guidance-crucial-for-further-gains-against-us-dollar-ocbc-202609140943",
       "published": "Mon, 14 Sep 2026 09:43:44 GMT",
       "ts": 1789379024
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+      "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+      "published": "2026-09-14T09:36:37Z",
+      "ts": 1789378597
     },
     {
       "source": "FXStreet",
@@ -358,13 +365,6 @@
       "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 20:40:00 GMT",
       "ts": 1789332000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
-      "link": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 20:30:00 GMT",
-      "ts": 1789331400
     },
     {
       "source": "Investing Crypto",
