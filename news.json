@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T05:44:42.427947Z",
+  "updated": "2026-09-14T05:56:12.828422Z",
   "count": 60,
   "items": [
     {
@@ -270,6 +270,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html",
+      "published": "2026-09-12T21:51:16Z",
+      "ts": 1789249876
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
       "published": "2026-09-12T21:37:00Z",
@@ -326,10 +333,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "He Spent Down the Roth First to ‘Save’ the IRA for His Kids. He Left Them a $120,000 Tax Bill Instead of a Tax-Free Account",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/spent-down-roth-first-save-180913692.html",
-      "published": "2026-09-12T18:09:13Z",
-      "ts": 1789236553
+      "title": "Worried About RMDs in Retirement? 3 Key Moves to Lower the Hassle Factors.",
+      "link": "https://finance.yahoo.com/markets/articles/worried-rmds-retirement-3-key-182600115.html",
+      "published": "2026-09-12T18:26:00Z",
+      "ts": 1789237560
     },
     {
       "source": "Yahoo Finance",
@@ -358,13 +365,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-stock-performance-compared-other-174300551.html",
       "published": "2026-09-12T17:43:00Z",
       "ts": 1789234980
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Ingersoll Rand Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ingersoll-rand-stock-underperforming-p-173342076.html",
-      "published": "2026-09-12T17:33:42Z",
-      "ts": 1789234422
     },
     {
       "source": "CoinTelegraph",
