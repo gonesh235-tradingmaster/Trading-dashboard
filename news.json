@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-14T20:11:39.779623Z",
+  "updated": "2026-09-14T20:27:34.464555Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Crude Oil spikes on a shut Saudi pipeline and unwinds on Trump's posts",
+      "link": "https://www.fxstreet.com/news/crude-oil-spikes-on-a-shut-saudi-pipeline-and-unwinds-on-trumps-posts-202609142014",
+      "published": "Mon, 14 Sep 2026 20:14:09 GMT",
+      "ts": 1789416849
+    },
     {
       "source": "MarketWatch",
       "title": "Saudi Arabia may be just days away from not being able to export much oil",
@@ -185,13 +192,6 @@
       "ts": 1789403840
     },
     {
-      "source": "FXStreet",
-      "title": "The Dollar Index climbs on Fed hike bets and stalls at its usual ceiling",
-      "link": "https://www.fxstreet.com/news/the-dollar-index-climbs-on-fed-hike-bets-and-stalls-at-its-usual-ceiling-202609141622",
-      "published": "Mon, 14 Sep 2026 16:22:13 GMT",
-      "ts": 1789402933
-    },
-    {
       "source": "CoinTelegraph",
       "title": "S&P Global backs Kaiko as Series B reaches $110M",
       "link": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -368,6 +368,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Limoneira (LMNR) Leans On Avocados And Land Deals As Lemons Slump",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/limoneira-lmnr-leans-avocados-land-112636841.html",
+      "published": "2026-09-13T11:26:36Z",
+      "ts": 1789298796
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Amazon’s Zoox Enters San Francisco’s Crowded Robotaxi Market, Taking Direct Aim at Waymo and Tesla",
+      "link": "https://finance.yahoo.com/technology/articles/amazon-zoox-enters-san-francisco-112558972.html",
+      "published": "2026-09-13T11:25:58Z",
+      "ts": 1789298758
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "3 Stocks to Bet Against If You Want to Invest Like Michael Burry",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-bet-against-want-112059669.html",
+      "published": "2026-09-13T11:20:59Z",
+      "ts": 1789298459
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Lakeland’s (LAKE) Fire Business Is Carrying A Bumpy Turnaround",
       "link": "https://finance.yahoo.com/markets/stocks/articles/lakeland-lake-fire-business-carrying-110817440.html",
       "published": "2026-09-13T11:08:17Z",
@@ -400,27 +421,6 @@
       "link": "https://finance.yahoo.com/markets/commodities/articles/bold-cottons-move-104604438.html",
       "published": "2026-09-13T10:46:04Z",
       "ts": 1789296364
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This 1 Costco item has skyrocketed 125% in price over just 2 years. And the retail behemoth is limiting member purchases",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/1-costco-item-skyrocketed-125-104500067.html",
-      "published": "2026-09-13T10:45:00Z",
-      "ts": 1789296300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SpaceX Says a Mystery AI Customer Adds $1.11 Billion a Month. Google Shows How Fast Compute Is Growing",
-      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-says-mystery-ai-customer-104230984.html",
-      "published": "2026-09-13T10:42:30Z",
-      "ts": 1789296150
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "REX American Resources (REX) Notches A Record Quarter, Then Doubts Creep In",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rex-american-resources-rex-notches-103748951.html",
-      "published": "2026-09-13T10:37:48Z",
-      "ts": 1789295868
     }
   ]
 }
