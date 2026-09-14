@@ -1,13 +1,62 @@
 {
-  "updated": "2026-09-14T10:10:03.721153Z",
+  "updated": "2026-09-14T10:27:20.939297Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
+      "link": "https://finance.yahoo.com/markets/stocks/article/ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html",
+      "published": "2026-09-14T10:15:18Z",
+      "ts": 1789380918
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 10:15:00 GMT",
+      "ts": 1789380900
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How luxury brands are redesigning packaging for sustainability",
+      "link": "https://finance.yahoo.com/media-advertising/articles/luxury-brands-redesigning-packaging-sustainability-101346329.html",
+      "published": "2026-09-14T10:13:46Z",
+      "ts": 1789380826
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/CAD Price Forecast: US Dollar gains momentum and targets 1.3940 area",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-us-dollar-gains-momentum-and-targets-13940-area-202609141010",
+      "published": "Mon, 14 Sep 2026 10:10:42 GMT",
+      "ts": 1789380642
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
+      "published": "Mon, 14 Sep 2026 10:09:41 +0000",
+      "ts": 1789380581
+    },
     {
       "source": "FXStreet",
       "title": "British Pound: Downside pressure persists against US Dollar - UOB",
       "link": "https://www.fxstreet.com/news/british-pound-downside-pressure-persists-against-us-dollar-uob-202609141005",
       "published": "Mon, 14 Sep 2026 10:05:40 GMT",
       "ts": 1789380340
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Analysis-Bitcoin's late summer rally set to face off against the Fed, Congress",
+      "link": "https://finance.yahoo.com/news/analysis-bitcoins-summer-rally-set-100329922.html",
+      "published": "2026-09-14T10:05:05Z",
+      "ts": 1789380305
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
+      "published": "2026-09-14 10:00:21",
+      "ts": 1789380021
     },
     {
       "source": "CoinTelegraph",
@@ -32,13 +81,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "The market says a Fed rate hike is a done deal. Here's why it might hold steady.",
-      "link": "https://finance.yahoo.com/economy/policy/article/the-market-says-a-fed-rate-hike-is-a-done-deal-heres-why-it-might-hold-steady-100000374.html",
-      "published": "2026-09-14T10:00:00Z",
-      "ts": 1789380000
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
       "published": "2026-09-14T10:00:00Z",
@@ -46,8 +88,15 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Best high-yield savings interest rates today, Monday, September 14, 2026: Earn up to 4.10% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-14-2026-earn-up-to-410-apy-100000167.html",
+      "title": "The market says a Fed rate hike is a done deal. Here's why it might hold steady.",
+      "link": "https://finance.yahoo.com/economy/policy/article/the-market-says-a-fed-rate-hike-is-a-done-deal-heres-why-it-might-hold-steady-100000374.html",
+      "published": "2026-09-14T10:00:00Z",
+      "ts": 1789380000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Walt Disney borrowed $60,000 against his life insurance to build Disneyland — how policy loans work",
+      "link": "https://finance.yahoo.com/small-business/articles/walt-disney-borrowed-60-000-100000051.html",
       "published": "2026-09-14T10:00:00Z",
       "ts": 1789380000
     },
@@ -59,18 +108,11 @@
       "ts": 1789379735
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Billionaire David Einhorn Says SpaceX Is Making History, but Not in a Good Way",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-einhorn-says-spacex-094500185.html",
-      "published": "2026-09-14T09:45:00Z",
-      "ts": 1789379100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A couple earning $310,000 a year faces a $100,000 debt divide that's putting their marriage plans on hold",
-      "link": "https://finance.yahoo.com/small-business/articles/couple-earning-310-000-faces-094500308.html",
-      "published": "2026-09-14T09:45:00Z",
-      "ts": 1789379100
+      "source": "Investing Forex",
+      "title": "BofA sees dollar sideways into year-end despite Fed hike bets",
+      "link": "https://www.investing.com/news/forex-news/bofa-sees-dollar-sideways-into-yearend-despite-fed-hike-bets-93CH-4899034",
+      "published": "2026-09-14 09:55:05",
+      "ts": 1789379705
     },
     {
       "source": "MarketWatch",
@@ -92,20 +134,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-boj-guidance-crucial-for-further-gains-against-us-dollar-ocbc-202609140943",
       "published": "Mon, 14 Sep 2026 09:43:44 GMT",
       "ts": 1789379024
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "China urges more FX hedging as strong yuan hits exporters, sources say",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/china-urges-more-fx-hedging-094330539.html",
-      "published": "2026-09-14T09:43:30Z",
-      "ts": 1789379010
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
-      "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
-      "published": "2026-09-14T09:36:37Z",
-      "ts": 1789378597
     },
     {
       "source": "FXStreet",
@@ -193,7 +221,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
+      "title": "UK FCA seeks views on fund rule exemptions for tokenized gold",
       "link": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 08:57:00 +0000",
       "ts": 1789376220
@@ -225,13 +253,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
       "published": "2026-09-14 07:38:08",
       "ts": 1789371488
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies under pressure as dollar gains, yen stays elevated",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 07:33:24",
-      "ts": 1789371204
     },
     {
       "source": "Investing Crypto",
@@ -276,11 +297,11 @@
       "ts": 1789361728
     },
     {
-      "source": "FXStreet",
-      "title": "Gold remains depressed above $4,300 as USD sticks to gains amid Fed hike bets, Iran risks",
-      "link": "https://www.fxstreet.com/news/gold-flat-lines-above-4-300-as-firmer-usd-caps-upside-amid-hawkish-central-bank-bets-202609140452",
-      "published": "Mon, 14 Sep 2026 04:52:16 GMT",
-      "ts": 1789361536
+      "source": "Yahoo Finance",
+      "title": "Another coffeehouse files for Chapter 11 as costs, prices rise",
+      "link": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
+      "published": "2026-09-14T03:35:45Z",
+      "ts": 1789356945
     },
     {
       "source": "CoinTelegraph",
@@ -295,13 +316,6 @@
       "link": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 01:30:00 GMT",
       "ts": 1789349400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 01:00:00 GMT",
-      "ts": 1789347600
     },
     {
       "source": "CoinTelegraph",
@@ -407,20 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
       "published": "2026-09-12 22:52:48",
       "ts": 1789253568
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OpenAI IPO won't happen this year, says Sam Altman",
-      "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
-      "published": "Sat, 12 Sep 2026 21:09:31 +0000",
-      "ts": 1789247371
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
-      "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
-      "published": "Sat, 12 Sep 2026 21:09:06 +0000",
-      "ts": 1789247346
     }
   ]
 }
