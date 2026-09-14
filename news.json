@@ -1,13 +1,55 @@
 {
-  "updated": "2026-09-14T07:47:04.036385Z",
+  "updated": "2026-09-14T08:12:23.629921Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures dip as Fed hike bets, AI safety concerns weigh on markets",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-dip-as-fed-hike-bets-ai-safety-concerns-weigh-on-markets-202609140811",
+      "published": "Mon, 14 Sep 2026 08:11:12 GMT",
+      "ts": 1789373472
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
+      "published": "Mon, 14 Sep 2026 08:07:16 +0000",
+      "ts": 1789373236
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index: Fed guidance key for next leg – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-fed-guidance-key-for-next-leg-ocbc-202609140800",
+      "published": "Mon, 14 Sep 2026 08:00:43 GMT",
+      "ts": 1789372843
+    },
+    {
+      "source": "FXStreet",
+      "title": "Iran’s Foreign Ministry: Reports about nuclear activity in Iran are baseless",
+      "link": "https://www.fxstreet.com/news/irans-foreign-ministry-reports-about-nuclear-activity-in-iran-are-baseless-202609140752",
+      "published": "Mon, 14 Sep 2026 07:52:35 GMT",
+      "ts": 1789372355
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD falls to near $63.50 amid Fed hike bets, higher oil prices",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6350-amid-fed-hike-bets-higher-oil-prices-202609140747",
+      "published": "Mon, 14 Sep 2026 07:47:04 GMT",
+      "ts": 1789372024
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar: CPI test for BoC inflation warning – BBH",
       "link": "https://www.fxstreet.com/news/canadian-dollar-cpi-test-for-boc-inflation-warning-bbh-202609140742",
       "published": "Mon, 14 Sep 2026 07:42:26 GMT",
       "ts": 1789371746
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro yields hold at multi-year peaks as crude surge precedes c.bank decisions",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
+      "published": "2026-09-14 07:38:08",
+      "ts": 1789371488
     },
     {
       "source": "Investing Forex",
@@ -45,20 +87,6 @@
       "ts": 1789370697
     },
     {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar declines as US Dollar gains on Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-slips-due-to-stronger-us-dollar-soaring-oil-prices-202609140723",
-      "published": "Mon, 14 Sep 2026 07:23:09 GMT",
-      "ts": 1789370589
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Bullish but momentum slowing against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-bullish-but-momentum-slowing-against-us-dollar-uob-202609140719",
-      "published": "Mon, 14 Sep 2026 07:19:57 GMT",
-      "ts": 1789370397
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin trapped in $76K-$81K rectangle: Live breakout levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
@@ -71,27 +99,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 07:07:54 +0000",
       "ts": 1789369674
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah slips due to stronger US Dollar, soaring oil prices",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-slips-due-to-stronger-us-dollar-soaring-oil-prices-202609140703",
-      "published": "Mon, 14 Sep 2026 07:03:12 GMT",
-      "ts": 1789369392
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: Edges higher above 1.3850, but bearish bias persists",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-edges-higher-above-13850-but-bearish-bias-persists-202609140701",
-      "published": "Mon, 14 Sep 2026 07:01:00 GMT",
-      "ts": 1789369260
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Growth distortions and rate risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/british-pound-growth-distortions-and-rate-risks-commerzbank-202609140657",
-      "published": "Mon, 14 Sep 2026 06:57:08 GMT",
-      "ts": 1789369028
     },
     {
       "source": "Investing Crypto",
@@ -120,6 +127,13 @@
       "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 04:55:28 +0000",
       "ts": 1789361728
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold weakens to $4,300 neighborhood as firmer USD meets hawkish Fed expectations",
+      "link": "https://www.fxstreet.com/news/gold-flat-lines-above-4-300-as-firmer-usd-caps-upside-amid-hawkish-central-bank-bets-202609140452",
+      "published": "Mon, 14 Sep 2026 04:52:16 GMT",
+      "ts": 1789361536
     },
     {
       "source": "CoinTelegraph",
@@ -353,6 +367,13 @@
       "ts": 1789249020
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Ethereum ETFs Took In $216 Million on Friday. Bitcoin’s Lost Money for a Fourth Day and XRP’s Took Zero",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html",
+      "published": "2026-09-12T21:11:40Z",
+      "ts": 1789247500
+    },
+    {
       "source": "CoinDesk",
       "title": "OpenAI IPO won't happen this year, says Sam Altman",
       "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
@@ -365,13 +386,6 @@
       "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
       "published": "Sat, 12 Sep 2026 21:09:06 +0000",
       "ts": 1789247346
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-stock-down-71-202000751.html",
-      "published": "2026-09-12T20:20:00Z",
-      "ts": 1789244400
     },
     {
       "source": "CoinDesk",
@@ -395,13 +409,6 @@
       "ts": 1789229309
     },
     {
-      "source": "CoinDesk",
-      "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-      "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
-      "published": "Sat, 12 Sep 2026 16:00:00 +0000",
-      "ts": 1789228800
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
       "published": "2026-09-11 21:20:45",
       "ts": 1789161645
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar up on Fed rate hike bets, yen set for first two-week win streak since May",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-yen-slips-dollar-holds-near-weekly-high-4897219",
-      "published": "2026-09-11 19:17:21",
-      "ts": 1789154241
     }
   ]
 }
