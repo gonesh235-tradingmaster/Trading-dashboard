@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T03:30:07.168171Z",
+  "updated": "2026-09-14T03:46:41.308742Z",
   "count": 60,
   "items": [
     {
@@ -291,6 +291,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Jim Cramer Explains Why Merck (MRK) Is His Fantasy Defense Stock",
+      "link": "https://finance.yahoo.com/healthcare/articles/jim-cramer-explains-why-merck-164911925.html",
+      "published": "2026-09-12T16:49:11Z",
+      "ts": 1789231751
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Ciena’s (CIEN) Backlog Just Hit $8.5B and Keeps Climbing",
       "link": "https://finance.yahoo.com/technology/ai/articles/ciena-cien-backlog-just-hit-164644198.html",
       "published": "2026-09-12T16:46:44Z",
@@ -312,6 +319,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "What Is an IPO? Most New Listings Lose Money in Year 1. Here's How I Filter the Winners.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ipo-most-listings-lose-money-163200527.html",
+      "published": "2026-09-12T16:32:00Z",
+      "ts": 1789230720
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Mama’s Creations (MAMA) Just Proved Its Growth Spurt Wasn’t A Fluke",
       "link": "https://finance.yahoo.com/markets/stocks/articles/mama-creations-mama-just-proved-162554673.html",
       "published": "2026-09-12T16:25:54Z",
@@ -326,13 +340,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is the 5% Withdrawal Rule Safe? Here’s How It Stacks Up Against 4%",
-      "link": "https://finance.yahoo.com/markets/articles/5-withdrawal-rule-safe-stacks-161931116.html",
-      "published": "2026-09-12T16:19:31Z",
-      "ts": 1789229971
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Lululemon’s (LULU) Brand Problems Force Another Steep Guidance Downgrade",
       "link": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-brand-problems-force-161627412.html",
       "published": "2026-09-12T16:16:27Z",
@@ -344,13 +351,6 @@
       "link": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 12 Sep 2026 16:08:29 +0000",
       "ts": 1789229309
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Samsara (IOT) Crosses $2B, But Growth Comes With A Hardware Tax",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsara-iot-crosses-2b-growth-160016151.html",
-      "published": "2026-09-12T16:00:16Z",
-      "ts": 1789228816
     },
     {
       "source": "CoinDesk",
