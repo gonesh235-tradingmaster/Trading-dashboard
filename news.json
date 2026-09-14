@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-14T08:12:23.629921Z",
+  "updated": "2026-09-14T08:30:13.297518Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Clings to gains above 208.00; bearish bias intact ahead of BoE/BoJ",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-clings-to-gains-above-20800-bearish-bias-intact-ahead-of-boe-boj-202609140827",
+      "published": "Mon, 14 Sep 2026 08:27:01 GMT",
+      "ts": 1789374421
+    },
+    {
+      "source": "FXStreet",
+      "title": "ECB Simkus: Can't exclude action at any meeting",
+      "link": "https://www.fxstreet.com/news/ecb-simkus-cant-exclude-action-at-any-meeting-202609140824",
+      "published": "Mon, 14 Sep 2026 08:24:39 GMT",
+      "ts": 1789374279
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: Reserve buffer and carry dynamics – Societe Generale",
+      "link": "https://www.fxstreet.com/news/indian-rupee-reserve-buffer-and-carry-dynamics-societe-generale-202609140821",
+      "published": "Mon, 14 Sep 2026 08:21:09 GMT",
+      "ts": 1789374069
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro drops to monthly lows below 1.1550 amid high Oil pisces, Fed hiking bets",
+      "link": "https://www.fxstreet.com/news/euro-drops-to-monthly-lows-below-11550-amid-high-oil-pisces-fed-hiking-bets-202609140819",
+      "published": "Mon, 14 Sep 2026 08:19:46 GMT",
+      "ts": 1789373986
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar underperforms amid risk-off mood",
+      "link": "https://www.fxstreet.com/news/australian-dollar-underperforms-amid-risk-off-mood-202609140817",
+      "published": "Mon, 14 Sep 2026 08:17:26 GMT",
+      "ts": 1789373846
+    },
     {
       "source": "FXStreet",
       "title": "Dow Jones futures dip as Fed hike bets, AI safety concerns weigh on markets",
@@ -38,13 +73,6 @@
       "ts": 1789372024
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar: CPI test for BoC inflation warning – BBH",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-cpi-test-for-boc-inflation-warning-bbh-202609140742",
-      "published": "Mon, 14 Sep 2026 07:42:26 GMT",
-      "ts": 1789371746
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro yields hold at multi-year peaks as crude surge precedes c.bank decisions",
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
@@ -57,34 +85,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
       "published": "2026-09-14 07:33:24",
       "ts": 1789371204
-    },
-    {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: Falls to July 29 lows as bears retain control below 0.5800",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-falls-to-july-29-lows-as-bears-retain-control-below-05800-202609140731",
-      "published": "Mon, 14 Sep 2026 07:31:53 GMT",
-      "ts": 1789371113
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canada CPI expected to show steady inflation in August",
-      "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-steady-inflation-in-august-202609140730",
-      "published": "Mon, 14 Sep 2026 07:30:00 GMT",
-      "ts": 1789371000
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro extends losses against British Pound amid high Oil prices and risk-off markets",
-      "link": "https://www.fxstreet.com/news/euro-extends-losses-against-british-pound-amid-high-oil-prices-and-risk-off-markets-202609140728",
-      "published": "Mon, 14 Sep 2026 07:28:41 GMT",
-      "ts": 1789370921
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: Extends recovery above 20-day EMA",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-extends-recovery-above-20-day-ema-202609140724",
-      "published": "Mon, 14 Sep 2026 07:24:57 GMT",
-      "ts": 1789370697
     },
     {
       "source": "Investing Crypto",
@@ -368,10 +368,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Ethereum ETFs Took In $216 Million on Friday. Bitcoin’s Lost Money for a Fourth Day and XRP’s Took Zero",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html",
-      "published": "2026-09-12T21:11:40Z",
-      "ts": 1789247500
+      "title": "J.P. Morgan Closes $1.1B US Industrial Net Lease Fund",
+      "link": "https://finance.yahoo.com/real-estate/articles/j-p-morgan-closes-1-213149032.html",
+      "published": "2026-09-12T21:31:49Z",
+      "ts": 1789248709
     },
     {
       "source": "CoinDesk",
