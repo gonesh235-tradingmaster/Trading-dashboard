@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-14T12:37:04.933053Z",
+  "updated": "2026-09-14T12:58:04.425268Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "If You're Still Holding NuScale, Here's 1 Catalyst That Might Make You Sell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/youre-still-holding-nuscale-heres-123600659.html",
+      "published": "2026-09-14T12:36:00Z",
+      "ts": 1789389360
+    },
     {
       "source": "FXStreet",
       "title": "Federal Reserve: Inflation keeps pressure on – Commerzbank",
       "link": "https://www.fxstreet.com/news/federal-reserve-inflation-keeps-pressure-on-commerzbank-202609141235",
       "published": "Mon, 14 Sep 2026 12:35:49 GMT",
       "ts": 1789389349
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "10-year treasury yield rises as oil prices jump",
+      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-rises-as-oil-prices-jump-123457398.html",
+      "published": "2026-09-14T12:34:57Z",
+      "ts": 1789389297
     },
     {
       "source": "FXStreet",
@@ -25,10 +39,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why These 2 CEOs Just Bought Millions in Their Own Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-2-ceos-just-bought-121551864.html",
-      "published": "2026-09-14T12:15:51Z",
-      "ts": 1789388151
+      "title": "Etihad Airways sees strong demand, higher passenger capacity despite Iran war, CEO says",
+      "link": "https://finance.yahoo.com/news/etihad-airways-sees-strong-demand-121621387.html",
+      "published": "2026-09-14T12:16:21Z",
+      "ts": 1789388181
     },
     {
       "source": "FXStreet",
@@ -36,6 +50,13 @@
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-losses-as-us-dollar-strengthens-on-fed-bets-202609141215",
       "published": "Mon, 14 Sep 2026 12:15:34 GMT",
       "ts": 1789388134
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
+      "published": "2026-09-14 12:13:47",
+      "ts": 1789388027
     },
     {
       "source": "Yahoo Finance",
@@ -64,6 +85,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
       "published": "Mon, 14 Sep 2026 12:08:35 +0000",
       "ts": 1789387715
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi says NOK/SEK can continue to work despite recent gains",
+      "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
+      "published": "2026-09-14 12:07:47",
+      "ts": 1789387667
     },
     {
       "source": "CoinDesk",
@@ -129,13 +157,6 @@
       "ts": 1789386011
     },
     {
-      "source": "FXStreet",
-      "title": "Czech Koruna: Dovish CNB may weaken CZK against Euro - ING",
-      "link": "https://www.fxstreet.com/news/czech-koruna-dovish-cnb-may-weaken-czk-against-euro-ing-202609141139",
-      "published": "Mon, 14 Sep 2026 11:39:38 GMT",
-      "ts": 1789385978
-    },
-    {
       "source": "CoinTelegraph",
       "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
       "link": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -143,18 +164,11 @@
       "ts": 1789385924
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Carney, locked in US trade war, pitches Canada to global investment titans",
-      "link": "https://finance.yahoo.com/news/carney-locked-us-trade-war-100319218.html",
-      "published": "2026-09-14T11:31:54Z",
-      "ts": 1789385514
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Europe Gas Prices Jump 6% as Saudi Pipeline Shutdown Rattles Markets",
-      "link": "https://finance.yahoo.com/energy/articles/europe-gas-prices-jump-6-113000754.html",
-      "published": "2026-09-14T11:30:00Z",
-      "ts": 1789385400
+      "source": "FXStreet",
+      "title": "Gold starts the week lower as traders await Fed verdict",
+      "link": "https://www.fxstreet.com/news/gold-starts-the-week-lower-as-traders-await-fed-verdict-202609141130",
+      "published": "Mon, 14 Sep 2026 11:30:18 GMT",
+      "ts": 1789385418
     },
     {
       "source": "CoinDesk",
@@ -304,13 +318,6 @@
       "ts": 1789373159
     },
     {
-      "source": "Investing Forex",
-      "title": "Euro yields hold at multi-year peaks as crude surge precedes c.bank decisions",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
-      "published": "2026-09-14 07:38:08",
-      "ts": 1789371488
-    },
-    {
       "source": "FXStreet",
       "title": "Breaking: Canada hedline CPI rose 3.0% YoY in August",
       "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-steady-inflation-in-august-202609140730",
@@ -414,13 +421,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
       "published": "Sun, 13 Sep 2026 18:45:08 +0000",
       "ts": 1789325108
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Speculators turn bullish on yen for first time since February",
-      "link": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
-      "published": "2026-09-13 06:44:32",
-      "ts": 1789281872
     }
   ]
 }
