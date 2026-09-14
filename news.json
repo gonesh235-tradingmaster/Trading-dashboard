@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-14T16:46:35.254851Z",
+  "updated": "2026-09-14T17:08:18.004287Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro slides against the Pound as a UK jobs test looms",
+      "link": "https://www.fxstreet.com/news/euro-slides-against-the-pound-as-a-uk-jobs-test-looms-202609141702",
+      "published": "Mon, 14 Sep 2026 17:02:49 GMT",
+      "ts": 1789405369
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound buckles as the US yields rise puts Fed in command",
+      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-the-us-yields-rise-puts-fed-in-command-202609141655",
+      "published": "Mon, 14 Sep 2026 16:55:47 GMT",
+      "ts": 1789404947
+    },
     {
       "source": "Yahoo Finance",
       "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain",
@@ -22,6 +36,13 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/chinas-deepseek-hires-dealmaker-cfo-163408342.html",
       "published": "2026-09-14T16:36:46Z",
       "ts": 1789403806
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mexico-Based Energy Leader Vista Eyes Buy Point As Oil Prices Surge On Middle East Conflict",
+      "link": "https://www.investors.com/research/vista-stock-vist-energy-oil-prices/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T16:30:10Z",
+      "ts": 1789403410
     },
     {
       "source": "Yahoo Finance",
@@ -87,13 +108,6 @@
       "ts": 1789401138
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Falls, Oil Jumps On Houthi Moves; Trump Hits Out At These AI Fears (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T15:51:03Z",
-      "ts": 1789401063
-    },
-    {
       "source": "FXStreet",
       "title": "Euro area: Supply chain risks and core goods outlook – Societe Generale",
       "link": "https://www.fxstreet.com/news/euro-area-supply-chain-risks-and-core-goods-outlook-societe-generale-202609141547",
@@ -122,25 +136,11 @@
       "ts": 1789399126
     },
     {
-      "source": "FXStreet",
-      "title": "Federal Reserve: Forward guidance impact – Commerzbank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-forward-guidance-impact-commerzbank-202609141515",
-      "published": "Mon, 14 Sep 2026 15:15:59 GMT",
-      "ts": 1789398959
-    },
-    {
       "source": "CoinDesk",
       "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
       "link": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
       "published": "Mon, 14 Sep 2026 15:10:29 +0000",
       "ts": 1789398629
-    },
-    {
-      "source": "FXStreet",
-      "title": "Crude Oil: Elevated upside risk with CTAs max long – TD Securities",
-      "link": "https://www.fxstreet.com/news/crude-oil-elevated-upside-risk-with-ctas-max-long-td-securities-202609141507",
-      "published": "Mon, 14 Sep 2026 15:07:09 GMT",
-      "ts": 1789398429
     },
     {
       "source": "CoinTelegraph",
