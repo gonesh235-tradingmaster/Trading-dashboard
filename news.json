@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-14T06:17:53.845223Z",
+  "updated": "2026-09-14T06:45:34.666806Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Equities: Resilience versus rates and Oil shock – Danske Bank",
+      "link": "https://www.fxstreet.com/news/equities-resilience-versus-rates-and-oil-shock-danske-bank-202609140644",
+      "published": "Mon, 14 Sep 2026 06:44:57 GMT",
+      "ts": 1789368297
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD hovers above a key support in the $63.00 area",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-hovers-above-a-key-support-in-the-6300-area-202609140639",
+      "published": "Mon, 14 Sep 2026 06:39:04 GMT",
+      "ts": 1789367944
+    },
+    {
+      "source": "FXStreet",
+      "title": "ECB’s Lagarde: The current shock is longer-lasting",
+      "link": "https://www.fxstreet.com/news/ecbs-lagarde-the-current-shock-is-longer-lasting-202609140637",
+      "published": "Mon, 14 Sep 2026 06:37:18 GMT",
+      "ts": 1789367838
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold: Sideways near support before FOMC – OCBC",
+      "link": "https://www.fxstreet.com/news/gold-sideways-near-support-before-fomc-ocbc-202609140634",
+      "published": "Mon, 14 Sep 2026 06:34:12 GMT",
+      "ts": 1789367652
+    },
+    {
+      "source": "FXStreet",
+      "title": "Brent: Middle East risks support prices – ING",
+      "link": "https://www.fxstreet.com/news/brent-middle-east-risks-support-prices-ing-202609140621",
+      "published": "Mon, 14 Sep 2026 06:21:51 GMT",
+      "ts": 1789366911
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Support at 1.1565 watched against US Dollar – UOB",
@@ -59,46 +94,11 @@
       "ts": 1789362704
     },
     {
-      "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Holds steady near 110.00, bearish technicals persist",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-holds-steady-near-11000-bearish-technicals-persist-202609140458",
-      "published": "Mon, 14 Sep 2026 04:58:34 GMT",
-      "ts": 1789361914
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
       "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 04:55:28 +0000",
       "ts": 1789361728
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold flat lines above $4,300 as firmer USD caps upside amid hawkish central bank bets",
-      "link": "https://www.fxstreet.com/news/gold-flat-lines-above-4-300-as-firmer-usd-caps-upside-amid-hawkish-central-bank-bets-202609140452",
-      "published": "Mon, 14 Sep 2026 04:52:16 GMT",
-      "ts": 1789361536
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Slides to four-week low as hawkish Fed bets accelerate",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-slides-to-four-week-low-as-hawkish-fed-bets-accelerate-202609140446",
-      "published": "Mon, 14 Sep 2026 04:46:25 GMT",
-      "ts": 1789361185
-    },
-    {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609140435",
-      "published": "Mon, 14 Sep 2026 04:35:07 GMT",
-      "ts": 1789360507
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Trades near 178.50 after rebounding from descending channel bottom",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-trades-near-17850-after-rebounding-from-descending-channel-bottom-202609140409",
-      "published": "Mon, 14 Sep 2026 04:09:00 GMT",
-      "ts": 1789358940
     },
     {
       "source": "CoinTelegraph",
@@ -270,6 +270,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Here is Why Piper Sandler Named Q2 Holdings (QTWO) Its Top Pick",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-piper-sandler-named-q2-221304680.html",
+      "published": "2026-09-12T22:13:04Z",
+      "ts": 1789251184
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Block, Inc (XYZ)’s Bank Charter Push Signals Bigger Ambitions in Digital Assets",
       "link": "https://finance.yahoo.com/markets/crypto/articles/block-inc-xyz-bank-charter-220930244.html",
       "published": "2026-09-12T22:09:30Z",
@@ -333,17 +340,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "How Much Do You Really Need Invested in Bristol Myers Squibb to Collect $10,000 a Year?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/much-really-invested-bristol-myers-191537674.html",
+      "published": "2026-09-12T19:15:37Z",
+      "ts": 1789240537
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Google Just Dropped a Bombshell on AI Spending — Alphabet’s $200 Billion AI Bet Is Starting to Pay Off Big",
       "link": "https://finance.yahoo.com/technology/ai/articles/google-just-dropped-bombshell-ai-185617741.html",
       "published": "2026-09-12T18:56:17Z",
       "ts": 1789239377
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "WisdomTree COO Lilien Jarrett Sells 30,000 Shares for $737,000",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wisdomtree-coo-lilien-jarrett-sells-185501162.html",
-      "published": "2026-09-12T18:55:01Z",
-      "ts": 1789239301
     },
     {
       "source": "CoinDesk",
@@ -358,13 +365,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
       "published": "Sat, 12 Sep 2026 18:43:33 +0000",
       "ts": 1789238613
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dear UnitedHealth Stock Fans, Mark Your Calendars for October 1",
-      "link": "https://finance.yahoo.com/healthcare/articles/dear-unitedhealth-stock-fans-mark-183002378.html",
-      "published": "2026-09-12T18:30:02Z",
-      "ts": 1789237802
     },
     {
       "source": "CoinTelegraph",
