@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T04:10:20.892196Z",
+  "updated": "2026-09-14T04:28:00.519549Z",
   "count": 60,
   "items": [
     {
@@ -291,10 +291,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Is Ingersoll Rand Stock Underperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ingersoll-rand-stock-underperforming-p-173342076.html",
+      "published": "2026-09-12T17:33:42Z",
+      "ts": 1789234422
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test",
       "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pediatric-obesity-171917899.html",
       "published": "2026-09-12T17:19:17Z",
       "ts": 1789233557
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Larry Ellison Scraps Plan to Sell Up to $7.5 Billion Worth of Oracle Stock",
+      "link": "https://www.wsj.com/business/larry-ellison-scraps-plan-to-sell-up-to-7-5-billion-worth-of-oracle-stock-9f41edd2?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-12T17:10:00Z",
+      "ts": 1789233000
     },
     {
       "source": "Yahoo Finance",
@@ -309,13 +323,6 @@
       "link": "https://finance.yahoo.com/healthcare/articles/biomarin-shares-jump-5-global-170253036.html",
       "published": "2026-09-12T17:02:53Z",
       "ts": 1789232573
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Gen Z Burnout Could Stall Earning Power — 5 Moves To Get Your Career Back on Track",
-      "link": "https://finance.yahoo.com/small-business/articles/gen-z-burnout-could-stall-170028733.html",
-      "published": "2026-09-12T17:00:28Z",
-      "ts": 1789232428
     },
     {
       "source": "Yahoo Finance",
@@ -337,13 +344,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/ciena-cien-backlog-just-hit-164644198.html",
       "published": "2026-09-12T16:46:44Z",
       "ts": 1789231604
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "eGain’s (EGAN) Bold AI Pivot Just Won A Big Believer",
-      "link": "https://finance.yahoo.com/technology/ai/articles/egain-egan-bold-ai-pivot-163723656.html",
-      "published": "2026-09-12T16:37:23Z",
-      "ts": 1789231043
     },
     {
       "source": "CoinTelegraph",
