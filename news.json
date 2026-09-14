@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-14T11:11:11.445326Z",
+  "updated": "2026-09-14T11:28:48.273207Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Federal Reserve: Rate hike path and data support – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-rate-hike-path-and-data-support-deutsche-bank-202609141125",
+      "published": "Mon, 14 Sep 2026 11:25:14 GMT",
+      "ts": 1789385114
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Southern Glazer’s settles US bribery probe",
+      "link": "https://finance.yahoo.com/economy/policy/articles/southern-glazer-settles-us-bribery-111507252.html",
+      "published": "2026-09-14T11:15:07Z",
+      "ts": 1789384507
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
+      "published": "Mon, 14 Sep 2026 11:15:00 +0000",
+      "ts": 1789384500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI has carried the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
+      "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 11:15:00 GMT",
+      "ts": 1789384500
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Fed hike expectations and limited gains – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-hike-expectations-and-limited-gains-mufg-202609141113",
+      "published": "Mon, 14 Sep 2026 11:13:33 GMT",
+      "ts": 1789384413
+    },
+    {
+      "source": "FXStreet",
+      "title": "ECB’s Schnabel: Recent energy-price developments have been quite concerning",
+      "link": "https://www.fxstreet.com/news/ecbs-schnabel-recent-energy-price-developments-have-been-quite-concerning-202609141111",
+      "published": "Mon, 14 Sep 2026 11:11:44 GMT",
+      "ts": 1789384304
+    },
     {
       "source": "FXStreet",
       "title": "AUD/USD Price Forecast: Aussie bears aim for a key support area around 0.7110",
@@ -18,10 +60,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Retired Surgeon Wanted to Leave His Kids as Much as Possible. Picking the Wrong Account Cost His Heirs Hundreds of Thousands of Dollars.",
-      "link": "https://finance.yahoo.com/markets/articles/retired-surgeon-wanted-leave-kids-105127937.html",
-      "published": "2026-09-14T10:51:27Z",
-      "ts": 1789383087
+      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T11:04:47Z",
+      "ts": 1789383887
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Electra Therapeutics targets $977.6 million valuation in US IPO",
+      "link": "https://finance.yahoo.com/healthcare/articles/electra-therapeutics-targets-977-6-110028846.html",
+      "published": "2026-09-14T11:00:28Z",
+      "ts": 1789383628
     },
     {
       "source": "FXStreet",
@@ -29,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/fed-to-raise-interest-rates-to-375-400-on-september-16-reuters-poll-202609141051",
       "published": "Mon, 14 Sep 2026 10:51:18 GMT",
       "ts": 1789383078
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T10:49:45Z",
-      "ts": 1789382985
     },
     {
       "source": "Yahoo Finance",
@@ -78,13 +120,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
       "published": "2026-09-14 10:17:45",
       "ts": 1789381065
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
-      "link": "https://finance.yahoo.com/markets/stocks/article/ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html",
-      "published": "2026-09-14T10:15:18Z",
-      "ts": 1789380918
     },
     {
       "source": "MarketWatch",
@@ -162,27 +197,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
       "published": "2026-09-14T09:36:37Z",
       "ts": 1789378597
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI extend opening gains amid fears of further energy supply risks",
-      "link": "https://www.fxstreet.com/news/wti-extend-opening-gains-amid-fears-of-further-energy-supply-risks-202609140932",
-      "published": "Mon, 14 Sep 2026 09:32:05 GMT",
-      "ts": 1789378325
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc nears yearly lows as Fed rate hike bets boost US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-nears-yearly-lows-as-fed-rate-hike-bets-boost-us-dollar-202609140932",
-      "published": "Mon, 14 Sep 2026 09:32:02 GMT",
-      "ts": 1789378322
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609140930",
-      "published": "Mon, 14 Sep 2026 09:30:18 GMT",
-      "ts": 1789378218
     },
     {
       "source": "CoinDesk",
@@ -360,13 +374,6 @@
       "ts": 1789333140
     },
     {
-      "source": "MarketWatch",
-      "title": "Your Social Security COLA could go up another $71 per month in 2027. That’s not necessarily good news.",
-      "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 20:40:00 GMT",
-      "ts": 1789332000
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
       "published": "2026-09-13 06:44:32",
       "ts": 1789281872
-    },
-    {
-      "source": "Investing Forex",
-      "title": "EUR/USD could retest 1.17 after Fed decision - Citi says",
-      "link": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
-      "published": "2026-09-12 22:52:48",
-      "ts": 1789253568
     }
   ]
 }
