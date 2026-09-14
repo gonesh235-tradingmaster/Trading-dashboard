@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-14T19:43:56.636080Z",
+  "updated": "2026-09-14T19:55:36.607910Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Couples with a big age gap need more money — they have to plan for two retirements",
+      "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 19:49:00 GMT",
+      "ts": 1789415340
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "UK regulators to develop tokenization roadmap after industry feedback",
+      "link": "https://cointelegraph.com/news/uk-regulators-to-develop-tokenization-roadmap-after-industry-feedback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 19:38:28 +0000",
+      "ts": 1789414708
+    },
     {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -136,13 +150,6 @@
       "ts": 1789409640
     },
     {
-      "source": "MarketWatch",
-      "title": "As AI companies call for a slowdown, here’s how Washington could pump the brakes",
-      "link": "https://www.marketwatch.com/story/ai-companies-say-they-want-to-slow-down-heres-how-washington-might-help-apply-the-brakes-7db9dabb?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 18:08:00 GMT",
-      "ts": 1789409280
-    },
-    {
       "source": "CoinDesk",
       "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
       "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
@@ -270,7 +277,7 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls on rising oil, AI tensions",
+      "title": "Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls on rising AI and war tensions",
       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
       "published": "2026-09-14T13:38:32Z",
       "ts": 1789393112
@@ -309,13 +316,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
       "published": "2026-09-14 12:07:47",
       "ts": 1789387667
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
-      "link": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 11:38:44 +0000",
-      "ts": 1789385924
     },
     {
       "source": "Investing Forex",
@@ -368,6 +368,41 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back",
+      "link": "https://finance.yahoo.com/economy/policy/articles/borderlands-mexico-exports-mexican-made-110000609.html",
+      "published": "2026-09-13T11:00:00Z",
+      "ts": 1789297200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Academy Sports (ASO) Turns A Tariff Refund Into A Profit Surge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/academy-sports-aso-turns-tariff-105619595.html",
+      "published": "2026-09-13T10:56:19Z",
+      "ts": 1789296979
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Firmus Adds OpenAI. NVIDIA and Blackstone Face Different Sides of the AI Buildout",
+      "link": "https://finance.yahoo.com/technology/ai/articles/firmus-adds-openai-nvidia-blackstone-105141455.html",
+      "published": "2026-09-13T10:51:41Z",
+      "ts": 1789296701
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Bold Was Cotton's Move?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bold-cottons-move-104604438.html",
+      "published": "2026-09-13T10:46:04Z",
+      "ts": 1789296364
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "This 1 Costco item has skyrocketed 125% in price over just 2 years. And the retail behemoth is limiting member purchases",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/1-costco-item-skyrocketed-125-104500067.html",
+      "published": "2026-09-13T10:45:00Z",
+      "ts": 1789296300
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "SpaceX Says a Mystery AI Customer Adds $1.11 Billion a Month. Google Shows How Fast Compute Is Growing",
       "link": "https://finance.yahoo.com/technology/ai/articles/spacex-says-mystery-ai-customer-104230984.html",
       "published": "2026-09-13T10:42:30Z",
@@ -386,41 +421,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-may-put-10-billion-103618397.html",
       "published": "2026-09-13T10:36:18Z",
       "ts": 1789295778
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Snowflake (SNOW) Is Growing Faster Now Than It Was A Year Ago",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-growing-faster-now-102813308.html",
-      "published": "2026-09-13T10:28:13Z",
-      "ts": 1789295293
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "C3.ai (AI) Just Posted Its Most Promising Quarter In Years",
-      "link": "https://finance.yahoo.com/technology/ai/articles/c3-ai-ai-just-posted-102417897.html",
-      "published": "2026-09-13T10:24:17Z",
-      "ts": 1789295057
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Retiree, 70, lost over $2,000 in an Amazon impersonation scam. How fraudsters got him ‘hook, line and sinker’",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/retiree-70-lost-over-2-101500668.html",
-      "published": "2026-09-13T10:15:00Z",
-      "ts": 1789294500
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Gold.com (GOLD): On A Gold Rush With Cracks Underneath",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gold-com-gold-gold-rush-101442314.html",
-      "published": "2026-09-13T10:14:42Z",
-      "ts": 1789294482
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Signet Jewelers (SIG) Lifts Guidance on Tariff Refunds and Cost Discipline",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/signet-jewelers-sig-lifts-guidance-100950018.html",
-      "published": "2026-09-13T10:09:50Z",
-      "ts": 1789294190
     }
   ]
 }
