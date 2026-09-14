@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-14T00:56:13.908245Z",
+  "updated": "2026-09-14T01:12:04.212218Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 01:00:00 GMT",
+      "ts": 1789347600
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Revolut attackers threaten daily customer data leaks",
+      "link": "https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 00:54:08 +0000",
+      "ts": 1789347248
+    },
     {
       "source": "FXStreet",
       "title": "Euro softens below 1.1600 as markets price in Fed rate hike",
@@ -127,13 +141,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 13 Sep 2026 16:47:53 +0000",
       "ts": 1789318073
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 16:30:00 GMT",
-      "ts": 1789317000
     },
     {
       "source": "Yahoo Finance",
@@ -277,6 +284,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Smith & Wesson’s (SWBI) Profit Turnaround Comes With a Catch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/smith-wesson-swbi-profit-turnaround-142440248.html",
+      "published": "2026-09-12T14:24:40Z",
+      "ts": 1789223080
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Wiley’s (WLY) AI Bet Is Starting To Pay Off",
       "link": "https://finance.yahoo.com/technology/ai/articles/wiley-wly-ai-bet-starting-141033390.html",
       "published": "2026-09-12T14:10:33Z",
@@ -309,13 +323,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-ai-bet-faces-133035025.html",
       "published": "2026-09-12T13:30:35Z",
       "ts": 1789219835
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Scott Bessent dismisses 'Bloomberg Terminal bros' as 10-year Treasury yield hits 4.94% despite $5.2B buyback",
-      "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-dismisses-bloomberg-terminal-133000792.html",
-      "published": "2026-09-12T13:30:00Z",
-      "ts": 1789219800
     },
     {
       "source": "Investing Crypto",
@@ -393,13 +400,6 @@
       "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 11 Sep 2026 18:45:15 +0000",
       "ts": 1789152315
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-      "link": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 11 Sep 2026 16:05:15 +0000",
-      "ts": 1789142715
     },
     {
       "source": "Investing Forex",
