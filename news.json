@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-14T19:13:13.092925Z",
+  "updated": "2026-09-14T19:29:36.217793Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: Neckline rejection keeps $60 in sight",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-neckline-rejection-keeps-60-in-sight-202609141925",
+      "published": "Mon, 14 Sep 2026 19:25:56 GMT",
+      "ts": 1789413956
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
+      "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
+      "published": "Mon, 14 Sep 2026 19:21:58 +0000",
+      "ts": 1789413718
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin nears $80K bull trap zone with weak ADX: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-14 19:18:14",
+      "ts": 1789413494
+    },
     {
       "source": "FXStreet",
       "title": "Gold gets squeezed by 5% Treasury yields as FOMC week begins",
@@ -178,13 +199,6 @@
       "ts": 1789402034
     },
     {
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average loses another round to rising bond yields",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-loses-another-round-to-rising-bond-yields-202609141557",
-      "published": "Mon, 14 Sep 2026 15:57:44 GMT",
-      "ts": 1789401464
-    },
-    {
       "source": "CoinDesk",
       "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
       "link": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
@@ -290,13 +304,6 @@
       "ts": 1789388027
     },
     {
-      "source": "CoinDesk",
-      "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
-      "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
-      "published": "Mon, 14 Sep 2026 12:08:35 +0000",
-      "ts": 1789387715
-    },
-    {
       "source": "Investing Forex",
       "title": "Citi says NOK/SEK can continue to work despite recent gains",
       "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
@@ -339,13 +346,6 @@
       "ts": 1789373798
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin trapped in $76K-$81K rectangle: Live breakout levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-14 07:11:31",
-      "ts": 1789369891
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Another coffeehouse files for Chapter 11 as costs, prices rise",
       "link": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
@@ -365,6 +365,27 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
       "published": "2026-09-13 19:02:21",
       "ts": 1789326141
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "REX American Resources (REX) Notches A Record Quarter, Then Doubts Creep In",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rex-american-resources-rex-notches-103748951.html",
+      "published": "2026-09-13T10:37:48Z",
+      "ts": 1789295868
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia May Put $10 Billion Into Anthropic’s $2 Trillion IPO. Amazon Already Has Much More Riding on It",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-may-put-10-billion-103618397.html",
+      "published": "2026-09-13T10:36:18Z",
+      "ts": 1789295778
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Snowflake (SNOW) Is Growing Faster Now Than It Was A Year Ago",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-growing-faster-now-102813308.html",
+      "published": "2026-09-13T10:28:13Z",
+      "ts": 1789295293
     },
     {
       "source": "Yahoo Finance",
@@ -400,27 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/matrix-mtrx-returns-profit-last-100415091.html",
       "published": "2026-09-13T10:04:15Z",
       "ts": 1789293855
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Argan’s (AGX) Power Boom Comes With A Margin Catch",
-      "link": "https://finance.yahoo.com/energy/articles/argan-agx-power-boom-comes-100043772.html",
-      "published": "2026-09-13T10:00:43Z",
-      "ts": 1789293643
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Sunday, September 13, 2026: Mortgage rates surged higher in the last week",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-rates-surged-higher-in-the-last-week-100000138.html",
-      "published": "2026-09-13T10:00:00Z",
-      "ts": 1789293600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week",
-      "link": "https://finance.yahoo.com/markets/article/a-highly-anticipated-fed-meeting-war-worries-and-an-unblinking-stock-market-what-to-watch-this-week-100000843.html",
-      "published": "2026-09-13T10:00:00Z",
-      "ts": 1789293600
     }
   ]
 }
