@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-14T04:57:55.416749Z",
+  "updated": "2026-09-14T05:15:02.863607Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc weakens as US Dollar gains on Fed rate hike odds",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-gains-on-fed-rate-hike-odds-202609140511",
+      "published": "Mon, 14 Sep 2026 05:11:44 GMT",
+      "ts": 1789362704
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Holds steady near 110.00, bearish technicals persist",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-holds-steady-near-11000-bearish-technicals-persist-202609140458",
+      "published": "Mon, 14 Sep 2026 04:58:34 GMT",
+      "ts": 1789361914
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
+      "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 04:55:28 +0000",
+      "ts": 1789361728
+    },
     {
       "source": "FXStreet",
       "title": "Gold flat lines above $4,300 as firmer USD caps upside amid hawkish central bank bets",
@@ -64,20 +85,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bears-have-the-upper-hand-below-6475-6485-confluence-202609140231",
       "published": "Mon, 14 Sep 2026 02:31:50 GMT",
       "ts": 1789353110
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar gains support from higher oil prices amid Saudi pipeline disruptions",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-support-from-higher-oil-prices-amid-saudi-pipeline-disruptions-202609140210",
-      "published": "Mon, 14 Sep 2026 02:10:30 GMT",
-      "ts": 1789351830
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen edges lower vs USD amid Middle East jitters as Fed, BoJ meetings loom",
-      "link": "https://www.fxstreet.com/news/japanese-yen-edges-lower-vs-usd-amid-middle-east-jitters-as-fed-boj-meetings-loom-202609140204",
-      "published": "Mon, 14 Sep 2026 02:04:53 GMT",
-      "ts": 1789351493
     },
     {
       "source": "MarketWatch",
@@ -269,6 +276,13 @@
       "ts": 1789247346
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Google Just Dropped a Bombshell on AI Spending — Alphabet’s $200 Billion AI Bet Is Starting to Pay Off Big",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-just-dropped-bombshell-ai-185617741.html",
+      "published": "2026-09-12T18:56:17Z",
+      "ts": 1789239377
+    },
+    {
       "source": "CoinDesk",
       "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
       "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
@@ -284,10 +298,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Dear UnitedHealth Stock Fans, Mark Your Calendars for October 1",
+      "link": "https://finance.yahoo.com/healthcare/articles/dear-unitedhealth-stock-fans-mark-183002378.html",
+      "published": "2026-09-12T18:30:02Z",
+      "ts": 1789237802
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Kenvue Underperforming the Nasdaq?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/kenvue-underperforming-nasdaq-175724434.html",
       "published": "2026-09-12T17:57:24Z",
       "ts": 1789235844
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Some Retirees Keep 25% of Their Portfolio in Cash and Treasuries",
+      "link": "https://finance.yahoo.com/markets/articles/why-retirees-keep-25-portfolio-175152760.html",
+      "published": "2026-09-12T17:51:52Z",
+      "ts": 1789235512
     },
     {
       "source": "Yahoo Finance",
@@ -312,13 +340,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Chewy vs. MercadoLibre: Which E-Commerce Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-vs-mercadolibre-e-commerce-173946743.html",
-      "published": "2026-09-12T17:39:46Z",
-      "ts": 1789234786
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Is Ingersoll Rand Stock Underperforming the S&P 500?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/ingersoll-rand-stock-underperforming-p-173342076.html",
       "published": "2026-09-12T17:33:42Z",
@@ -330,20 +351,6 @@
       "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pediatric-obesity-171917899.html",
       "published": "2026-09-12T17:19:17Z",
       "ts": 1789233557
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A Tale of Two Dollars: Why Dollar General Outpaced Dollar Tree This Quarter",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tale-two-dollars-why-dollar-170915358.html",
-      "published": "2026-09-12T17:09:15Z",
-      "ts": 1789232955
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BioMarin Shares Jump 5% After Global Patent Settlement With Ascendis",
-      "link": "https://finance.yahoo.com/healthcare/articles/biomarin-shares-jump-5-global-170253036.html",
-      "published": "2026-09-12T17:02:53Z",
-      "ts": 1789232573
     },
     {
       "source": "CoinTelegraph",
@@ -386,13 +393,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
       "published": "2026-09-11 21:20:45",
       "ts": 1789161645
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
-      "link": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 11 Sep 2026 19:46:24 +0000",
-      "ts": 1789155984
     },
     {
       "source": "Investing Forex",
