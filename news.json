@@ -1,13 +1,62 @@
 {
-  "updated": "2026-09-14T20:54:39.495648Z",
+  "updated": "2026-09-14T21:09:40.810975Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
+      "link": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
+      "published": "Mon, 14 Sep 2026 21:05:13 +0000",
+      "ts": 1789419913
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar hits highest level in almost two weeks as Fed rate hike bets hit nearly 95%",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
+      "published": "2026-09-14 21:03:42",
+      "ts": 1789419822
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen recedes as Fed and BoJ decisions loom",
+      "link": "https://www.fxstreet.com/news/japanese-yen-recedes-as-fed-and-boj-decisions-loom-202609142100",
+      "published": "Mon, 14 Sep 2026 21:00:42 GMT",
+      "ts": 1789419642
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?",
+      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:00:00 GMT",
+      "ts": 1789419600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
+      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:56:00 GMT",
+      "ts": 1789419360
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+      "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 20:54:10 +0000",
+      "ts": 1789419250
+    },
     {
       "source": "FXStreet",
       "title": "USD/CHF Price Forecast: Shooting star warns bulls below 0.8200",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-shooting-star-warns-bulls-below-08200-202609142048",
       "published": "Mon, 14 Sep 2026 20:48:23 GMT",
       "ts": 1789418903
+    },
+    {
+      "source": "MarketWatch",
+      "title": "10-year Treasury yield hits 5% as oil prices jump and Fed meeting looms",
+      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:47:00 GMT",
+      "ts": 1789418820
     },
     {
       "source": "CoinTelegraph",
@@ -17,6 +66,20 @@
       "ts": 1789418498
     },
     {
+      "source": "MarketWatch",
+      "title": "The 10 most overvalued housing markets in America",
+      "link": "https://www.marketwatch.com/story/the-10-most-overvalued-housing-markets-in-america-6d28efdf?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:35:00 GMT",
+      "ts": 1789418100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:30:00 GMT",
+      "ts": 1789417800
+    },
+    {
       "source": "FXStreet",
       "title": "Crude Oil spikes on a shut Saudi pipeline and unwinds on Trump's posts",
       "link": "https://www.fxstreet.com/news/crude-oil-spikes-on-a-shut-saudi-pipeline-and-unwinds-on-trumps-posts-202609142014",
@@ -24,11 +87,46 @@
       "ts": 1789416849
     },
     {
+      "source": "MarketWatch",
+      "title": "Saudi Arabia may be just days away from not being able to export much oil",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:05:00 GMT",
+      "ts": 1789416300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The future of retirement? Work until you die.",
+      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 19:59:00 GMT",
+      "ts": 1789415940
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Couples with a big age gap need more money — they have to plan for two retirements",
+      "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 19:49:00 GMT",
+      "ts": 1789415340
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 19:30:00 GMT",
+      "ts": 1789414200
+    },
+    {
       "source": "FXStreet",
       "title": "Forex Today: US Dollar firms ahead of UK jobs and a midweek Fed decision",
       "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-uk-jobs-and-a-midweek-fed-decision-202609141929",
       "published": "Mon, 14 Sep 2026 19:29:51 GMT",
       "ts": 1789414191
+    },
+    {
+      "source": "MarketWatch",
+      "title": "CrowdStrike and Palo Alto Networks are leading software stocks toward a never-before-seen feat",
+      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 19:29:00 GMT",
+      "ts": 1789414140
     },
     {
       "source": "FXStreet",
@@ -122,13 +220,6 @@
       "ts": 1789405369
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound buckles as US yields rise puts Fed in command",
-      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-the-us-yields-rise-puts-fed-in-command-202609141655",
-      "published": "Mon, 14 Sep 2026 16:55:47 GMT",
-      "ts": 1789404947
-    },
-    {
       "source": "CoinTelegraph",
       "title": "S&P Global backs Kaiko as Series B reaches $110M",
       "link": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -213,13 +304,6 @@
       "ts": 1789392600
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
-      "link": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
-      "published": "Mon, 14 Sep 2026 12:58:42 +0000",
-      "ts": 1789390722
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
@@ -232,20 +316,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
       "published": "2026-09-14 12:07:47",
       "ts": 1789387667
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
-      "link": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 11:38:44 +0000",
-      "ts": 1789385924
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 10:17:45",
-      "ts": 1789381065
     },
     {
       "source": "Investing Forex",
@@ -298,6 +368,34 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Walmart Just Declared War on DoorDash and Uber Eats, But Winning Won't Be Easy for 1 Simple Reason",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-declared-war-doordash-123023266.html",
+      "published": "2026-09-13T12:30:23Z",
+      "ts": 1789302623
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "IBEX (IBEX) Turns The AI Threat Into Its Biggest Growth Engine",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibex-ibex-turns-ai-threat-121949823.html",
+      "published": "2026-09-13T12:19:49Z",
+      "ts": 1789301989
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Wall Street Is Betting Against Designer Brands (DBI) Even as Profits Double",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-betting-against-designer-121631989.html",
+      "published": "2026-09-13T12:16:31Z",
+      "ts": 1789301791
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "1-800-Flowers (FLWS) Bets On Discipline While Revenue Keeps Fading",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-800-flowers-flws-bets-120329224.html",
+      "published": "2026-09-13T12:03:29Z",
+      "ts": 1789301009
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Dimensional’s David Booth Discusses the State of ETFs, Investing and More",
       "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-david-booth-discusses-state-120000449.html",
       "published": "2026-09-13T12:00:00Z",
@@ -323,104 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/mastercraft-mcft-margins-soared-while-115519325.html",
       "published": "2026-09-13T11:55:19Z",
       "ts": 1789300519
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Shoe Station Group (SHOE) Bets On Localized Stores To Reverse A Slide",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/shoe-station-group-shoe-bets-114759320.html",
-      "published": "2026-09-13T11:47:59Z",
-      "ts": 1789300079
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How to Play IBM Stock as It Teams Up with NASA to Launch a New Open-Source Model",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/play-ibm-stock-teams-nasa-114716945.html",
-      "published": "2026-09-13T11:47:16Z",
-      "ts": 1789300036
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘Homeless or living in RVs’: Kiyosaki warns ‘millions’ of American boomers are about to go broke. Protect yourself now",
-      "link": "https://finance.yahoo.com/economy/policy/articles/homeless-living-rvs-kiyosaki-warns-114500107.html",
-      "published": "2026-09-13T11:45:00Z",
-      "ts": 1789299900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nscale’s Funding Talks Put Dell and Nokia’s AI Supply Relationships to the Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nscale-funding-talks-put-dell-114055829.html",
-      "published": "2026-09-13T11:40:55Z",
-      "ts": 1789299655
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Speculators turn bullish on yen for first time since February",
-      "link": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
-      "published": "2026-09-13 06:44:32",
-      "ts": 1789281872
-    },
-    {
-      "source": "Investing Forex",
-      "title": "EUR/USD could retest 1.17 after Fed decision - Citi says",
-      "link": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
-      "published": "2026-09-12 22:52:48",
-      "ts": 1789253568
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
-      "published": "2026-09-12 09:52:28",
-      "ts": 1789206748
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
-      "published": "2026-09-11 21:20:45",
-      "ts": 1789161645
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar up on Fed rate hike bets, yen set for first two-week win streak since May",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-yen-slips-dollar-holds-near-weekly-high-4897219",
-      "published": "2026-09-11 19:17:21",
-      "ts": 1789154241
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. 10-year yield briefly breaks 5% for first time since 2024 after Aug CPI",
-      "link": "https://www.investing.com/news/forex-news/european-debt-extended-in-5week-decline-on-rate-hikes-and-surging-oil-prices-4897325",
-      "published": "2026-09-11 13:03:28",
-      "ts": 1789131808
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-783k-on-iran-jitters-higher-yields-4894954",
-      "published": "2026-09-10 21:43:48",
-      "ts": 1789076628
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Uniswap Labs Launches StablePair Hook, a Dynamic-Fee Hook for Stable Pairs",
-      "link": "https://www.investing.com/news/cryptocurrency-news/uniswap-labs-launches-stablepair-hook-a-dynamicfee-hook-for-stable-pairs-4896728",
-      "published": "2026-09-10 19:00:36",
-      "ts": 1789066836
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Tag Markets Names Craig Lund Chief Executive Officer",
-      "link": "https://www.investing.com/news/cryptocurrency-news/tag-markets-names-craig-lund-chief-executive-officer-4896666",
-      "published": "2026-09-10 18:00:35",
-      "ts": 1789063235
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin’s next adoption wave could come from retirement accounts",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoins-next-adoption-wave-could-come-from-retirement-accounts-4896632",
-      "published": "2026-09-10 17:39:05",
-      "ts": 1789061945
     }
   ]
 }
