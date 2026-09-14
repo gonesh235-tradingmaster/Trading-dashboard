@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-14T01:12:04.212218Z",
+  "updated": "2026-09-14T01:27:31.167491Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI rebounds toward nearly four-month highs after Saudi pipeline shutdown",
+      "link": "https://www.fxstreet.com/news/wti-rebounds-toward-nearly-four-month-highs-after-saudi-pipeline-shutdown-202609140124",
+      "published": "Mon, 14 Sep 2026 01:24:00 GMT",
+      "ts": 1789349040
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound consolidates above 1.3500 vs USD ahead of this week's UK data, Fed, BoE",
+      "link": "https://www.fxstreet.com/news/british-pound-consolidates-above-13500-vs-usd-ahead-of-this-weeks-uk-data-fed-boe-202609140119",
+      "published": "Mon, 14 Sep 2026 01:19:13 GMT",
+      "ts": 1789348753
+    },
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7698 vs. 6.7743 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67698-vs-67743-previous-202609140115",
+      "published": "Mon, 14 Sep 2026 01:15:27 GMT",
+      "ts": 1789348527
+    },
     {
       "source": "MarketWatch",
       "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
@@ -143,13 +164,6 @@
       "ts": 1789318073
     },
     {
-      "source": "Yahoo Finance",
-      "title": "49-year-old clothing chain closing stores as its shoppers shrink",
-      "link": "https://finance.yahoo.com/small-business/articles/49-old-clothing-chain-closing-153300913.html",
-      "published": "2026-09-13T15:33:00Z",
-      "ts": 1789313580
-    },
-    {
       "source": "MarketWatch",
       "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
       "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
@@ -277,6 +291,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Victoria’s Secret’s (VSXY) Bra Boom Just Rewrote Its Growth Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/victoria-secret-vsxy-bra-boom-144101942.html",
+      "published": "2026-09-12T14:41:01Z",
+      "ts": 1789224061
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Morgan Stanley delivers blunt message to America’s pet owners",
       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
       "published": "2026-09-12T14:37:00Z",
@@ -284,10 +305,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "XRP Eyes Recovery to $1.55 as RLUSD Market Cap Grows by 50%",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-eyes-recovery-1-55-143258369.html",
+      "published": "2026-09-12T14:32:58Z",
+      "ts": 1789223578
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Smith & Wesson’s (SWBI) Profit Turnaround Comes With a Catch",
       "link": "https://finance.yahoo.com/markets/stocks/articles/smith-wesson-swbi-profit-turnaround-142440248.html",
       "published": "2026-09-12T14:24:40Z",
       "ts": 1789223080
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia May Invest Up to $10 Billion in Anthropic’s $2.3 Trillion IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-may-invest-10-billion-142337240.html",
+      "published": "2026-09-12T14:23:37Z",
+      "ts": 1789223017
     },
     {
       "source": "Yahoo Finance",
@@ -309,20 +344,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/descartes-dsgx-posts-record-q2-135154400.html",
       "published": "2026-09-12T13:51:54Z",
       "ts": 1789221114
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Frequency Electronics (FEIM) Soars After Record Revenue",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/frequency-electronics-feim-soars-record-133402974.html",
-      "published": "2026-09-12T13:34:02Z",
-      "ts": 1789220042
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Alibaba (BABA)’s AI Bet Faces a $10.2 Billion Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-ai-bet-faces-133035025.html",
-      "published": "2026-09-12T13:30:35Z",
-      "ts": 1789219835
     },
     {
       "source": "Investing Crypto",
@@ -358,27 +379,6 @@
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-break-08150-as-cpi-fuels-fed-bets-202609112101",
       "published": "Fri, 11 Sep 2026 21:01:46 GMT",
       "ts": 1789160506
-    },
-    {
-      "source": "FXStreet",
-      "title": "Taiwan Dollar: CBC seen on hold before December hike – DBS",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-cbc-seen-on-hold-before-december-hike-dbs-202609112041",
-      "published": "Fri, 11 Sep 2026 20:41:00 GMT",
-      "ts": 1789159260
-    },
-    {
-      "source": "FXStreet",
-      "title": "Crude Oil buckles early and grinds back on talk of a Hormuz arrangement",
-      "link": "https://www.fxstreet.com/news/crude-oil-buckles-early-and-grinds-back-on-talk-of-a-hormuz-arrangement-202609112019",
-      "published": "Fri, 11 Sep 2026 20:19:56 GMT",
-      "ts": 1789157996
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Bullish bias fades against dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-bullish-bias-fades-against-dollar-uob-202609111956",
-      "published": "Fri, 11 Sep 2026 19:56:00 GMT",
-      "ts": 1789156560
     },
     {
       "source": "CoinTelegraph",
