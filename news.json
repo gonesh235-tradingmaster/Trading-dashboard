@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-14T02:56:03.355314Z",
+  "updated": "2026-09-14T03:12:41.429145Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index rises to near 99.50 as Fed rate hike bets increase",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-9950-as-fed-rate-hike-bets-increase-202609140309",
+      "published": "Mon, 14 Sep 2026 03:09:51 GMT",
+      "ts": 1789355391
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Shows resilience below 38.2% Fibo. near mid-0.7100s",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-shows-resilience-below-382-fibo-near-mid-07100s-202609140306",
+      "published": "Mon, 14 Sep 2026 03:06:35 GMT",
+      "ts": 1789355195
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar weakens below 0.5800 on RBNZ dovish signals",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-below-05800-on-rbnz-dovish-signals-202609140257",
+      "published": "Mon, 14 Sep 2026 02:57:21 GMT",
+      "ts": 1789354641
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD bears have the upper hand below $64.75-$64.85 confluence",
@@ -73,32 +94,11 @@
       "ts": 1789347248
     },
     {
-      "source": "FXStreet",
-      "title": "Euro softens below 1.1600 as markets price in Fed rate hike",
-      "link": "https://www.fxstreet.com/news/euro-softens-below-11600-as-markets-price-in-fed-rate-hike-202609140047",
-      "published": "Mon, 14 Sep 2026 00:47:22 GMT",
-      "ts": 1789346842
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 00:15:37 +0000",
       "ts": 1789344937
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-to-near-07150-as-hot-us-inflation-data-boost-case-for-fed-rate-hike-202609132339",
-      "published": "Sun, 13 Sep 2026 23:39:47 GMT",
-      "ts": 1789342787
-    },
-    {
-      "source": "FXStreet",
-      "title": "Iran says commercial vessel struck in Strait of Hormuz",
-      "link": "https://www.fxstreet.com/news/iran-says-commercial-vessel-struck-in-strait-of-hormuz-202609132306",
-      "published": "Sun, 13 Sep 2026 23:06:53 GMT",
-      "ts": 1789340813
     },
     {
       "source": "Investing Crypto",
@@ -284,6 +284,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "eGain’s (EGAN) Bold AI Pivot Just Won A Big Believer",
+      "link": "https://finance.yahoo.com/technology/ai/articles/egain-egan-bold-ai-pivot-163723656.html",
+      "published": "2026-09-12T16:37:23Z",
+      "ts": 1789231043
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BRP (DOO) Posts A Quarterly Loss And Raises Its Outlook Anyway",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brp-doo-posts-quarterly-loss-163212953.html",
+      "published": "2026-09-12T16:32:12Z",
+      "ts": 1789230732
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Mama’s Creations (MAMA) Just Proved Its Growth Spurt Wasn’t A Fluke",
       "link": "https://finance.yahoo.com/markets/stocks/articles/mama-creations-mama-just-proved-162554673.html",
       "published": "2026-09-12T16:25:54Z",
@@ -312,6 +326,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Sirius XM CEO Highlights Cash Flow Growth, New Sports Plans and Ad Expansion at Conference",
+      "link": "https://finance.yahoo.com/media-advertising/articles/sirius-xm-ceo-highlights-cash-160158796.html",
+      "published": "2026-09-12T16:01:58Z",
+      "ts": 1789228918
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Samsara (IOT) Crosses $2B, But Growth Comes With A Hardware Tax",
       "link": "https://finance.yahoo.com/markets/stocks/articles/samsara-iot-crosses-2b-growth-160016151.html",
       "published": "2026-09-12T16:00:16Z",
@@ -323,13 +344,6 @@
       "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
       "published": "Sat, 12 Sep 2026 16:00:00 +0000",
       "ts": 1789228800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Palantir's Growth Has Kept Accelerating, but Can the Rally Continue?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/palantirs-growth-kept-accelerating-rally-155500148.html",
-      "published": "2026-09-12T15:55:00Z",
-      "ts": 1789228500
     },
     {
       "source": "CoinTelegraph",
@@ -346,25 +360,11 @@
       "ts": 1789227002
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Here's who stands to make money from the Anthropic IPO",
-      "link": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
-      "published": "2026-09-12T15:16:19Z",
-      "ts": 1789226179
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
       "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 12 Sep 2026 15:12:40 +0000",
       "ts": 1789225960
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Genesco (GCO) Proves Smaller Sales Can Still Mean Bigger Profits",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/genesco-gco-proves-smaller-sales-150521690.html",
-      "published": "2026-09-12T15:05:21Z",
-      "ts": 1789225521
     },
     {
       "source": "Investing Crypto",
