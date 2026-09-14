@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-14T07:29:18.215470Z",
+  "updated": "2026-09-14T07:47:04.036385Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar: CPI test for BoC inflation warning – BBH",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-cpi-test-for-boc-inflation-warning-bbh-202609140742",
+      "published": "Mon, 14 Sep 2026 07:42:26 GMT",
+      "ts": 1789371746
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies under pressure as dollar gains, yen stays elevated",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
+      "published": "2026-09-14 07:33:24",
+      "ts": 1789371204
+    },
+    {
+      "source": "FXStreet",
+      "title": "NZD/USD Price Forecast: Falls to July 29 lows as bears retain control below 0.5800",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-falls-to-july-29-lows-as-bears-retain-control-below-05800-202609140731",
+      "published": "Mon, 14 Sep 2026 07:31:53 GMT",
+      "ts": 1789371113
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canada CPI expected to show steady inflation in August",
+      "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-steady-inflation-in-august-202609140730",
+      "published": "Mon, 14 Sep 2026 07:30:00 GMT",
+      "ts": 1789371000
+    },
     {
       "source": "FXStreet",
       "title": "Euro extends losses against British Pound amid high Oil prices and risk-off markets",
@@ -29,6 +57,13 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-bullish-but-momentum-slowing-against-us-dollar-uob-202609140719",
       "published": "Mon, 14 Sep 2026 07:19:57 GMT",
       "ts": 1789370397
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trapped in $76K-$81K rectangle: Live breakout levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-14 07:11:31",
+      "ts": 1789369891
     },
     {
       "source": "CoinTelegraph",
@@ -59,27 +94,6 @@
       "ts": 1789369028
     },
     {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Likely trade sideways ahead of Fed-BoJ policy meetings",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-likely-trade-sideways-ahead-of-fed-boj-policy-meetings-202609140647",
-      "published": "Mon, 14 Sep 2026 06:47:34 GMT",
-      "ts": 1789368454
-    },
-    {
-      "source": "FXStreet",
-      "title": "Equities: Resilience versus rates and Oil shock – Danske Bank",
-      "link": "https://www.fxstreet.com/news/equities-resilience-versus-rates-and-oil-shock-danske-bank-202609140644",
-      "published": "Mon, 14 Sep 2026 06:44:57 GMT",
-      "ts": 1789368297
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD hovers above a key support in the $63.00 area",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-hovers-above-a-key-support-in-the-6300-area-202609140639",
-      "published": "Mon, 14 Sep 2026 06:39:04 GMT",
-      "ts": 1789367944
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin steady at $77.7k amid M.East tensions, rate hike jitters",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
@@ -92,13 +106,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 05:31:55 +0000",
       "ts": 1789363915
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies weaken as dollar rises, yen holds near seven-month high",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 05:22:47",
-      "ts": 1789363367
     },
     {
       "source": "CoinTelegraph",
@@ -284,6 +291,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "GE Aerospace (GE)’s $12 Billion CPP Acquisition Puts Its Growth Strategy to the Test",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-ge-12-billion-223833187.html",
+      "published": "2026-09-12T22:38:33Z",
+      "ts": 1789252713
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "U.S. Bancorp (USB)’s Dividend Increase Has More Behind It",
       "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-dividend-increase-221600807.html",
       "published": "2026-09-12T22:16:00Z",
@@ -354,17 +368,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/toast-stock-buy-record-9-195000742.html",
-      "published": "2026-09-12T19:50:00Z",
-      "ts": 1789242600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dear Nike Stock Fans, Mark Your Calendars for September 21",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-nike-stock-fans-mark-193002692.html",
-      "published": "2026-09-12T19:30:02Z",
-      "ts": 1789241402
+      "title": "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-stock-down-71-202000751.html",
+      "published": "2026-09-12T20:20:00Z",
+      "ts": 1789244400
     },
     {
       "source": "CoinDesk",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-yen-slips-dollar-holds-near-weekly-high-4897219",
       "published": "2026-09-11 19:17:21",
       "ts": 1789154241
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. 10-year yield briefly breaks 5% for first time since 2024 after Aug CPI",
-      "link": "https://www.investing.com/news/forex-news/european-debt-extended-in-5week-decline-on-rate-hikes-and-surging-oil-prices-4897325",
-      "published": "2026-09-11 13:03:28",
-      "ts": 1789131808
     }
   ]
 }
