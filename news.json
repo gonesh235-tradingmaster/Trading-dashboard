@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-14T05:56:12.828422Z",
+  "updated": "2026-09-14T06:17:53.845223Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Support at 1.1565 watched against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-support-at-11565-watched-against-us-dollar-uob-202609140613",
+      "published": "Mon, 14 Sep 2026 06:13:22 GMT",
+      "ts": 1789366402
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound weakens to near 1.3500 on Fed hike bets",
+      "link": "https://www.fxstreet.com/news/british-pound-weakens-to-near-13500-on-fed-hike-bets-202609140612",
+      "published": "Mon, 14 Sep 2026 06:12:03 GMT",
+      "ts": 1789366323
+    },
     {
       "source": "FXStreet",
       "title": "British Pound trades higher at start of UK data-packed, BoE policy week",
@@ -92,20 +106,6 @@
       "link": "https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 03:22:49 +0000",
       "ts": 1789356169
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index rises to near 99.50 as Fed rate hike bets increase",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-9950-as-fed-rate-hike-bets-increase-202609140309",
-      "published": "Mon, 14 Sep 2026 03:09:51 GMT",
-      "ts": 1789355391
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Shows resilience below 38.2% Fibo. near mid-0.7100s",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-shows-resilience-below-382-fibo-near-mid-07100s-202609140306",
-      "published": "Mon, 14 Sep 2026 03:06:35 GMT",
-      "ts": 1789355195
     },
     {
       "source": "MarketWatch",
@@ -270,6 +270,34 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Block, Inc (XYZ)’s Bank Charter Push Signals Bigger Ambitions in Digital Assets",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/block-inc-xyz-bank-charter-220930244.html",
+      "published": "2026-09-12T22:09:30Z",
+      "ts": 1789250970
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ACV Auctions (ACVA) Was This Week’s Top Stock — Here’s What Drove Gains",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-week-top-220605819.html",
+      "published": "2026-09-12T22:06:05Z",
+      "ts": 1789250765
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
+      "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html",
+      "published": "2026-09-12T22:05:58Z",
+      "ts": 1789250758
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html",
+      "published": "2026-09-12T22:03:11Z",
+      "ts": 1789250591
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar",
       "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html",
       "published": "2026-09-12T21:51:16Z",
@@ -311,6 +339,13 @@
       "ts": 1789239377
     },
     {
+      "source": "Yahoo Finance",
+      "title": "WisdomTree COO Lilien Jarrett Sells 30,000 Shares for $737,000",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wisdomtree-coo-lilien-jarrett-sells-185501162.html",
+      "published": "2026-09-12T18:55:01Z",
+      "ts": 1789239301
+    },
+    {
       "source": "CoinDesk",
       "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
       "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
@@ -330,41 +365,6 @@
       "link": "https://finance.yahoo.com/healthcare/articles/dear-unitedhealth-stock-fans-mark-183002378.html",
       "published": "2026-09-12T18:30:02Z",
       "ts": 1789237802
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Worried About RMDs in Retirement? 3 Key Moves to Lower the Hassle Factors.",
-      "link": "https://finance.yahoo.com/markets/articles/worried-rmds-retirement-3-key-182600115.html",
-      "published": "2026-09-12T18:26:00Z",
-      "ts": 1789237560
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Kenvue Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kenvue-underperforming-nasdaq-175724434.html",
-      "published": "2026-09-12T17:57:24Z",
-      "ts": 1789235844
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Sysco Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sysco-stock-underperforming-dow-174851000.html",
-      "published": "2026-09-12T17:48:51Z",
-      "ts": 1789235331
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Musk sent governments a message about the robot economy",
-      "link": "https://finance.yahoo.com/economy/articles/musk-sent-governments-message-robot-174700228.html",
-      "published": "2026-09-12T17:47:00Z",
-      "ts": 1789235220
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Is Exelon’s Stock Performance Compared to Other Regulated Utilities Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-stock-performance-compared-other-174300551.html",
-      "published": "2026-09-12T17:43:00Z",
-      "ts": 1789234980
     },
     {
       "source": "CoinTelegraph",
