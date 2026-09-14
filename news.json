@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-14T22:27:36.816883Z",
+  "updated": "2026-09-14T22:43:21.376740Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
+      "published": "Mon, 14 Sep 2026 22:34:18 +0000",
+      "ts": 1789425258
+    },
     {
       "source": "FXStreet",
       "title": "The Euro breaks both its moving averages as the Fed's hike becomes certain",
@@ -290,13 +297,6 @@
       "ts": 1789396068
     },
     {
-      "source": "CoinDesk",
-      "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
-      "link": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
-      "published": "Mon, 14 Sep 2026 14:06:28 +0000",
-      "ts": 1789394788
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
       "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -382,6 +382,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
+      "published": "2026-09-13T14:08:37Z",
+      "ts": 1789308517
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
+      "published": "2026-09-13T14:02:10Z",
+      "ts": 1789308130
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays",
       "link": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-worth-buying-shorting-140002756.html",
       "published": "2026-09-13T14:00:02Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html",
       "published": "2026-09-13T13:38:32Z",
       "ts": 1789306712
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html",
-      "published": "2026-09-13T13:36:58Z",
-      "ts": 1789306618
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-turns-lab-promises-133324594.html",
-      "published": "2026-09-13T13:33:24Z",
-      "ts": 1789306404
     }
   ]
 }
