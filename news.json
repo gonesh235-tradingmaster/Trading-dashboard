@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-14T04:28:00.519549Z",
+  "updated": "2026-09-14T04:45:05.855489Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609140435",
+      "published": "Mon, 14 Sep 2026 04:35:07 GMT",
+      "ts": 1789360507
+    },
     {
       "source": "FXStreet",
       "title": "EUR/JPY Price Forecast: Trades near 178.50 after rebounding from descending channel bottom",
@@ -78,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/wti-rebounds-toward-nearly-four-month-highs-after-saudi-pipeline-shutdown-202609140124",
       "published": "Mon, 14 Sep 2026 01:24:00 GMT",
       "ts": 1789349040
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound consolidates above 1.3500 vs USD ahead of this week's UK data, Fed, BoE",
-      "link": "https://www.fxstreet.com/news/british-pound-consolidates-above-13500-vs-usd-ahead-of-this-weeks-uk-data-fed-boe-202609140119",
-      "published": "Mon, 14 Sep 2026 01:19:13 GMT",
-      "ts": 1789348753
     },
     {
       "source": "MarketWatch",
@@ -284,10 +284,31 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Is Kenvue Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kenvue-underperforming-nasdaq-175724434.html",
+      "published": "2026-09-12T17:57:24Z",
+      "ts": 1789235844
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Sysco Stock Underperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sysco-stock-underperforming-dow-174851000.html",
+      "published": "2026-09-12T17:48:51Z",
+      "ts": 1789235331
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Musk sent governments a message about the robot economy",
       "link": "https://finance.yahoo.com/economy/articles/musk-sent-governments-message-robot-174700228.html",
       "published": "2026-09-12T17:47:00Z",
       "ts": 1789235220
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Is Exelon’s Stock Performance Compared to Other Regulated Utilities Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-stock-performance-compared-other-174300551.html",
+      "published": "2026-09-12T17:43:00Z",
+      "ts": 1789234980
     },
     {
       "source": "Yahoo Finance",
@@ -298,17 +319,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "My Parents Have Nothing Saved for Retirement and I'm Their Only Plan. They Expect to Move In With Me, but There's No Room for Them in My Home",
+      "link": "https://finance.yahoo.com/small-business/articles/parents-nothing-saved-retirement-im-173011642.html",
+      "published": "2026-09-12T17:30:11Z",
+      "ts": 1789234211
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test",
       "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pediatric-obesity-171917899.html",
       "published": "2026-09-12T17:19:17Z",
       "ts": 1789233557
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Larry Ellison Scraps Plan to Sell Up to $7.5 Billion Worth of Oracle Stock",
-      "link": "https://www.wsj.com/business/larry-ellison-scraps-plan-to-sell-up-to-7-5-billion-worth-of-oracle-stock-9f41edd2?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-12T17:10:00Z",
-      "ts": 1789233000
     },
     {
       "source": "Yahoo Finance",
@@ -323,27 +344,6 @@
       "link": "https://finance.yahoo.com/healthcare/articles/biomarin-shares-jump-5-global-170253036.html",
       "published": "2026-09-12T17:02:53Z",
       "ts": 1789232573
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Teva’s (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain",
-      "link": "https://finance.yahoo.com/healthcare/articles/teva-teva-125-million-bioxcel-165735518.html",
-      "published": "2026-09-12T16:57:35Z",
-      "ts": 1789232255
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Explains Why Merck (MRK) Is His Fantasy Defense Stock",
-      "link": "https://finance.yahoo.com/healthcare/articles/jim-cramer-explains-why-merck-164911925.html",
-      "published": "2026-09-12T16:49:11Z",
-      "ts": 1789231751
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ciena’s (CIEN) Backlog Just Hit $8.5B and Keeps Climbing",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ciena-cien-backlog-just-hit-164644198.html",
-      "published": "2026-09-12T16:46:44Z",
-      "ts": 1789231604
     },
     {
       "source": "CoinTelegraph",
