@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-14T06:45:34.666806Z",
+  "updated": "2026-09-14T07:11:10.399981Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah slips due to stronger US Dollar, soaring oil prices",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-slips-due-to-stronger-us-dollar-soaring-oil-prices-202609140703",
+      "published": "Mon, 14 Sep 2026 07:03:12 GMT",
+      "ts": 1789369392
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/CAD Price Forecast: Edges higher above 1.3850, but bearish bias persists",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-edges-higher-above-13850-but-bearish-bias-persists-202609140701",
+      "published": "Mon, 14 Sep 2026 07:01:00 GMT",
+      "ts": 1789369260
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Growth distortions and rate risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/british-pound-growth-distortions-and-rate-risks-commerzbank-202609140657",
+      "published": "Mon, 14 Sep 2026 06:57:08 GMT",
+      "ts": 1789369028
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Likely trade sideways ahead of Fed-BoJ policy meetings",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-likely-trade-sideways-ahead-of-fed-boj-policy-meetings-202609140647",
+      "published": "Mon, 14 Sep 2026 06:47:34 GMT",
+      "ts": 1789368454
+    },
     {
       "source": "FXStreet",
       "title": "Equities: Resilience versus rates and Oil shock – Danske Bank",
@@ -31,6 +59,13 @@
       "ts": 1789367652
     },
     {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steady at $77.7k amid M.East tensions, rate hike jitters",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
+      "published": "2026-09-14 06:30:37",
+      "ts": 1789367437
+    },
+    {
       "source": "FXStreet",
       "title": "Brent: Middle East risks support prices – ING",
       "link": "https://www.fxstreet.com/news/brent-middle-east-risks-support-prices-ing-202609140621",
@@ -45,32 +80,11 @@
       "ts": 1789366402
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound weakens to near 1.3500 on Fed hike bets",
-      "link": "https://www.fxstreet.com/news/british-pound-weakens-to-near-13500-on-fed-hike-bets-202609140612",
-      "published": "Mon, 14 Sep 2026 06:12:03 GMT",
-      "ts": 1789366323
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound trades higher at start of UK data-packed, BoE policy week",
-      "link": "https://www.fxstreet.com/news/british-pound-trades-higher-at-start-of-uk-data-packed-boe-policy-week-202609140536",
-      "published": "Mon, 14 Sep 2026 05:36:53 GMT",
-      "ts": 1789364213
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 05:31:55 +0000",
       "ts": 1789363915
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Retains bullish bias above mid-$98.00s and 61.8% Fibo.",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-retains-bullish-bias-above-mid-9800s-and-618-fibo-202609140524",
-      "published": "Mon, 14 Sep 2026 05:24:48 GMT",
-      "ts": 1789363488
     },
     {
       "source": "Investing Forex",
@@ -85,13 +99,6 @@
       "link": "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 05:16:59 +0000",
       "ts": 1789363019
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc weakens as US Dollar gains on Fed rate hike odds",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-gains-on-fed-rate-hike-odds-202609140511",
-      "published": "Mon, 14 Sep 2026 05:11:44 GMT",
-      "ts": 1789362704
     },
     {
       "source": "CoinTelegraph",
@@ -270,6 +277,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "U.S. Bancorp (USB)’s Dividend Increase Has More Behind It",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-dividend-increase-221600807.html",
+      "published": "2026-09-12T22:16:00Z",
+      "ts": 1789251360
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Here is Why Piper Sandler Named Q2 Holdings (QTWO) Its Top Pick",
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-piper-sandler-named-q2-221304680.html",
       "published": "2026-09-12T22:13:04Z",
@@ -333,24 +347,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Comcast CFO warns of a rising threat as internet customers depart",
+      "link": "https://finance.yahoo.com/technology/articles/comcast-cfo-sends-stern-warning-193700479.html",
+      "published": "2026-09-12T19:37:00Z",
+      "ts": 1789241820
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Dear Nike Stock Fans, Mark Your Calendars for September 21",
       "link": "https://finance.yahoo.com/markets/stocks/articles/dear-nike-stock-fans-mark-193002692.html",
       "published": "2026-09-12T19:30:02Z",
       "ts": 1789241402
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Much Do You Really Need Invested in Bristol Myers Squibb to Collect $10,000 a Year?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/much-really-invested-bristol-myers-191537674.html",
-      "published": "2026-09-12T19:15:37Z",
-      "ts": 1789240537
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Google Just Dropped a Bombshell on AI Spending — Alphabet’s $200 Billion AI Bet Is Starting to Pay Off Big",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-just-dropped-bombshell-ai-185617741.html",
-      "published": "2026-09-12T18:56:17Z",
-      "ts": 1789239377
     },
     {
       "source": "CoinDesk",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/european-debt-extended-in-5week-decline-on-rate-hikes-and-surging-oil-prices-4897325",
       "published": "2026-09-11 13:03:28",
       "ts": 1789131808
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound steady as UK GDP beats, dollar firms on CPI bets",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-uk-gdp-beats-dollar-firms-on-cpi-bets-4897403",
-      "published": "2026-09-11 09:09:22",
-      "ts": 1789117762
     }
   ]
 }
