@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-15T04:46:49.646978Z",
+  "updated": "2026-09-15T05:10:10.935369Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah weakens amid stronger US Dollar, higher oil prices",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-amid-stronger-us-dollar-higher-oil-prices-202609150453",
+      "published": "Tue, 15 Sep 2026 04:53:21 GMT",
+      "ts": 1789448001
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen sticks to losses against bullish USD as traders await Fed, BoJ meetings loom",
@@ -106,13 +113,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-remains-depressed-below-mid-07100s-vs-bullish-usd-after-chinese-data-202609150227",
       "published": "Tue, 15 Sep 2026 02:27:21 GMT",
       "ts": 1789439241
-    },
-    {
-      "source": "FXStreet",
-      "title": "China’s Retail Sales rise 0.4% in August, Industrial Production up 5.2%",
-      "link": "https://www.fxstreet.com/news/chinas-retail-sales-rise-04-in-august-industrial-production-up-52-202609150207",
-      "published": "Tue, 15 Sep 2026 02:07:06 GMT",
-      "ts": 1789438026
     },
     {
       "source": "CoinTelegraph",
@@ -312,6 +312,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "National specialty clothing chain closing all its stores",
+      "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
+      "published": "2026-09-14T14:07:00Z",
+      "ts": 1789394820
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Costco rations Kirkland motor oil, raises price to $57.99",
       "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
       "published": "2026-09-14T13:33:08Z",
@@ -389,6 +396,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wonder-deal-240m-cash-31-183225342.html",
+      "published": "2026-09-13T18:32:25Z",
+      "ts": 1789324345
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia’s Jensen Huang Just Delivered a Huge Vote of Confidence to CoreWeave and Nebius",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-just-delivered-183002396.html",
+      "published": "2026-09-13T18:30:02Z",
+      "ts": 1789324202
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Navan (NAVN) Rides Enterprise Momentum Into Events and Meetings Through BoomPop Deal",
       "link": "https://finance.yahoo.com/technology/ai/articles/navan-navn-rides-enterprise-momentum-171047781.html",
       "published": "2026-09-13T17:10:47Z",
@@ -400,27 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/dear-spacex-stock-fans-mark-170826925.html",
       "published": "2026-09-13T17:08:26Z",
       "ts": 1789319306
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Korn Ferry (KFY) Expands Global Standing With AMS Acquisition",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/korn-ferry-kfy-expands-global-170618310.html",
-      "published": "2026-09-13T17:06:18Z",
-      "ts": 1789319178
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fed Decision, Retail Sales and Other Can't Miss Items This Week",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-decision-retail-sales-other-170002358.html",
-      "published": "2026-09-13T17:00:02Z",
-      "ts": 1789318802
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
-      "published": "2026-09-13T16:59:17Z",
-      "ts": 1789318757
     }
   ]
 }
