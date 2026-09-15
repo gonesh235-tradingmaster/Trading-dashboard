@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-15T10:17:04.062893Z",
+  "updated": "2026-09-15T10:40:30.498773Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
+      "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 10:37:00 GMT",
+      "ts": 1789468620
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+      "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
+      "published": "Tue, 15 Sep 2026 10:27:55 +0000",
+      "ts": 1789468075
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Standard Chartered sees Arbitrum’s ARB token soaring 70x by 2030",
+      "link": "https://www.investing.com/news/cryptocurrency-news/standard-chartered-sees-arbitrums-arb-token-soaring-70x-by-2030-4901206",
+      "published": "2026-09-15 10:27:16",
+      "ts": 1789468036
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Google’s Traffic Numbers Look Fine, Its Search Economics Tell Another Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/google-traffic-numbers-look-fine-102257813.html",
+      "published": "2026-09-15T10:22:57Z",
+      "ts": 1789467777
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Brent rises above $107 as attacks, pipeline outage deepen Saudi supply concerns",
+      "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
+      "published": "2026-09-15T10:19:18Z",
+      "ts": 1789467558
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Legendary investor made an estimated $100 million on 1987 crash, now says investors could see 'negative 10-year returns'",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/legendary-investor-made-estimated-100-101500873.html",
+      "published": "2026-09-15T10:15:00Z",
+      "ts": 1789467300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Morgan Stanley Direct Lending (MSDL) Holds Its Dividend As Profits Slip",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-direct-lending-msdl-100821111.html",
+      "published": "2026-09-15T10:08:21Z",
+      "ts": 1789466901
+    },
     {
       "source": "CoinDesk",
       "title": "Nigel Farage-backed Stack BTC eyes $16 million gold dealer deal to fund bitcoin buy",
@@ -17,32 +66,18 @@
       "ts": 1789466768
     },
     {
+      "source": "Yahoo Finance",
+      "title": "The Fed May Hike Again. Here’s Why CoreWeave and IREN Face Different Rate Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fed-may-hike-again-why-100523628.html",
+      "published": "2026-09-15T10:05:23Z",
+      "ts": 1789466723
+    },
+    {
       "source": "CoinTelegraph",
       "title": "US House crypto tax package omits mining, staking reward deferral",
       "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 10:04:21 +0000",
       "ts": 1789466661
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Edgewell’s (EPC) Margins Slip Even As North America Rebounds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/edgewell-epc-margins-slip-even-100001418.html",
-      "published": "2026-09-15T10:00:01Z",
-      "ts": 1789466401
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Tuesday, September 15, 2026: Rates cross the 7% threshold",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-15-2026-rates-cross-the-7-threshold-100000413.html",
-      "published": "2026-09-15T10:00:00Z",
-      "ts": 1789466400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Best CD rates today, Tuesday, September 15, 2026: Lock in up to 4.40% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-15-2026-lock-in-up-to-440-apy-100000502.html",
-      "published": "2026-09-15T10:00:00Z",
-      "ts": 1789466400
     },
     {
       "source": "MarketWatch",
@@ -178,13 +213,6 @@
       "ts": 1789460333
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures retreat ahead of Fed meeting amid AI safety fears",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
-      "published": "2026-09-15T08:13:07Z",
-      "ts": 1789459987
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
@@ -311,13 +339,6 @@
       "ts": 1789430460
     },
     {
-      "source": "CoinDesk",
-      "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
-      "link": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
-      "published": "Mon, 14 Sep 2026 23:43:28 +0000",
-      "ts": 1789429408
-    },
-    {
       "source": "MarketWatch",
       "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
       "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
@@ -351,13 +372,6 @@
       "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 21:31:00 GMT",
       "ts": 1789421460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
-      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
-      "ts": 1789420260
     },
     {
       "source": "Investing Forex",
@@ -395,13 +409,6 @@
       "ts": 1789387667
     },
     {
-      "source": "Yahoo Finance",
-      "title": "HELOC and home equity loan rates today, Tuesday, September 15, 2026: Besides rates, how to choose between a HELOC or home equity loan",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-september-15-2026-besides-rates-how-to-choose-between-a-heloc-or-home-equity-loan-100000523.html",
-      "published": "2026-09-14T10:00:00Z",
-      "ts": 1789380000
-    },
-    {
       "source": "Investing Forex",
       "title": "BofA sees dollar sideways into year-end despite Fed hike bets",
       "link": "https://www.investing.com/news/forex-news/bofa-sees-dollar-sideways-into-yearend-despite-fed-hike-bets-93CH-4899034",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/bofa-says-danish-krone-weakness-driven-by-flows-not-peg-fears-93CH-4898992",
       "published": "2026-09-14 09:23:41",
       "ts": 1789377821
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as oil-driven dollar rally weighs",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-oildriven-dollar-rally-weighs-4898927",
-      "published": "2026-09-14 08:16:38",
-      "ts": 1789373798
     }
   ]
 }
