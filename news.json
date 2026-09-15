@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-15T01:54:40.002422Z",
+  "updated": "2026-09-15T02:11:47.223624Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "China’s Retail Sales rise 0.4% in August, Industrial Production up 5.2%",
+      "link": "https://www.fxstreet.com/news/chinas-retail-sales-rise-04-in-august-industrial-production-up-52-202609150207",
+      "published": "Tue, 15 Sep 2026 02:07:06 GMT",
+      "ts": 1789438026
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound drifts lower below 1.3500 as Fed hike bets rise, UK jobs data loom",
+      "link": "https://www.fxstreet.com/news/british-pound-drifts-lower-below-13500-as-fed-hike-bets-rise-uk-jobs-data-loom-202609150156",
+      "published": "Tue, 15 Sep 2026 01:56:17 GMT",
+      "ts": 1789437377
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD falls to near $63.00 amid rising inflation, Treasury yields",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6300-amid-rising-inflation-treasury-yields-202609150155",
+      "published": "Tue, 15 Sep 2026 01:55:41 GMT",
+      "ts": 1789437341
+    },
     {
       "source": "FXStreet",
       "title": "Euro remains depressed below mid-1.1500s vs bullish USD as focus remains on FOMC",
@@ -94,32 +115,11 @@
       "ts": 1789427940
     },
     {
-      "source": "FXStreet",
-      "title": "Gold falls below $4,300 as higher US yields bolster Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/gold-falls-below-4-300-as-higher-us-yields-bolster-fed-rate-hike-bets-202609142314",
-      "published": "Mon, 14 Sep 2026 23:14:36 GMT",
-      "ts": 1789427676
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar gets caught between AI selloff and 5% US yields",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gets-caught-between-ai-selloff-and-5-us-yields-202609142246",
-      "published": "Mon, 14 Sep 2026 22:46:21 GMT",
-      "ts": 1789425981
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
       "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
       "published": "Mon, 14 Sep 2026 22:34:18 +0000",
       "ts": 1789425258
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Euro breaks both its moving averages as the Fed's hike becomes certain",
-      "link": "https://www.fxstreet.com/news/the-euro-breaks-both-its-moving-averages-as-the-feds-hike-becomes-certain-202609142226",
-      "published": "Mon, 14 Sep 2026 22:26:58 GMT",
-      "ts": 1789424818
     },
     {
       "source": "MarketWatch",
@@ -375,6 +375,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Being a millionaire isn’t enough to join America’s top 10% — here’s the net worth it actually takes to be in the top",
+      "link": "https://finance.yahoo.com/markets/articles/being-millionaire-isn-t-enough-164500172.html",
+      "published": "2026-09-13T16:45:00Z",
+      "ts": 1789317900
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Zcash Price Prediction: Bearish RSI Divergence Sets Stage for Pullback to $850",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-prediction-bearish-rsi-160848407.html",
+      "published": "2026-09-13T16:08:48Z",
+      "ts": 1789315728
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Pay is back on the rise for job switchers, even in low-hire job market",
       "link": "https://finance.yahoo.com/economy/article/pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
       "published": "2026-09-13T15:45:04Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
       "published": "2026-09-13T14:08:37Z",
       "ts": 1789308517
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
-      "published": "2026-09-13T14:02:10Z",
-      "ts": 1789308130
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-worth-buying-shorting-140002756.html",
-      "published": "2026-09-13T14:00:02Z",
-      "ts": 1789308002
     }
   ]
 }
