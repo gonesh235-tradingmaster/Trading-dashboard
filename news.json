@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-15T21:24:53.765606Z",
+  "updated": "2026-09-15T21:37:51.820744Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+      "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 21:34:00 GMT",
+      "ts": 1789508040
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar slides ahead of Fed’s decision",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slides-ahead-of-feds-decision-202609152129",
+      "published": "Tue, 15 Sep 2026 21:29:27 GMT",
+      "ts": 1789507767
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
+      "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 21:23:00 +0000",
+      "ts": 1789507380
+    },
     {
       "source": "FXStreet",
       "title": "Chinese Yuan: Range-bound with slight downside bias against US Dollar – UOB",
@@ -15,13 +36,6 @@
       "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 21:15:00 GMT",
       "ts": 1789506900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "2 charts showing how oil is becoming the market’s biggest wild card",
-      "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 21:07:00 GMT",
-      "ts": 1789506420
     },
     {
       "source": "MarketWatch",
@@ -199,13 +213,6 @@
       "ts": 1789497844
     },
     {
-      "source": "FXStreet",
-      "title": "China: Growth risks rise with softer demand – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/china-growth-risks-rise-with-softer-demand-standard-chartered-202609151837",
-      "published": "Tue, 15 Sep 2026 18:37:00 GMT",
-      "ts": 1789497420
-    },
-    {
       "source": "CoinDesk",
       "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
       "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
@@ -346,13 +353,6 @@
       "ts": 1789468036
     },
     {
-      "source": "CoinTelegraph",
-      "title": "US House crypto tax package omits mining, staking reward deferral",
-      "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 10:04:21 +0000",
-      "ts": 1789466661
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Tesla, Microsoft and Amazon Forecast: Tech Stocks Diverge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-microsoft-amazon-forecast-tech-131133844.html",
+      "published": "2026-09-14T13:11:33Z",
+      "ts": 1789391493
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ResMed Stock: Is RMD Underperforming the Healthcare Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/resmed-stock-rmd-underperforming-healthcare-130726425.html",
+      "published": "2026-09-14T13:07:26Z",
+      "ts": 1789391246
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Chase Home Lendings' mortgage rate sale returns for a 3-week run",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
       "published": "2026-09-14T13:01:00Z",
       "ts": 1789390860
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Amazon's Operating Cash Flow Could Push AMZN Over $314 - What's the Best AMZN Play?",
-      "link": "https://finance.yahoo.com/markets/options/articles/amazons-operating-cash-flow-could-130002375.html",
-      "published": "2026-09-14T13:00:02Z",
-      "ts": 1789390802
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "LX Pantos Sets Its Sights on Global Logistics Leadership",
-      "link": "https://finance.yahoo.com/small-business/articles/lx-pantos-sets-sights-global-130000075.html",
-      "published": "2026-09-14T13:00:00Z",
-      "ts": 1789390800
     }
   ]
 }
