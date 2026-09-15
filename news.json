@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-15T10:53:15.343530Z",
+  "updated": "2026-09-15T11:09:50.744475Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Factory robots long posed a safety threat to human workers. One company says it’s solved that problem.",
+      "link": "https://www.marketwatch.com/story/factory-robots-long-posed-a-safety-threat-to-human-workers-one-company-says-its-solved-that-problem-2db84297?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 11:02:00 GMT",
+      "ts": 1789470120
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why banks should stop worrying and learn to love the Clarity Act",
+      "link": "https://www.coindesk.com/opinion/2026/09/15/why-banks-should-stop-worrying-and-learn-to-love-the-clarity-act",
+      "published": "Tue, 15 Sep 2026 11:00:00 +0000",
+      "ts": 1789470000
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
+      "link": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
+      "published": "Tue, 15 Sep 2026 11:00:00 +0000",
+      "ts": 1789470000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Jewelry sales are heating up as Gen Z seeks out ‘little treats’ and the ultra-rich go for chunky gold",
+      "link": "https://www.marketwatch.com/story/jewelry-sales-are-heating-up-as-gen-z-seeks-out-little-treats-and-the-ultra-rich-go-for-chunky-gold-d4daa34a?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 11:00:00 GMT",
+      "ts": 1789470000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Surging US Treasury yields are starting to spook investors",
+      "link": "https://finance.yahoo.com/markets/article/surging-us-treasury-yields-are-starting-to-spook-investors-105608069.html",
+      "published": "2026-09-15T10:56:08Z",
+      "ts": 1789469768
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AI scammers are scouring obituaries to target widows — one lost $7,000 after being told her late husband evaded taxes",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-scammers-scouring-obituaries-target-104500023.html",
+      "published": "2026-09-15T10:45:00Z",
+      "ts": 1789469100
+    },
     {
       "source": "FXStreet",
       "title": "British Pound trades mixed after steady UK employment report, CPI data eyed",
@@ -50,27 +92,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/google-traffic-numbers-look-fine-102257813.html",
       "published": "2026-09-15T10:22:57Z",
       "ts": 1789467777
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Brent rises above $107 as attacks, pipeline outage deepen Saudi supply concerns",
-      "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
-      "published": "2026-09-15T10:19:18Z",
-      "ts": 1789467558
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Legendary investor made an estimated $100 million on 1987 crash, now says investors could see 'negative 10-year returns'",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/legendary-investor-made-estimated-100-101500873.html",
-      "published": "2026-09-15T10:15:00Z",
-      "ts": 1789467300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Morgan Stanley Direct Lending (MSDL) Holds Its Dividend As Profits Slip",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-direct-lending-msdl-100821111.html",
-      "published": "2026-09-15T10:08:21Z",
-      "ts": 1789466901
     },
     {
       "source": "CoinDesk",
@@ -200,7 +221,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Morgan Stanley joins Goldman Sachs in 11th-hour switch to forecasting a Fed hike",
+      "title": "Morgan Stanley joins Goldman Sachs in 11th-hour switch to predict a Fed hike",
       "link": "https://www.marketwatch.com/story/morgan-stanley-joins-goldman-sachs-in-11th-hour-switch-to-forecasting-a-fed-hike-c7597bda?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 09:05:00 GMT",
       "ts": 1789463100
@@ -218,6 +239,13 @@
       "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 08:18:53 +0000",
       "ts": 1789460333
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures retreat ahead of Fed meeting amid AI safety fears",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+      "published": "2026-09-15T08:13:07Z",
+      "ts": 1789459987
     },
     {
       "source": "Investing Forex",
@@ -297,25 +325,11 @@
       "ts": 1789445956
     },
     {
-      "source": "CoinDesk",
-      "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
-      "link": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
-      "published": "Tue, 15 Sep 2026 04:09:01 +0000",
-      "ts": 1789445341
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
       "link": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 03:33:23 +0000",
       "ts": 1789443203
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
-      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
-      "published": "Tue, 15 Sep 2026 03:27:38 +0000",
-      "ts": 1789442858
     },
     {
       "source": "CoinTelegraph",
@@ -346,13 +360,6 @@
       "ts": 1789427940
     },
     {
-      "source": "MarketWatch",
-      "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
-      "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 21:57:00 GMT",
-      "ts": 1789423020
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
@@ -365,13 +372,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
       "published": "2026-09-14 21:54:08",
       "ts": 1789422848
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
-      "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 21:31:00 GMT",
-      "ts": 1789421460
     },
     {
       "source": "Investing Forex",
