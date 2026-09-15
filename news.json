@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-15T08:31:42.559070Z",
+  "updated": "2026-09-15T08:57:11.680063Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar holds gains as higher oil prices weigh on Japanese Yen",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-gains-as-higher-oil-prices-weigh-on-japanese-yen-202609150855",
+      "published": "Tue, 15 Sep 2026 08:55:39 GMT",
+      "ts": 1789462539
+    },
+    {
+      "source": "FXStreet",
+      "title": "CEE FX: Higher rates seen cushioning currencies – ING",
+      "link": "https://www.fxstreet.com/news/cee-fx-higher-rates-seen-cushioning-currencies-ing-202609150853",
+      "published": "Tue, 15 Sep 2026 08:53:26 GMT",
+      "ts": 1789462406
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
+      "link": "https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 08:46:35 +0000",
+      "ts": 1789461995
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar languishes near 0.8200 as Fed tightening bets buoy US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-languishes-near-08200-as-fed-tightening-bets-buoy-us-dollar-202609150845",
+      "published": "Tue, 15 Sep 2026 08:45:50 GMT",
+      "ts": 1789461950
+    },
+    {
+      "source": "FXStreet",
+      "title": "Federal Reserve: Rate hiking path and global yields – BNY",
+      "link": "https://www.fxstreet.com/news/federal-reserve-rate-hiking-path-and-global-yields-bny-202609150837",
+      "published": "Tue, 15 Sep 2026 08:37:14 GMT",
+      "ts": 1789461434
+    },
+    {
+      "source": "FXStreet",
+      "title": "NZD/USD Price Forecast: Finds bids below 61.8% Fibo retracement",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-finds-bids-below-618-fibo-retracement-202609150835",
+      "published": "Tue, 15 Sep 2026 08:35:23 GMT",
+      "ts": 1789461323
+    },
     {
       "source": "FXStreet",
       "title": "Euro advances against Japanese Yen ahead of ZEW Survey data",
@@ -36,41 +78,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
       "published": "2026-09-15 08:06:27",
       "ts": 1789459587
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures fall as traders brace for Fed rate decision",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-fall-as-traders-brace-for-fed-rate-decision-202609150804",
-      "published": "Tue, 15 Sep 2026 08:04:47 GMT",
-      "ts": 1789459487
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee: RBI seen starting mini hiking cycle - Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-seen-starting-mini-hiking-cycle-societe-generale-202609150803",
-      "published": "Tue, 15 Sep 2026 08:03:07 GMT",
-      "ts": 1789459387
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Resistance at 155.20 likely to test bulls",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-resistance-at-15520-likely-to-test-bulls-202609150801",
-      "published": "Tue, 15 Sep 2026 08:01:58 GMT",
-      "ts": 1789459318
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Rising yields support risk-off tone – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-rising-yields-support-risk-off-tone-mufg-202609150750",
-      "published": "Tue, 15 Sep 2026 07:50:57 GMT",
-      "ts": 1789458657
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro declines against Canadian Dollar despite ECB rate hike hopes",
-      "link": "https://www.fxstreet.com/news/euro-declines-against-canadian-dollar-despite-ecb-rate-hike-hopes-202609150749",
-      "published": "Tue, 15 Sep 2026 07:49:27 GMT",
-      "ts": 1789458567
     },
     {
       "source": "Investing Forex",
@@ -137,7 +144,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Indian Rupee plunges again as US Treasury Yields hit 5%",
+      "title": "Indian Rupee faces backlash as US Treasury Yields rally historic highs",
       "link": "https://www.fxstreet.com/news/indian-rupee-declines-further-as-us-treasury-yields-extend-rally-202609150530",
       "published": "Tue, 15 Sep 2026 05:30:46 GMT",
       "ts": 1789450246
@@ -332,13 +339,6 @@
       "ts": 1789408212
     },
     {
-      "source": "CoinTelegraph",
-      "title": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
-      "link": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 17:42:04 +0000",
-      "ts": 1789407724
-    },
-    {
       "source": "Yahoo Finance",
       "title": "National specialty clothing chain closing all its stores",
       "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
@@ -403,6 +403,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "An $80 Billion Treasury Shift Could Be a Warning for U.S. Bonds",
+      "link": "https://finance.yahoo.com/markets/articles/80-billion-treasury-shift-could-020002705.html",
+      "published": "2026-09-14T02:00:02Z",
+      "ts": 1789351202
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "AI agents to start spending your money with Visa, Mastercard",
       "link": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html",
       "published": "2026-09-14T01:03:00Z",
@@ -414,13 +421,6 @@
       "link": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
       "published": "2026-09-13T23:34:11Z",
       "ts": 1789342451
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
-      "link": "https://finance.yahoo.com/energy/articles/stanchart-warns-oil-now-built-230000074.html",
-      "published": "2026-09-13T23:00:00Z",
-      "ts": 1789340400
     }
   ]
 }
