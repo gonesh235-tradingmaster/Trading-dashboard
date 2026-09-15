@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-15T22:50:02.229443Z",
+  "updated": "2026-09-15T23:09:20.044134Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar softens as risk-off mood meets FOMC countdown",
+      "link": "https://www.fxstreet.com/news/australian-dollar-as-risk-off-mood-meets-fomc-countdown-202609152255",
+      "published": "Tue, 15 Sep 2026 22:55:22 GMT",
+      "ts": 1789512922
+    },
     {
       "source": "FXStreet",
       "title": "The Euro edges lower as Frankfurt's hike takes effect the day Washington votes",
@@ -39,7 +46,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "There were many conductors in the derailment of the crypto industry's Clarity Act",
+      "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
       "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
       "published": "Tue, 15 Sep 2026 21:58:48 +0000",
       "ts": 1789509528
@@ -176,13 +183,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 19:53:13 +0000",
       "ts": 1789501993
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Slow appreciation with weak demand – Commerzbank",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-slow-appreciation-with-weak-demand-commerzbank-202609151949",
-      "published": "Tue, 15 Sep 2026 19:49:00 GMT",
-      "ts": 1789501740
     },
     {
       "source": "Investing Crypto",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "The EV Bubble Has Burst. How to Play Rivian Stock Now.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ev-bubble-burst-play-rivian-143418979.html",
-      "published": "2026-09-14T14:34:18Z",
-      "ts": 1789396458
+      "title": "Walmart (WMT) Delivery Push Gains Momentum with Papa John’s Partnership",
+      "link": "https://finance.yahoo.com/media-advertising/articles/walmart-wmt-delivery-push-gains-150509817.html",
+      "published": "2026-09-14T15:05:09Z",
+      "ts": 1789398309
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dollar Climbs as Stocks Sink and Crude Oil Surges",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-stocks-sink-crude-143325158.html",
-      "published": "2026-09-14T14:33:25Z",
-      "ts": 1789396405
+      "title": "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/vale-vale-deepens-china-ties-150347789.html",
+      "published": "2026-09-14T15:03:47Z",
+      "ts": 1789398227
     },
     {
       "source": "Yahoo Finance",
-      "title": "5 habits rich retirees lean on to protect their wealth in retirement",
-      "link": "https://finance.yahoo.com/markets/articles/5-habits-rich-retirees-lean-143000557.html",
-      "published": "2026-09-14T14:30:00Z",
-      "ts": 1789396200
+      "title": "Energy Transfer’s Texas Listing Could Boost Visibility, but Risks Remain",
+      "link": "https://finance.yahoo.com/energy/articles/energy-transfer-texas-listing-could-150231871.html",
+      "published": "2026-09-14T15:02:31Z",
+      "ts": 1789398151
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Devon Energy Stock Outperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-stock-outperforming-p-142950910.html",
-      "published": "2026-09-14T14:29:50Z",
-      "ts": 1789396190
+      "title": "Half of Gen X expects to outlive their savings — 5 toxic habits that could quietly wreck your retirement",
+      "link": "https://finance.yahoo.com/markets/articles/half-gen-x-expects-outlive-150000293.html",
+      "published": "2026-09-14T15:00:00Z",
+      "ts": 1789398000
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hub Group warns of Nasdaq delisting notice; flags H1 operating loss",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hub-group-warns-nasdaq-delisting-142643603.html",
-      "published": "2026-09-14T14:26:43Z",
-      "ts": 1789396003
+      "title": "Coffee Prices Fall as Production Spikes and Consumption Chills",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/coffee-prices-fall-production-spikes-145910581.html",
+      "published": "2026-09-14T14:59:10Z",
+      "ts": 1789397950
     }
   ]
 }
