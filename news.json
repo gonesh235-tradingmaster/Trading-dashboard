@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-15T10:40:30.498773Z",
+  "updated": "2026-09-15T10:53:15.343530Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound trades mixed after steady UK employment report, CPI data eyed",
+      "link": "https://www.fxstreet.com/news/british-pound-trades-mixed-after-steady-uk-employment-report-cpi-data-eyed-202609151045",
+      "published": "Tue, 15 Sep 2026 10:45:00 GMT",
+      "ts": 1789469100
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
+      "published": "Tue, 15 Sep 2026 10:41:35 +0000",
+      "ts": 1789468895
+    },
     {
       "source": "MarketWatch",
       "title": "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
       "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 10:37:00 GMT",
       "ts": 1789468620
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Moody's Mark Zandi warns of a 'serious' mistake if the Fed hikes rates as Wall Street expects a quarter-point increase",
+      "link": "https://finance.yahoo.com/economy/policy/articles/moodys-mark-zandi-warns-serious-103000972.html",
+      "published": "2026-09-15T10:30:00Z",
+      "ts": 1789468200
     },
     {
       "source": "CoinDesk",
@@ -64,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/bank-of-japan-gradual-normalisation-path-outlined-standard-chartered-202609151006",
       "published": "Tue, 15 Sep 2026 10:06:08 GMT",
       "ts": 1789466768
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Fed May Hike Again. Here’s Why CoreWeave and IREN Face Different Rate Risks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fed-may-hike-again-why-100523628.html",
-      "published": "2026-09-15T10:05:23Z",
-      "ts": 1789466723
     },
     {
       "source": "CoinTelegraph",
@@ -192,13 +206,6 @@
       "ts": 1789463100
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound: Stronger growth offsets labour weakness – MUFG",
-      "link": "https://www.fxstreet.com/news/british-pound-stronger-growth-offsets-labour-weakness-mufg-202609150903",
-      "published": "Tue, 15 Sep 2026 09:03:32 GMT",
-      "ts": 1789463012
-    },
-    {
       "source": "CoinTelegraph",
       "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
       "link": "https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -309,13 +316,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
       "published": "Tue, 15 Sep 2026 03:27:38 +0000",
       "ts": 1789442858
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
-      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
-      "published": "Tue, 15 Sep 2026 03:23:28 +0000",
-      "ts": 1789442608
     },
     {
       "source": "CoinTelegraph",
