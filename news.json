@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-15T23:09:20.044134Z",
+  "updated": "2026-09-15T23:24:23.754133Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold declines below $4,300 as US yields climb, Fed rate decision looms",
+      "link": "https://www.fxstreet.com/news/gold-declines-below-4-300-as-us-yields-climb-fed-rate-decision-looms-202609152313",
+      "published": "Tue, 15 Sep 2026 23:13:14 GMT",
+      "ts": 1789513994
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+      "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 23:09:00 GMT",
+      "ts": 1789513740
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar softens as risk-off mood meets FOMC countdown",
@@ -157,25 +171,11 @@
       "ts": 1789504020
     },
     {
-      "source": "MarketWatch",
-      "title": "Dow clinches its worst September start since 2008 as history repeats itself",
-      "link": "https://www.marketwatch.com/story/dow-clinches-its-worst-september-start-since-2008-as-history-repeats-itself-57d11f3f?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 20:20:00 GMT",
-      "ts": 1789503600
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto stocks sink after Senate rejects Clarity Act",
       "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
       "published": "Tue, 15 Sep 2026 20:03:17 +0000",
       "ts": 1789502597
-    },
-    {
-      "source": "FXStreet",
-      "title": "Crude Oil rallies again as Saudi Arabia's route around Hormuz shuts",
-      "link": "https://www.fxstreet.com/news/crude-oil-rallies-again-as-saudi-arabias-route-around-hormuz-shuts-202609151958",
-      "published": "Tue, 15 Sep 2026 19:58:13 GMT",
-      "ts": 1789502293
     },
     {
       "source": "CoinTelegraph",
@@ -389,6 +389,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "How Cloud Infrastructure Strategy Can Keep Taking Oracle Stock Even Higher",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cloud-infrastructure-strategy-keep-taking-152133820.html",
+      "published": "2026-09-14T15:21:33Z",
+      "ts": 1789399293
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stocks Slump on AI Slowdown Fears and Rising Bond Yields and Crude Prices",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slump-ai-slowdown-fears-151337488.html",
+      "published": "2026-09-14T15:13:37Z",
+      "ts": 1789398817
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Europe’s AI Trade Hits Reverse",
+      "link": "https://finance.yahoo.com/technology/ai/articles/europe-ai-trade-hits-reverse-151219286.html",
+      "published": "2026-09-14T15:12:19Z",
+      "ts": 1789398739
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Walmart (WMT) Delivery Push Gains Momentum with Papa John’s Partnership",
       "link": "https://finance.yahoo.com/media-advertising/articles/walmart-wmt-delivery-push-gains-150509817.html",
       "published": "2026-09-14T15:05:09Z",
@@ -400,27 +421,6 @@
       "link": "https://finance.yahoo.com/markets/currencies/articles/vale-vale-deepens-china-ties-150347789.html",
       "published": "2026-09-14T15:03:47Z",
       "ts": 1789398227
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Energy Transfer’s Texas Listing Could Boost Visibility, but Risks Remain",
-      "link": "https://finance.yahoo.com/energy/articles/energy-transfer-texas-listing-could-150231871.html",
-      "published": "2026-09-14T15:02:31Z",
-      "ts": 1789398151
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Half of Gen X expects to outlive their savings — 5 toxic habits that could quietly wreck your retirement",
-      "link": "https://finance.yahoo.com/markets/articles/half-gen-x-expects-outlive-150000293.html",
-      "published": "2026-09-14T15:00:00Z",
-      "ts": 1789398000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Coffee Prices Fall as Production Spikes and Consumption Chills",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/coffee-prices-fall-production-spikes-145910581.html",
-      "published": "2026-09-14T14:59:10Z",
-      "ts": 1789397950
     }
   ]
 }
