@@ -1,7 +1,77 @@
 {
-  "updated": "2026-09-15T15:45:40.198855Z",
+  "updated": "2026-09-15T16:10:16.803168Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound wilts as Oil shock sends US yields past 5%",
+      "link": "https://www.fxstreet.com/news/british-pound-wilts-as-oil-shock-sends-us-yields-past-5-202609151604",
+      "published": "Tue, 15 Sep 2026 16:04:53 GMT",
+      "ts": 1789488293
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 16:02:01 +0000",
+      "ts": 1789488121
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:00:00 GMT",
+      "ts": 1789488000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "90% of retirees are making this miscalculation with their savings",
+      "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:00:00 GMT",
+      "ts": 1789488000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Caterpillar (CAT) Drives Sector-Leading Performance Beyond AI Models",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-drives-sector-leading-155623250.html",
+      "published": "2026-09-15T15:56:23Z",
+      "ts": 1789487783
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
+      "link": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 15:50:49 +0000",
+      "ts": 1789487449
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
+      "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
+      "published": "Tue, 15 Sep 2026 15:50:23 +0000",
+      "ts": 1789487423
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Gates Industrial (GTES) Benefits From AI Growth Without Being an AI Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gates-industrial-gtes-benefits-ai-154615331.html",
+      "published": "2026-09-15T15:46:15Z",
+      "ts": 1789487175
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Clarity Act: What it means for your crypto holdings",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/clarity-act-what-it-means-for-your-crypto-holdings-153849029.html",
+      "published": "2026-09-15T15:38:49Z",
+      "ts": 1789486729
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oil jumps nearly $3 as Saudi export halt, Libya outages stoke supply fears",
+      "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
+      "published": "2026-09-15T15:32:56Z",
+      "ts": 1789486376
+    },
     {
       "source": "Yahoo Finance",
       "title": "How Allison Transmission Holdings (ALSN) is Capturing New Markets Beyond Commercial Vehicles",
@@ -25,10 +95,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand",
-      "link": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-stx-primary-beneficiary-152345430.html",
-      "published": "2026-09-15T15:23:45Z",
-      "ts": 1789485825
+      "title": "The Fund’s Largest Relative Detractor: Unowned Advanced Micro Devices (AMD)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-largest-relative-detractor-unowned-152642221.html",
+      "published": "2026-09-15T15:26:42Z",
+      "ts": 1789486002
     },
     {
       "source": "CoinTelegraph",
@@ -38,13 +108,6 @@
       "ts": 1789485686
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Western Digital (WDC): The Fund’s Top Relative Contributor",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-fund-top-151936638.html",
-      "published": "2026-09-15T15:19:36Z",
-      "ts": 1789485576
-    },
-    {
       "source": "MarketWatch",
       "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s ‘dots.’",
       "link": "https://www.marketwatch.com/story/how-many-rate-hikes-are-on-tap-wall-street-hopes-to-connect-the-feds-dots-6b1ac5dc?mod=mw_rss_topstories",
@@ -52,32 +115,11 @@
       "ts": 1789485360
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Is First Citizens BancShares (FCNCA) an Undervalued Opportunity?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-citizens-bancshares-fcnca-undervalued-151353136.html",
-      "published": "2026-09-15T15:13:53Z",
-      "ts": 1789485233
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Meta launches Meta One subscriptions as it seeks to better monetize AI spending",
-      "link": "https://finance.yahoo.com/technology/article/meta-launches-meta-one-subscriptions-as-it-seeks-to-better-monetize-ai-spending-151014668.html",
-      "published": "2026-09-15T15:10:14Z",
-      "ts": 1789485014
-    },
-    {
       "source": "FXStreet",
       "title": "Japanese Yen: Weak as markets price BoJ hike against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/japanese-yen-weak-as-markets-price-boj-hike-against-us-dollar-scotiabank-202609151506",
       "published": "Tue, 15 Sep 2026 15:06:27 GMT",
       "ts": 1789484787
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Better Pricing for Ride-Hailing Worldwide: inDrive CEO & Founder Arsen Tomsky, Live at Nasdaq",
-      "link": "https://finance.yahoo.com/small-business/articles/better-pricing-ride-hailing-worldwide-150428338.html",
-      "published": "2026-09-15T15:04:28Z",
-      "ts": 1789484668
     },
     {
       "source": "FXStreet",
@@ -150,13 +192,6 @@
       "ts": 1789482319
     },
     {
-      "source": "FXStreet",
-      "title": "Gold: CTA selling intensifies ahead of Fed decision - TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-cta-selling-intensifies-ahead-of-fed-decision-td-securities-202609151417",
-      "published": "Tue, 15 Sep 2026 14:17:10 GMT",
-      "ts": 1789481830
-    },
-    {
       "source": "CoinDesk",
       "title": "European Central Bank calls for merchants to participate in digital euro pilot",
       "link": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
@@ -185,13 +220,6 @@
       "ts": 1789481624
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen loses ground as Fed tightening bets boost US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-loses-ground-as-fed-tightening-bets-boost-us-dollar-202609151405",
-      "published": "Tue, 15 Sep 2026 14:05:07 GMT",
-      "ts": 1789481107
-    },
-    {
       "source": "MarketWatch",
       "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
       "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
@@ -204,13 +232,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
       "published": "2026-09-15 13:50:33",
       "ts": 1789480233
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way.",
-      "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 13:44:00 GMT",
-      "ts": 1789479840
     },
     {
       "source": "CoinDesk",
@@ -234,13 +255,6 @@
       "ts": 1789478752
     },
     {
-      "source": "MarketWatch",
-      "title": "When people with student debt try to save for retirement, they fall behind early and never catch up",
-      "link": "https://www.marketwatch.com/story/when-people-with-student-debt-try-to-save-for-retirement-they-fall-behind-early-and-never-catch-up-074b4b28?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 13:18:00 GMT",
-      "ts": 1789478280
-    },
-    {
       "source": "Investing Forex",
       "title": "Loonie slips as oil surge fuels rate worries ahead of Fed decision",
       "link": "https://www.investing.com/news/forex-news/loonie-slips-as-oil-surge-fuels-rate-worries-ahead-of-fed-decision-4901710",
@@ -253,6 +267,13 @@
       "link": "https://www.coindesk.com/opinion/2026/09/15/to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
       "published": "Tue, 15 Sep 2026 12:00:06 +0000",
       "ts": 1789473606
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold finds support near one-month low ahead of Fed interest rate decision",
+      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-markets-brace-for-fed-rate-hike-202609151131",
+      "published": "Tue, 15 Sep 2026 11:31:53 GMT",
+      "ts": 1789471913
     },
     {
       "source": "Investing Crypto",
@@ -304,13 +325,6 @@
       "ts": 1789468895
     },
     {
-      "source": "CoinDesk",
-      "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
-      "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
-      "published": "Tue, 15 Sep 2026 10:27:55 +0000",
-      "ts": 1789468075
-    },
-    {
       "source": "Investing Crypto",
       "title": "Standard Chartered sees Arbitrum’s ARB token soaring 70x by 2030",
       "link": "https://www.investing.com/news/cryptocurrency-news/standard-chartered-sees-arbitrums-arb-token-soaring-70x-by-2030-4901206",
@@ -360,6 +374,13 @@
       "ts": 1789460333
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall after 10-year Treasury yield rises",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+      "published": "2026-09-15T08:13:07Z",
+      "ts": 1789459987
+    },
+    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
@@ -388,20 +409,6 @@
       "ts": 1789451400
     },
     {
-      "source": "CoinTelegraph",
-      "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
-      "link": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 05:32:12 +0000",
-      "ts": 1789450332
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
-      "link": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 04:19:16 +0000",
-      "ts": 1789445956
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
       "published": "2026-09-14 21:54:08",
       "ts": 1789422848
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar at highest level in almost two weeks as Fed rate hike bets hit nearly 95%",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 21:03:42",
-      "ts": 1789419822
     }
   ]
 }
