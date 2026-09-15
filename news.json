@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-15T00:14:18.593054Z",
+  "updated": "2026-09-15T00:38:58.322519Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
+      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 00:15:00 GMT",
+      "ts": 1789431300
+    },
     {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -199,13 +206,6 @@
       "ts": 1789418498
     },
     {
-      "source": "MarketWatch",
-      "title": "The 10 most overvalued housing markets in America",
-      "link": "https://www.marketwatch.com/story/the-10-most-overvalued-housing-markets-in-america-6d28efdf?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 20:35:00 GMT",
-      "ts": 1789418100
-    },
-    {
       "source": "CoinDesk",
       "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
       "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
@@ -375,6 +375,34 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-turns-lab-promises-133324594.html",
+      "published": "2026-09-13T13:33:24Z",
+      "ts": 1789306404
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
+      "link": "https://finance.yahoo.com/media-advertising/articles/clear-channel-outdoor-cco-grows-132626831.html",
+      "published": "2026-09-13T13:26:26Z",
+      "ts": 1789305986
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Adobe’s (ADBE) AI Bet Is Finally Showing Up In Revenue",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-ai-bet-finally-132237575.html",
+      "published": "2026-09-13T13:22:37Z",
+      "ts": 1789305757
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "LightPath’s (LPTH) Defense Pivot Just Showed Up In The Numbers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lightpath-lpth-defense-pivot-just-131404572.html",
+      "published": "2026-09-13T13:14:04Z",
+      "ts": 1789305244
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Copart (CPRT) Bets On Digital Dealers As Core Volumes Shrink",
       "link": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-bets-digital-dealers-130853110.html",
       "published": "2026-09-13T13:08:53Z",
@@ -393,34 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/gf-securities-says-nand-prices-130002701.html",
       "published": "2026-09-13T13:00:02Z",
       "ts": 1789304402
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lovesac’s (LOVE) Premium Sofas Shine While Entry-Level Buyers Stay Away",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lovesac-love-premium-sofas-shine-125527184.html",
-      "published": "2026-09-13T12:55:27Z",
-      "ts": 1789304127
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Walmart Just Declared War on DoorDash and Uber Eats, But Winning Won't Be Easy for 1 Simple Reason",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-declared-war-doordash-123023266.html",
-      "published": "2026-09-13T12:30:23Z",
-      "ts": 1789302623
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "IBEX (IBEX) Turns The AI Threat Into Its Biggest Growth Engine",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ibex-ibex-turns-ai-threat-121949823.html",
-      "published": "2026-09-13T12:19:49Z",
-      "ts": 1789301989
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wall Street Is Betting Against Designer Brands (DBI) Even as Profits Double",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-betting-against-designer-121631989.html",
-      "published": "2026-09-13T12:16:31Z",
-      "ts": 1789301791
     }
   ]
 }
