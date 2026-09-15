@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-15T03:29:36.475472Z",
+  "updated": "2026-09-15T03:46:55.028526Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
+      "link": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 03:33:23 +0000",
+      "ts": 1789443203
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Hovers around 178.50 within oversold territory",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-hovers-around-17850-within-oversold-territory-202609150331",
+      "published": "Tue, 15 Sep 2026 03:31:34 GMT",
+      "ts": 1789443094
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
@@ -78,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67670-vs-67698-previous-202609150115",
       "published": "Tue, 15 Sep 2026 01:15:36 GMT",
       "ts": 1789434936
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar consolidates near 1.3900 as oil gains offset bullish USD ahead of Fed",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-near-13900-as-oil-gains-offset-bullish-usd-ahead-of-fed-202609150112",
-      "published": "Tue, 15 Sep 2026 01:12:51 GMT",
-      "ts": 1789434771
     },
     {
       "source": "CoinTelegraph",
@@ -311,13 +318,6 @@
       "ts": 1789392788
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
-      "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 13:30:00 +0000",
-      "ts": 1789392600
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
@@ -358,6 +358,13 @@
       "link": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
       "published": "2026-09-14T03:35:45Z",
       "ts": 1789356945
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "38-year-old beloved steakhouse chain closing over 40 locations",
+      "link": "https://finance.yahoo.com/small-business/articles/38-old-beloved-steakhouse-chain-020300119.html",
+      "published": "2026-09-14T02:03:00Z",
+      "ts": 1789351380
     },
     {
       "source": "Yahoo Finance",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/economy/article/pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
       "published": "2026-09-13T15:45:04Z",
       "ts": 1789314304
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bank exits squeeze truck financing for mid-size fleets",
-      "link": "https://finance.yahoo.com/small-business/articles/bank-exits-squeeze-truck-financing-154006871.html",
-      "published": "2026-09-13T15:40:06Z",
-      "ts": 1789314006
     }
   ]
 }
