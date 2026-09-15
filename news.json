@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-15T07:12:24.502422Z",
+  "updated": "2026-09-15T07:31:08.466473Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
+      "link": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 07:29:00 GMT",
+      "ts": 1789457340
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: DXY eyes 99.80 confluence hurdle as focus remains on Fed",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-eyes-9980-confluence-hurdle-as-focus-remains-on-fed-202609150727",
+      "published": "Tue, 15 Sep 2026 07:27:05 GMT",
+      "ts": 1789457225
+    },
+    {
+      "source": "FXStreet",
+      "title": "Oil: Supply risks and structural tightness – Rabobank",
+      "link": "https://www.fxstreet.com/news/oil-supply-risks-and-structural-tightness-rabobank-202609150725",
+      "published": "Tue, 15 Sep 2026 07:25:18 GMT",
+      "ts": 1789457118
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro trims some losses as British Pound falls following UK employment data",
+      "link": "https://www.fxstreet.com/news/euro-trims-some-losses-as-british-pound-falls-following-uk-employment-data-202609150716",
+      "published": "Tue, 15 Sep 2026 07:16:42 GMT",
+      "ts": 1789456602
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trapped between $76,400 and $78,300: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-15 07:11:34",
+      "ts": 1789456294
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD remains under pressure near $63 ahead of Fed’s policy decision",
@@ -57,27 +92,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-higher-q4-range-projected-standard-chartered-202609150630",
       "published": "Tue, 15 Sep 2026 06:30:58 GMT",
       "ts": 1789453858
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound pushes against five-week lows following mixed UK employment data",
-      "link": "https://www.fxstreet.com/news/british-pound-pushes-against-five-week-lows-following-mixed-uk-employment-data-202609150628",
-      "published": "Tue, 15 Sep 2026 06:28:39 GMT",
-      "ts": 1789453719
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japan’s Katayama says will scrutinise budget requests for next fiscal year strictly going forward",
-      "link": "https://www.fxstreet.com/news/japans-katayama-says-will-scrutinise-budget-requests-for-next-fiscal-year-strictly-going-forward-202609150627",
-      "published": "Tue, 15 Sep 2026 06:27:43 GMT",
-      "ts": 1789453663
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB policymakers agree: Inflation in Eurozone to remain high amid energy crisis",
-      "link": "https://www.fxstreet.com/news/ecb-policymakers-agree-inflation-in-eurozone-to-remain-high-amid-energy-crisis-202609150619",
-      "published": "Tue, 15 Sep 2026 06:19:51 GMT",
-      "ts": 1789453191
     },
     {
       "source": "CoinDesk",
@@ -171,6 +185,20 @@
       "ts": 1789433175
     },
     {
+      "source": "MarketWatch",
+      "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
+      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 00:15:00 GMT",
+      "ts": 1789431300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 00:01:00 GMT",
+      "ts": 1789430460
+    },
+    {
       "source": "CoinDesk",
       "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
       "link": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
@@ -185,11 +213,25 @@
       "ts": 1789428640
     },
     {
+      "source": "MarketWatch",
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 23:19:00 GMT",
+      "ts": 1789427940
+    },
+    {
       "source": "CoinDesk",
       "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
       "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
       "published": "Mon, 14 Sep 2026 22:34:18 +0000",
       "ts": 1789425258
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
+      "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:57:00 GMT",
+      "ts": 1789423020
     },
     {
       "source": "Investing Crypto",
@@ -206,6 +248,27 @@
       "ts": 1789422848
     },
     {
+      "source": "MarketWatch",
+      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+      "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:31:00 GMT",
+      "ts": 1789421460
+    },
+    {
+      "source": "MarketWatch",
+      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
+      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
+      "ts": 1789420260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
+      "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
+      "ts": 1789420260
+    },
+    {
       "source": "Investing Forex",
       "title": "Dollar at highest level in almost two weeks as Fed rate hike bets hit nearly 95%",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
@@ -213,18 +276,25 @@
       "ts": 1789419822
     },
     {
+      "source": "MarketWatch",
+      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?",
+      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:00:00 GMT",
+      "ts": 1789419600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
+      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:56:00 GMT",
+      "ts": 1789419360
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
       "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 20:54:10 +0000",
       "ts": 1789419250
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin nears $80K bull trap zone with weak ADX: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-14 19:18:14",
-      "ts": 1789413494
     },
     {
       "source": "CoinTelegraph",
@@ -351,76 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/draftkings-flutter-jump-court-rules-194622553.html",
       "published": "2026-09-13T19:46:22Z",
       "ts": 1789328782
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Boston Scientific (BSX) Didn’t Miss on Demand or Devices. A Cyberattack Just Broke Its Guidance.",
-      "link": "https://finance.yahoo.com/healthcare/articles/boston-scientific-bsx-didn-t-193111827.html",
-      "published": "2026-09-13T19:31:11Z",
-      "ts": 1789327871
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why JPMorgan Is Betting That Lithium Americas Stock Will Double.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-jpmorgan-betting-lithium-americas-193002632.html",
-      "published": "2026-09-13T19:30:02Z",
-      "ts": 1789327802
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-13 19:02:21",
-      "ts": 1789326141
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Speculators turn bullish on yen for first time since February",
-      "link": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
-      "published": "2026-09-13 06:44:32",
-      "ts": 1789281872
-    },
-    {
-      "source": "Investing Forex",
-      "title": "EUR/USD could retest 1.17 after Fed decision - Citi says",
-      "link": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
-      "published": "2026-09-12 22:52:48",
-      "ts": 1789253568
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
-      "published": "2026-09-12 09:52:28",
-      "ts": 1789206748
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
-      "published": "2026-09-11 21:20:45",
-      "ts": 1789161645
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-783k-on-iran-jitters-higher-yields-4894954",
-      "published": "2026-09-10 21:43:48",
-      "ts": 1789076628
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Uniswap Labs Launches StablePair Hook, a Dynamic-Fee Hook for Stable Pairs",
-      "link": "https://www.investing.com/news/cryptocurrency-news/uniswap-labs-launches-stablepair-hook-a-dynamicfee-hook-for-stable-pairs-4896728",
-      "published": "2026-09-10 19:00:36",
-      "ts": 1789066836
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Tag Markets Names Craig Lund Chief Executive Officer",
-      "link": "https://www.investing.com/news/cryptocurrency-news/tag-markets-names-craig-lund-chief-executive-officer-4896666",
-      "published": "2026-09-10 18:00:35",
-      "ts": 1789063235
     }
   ]
 }
