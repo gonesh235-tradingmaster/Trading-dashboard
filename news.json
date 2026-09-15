@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-15T17:24:38.159357Z",
+  "updated": "2026-09-15T17:38:42.659840Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance adds 11 US-listed ETFs to wealth management offering",
+      "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 17:22:04 +0000",
+      "ts": 1789492924
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Validates Caller’s $1,400 Micron (MU) Thesis, Doubles Down on Charitable Trust Position",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-validates-caller-1-172138438.html",
+      "published": "2026-09-15T17:21:38Z",
+      "ts": 1789492898
+    },
     {
       "source": "MarketWatch",
       "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
       "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 17:18:00 GMT",
       "ts": 1789492680
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What American Eagle’s (AEO) Q2 Numbers Say Beyond the Tariff Refund Boost",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-aeo-q2-numbers-171745773.html",
+      "published": "2026-09-15T17:17:45Z",
+      "ts": 1789492665
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "IBD Stock Of The Day Scorpio Tankers Sails Toward Buy Point As Oil-Needy World Seeks Its Services",
+      "link": "https://www.investors.com/research/ibd-stock-of-the-day/scorpio-tankers-stock-buy-point/?src=A00220&yptr=yahoo",
+      "published": "2026-09-15T17:17:24Z",
+      "ts": 1789492644
     },
     {
       "source": "FXStreet",
@@ -57,27 +85,6 @@
       "link": "https://www.fxstreet.com/news/silver-attempts-cautious-rebound-ahead-of-closely-watched-fed-decision-202609151659",
       "published": "Tue, 15 Sep 2026 16:59:26 GMT",
       "ts": 1789491566
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dell Technologies (DELL) Rallies on Bullish RBC Outlook: Is the Stock a Buy?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-rallies-bullish-165722821.html",
-      "published": "2026-09-15T16:57:22Z",
-      "ts": 1789491442
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Vera Bradley, Inc. Q2 2027 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-inc-q2-2027-165537210.html",
-      "published": "2026-09-15T16:55:37Z",
-      "ts": 1789491337
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Econergy Expands European Base, Acquires French Wind Energy Platform",
-      "link": "https://finance.yahoo.com/energy/articles/econergy-expands-european-acquires-french-165519899.html",
-      "published": "2026-09-15T16:55:19Z",
-      "ts": 1789491319
     },
     {
       "source": "MarketWatch",
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-15 07:11:34",
       "ts": 1789456294
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 05:50:00 +0000",
-      "ts": 1789451400
     },
     {
       "source": "Investing Crypto",
