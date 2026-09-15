@@ -1,13 +1,62 @@
 {
-  "updated": "2026-09-15T15:30:06.061302Z",
+  "updated": "2026-09-15T15:45:40.198855Z",
   "count": 60,
   "items": [
     {
+      "source": "Yahoo Finance",
+      "title": "How Allison Transmission Holdings (ALSN) is Capturing New Markets Beyond Commercial Vehicles",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-holdings-alsn-capturing-153216137.html",
+      "published": "2026-09-15T15:32:16Z",
+      "ts": 1789486336
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro stays neutral against Pound ahead of UK inflation data",
+      "link": "https://www.fxstreet.com/news/euro-stays-neutral-against-pound-ahead-of-uk-inflation-data-202609151531",
+      "published": "Tue, 15 Sep 2026 15:31:29 GMT",
+      "ts": 1789486289
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitcoin tumbles 3% to $76,000 as hopes of CLARITY Act passage this year fade",
+      "link": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-3-to-76000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html",
+      "published": "2026-09-15T15:31:27Z",
+      "ts": 1789486287
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand",
+      "link": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-stx-primary-beneficiary-152345430.html",
+      "published": "2026-09-15T15:23:45Z",
+      "ts": 1789485825
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
+      "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 15:21:26 +0000",
+      "ts": 1789485686
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Western Digital (WDC): The Fund’s Top Relative Contributor",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-fund-top-151936638.html",
+      "published": "2026-09-15T15:19:36Z",
+      "ts": 1789485576
+    },
+    {
       "source": "MarketWatch",
-      "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s dots.",
+      "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s ‘dots.’",
       "link": "https://www.marketwatch.com/story/how-many-rate-hikes-are-on-tap-wall-street-hopes-to-connect-the-feds-dots-6b1ac5dc?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 15:16:00 GMT",
       "ts": 1789485360
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is First Citizens BancShares (FCNCA) an Undervalued Opportunity?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-citizens-bancshares-fcnca-undervalued-151353136.html",
+      "published": "2026-09-15T15:13:53Z",
+      "ts": 1789485233
     },
     {
       "source": "Yahoo Finance",
@@ -29,13 +78,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/better-pricing-ride-hailing-worldwide-150428338.html",
       "published": "2026-09-15T15:04:28Z",
       "ts": 1789484668
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Questions TJX After Marmaxx Stumbles",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-questions-tjx-marmaxx-150053438.html",
-      "published": "2026-09-15T15:00:53Z",
-      "ts": 1789484453
     },
     {
       "source": "FXStreet",
@@ -66,32 +108,11 @@
       "ts": 1789483810
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Citi’s 11%+ RoTCE Target Signals Stronger Capital Efficiency",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-11-rotce-target-signals-144415162.html",
-      "published": "2026-09-15T14:44:15Z",
-      "ts": 1789483455
-    },
-    {
       "source": "MarketWatch",
       "title": "The 10 most overvalued housing markets in America",
       "link": "https://www.marketwatch.com/story/the-10-most-overvalued-housing-markets-in-america-6d28efdf?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 14:43:00 GMT",
       "ts": 1789483380
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Dives As Yields Jump; Nvidia Up But This Biotech Play Flashes Sell Signal (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
-      "published": "2026-09-15T14:42:16Z",
-      "ts": 1789483336
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lilly’s Foundayo Quickly Gains Ground in the Oral Weight-Loss Market",
-      "link": "https://finance.yahoo.com/healthcare/articles/lilly-foundayo-quickly-gains-ground-144208132.html",
-      "published": "2026-09-15T14:42:08Z",
-      "ts": 1789483328
     },
     {
       "source": "FXStreet",
@@ -169,13 +190,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-loses-ground-as-fed-tightening-bets-boost-us-dollar-202609151405",
       "published": "Tue, 15 Sep 2026 14:05:07 GMT",
       "ts": 1789481107
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Bearish bias within 153.30–156.30 against US Dollar - UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-bearish-bias-within-15330-15630-against-us-dollar-uob-202609151403",
-      "published": "Tue, 15 Sep 2026 14:03:45 GMT",
-      "ts": 1789481025
     },
     {
       "source": "MarketWatch",
@@ -388,13 +402,6 @@
       "ts": 1789445956
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
-      "link": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 03:33:23 +0000",
-      "ts": 1789443203
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
       "published": "2026-09-14 21:03:42",
       "ts": 1789419822
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "National specialty clothing chain closing all its stores",
-      "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
-      "published": "2026-09-14T14:07:00Z",
-      "ts": 1789394820
     }
   ]
 }
