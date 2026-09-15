@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T23:24:23.754133Z",
+  "updated": "2026-09-15T23:37:42.550142Z",
   "count": 60,
   "items": [
     {
@@ -389,6 +389,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Crude Prices Surge as Saudi Arabia Closes its East-West Pipeline",
+      "link": "https://finance.yahoo.com/energy/articles/crude-prices-surge-saudi-arabia-153150265.html",
+      "published": "2026-09-14T15:31:50Z",
+      "ts": 1789399910
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Flood of AI Debt Is Poised to Crush Small-Caps. Here’s Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flood-ai-debt-poised-crush-153142223.html",
+      "published": "2026-09-14T15:31:42Z",
+      "ts": 1789399902
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Is Tractor Supply's Stock Performance Compared to Other Specialty Retail Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tractor-supplys-stock-performance-compared-152555841.html",
+      "published": "2026-09-14T15:25:55Z",
+      "ts": 1789399555
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "How Cloud Infrastructure Strategy Can Keep Taking Oracle Stock Even Higher",
       "link": "https://finance.yahoo.com/markets/stocks/articles/cloud-infrastructure-strategy-keep-taking-152133820.html",
       "published": "2026-09-14T15:21:33Z",
@@ -400,27 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slump-ai-slowdown-fears-151337488.html",
       "published": "2026-09-14T15:13:37Z",
       "ts": 1789398817
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Europe’s AI Trade Hits Reverse",
-      "link": "https://finance.yahoo.com/technology/ai/articles/europe-ai-trade-hits-reverse-151219286.html",
-      "published": "2026-09-14T15:12:19Z",
-      "ts": 1789398739
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Walmart (WMT) Delivery Push Gains Momentum with Papa John’s Partnership",
-      "link": "https://finance.yahoo.com/media-advertising/articles/walmart-wmt-delivery-push-gains-150509817.html",
-      "published": "2026-09-14T15:05:09Z",
-      "ts": 1789398309
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/vale-vale-deepens-china-ties-150347789.html",
-      "published": "2026-09-14T15:03:47Z",
-      "ts": 1789398227
     }
   ]
 }
