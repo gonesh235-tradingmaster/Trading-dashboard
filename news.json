@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T22:38:33.481333Z",
+  "updated": "2026-09-15T22:50:02.229443Z",
   "count": 60,
   "items": [
     {
@@ -389,6 +389,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "The EV Bubble Has Burst. How to Play Rivian Stock Now.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ev-bubble-burst-play-rivian-143418979.html",
+      "published": "2026-09-14T14:34:18Z",
+      "ts": 1789396458
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dollar Climbs as Stocks Sink and Crude Oil Surges",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-stocks-sink-crude-143325158.html",
+      "published": "2026-09-14T14:33:25Z",
+      "ts": 1789396405
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "5 habits rich retirees lean on to protect their wealth in retirement",
       "link": "https://finance.yahoo.com/markets/articles/5-habits-rich-retirees-lean-143000557.html",
       "published": "2026-09-14T14:30:00Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/hub-group-warns-nasdaq-delisting-142643603.html",
       "published": "2026-09-14T14:26:43Z",
       "ts": 1789396003
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Morgan Stanley Doubles Down on Apple Stock as New Offerings Become ‘More Exciting’",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-doubles-down-apple-142423562.html",
-      "published": "2026-09-14T14:24:23Z",
-      "ts": 1789395863
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Elon Musk: I've been 'sounding the alarm' on AI for a while",
-      "link": "https://finance.yahoo.com/markets/stocks/article/elon-musk-ive-been-sounding-the-alarm-on-ai-for-a-while-141818917.html",
-      "published": "2026-09-14T14:18:18Z",
-      "ts": 1789395498
     }
   ]
 }
