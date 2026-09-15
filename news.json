@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-15T03:10:59.431450Z",
+  "updated": "2026-09-15T03:29:36.475472Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
+      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
+      "published": "Tue, 15 Sep 2026 03:27:38 +0000",
+      "ts": 1789442858
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
+      "published": "Tue, 15 Sep 2026 03:23:28 +0000",
+      "ts": 1789442608
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc remains under pressure against US Dollar, Fed’s policy in focus",
+      "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-against-us-dollar-feds-policy-in-focus-202609150315",
+      "published": "Tue, 15 Sep 2026 03:15:55 GMT",
+      "ts": 1789442155
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index strengthens above 99.50 as Fed rate hike bets rise",
@@ -64,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-near-13900-as-oil-gains-offset-bullish-usd-ahead-of-fed-202609150112",
       "published": "Tue, 15 Sep 2026 01:12:51 GMT",
       "ts": 1789434771
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI rises above $98.50 amid Middle East supply fears",
-      "link": "https://www.fxstreet.com/news/wti-rises-above-9850-amid-middle-east-supply-fears-202609150105",
-      "published": "Tue, 15 Sep 2026 01:05:19 GMT",
-      "ts": 1789434319
     },
     {
       "source": "CoinTelegraph",
@@ -290,18 +304,11 @@
       "ts": 1789399126
     },
     {
-      "source": "CoinDesk",
-      "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
-      "link": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
-      "published": "Mon, 14 Sep 2026 15:10:29 +0000",
-      "ts": 1789398629
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
-      "link": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
-      "published": "Mon, 14 Sep 2026 14:37:56 +0000",
-      "ts": 1789396676
+      "source": "Yahoo Finance",
+      "title": "Costco rations Kirkland motor oil, raises price to $57.99",
+      "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
+      "published": "2026-09-14T13:33:08Z",
+      "ts": 1789392788
     },
     {
       "source": "CoinTelegraph",
@@ -372,13 +379,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
       "published": "2026-09-13 19:02:21",
       "ts": 1789326141
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fed Decision, Retail Sales and Other Can't Miss Items This Week",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-decision-retail-sales-other-170002358.html",
-      "published": "2026-09-13T17:00:02Z",
-      "ts": 1789318802
     },
     {
       "source": "Yahoo Finance",
