@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-15T18:10:38.267545Z",
+  "updated": "2026-09-15T18:28:12.928725Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "NZD/USD Price Forecast: Bears break 0.5800 as Kiwi slide deepens",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-break-05800-as-kiwi-slide-deepens-202609151825",
+      "published": "Tue, 15 Sep 2026 18:25:34 GMT",
+      "ts": 1789496734
+    },
+    {
+      "source": "FXStreet",
+      "title": "100 threshold: United States Dollar Index faces make-or-break Fed decision",
+      "link": "https://www.fxstreet.com/news/100-threshold-united-states-dollar-index-faces-make-or-break-fed-decision-202609151814",
+      "published": "Tue, 15 Sep 2026 18:14:08 GMT",
+      "ts": 1789496048
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold bulls hit 100-day SMA wall as US yields bite",
+      "link": "https://www.fxstreet.com/news/gold-bulls-hit-100-day-sma-wall-as-us-yields-bite-202609151812",
+      "published": "Tue, 15 Sep 2026 18:12:13 GMT",
+      "ts": 1789495933
+    },
     {
       "source": "CoinDesk",
       "title": "Solana lender Kamino taps Yieldstreet co-founder as CEO in Wall Street expansion",
@@ -31,53 +52,11 @@
       "ts": 1789494709
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Can you have two of the same credit card?",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-have-two-of-the-same-credit-card-175008954.html",
-      "published": "2026-09-15T17:50:08Z",
-      "ts": 1789494608
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Trustpilot Gets a One-Star Review From Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trustpilot-gets-one-star-review-173946110.html",
-      "published": "2026-09-15T17:39:46Z",
-      "ts": 1789493986
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oil jumps more than $3 as Saudi loadings halt, Libya outages stoke supply fears",
-      "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
-      "published": "2026-09-15T17:26:18Z",
-      "ts": 1789493178
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cloudflare Hits Highs Amid Agentic AI Boom; Nears Pivot",
-      "link": "https://www.investors.com/research/cloudflare-net-stock-ai-agents-2/?src=A00220&yptr=yahoo",
-      "published": "2026-09-15T17:24:12Z",
-      "ts": 1789493052
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer on Arista (ANET) CEO: “She Is Money and the Company’s Fantastic”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-arista-anet-ceo-172307585.html",
-      "published": "2026-09-15T17:23:07Z",
-      "ts": 1789492987
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Binance adds 11 US-listed ETFs to wealth management offering",
       "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 17:22:04 +0000",
       "ts": 1789492924
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Validates Caller’s $1,400 Micron (MU) Thesis, Doubles Down on Charitable Trust Position",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-validates-caller-1-172138438.html",
-      "published": "2026-09-15T17:21:38Z",
-      "ts": 1789492898
     },
     {
       "source": "MarketWatch",
@@ -206,34 +185,6 @@
       "ts": 1789485686
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Weak as markets price BoJ hike against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weak-as-markets-price-boj-hike-against-us-dollar-scotiabank-202609151506",
-      "published": "Tue, 15 Sep 2026 15:06:27 GMT",
-      "ts": 1789484787
-    },
-    {
-      "source": "FXStreet",
-      "title": "United Kingdom: Wage momentum complicates the BoE outlook - Nomura",
-      "link": "https://www.fxstreet.com/news/united-kingdom-wage-momentum-complicates-the-boe-outlook-nomura-202609151457",
-      "published": "Tue, 15 Sep 2026 14:57:43 GMT",
-      "ts": 1789484263
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Further weakness eyed toward 1.3410 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-further-weakness-eyed-toward-13410-against-us-dollar-uob-202609151450",
-      "published": "Tue, 15 Sep 2026 14:50:31 GMT",
-      "ts": 1789483831
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years",
-      "link": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
-      "published": "2026-09-15T14:34:52Z",
-      "ts": 1789482892
-    },
-    {
       "source": "CoinDesk",
       "title": "European Central Bank calls for merchants to participate in digital euro pilot",
       "link": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
@@ -267,6 +218,13 @@
       "link": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 13:37:31 +0000",
       "ts": 1789479451
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
+      "published": "2026-09-15T13:33:00Z",
+      "ts": 1789479180
     },
     {
       "source": "CoinDesk",
@@ -381,13 +339,6 @@
       "ts": 1789461995
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq fall after 10-year Treasury yield rises",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
-      "published": "2026-09-15T08:13:07Z",
-      "ts": 1789459987
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
@@ -421,6 +372,55 @@
       "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
       "published": "2026-09-14 21:54:08",
       "ts": 1789422848
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar at highest level in almost two weeks as Fed rate hike bets hit nearly 95%",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
+      "published": "2026-09-14 21:03:42",
+      "ts": 1789419822
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "National specialty clothing chain closing all its stores",
+      "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
+      "published": "2026-09-14T14:07:00Z",
+      "ts": 1789394820
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Costco rations Kirkland motor oil, raises price to $57.99",
+      "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
+      "published": "2026-09-14T13:33:08Z",
+      "ts": 1789392788
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
+      "published": "2026-09-14 12:13:47",
+      "ts": 1789388027
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi says NOK/SEK can continue to work despite recent gains",
+      "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
+      "published": "2026-09-14 12:07:47",
+      "ts": 1789387667
+    },
+    {
+      "source": "Investing Forex",
+      "title": "BofA sees dollar sideways into year-end despite Fed hike bets",
+      "link": "https://www.investing.com/news/forex-news/bofa-sees-dollar-sideways-into-yearend-despite-fed-hike-bets-93CH-4899034",
+      "published": "2026-09-14 09:55:05",
+      "ts": 1789379705
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "50% of Americans wildly overestimate how much income $100,000 in retirement savings can produce, NIRS finds",
+      "link": "https://finance.yahoo.com/markets/articles/50-americans-wildly-overestimate-much-093000280.html",
+      "published": "2026-09-14T09:30:00Z",
+      "ts": 1789378200
     }
   ]
 }
