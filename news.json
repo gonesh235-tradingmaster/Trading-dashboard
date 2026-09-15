@@ -1,13 +1,62 @@
 {
-  "updated": "2026-09-15T13:53:32.116866Z",
+  "updated": "2026-09-15T14:10:50.084110Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen loses ground as Fed tightening bets boost US Dollar",
+      "link": "https://www.fxstreet.com/news/japanese-yen-loses-ground-as-fed-tightening-bets-boost-us-dollar-202609151405",
+      "published": "Tue, 15 Sep 2026 14:05:07 GMT",
+      "ts": 1789481107
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Bearish bias within 153.30–156.30 against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bearish-bias-within-15330-15630-against-us-dollar-uob-202609151403",
+      "published": "Tue, 15 Sep 2026 14:03:45 GMT",
+      "ts": 1789481025
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why one Wall Street firm thinks this year’s stock-market rally is running out of road",
+      "link": "https://www.marketwatch.com/story/wells-fargo-just-cuts-its-s-p-500-price-target-will-others-follow-e32f968a?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 14:01:00 GMT",
+      "ts": 1789480860
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
+      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 14:01:00 GMT",
+      "ts": 1789480860
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-hits-2007-high-as-oil-stays-above-100-alphacheck-140049622.html",
+      "published": "2026-09-15T14:00:49Z",
+      "ts": 1789480849
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin dips to $76.2k ahead of Clarity Act vote, Fed meeting",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
+      "published": "2026-09-15 13:50:33",
+      "ts": 1789480233
+    },
     {
       "source": "Yahoo Finance",
       "title": "Musk hints (again) at possible SpaceX, Tesla merger",
       "link": "https://finance.yahoo.com/markets/stocks/article/musk-hints-again-at-possible-spacex-tesla-merger-135029754.html",
       "published": "2026-09-15T13:50:29Z",
       "ts": 1789480229
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Valvoline (VVV) Strengthens from Strong Execution",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/valvoline-vvv-strengthens-strong-execution-135011136.html",
+      "published": "2026-09-15T13:50:11Z",
+      "ts": 1789480211
     },
     {
       "source": "FXStreet",
@@ -17,11 +66,25 @@
       "ts": 1789480211
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Investor Cathie Wood Sells Crypto Stocks As Prices Rally",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/investor-cathie-wood-sells-crypto-134700650.html",
+      "published": "2026-09-15T13:47:00Z",
+      "ts": 1789480020
+    },
+    {
       "source": "FXStreet",
       "title": "Euro holds near one-month low against US Dollar ahead of Fed verdict",
       "link": "https://www.fxstreet.com/news/euro-holds-near-one-month-low-against-us-dollar-ahead-of-fed-verdict-202609151346",
       "published": "Tue, 15 Sep 2026 13:46:51 GMT",
       "ts": 1789480011
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way.",
+      "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 13:44:00 GMT",
+      "ts": 1789479840
     },
     {
       "source": "CoinDesk",
@@ -32,10 +95,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Commercial Foodservice Recovery Drives The Middleby Corporation (MIDD) Higher",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/commercial-foodservice-recovery-drives-middleby-134022144.html",
-      "published": "2026-09-15T13:40:22Z",
-      "ts": 1789479622
+      "title": "Stock Market Today: Dow Falls As Yields, Oil Prices Rise With Fed Meeting Starting; Nvidia Rebounds (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
+      "published": "2026-09-15T13:41:04Z",
+      "ts": 1789479664
     },
     {
       "source": "CoinTelegraph",
@@ -52,13 +115,6 @@
       "ts": 1789479090
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Hong Kong Crypto Exchange CoinEx To Shutdown",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-crypto-exchange-coinex-132900721.html",
-      "published": "2026-09-15T13:29:00Z",
-      "ts": 1789478940
-    },
-    {
       "source": "CoinDesk",
       "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
       "link": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
@@ -66,18 +122,18 @@
       "ts": 1789478752
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Robinhood To Offer Share Redemptions And Voting Rights On Tokenized Stocks",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/robinhood-offer-share-redemptions-voting-132500081.html",
-      "published": "2026-09-15T13:25:00Z",
-      "ts": 1789478700
+      "source": "MarketWatch",
+      "title": "When people with student debt try to save for retirement, they fall behind early and never catch up",
+      "link": "https://www.marketwatch.com/story/when-people-with-student-debt-try-to-save-for-retirement-they-fall-behind-early-and-never-catch-up-074b4b28?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 13:18:00 GMT",
+      "ts": 1789478280
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Oil prices edge higher as attacks, pipeline outage deepen Saudi supply concerns",
-      "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
-      "published": "2026-09-15T13:15:53Z",
-      "ts": 1789478153
+      "source": "MarketWatch",
+      "title": "An AI bubble is no longer Wall Street’s biggest fear. This stock-market risk just took its place.",
+      "link": "https://www.marketwatch.com/story/an-ai-bubble-is-no-longer-wall-streets-biggest-fear-this-market-risk-just-took-its-place-ec939034?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 13:18:00 GMT",
+      "ts": 1789478280
     },
     {
       "source": "FXStreet",
@@ -85,6 +141,27 @@
       "link": "https://www.fxstreet.com/news/united-kingdom-sluggish-labour-data-shapes-boe-view-deutsche-bank-202609151307",
       "published": "Tue, 15 Sep 2026 13:07:07 GMT",
       "ts": 1789477627
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Saudi Arabia may be just days away from not being able to export much oil",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 13:03:00 GMT",
+      "ts": 1789477380
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 13:00:00 GMT",
+      "ts": 1789477200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "90% of retirees are making this miscalculation with their savings",
+      "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 13:00:00 GMT",
+      "ts": 1789477200
     },
     {
       "source": "FXStreet",
@@ -101,6 +178,13 @@
       "ts": 1789476011
     },
     {
+      "source": "MarketWatch",
+      "title": "The ‘Magnificent Seven’ has its mojo back. It’s on track to reach new highs.",
+      "link": "https://www.marketwatch.com/story/the-magnificent-seven-has-its-mojo-back-and-is-poised-to-reach-fresh-highs-ac2c5cdb?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 12:36:00 GMT",
+      "ts": 1789475760
+    },
+    {
       "source": "FXStreet",
       "title": "British Pound: Uptrend sustainability questioned versus Euro – ING",
       "link": "https://www.fxstreet.com/news/british-pound-uptrend-sustainability-questioned-versus-euro-ing-202609151231",
@@ -108,25 +192,18 @@
       "ts": 1789475509
     },
     {
+      "source": "MarketWatch",
+      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
+      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 12:31:00 GMT",
+      "ts": 1789475460
+    },
+    {
       "source": "FXStreet",
       "title": "GBP/JPY Price Forecast: Bearish structure remains intact ahead of BoE and BoJ decisions",
       "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bearish-structure-remains-intact-ahead-of-boe-and-boj-decisions-202609151225",
       "published": "Tue, 15 Sep 2026 12:25:16 GMT",
       "ts": 1789475116
-    },
-    {
-      "source": "FXStreet",
-      "title": "US ADP Employment Change 4-week average increases to 16.25K",
-      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-increases-to-1625k-202609151224",
-      "published": "Tue, 15 Sep 2026 12:24:21 GMT",
-      "ts": 1789475061
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canada: Growth resilience and rate risks – RBC",
-      "link": "https://www.fxstreet.com/news/canada-growth-resilience-and-rate-risks-rbc-202609151215",
-      "published": "Tue, 15 Sep 2026 12:15:51 GMT",
-      "ts": 1789474551
     },
     {
       "source": "CoinDesk",
@@ -241,13 +318,6 @@
       "ts": 1789464631
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips below $77k ahead of Clarity Act vote, Fed meeting",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 09:24:43",
-      "ts": 1789464283
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar charges to over one-week peak as Fed hike bets hit 92% while euro, yen sag",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
@@ -300,8 +370,8 @@
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 05:39:15 +0000",
-      "ts": 1789450755
+      "published": "Tue, 15 Sep 2026 05:50:00 +0000",
+      "ts": 1789451400
     },
     {
       "source": "CoinTelegraph",
@@ -351,76 +421,6 @@
       "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html",
       "published": "2026-09-14T14:01:34Z",
       "ts": 1789394494
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Costco rations Kirkland motor oil, raises price to $57.99",
-      "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
-      "published": "2026-09-14T13:33:08Z",
-      "ts": 1789392788
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
-      "published": "2026-09-14 12:13:47",
-      "ts": 1789388027
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi says NOK/SEK can continue to work despite recent gains",
-      "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
-      "published": "2026-09-14 12:07:47",
-      "ts": 1789387667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BofA sees dollar sideways into year-end despite Fed hike bets",
-      "link": "https://www.investing.com/news/forex-news/bofa-sees-dollar-sideways-into-yearend-despite-fed-hike-bets-93CH-4899034",
-      "published": "2026-09-14 09:55:05",
-      "ts": 1789379705
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BofA says Danish krone weakness driven by flows, not peg fears",
-      "link": "https://www.investing.com/news/forex-news/bofa-says-danish-krone-weakness-driven-by-flows-not-peg-fears-93CH-4898992",
-      "published": "2026-09-14 09:23:41",
-      "ts": 1789377821
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Another coffeehouse files for Chapter 11 as costs, prices rise",
-      "link": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
-      "published": "2026-09-14T03:35:45Z",
-      "ts": 1789356945
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "38-year-old beloved steakhouse chain closing over 40 locations",
-      "link": "https://finance.yahoo.com/small-business/articles/38-old-beloved-steakhouse-chain-020300119.html",
-      "published": "2026-09-14T02:03:00Z",
-      "ts": 1789351380
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
-      "published": "2026-09-13 21:59:53",
-      "ts": 1789336793
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-13 19:02:21",
-      "ts": 1789326141
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
-      "published": "2026-09-12 09:52:28",
-      "ts": 1789206748
     }
   ]
 }
