@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-15T16:43:09.321343Z",
+  "updated": "2026-09-15T16:55:40.001431Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Institutional investors are dangerously overinvested in stocks",
+      "link": "https://www.marketwatch.com/story/institutional-investors-are-dangerously-overinvested-in-stocks-ea889386?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:45:00 GMT",
+      "ts": 1789490700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Alibaba’s (BABA) Short-Term Capex Drag Creates a 30% Valuation Discount",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-baba-short-term-capex-163729017.html",
+      "published": "2026-09-15T16:37:29Z",
+      "ts": 1789490249
+    },
     {
       "source": "MarketWatch",
       "title": "What investors need to do — and mistakes not to make — in today’s uncertain world",
       "link": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 16:37:00 GMT",
       "ts": 1789490220
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Zumiez (ZUMZ) Falls on Weak Results and Lower Outlook, But Is the Selloff Overdone?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zumiez-zumz-falls-weak-results-163241796.html",
+      "published": "2026-09-15T16:32:41Z",
+      "ts": 1789489961
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Forward Industries Sweetens SkyAI Takeover Offer to 50% Premium",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/forward-industries-sweetens-skyai-takeover-163100379.html",
+      "published": "2026-09-15T16:31:00Z",
+      "ts": 1789489860
     },
     {
       "source": "MarketWatch",
@@ -18,6 +46,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Stablecoin Yield Ban Would Boost Bank Lending by Just 0.02%: White House",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/stablecoin-yield-ban-boost-bank-162900064.html",
+      "published": "2026-09-15T16:29:00Z",
+      "ts": 1789489740
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Yahoo Stock: How To Find & Own America's Greatest Opportunities",
       "link": "https://www.investors.com/how-to-invest/yahoo-stock-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
       "published": "2026-09-15T16:28:16Z",
@@ -25,10 +60,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Alluvium Bought Copart (CPRT) Despite the Long-Term Autonomous Driving Risk",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-alluvium-bought-copart-cprt-162642815.html",
-      "published": "2026-09-15T16:26:42Z",
-      "ts": 1789489602
+      "title": "Generate Capital Closes $117-Million in Financing for Community Solar",
+      "link": "https://finance.yahoo.com/energy/articles/generate-capital-closes-117-million-162655532.html",
+      "published": "2026-09-15T16:26:55Z",
+      "ts": 1789489615
     },
     {
       "source": "MarketWatch",
@@ -80,25 +115,11 @@
       "ts": 1789488293
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Why Kroger Co. (KR) Could Be a Consumer Staples Comeback Story",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-kroger-co-kr-could-160335573.html",
-      "published": "2026-09-15T16:03:35Z",
-      "ts": 1789488215
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
       "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 16:02:01 +0000",
       "ts": 1789488121
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "OXEA taps Uber Freight to manage North American, European logistics",
-      "link": "https://finance.yahoo.com/economy/articles/oxea-taps-uber-freight-manage-160000087.html",
-      "published": "2026-09-15T16:00:00Z",
-      "ts": 1789488000
     },
     {
       "source": "MarketWatch",
@@ -113,27 +134,6 @@
       "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 16:00:00 GMT",
       "ts": 1789488000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Oil Crisis Has Reached Costco’s Motor Oil Aisle",
-      "link": "https://finance.yahoo.com/energy/articles/oil-crisis-reached-costco-motor-155626578.html",
-      "published": "2026-09-15T15:56:26Z",
-      "ts": 1789487786
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Caterpillar (CAT) Drives Sector-Leading Performance Beyond AI Models",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-drives-sector-leading-155623250.html",
-      "published": "2026-09-15T15:56:23Z",
-      "ts": 1789487783
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Dives As Yields Jump; Bitcoin, Coinbase Fall Ahead Of Clarity Act Vote (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
-      "published": "2026-09-15T15:54:39Z",
-      "ts": 1789487679
     },
     {
       "source": "CoinTelegraph",
@@ -162,13 +162,6 @@
       "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 15:21:26 +0000",
       "ts": 1789485686
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s ‘dots.’",
-      "link": "https://www.marketwatch.com/story/how-many-rate-hikes-are-on-tap-wall-street-hopes-to-connect-the-feds-dots-6b1ac5dc?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 15:16:00 GMT",
-      "ts": 1789485360
     },
     {
       "source": "FXStreet",
@@ -204,6 +197,13 @@
       "link": "https://www.fxstreet.com/news/natural-gas-european-prices-stay-elevated-ing-202609151441",
       "published": "Tue, 15 Sep 2026 14:41:28 GMT",
       "ts": 1789483288
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years",
+      "link": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
+      "published": "2026-09-15T14:34:52Z",
+      "ts": 1789482892
     },
     {
       "source": "FXStreet",
