@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-15T04:10:47.542771Z",
+  "updated": "2026-09-15T04:29:00.209120Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold bounces off 50-SMA support; bearish bias remains amid Fed hike bets and firmer USD",
+      "link": "https://www.fxstreet.com/news/gold-bounces-off-50-sma-support-bearish-bias-remains-amid-fed-hike-bets-and-firmer-usd-202609150412",
+      "published": "Tue, 15 Sep 2026 04:12:09 GMT",
+      "ts": 1789445529
+    },
     {
       "source": "CoinDesk",
       "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
@@ -92,13 +99,6 @@
       "link": "https://www.fxstreet.com/news/euro-remains-depressed-below-mid-11500s-vs-bullish-usd-as-focus-remains-on-fomc-202609150152",
       "published": "Tue, 15 Sep 2026 01:52:33 GMT",
       "ts": 1789437153
-    },
-    {
-      "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7670 vs. 6.7698 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67670-vs-67698-previous-202609150115",
-      "published": "Tue, 15 Sep 2026 01:15:36 GMT",
-      "ts": 1789434936
     },
     {
       "source": "CoinTelegraph",
@@ -389,6 +389,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Navan (NAVN) Rides Enterprise Momentum Into Events and Meetings Through BoomPop Deal",
+      "link": "https://finance.yahoo.com/technology/ai/articles/navan-navn-rides-enterprise-momentum-171047781.html",
+      "published": "2026-09-13T17:10:47Z",
+      "ts": 1789319447
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dear SpaceX Stock Fans, Mark Your Calendars for September 21",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-spacex-stock-fans-mark-170826925.html",
+      "published": "2026-09-13T17:08:26Z",
+      "ts": 1789319306
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Korn Ferry (KFY) Expands Global Standing With AMS Acquisition",
       "link": "https://finance.yahoo.com/markets/stocks/articles/korn-ferry-kfy-expands-global-170618310.html",
       "published": "2026-09-13T17:06:18Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
       "published": "2026-09-13T16:59:17Z",
       "ts": 1789318757
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-waiting-lower-165503524.html",
-      "published": "2026-09-13T16:55:03Z",
-      "ts": 1789318503
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Being a millionaire isn’t enough to join America’s top 10% — here’s the net worth it actually takes to be in the top",
-      "link": "https://finance.yahoo.com/markets/articles/being-millionaire-isn-t-enough-164500172.html",
-      "published": "2026-09-13T16:45:00Z",
-      "ts": 1789317900
     }
   ]
 }
