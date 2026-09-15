@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-15T16:27:18.863285Z",
+  "updated": "2026-09-15T16:43:09.321343Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "What investors need to do — and mistakes not to make — in today’s uncertain world",
+      "link": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:37:00 GMT",
+      "ts": 1789490220
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:30:00 GMT",
+      "ts": 1789489800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Yahoo Stock: How To Find & Own America's Greatest Opportunities",
+      "link": "https://www.investors.com/how-to-invest/yahoo-stock-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
+      "published": "2026-09-15T16:28:16Z",
+      "ts": 1789489696
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Alluvium Bought Copart (CPRT) Despite the Long-Term Autonomous Driving Risk",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-alluvium-bought-copart-cprt-162642815.html",
+      "published": "2026-09-15T16:26:42Z",
+      "ts": 1789489602
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tech stocks haven’t been this cheap since the launch of ChatGPT. Should you buy in?",
+      "link": "https://www.marketwatch.com/story/tech-stocks-havent-been-this-cheap-since-the-launch-of-chatgpt-should-you-buy-in-ec1044dc?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:26:00 GMT",
+      "ts": 1789489560
+    },
     {
       "source": "FXStreet",
       "title": "Dow Jones Industrial Average slides as yields beat the Fed to tomorrow's hike",
@@ -10,11 +45,46 @@
       "ts": 1789489469
     },
     {
+      "source": "MarketWatch",
+      "title": "Gold is starting to move on something a lot bigger than inflation",
+      "link": "https://www.marketwatch.com/story/gold-is-starting-to-move-on-something-a-lot-bigger-than-inflation-39509ac5?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:21:00 GMT",
+      "ts": 1789489260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Wall Street may have gotten the ‘slower AI’ story all wrong",
+      "link": "https://www.marketwatch.com/story/wall-street-may-have-gotten-the-slower-ai-story-all-wrong-a08613c4?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:16:00 GMT",
+      "ts": 1789488960
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Factory robots long posed a safety threat to human workers. This company says it has solved that problem.",
+      "link": "https://www.marketwatch.com/story/factory-robots-long-posed-a-safety-threat-to-human-workers-one-company-says-its-solved-that-problem-2db84297?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:11:00 GMT",
+      "ts": 1789488660
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+      "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:11:00 GMT",
+      "ts": 1789488660
+    },
+    {
       "source": "FXStreet",
       "title": "British Pound wilts as Oil shock sends US yields past 5%",
       "link": "https://www.fxstreet.com/news/british-pound-wilts-as-oil-shock-sends-us-yields-past-5-202609151604",
       "published": "Tue, 15 Sep 2026 16:04:53 GMT",
       "ts": 1789488293
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Kroger Co. (KR) Could Be a Consumer Staples Comeback Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-kroger-co-kr-could-160335573.html",
+      "published": "2026-09-15T16:03:35Z",
+      "ts": 1789488215
     },
     {
       "source": "CoinTelegraph",
@@ -25,10 +95,45 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "OXEA taps Uber Freight to manage North American, European logistics",
+      "link": "https://finance.yahoo.com/economy/articles/oxea-taps-uber-freight-manage-160000087.html",
+      "published": "2026-09-15T16:00:00Z",
+      "ts": 1789488000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:00:00 GMT",
+      "ts": 1789488000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "90% of retirees are making this miscalculation with their savings",
+      "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:00:00 GMT",
+      "ts": 1789488000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Oil Crisis Has Reached Costco’s Motor Oil Aisle",
+      "link": "https://finance.yahoo.com/energy/articles/oil-crisis-reached-costco-motor-155626578.html",
+      "published": "2026-09-15T15:56:26Z",
+      "ts": 1789487786
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "How Caterpillar (CAT) Drives Sector-Leading Performance Beyond AI Models",
       "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-drives-sector-leading-155623250.html",
       "published": "2026-09-15T15:56:23Z",
       "ts": 1789487783
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Dives As Yields Jump; Bitcoin, Coinbase Fall Ahead Of Clarity Act Vote (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
+      "published": "2026-09-15T15:54:39Z",
+      "ts": 1789487679
     },
     {
       "source": "CoinTelegraph",
@@ -45,34 +150,6 @@
       "ts": 1789487423
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Gates Industrial (GTES) Benefits From AI Growth Without Being an AI Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gates-industrial-gtes-benefits-ai-154615331.html",
-      "published": "2026-09-15T15:46:15Z",
-      "ts": 1789487175
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Clarity Act: What it means for your crypto holdings",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/clarity-act-what-it-means-for-your-crypto-holdings-153849029.html",
-      "published": "2026-09-15T15:38:49Z",
-      "ts": 1789486729
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oil jumps nearly $3 as Saudi export halt, Libya outages stoke supply fears",
-      "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
-      "published": "2026-09-15T15:32:56Z",
-      "ts": 1789486376
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Allison Transmission Holdings (ALSN) is Capturing New Markets Beyond Commercial Vehicles",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-holdings-alsn-capturing-153216137.html",
-      "published": "2026-09-15T15:32:16Z",
-      "ts": 1789486336
-    },
-    {
       "source": "FXStreet",
       "title": "Euro stays neutral against Pound ahead of UK inflation data",
       "link": "https://www.fxstreet.com/news/euro-stays-neutral-against-pound-ahead-of-uk-inflation-data-202609151531",
@@ -80,25 +157,18 @@
       "ts": 1789486289
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin tumbles 3% to $76,000 as hopes of CLARITY Act passage this year fade",
-      "link": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-3-to-76000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html",
-      "published": "2026-09-15T15:31:27Z",
-      "ts": 1789486287
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Fund’s Largest Relative Detractor: Unowned Advanced Micro Devices (AMD)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-largest-relative-detractor-unowned-152642221.html",
-      "published": "2026-09-15T15:26:42Z",
-      "ts": 1789486002
-    },
-    {
       "source": "CoinTelegraph",
       "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
       "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 15:21:26 +0000",
       "ts": 1789485686
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s ‘dots.’",
+      "link": "https://www.marketwatch.com/story/how-many-rate-hikes-are-on-tap-wall-street-hopes-to-connect-the-feds-dots-6b1ac5dc?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 15:16:00 GMT",
+      "ts": 1789485360
     },
     {
       "source": "FXStreet",
@@ -351,76 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
       "published": "2026-09-14 21:54:08",
       "ts": 1789422848
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar at highest level in almost two weeks as Fed rate hike bets hit nearly 95%",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 21:03:42",
-      "ts": 1789419822
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "National specialty clothing chain closing all its stores",
-      "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
-      "published": "2026-09-14T14:07:00Z",
-      "ts": 1789394820
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Costco rations Kirkland motor oil, raises price to $57.99",
-      "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
-      "published": "2026-09-14T13:33:08Z",
-      "ts": 1789392788
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
-      "published": "2026-09-14 12:13:47",
-      "ts": 1789388027
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi says NOK/SEK can continue to work despite recent gains",
-      "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
-      "published": "2026-09-14 12:07:47",
-      "ts": 1789387667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BofA sees dollar sideways into year-end despite Fed hike bets",
-      "link": "https://www.investing.com/news/forex-news/bofa-sees-dollar-sideways-into-yearend-despite-fed-hike-bets-93CH-4899034",
-      "published": "2026-09-14 09:55:05",
-      "ts": 1789379705
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BofA says Danish krone weakness driven by flows, not peg fears",
-      "link": "https://www.investing.com/news/forex-news/bofa-says-danish-krone-weakness-driven-by-flows-not-peg-fears-93CH-4898992",
-      "published": "2026-09-14 09:23:41",
-      "ts": 1789377821
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
-      "published": "2026-09-13 21:59:53",
-      "ts": 1789336793
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-13 19:02:21",
-      "ts": 1789326141
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
-      "published": "2026-09-12 09:52:28",
-      "ts": 1789206748
     }
   ]
 }
