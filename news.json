@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-15T21:50:56.418143Z",
+  "updated": "2026-09-15T22:10:07.540744Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Pound drifts lower as the Fed lines up a rate above the Bank of England's",
+      "link": "https://www.fxstreet.com/news/the-pound-drifts-lower-as-the-fed-lines-up-a-rate-above-the-bank-of-englands-202609152209",
+      "published": "Tue, 15 Sep 2026 22:09:57 GMT",
+      "ts": 1789510197
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 22:00:00 GMT",
+      "ts": 1789509600
+    },
+    {
+      "source": "CoinDesk",
+      "title": "There were many conductors in the derailment of the crypto industry's Clarity Act",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
+      "published": "Tue, 15 Sep 2026 21:58:48 +0000",
+      "ts": 1789509528
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
+      "published": "2026-09-15 21:49:19",
+      "ts": 1789508959
+    },
     {
       "source": "MarketWatch",
       "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
@@ -136,13 +164,6 @@
       "ts": 1789501993
     },
     {
-      "source": "MarketWatch",
-      "title": "The Fed’s expected interest-rate hike on Wednesday could be the start of something more troubling for investors",
-      "link": "https://www.marketwatch.com/story/a-fed-rate-hike-isnt-the-only-thing-investors-should-be-watching-for-on-wednesday-3157d12d?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 19:50:00 GMT",
-      "ts": 1789501800
-    },
-    {
       "source": "FXStreet",
       "title": "Chinese Yuan: Slow appreciation with weak demand – Commerzbank",
       "link": "https://www.fxstreet.com/news/chinese-yuan-slow-appreciation-with-weak-demand-commerzbank-202609151949",
@@ -190,13 +211,6 @@
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bears-crack-100-day-sma-eye-11500-202609151850",
       "published": "Tue, 15 Sep 2026 18:50:12 GMT",
       "ts": 1789498212
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen slips as Oil lifts yields ahead of the Fed",
-      "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-oil-lifts-yields-ahead-of-the-fed-202609151849",
-      "published": "Tue, 15 Sep 2026 18:49:55 GMT",
-      "ts": 1789498195
     },
     {
       "source": "CoinTelegraph",
@@ -276,13 +290,6 @@
       "ts": 1789481624
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips to $76.2k ahead of Clarity Act vote, Fed meeting",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 13:50:33",
-      "ts": 1789480233
-    },
-    {
       "source": "CoinDesk",
       "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
       "link": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
@@ -316,13 +323,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-slips-as-oil-surge-fuels-rate-worries-ahead-of-fed-decision-4901710",
       "published": "2026-09-15 12:40:11",
       "ts": 1789476011
-    },
-    {
-      "source": "CoinDesk",
-      "title": "To ensure permanent economic innovation, we must pass the Clarity Act now",
-      "link": "https://www.coindesk.com/opinion/2026/09/15/to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
-      "published": "Tue, 15 Sep 2026 12:00:06 +0000",
-      "ts": 1789473606
     },
     {
       "source": "Investing Crypto",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Costco rations Kirkland motor oil, raises price to $57.99",
-      "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
-      "published": "2026-09-14T13:33:08Z",
-      "ts": 1789392788
+      "title": "Strategy Again Leaves Bitcoin Holdings Unchanged",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-again-leaves-bitcoin-holdings-140100959.html",
+      "published": "2026-09-14T14:01:00Z",
+      "ts": 1789394460
     },
     {
       "source": "Yahoo Finance",
-      "title": "XRP Price Prediction: $1.40 Breakout Could Open Path to $2.10",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-1-40-133202440.html",
-      "published": "2026-09-14T13:32:02Z",
-      "ts": 1789392722
+      "title": "How Is ON Semiconductor's Stock Performance Compared to Other Semiconductor Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductors-stock-performance-compared-other-140001530.html",
+      "published": "2026-09-14T14:00:01Z",
+      "ts": 1789394401
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is Dollar General's Stock Performance Compared to Other Consumer Defensive Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-generals-stock-performance-compared-132555848.html",
-      "published": "2026-09-14T13:25:55Z",
-      "ts": 1789392355
+      "title": "'Dario is Right': What Elon Musk and More Top Executives Are Saying About an AI Slowdown",
+      "link": "https://finance.yahoo.com/technology/ai/articles/dario-elon-musk-more-top-135024610.html",
+      "published": "2026-09-14T13:50:24Z",
+      "ts": 1789393824
     },
     {
       "source": "Yahoo Finance",
-      "title": "Tesla, Microsoft and Amazon Forecast: Tech Stocks Diverge",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-microsoft-amazon-forecast-tech-131133844.html",
-      "published": "2026-09-14T13:11:33Z",
-      "ts": 1789391493
+      "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
+      "published": "2026-09-14T13:45:19Z",
+      "ts": 1789393519
     }
   ]
 }
