@@ -1,10 +1,31 @@
 {
-  "updated": "2026-09-15T19:08:35.294396Z",
+  "updated": "2026-09-15T19:24:51.744823Z",
   "count": 60,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "SpaceX’s Starship is finally set for orbit. A lot is riding on its success.",
+      "link": "https://www.marketwatch.com/story/spacexs-starship-is-finally-set-for-orbit-a-lot-is-riding-on-its-success-764219b3?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 19:23:00 GMT",
+      "ts": 1789500180
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
+      "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 19:17:00 GMT",
+      "ts": 1789499820
+    },
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Downtrend seen limited against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-downtrend-seen-limited-against-us-dollar-uob-202609151912",
+      "published": "Tue, 15 Sep 2026 19:12:00 GMT",
+      "ts": 1789499520
+    },
+    {
       "source": "CoinDesk",
-      "title": "Clarity Act fails in Senate: Here is how the crypto industry is reacting",
+      "title": "Crypto industry reacts after Clarity Act fails Senate vote",
       "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
       "published": "Tue, 15 Sep 2026 19:06:31 +0000",
       "ts": 1789499191
@@ -50,13 +71,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-rout-4902406",
       "published": "2026-09-15 18:44:04",
       "ts": 1789497844
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The best time to book your flight home for the holidays? Yesterday.",
-      "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 18:44:00 GMT",
-      "ts": 1789497840
     },
     {
       "source": "FXStreet",
@@ -176,20 +190,6 @@
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 16:30:00 GMT",
       "ts": 1789489800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tech stocks haven’t been this cheap since the launch of ChatGPT. Should you buy in?",
-      "link": "https://www.marketwatch.com/story/tech-stocks-havent-been-this-cheap-since-the-launch-of-chatgpt-should-you-buy-in-ec1044dc?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:26:00 GMT",
-      "ts": 1789489560
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average slides as yields beat the Fed to tomorrow's hike",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-slides-as-yields-beat-the-fed-to-tomorrows-hike-202609151624",
-      "published": "Tue, 15 Sep 2026 16:24:29 GMT",
-      "ts": 1789489469
     },
     {
       "source": "CoinTelegraph",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
-      "published": "2026-09-14T10:00:00Z",
-      "ts": 1789380000
+      "title": "‘Black Swan’ investor backs Michael Burry’s AI warning: ‘Euphoric rally’ comes before historic crash. Protect your money",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/black-swan-investor-backs-michael-101500434.html",
+      "published": "2026-09-14T10:15:00Z",
+      "ts": 1789380900
     }
   ]
 }
