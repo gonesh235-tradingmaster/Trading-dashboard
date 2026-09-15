@@ -1,13 +1,69 @@
 {
-  "updated": "2026-09-15T14:44:16.462763Z",
+  "updated": "2026-09-15T14:57:23.848108Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Is the shingles vaccine the secret to living longer and delaying dementia? Here’s what the science says.",
+      "link": "https://www.marketwatch.com/story/is-the-shingles-vaccine-the-secret-to-living-longer-and-delaying-dementia-heres-what-the-science-says-1c108c26?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 14:51:00 GMT",
+      "ts": 1789483860
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Further weakness eyed toward 1.3410 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-further-weakness-eyed-toward-13410-against-us-dollar-uob-202609151450",
+      "published": "Tue, 15 Sep 2026 14:50:31 GMT",
+      "ts": 1789483831
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar continues recent slide ahead of Fed decision",
+      "link": "https://www.fxstreet.com/news/australian-dollar-continues-recent-slide-ahead-of-fed-decision-202609151450",
+      "published": "Tue, 15 Sep 2026 14:50:10 GMT",
+      "ts": 1789483810
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The 10 most overvalued housing markets in America",
+      "link": "https://www.marketwatch.com/story/the-10-most-overvalued-housing-markets-in-america-6d28efdf?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 14:43:00 GMT",
+      "ts": 1789483380
+    },
     {
       "source": "FXStreet",
       "title": "Natural gas: European prices stay elevated – ING",
       "link": "https://www.fxstreet.com/news/natural-gas-european-prices-stay-elevated-ing-202609151441",
       "published": "Tue, 15 Sep 2026 14:41:28 GMT",
       "ts": 1789483288
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bank of America Warns of 10%+ Drop in Q3 Investment Banking Fees",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-warns-10-drop-143911257.html",
+      "published": "2026-09-15T14:39:11Z",
+      "ts": 1789483151
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BioNTech’s Lung Cancer Drug Shows Signs of a Major Breakthrough",
+      "link": "https://finance.yahoo.com/healthcare/articles/biontech-lung-cancer-drug-shows-143753280.html",
+      "published": "2026-09-15T14:37:53Z",
+      "ts": 1789483073
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "From Novo Nordisk to ‘Novo’: A Strategic Reset Amid Rising Lilly Pressure",
+      "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-novo-strategic-reset-143625079.html",
+      "published": "2026-09-15T14:36:25Z",
+      "ts": 1789482985
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Planted Raises $31.8 Million to Accelerate Autonomous Solar Deployment",
+      "link": "https://finance.yahoo.com/energy/articles/planted-raises-31-8-million-143619127.html",
+      "published": "2026-09-15T14:36:19Z",
+      "ts": 1789482979
     },
     {
       "source": "MarketWatch",
@@ -24,11 +80,25 @@
       "ts": 1789482892
     },
     {
+      "source": "Yahoo Finance",
+      "title": "ASML Eyes 110+ EUV Tools in 2028 as AI Chip Demand Accelerates",
+      "link": "https://finance.yahoo.com/technology/ai/articles/asml-eyes-110-euv-tools-143406050.html",
+      "published": "2026-09-15T14:34:06Z",
+      "ts": 1789482846
+    },
+    {
       "source": "FXStreet",
       "title": "USD/CHF Price Forecast: RSI and MACD signal firm upside momentum",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rsi-and-macd-signal-firm-upside-momentum-202609151433",
       "published": "Tue, 15 Sep 2026 14:33:40 GMT",
       "ts": 1789482820
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Rentokil Initial’s (RTO) Discount to Rollins Could Narrow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-rentokil-initial-rto-discount-143339625.html",
+      "published": "2026-09-15T14:33:39Z",
+      "ts": 1789482819
     },
     {
       "source": "MarketWatch",
@@ -38,46 +108,11 @@
       "ts": 1789482720
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Apollo and J&J Face a High-Stakes Orthopedics Deal",
-      "link": "https://finance.yahoo.com/healthcare/articles/apollo-j-j-face-high-142856052.html",
-      "published": "2026-09-15T14:28:56Z",
-      "ts": 1789482536
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nvidia’s Anthropic Investment: Securing AI Demand Amid Rising Competition",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-anthropic-investment-securing-ai-142836122.html",
-      "published": "2026-09-15T14:28:36Z",
-      "ts": 1789482516
-    },
-    {
       "source": "FXStreet",
       "title": "Euro: Support holds near 1.15 against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/euro-support-holds-near-115-against-us-dollar-scotiabank-202609151425",
       "published": "Tue, 15 Sep 2026 14:25:19 GMT",
       "ts": 1789482319
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "GSK Cuts 641 Jobs in Vaccine Manufacturing Restructuring",
-      "link": "https://finance.yahoo.com/healthcare/articles/gsk-cuts-641-jobs-vaccine-142359501.html",
-      "published": "2026-09-15T14:23:59Z",
-      "ts": 1789482239
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Kroger Under Pressure as Shoppers Become More Price-Sensitive",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kroger-under-pressure-shoppers-become-142231708.html",
-      "published": "2026-09-15T14:22:31Z",
-      "ts": 1789482151
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Colgate-Palmolive Seeks Value Through Portfolio Reshaping",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/colgate-palmolive-seeks-value-portfolio-142118276.html",
-      "published": "2026-09-15T14:21:18Z",
-      "ts": 1789482078
     },
     {
       "source": "FXStreet",
@@ -150,13 +185,6 @@
       "ts": 1789480211
     },
     {
-      "source": "FXStreet",
-      "title": "Euro holds near one-month low against US Dollar ahead of Fed verdict",
-      "link": "https://www.fxstreet.com/news/euro-holds-near-one-month-low-against-us-dollar-ahead-of-fed-verdict-202609151346",
-      "published": "Tue, 15 Sep 2026 13:46:51 GMT",
-      "ts": 1789480011
-    },
-    {
       "source": "MarketWatch",
       "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way.",
       "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
@@ -178,13 +206,6 @@
       "ts": 1789479451
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: FOMC scenarios guide Dollar reaction – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-fomc-scenarios-guide-dollar-reaction-td-securities-202609151331",
-      "published": "Tue, 15 Sep 2026 13:31:30 GMT",
-      "ts": 1789479090
-    },
-    {
       "source": "CoinDesk",
       "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
       "link": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
@@ -204,20 +225,6 @@
       "link": "https://www.marketwatch.com/story/an-ai-bubble-is-no-longer-wall-streets-biggest-fear-this-market-risk-just-took-its-place-ec939034?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 13:18:00 GMT",
       "ts": 1789478280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Saudi Arabia may be just days away from not being able to export much oil",
-      "link": "https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 13:03:00 GMT",
-      "ts": 1789477380
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 13:00:00 GMT",
-      "ts": 1789477200
     },
     {
       "source": "Investing Forex",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
       "published": "2026-09-14 21:03:42",
       "ts": 1789419822
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "National specialty clothing chain closing all its stores",
-      "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
-      "published": "2026-09-14T14:07:00Z",
-      "ts": 1789394820
     }
   ]
 }
