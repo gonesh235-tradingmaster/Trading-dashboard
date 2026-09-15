@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-15T22:10:07.540744Z",
+  "updated": "2026-09-15T22:25:21.457028Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Rebounds above 207.00 as oversold risk eases",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebounds-above-20700-as-oversold-risk-eases-202609152222",
+      "published": "Tue, 15 Sep 2026 22:22:04 GMT",
+      "ts": 1789510924
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 22:15:00 GMT",
+      "ts": 1789510500
+    },
     {
       "source": "FXStreet",
       "title": "The Pound drifts lower as the Fed lines up a rate above the Bank of England's",
@@ -150,13 +164,6 @@
       "ts": 1789502293
     },
     {
-      "source": "MarketWatch",
-      "title": "Is the shingles vaccine the secret to living longer and delaying dementia? Here’s what the science says.",
-      "link": "https://www.marketwatch.com/story/is-the-shingles-vaccine-the-secret-to-living-longer-and-delaying-dementia-heres-what-the-science-says-1c108c26?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 19:54:00 GMT",
-      "ts": 1789502040
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -183,13 +190,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-15 19:18:37",
       "ts": 1789499917
-    },
-    {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Downtrend seen limited against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-downtrend-seen-limited-against-us-dollar-uob-202609151912",
-      "published": "Tue, 15 Sep 2026 19:12:00 GMT",
-      "ts": 1789499520
     },
     {
       "source": "CoinDesk",
@@ -396,6 +396,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Kalshi To Offer U.S. Stock And Commodities Trading",
+      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-offer-u-stock-commodities-140300562.html",
+      "published": "2026-09-14T14:03:00Z",
+      "ts": 1789394580
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Mettler-Toledo Stock Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mettler-toledo-stock-underperforming-nasdaq-140221943.html",
+      "published": "2026-09-14T14:02:21Z",
+      "ts": 1789394541
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Strategy Again Leaves Bitcoin Holdings Unchanged",
       "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-again-leaves-bitcoin-holdings-140100959.html",
       "published": "2026-09-14T14:01:00Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductors-stock-performance-compared-other-140001530.html",
       "published": "2026-09-14T14:00:01Z",
       "ts": 1789394401
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "'Dario is Right': What Elon Musk and More Top Executives Are Saying About an AI Slowdown",
-      "link": "https://finance.yahoo.com/technology/ai/articles/dario-elon-musk-more-top-135024610.html",
-      "published": "2026-09-14T13:50:24Z",
-      "ts": 1789393824
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
-      "published": "2026-09-14T13:45:19Z",
-      "ts": 1789393519
     }
   ]
 }
