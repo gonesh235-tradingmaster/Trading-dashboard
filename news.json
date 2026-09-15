@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-15T09:43:54.029916Z",
+  "updated": "2026-09-15T09:58:19.591607Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro remains depressed as Eurozone sentiment and trade data fail to inspire",
+      "link": "https://www.fxstreet.com/news/euro-remains-depressed-as-eurozone-sentiment-and-trade-data-fail-to-inspire-202609150951",
+      "published": "Tue, 15 Sep 2026 09:51:10 GMT",
+      "ts": 1789465870
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Downside pressure targets 1.1490 against US Dollar – UOB",
@@ -218,13 +225,6 @@
       "link": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 05:32:12 +0000",
       "ts": 1789450332
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee faces backlash as US Treasury Yields rally historic highs",
-      "link": "https://www.fxstreet.com/news/indian-rupee-declines-further-as-us-treasury-yields-extend-rally-202609150530",
-      "published": "Tue, 15 Sep 2026 05:30:46 GMT",
-      "ts": 1789450246
     },
     {
       "source": "CoinDesk",
