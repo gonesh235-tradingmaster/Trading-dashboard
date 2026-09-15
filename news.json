@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-15T01:14:00.841528Z",
+  "updated": "2026-09-15T01:32:01.335785Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7670 vs. 6.7698 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67670-vs-67698-previous-202609150115",
+      "published": "Tue, 15 Sep 2026 01:15:36 GMT",
+      "ts": 1789434936
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar consolidates near 1.3900 as oil gains offset bullish USD ahead of Fed",
@@ -31,6 +38,20 @@
       "ts": 1789432897
     },
     {
+      "source": "MarketWatch",
+      "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
+      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 00:15:00 GMT",
+      "ts": 1789431300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 00:01:00 GMT",
+      "ts": 1789430460
+    },
+    {
       "source": "FXStreet",
       "title": "Iran's President Pezeshkian: Our demands are the same as our previous demands",
       "link": "https://www.fxstreet.com/news/irans-president-pezeshkian-our-demands-are-the-same-as-our-previous-demands-202609142353",
@@ -57,6 +78,13 @@
       "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
       "published": "Mon, 14 Sep 2026 23:30:40 +0000",
       "ts": 1789428640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 23:19:00 GMT",
+      "ts": 1789427940
     },
     {
       "source": "FXStreet",
@@ -94,17 +122,17 @@
       "ts": 1789423561
     },
     {
+      "source": "MarketWatch",
+      "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
+      "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:57:00 GMT",
+      "ts": 1789423020
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
       "published": "2026-09-14 21:56:58",
-      "ts": 1789423018
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Bears circle 207.00 as RSI rebounds",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bears-circle-20700-as-rsi-rebounds-202609142156",
-      "published": "Mon, 14 Sep 2026 21:56:58 GMT",
       "ts": 1789423018
     },
     {
@@ -113,6 +141,27 @@
       "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
       "published": "2026-09-14 21:54:08",
       "ts": 1789422848
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+      "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:31:00 GMT",
+      "ts": 1789421460
+    },
+    {
+      "source": "MarketWatch",
+      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
+      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
+      "ts": 1789420260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
+      "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
+      "ts": 1789420260
     },
     {
       "source": "CoinDesk",
@@ -129,11 +178,32 @@
       "ts": 1789419822
     },
     {
+      "source": "MarketWatch",
+      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?",
+      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:00:00 GMT",
+      "ts": 1789419600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
+      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:56:00 GMT",
+      "ts": 1789419360
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
       "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 20:54:10 +0000",
       "ts": 1789419250
+    },
+    {
+      "source": "MarketWatch",
+      "title": "10-year Treasury yield hits 5% as oil prices jump and Fed meeting looms",
+      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:47:00 GMT",
+      "ts": 1789418820
     },
     {
       "source": "CoinTelegraph",
@@ -305,6 +375,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
+      "published": "2026-09-13T14:02:10Z",
+      "ts": 1789308130
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-worth-buying-shorting-140002756.html",
+      "published": "2026-09-13T14:00:02Z",
+      "ts": 1789308002
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-grows-134921293.html",
+      "published": "2026-09-13T13:49:21Z",
+      "ts": 1789307361
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "The RealReal (REAL) Posts Record Sales, But The Losses Keep Growing",
       "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-posts-record-sales-134612583.html",
       "published": "2026-09-13T13:46:12Z",
@@ -330,97 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-turns-lab-promises-133324594.html",
       "published": "2026-09-13T13:33:24Z",
       "ts": 1789306404
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
-      "link": "https://finance.yahoo.com/media-advertising/articles/clear-channel-outdoor-cco-grows-132626831.html",
-      "published": "2026-09-13T13:26:26Z",
-      "ts": 1789305986
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Adobe’s (ADBE) AI Bet Is Finally Showing Up In Revenue",
-      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-ai-bet-finally-132237575.html",
-      "published": "2026-09-13T13:22:37Z",
-      "ts": 1789305757
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "LightPath’s (LPTH) Defense Pivot Just Showed Up In The Numbers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lightpath-lpth-defense-pivot-just-131404572.html",
-      "published": "2026-09-13T13:14:04Z",
-      "ts": 1789305244
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Copart (CPRT) Bets On Digital Dealers As Core Volumes Shrink",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-bets-digital-dealers-130853110.html",
-      "published": "2026-09-13T13:08:53Z",
-      "ts": 1789304933
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Speculators turn bullish on yen for first time since February",
-      "link": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
-      "published": "2026-09-13 06:44:32",
-      "ts": 1789281872
-    },
-    {
-      "source": "Investing Forex",
-      "title": "EUR/USD could retest 1.17 after Fed decision - Citi says",
-      "link": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
-      "published": "2026-09-12 22:52:48",
-      "ts": 1789253568
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
-      "published": "2026-09-12 09:52:28",
-      "ts": 1789206748
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
-      "published": "2026-09-11 21:20:45",
-      "ts": 1789161645
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar up on Fed rate hike bets, yen set for first two-week win streak since May",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-yen-slips-dollar-holds-near-weekly-high-4897219",
-      "published": "2026-09-11 19:17:21",
-      "ts": 1789154241
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-783k-on-iran-jitters-higher-yields-4894954",
-      "published": "2026-09-10 21:43:48",
-      "ts": 1789076628
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Uniswap Labs Launches StablePair Hook, a Dynamic-Fee Hook for Stable Pairs",
-      "link": "https://www.investing.com/news/cryptocurrency-news/uniswap-labs-launches-stablepair-hook-a-dynamicfee-hook-for-stable-pairs-4896728",
-      "published": "2026-09-10 19:00:36",
-      "ts": 1789066836
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Tag Markets Names Craig Lund Chief Executive Officer",
-      "link": "https://www.investing.com/news/cryptocurrency-news/tag-markets-names-craig-lund-chief-executive-officer-4896666",
-      "published": "2026-09-10 18:00:35",
-      "ts": 1789063235
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin’s next adoption wave could come from retirement accounts",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoins-next-adoption-wave-could-come-from-retirement-accounts-4896632",
-      "published": "2026-09-10 17:39:05",
-      "ts": 1789061945
     }
   ]
 }
