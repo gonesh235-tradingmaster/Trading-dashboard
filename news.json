@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-14T23:51:04.668067Z",
+  "updated": "2026-09-15T00:14:18.593054Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 00:01:00 GMT",
+      "ts": 1789430460
+    },
+    {
+      "source": "FXStreet",
+      "title": "Iran's President Pezeshkian: Our demands are the same as our previous demands",
+      "link": "https://www.fxstreet.com/news/irans-president-pezeshkian-our-demands-are-the-same-as-our-previous-demands-202609142353",
+      "published": "Mon, 14 Sep 2026 23:53:40 GMT",
+      "ts": 1789430020
+    },
     {
       "source": "CoinDesk",
       "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
@@ -192,20 +206,6 @@
       "ts": 1789418100
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 20:30:00 GMT",
-      "ts": 1789417800
-    },
-    {
-      "source": "FXStreet",
-      "title": "Crude Oil spikes on a shut Saudi pipeline and unwinds on Trump's posts",
-      "link": "https://www.fxstreet.com/news/crude-oil-spikes-on-a-shut-saudi-pipeline-and-unwinds-on-trumps-posts-202609142014",
-      "published": "Mon, 14 Sep 2026 20:14:09 GMT",
-      "ts": 1789416849
-    },
-    {
       "source": "CoinDesk",
       "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
       "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
@@ -297,13 +297,6 @@
       "ts": 1789396676
     },
     {
-      "source": "Yahoo Finance",
-      "title": "National specialty clothing chain closing all its stores",
-      "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
-      "published": "2026-09-14T14:07:00Z",
-      "ts": 1789394820
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
       "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -361,13 +354,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "38-year-old beloved steakhouse chain closing over 40 locations",
-      "link": "https://finance.yahoo.com/small-business/articles/38-old-beloved-steakhouse-chain-020300119.html",
-      "published": "2026-09-14T02:03:00Z",
-      "ts": 1789351380
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "AI agents to start spending your money with Visa, Mastercard",
       "link": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html",
       "published": "2026-09-14T01:03:00Z",
@@ -389,38 +375,52 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Zcash Price Prediction: Bearish RSI Divergence Sets Stage for Pullback to $850",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-prediction-bearish-rsi-160848407.html",
-      "published": "2026-09-13T16:08:48Z",
-      "ts": 1789315728
+      "title": "Copart (CPRT) Bets On Digital Dealers As Core Volumes Shrink",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-bets-digital-dealers-130853110.html",
+      "published": "2026-09-13T13:08:53Z",
+      "ts": 1789304933
     },
     {
       "source": "Yahoo Finance",
-      "title": "Pay is back on the rise for job switchers, even in low-hire job market",
-      "link": "https://finance.yahoo.com/economy/article/pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
-      "published": "2026-09-13T15:45:04Z",
-      "ts": 1789314304
+      "title": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-expands-ai-capabilities-autonomous-130002831.html",
+      "published": "2026-09-13T13:00:02Z",
+      "ts": 1789304402
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bank exits squeeze truck financing for mid-size fleets",
-      "link": "https://finance.yahoo.com/small-business/articles/bank-exits-squeeze-truck-financing-154006871.html",
-      "published": "2026-09-13T15:40:06Z",
-      "ts": 1789314006
+      "title": "GF Securities Says NAND Prices May Stabilize Later This Year. What This Means for Sandisk Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gf-securities-says-nand-prices-130002701.html",
+      "published": "2026-09-13T13:00:02Z",
+      "ts": 1789304402
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nvidia Is Focused on Redefining AI Infrastructure as an Income-Generating Asset",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-focused-redefining-ai-infrastructure-153002085.html",
-      "published": "2026-09-13T15:30:02Z",
-      "ts": 1789313402
+      "title": "Lovesac’s (LOVE) Premium Sofas Shine While Entry-Level Buyers Stay Away",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lovesac-love-premium-sofas-shine-125527184.html",
+      "published": "2026-09-13T12:55:27Z",
+      "ts": 1789304127
     },
     {
       "source": "Yahoo Finance",
-      "title": "Amgen (AMGN) Fell 5% on a Drug That Isn’t Even Its Own. Here’s the Lp(a) Bet Now in Question.",
-      "link": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html",
-      "published": "2026-09-13T14:29:16Z",
-      "ts": 1789309756
+      "title": "Walmart Just Declared War on DoorDash and Uber Eats, But Winning Won't Be Easy for 1 Simple Reason",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-declared-war-doordash-123023266.html",
+      "published": "2026-09-13T12:30:23Z",
+      "ts": 1789302623
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "IBEX (IBEX) Turns The AI Threat Into Its Biggest Growth Engine",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibex-ibex-turns-ai-threat-121949823.html",
+      "published": "2026-09-13T12:19:49Z",
+      "ts": 1789301989
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Wall Street Is Betting Against Designer Brands (DBI) Even as Profits Double",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-betting-against-designer-121631989.html",
+      "published": "2026-09-13T12:16:31Z",
+      "ts": 1789301791
     }
   ]
 }
