@@ -1,13 +1,48 @@
 {
-  "updated": "2026-09-15T11:26:09.946573Z",
+  "updated": "2026-09-15T11:41:10.090542Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
+      "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 11:34:00 GMT",
+      "ts": 1789472040
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold bears retain control as markets brace for Fed rate hike",
+      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-markets-brace-for-fed-rate-hike-202609151131",
+      "published": "Tue, 15 Sep 2026 11:31:53 GMT",
+      "ts": 1789471913
+    },
+    {
+      "source": "FXStreet",
+      "title": "Copper: AI slowdown fears pressure prices – ING",
+      "link": "https://www.fxstreet.com/news/copper-ai-slowdown-fears-pressure-prices-ing-202609151130",
+      "published": "Tue, 15 Sep 2026 11:30:38 GMT",
+      "ts": 1789471838
+    },
+    {
+      "source": "FXStreet",
+      "title": "Experts agree: Fed will follow monetary tightening path even beyond September meeting",
+      "link": "https://www.fxstreet.com/news/experts-agree-fed-will-follow-monetary-tightening-path-even-beyond-september-meeting-202609151129",
+      "published": "Tue, 15 Sep 2026 11:29:52 GMT",
+      "ts": 1789471792
+    },
     {
       "source": "MarketWatch",
       "title": "It might be time to consider the ‘most hated, under-owned asset class,’ says this strategist",
       "link": "https://www.marketwatch.com/story/it-might-be-time-to-consider-the-most-hated-under-owned-asset-class-says-this-strategist-1b86c059?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 11:24:00 GMT",
       "ts": 1789471440
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Silver prices today, Tuesday, September 15, 2026: Silver prices drop below $64 as Fed-decision day approaches",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-september-15-2026-silver-prices-drop-below-64-as-fed-decision-day-approaches-112326237.html",
+      "published": "2026-09-15T11:23:26Z",
+      "ts": 1789471406
     },
     {
       "source": "FXStreet",
@@ -32,10 +67,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Charlie Munger once revealed ‘the iron rule of life’ to survive anything — and it could make you rich. Do you use it?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/charlie-munger-once-revealed-iron-111500705.html",
+      "published": "2026-09-15T11:15:00Z",
+      "ts": 1789470900
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Gold prices today, Tuesday, September 15, 2026: Gold sees lowest open in weeks as Treasury yields keep rising",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-15-2026-gold-sees-lowest-open-in-weeks-as-treasury-yields-keep-rising-111454530.html",
       "published": "2026-09-15T11:14:54Z",
       "ts": 1789470894
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "GameStop (GME) Hits Operating Milestone Despite Weakness in Core Sales",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-gme-hits-operating-milestone-111314959.html",
+      "published": "2026-09-15T11:13:14Z",
+      "ts": 1789470794
     },
     {
       "source": "FXStreet",
@@ -45,18 +94,18 @@
       "ts": 1789470766
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Said This AI Stock Has A Clever Technology Chief",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-ai-stock-110744425.html",
-      "published": "2026-09-15T11:07:44Z",
-      "ts": 1789470464
-    },
-    {
       "source": "MarketWatch",
-      "title": "Factory robots long posed a safety threat to human workers. One company says it’s solved that problem.",
+      "title": "Factory robots long posed a safety threat to human workers. One company says it has solved that problem.",
       "link": "https://www.marketwatch.com/story/factory-robots-long-posed-a-safety-threat-to-human-workers-one-company-says-its-solved-that-problem-2db84297?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 11:02:00 GMT",
       "ts": 1789470120
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "NBKR and CertiK Establish Long-Term Strategic Partnership on Digital Som Security and Digital Asset Oversight",
+      "link": "https://www.investing.com/news/cryptocurrency-news/nbkr-and-certik-establish-longterm-strategic-partnership-on-digital-som-security-and-digital-asset-oversight-4901279",
+      "published": "2026-09-15 11:00:32",
+      "ts": 1789470032
     },
     {
       "source": "CoinDesk",
@@ -73,25 +122,11 @@
       "ts": 1789470000
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Suze Orman says Medicare leaves retirees on the hook for $185,500 in health costs — so now's the time to 'push yourself'",
-      "link": "https://finance.yahoo.com/healthcare/articles/suze-orman-says-medicare-leaves-110000316.html",
-      "published": "2026-09-15T11:00:00Z",
-      "ts": 1789470000
-    },
-    {
       "source": "MarketWatch",
       "title": "Jewelry sales are heating up as Gen Z seeks out ‘little treats’ and the ultra-rich go for chunky gold",
       "link": "https://www.marketwatch.com/story/jewelry-sales-are-heating-up-as-gen-z-seeks-out-little-treats-and-the-ultra-rich-go-for-chunky-gold-d4daa34a?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 11:00:00 GMT",
       "ts": 1789470000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Zscaler’s AI Story Is Accelerating, Its Growth Guide Isn’t",
-      "link": "https://finance.yahoo.com/technology/ai/articles/zscaler-ai-story-accelerating-growth-105942349.html",
-      "published": "2026-09-15T10:59:42Z",
-      "ts": 1789469982
     },
     {
       "source": "FXStreet",
@@ -106,13 +141,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
       "published": "Tue, 15 Sep 2026 10:41:35 +0000",
       "ts": 1789468895
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
-      "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 10:37:00 GMT",
-      "ts": 1789468620
     },
     {
       "source": "CoinDesk",
@@ -164,32 +192,11 @@
       "ts": 1789466311
     },
     {
-      "source": "FXStreet",
-      "title": "Euro remains depressed as Eurozone sentiment and trade data fail to inspire",
-      "link": "https://www.fxstreet.com/news/euro-remains-depressed-as-eurozone-sentiment-and-trade-data-fail-to-inspire-202609150951",
-      "published": "Tue, 15 Sep 2026 09:51:10 GMT",
-      "ts": 1789465870
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Downside pressure targets 1.1490 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-downside-pressure-targets-11490-against-us-dollar-uob-202609150942",
-      "published": "Tue, 15 Sep 2026 09:42:54 GMT",
-      "ts": 1789465374
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
       "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 09:40:27 +0000",
       "ts": 1789465227
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609150931",
-      "published": "Tue, 15 Sep 2026 09:31:23 GMT",
-      "ts": 1789464683
     },
     {
       "source": "CoinDesk",
@@ -204,13 +211,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 09:30:31 +0000",
       "ts": 1789464631
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brent: Higher risk premium and retest of highs – Rabobank",
-      "link": "https://www.fxstreet.com/news/brent-higher-risk-premium-and-retest-of-highs-rabobank-202609150927",
-      "published": "Tue, 15 Sep 2026 09:27:40 GMT",
-      "ts": 1789464460
     },
     {
       "source": "Investing Crypto",
@@ -318,6 +318,13 @@
       "ts": 1789450332
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee extends its downfall due to surging US Treasury Yields",
+      "link": "https://www.fxstreet.com/news/indian-rupee-declines-further-as-us-treasury-yields-extend-rally-202609150530",
+      "published": "Tue, 15 Sep 2026 05:30:46 GMT",
+      "ts": 1789450246
+    },
+    {
       "source": "CoinDesk",
       "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
       "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/bofa-sees-dollar-sideways-into-yearend-despite-fed-hike-bets-93CH-4899034",
       "published": "2026-09-14 09:55:05",
       "ts": 1789379705
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BofA says Danish krone weakness driven by flows, not peg fears",
-      "link": "https://www.investing.com/news/forex-news/bofa-says-danish-krone-weakness-driven-by-flows-not-peg-fears-93CH-4898992",
-      "published": "2026-09-14 09:23:41",
-      "ts": 1789377821
     }
   ]
 }
