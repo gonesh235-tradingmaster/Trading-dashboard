@@ -1,7 +1,98 @@
 {
-  "updated": "2026-09-15T09:16:30.027669Z",
+  "updated": "2026-09-15T09:43:54.029916Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Downside pressure targets 1.1490 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-downside-pressure-targets-11490-against-us-dollar-uob-202609150942",
+      "published": "Tue, 15 Sep 2026 09:42:54 GMT",
+      "ts": 1789465374
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+      "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 09:40:27 +0000",
+      "ts": 1789465227
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609150931",
+      "published": "Tue, 15 Sep 2026 09:31:23 GMT",
+      "ts": 1789464683
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
+      "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
+      "published": "Tue, 15 Sep 2026 09:30:58 +0000",
+      "ts": 1789464658
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
+      "link": "https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 09:30:31 +0000",
+      "ts": 1789464631
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dole’s (DOLE) Revenue Climbs While Fruit Costs Squeeze Profits",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dole-dole-revenue-climbs-while-092810806.html",
+      "published": "2026-09-15T09:28:10Z",
+      "ts": 1789464490
+    },
+    {
+      "source": "FXStreet",
+      "title": "Brent: Higher risk premium and retest of highs – Rabobank",
+      "link": "https://www.fxstreet.com/news/brent-higher-risk-premium-and-retest-of-highs-rabobank-202609150927",
+      "published": "Tue, 15 Sep 2026 09:27:40 GMT",
+      "ts": 1789464460
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips below $77k ahead of Clarity Act vote, Fed meeting",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
+      "published": "2026-09-15 09:24:43",
+      "ts": 1789464283
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar charges to over one-week peak as Fed hike bets hit 92% while euro, yen sag",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
+      "published": "2026-09-15 09:19:19",
+      "ts": 1789463959
+    },
+    {
+      "source": "FXStreet",
+      "title": "Germany ZEW sentiment edges higher but misses expectations",
+      "link": "https://www.fxstreet.com/news/germany-zew-sentiment-edges-higher-but-misses-expectations-202609150919",
+      "published": "Tue, 15 Sep 2026 09:19:00 GMT",
+      "ts": 1789463940
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Consolidation with two-way risks – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-consolidation-with-two-way-risks-ocbc-202609150916",
+      "published": "Tue, 15 Sep 2026 09:16:17 GMT",
+      "ts": 1789463777
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 09:15:00 GMT",
+      "ts": 1789463700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
+      "link": "https://finance.yahoo.com/news/exclusive-indian-consumer-regulator-escalates-091004769.html",
+      "published": "2026-09-15T09:10:04Z",
+      "ts": 1789463404
+    },
     {
       "source": "FXStreet",
       "title": "WTI clings to gains near mid-$99.00s, eyes multi-month top amid supply concerns",
@@ -22,6 +113,13 @@
       "link": "https://www.fxstreet.com/news/british-pound-stronger-growth-offsets-labour-weakness-mufg-202609150903",
       "published": "Tue, 15 Sep 2026 09:03:32 GMT",
       "ts": 1789463012
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "You've saved $2 million for retirement — but these 5 traps could be quietly devouring your nest egg",
+      "link": "https://finance.yahoo.com/markets/articles/youve-saved-2-million-retirement-090000432.html",
+      "published": "2026-09-15T09:00:00Z",
+      "ts": 1789462800
     },
     {
       "source": "FXStreet",
@@ -45,32 +143,11 @@
       "ts": 1789461995
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar languishes near 0.8200 as Fed tightening bets buoy US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-languishes-near-08200-as-fed-tightening-bets-buoy-us-dollar-202609150845",
-      "published": "Tue, 15 Sep 2026 08:45:50 GMT",
-      "ts": 1789461950
-    },
-    {
-      "source": "FXStreet",
-      "title": "Federal Reserve: Rate hiking path and global yields – BNY",
-      "link": "https://www.fxstreet.com/news/federal-reserve-rate-hiking-path-and-global-yields-bny-202609150837",
-      "published": "Tue, 15 Sep 2026 08:37:14 GMT",
-      "ts": 1789461434
-    },
-    {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: Finds bids below 61.8% Fibo retracement",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-finds-bids-below-618-fibo-retracement-202609150835",
-      "published": "Tue, 15 Sep 2026 08:35:23 GMT",
-      "ts": 1789461323
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro advances against Japanese Yen ahead of ZEW Survey data",
-      "link": "https://www.fxstreet.com/news/euro-advances-against-japanese-yen-ahead-of-zew-survey-data-202609150827",
-      "published": "Tue, 15 Sep 2026 08:27:57 GMT",
-      "ts": 1789460877
+      "source": "Yahoo Finance",
+      "title": "LNG Demand in China and India Could Surge When Prices Normalize",
+      "link": "https://finance.yahoo.com/energy/articles/lng-demand-china-india-could-083000371.html",
+      "published": "2026-09-15T08:30:00Z",
+      "ts": 1789461000
     },
     {
       "source": "CoinTelegraph",
@@ -95,13 +172,6 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Asian currencies weaken as yen pulls back, dollar nears two-week high",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
-      "published": "2026-09-15 07:48:37",
-      "ts": 1789458517
-    },
-    {
-      "source": "Investing Forex",
       "title": "European sovereign debt pressured as traders price ECB hikes through early 2027",
       "link": "https://www.investing.com/news/forex-news/european-sovereign-debt-pressured-as-traders-price-ecb-hikes-through-early-2027-4900845",
       "published": "2026-09-15 07:47:02",
@@ -115,13 +185,6 @@
       "ts": 1789457340
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Saudi Oil Pipeline Repairs Could Take Weeks After Drone Attack",
-      "link": "https://finance.yahoo.com/energy/articles/saudi-oil-pipeline-repairs-could-071500280.html",
-      "published": "2026-09-15T07:15:00Z",
-      "ts": 1789456500
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin trapped between $76,400 and $78,300: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
@@ -129,39 +192,11 @@
       "ts": 1789456294
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steadies at $77.4k with focus on Clarity vote, Fed meeting",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 06:55:52",
-      "ts": 1789455352
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns",
-      "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
-      "published": "2026-09-15T06:55:51Z",
-      "ts": 1789455351
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin slides from nearly $80,000 as Senate votes on Clarity Act",
       "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
       "published": "Tue, 15 Sep 2026 06:37:24 +0000",
       "ts": 1789454244
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bristow’s (VTOL) Profit Nearly Doubles While A Government Problem Lingers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bristow-vtol-profit-nearly-doubles-063305925.html",
-      "published": "2026-09-15T06:33:05Z",
-      "ts": 1789453985
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "FuboTV’s (FUBO) Revenue Explosion Meets A Skeptical Stock Market",
-      "link": "https://finance.yahoo.com/media-advertising/articles/fubotv-fubo-revenue-explosion-meets-062944401.html",
-      "published": "2026-09-15T06:29:44Z",
-      "ts": 1789453784
     },
     {
       "source": "CoinDesk",
@@ -211,13 +246,6 @@
       "link": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 04:19:16 +0000",
       "ts": 1789445956
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold struggles near multi‑week low as Fed hike bets and geopolitical risks boost USD",
-      "link": "https://www.fxstreet.com/news/gold-bounces-off-50-sma-support-bearish-bias-remains-amid-fed-hike-bets-and-firmer-usd-202609150412",
-      "published": "Tue, 15 Sep 2026 04:12:09 GMT",
-      "ts": 1789445529
     },
     {
       "source": "CoinDesk",
@@ -290,13 +318,6 @@
       "ts": 1789427940
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
-      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
-      "published": "Mon, 14 Sep 2026 22:34:18 +0000",
-      "ts": 1789425258
-    },
-    {
       "source": "MarketWatch",
       "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
       "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
@@ -346,32 +367,11 @@
       "ts": 1789419822
     },
     {
-      "source": "MarketWatch",
-      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?",
-      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 21:00:00 GMT",
-      "ts": 1789419600
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
       "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 20:54:10 +0000",
       "ts": 1789419250
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
-      "link": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 18:56:28 +0000",
-      "ts": 1789412188
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
-      "link": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 17:50:12 +0000",
-      "ts": 1789408212
     },
     {
       "source": "Yahoo Finance",
