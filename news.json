@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-15T21:09:37.480929Z",
+  "updated": "2026-09-15T21:24:53.765606Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Range-bound with slight downside bias against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-bound-with-slight-downside-bias-against-us-dollar-uob-202609152121",
+      "published": "Tue, 15 Sep 2026 21:21:00 GMT",
+      "ts": 1789507260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+      "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 21:15:00 GMT",
+      "ts": 1789506900
+    },
     {
       "source": "MarketWatch",
       "title": "2 charts showing how oil is becoming the market’s biggest wild card",
@@ -136,13 +150,6 @@
       "ts": 1789499917
     },
     {
-      "source": "MarketWatch",
-      "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
-      "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 19:17:00 GMT",
-      "ts": 1789499820
-    },
-    {
       "source": "FXStreet",
       "title": "Singapore Dollar: Downtrend seen limited against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/singapore-dollar-downtrend-seen-limited-against-us-dollar-uob-202609151912",
@@ -197,13 +204,6 @@
       "link": "https://www.fxstreet.com/news/china-growth-risks-rise-with-softer-demand-standard-chartered-202609151837",
       "published": "Tue, 15 Sep 2026 18:37:00 GMT",
       "ts": 1789497420
-    },
-    {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: Bears break 0.5800 as Kiwi slide deepens",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-break-05800-as-kiwi-slide-deepens-202609151825",
-      "published": "Tue, 15 Sep 2026 18:25:34 GMT",
-      "ts": 1789496734
     },
     {
       "source": "CoinDesk",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Ethereum Price Prediction: Clarity Act Could Trigger ETH Breakout",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-clarity-act-121745525.html",
-      "published": "2026-09-14T12:17:45Z",
-      "ts": 1789388265
+      "title": "Chase Home Lendings' mortgage rate sale returns for a 3-week run",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
+      "published": "2026-09-14T13:01:00Z",
+      "ts": 1789390860
     },
     {
       "source": "Yahoo Finance",
-      "title": "Etihad Airways sees strong demand, higher passenger capacity despite Iran war, CEO says",
-      "link": "https://finance.yahoo.com/news/etihad-airways-sees-strong-demand-121621387.html",
-      "published": "2026-09-14T12:16:21Z",
-      "ts": 1789388181
+      "title": "Amazon's Operating Cash Flow Could Push AMZN Over $314 - What's the Best AMZN Play?",
+      "link": "https://finance.yahoo.com/markets/options/articles/amazons-operating-cash-flow-could-130002375.html",
+      "published": "2026-09-14T13:00:02Z",
+      "ts": 1789390802
     },
     {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
-      "published": "2026-09-14 12:13:47",
-      "ts": 1789388027
+      "source": "Yahoo Finance",
+      "title": "LX Pantos Sets Its Sights on Global Logistics Leadership",
+      "link": "https://finance.yahoo.com/small-business/articles/lx-pantos-sets-sights-global-130000075.html",
+      "published": "2026-09-14T13:00:00Z",
+      "ts": 1789390800
     }
   ]
 }
