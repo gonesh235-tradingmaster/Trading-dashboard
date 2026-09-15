@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-15T06:18:09.036235Z",
+  "updated": "2026-09-15T06:45:12.383092Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Equities: AI slowdown fears hit chip stocks – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-ai-slowdown-fears-hit-chip-stocks-deutsche-bank-202609150639",
+      "published": "Tue, 15 Sep 2026 06:39:40 GMT",
+      "ts": 1789454380
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slides from nearly $80,000 as Senate votes on Clarity Act",
+      "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
+      "published": "Tue, 15 Sep 2026 06:37:24 +0000",
+      "ts": 1789454244
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Higher Q4 range projected – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/japanese-yen-higher-q4-range-projected-standard-chartered-202609150630",
+      "published": "Tue, 15 Sep 2026 06:30:58 GMT",
+      "ts": 1789453858
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound pushes against five-week lows following mixed UK employment data",
+      "link": "https://www.fxstreet.com/news/british-pound-pushes-against-five-week-lows-following-mixed-uk-employment-data-202609150628",
+      "published": "Tue, 15 Sep 2026 06:28:39 GMT",
+      "ts": 1789453719
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japan’s Katayama says will scrutinise budget requests for next fiscal year strictly going forward",
+      "link": "https://www.fxstreet.com/news/japans-katayama-says-will-scrutinise-budget-requests-for-next-fiscal-year-strictly-going-forward-202609150627",
+      "published": "Tue, 15 Sep 2026 06:27:43 GMT",
+      "ts": 1789453663
+    },
+    {
+      "source": "FXStreet",
+      "title": "ECB policymakers agree: Inflation in Eurozone to remain high amid energy crisis",
+      "link": "https://www.fxstreet.com/news/ecb-policymakers-agree-inflation-in-eurozone-to-remain-high-amid-energy-crisis-202609150619",
+      "published": "Tue, 15 Sep 2026 06:19:51 GMT",
+      "ts": 1789453191
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: RBI support tempers depreciation risks versus US Dollar - MUFG",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-support-tempers-depreciation-risks-versus-us-dollar-mufg-202609150619",
+      "published": "Tue, 15 Sep 2026 06:19:29 GMT",
+      "ts": 1789453169
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound drops against Japanese Yen after UK labor market data",
+      "link": "https://www.fxstreet.com/news/british-pound-drops-against-japanese-yen-after-uk-labor-market-data-202609150619",
+      "published": "Tue, 15 Sep 2026 06:19:08 GMT",
+      "ts": 1789453148
+    },
     {
       "source": "FXStreet",
       "title": "Oil: Saudi pipeline outage supports prices – ING",
@@ -52,53 +108,11 @@
       "ts": 1789450332
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee declines further as US Treasury Yields extend rally",
-      "link": "https://www.fxstreet.com/news/indian-rupee-declines-further-as-us-treasury-yields-extend-rally-202609150530",
-      "published": "Tue, 15 Sep 2026 05:30:46 GMT",
-      "ts": 1789450246
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Flatlines above 110.00, bearish outlook persists",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-flatlines-above-11000-bearish-outlook-persists-202609150529",
-      "published": "Tue, 15 Sep 2026 05:29:15 GMT",
-      "ts": 1789450155
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Retakes $99.00 as bulls eye further gains amid Middle East jitters",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-retakes-9900-as-bulls-eye-further-gains-amid-middle-east-jitters-202609150522",
-      "published": "Tue, 15 Sep 2026 05:22:49 GMT",
-      "ts": 1789449769
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
       "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
       "published": "Tue, 15 Sep 2026 05:12:06 +0000",
       "ts": 1789449126
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah weakens amid stronger US Dollar, higher oil prices",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-amid-stronger-us-dollar-higher-oil-prices-202609150453",
-      "published": "Tue, 15 Sep 2026 04:53:21 GMT",
-      "ts": 1789448001
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen sticks to losses against bullish USD as traders await Fed, BoJ meetings loom",
-      "link": "https://www.fxstreet.com/news/japanese-yen-sticks-to-losses-against-bullish-usd-as-traders-await-fed-boj-meetings-loom-202609150440",
-      "published": "Tue, 15 Sep 2026 04:40:16 GMT",
-      "ts": 1789447216
-    },
-    {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold steadies, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202609150435",
-      "published": "Tue, 15 Sep 2026 04:35:13 GMT",
-      "ts": 1789446913
     },
     {
       "source": "CoinDesk",
@@ -113,13 +127,6 @@
       "link": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 04:19:16 +0000",
       "ts": 1789445956
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold struggles below $4,300, near one-month low as USD sticks to gains ahead of Fed",
-      "link": "https://www.fxstreet.com/news/gold-bounces-off-50-sma-support-bearish-bias-remains-amid-fed-hike-bets-and-firmer-usd-202609150412",
-      "published": "Tue, 15 Sep 2026 04:12:09 GMT",
-      "ts": 1789445529
     },
     {
       "source": "CoinDesk",
@@ -239,13 +246,6 @@
       "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 21:11:00 GMT",
       "ts": 1789420260
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
-      "link": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
-      "published": "Mon, 14 Sep 2026 21:05:13 +0000",
-      "ts": 1789419913
     },
     {
       "source": "Investing Forex",
@@ -396,6 +396,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Why JPMorgan Is Betting That Lithium Americas Stock Will Double.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-jpmorgan-betting-lithium-americas-193002632.html",
+      "published": "2026-09-13T19:30:02Z",
+      "ts": 1789327802
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
+      "published": "2026-09-13T19:13:28Z",
+      "ts": 1789326808
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Sonera Acquisition Bodes Well for Apple Stock in the Long Term, But Negative Catalysts Appear to Be Weighing on the Firm’s Performance",
       "link": "https://finance.yahoo.com/markets/stocks/articles/sonera-acquisition-bodes-well-apple-191233662.html",
       "published": "2026-09-13T19:12:33Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
       "published": "2026-09-13T19:10:52Z",
       "ts": 1789326652
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-13 19:02:21",
-      "ts": 1789326141
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Starbucks’ $1 Billion Bet on Cozy Stores Faces a Margin Test",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-1-billion-bet-cozy-190035733.html",
-      "published": "2026-09-13T19:00:35Z",
-      "ts": 1789326035
     }
   ]
 }
