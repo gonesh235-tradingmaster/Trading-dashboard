@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-15T05:27:20.169677Z",
+  "updated": "2026-09-15T05:43:56.879475Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 05:39:15 +0000",
+      "ts": 1789450755
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CLARITY Act odds fall to 16% as key Democrats counter GOP’s ‘final’ offer",
+      "link": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 05:32:12 +0000",
+      "ts": 1789450332
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee declines further as US Treasury Yields extend rally",
+      "link": "https://www.fxstreet.com/news/indian-rupee-declines-further-as-us-treasury-yields-extend-rally-202609150530",
+      "published": "Tue, 15 Sep 2026 05:30:46 GMT",
+      "ts": 1789450246
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Flatlines above 110.00, bearish outlook persists",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-flatlines-above-11000-bearish-outlook-persists-202609150529",
+      "published": "Tue, 15 Sep 2026 05:29:15 GMT",
+      "ts": 1789450155
+    },
     {
       "source": "FXStreet",
       "title": "WTI Price Forecast: Retakes $99.00 as bulls eye further gains amid Middle East jitters",
@@ -39,7 +67,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
+      "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
       "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
       "published": "Tue, 15 Sep 2026 04:34:10 +0000",
       "ts": 1789446850
@@ -60,7 +88,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold bounces off 50-SMA support; bearish bias remains amid Fed hike bets and firmer USD",
+      "title": "Gold struggles below $4,300, near one-month low as USD sticks to gains ahead of Fed",
       "link": "https://www.fxstreet.com/news/gold-bounces-off-50-sma-support-bearish-bias-remains-amid-fed-hike-bets-and-firmer-usd-202609150412",
       "published": "Tue, 15 Sep 2026 04:12:09 GMT",
       "ts": 1789445529
@@ -106,20 +134,6 @@
       "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-against-us-dollar-feds-policy-in-focus-202609150315",
       "published": "Tue, 15 Sep 2026 03:15:55 GMT",
       "ts": 1789442155
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index strengthens above 99.50 as Fed rate hike bets rise",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-above-9950-as-fed-rate-hike-bets-rise-202609150240",
-      "published": "Tue, 15 Sep 2026 02:40:36 GMT",
-      "ts": 1789440036
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar remains subdued following release of China’s economic data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-subdued-following-release-of-chinas-economic-data-202609150236",
-      "published": "Tue, 15 Sep 2026 02:36:49 GMT",
-      "ts": 1789439809
     },
     {
       "source": "CoinTelegraph",
@@ -185,13 +199,6 @@
       "ts": 1789419250
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 20:41:38 +0000",
-      "ts": 1789418498
-    },
-    {
       "source": "CoinDesk",
       "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
       "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
@@ -232,13 +239,6 @@
       "link": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 16:17:52 +0000",
       "ts": 1789402672
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
-      "link": "https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 15:55:59 +0000",
-      "ts": 1789401359
     },
     {
       "source": "Yahoo Finance",
