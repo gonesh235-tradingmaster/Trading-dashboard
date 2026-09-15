@@ -1,20 +1,41 @@
 {
-  "updated": "2026-09-15T20:26:10.106680Z",
+  "updated": "2026-09-15T20:40:07.238876Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso retreats as USD/MXN bounces from near YTD low",
+      "link": "https://www.fxstreet.com/news/mexican-peso-retreats-as-usd-mxn-bounces-from-near-ytd-low-202609152036",
+      "published": "Tue, 15 Sep 2026 20:36:09 GMT",
+      "ts": 1789504569
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
+      "link": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 20:36:00 GMT",
+      "ts": 1789504560
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
+      "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 20:31:00 GMT",
+      "ts": 1789504260
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah: Market tests Indonesia policy credibility – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-market-tests-indonesia-policy-credibility-commerzbank-202609152027",
+      "published": "Tue, 15 Sep 2026 20:27:00 GMT",
+      "ts": 1789504020
+    },
     {
       "source": "MarketWatch",
       "title": "Dow clinches its worst September start since 2008 as history repeats itself",
       "link": "https://www.marketwatch.com/story/dow-clinches-its-worst-september-start-since-2008-as-history-repeats-itself-57d11f3f?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 20:20:00 GMT",
       "ts": 1789503600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
-      "link": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 20:15:00 GMT",
-      "ts": 1789503300
     },
     {
       "source": "CoinDesk",
@@ -157,20 +178,6 @@
       "ts": 1789496734
     },
     {
-      "source": "FXStreet",
-      "title": "100 threshold: United States Dollar Index faces make-or-break Fed decision",
-      "link": "https://www.fxstreet.com/news/100-threshold-united-states-dollar-index-faces-make-or-break-fed-decision-202609151814",
-      "published": "Tue, 15 Sep 2026 18:14:08 GMT",
-      "ts": 1789496048
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold bulls hit 100-day SMA wall as US yields bite",
-      "link": "https://www.fxstreet.com/news/gold-bulls-hit-100-day-sma-wall-as-us-yields-bite-202609151812",
-      "published": "Tue, 15 Sep 2026 18:12:13 GMT",
-      "ts": 1789495933
-    },
-    {
       "source": "CoinDesk",
       "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
       "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
@@ -204,13 +211,6 @@
       "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 17:18:00 GMT",
       "ts": 1789492680
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why investors need to learn the difference between uncertainty and risk in today’s market",
-      "link": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 17:09:00 GMT",
-      "ts": 1789492140
     },
     {
       "source": "CoinTelegraph",
