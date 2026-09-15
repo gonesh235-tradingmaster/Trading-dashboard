@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-15T01:32:01.335785Z",
+  "updated": "2026-09-15T01:54:40.002422Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro remains depressed below mid-1.1500s vs bullish USD as focus remains on FOMC",
+      "link": "https://www.fxstreet.com/news/euro-remains-depressed-below-mid-11500s-vs-bullish-usd-as-focus-remains-on-fomc-202609150152",
+      "published": "Tue, 15 Sep 2026 01:52:33 GMT",
+      "ts": 1789437153
+    },
     {
       "source": "FXStreet",
       "title": "PBOC sets USD/CNY reference rate at 6.7670 vs. 6.7698 previous",
@@ -113,13 +120,6 @@
       "link": "https://www.fxstreet.com/news/the-euro-breaks-both-its-moving-averages-as-the-feds-hike-becomes-certain-202609142226",
       "published": "Mon, 14 Sep 2026 22:26:58 GMT",
       "ts": 1789424818
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Pound tests an August low on the Fed's hike odds",
-      "link": "https://www.fxstreet.com/news/the-pound-tests-an-august-low-on-the-feds-hike-odds-202609142206",
-      "published": "Mon, 14 Sep 2026 22:06:01 GMT",
-      "ts": 1789423561
     },
     {
       "source": "MarketWatch",
@@ -375,6 +375,41 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Pay is back on the rise for job switchers, even in low-hire job market",
+      "link": "https://finance.yahoo.com/economy/article/pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
+      "published": "2026-09-13T15:45:04Z",
+      "ts": 1789314304
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bank exits squeeze truck financing for mid-size fleets",
+      "link": "https://finance.yahoo.com/small-business/articles/bank-exits-squeeze-truck-financing-154006871.html",
+      "published": "2026-09-13T15:40:06Z",
+      "ts": 1789314006
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia Is Focused on Redefining AI Infrastructure as an Income-Generating Asset",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-focused-redefining-ai-infrastructure-153002085.html",
+      "published": "2026-09-13T15:30:02Z",
+      "ts": 1789313402
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Amgen (AMGN) Fell 5% on a Drug That Isn’t Even Its Own. Here’s the Lp(a) Bet Now in Question.",
+      "link": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html",
+      "published": "2026-09-13T14:29:16Z",
+      "ts": 1789309756
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
+      "published": "2026-09-13T14:08:37Z",
+      "ts": 1789308517
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
       "published": "2026-09-13T14:02:10Z",
@@ -386,41 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-worth-buying-shorting-140002756.html",
       "published": "2026-09-13T14:00:02Z",
       "ts": 1789308002
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-grows-134921293.html",
-      "published": "2026-09-13T13:49:21Z",
-      "ts": 1789307361
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The RealReal (REAL) Posts Record Sales, But The Losses Keep Growing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-posts-record-sales-134612583.html",
-      "published": "2026-09-13T13:46:12Z",
-      "ts": 1789307172
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Snowflake’s Blowout Quarter Adds to a Software Sector Already Rallying on AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html",
-      "published": "2026-09-13T13:38:32Z",
-      "ts": 1789306712
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html",
-      "published": "2026-09-13T13:36:58Z",
-      "ts": 1789306618
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-turns-lab-promises-133324594.html",
-      "published": "2026-09-13T13:33:24Z",
-      "ts": 1789306404
     }
   ]
 }
