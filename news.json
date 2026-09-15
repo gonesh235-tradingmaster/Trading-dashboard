@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-15T16:55:40.001431Z",
+  "updated": "2026-09-15T17:10:27.009228Z",
   "count": 60,
   "items": [
     {
-      "source": "MarketWatch",
-      "title": "Institutional investors are dangerously overinvested in stocks",
-      "link": "https://www.marketwatch.com/story/institutional-investors-are-dangerously-overinvested-in-stocks-ea889386?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:45:00 GMT",
-      "ts": 1789490700
+      "source": "FXStreet",
+      "title": "Silver attempts cautious rebound ahead of closely watched Fed decision",
+      "link": "https://www.fxstreet.com/news/silver-attempts-cautious-rebound-ahead-of-closely-watched-fed-decision-202609151659",
+      "published": "Tue, 15 Sep 2026 16:59:26 GMT",
+      "ts": 1789491566
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Lovesac (LOVE) Target Cut by Canaccord, Analysts See 40% Upside",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lovesac-love-target-cut-canaccord-165004527.html",
+      "published": "2026-09-15T16:50:04Z",
+      "ts": 1789491004
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "H&R Block (HRB) Uses AI to Drive Value",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/h-r-block-hrb-uses-164551430.html",
+      "published": "2026-09-15T16:45:51Z",
+      "ts": 1789490751
     },
     {
       "source": "Yahoo Finance",
@@ -15,13 +29,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-baba-short-term-capex-163729017.html",
       "published": "2026-09-15T16:37:29Z",
       "ts": 1789490249
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What investors need to do — and mistakes not to make — in today’s uncertain world",
-      "link": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:37:00 GMT",
-      "ts": 1789490220
     },
     {
       "source": "Yahoo Finance",
@@ -38,74 +45,11 @@
       "ts": 1789489860
     },
     {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:30:00 GMT",
-      "ts": 1789489800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stablecoin Yield Ban Would Boost Bank Lending by Just 0.02%: White House",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/stablecoin-yield-ban-boost-bank-162900064.html",
-      "published": "2026-09-15T16:29:00Z",
-      "ts": 1789489740
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Yahoo Stock: How To Find & Own America's Greatest Opportunities",
-      "link": "https://www.investors.com/how-to-invest/yahoo-stock-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
-      "published": "2026-09-15T16:28:16Z",
-      "ts": 1789489696
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Generate Capital Closes $117-Million in Financing for Community Solar",
-      "link": "https://finance.yahoo.com/energy/articles/generate-capital-closes-117-million-162655532.html",
-      "published": "2026-09-15T16:26:55Z",
-      "ts": 1789489615
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tech stocks haven’t been this cheap since the launch of ChatGPT. Should you buy in?",
-      "link": "https://www.marketwatch.com/story/tech-stocks-havent-been-this-cheap-since-the-launch-of-chatgpt-should-you-buy-in-ec1044dc?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:26:00 GMT",
-      "ts": 1789489560
-    },
-    {
       "source": "FXStreet",
       "title": "Dow Jones Industrial Average slides as yields beat the Fed to tomorrow's hike",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-slides-as-yields-beat-the-fed-to-tomorrows-hike-202609151624",
       "published": "Tue, 15 Sep 2026 16:24:29 GMT",
       "ts": 1789489469
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Gold is starting to move on something a lot bigger than inflation",
-      "link": "https://www.marketwatch.com/story/gold-is-starting-to-move-on-something-a-lot-bigger-than-inflation-39509ac5?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:21:00 GMT",
-      "ts": 1789489260
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Wall Street may have gotten the ‘slower AI’ story all wrong",
-      "link": "https://www.marketwatch.com/story/wall-street-may-have-gotten-the-slower-ai-story-all-wrong-a08613c4?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:16:00 GMT",
-      "ts": 1789488960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Factory robots long posed a safety threat to human workers. This company says it has solved that problem.",
-      "link": "https://www.marketwatch.com/story/factory-robots-long-posed-a-safety-threat-to-human-workers-one-company-says-its-solved-that-problem-2db84297?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:11:00 GMT",
-      "ts": 1789488660
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
-      "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:11:00 GMT",
-      "ts": 1789488660
     },
     {
       "source": "FXStreet",
@@ -120,20 +64,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 16:02:01 +0000",
       "ts": 1789488121
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:00:00 GMT",
-      "ts": 1789488000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "90% of retirees are making this miscalculation with their savings",
-      "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:00:00 GMT",
-      "ts": 1789488000
     },
     {
       "source": "CoinTelegraph",
@@ -204,13 +134,6 @@
       "link": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
       "published": "2026-09-15T14:34:52Z",
       "ts": 1789482892
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CHF Price Forecast: RSI and MACD signal firm upside momentum",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rsi-and-macd-signal-firm-upside-momentum-202609151433",
-      "published": "Tue, 15 Sep 2026 14:33:40 GMT",
-      "ts": 1789482820
     },
     {
       "source": "CoinDesk",
@@ -421,6 +344,83 @@
       "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
       "published": "2026-09-14 21:54:08",
       "ts": 1789422848
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar at highest level in almost two weeks as Fed rate hike bets hit nearly 95%",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
+      "published": "2026-09-14 21:03:42",
+      "ts": 1789419822
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "National specialty clothing chain closing all its stores",
+      "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
+      "published": "2026-09-14T14:07:00Z",
+      "ts": 1789394820
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html",
+      "published": "2026-09-14T14:01:34Z",
+      "ts": 1789394494
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Costco rations Kirkland motor oil, raises price to $57.99",
+      "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
+      "published": "2026-09-14T13:33:08Z",
+      "ts": 1789392788
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
+      "published": "2026-09-14 12:13:47",
+      "ts": 1789388027
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi says NOK/SEK can continue to work despite recent gains",
+      "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
+      "published": "2026-09-14 12:07:47",
+      "ts": 1789387667
+    },
+    {
+      "source": "Investing Forex",
+      "title": "BofA sees dollar sideways into year-end despite Fed hike bets",
+      "link": "https://www.investing.com/news/forex-news/bofa-sees-dollar-sideways-into-yearend-despite-fed-hike-bets-93CH-4899034",
+      "published": "2026-09-14 09:55:05",
+      "ts": 1789379705
+    },
+    {
+      "source": "Investing Forex",
+      "title": "BofA says Danish krone weakness driven by flows, not peg fears",
+      "link": "https://www.investing.com/news/forex-news/bofa-says-danish-krone-weakness-driven-by-flows-not-peg-fears-93CH-4898992",
+      "published": "2026-09-14 09:23:41",
+      "ts": 1789377821
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
+      "published": "2026-09-13 21:59:53",
+      "ts": 1789336793
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+      "published": "2026-09-13 19:02:21",
+      "ts": 1789326141
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
+      "published": "2026-09-12 09:52:28",
+      "ts": 1789206748
     }
   ]
 }
