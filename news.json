@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-15T18:28:12.928725Z",
+  "updated": "2026-09-15T18:45:42.322223Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The best time to book your flight home for the holidays? Yesterday.",
+      "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 18:44:00 GMT",
+      "ts": 1789497840
+    },
+    {
+      "source": "FXStreet",
+      "title": "China: Growth risks rise with softer demand – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/china-growth-risks-rise-with-softer-demand-standard-chartered-202609151837",
+      "published": "Tue, 15 Sep 2026 18:37:00 GMT",
+      "ts": 1789497420
+    },
     {
       "source": "FXStreet",
       "title": "NZD/USD Price Forecast: Bears break 0.5800 as Kiwi slide deepens",
@@ -25,7 +39,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Solana lender Kamino taps Yieldstreet co-founder as CEO in Wall Street expansion",
+      "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
       "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
       "published": "Tue, 15 Sep 2026 18:02:05 +0000",
       "ts": 1789495325
@@ -136,13 +150,6 @@
       "ts": 1789489260
     },
     {
-      "source": "MarketWatch",
-      "title": "Wall Street may have gotten the ‘slower AI’ story all wrong",
-      "link": "https://www.marketwatch.com/story/wall-street-may-have-gotten-the-slower-ai-story-all-wrong-a08613c4?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:16:00 GMT",
-      "ts": 1789488960
-    },
-    {
       "source": "FXStreet",
       "title": "British Pound wilts as Oil shock sends US yields past 5%",
       "link": "https://www.fxstreet.com/news/british-pound-wilts-as-oil-shock-sends-us-yields-past-5-202609151604",
@@ -169,13 +176,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
       "published": "Tue, 15 Sep 2026 15:50:23 +0000",
       "ts": 1789487423
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro stays neutral against Pound ahead of UK inflation data",
-      "link": "https://www.fxstreet.com/news/euro-stays-neutral-against-pound-ahead-of-uk-inflation-data-202609151531",
-      "published": "Tue, 15 Sep 2026 15:31:29 GMT",
-      "ts": 1789486289
     },
     {
       "source": "CoinTelegraph",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "50% of Americans wildly overestimate how much income $100,000 in retirement savings can produce, NIRS finds",
-      "link": "https://finance.yahoo.com/markets/articles/50-americans-wildly-overestimate-much-093000280.html",
-      "published": "2026-09-14T09:30:00Z",
-      "ts": 1789378200
+      "title": "A couple earning $310,000 a year faces a $100,000 debt divide that's putting their marriage plans on hold",
+      "link": "https://finance.yahoo.com/small-business/articles/couple-earning-310-000-faces-094500308.html",
+      "published": "2026-09-14T09:45:00Z",
+      "ts": 1789379100
     }
   ]
 }
