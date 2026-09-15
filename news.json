@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-15T20:40:07.238876Z",
+  "updated": "2026-09-15T20:52:12.909573Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
+      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 20:47:00 GMT",
+      "ts": 1789505220
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
+      "link": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 20:37:34 +0000",
+      "ts": 1789504654
+    },
     {
       "source": "FXStreet",
       "title": "Mexican Peso retreats as USD/MXN bounces from near YTD low",
@@ -206,13 +220,6 @@
       "ts": 1789492924
     },
     {
-      "source": "MarketWatch",
-      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
-      "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 17:18:00 GMT",
-      "ts": 1789492680
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
       "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -337,13 +344,6 @@
       "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 10:04:21 +0000",
       "ts": 1789466661
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
-      "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 09:40:27 +0000",
-      "ts": 1789465227
     },
     {
       "source": "Investing Forex",
