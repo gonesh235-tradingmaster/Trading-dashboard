@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-15T21:37:51.820744Z",
+  "updated": "2026-09-15T21:50:56.418143Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
+      "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 21:40:00 GMT",
+      "ts": 1789508400
+    },
     {
       "source": "MarketWatch",
       "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
@@ -148,13 +155,6 @@
       "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-as-markets-brace-for-fed-rate-decision-202609151939",
       "published": "Tue, 15 Sep 2026 19:39:36 GMT",
       "ts": 1789501176
-    },
-    {
-      "source": "MarketWatch",
-      "title": "SpaceX’s Starship is finally set for orbit. A lot is riding on its success.",
-      "link": "https://www.marketwatch.com/story/spacexs-starship-is-finally-set-for-orbit-a-lot-is-riding-on-its-success-764219b3?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 19:23:00 GMT",
-      "ts": 1789500180
     },
     {
       "source": "Investing Crypto",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "XRP Price Prediction: $1.40 Breakout Could Open Path to $2.10",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-1-40-133202440.html",
+      "published": "2026-09-14T13:32:02Z",
+      "ts": 1789392722
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Is Dollar General's Stock Performance Compared to Other Consumer Defensive Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-generals-stock-performance-compared-132555848.html",
+      "published": "2026-09-14T13:25:55Z",
+      "ts": 1789392355
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Tesla, Microsoft and Amazon Forecast: Tech Stocks Diverge",
       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-microsoft-amazon-forecast-tech-131133844.html",
       "published": "2026-09-14T13:11:33Z",
       "ts": 1789391493
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ResMed Stock: Is RMD Underperforming the Healthcare Sector?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/resmed-stock-rmd-underperforming-healthcare-130726425.html",
-      "published": "2026-09-14T13:07:26Z",
-      "ts": 1789391246
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Chase Home Lendings' mortgage rate sale returns for a 3-week run",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
-      "published": "2026-09-14T13:01:00Z",
-      "ts": 1789390860
     }
   ]
 }
