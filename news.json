@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-16T00:35:48.662520Z",
+  "updated": "2026-09-16T00:55:25.106804Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI slips to near $100.50 despite escalating Middle East supply disruptions",
+      "link": "https://www.fxstreet.com/news/wti-slips-to-near-10050-despite-escalating-middle-east-supply-disruptions-202609160054",
+      "published": "Wed, 16 Sep 2026 00:54:00 GMT",
+      "ts": 1789520040
+    },
     {
       "source": "FXStreet",
       "title": "Saudi air defenses intercept Houthi drone near Mecca",
@@ -113,13 +120,6 @@
       "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 21:23:00 +0000",
       "ts": 1789507380
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Range-bound with slight downside bias against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-range-bound-with-slight-downside-bias-against-us-dollar-uob-202609152121",
-      "published": "Tue, 15 Sep 2026 21:21:00 GMT",
-      "ts": 1789507260
     },
     {
       "source": "MarketWatch",
