@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-16T00:13:33.417630Z",
+  "updated": "2026-09-16T00:35:48.662520Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Saudi air defenses intercept Houthi drone near Mecca",
+      "link": "https://www.fxstreet.com/news/saudi-air-defenses-intercept-houthi-drone-near-mecca-202609160033",
+      "published": "Wed, 16 Sep 2026 00:33:41 GMT",
+      "ts": 1789518821
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen flatlines ahead of Fed rate decicion",
+      "link": "https://www.fxstreet.com/news/japanese-yen-flatlines-ahead-of-fed-rate-decicion-202609160022",
+      "published": "Wed, 16 Sep 2026 00:22:36 GMT",
+      "ts": 1789518156
+    },
     {
       "source": "FXStreet",
       "title": "Gold declines below $4,300 as US yields climb, Fed rate decision looms",
@@ -164,13 +178,6 @@
       "ts": 1789504260
     },
     {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah: Market tests Indonesia policy credibility – Commerzbank",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-market-tests-indonesia-policy-credibility-commerzbank-202609152027",
-      "published": "Tue, 15 Sep 2026 20:27:00 GMT",
-      "ts": 1789504020
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto stocks sink after Senate rejects Clarity Act",
       "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
@@ -204,13 +211,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
       "published": "Tue, 15 Sep 2026 18:50:58 +0000",
       "ts": 1789498258
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Bears crack 100-day SMA, eye 1.1500",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bears-crack-100-day-sma-eye-11500-202609151850",
-      "published": "Tue, 15 Sep 2026 18:50:12 GMT",
-      "ts": 1789498212
     },
     {
       "source": "CoinTelegraph",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corn Slipping Back Early on Monday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-slipping-back-early-monday-123634575.html",
-      "published": "2026-09-14T12:36:34Z",
-      "ts": 1789389394
+      "title": "Chase Home Lendings' mortgage rate sale returns for a 3-week run",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
+      "published": "2026-09-14T13:01:00Z",
+      "ts": 1789390860
     },
     {
       "source": "Yahoo Finance",
-      "title": "Wheat Showing Mixed Early Trade on Monday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-showing-mixed-early-trade-123634313.html",
-      "published": "2026-09-14T12:36:34Z",
-      "ts": 1789389394
+      "title": "Amazon's Operating Cash Flow Could Push AMZN Over $314 - What's the Best AMZN Play?",
+      "link": "https://finance.yahoo.com/markets/options/articles/amazons-operating-cash-flow-could-130002375.html",
+      "published": "2026-09-14T13:00:02Z",
+      "ts": 1789390802
     },
     {
       "source": "Yahoo Finance",
-      "title": "Soybeans Holding Steady on Monday Morning",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-holding-steady-monday-morning-123634476.html",
-      "published": "2026-09-14T12:36:34Z",
-      "ts": 1789389394
+      "title": "LX Pantos Sets Its Sights on Global Logistics Leadership",
+      "link": "https://finance.yahoo.com/small-business/articles/lx-pantos-sets-sights-global-130000075.html",
+      "published": "2026-09-14T13:00:00Z",
+      "ts": 1789390800
     }
   ]
 }
