@@ -1,13 +1,48 @@
 {
-  "updated": "2026-09-16T07:31:09.069227Z",
+  "updated": "2026-09-16T07:53:22.100886Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "USD/CAD Price Forecast: Eyes 1.3950 near ascending channel top",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-eyes-13950-near-ascending-channel-top-202609160752",
+      "published": "Wed, 16 Sep 2026 07:52:30 GMT",
+      "ts": 1789545150
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
+      "published": "2026-09-16 07:34:54",
+      "ts": 1789544094
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Warsh guidance keeps Greenback supported – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-warsh-guidance-keeps-greenback-supported-ing-202609160733",
+      "published": "Wed, 16 Sep 2026 07:33:10 GMT",
+      "ts": 1789543990
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
+      "published": "2026-09-16 07:30:36",
+      "ts": 1789543836
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index (DXY) eases from two-week top, holds above 99.50 ahead of Fed",
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-eases-from-two-week-top-holds-above-9950-ahead-of-fed-202609160724",
       "published": "Wed, 16 Sep 2026 07:24:51 GMT",
       "ts": 1789543491
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds near highs, yen steadies ahead of Fed",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
+      "published": "2026-09-16 07:21:09",
+      "ts": 1789543269
     },
     {
       "source": "FXStreet",
@@ -59,13 +94,6 @@
       "ts": 1789541108
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee: Inflation and trade reshape INR – Commerzbank",
-      "link": "https://www.fxstreet.com/news/indian-rupee-inflation-and-trade-reshape-inr-commerzbank-202609160644",
-      "published": "Wed, 16 Sep 2026 06:44:01 GMT",
-      "ts": 1789541041
-    },
-    {
       "source": "CoinDesk",
       "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
       "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
@@ -99,13 +127,6 @@
       "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-recent-losses-ahead-of-feds-policy-202609160531",
       "published": "Wed, 16 Sep 2026 05:31:41 GMT",
       "ts": 1789536701
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds gains, yen slips to one-week low",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
-      "published": "2026-09-16 05:02:28",
-      "ts": 1789534948
     },
     {
       "source": "CoinTelegraph",
@@ -148,13 +169,6 @@
       "link": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 02:24:07 +0000",
       "ts": 1789525447
-    },
-    {
-      "source": "FXStreet",
-      "title": "United Kingdom CPI inflation jumps to 3.1% YoY in August, as expected",
-      "link": "https://www.fxstreet.com/news/august-uk-inflation-report-expected-to-show-rising-inflation-202609160200",
-      "published": "Wed, 16 Sep 2026 02:00:00 GMT",
-      "ts": 1789524000
     },
     {
       "source": "MarketWatch",
@@ -403,24 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Acquisition Momentum Offset by Profitability Headwinds for Mission Produce (AVO)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/acquisition-momentum-offset-profitability-headwinds-201205075.html",
-      "published": "2026-09-14T20:12:05Z",
-      "ts": 1789416725
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "You’re going to pay more for health insurance in 2027 as employers see costs jumping for the fifth straight year",
-      "link": "https://finance.yahoo.com/healthcare/articles/going-pay-more-health-insurance-200554070.html",
-      "published": "2026-09-14T20:05:54Z",
-      "ts": 1789416354
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Accuray’s (ARAY) $8 Million RaySearch Deal Means for Its Adaptive Therapy Push",
-      "link": "https://finance.yahoo.com/healthcare/articles/accuray-aray-8-million-raysearch-200349571.html",
-      "published": "2026-09-14T20:03:49Z",
-      "ts": 1789416229
+      "title": "Looking Inside Sunbelt Rentals’ (SUNB) Record Revenues, Debt Discipline, and Uneven Segment Margins",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/looking-inside-sunbelt-rentals-sunb-202755113.html",
+      "published": "2026-09-14T20:27:55Z",
+      "ts": 1789417675
     }
   ]
 }
