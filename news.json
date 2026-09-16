@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-16T10:56:08.184398Z",
+  "updated": "2026-09-16T11:12:20.240726Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
+      "published": "Wed, 16 Sep 2026 11:00:00 +0000",
+      "ts": 1789556400
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
+      "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
+      "published": "Wed, 16 Sep 2026 11:00:00 +0000",
+      "ts": 1789556400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; Will Market Bid Bond Voyage After Fed Rate Hike?",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T10:56:08Z",
+      "ts": 1789556168
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Silver price today, Wednesday, September 16, 2026:  Silver prices rise in anticipation of the Fed",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-16-2026-silver-prices-rise-in-anticipation-of-the-fed-105134969.html",
+      "published": "2026-09-16T10:51:34Z",
+      "ts": 1789555894
+    },
     {
       "source": "MarketWatch",
       "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
@@ -22,6 +50,13 @@
       "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
       "published": "Wed, 16 Sep 2026 10:46:28 +0000",
       "ts": 1789555588
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Morning Bid: A time to hike?",
+      "link": "https://finance.yahoo.com/news/morning-bid-time-hike-104329450.html",
+      "published": "2026-09-16T10:43:29Z",
+      "ts": 1789555409
     },
     {
       "source": "Yahoo Finance",
@@ -94,13 +129,6 @@
       "ts": 1789554049
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; How Will Bonds React To Fed Hike?",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T10:16:42Z",
-      "ts": 1789553802
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin dips to $76k as Clarity vote fails; Fed rate hike in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
@@ -120,20 +148,6 @@
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-consolidates-below-4-350-ahead-of-fed-decision-202609161015",
       "published": "Wed, 16 Sep 2026 10:15:49 GMT",
       "ts": 1789553749
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘Dead money’: Your savings account is losing a fight with inflation. Here’s where 3 financial advisors put cash instead",
-      "link": "https://finance.yahoo.com/economy/articles/dead-money-savings-account-losing-101500222.html",
-      "published": "2026-09-16T10:15:00Z",
-      "ts": 1789553700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MicroAge Deal Signals Shift to Growth-Focused Strategy for ScanSource (SCSC)",
-      "link": "https://finance.yahoo.com/technology/articles/microage-deal-signals-shift-growth-101436453.html",
-      "published": "2026-09-16T10:14:36Z",
-      "ts": 1789553676
     },
     {
       "source": "CoinTelegraph",
@@ -332,13 +346,6 @@
       "ts": 1789540728
     },
     {
-      "source": "CoinDesk",
-      "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
-      "link": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
-      "published": "Wed, 16 Sep 2026 05:54:04 +0000",
-      "ts": 1789538044
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -351,13 +358,6 @@
       "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 04:48:20 +0000",
       "ts": 1789534100
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
-      "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
-      "published": "Wed, 16 Sep 2026 04:07:27 +0000",
-      "ts": 1789531647
     },
     {
       "source": "CoinTelegraph",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
-      "published": "2026-09-15T13:33:00Z",
-      "ts": 1789479180
+      "title": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years",
+      "link": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
+      "published": "2026-09-15T14:34:52Z",
+      "ts": 1789482892
     }
   ]
 }
