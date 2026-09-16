@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-16T15:15:42.225796Z",
+  "updated": "2026-09-16T15:40:34.663492Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Pound sells its own inflation spike ahead of a Fed hike",
+      "link": "https://www.fxstreet.com/news/the-pound-sells-its-own-inflation-spike-ahead-of-a-fed-hike-202609161532",
+      "published": "Wed, 16 Sep 2026 15:32:50 GMT",
+      "ts": 1789572770
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hamas’ military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
+      "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
+      "published": "Wed, 16 Sep 2026 15:25:41 +0000",
+      "ts": 1789572341
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "S&P 500 Trucking Stock Craters On CFO's Warning",
+      "link": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:16:13Z",
+      "ts": 1789571773
+    },
     {
       "source": "FXStreet",
       "title": "Dow Jones Industrial Average huddles ahead of Fed action",
@@ -10,11 +31,39 @@
       "ts": 1789571679
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Cathie Wood Projects $10 Trillion In SpaceX Starship Revenue By 2030",
+      "link": "https://www.investors.com/news/cathie-wood-ark-spacex-starship-revenue-estimate-elon-msuk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:10:54Z",
+      "ts": 1789571454
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq, S&P 500 Up With Fed Decision Looming; Intel, Micron, Sandisk Rise (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:10:43Z",
+      "ts": 1789571443
+    },
+    {
       "source": "FXStreet",
       "title": "Euro: Consolidation with downside risks against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/euro-consolidation-with-downside-risks-against-us-dollar-scotiabank-202609161509",
       "published": "Wed, 16 Sep 2026 15:09:02 GMT",
       "ts": 1789571342
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Impulse Space's Series D round grows to $808 million as backlog expands",
+      "link": "https://finance.yahoo.com/news/impulse-spaces-series-d-round-150705626.html",
+      "published": "2026-09-16T15:07:05Z",
+      "ts": 1789571225
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Alluvium Raised Its McKesson (MCK) Stake as Long-Term Growth Expectations Remain Strong",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alluvium-raised-mckesson-mck-stake-150454748.html",
+      "published": "2026-09-16T15:04:54Z",
+      "ts": 1789571094
     },
     {
       "source": "FXStreet",
@@ -29,6 +78,20 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
       "published": "Wed, 16 Sep 2026 14:59:34 +0000",
       "ts": 1789570774
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Here’s Why This Fund Sold Brown & Brown (BRO)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-fund-sold-brown-brown-145828796.html",
+      "published": "2026-09-16T14:58:28Z",
+      "ts": 1789570708
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SandiskCorp. (SNDK): AI Boom Fuels Attractive Storage Market Opportunity",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandiskcorp-sndk-ai-boom-fuels-145612588.html",
+      "published": "2026-09-16T14:56:12Z",
+      "ts": 1789570572
     },
     {
       "source": "Investing Crypto",
@@ -52,46 +115,11 @@
       "ts": 1789570394
     },
     {
-      "source": "Yahoo Finance",
-      "title": "US Politicians Are Buying These Two Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-politicians-buying-two-stocks-144637200.html",
-      "published": "2026-09-16T14:46:37Z",
-      "ts": 1789569997
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dave & Buster’s (PLAY) Bets On New Leaders To Reverse Its Slide",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-buster-play-bets-leaders-144539009.html",
-      "published": "2026-09-16T14:45:39Z",
-      "ts": 1789569939
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Comfort Systems USA (FIX) Positioned to Benefit from Accelerated AI Investment",
-      "link": "https://finance.yahoo.com/technology/ai/articles/comfort-systems-usa-fix-positioned-144523131.html",
-      "published": "2026-09-16T14:45:23Z",
-      "ts": 1789569923
-    },
-    {
       "source": "FXStreet",
       "title": "Canadian Dollar: BoC hawkish tilt and key levels – Scotiabank",
       "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hawkish-tilt-and-key-levels-scotiabank-202609161441",
       "published": "Wed, 16 Sep 2026 14:41:17 GMT",
       "ts": 1789569677
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Fund Exited Insmed (INSM) After the Investment Thesis Played Out",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-exited-insmed-insm-investment-144040894.html",
-      "published": "2026-09-16T14:40:40Z",
-      "ts": 1789569640
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Apple Watch Rival Garmin Traverses Rocky Road Toward Buy Range",
-      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/garmin-stock-apple-watch-rival-buy-range/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T14:37:33Z",
-      "ts": 1789569453
     },
     {
       "source": "CoinDesk",
@@ -106,34 +134,6 @@
       "link": "https://www.fxstreet.com/news/united-kingdom-boe-hold-view-reinforced-nomura-202609161418",
       "published": "Wed, 16 Sep 2026 14:18:59 GMT",
       "ts": 1789568339
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What happens if you never buy a house? What renters are gaining — and giving up",
-      "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 14:18:00 GMT",
-      "ts": 1789568280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
-      "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 14:12:00 GMT",
-      "ts": 1789567920
-    },
-    {
-      "source": "MarketWatch",
-      "title": "More home builders cut prices as buyers get spooked",
-      "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 14:10:00 GMT",
-      "ts": 1789567800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
-      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 14:01:00 GMT",
-      "ts": 1789567260
     },
     {
       "source": "CoinDesk",
@@ -157,20 +157,6 @@
       "ts": 1789567200
     },
     {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 14:00:00 GMT",
-      "ts": 1789567200
-    },
-    {
-      "source": "FXStreet",
-      "title": "Eurozone: Manufacturing outlook steadies as year-end hopes build – ING",
-      "link": "https://www.fxstreet.com/news/eurozone-manufacturing-outlook-steadies-as-year-end-hopes-build-ing-202609161357",
-      "published": "Wed, 16 Sep 2026 13:57:15 GMT",
-      "ts": 1789567035
-    },
-    {
       "source": "Investing Crypto",
       "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
@@ -185,46 +171,11 @@
       "ts": 1789566040
     },
     {
-      "source": "MarketWatch",
-      "title": "The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks",
-      "link": "https://www.marketwatch.com/story/the-cia-strategy-beating-the-market-how-one-top-performing-money-manager-spots-mispriced-stocks-535c638d?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 13:33:00 GMT",
-      "ts": 1789565580
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it",
       "link": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 13:30:00 +0000",
       "ts": 1789565400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What history says about longer-term bond yields after an initial Fed hike",
-      "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 13:30:00 GMT",
-      "ts": 1789565400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Retail sales surged toward the end of summer. The U.S. economy has plenty of momentum.",
-      "link": "https://www.marketwatch.com/story/retail-sales-surged-toward-the-end-of-summer-economy-still-has-plenty-of-momentum-cdf667b2?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 13:22:00 GMT",
-      "ts": 1789564920
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 13:15:00 GMT",
-      "ts": 1789564500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "5% Treasury yields mean America’s debt bill just got a lot bigger",
-      "link": "https://www.marketwatch.com/story/5-treasury-yields-mean-americas-debt-bill-just-got-a-lot-bigger-8a5702b0?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 13:03:00 GMT",
-      "ts": 1789563780
     },
     {
       "source": "CoinDesk",
@@ -290,13 +241,6 @@
       "ts": 1789556400
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
-      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
-      "published": "Wed, 16 Sep 2026 10:48:44 +0000",
-      "ts": 1789555724
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
       "link": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -360,13 +304,6 @@
       "ts": 1789546915
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
-      "published": "2026-09-16T08:03:56Z",
-      "ts": 1789545836
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
@@ -421,6 +358,69 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
       "published": "2026-09-15T17:26:03Z",
       "ts": 1789493163
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fed meeting live updates: Fed interest rate decision looms, with traders anticipating first hike in 3 years",
+      "link": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
+      "published": "2026-09-15T14:34:52Z",
+      "ts": 1789482892
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
+      "published": "2026-09-15T13:33:00Z",
+      "ts": 1789479180
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Loonie slips as oil surge fuels rate worries ahead of Fed decision",
+      "link": "https://www.investing.com/news/forex-news/loonie-slips-as-oil-surge-fuels-rate-worries-ahead-of-fed-decision-4901710",
+      "published": "2026-09-15 12:40:11",
+      "ts": 1789476011
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Exclusive: Bitget Wallet adds tokenized U.S. stocks through Reality integration",
+      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-wallet-adds-tokenized-us-stocks-through-reality-integration-4901412",
+      "published": "2026-09-15 11:31:22",
+      "ts": 1789471882
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "BingX Evolves into a Multi-Asset Trading Platform, Connecting Users to Global Opportunities",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bingx-evolves-into-a-multiasset-trading-platform-connecting-users-to-global-opportunities-4901404",
+      "published": "2026-09-15 11:30:33",
+      "ts": 1789471833
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "NBKR and CertiK Establish Long-Term Strategic Partnership on Digital Som Security and Digital Asset Oversight",
+      "link": "https://www.investing.com/news/cryptocurrency-news/nbkr-and-certik-establish-longterm-strategic-partnership-on-digital-som-security-and-digital-asset-oversight-4901279",
+      "published": "2026-09-15 11:00:32",
+      "ts": 1789470032
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
+      "published": "2026-09-15 08:06:27",
+      "ts": 1789459587
+    },
+    {
+      "source": "Investing Forex",
+      "title": "European sovereign debt pressured as traders price ECB hikes through early 2027",
+      "link": "https://www.investing.com/news/forex-news/european-sovereign-debt-pressured-as-traders-price-ecb-hikes-through-early-2027-4900845",
+      "published": "2026-09-15 07:47:02",
+      "ts": 1789458422
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Loonie holds near 12-day low as oil support fails to offset dollar strength",
+      "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
+      "published": "2026-09-14 21:54:08",
+      "ts": 1789422848
     }
   ]
 }
