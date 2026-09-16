@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-16T21:26:54.446933Z",
+  "updated": "2026-09-16T21:41:58.234697Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+      "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 21:40:00 GMT",
+      "ts": 1789594800
+    },
     {
       "source": "FXStreet",
       "title": "The Japanese Yen gives back more of its rally as the Fed raises rates",
@@ -38,11 +45,32 @@
       "ts": 1789592182
     },
     {
+      "source": "MarketWatch",
+      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 20:53:00 GMT",
+      "ts": 1789591980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
+      "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 20:52:00 GMT",
+      "ts": 1789591920
+    },
+    {
       "source": "CoinTelegraph",
       "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
       "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 20:51:38 +0000",
       "ts": 1789591898
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s a sneaky way to play the Fed’s rate increase",
+      "link": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 20:38:00 GMT",
+      "ts": 1789591080
     },
     {
       "source": "FXStreet",
@@ -73,11 +101,39 @@
       "ts": 1789586304
     },
     {
+      "source": "MarketWatch",
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 19:15:00 GMT",
+      "ts": 1789586100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "As Fed rolls out its first interest-rate hike in 3 years, officials are divided on what to do next",
+      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 19:10:00 GMT",
+      "ts": 1789585800
+    },
+    {
       "source": "CoinDesk",
       "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
       "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
       "published": "Wed, 16 Sep 2026 19:07:34 +0000",
       "ts": 1789585654
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 19:00:00 GMT",
+      "ts": 1789585200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
+      "link": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 18:57:00 GMT",
+      "ts": 1789585020
     },
     {
       "source": "Investing Forex",
@@ -94,11 +150,25 @@
       "ts": 1789584100
     },
     {
+      "source": "MarketWatch",
+      "title": "The smartest money moves to make now that interest rates are going higher",
+      "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 18:38:00 GMT",
+      "ts": 1789583880
+    },
+    {
       "source": "Investing Forex",
       "title": "Dollar gains after Fed raises interest rates",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
       "published": "2026-09-16 18:28:59",
       "ts": 1789583339
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron’s stock could climb 70% higher thanks to a factor that’s been largely absent so far",
+      "link": "https://www.marketwatch.com/story/microns-stock-could-climb-70-higher-thanks-to-a-factor-thats-been-largely-absent-so-far-2489f2cc?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 18:26:00 GMT",
+      "ts": 1789583160
     },
     {
       "source": "FXStreet",
@@ -340,87 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "10-Year Yield Surges to 19-Year High: Here’s What Traders Need to Know Now",
+      "link": "https://finance.yahoo.com/markets/options/articles/10-yield-surges-19-high-133525534.html",
+      "published": "2026-09-15T13:35:25Z",
+      "ts": 1789479325
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
       "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
       "published": "2026-09-15T13:33:00Z",
       "ts": 1789479180
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ballooning US debt is a ticking time bomb, billionaire investor David Rubenstein says",
-      "link": "https://finance.yahoo.com/markets/article/ballooning-us-debt-is-a-ticking-time-bomb-billionaire-investor-david-rubenstein-says-130757123.html",
-      "published": "2026-09-15T13:07:57Z",
-      "ts": 1789477677
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Vishay Precision (VPG) Became a Winner From Industrial Recovery and the Humanoid Robotics Boom",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-precision-vpg-became-winner-130351712.html",
-      "published": "2026-09-15T13:03:51Z",
-      "ts": 1789477431
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Targa Resources Stock Outperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-stock-outperforming-p-130106466.html",
-      "published": "2026-09-15T13:01:06Z",
-      "ts": 1789477266
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Adobe Stock is Dirt Cheap After Its Recent Results - What's the Best Way to Play ADBE?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-stock-dirt-cheap-recent-130002656.html",
-      "published": "2026-09-15T13:00:02Z",
-      "ts": 1789477202
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bank of America Q3 investment banking fees to drop, CEO warns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-q3-investment-banking-125930006.html",
-      "published": "2026-09-15T12:59:30Z",
-      "ts": 1789477170
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Universal Display (OLED): Is the AI Infrastructure Boom Becoming a Hidden Risk for Display Suppliers?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/universal-display-oled-ai-infrastructure-125924977.html",
-      "published": "2026-09-15T12:59:24Z",
-      "ts": 1789477164
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "NVIDIA, AMD and Intel Forecast: AI Stocks Eye a Rebound",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-intel-forecast-ai-125717460.html",
-      "published": "2026-09-15T12:57:17Z",
-      "ts": 1789477037
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie slips as oil surge fuels rate worries ahead of Fed decision",
-      "link": "https://www.investing.com/news/forex-news/loonie-slips-as-oil-surge-fuels-rate-worries-ahead-of-fed-decision-4901710",
-      "published": "2026-09-15 12:40:11",
-      "ts": 1789476011
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Exclusive: Bitget Wallet adds tokenized U.S. stocks through Reality integration",
-      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-wallet-adds-tokenized-us-stocks-through-reality-integration-4901412",
-      "published": "2026-09-15 11:31:22",
-      "ts": 1789471882
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
-      "published": "2026-09-15 08:06:27",
-      "ts": 1789459587
-    },
-    {
-      "source": "Investing Forex",
-      "title": "European sovereign debt pressured as traders price ECB hikes through early 2027",
-      "link": "https://www.investing.com/news/forex-news/european-sovereign-debt-pressured-as-traders-price-ecb-hikes-through-early-2027-4900845",
-      "published": "2026-09-15 07:47:02",
-      "ts": 1789458422
     }
   ]
 }
