@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-16T22:25:27.185298Z",
+  "updated": "2026-09-16T22:39:32.243299Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 22:25:00 GMT",
+      "ts": 1789597500
+    },
     {
       "source": "FXStreet",
       "title": "The Pound drops below its long-run average as the Fed's rate passes Britain's",
@@ -148,13 +155,6 @@
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 19:15:00 GMT",
       "ts": 1789586100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "As Fed rolls out its first interest-rate hike in 3 years, officials are divided on what to do next",
-      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 19:10:00 GMT",
-      "ts": 1789585800
     },
     {
       "source": "CoinDesk",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Apollo and J&J Face a High-Stakes Orthopedics Deal",
-      "link": "https://finance.yahoo.com/healthcare/articles/apollo-j-j-face-high-142856052.html",
-      "published": "2026-09-15T14:26:32Z",
-      "ts": 1789482392
+      "title": "From Novo Nordisk to ‘Novo’: A Strategic Reset Amid Rising Lilly Pressure",
+      "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-novo-strategic-reset-143625079.html",
+      "published": "2026-09-15T14:36:25Z",
+      "ts": 1789482985
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Equifax Stock Outperforming the Dow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equifax-stock-outperforming-dow-142606434.html",
-      "published": "2026-09-15T14:26:06Z",
-      "ts": 1789482366
+      "title": "Salzgitter, Zelestra ink hybrid solar-battery PPA in Germany",
+      "link": "https://finance.yahoo.com/energy/articles/salzgitter-zelestra-ink-hybrid-solar-143549096.html",
+      "published": "2026-09-15T14:35:49Z",
+      "ts": 1789482949
     }
   ]
 }
