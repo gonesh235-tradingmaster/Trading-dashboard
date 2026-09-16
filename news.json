@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-16T07:53:22.100886Z",
+  "updated": "2026-09-16T08:10:50.859275Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures tick higher ahead of Fed interest rate decision",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-tick-higher-ahead-of-fed-interest-rate-decision-202609160806",
+      "published": "Wed, 16 Sep 2026 08:06:59 GMT",
+      "ts": 1789546019
+    },
+    {
+      "source": "FXStreet",
+      "title": "NZD/USD Price Forecast: Bounces off two-month low; seems vulnerable near mid-0.5700s",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bounces-off-two-month-low-seems-vulnerable-near-mid-05700s-202609160806",
+      "published": "Wed, 16 Sep 2026 08:06:20 GMT",
+      "ts": 1789545980
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD jumps to near $65 ahead of Fed’s interest rate decision",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-65-ahead-of-feds-interest-rate-decision-202609160801",
+      "published": "Wed, 16 Sep 2026 08:01:26 GMT",
+      "ts": 1789545686
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: Watching break of 0.8205 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-watching-break-of-08205-against-us-dollar-uob-202609160759",
+      "published": "Wed, 16 Sep 2026 07:59:28 GMT",
+      "ts": 1789545568
+    },
     {
       "source": "FXStreet",
       "title": "USD/CAD Price Forecast: Eyes 1.3950 near ascending channel top",
@@ -13,8 +41,8 @@
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
-      "published": "2026-09-16 07:34:54",
-      "ts": 1789544094
+      "published": "2026-09-16 07:43:07",
+      "ts": 1789544587
     },
     {
       "source": "FXStreet",
@@ -80,20 +108,6 @@
       "ts": 1789542426
     },
     {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Trades with caution ahead of Fed’s policy outcome",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-trades-with-caution-ahead-of-feds-policy-outcome-202609160657",
-      "published": "Wed, 16 Sep 2026 06:57:13 GMT",
-      "ts": 1789541833
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: US Dollar holds steady ahead of Fed rate decision",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-holds-steady-ahead-of-fed-rate-decision-202609160645",
-      "published": "Wed, 16 Sep 2026 06:45:08 GMT",
-      "ts": 1789541108
-    },
-    {
       "source": "CoinDesk",
       "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
       "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
@@ -122,25 +136,11 @@
       "ts": 1789537951
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee trades near seven-week low ahead of Fed's policy decision",
-      "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-recent-losses-ahead-of-feds-policy-202609160531",
-      "published": "Wed, 16 Sep 2026 05:31:41 GMT",
-      "ts": 1789536701
-    },
-    {
       "source": "CoinTelegraph",
       "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
       "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 04:48:20 +0000",
       "ts": 1789534100
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold bulls seem hesitant below $4,350 as focus remains on Fed rate decision",
-      "link": "https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409",
-      "published": "Wed, 16 Sep 2026 04:09:49 GMT",
-      "ts": 1789531789
     },
     {
       "source": "CoinDesk",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Looking Inside Sunbelt Rentals’ (SUNB) Record Revenues, Debt Discipline, and Uneven Segment Margins",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/looking-inside-sunbelt-rentals-sunb-202755113.html",
-      "published": "2026-09-14T20:27:55Z",
-      "ts": 1789417675
+      "title": "Stocks Settle Lower as AI Slowdown Fears Weigh on Chipmakers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-ai-slowdown-203505818.html",
+      "published": "2026-09-14T20:35:05Z",
+      "ts": 1789418105
     }
   ]
 }
