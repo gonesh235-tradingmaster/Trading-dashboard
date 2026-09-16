@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-16T16:55:12.577968Z",
+  "updated": "2026-09-16T17:09:02.776325Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
+      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 17:00:00 GMT",
+      "ts": 1789578000
+    },
     {
       "source": "FXStreet",
       "title": "WTI pulls back below $100 as Saudi Arabia steps up efforts to restore Oil flows",
       "link": "https://www.fxstreet.com/news/wti-pulls-back-below-100-as-saudi-arabia-steps-up-efforts-to-restore-oil-flows-202609161652",
       "published": "Wed, 16 Sep 2026 16:52:46 GMT",
       "ts": 1789577566
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar rises ahead of pivotal Fed rate decision, sterling slips as UK CPI heats up",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
+      "published": "2026-09-16 16:49:53",
+      "ts": 1789577393
     },
     {
       "source": "Yahoo Finance",
@@ -228,7 +242,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Federal Reserve set to raise interest rate as markets await clues on future path",
+      "title": "Federal Reserve set to raise interest rate as dot plot takes center stage",
       "link": "https://www.fxstreet.com/news/federal-reserve-set-to-raise-interest-rate-after-five-meetings-on-hold-202609161400",
       "published": "Wed, 16 Sep 2026 14:00:00 GMT",
       "ts": 1789567200
@@ -266,13 +280,6 @@
       "title": "Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it",
       "link": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 13:30:00 +0000",
-      "ts": 1789565400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What history says about longer-term bond yields after an initial Fed hike",
-      "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 13:30:00 GMT",
       "ts": 1789565400
     },
     {
@@ -351,13 +358,6 @@
       "link": "https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 09:58:48 +0000",
       "ts": 1789552728
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar consolidates ahead of Fed rate decision and Warsh signals",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
-      "published": "2026-09-16 09:26:49",
-      "ts": 1789550809
     },
     {
       "source": "Investing Forex",
