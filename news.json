@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-16T02:09:54.533283Z",
+  "updated": "2026-09-16T02:27:04.157641Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar weakens below 0.7150 as markets brace for Fed rate decision",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-below-07150-as-markets-brace-for-fed-rate-decision-202609160225",
+      "published": "Wed, 16 Sep 2026 02:25:34 GMT",
+      "ts": 1789525534
+    },
+    {
+      "source": "FXStreet",
+      "title": "PBOC’s Pan says will rely less on loan growth targets and more on rate tools to guide policy",
+      "link": "https://www.fxstreet.com/news/pbocs-pan-says-will-rely-less-on-loan-growth-targets-and-more-on-rate-tools-to-guide-policy-202609160218",
+      "published": "Wed, 16 Sep 2026 02:18:56 GMT",
+      "ts": 1789525136
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD bears have the upper hand below $64.00 and 200-day EMA",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bears-have-the-upper-hand-below-6400-and-200-day-ema-202609160214",
+      "published": "Wed, 16 Sep 2026 02:14:20 GMT",
+      "ts": 1789524860
+    },
     {
       "source": "FXStreet",
       "title": "EUR/JPY Price Forecast: Holds ground above 179.00 within oversold territory",
@@ -50,27 +71,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-languishes-near-two-week-low-as-bullish-usd-offsets-oil-gains-ahead-of-fed-202609160108",
       "published": "Wed, 16 Sep 2026 01:08:18 GMT",
       "ts": 1789520898
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI slips to near $100.50 despite escalating Middle East supply disruptions",
-      "link": "https://www.fxstreet.com/news/wti-slips-to-near-10050-despite-escalating-middle-east-supply-disruptions-202609160054",
-      "published": "Wed, 16 Sep 2026 00:54:00 GMT",
-      "ts": 1789520040
-    },
-    {
-      "source": "FXStreet",
-      "title": "Saudi air defenses intercept Houthi drone near Mecca",
-      "link": "https://www.fxstreet.com/news/saudi-air-defenses-intercept-houthi-drone-near-mecca-202609160033",
-      "published": "Wed, 16 Sep 2026 00:33:41 GMT",
-      "ts": 1789518821
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen flatlines ahead of Fed rate decicion",
-      "link": "https://www.fxstreet.com/news/japanese-yen-flatlines-ahead-of-fed-rate-decicion-202609160022",
-      "published": "Wed, 16 Sep 2026 00:22:36 GMT",
-      "ts": 1789518156
     },
     {
       "source": "MarketWatch",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dollar Climbs as Stocks Sink and Crude Oil Surges",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-stocks-sink-crude-143325158.html",
-      "published": "2026-09-14T14:33:25Z",
-      "ts": 1789396405
+      "title": "CL Stock Alert: Colgate-Palmolive Reportedly Considers $1 Billion Brand Sale",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cl-stock-alert-colgate-palmolive-144353389.html",
+      "published": "2026-09-14T14:43:53Z",
+      "ts": 1789397033
     },
     {
       "source": "Yahoo Finance",
-      "title": "5 habits rich retirees lean on to protect their wealth in retirement",
-      "link": "https://finance.yahoo.com/markets/articles/5-habits-rich-retirees-lean-143000557.html",
-      "published": "2026-09-14T14:30:00Z",
-      "ts": 1789396200
+      "title": "5 Freight Markets: Why Spot Rates Are Sending Mixed Signals",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/5-freight-markets-why-spot-144332811.html",
+      "published": "2026-09-14T14:43:32Z",
+      "ts": 1789397012
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Devon Energy Stock Outperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-stock-outperforming-p-142950910.html",
-      "published": "2026-09-14T14:29:50Z",
-      "ts": 1789396190
+      "title": "Dow Rethinks its $20 Billion Saudi Chemicals Bet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-rethinks-20-billion-saudi-144104986.html",
+      "published": "2026-09-14T14:39:57Z",
+      "ts": 1789396797
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hub Group warns of Nasdaq delisting notice; flags H1 operating loss",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hub-group-warns-nasdaq-delisting-142643603.html",
-      "published": "2026-09-14T14:26:43Z",
-      "ts": 1789396003
+      "title": "The EV Bubble Has Burst. How to Play Rivian Stock Now.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ev-bubble-burst-play-rivian-143418979.html",
+      "published": "2026-09-14T14:34:18Z",
+      "ts": 1789396458
     },
     {
       "source": "Yahoo Finance",
-      "title": "Morgan Stanley Doubles Down on Apple Stock as New Offerings Become ‘More Exciting’",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-doubles-down-apple-142423562.html",
-      "published": "2026-09-14T14:24:23Z",
-      "ts": 1789395863
+      "title": "10-Year Treasury Yield Tops 5%",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091426/card/10-year-treasury-yield-tops-5--GoryzEVTy7LZNPoLvhTu?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-14T14:33:36Z",
+      "ts": 1789396416
     }
   ]
 }
