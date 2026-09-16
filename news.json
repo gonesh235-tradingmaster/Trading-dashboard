@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-16T21:10:34.253041Z",
+  "updated": "2026-09-16T21:26:54.446933Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Japanese Yen gives back more of its rally as the Fed raises rates",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-gives-back-more-of-its-rally-as-the-fed-raises-rates-202609162118",
+      "published": "Wed, 16 Sep 2026 21:18:26 GMT",
+      "ts": 1789593506
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand GDP in the barrel with the Kiwi at July lows",
+      "link": "https://www.fxstreet.com/news/new-zealand-gdp-in-the-barrel-with-the-kiwi-at-july-lows-202609162114",
+      "published": "Wed, 16 Sep 2026 21:14:20 GMT",
+      "ts": 1789593260
+    },
     {
       "source": "FXStreet",
       "title": "Trump demands 1% rates hours after the Fed raised them",
@@ -59,13 +73,6 @@
       "ts": 1789586304
     },
     {
-      "source": "FXStreet",
-      "title": "Silver slides as hawkish Fed lifts US Dollar and Treasury yields",
-      "link": "https://www.fxstreet.com/news/silver-slides-as-hawkish-fed-lifts-us-dollar-and-treasury-yields-202609161916",
-      "published": "Wed, 16 Sep 2026 19:16:07 GMT",
-      "ts": 1789586167
-    },
-    {
       "source": "CoinDesk",
       "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
       "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
@@ -99,13 +106,6 @@
       "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-into-a-dollar-index-basket-that-also-raised-rates-202609161815",
       "published": "Wed, 16 Sep 2026 18:15:39 GMT",
       "ts": 1789582539
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average slides behind a Federal Reserve hike",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-raises-rates-on-the-dow-jones-30-corporate-borrowers-202609161815",
-      "published": "Wed, 16 Sep 2026 18:15:09 GMT",
-      "ts": 1789582509
     },
     {
       "source": "FXStreet",
@@ -346,60 +346,60 @@
       "ts": 1789479180
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Ballooning US debt is a ticking time bomb, billionaire investor David Rubenstein says",
+      "link": "https://finance.yahoo.com/markets/article/ballooning-us-debt-is-a-ticking-time-bomb-billionaire-investor-david-rubenstein-says-130757123.html",
+      "published": "2026-09-15T13:07:57Z",
+      "ts": 1789477677
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Vishay Precision (VPG) Became a Winner From Industrial Recovery and the Humanoid Robotics Boom",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-precision-vpg-became-winner-130351712.html",
+      "published": "2026-09-15T13:03:51Z",
+      "ts": 1789477431
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Targa Resources Stock Outperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-stock-outperforming-p-130106466.html",
+      "published": "2026-09-15T13:01:06Z",
+      "ts": 1789477266
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Adobe Stock is Dirt Cheap After Its Recent Results - What's the Best Way to Play ADBE?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-stock-dirt-cheap-recent-130002656.html",
+      "published": "2026-09-15T13:00:02Z",
+      "ts": 1789477202
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bank of America Q3 investment banking fees to drop, CEO warns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-q3-investment-banking-125930006.html",
+      "published": "2026-09-15T12:59:30Z",
+      "ts": 1789477170
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Universal Display (OLED): Is the AI Infrastructure Boom Becoming a Hidden Risk for Display Suppliers?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/universal-display-oled-ai-infrastructure-125924977.html",
+      "published": "2026-09-15T12:59:24Z",
+      "ts": 1789477164
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "NVIDIA, AMD and Intel Forecast: AI Stocks Eye a Rebound",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-intel-forecast-ai-125717460.html",
+      "published": "2026-09-15T12:57:17Z",
+      "ts": 1789477037
+    },
+    {
       "source": "Investing Forex",
       "title": "Loonie slips as oil surge fuels rate worries ahead of Fed decision",
       "link": "https://www.investing.com/news/forex-news/loonie-slips-as-oil-surge-fuels-rate-worries-ahead-of-fed-decision-4901710",
       "published": "2026-09-15 12:40:11",
       "ts": 1789476011
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Anthropic moving forward with $2 trillion IPO on Nasdaq",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-moving-forward-2-trillion-123756375.html",
-      "published": "2026-09-15T12:37:56Z",
-      "ts": 1789475876
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Take-Two Interactive Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-stock-underperforming-p-123419248.html",
-      "published": "2026-09-15T12:34:19Z",
-      "ts": 1789475659
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MindWalk Holdings Corp. Q1 2027 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mindwalk-holdings-corp-q1-2027-123000284.html",
-      "published": "2026-09-15T12:30:00Z",
-      "ts": 1789475400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "American Battery Technology Company Common Stock Q4 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-battery-technology-company-common-123000033.html",
-      "published": "2026-09-15T12:30:00Z",
-      "ts": 1789475400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dave & Buster's Entertainment, Inc. Q2 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-busters-entertainment-inc-q2-123000667.html",
-      "published": "2026-09-15T12:30:00Z",
-      "ts": 1789475400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Soybeans Slipping Back as Ratings Remain Steady",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-slipping-back-ratings-remain-122930897.html",
-      "published": "2026-09-15T12:29:30Z",
-      "ts": 1789475370
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Corn Facing Early Turnaround Tuesday Weakness",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-facing-early-turnaround-tuesday-122930175.html",
-      "published": "2026-09-15T12:29:30Z",
-      "ts": 1789475370
     },
     {
       "source": "Investing Crypto",
