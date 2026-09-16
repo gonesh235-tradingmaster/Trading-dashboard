@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-16T14:28:10.775106Z",
+  "updated": "2026-09-16T14:44:36.673867Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar: BoC hawkish tilt and key levels – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hawkish-tilt-and-key-levels-scotiabank-202609161441",
+      "published": "Wed, 16 Sep 2026 14:41:17 GMT",
+      "ts": 1789569677
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
+      "link": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
+      "published": "Wed, 16 Sep 2026 14:35:43 +0000",
+      "ts": 1789569343
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Billionaire Ray Dalio’s Bridgewater’s and Cathie Wood’s ARK Portfolios: 2 Stocks They Both Own",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ray-dalio-bridgewater-cathie-142413224.html",
+      "published": "2026-09-16T14:24:13Z",
+      "ts": 1789568653
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Medline (MDLN) Slips Amid Broader MedTech Weakness",
+      "link": "https://finance.yahoo.com/healthcare/articles/medline-mdln-slips-amid-broader-142122686.html",
+      "published": "2026-09-16T14:21:22Z",
+      "ts": 1789568482
+    },
     {
       "source": "FXStreet",
       "title": "United Kingdom: BoE hold view reinforced – Nomura",
@@ -10,11 +38,25 @@
       "ts": 1789568339
     },
     {
+      "source": "Yahoo Finance",
+      "title": "How Lumentum Holdings (LITE) Powers the Next Generation of AI Data Demand",
+      "link": "https://finance.yahoo.com/technology/ai/articles/lumentum-holdings-lite-powers-next-141805542.html",
+      "published": "2026-09-16T14:18:05Z",
+      "ts": 1789568285
+    },
+    {
       "source": "MarketWatch",
       "title": "What happens if you never buy a house? What renters are gaining — and giving up",
       "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 14:18:00 GMT",
       "ts": 1789568280
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Brad Gerstner Says Latest ‘Negativity’ Around AI is ‘Political Agenda’; See His 2 New AI Stock Picks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/brad-gerstner-says-latest-negativity-141757194.html",
+      "published": "2026-09-16T14:17:57Z",
+      "ts": 1789568277
     },
     {
       "source": "Yahoo Finance",
@@ -57,34 +99,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ray-dalio-bridgewater-2-140700264.html",
       "published": "2026-09-16T14:07:00Z",
       "ts": 1789567620
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Deutsche Bank To Offer Crypto Custody For Institutions",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/deutsche-bank-offer-crypto-custody-140600953.html",
-      "published": "2026-09-16T14:06:00Z",
-      "ts": 1789567560
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-sits-below-5-as-market-awaits-fed-decision-alphacheck-140528141.html",
-      "published": "2026-09-16T14:05:28Z",
-      "ts": 1789567528
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ray Dalio’s Fund Was Buying These 2 AI Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-fund-buying-2-140527912.html",
-      "published": "2026-09-16T14:05:27Z",
-      "ts": 1789567527
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "US homebuilder sentiment drops to 12-month low in September",
-      "link": "https://finance.yahoo.com/news/us-homebuilder-sentiment-drops-12-140214325.html",
-      "published": "2026-09-16T14:02:14Z",
-      "ts": 1789567334
     },
     {
       "source": "MarketWatch",
@@ -227,13 +241,6 @@
       "ts": 1789563600
     },
     {
-      "source": "FXStreet",
-      "title": "United States Retail Sales rose by 1.2% MoM in August",
-      "link": "https://www.fxstreet.com/news/united-states-retail-sales-rose-by-12-mom-in-august-202609161258",
-      "published": "Wed, 16 Sep 2026 12:58:45 GMT",
-      "ts": 1789563525
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
       "link": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -302,13 +309,6 @@
       "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
       "published": "Wed, 16 Sep 2026 10:46:28 +0000",
       "ts": 1789555588
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holds near $76,000 as traders brace for first Fed rate hike in three years",
-      "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
-      "published": "Wed, 16 Sep 2026 10:37:46 +0000",
-      "ts": 1789555066
     },
     {
       "source": "CoinTelegraph",
