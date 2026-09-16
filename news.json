@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-16T03:55:15.517230Z",
+  "updated": "2026-09-16T04:10:33.205570Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold gains some positive traction as USD bulls turn cautious ahead of Fed rate decision",
+      "link": "https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409",
+      "published": "Wed, 16 Sep 2026 04:09:49 GMT",
+      "ts": 1789531789
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
+      "published": "Wed, 16 Sep 2026 04:07:27 +0000",
+      "ts": 1789531647
+    },
     {
       "source": "CoinDesk",
       "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
@@ -78,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/euro-sticks-to-losses-near-one-month-low-as-usd-bulls-retain-control-ahead-of-fed-decision-202609160139",
       "published": "Wed, 16 Sep 2026 01:39:35 GMT",
       "ts": 1789522775
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound softens below 1.3500 as traders await UK CPI data, Fed rate decision",
-      "link": "https://www.fxstreet.com/news/british-pound-softens-below-13500-as-traders-await-uk-cpi-data-fed-rate-decision-202609160121",
-      "published": "Wed, 16 Sep 2026 01:21:05 GMT",
-      "ts": 1789521665
     },
     {
       "source": "MarketWatch",
@@ -304,13 +311,6 @@
       "ts": 1789481624
     },
     {
-      "source": "CoinDesk",
-      "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
-      "link": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
-      "published": "Tue, 15 Sep 2026 13:43:50 +0000",
-      "ts": 1789479830
-    },
-    {
       "source": "Yahoo Finance",
       "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
       "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain",
+      "link": "https://www.investors.com/news/ai-nvidia-broadcom-software-stocks-servicenow-workday-salesforce-micron/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T16:38:47Z",
+      "ts": 1789403927
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO",
+      "link": "https://finance.yahoo.com/technology/ai/articles/chinas-deepseek-hires-dealmaker-cfo-163408342.html",
+      "published": "2026-09-14T16:36:46Z",
+      "ts": 1789403806
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mexico-Based Energy Leader Vista Eyes Buy Point As Oil Prices Surge On Middle East Conflict",
+      "link": "https://www.investors.com/research/vista-stock-vist-energy-oil-prices/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T16:30:10Z",
+      "ts": 1789403410
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AI Is Supercharging Cybersecurity Stocks. Here Are Wedbush’s 2 Favorite Picks.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-supercharging-cybersecurity-stocks-wedbush-162945505.html",
+      "published": "2026-09-14T16:29:45Z",
+      "ts": 1789403385
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "How gold IRAs fit into a diversified retirement portfolio",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/how-gold-iras-fit-into-a-diversified-retirement-portfolio-162815731.html",
       "published": "2026-09-14T16:28:15Z",
       "ts": 1789403295
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is PPG Industries Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ppg-industries-stock-underperforming-dow-161750825.html",
-      "published": "2026-09-14T16:17:50Z",
-      "ts": 1789402670
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Archer-Daniels-Midland Stock Outperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/archer-daniels-midland-stock-outperforming-161317226.html",
-      "published": "2026-09-14T16:13:17Z",
-      "ts": 1789402397
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-adds-68-million-ethereum-160225666.html",
-      "published": "2026-09-14T16:02:25Z",
-      "ts": 1789401745
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A $90 Billion Reason to Buy Oracle Stock Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/90-billion-reason-buy-oracle-155458851.html",
-      "published": "2026-09-14T15:54:58Z",
-      "ts": 1789401298
     }
   ]
 }
