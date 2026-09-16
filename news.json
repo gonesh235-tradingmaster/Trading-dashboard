@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T02:27:04.157641Z",
+  "updated": "2026-09-16T02:42:15.979025Z",
   "count": 60,
   "items": [
     {
@@ -8,6 +8,13 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-weakens-below-07150-as-markets-brace-for-fed-rate-decision-202609160225",
       "published": "Wed, 16 Sep 2026 02:25:34 GMT",
       "ts": 1789525534
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto industry turns to US regulators after CLARITY setback",
+      "link": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 02:24:07 +0000",
+      "ts": 1789525447
     },
     {
       "source": "FXStreet",
@@ -297,13 +304,6 @@
       "ts": 1789479830
     },
     {
-      "source": "CoinTelegraph",
-      "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
-      "link": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 13:37:31 +0000",
-      "ts": 1789479451
-    },
-    {
       "source": "Yahoo Finance",
       "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
       "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "CL Stock Alert: Colgate-Palmolive Reportedly Considers $1 Billion Brand Sale",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cl-stock-alert-colgate-palmolive-144353389.html",
-      "published": "2026-09-14T14:43:53Z",
-      "ts": 1789397033
+      "title": "Marriott International (MAR)’s Middle East Headwind Eases, but War Risks Remain",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marriott-international-mar-middle-east-145034601.html",
+      "published": "2026-09-14T14:50:34Z",
+      "ts": 1789397434
     },
     {
       "source": "Yahoo Finance",
-      "title": "5 Freight Markets: Why Spot Rates Are Sending Mixed Signals",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/5-freight-markets-why-spot-144332811.html",
-      "published": "2026-09-14T14:43:32Z",
-      "ts": 1789397012
+      "title": "Lyft (LYFT)’s Robotaxi Strategy Takes Shape with Waymo",
+      "link": "https://finance.yahoo.com/technology/articles/lyft-lyft-robotaxi-strategy-takes-144853683.html",
+      "published": "2026-09-14T14:48:53Z",
+      "ts": 1789397333
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dow Rethinks its $20 Billion Saudi Chemicals Bet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-rethinks-20-billion-saudi-144104986.html",
-      "published": "2026-09-14T14:39:57Z",
-      "ts": 1789396797
+      "title": "Howmet Aerospace (HWM) Faces New Competitive Pressure after GE’s $11.75 Billion CPP Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-hwm-faces-competitive-144705103.html",
+      "published": "2026-09-14T14:47:05Z",
+      "ts": 1789397225
     },
     {
       "source": "Yahoo Finance",
-      "title": "The EV Bubble Has Burst. How to Play Rivian Stock Now.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ev-bubble-burst-play-rivian-143418979.html",
-      "published": "2026-09-14T14:34:18Z",
-      "ts": 1789396458
+      "title": "Small Fleet Financing: Why Buying Trucks Stops Making Sense",
+      "link": "https://finance.yahoo.com/small-business/articles/small-fleet-financing-why-buying-144700961.html",
+      "published": "2026-09-14T14:47:00Z",
+      "ts": 1789397220
     },
     {
       "source": "Yahoo Finance",
-      "title": "10-Year Treasury Yield Tops 5%",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091426/card/10-year-treasury-yield-tops-5--GoryzEVTy7LZNPoLvhTu?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-14T14:33:36Z",
-      "ts": 1789396416
+      "title": "HSBC Holdings (HSBC) Reshapes European Operations with German Exit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-holdings-hsbc-reshapes-european-144430696.html",
+      "published": "2026-09-14T14:44:30Z",
+      "ts": 1789397070
     }
   ]
 }
