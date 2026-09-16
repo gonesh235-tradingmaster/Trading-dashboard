@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-16T19:09:19.569954Z",
+  "updated": "2026-09-16T19:25:14.544741Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "UK FCA sets crypto authorization guidance ahead of September application window",
+      "link": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 19:19:23 +0000",
+      "ts": 1789586363
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver slides as hawkish Fed lifts US Dollar and Treasury yields",
+      "link": "https://www.fxstreet.com/news/silver-slides-as-hawkish-fed-lifts-us-dollar-and-treasury-yields-202609161916",
+      "published": "Wed, 16 Sep 2026 19:16:07 GMT",
+      "ts": 1789586167
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 19:15:00 GMT",
+      "ts": 1789586100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "As Fed rolls out its first interest-rate hike in 3 years, officials are divided on what to do next",
+      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 19:10:00 GMT",
+      "ts": 1789585800
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: Investors now look at the BoE",
+      "link": "https://www.fxstreet.com/news/forex-today-investors-now-look-at-the-boe-202609161909",
+      "published": "Wed, 16 Sep 2026 19:09:53 GMT",
+      "ts": 1789585793
+    },
     {
       "source": "CoinDesk",
       "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
@@ -38,8 +73,15 @@
       "ts": 1789585020
     },
     {
+      "source": "Investing Forex",
+      "title": "Loonie weakens after Fed hike as dollar gains on hawkish outlook",
+      "link": "https://www.investing.com/news/forex-news/loonie-weakens-after-fed-hike-as-dollar-gains-on-hawkish-outlook-4904309",
+      "published": "2026-09-16 18:46:08",
+      "ts": 1789584368
+    },
+    {
       "source": "FXStreet",
-      "title": "A Fed rate hike sends the Loonie to a six-week low",
+      "title": "The Canadian Dollar slips to a summer low on the Fed's rate hike",
       "link": "https://www.fxstreet.com/news/fed-hike-sends-the-loonie-to-a-six-week-low-202609161841",
       "published": "Wed, 16 Sep 2026 18:41:40 GMT",
       "ts": 1789584100
@@ -57,20 +99,6 @@
       "link": "https://www.fxstreet.com/news/wti-holds-near-daily-low-as-fed-decision-draws-muted-reaction-202609161837",
       "published": "Wed, 16 Sep 2026 18:37:24 GMT",
       "ts": 1789583844
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen falls as US Federal Reserve delivers",
-      "link": "https://www.fxstreet.com/news/japanese-yen-falls-as-us-federal-reserve-delivers-202609161832",
-      "published": "Wed, 16 Sep 2026 18:32:44 GMT",
-      "ts": 1789583564
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Warsh’s Fed rolls out first interest-rate hike in 3 years — with one more increase expected",
-      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 18:29:00 GMT",
-      "ts": 1789583340
     },
     {
       "source": "Investing Forex",
@@ -102,17 +130,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Dollar Index Cracks 100 as Fed delivers hawkish hike",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-into-a-dollar-index-basket-that-also-raised-rates-202609161815",
-      "published": "Wed, 16 Sep 2026 18:15:39 GMT",
-      "ts": 1789582539
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Federal Reserve hikes back above Britain's cash rate",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-back-above-britains-375-202609161809",
-      "published": "Wed, 16 Sep 2026 18:09:44 GMT",
-      "ts": 1789582184
+      "title": "Dow Jones Industrial Average slides behind a Federal Reserve hike",
+      "link": "https://www.fxstreet.com/news/the-federal-reserve-raises-rates-on-the-dow-jones-30-corporate-borrowers-202609161815",
+      "published": "Wed, 16 Sep 2026 18:15:09 GMT",
+      "ts": 1789582509
     },
     {
       "source": "FXStreet",
@@ -204,13 +225,6 @@
       "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 16:03:35 +0000",
       "ts": 1789574615
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 16:00:00 GMT",
-      "ts": 1789574400
     },
     {
       "source": "CoinTelegraph",
@@ -325,13 +339,6 @@
       "ts": 1789554792
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report",
-      "link": "https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 10:11:39 +0000",
-      "ts": 1789553499
-    },
-    {
       "source": "Investing Forex",
       "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-slips-as-oil-surge-fuels-rate-worries-ahead-of-fed-decision-4901710",
       "published": "2026-09-15 12:40:11",
       "ts": 1789476011
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Exclusive: Bitget Wallet adds tokenized U.S. stocks through Reality integration",
-      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-wallet-adds-tokenized-us-stocks-through-reality-integration-4901412",
-      "published": "2026-09-15 11:31:22",
-      "ts": 1789471882
     }
   ]
 }
