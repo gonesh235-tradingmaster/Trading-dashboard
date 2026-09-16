@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T23:38:32.813692Z",
+  "updated": "2026-09-16T23:50:30.083251Z",
   "count": 60,
   "items": [
     {
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Why Kroger Co. (KR) Could Be a Consumer Staples Comeback Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-kroger-co-kr-could-160335573.html",
+      "published": "2026-09-15T16:03:35Z",
+      "ts": 1789488215
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "OXEA taps Uber Freight to manage North American, European logistics",
       "link": "https://finance.yahoo.com/economy/articles/oxea-taps-uber-freight-manage-160000087.html",
       "published": "2026-09-15T16:00:00Z",
       "ts": 1789488000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Fifth Third Bancorp Stock Outperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-bancorp-stock-outperforming-155954803.html",
-      "published": "2026-09-15T15:59:54Z",
-      "ts": 1789487994
     }
   ]
 }
