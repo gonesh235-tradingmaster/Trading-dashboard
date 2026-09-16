@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-16T08:10:50.859275Z",
+  "updated": "2026-09-16T08:29:04.815271Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
+      "link": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 08:26:00 GMT",
+      "ts": 1789547160
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound slips as Fed hike bets and UK inflation uptick weigh",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
+      "published": "2026-09-16 08:21:55",
+      "ts": 1789546915
+    },
+    {
+      "source": "FXStreet",
+      "title": "Norwegian Krone: Norges Bank weighs inflation and growth – Commerzbank",
+      "link": "https://www.fxstreet.com/news/norwegian-krone-norges-bank-weighs-inflation-and-growth-commerzbank-202609160816",
+      "published": "Wed, 16 Sep 2026 08:16:01 GMT",
+      "ts": 1789546561
+    },
     {
       "source": "FXStreet",
       "title": "Dow Jones futures tick higher ahead of Fed interest rate decision",
@@ -94,20 +115,6 @@
       "ts": 1789542672
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound: Rising price pressures challenge BoE – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/british-pound-rising-price-pressures-challenge-boe-deutsche-bank-202609160709",
-      "published": "Wed, 16 Sep 2026 07:09:22 GMT",
-      "ts": 1789542562
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro ticks higher against British Pound following UK CPI data",
-      "link": "https://www.fxstreet.com/news/euro-ticks-higher-against-british-pound-following-uk-cpi-data-202609160707",
-      "published": "Wed, 16 Sep 2026 07:07:06 GMT",
-      "ts": 1789542426
-    },
-    {
       "source": "CoinDesk",
       "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
       "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
@@ -141,6 +148,13 @@
       "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 04:48:20 +0000",
       "ts": 1789534100
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold traders seem noncommittal below $4,350; eyes Fed rate decision for fresh impetus",
+      "link": "https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409",
+      "published": "Wed, 16 Sep 2026 04:09:49 GMT",
+      "ts": 1789531789
     },
     {
       "source": "CoinDesk",
@@ -269,13 +283,6 @@
       "ts": 1789504560
     },
     {
-      "source": "MarketWatch",
-      "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
-      "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 20:31:00 GMT",
-      "ts": 1789504260
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto stocks sink after Senate rejects Clarity Act",
       "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
@@ -323,6 +330,13 @@
       "link": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 17:53:04 +0000",
       "ts": 1789494784
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Rich Dad Poor Dad author warns biggest crash in history has started",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
+      "published": "2026-09-15T17:26:03Z",
+      "ts": 1789493163
     },
     {
       "source": "CoinTelegraph",
@@ -407,20 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
       "published": "2026-09-14 21:54:08",
       "ts": 1789422848
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar at highest level in almost two weeks as Fed rate hike bets hit nearly 95%",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 21:03:42",
-      "ts": 1789419822
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stocks Settle Lower as AI Slowdown Fears Weigh on Chipmakers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-ai-slowdown-203505818.html",
-      "published": "2026-09-14T20:35:05Z",
-      "ts": 1789418105
     }
   ]
 }
