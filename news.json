@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T16:27:31.783167Z",
+  "updated": "2026-09-16T16:43:22.829420Z",
   "count": 60,
   "items": [
     {
@@ -31,11 +31,46 @@
       "ts": 1789575439
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Salesforce Stock Dips Ahead Of Investor Briefing Amid System Outage",
+      "link": "https://www.investors.com/news/technology/salesforce-stock-dips-ahead-of-investor-briefing-amid-system-outage/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T16:11:26Z",
+      "ts": 1789575086
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
+      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T16:10:31Z",
+      "ts": 1789575031
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Fed Will Be Hawkish. The S&P 500 May Prefer It. (Live Coverage)",
+      "link": "https://www.investors.com/news/federal-reserve-meeting-sept-warsh-10-year-treasury-yield-sp-500/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T16:10:25Z",
+      "ts": 1789575025
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AMD, IBD Stock Of The Day, Gains As Heavyweights Dismiss AI Slowdown",
+      "link": "https://www.investors.com/research/ibd-stock-of-the-day/amd-stock-rises-pundits-dismiss-ai-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T16:05:19Z",
+      "ts": 1789574719
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
       "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 16:03:35 +0000",
       "ts": 1789574615
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CareTrust REIT’s (CTRE) $400M Bet Extends A Record Year",
+      "link": "https://finance.yahoo.com/real-estate/articles/caretrust-reit-ctre-400m-bet-160209188.html",
+      "published": "2026-09-16T16:02:09Z",
+      "ts": 1789574529
     },
     {
       "source": "Yahoo Finance",
@@ -66,32 +101,11 @@
       "ts": 1789574255
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Leads Rebound As Fed Rate Decision Looms; This Industry Surges (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T15:55:29Z",
-      "ts": 1789574129
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
       "link": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 15:52:17 +0000",
       "ts": 1789573937
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Elastic (ESTC) Bets Big On AI Search With New Database",
-      "link": "https://finance.yahoo.com/technology/ai/articles/elastic-estc-bets-big-ai-154753742.html",
-      "published": "2026-09-16T15:47:53Z",
-      "ts": 1789573673
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Westlake’s (WLK) Second Quarter Turned Two Straight Losses Into Profit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/westlake-wlk-second-quarter-turned-153826527.html",
-      "published": "2026-09-16T15:38:26Z",
-      "ts": 1789573106
     },
     {
       "source": "FXStreet",
@@ -106,20 +120,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 15:30:49 +0000",
       "ts": 1789572649
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Kinetik’s (KNTK) Record Quarter Sets Up A Bigger 2027 Bet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kinetik-kntk-record-quarter-sets-152943083.html",
-      "published": "2026-09-16T15:29:43Z",
-      "ts": 1789572583
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Arista Stock Holds Up Well Amid Weakness. Here's How To Capitalize.",
-      "link": "https://www.investors.com/research/options/arista-anet-stock-covered-call-options/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T15:26:07Z",
-      "ts": 1789572367
     },
     {
       "source": "CoinDesk",
@@ -388,13 +388,6 @@
       "ts": 1789546915
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
-      "published": "2026-09-16T08:03:56Z",
-      "ts": 1789545836
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
@@ -421,6 +414,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
       "published": "2026-09-15 21:49:19",
       "ts": 1789508959
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar hits two-week high as traders gear up for anticipated Fed hike on Wednesday",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
+      "published": "2026-09-15 20:38:48",
+      "ts": 1789504728
     }
   ]
 }
