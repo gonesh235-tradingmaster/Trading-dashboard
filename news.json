@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-16T05:42:06.688430Z",
+  "updated": "2026-09-16T05:54:19.083824Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah gains as US Dollar weakens ahead of Fed rate decision",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-as-us-dollar-weakens-ahead-of-fed-rate-decision-202609160549",
+      "published": "Wed, 16 Sep 2026 05:49:51 GMT",
+      "ts": 1789537791
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: 1.1500 to remain key support level for Fed’s Day",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-11500-to-remain-key-support-level-for-feds-day-202609160547",
+      "published": "Wed, 16 Sep 2026 05:47:32 GMT",
+      "ts": 1789537652
+    },
     {
       "source": "FXStreet",
       "title": "Indian Rupee clings to recent losses ahead of Fed’s policy",
@@ -60,13 +74,6 @@
     },
     {
       "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Holds gains above 110.50, but maintains bearish bias below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-holds-gains-above-11050-but-maintains-bearish-bias-below-100-day-sma-202609160427",
-      "published": "Wed, 16 Sep 2026 04:27:01 GMT",
-      "ts": 1789532821
-    },
-    {
-      "source": "FXStreet",
       "title": "Gold sticks to modest gains below $4,350 as USD bulls await Fed rate decision",
       "link": "https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409",
       "published": "Wed, 16 Sep 2026 04:09:49 GMT",
@@ -92,13 +99,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
       "published": "Wed, 16 Sep 2026 03:37:45 +0000",
       "ts": 1789529865
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Treasury Yields take a breather after recent rally, Fed’s policy in focus",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-take-a-breather-after-recent-rally-feds-policy-in-focus-202609160317",
-      "published": "Wed, 16 Sep 2026 03:17:29 GMT",
-      "ts": 1789528649
     },
     {
       "source": "CoinTelegraph",
@@ -396,6 +396,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "S&P 500: Q4 Strength or Election Risk?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-q4-strength-election-183224128.html",
+      "published": "2026-09-14T18:32:24Z",
+      "ts": 1789410744
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Cattle Bulls Are Back in Business as Futures Prices Rise",
       "link": "https://finance.yahoo.com/markets/commodities/articles/cattle-bulls-back-business-futures-182014710.html",
       "published": "2026-09-14T18:20:14Z",
@@ -414,13 +421,6 @@
       "link": "https://www.investors.com/news/technology/anthropic-ai-slowdown-amazon-microsoft-google/?src=A00220&yptr=yahoo",
       "published": "2026-09-14T18:01:39Z",
       "ts": 1789408899
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Debt settlement vs. bankruptcy: How to choose",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/debt-settlement-vs-bankruptcy-175657072.html",
-      "published": "2026-09-14T17:56:57Z",
-      "ts": 1789408617
     }
   ]
 }
