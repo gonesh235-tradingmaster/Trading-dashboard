@@ -1,13 +1,55 @@
 {
-  "updated": "2026-09-16T18:54:11.585472Z",
+  "updated": "2026-09-16T19:09:19.569954Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+      "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
+      "published": "Wed, 16 Sep 2026 19:07:34 +0000",
+      "ts": 1789585654
+    },
+    {
+      "source": "FXStreet",
+      "title": "Federal Reserve Chair Warsh: Inflation trends were not passing the test",
+      "link": "https://www.fxstreet.com/news/federal-reserve-chair-warsh-inflation-trends-were-not-passing-the-test-202609161900",
+      "published": "Wed, 16 Sep 2026 19:00:22 GMT",
+      "ts": 1789585222
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 19:00:00 GMT",
+      "ts": 1789585200
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed raises 2026 interest rate forecast to 4.1%, lifts PCE inflation projections",
+      "link": "https://www.fxstreet.com/news/fed-raises-2026-interest-rate-forecast-to-41-lifts-pce-inflation-projections-202609161858",
+      "published": "Wed, 16 Sep 2026 18:58:33 GMT",
+      "ts": 1789585113
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
+      "link": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 18:57:00 GMT",
+      "ts": 1789585020
+    },
     {
       "source": "FXStreet",
       "title": "A Fed rate hike sends the Loonie to a six-week low",
       "link": "https://www.fxstreet.com/news/fed-hike-sends-the-loonie-to-a-six-week-low-202609161841",
       "published": "Wed, 16 Sep 2026 18:41:40 GMT",
       "ts": 1789584100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The smartest money moves to make now that interest rates are going higher",
+      "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 18:38:00 GMT",
+      "ts": 1789583880
     },
     {
       "source": "FXStreet",
@@ -24,6 +66,13 @@
       "ts": 1789583564
     },
     {
+      "source": "MarketWatch",
+      "title": "Warsh’s Fed rolls out first interest-rate hike in 3 years — with one more increase expected",
+      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 18:29:00 GMT",
+      "ts": 1789583340
+    },
+    {
       "source": "Investing Forex",
       "title": "Dollar gains after Fed raises interest rates",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
@@ -31,11 +80,25 @@
       "ts": 1789583339
     },
     {
+      "source": "MarketWatch",
+      "title": "Micron’s stock could climb 70% higher thanks to a factor that’s been largely absent so far",
+      "link": "https://www.marketwatch.com/story/microns-stock-could-climb-70-higher-thanks-to-a-factor-thats-been-largely-absent-so-far-2489f2cc?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 18:26:00 GMT",
+      "ts": 1789583160
+    },
+    {
       "source": "FXStreet",
-      "title": "Australian Dollar falls against US Dollar after hawkish Fed rate hike",
+      "title": "Australian Dollar slides below 0.7100 as Warsh strikes hawkish tone",
       "link": "https://www.fxstreet.com/news/australian-dollar-falls-against-us-dollar-after-hawkish-fed-rate-hike-202609161823",
       "published": "Wed, 16 Sep 2026 18:23:34 GMT",
       "ts": 1789583014
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 18:20:00 GMT",
+      "ts": 1789582800
     },
     {
       "source": "FXStreet",
@@ -43,20 +106,6 @@
       "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-into-a-dollar-index-basket-that-also-raised-rates-202609161815",
       "published": "Wed, 16 Sep 2026 18:15:39 GMT",
       "ts": 1789582539
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Dow Jones' 30 corporate borrowers eat a Fed rate hike",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-raises-rates-on-the-dow-jones-30-corporate-borrowers-202609161815",
-      "published": "Wed, 16 Sep 2026 18:15:09 GMT",
-      "ts": 1789582509
-    },
-    {
-      "source": "FXStreet",
-      "title": "Federal Reserve hawkish hike sent Gold price lower",
-      "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-hike-sent-gold-price-lower-202609161814",
-      "published": "Wed, 16 Sep 2026 18:14:26 GMT",
-      "ts": 1789582466
     },
     {
       "source": "FXStreet",
@@ -101,11 +150,39 @@
       "ts": 1789579836
     },
     {
+      "source": "MarketWatch",
+      "title": "The data-center backlash is so fierce that Republican candidates are willing to cross Trump",
+      "link": "https://www.marketwatch.com/story/the-data-center-backlash-is-so-fierce-that-republican-candidates-are-willing-to-cross-trump-9a6eaa03?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 17:30:00 GMT",
+      "ts": 1789579800
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin extends losses after Clarity Act fails; eyes now on Fed for expected hike",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
       "published": "2026-09-16 17:27:03",
       "ts": 1789579623
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
+      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 17:00:00 GMT",
+      "ts": 1789578000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
+      "published": "2026-09-16T16:47:40Z",
+      "ts": 1789577260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
+      "link": "https://www.marketwatch.com/story/classic-budgeting-rules-dont-work-anymore-even-if-your-household-makes-100-000-heres-what-does-cfb235a8?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 16:24:00 GMT",
+      "ts": 1789575840
     },
     {
       "source": "CoinDesk",
@@ -127,6 +204,13 @@
       "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 16:03:35 +0000",
       "ts": 1789574615
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "ts": 1789574400
     },
     {
       "source": "CoinTelegraph",
@@ -218,13 +302,6 @@
       "link": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 12:36:20 +0000",
       "ts": 1789562180
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
-      "link": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
-      "published": "Wed, 16 Sep 2026 12:00:41 +0000",
-      "ts": 1789560041
     },
     {
       "source": "CoinTelegraph",
@@ -344,83 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-wallet-adds-tokenized-us-stocks-through-reality-integration-4901412",
       "published": "2026-09-15 11:31:22",
       "ts": 1789471882
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Edgewell’s (EPC) Margins Slip Even As North America Rebounds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/edgewell-epc-margins-slip-even-100001418.html",
-      "published": "2026-09-15T10:00:01Z",
-      "ts": 1789466401
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI's safety slowdown spooks the market, delays IPOs, and hands incumbents more room to run",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ais-safety-slowdown-spooks-market-100000111.html",
-      "published": "2026-09-15T10:00:00Z",
-      "ts": 1789466400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/wall-street-pushes-back-on-anthropics-warning-as-ai-spending-expected-to-roll-on-chart-of-the-day-100000270.html",
-      "published": "2026-09-15T10:00:00Z",
-      "ts": 1789466400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Trump offers $500 ACA rebate to 1 million Americans — critics pounce on how he ‘gutted’ healthcare in the first place",
-      "link": "https://finance.yahoo.com/healthcare/articles/trump-offers-500-aca-rebate-100000294.html",
-      "published": "2026-09-15T10:00:00Z",
-      "ts": 1789466400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "OnTrac aims to turn available capacity into lower delivery prices",
-      "link": "https://finance.yahoo.com/small-business/articles/ontrac-aims-turn-available-capacity-095928370.html",
-      "published": "2026-09-15T09:59:28Z",
-      "ts": 1789466368
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI Stocks Fell, but Workday and Adobe Jumped. A Favorite AI Disruption Trade Just Flinched",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-fell-workday-adobe-095614361.html",
-      "published": "2026-09-15T09:56:14Z",
-      "ts": 1789466174
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Texas and Cape Town Are Tightening the Data-Center Gate. Digital Realty and Equinix Could Still Benefit",
-      "link": "https://finance.yahoo.com/technology/ai/articles/texas-cape-town-tightening-data-095248616.html",
-      "published": "2026-09-15T09:52:48Z",
-      "ts": 1789465968
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Herbalife (HLF) Bets $250M On Its Own Battered Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/herbalife-hlf-bets-250m-own-095141003.html",
-      "published": "2026-09-15T09:51:41Z",
-      "ts": 1789465901
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
-      "published": "2026-09-15 08:06:27",
-      "ts": 1789459587
-    },
-    {
-      "source": "Investing Forex",
-      "title": "European sovereign debt pressured as traders price ECB hikes through early 2027",
-      "link": "https://www.investing.com/news/forex-news/european-sovereign-debt-pressured-as-traders-price-ecb-hikes-through-early-2027-4900845",
-      "published": "2026-09-15 07:47:02",
-      "ts": 1789458422
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie holds near 12-day low as oil support fails to offset dollar strength",
-      "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
-      "published": "2026-09-14 21:54:08",
-      "ts": 1789422848
     }
   ]
 }
