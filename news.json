@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-16T05:54:19.083824Z",
+  "updated": "2026-09-16T06:13:30.185832Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound faces selling pressure even as UK CPI rise in line with estimates",
+      "link": "https://www.fxstreet.com/news/british-pound-faces-selling-pressure-even-as-uk-cpi-rise-in-line-with-estimates-202609160612",
+      "published": "Wed, 16 Sep 2026 06:12:48 GMT",
+      "ts": 1789539168
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
+      "link": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
+      "published": "Wed, 16 Sep 2026 05:54:04 +0000",
+      "ts": 1789538044
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 05:52:31 +0000",
+      "ts": 1789537951
+    },
     {
       "source": "FXStreet",
       "title": "Indonesian Rupiah gains as US Dollar weakens ahead of Fed rate decision",
@@ -67,13 +88,6 @@
     },
     {
       "source": "FXStreet",
-      "title": "Swiss Franc edges higher as US Dollar declines despite Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/swiss-franc-edges-higher-as-us-dollar-declines-despite-fed-rate-hike-bets-202609160430",
-      "published": "Wed, 16 Sep 2026 04:30:40 GMT",
-      "ts": 1789533040
-    },
-    {
-      "source": "FXStreet",
       "title": "Gold sticks to modest gains below $4,350 as USD bulls await Fed rate decision",
       "link": "https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409",
       "published": "Wed, 16 Sep 2026 04:09:49 GMT",
@@ -109,7 +123,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "UK CPI could set stage for future rate hikes at Bank of England",
+      "title": "Breaking: United Kingdom CPI inflation rises to 3.1% YoY in August, as expected",
       "link": "https://www.fxstreet.com/news/august-uk-inflation-report-expected-to-show-rising-inflation-202609160200",
       "published": "Wed, 16 Sep 2026 02:00:00 GMT",
       "ts": 1789524000
@@ -227,13 +241,6 @@
       "ts": 1789502597
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 19:53:13 +0000",
-      "ts": 1789501993
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin breaks $76,400 support with bearish momentum: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
@@ -309,13 +316,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
       "published": "Tue, 15 Sep 2026 14:15:06 +0000",
       "ts": 1789481706
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
-      "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
-      "published": "Tue, 15 Sep 2026 14:13:44 +0000",
-      "ts": 1789481624
     },
     {
       "source": "Yahoo Finance",
@@ -396,6 +396,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Alphyn Capital on Its Special-Situation Investment: AnaptysBio (ANAB)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphyn-capital-special-situation-investment-143413266.html",
+      "published": "2026-09-14T18:34:13Z",
+      "ts": 1789410853
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "S&P 500: Q4 Strength or Election Risk?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-q4-strength-election-183224128.html",
       "published": "2026-09-14T18:32:24Z",
@@ -410,17 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Benchmark Yield Hits 5%. How Will Stocks Respond To A Fed Rate Hike?",
-      "link": "https://www.investors.com/news/stock-market-10-year-treasury-yield/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T18:05:56Z",
-      "ts": 1789409156
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Anthropic's AI Slowdown Call Could Mean For Cloud Giants Amazon, Microsoft, Google",
-      "link": "https://www.investors.com/news/technology/anthropic-ai-slowdown-amazon-microsoft-google/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T18:01:39Z",
-      "ts": 1789408899
+      "title": "The 10-Year Treasury Yield Just Passed 5%. Here’s How That Impacts Dividend-Paying Consumer Stocks.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yield-just-passed-181001993.html",
+      "published": "2026-09-14T18:10:01Z",
+      "ts": 1789409401
     }
   ]
 }
