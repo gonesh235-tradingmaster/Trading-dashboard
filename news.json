@@ -1,7 +1,91 @@
 {
-  "updated": "2026-09-16T14:11:07.328293Z",
+  "updated": "2026-09-16T14:28:10.775106Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United Kingdom: BoE hold view reinforced – Nomura",
+      "link": "https://www.fxstreet.com/news/united-kingdom-boe-hold-view-reinforced-nomura-202609161418",
+      "published": "Wed, 16 Sep 2026 14:18:59 GMT",
+      "ts": 1789568339
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What happens if you never buy a house? What renters are gaining — and giving up",
+      "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 14:18:00 GMT",
+      "ts": 1789568280
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "American Battery Technology (ABAT) Turns A Profit, But Faces A New Export Threat",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-battery-technology-abat-turns-141323855.html",
+      "published": "2026-09-16T14:13:23Z",
+      "ts": 1789568003
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
+      "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 14:12:00 GMT",
+      "ts": 1789567920
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Coda Octopus (CODA) Just Posted A First-Ever Profit Milestone",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coda-octopus-coda-just-posted-141014735.html",
+      "published": "2026-09-16T14:10:14Z",
+      "ts": 1789567814
+    },
+    {
+      "source": "MarketWatch",
+      "title": "More home builders cut prices as buyers get spooked",
+      "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 14:10:00 GMT",
+      "ts": 1789567800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq, S&P 500 Up Ahead Of Likely Fed Rate Increase; AI Leader Dell Jams (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T14:07:08Z",
+      "ts": 1789567628
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Billionaire Ray Dalio’s Bridgewater’s 2 Non-AI Stock Picks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ray-dalio-bridgewater-2-140700264.html",
+      "published": "2026-09-16T14:07:00Z",
+      "ts": 1789567620
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Deutsche Bank To Offer Crypto Custody For Institutions",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/deutsche-bank-offer-crypto-custody-140600953.html",
+      "published": "2026-09-16T14:06:00Z",
+      "ts": 1789567560
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-sits-below-5-as-market-awaits-fed-decision-alphacheck-140528141.html",
+      "published": "2026-09-16T14:05:28Z",
+      "ts": 1789567528
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ray Dalio’s Fund Was Buying These 2 AI Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-fund-buying-2-140527912.html",
+      "published": "2026-09-16T14:05:27Z",
+      "ts": 1789567527
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "US homebuilder sentiment drops to 12-month low in September",
+      "link": "https://finance.yahoo.com/news/us-homebuilder-sentiment-drops-12-140214325.html",
+      "published": "2026-09-16T14:02:14Z",
+      "ts": 1789567334
+    },
     {
       "source": "MarketWatch",
       "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
@@ -45,27 +129,6 @@
       "ts": 1789567035
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin ETFs See $450 Million In Outflows After Clarity Act Vote",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-see-450-million-135000092.html",
-      "published": "2026-09-16T13:50:00Z",
-      "ts": 1789566600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Charter Communications (CHTR): Cox Merger and Wireless Growth Signal Stronger Future Ahead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/charter-communications-chtr-cox-merger-134918958.html",
-      "published": "2026-09-16T13:49:18Z",
-      "ts": 1789566558
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Investor Fears of AI Disintermediation Weigh on Accenture (ACN) Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investor-fears-ai-disintermediation-weigh-134808888.html",
-      "published": "2026-09-16T13:48:08Z",
-      "ts": 1789566488
-    },
-    {
       "source": "FXStreet",
       "title": "Euro trades cautiously against US Dollar ahead of expected Fed rate hike",
       "link": "https://www.fxstreet.com/news/euro-trades-cautiously-against-us-dollar-ahead-of-expected-fed-rate-hike-202609161345",
@@ -78,20 +141,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
       "published": "2026-09-16 13:44:48",
       "ts": 1789566288
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says Brinker (EAT) “Never Fails to Wow Me”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-brinker-eat-134344027.html",
-      "published": "2026-09-16T13:43:44Z",
-      "ts": 1789566224
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Wavers Ahead Of Likely Fed Rate Increase; Nvidia, Intel, SK Hynix Rally (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T13:42:34Z",
-      "ts": 1789566154
     },
     {
       "source": "FXStreet",
@@ -113,13 +162,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-fed-pricing-creates-asymmetric-risks-bbh-202609161338",
       "published": "Wed, 16 Sep 2026 13:38:14 GMT",
       "ts": 1789565894
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CoStar (CSGP): Residential Strategy Unchanged Despite Persistent Market Skepticism",
-      "link": "https://finance.yahoo.com/real-estate/articles/costar-csgp-residential-strategy-unchanged-133542445.html",
-      "published": "2026-09-16T13:35:42Z",
-      "ts": 1789565742
     },
     {
       "source": "MarketWatch",
@@ -171,13 +213,6 @@
       "ts": 1789563780
     },
     {
-      "source": "MarketWatch",
-      "title": "Why a strategist who previously thought inflation was contained now sees potential for aggressive Fed rate hikes",
-      "link": "https://www.marketwatch.com/story/why-a-strategist-who-previously-thought-inflation-was-contained-now-sees-potential-for-aggressive-fed-rate-hikes-33ecaf04?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 13:01:00 GMT",
-      "ts": 1789563660
-    },
-    {
       "source": "FXStreet",
       "title": "Euro: Markets test ECB reaction function – Rabobank",
       "link": "https://www.fxstreet.com/news/euro-markets-test-ecb-reaction-function-rabobank-202609161300",
@@ -192,32 +227,11 @@
       "ts": 1789563600
     },
     {
-      "source": "MarketWatch",
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 13:00:00 GMT",
-      "ts": 1789563600
-    },
-    {
       "source": "FXStreet",
       "title": "United States Retail Sales rose by 1.2% MoM in August",
       "link": "https://www.fxstreet.com/news/united-states-retail-sales-rose-by-12-mom-in-august-202609161258",
       "published": "Wed, 16 Sep 2026 12:58:45 GMT",
       "ts": 1789563525
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The data-center backlash is so fierce that Republican candidates are willing to cross Trump",
-      "link": "https://www.marketwatch.com/story/the-data-center-backlash-is-so-fierce-that-republican-candidates-are-willing-to-cross-trump-9a6eaa03?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 12:54:00 GMT",
-      "ts": 1789563240
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Sterling stability challenged by narrowing carry – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-stability-challenged-by-narrowing-carry-deutsche-bank-202609161245",
-      "published": "Wed, 16 Sep 2026 12:45:32 GMT",
-      "ts": 1789562732
     },
     {
       "source": "CoinTelegraph",
@@ -360,13 +374,6 @@
       "ts": 1789546915
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
-      "published": "2026-09-16T08:03:56Z",
-      "ts": 1789545836
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-rout-4902406",
       "published": "2026-09-15 18:44:04",
       "ts": 1789497844
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Rich Dad Poor Dad author warns biggest crash in history has started",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
-      "published": "2026-09-15T17:26:03Z",
-      "ts": 1789493163
     }
   ]
 }
