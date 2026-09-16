@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T04:43:36.011786Z",
+  "updated": "2026-09-16T04:56:17.634791Z",
   "count": 60,
   "items": [
     {
@@ -389,6 +389,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Northern Air Cargo names permanent CEO",
+      "link": "https://finance.yahoo.com/small-business/articles/northern-air-cargo-names-permanent-171653326.html",
+      "published": "2026-09-14T17:16:53Z",
+      "ts": 1789406213
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Spot Bitcoin ETFs Lose $463M Amid ‘Difficult’ Time for Markets",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/spot-bitcoin-etfs-lose-463m-170500167.html",
+      "published": "2026-09-14T17:05:00Z",
+      "ts": 1789405500
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "RF Industries, Ltd. Q3 2026 Earnings Call Summary",
       "link": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-ltd-q3-2026-170334050.html",
       "published": "2026-09-14T17:03:34Z",
@@ -403,24 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "This Bull Call Spread In Oil Provides A Hedge Against Stocks And Bonds",
-      "link": "https://www.investors.com/research/options/oil-etf-uso-options-spread-hedge-stocks-bonds-inflation-trade-strategy-markets/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T17:01:11Z",
-      "ts": 1789405271
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oracle Stock Falls After Ellison Scraps Plan To Sell Up To $7.5 Billion In Stock",
-      "link": "https://www.investors.com/news/technology/oracle-stock-falls-ellison-sell-plan-canceled/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T17:00:17Z",
-      "ts": 1789405217
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Old-School Chart Analysis and Gamma Exposure Tell Us About QQQ This Fed Week",
-      "link": "https://finance.yahoo.com/markets/options/articles/old-school-chart-analysis-gamma-165534313.html",
-      "published": "2026-09-14T16:55:34Z",
-      "ts": 1789404934
+      "title": "Johnson & Johnson Targets Double-Digit Growth as STELARA Faces Biosimilar Competition",
+      "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-targets-double-digit-170211875.html",
+      "published": "2026-09-14T17:02:11Z",
+      "ts": 1789405331
     }
   ]
 }
