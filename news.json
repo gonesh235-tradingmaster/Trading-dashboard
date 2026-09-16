@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T03:42:37.297496Z",
+  "updated": "2026-09-16T03:55:15.517230Z",
   "count": 60,
   "items": [
     {
@@ -389,6 +389,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "How gold IRAs fit into a diversified retirement portfolio",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-gold-iras-fit-into-a-diversified-retirement-portfolio-162815731.html",
+      "published": "2026-09-14T16:28:15Z",
+      "ts": 1789403295
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is PPG Industries Stock Underperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ppg-industries-stock-underperforming-dow-161750825.html",
+      "published": "2026-09-14T16:17:50Z",
+      "ts": 1789402670
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Archer-Daniels-Midland Stock Outperforming the Nasdaq?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-daniels-midland-stock-outperforming-161317226.html",
       "published": "2026-09-14T16:13:17Z",
@@ -396,31 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-adds-68-million-ethereum-160225666.html",
+      "published": "2026-09-14T16:02:25Z",
+      "ts": 1789401745
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "A $90 Billion Reason to Buy Oracle Stock Now",
       "link": "https://finance.yahoo.com/markets/stocks/articles/90-billion-reason-buy-oracle-155458851.html",
       "published": "2026-09-14T15:54:58Z",
       "ts": 1789401298
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Producer Of Strategic Metal Soars 43% On Pentagon Deals",
-      "link": "https://www.investors.com/news/pentagon-department-of-war-elmet-group-elmt-stock-tungsten/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T15:53:28Z",
-      "ts": 1789401208
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/stocks-could-have-a-tough-road-ahead-if-the-fed-hikes-rates-chart-of-the-day-155218683.html",
-      "published": "2026-09-14T15:52:18Z",
-      "ts": 1789401138
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Is the Biggest Problem With SoundHound AI Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-problem-soundhound-ai-stock-155129865.html",
-      "published": "2026-09-14T15:51:29Z",
-      "ts": 1789401089
     }
   ]
 }
