@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-16T22:39:32.243299Z",
+  "updated": "2026-09-16T22:51:01.337039Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "0.2%: New Zealand’s Gross Domestic Product grows more than expected in Q2",
+      "link": "https://www.fxstreet.com/news/02-new-zealands-gross-domestic-product-grows-more-than-expected-in-q2-202609162246",
+      "published": "Wed, 16 Sep 2026 22:46:19 GMT",
+      "ts": 1789598779
+    },
     {
       "source": "MarketWatch",
       "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
@@ -183,13 +190,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
       "published": "2026-09-16 18:28:59",
       "ts": 1789583339
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Pound sinks as the Fed overtakes the BoE",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-back-above-britains-375-202609161809",
-      "published": "Wed, 16 Sep 2026 18:09:44 GMT",
-      "ts": 1789582184
     },
     {
       "source": "FXStreet",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "From Novo Nordisk to ‘Novo’: A Strategic Reset Amid Rising Lilly Pressure",
-      "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-novo-strategic-reset-143625079.html",
-      "published": "2026-09-15T14:36:25Z",
-      "ts": 1789482985
+      "title": "Lilly’s Foundayo Quickly Gains Ground in the Oral Weight-Loss Market",
+      "link": "https://finance.yahoo.com/healthcare/articles/lilly-foundayo-quickly-gains-ground-144208132.html",
+      "published": "2026-09-15T14:42:08Z",
+      "ts": 1789483328
     },
     {
       "source": "Yahoo Finance",
-      "title": "Salzgitter, Zelestra ink hybrid solar-battery PPA in Germany",
-      "link": "https://finance.yahoo.com/energy/articles/salzgitter-zelestra-ink-hybrid-solar-143549096.html",
-      "published": "2026-09-15T14:35:49Z",
-      "ts": 1789482949
+      "title": "Bank of America Warns of 10%+ Drop in Q3 Investment Banking Fees",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-warns-10-drop-143911257.html",
+      "published": "2026-09-15T14:39:11Z",
+      "ts": 1789483151
     }
   ]
 }
