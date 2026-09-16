@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-16T06:36:11.337019Z",
+  "updated": "2026-09-16T06:56:29.148032Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar holds steady ahead of Fed rate decision",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-holds-steady-ahead-of-fed-rate-decision-202609160645",
+      "published": "Wed, 16 Sep 2026 06:45:08 GMT",
+      "ts": 1789541108
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: Inflation and trade reshape INR – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indian-rupee-inflation-and-trade-reshape-inr-commerzbank-202609160644",
+      "published": "Wed, 16 Sep 2026 06:44:01 GMT",
+      "ts": 1789541041
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+      "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
+      "published": "Wed, 16 Sep 2026 06:42:22 +0000",
+      "ts": 1789540942
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
+      "link": "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 06:38:48 +0000",
+      "ts": 1789540728
+    },
     {
       "source": "FXStreet",
       "title": "British Pound remains on the defensive as UK CPI meets expectations",
@@ -59,20 +87,6 @@
       "ts": 1789536701
     },
     {
-      "source": "FXStreet",
-      "title": "WTI tumbles to near $100.00 on surprise US inventory build despite supply disruption worries",
-      "link": "https://www.fxstreet.com/news/wti-tumbles-to-near-10000-on-surprise-us-inventory-build-despite-supply-disruption-worries-202609160521",
-      "published": "Wed, 16 Sep 2026 05:21:44 GMT",
-      "ts": 1789536104
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen remains depressed near one-week low vs USD as traders await Fed, BoJ",
-      "link": "https://www.fxstreet.com/news/japanese-yen-remains-depressed-near-one-week-low-vs-usd-as-traders-await-fed-boj-202609160512",
-      "published": "Wed, 16 Sep 2026 05:12:42 GMT",
-      "ts": 1789535562
-    },
-    {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar holds gains, yen slips to one-week low",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
@@ -88,7 +102,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold sticks to modest gains below $4,350 as USD bulls await Fed rate decision",
+      "title": "Gold bulls seem hesitant below $4,350 as focus remains on Fed rate decision",
       "link": "https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409",
       "published": "Wed, 16 Sep 2026 04:09:49 GMT",
       "ts": 1789531789
@@ -297,25 +311,11 @@
       "ts": 1789492924
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 16:02:01 +0000",
-      "ts": 1789488121
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
       "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
       "published": "Tue, 15 Sep 2026 15:50:23 +0000",
       "ts": 1789487423
-    },
-    {
-      "source": "CoinDesk",
-      "title": "European Central Bank calls for merchants to participate in digital euro pilot",
-      "link": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
-      "published": "Tue, 15 Sep 2026 14:15:06 +0000",
-      "ts": 1789481706
     },
     {
       "source": "Yahoo Finance",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "AI Leaders Say Slow Down. IREN Says Compute Demand May Never Be Satisfied. Nvidia Sits in the Middle",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-leaders-slow-down-iren-190519922.html",
-      "published": "2026-09-14T19:05:19Z",
-      "ts": 1789412719
+      "title": "Affirm Stock Just Scored an Upgrade. Here's What to Know.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/affirm-stock-just-scored-upgrade-192425914.html",
+      "published": "2026-09-14T19:24:25Z",
+      "ts": 1789413865
     },
     {
       "source": "Yahoo Finance",
-      "title": "AI-Related Debt Sales Are Near $500 Billion. Meta and CoreWeave Show Why the Same Boom Creates Two Different Risks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-related-debt-sales-near-190243211.html",
-      "published": "2026-09-14T19:02:43Z",
-      "ts": 1789412563
+      "title": "HIMS Bulls Should Heed This Historic Chart Signal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hims-bulls-heed-historic-chart-192100582.html",
+      "published": "2026-09-14T19:21:00Z",
+      "ts": 1789413660
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Next Oil Shock Is Never the Last",
-      "link": "https://finance.yahoo.com/energy/articles/next-oil-shock-never-last-190000193.html",
-      "published": "2026-09-14T19:00:00Z",
-      "ts": 1789412400
+      "title": "Middle East Supply Constraints Lift Crude Oil Prices",
+      "link": "https://finance.yahoo.com/energy/articles/middle-east-supply-constraints-lift-191350297.html",
+      "published": "2026-09-14T19:13:50Z",
+      "ts": 1789413230
     },
     {
       "source": "Yahoo Finance",
-      "title": "CoreWeave Pays SOFR +5.5%. Nebius Pays +2.5%. AI Lenders Are Already Drawing a Line",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-pays-sofr-5-5-185757301.html",
-      "published": "2026-09-14T18:57:57Z",
-      "ts": 1789412277
+      "title": "Hotter US Weather Forecasts Boost Nat-Gas Prices",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/hotter-us-weather-forecasts-boost-191259102.html",
+      "published": "2026-09-14T19:12:59Z",
+      "ts": 1789413179
     }
   ]
 }
