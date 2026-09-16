@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-16T14:57:49.743595Z",
+  "updated": "2026-09-16T15:15:42.225796Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average huddles ahead of Fed action",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-huddles-ahead-of-fed-action-202609161514",
+      "published": "Wed, 16 Sep 2026 15:14:39 GMT",
+      "ts": 1789571679
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Consolidation with downside risks against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-consolidation-with-downside-risks-against-us-dollar-scotiabank-202609161509",
+      "published": "Wed, 16 Sep 2026 15:09:02 GMT",
+      "ts": 1789571342
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Fed repricing risk caps downside – Rabobank",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-risk-caps-downside-rabobank-202609161501",
+      "published": "Wed, 16 Sep 2026 15:01:18 GMT",
+      "ts": 1789570878
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Six signs a crypto winter is ending",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
+      "published": "Wed, 16 Sep 2026 14:59:34 +0000",
+      "ts": 1789570774
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Coinbase cuts trading fees for active users on Advanced platform",
+      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
+      "published": "2026-09-16 14:56:02",
+      "ts": 1789570562
+    },
     {
       "source": "FXStreet",
       "title": "British Pound: BoE repricing risk grows – BBH",
@@ -11,10 +46,31 @@
     },
     {
       "source": "FXStreet",
-      "title": "Australian Dollar holds ground against US Dollar as Fed decision looms",
+      "title": "Australian Dollar holds ground as Fed decision looms",
       "link": "https://www.fxstreet.com/news/australian-dollar-holds-ground-against-us-dollar-as-fed-decision-looms-202609161453",
       "published": "Wed, 16 Sep 2026 14:53:14 GMT",
       "ts": 1789570394
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "US Politicians Are Buying These Two Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-politicians-buying-two-stocks-144637200.html",
+      "published": "2026-09-16T14:46:37Z",
+      "ts": 1789569997
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dave & Buster’s (PLAY) Bets On New Leaders To Reverse Its Slide",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-buster-play-bets-leaders-144539009.html",
+      "published": "2026-09-16T14:45:39Z",
+      "ts": 1789569939
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Comfort Systems USA (FIX) Positioned to Benefit from Accelerated AI Investment",
+      "link": "https://finance.yahoo.com/technology/ai/articles/comfort-systems-usa-fix-positioned-144523131.html",
+      "published": "2026-09-16T14:45:23Z",
+      "ts": 1789569923
     },
     {
       "source": "FXStreet",
@@ -24,39 +80,25 @@
       "ts": 1789569677
     },
     {
+      "source": "Yahoo Finance",
+      "title": "The Fund Exited Insmed (INSM) After the Investment Thesis Played Out",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-exited-insmed-insm-investment-144040894.html",
+      "published": "2026-09-16T14:40:40Z",
+      "ts": 1789569640
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Apple Watch Rival Garmin Traverses Rocky Road Toward Buy Range",
+      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/garmin-stock-apple-watch-rival-buy-range/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T14:37:33Z",
+      "ts": 1789569453
+    },
+    {
       "source": "CoinDesk",
       "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
       "link": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
       "published": "Wed, 16 Sep 2026 14:35:43 +0000",
       "ts": 1789569343
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Revolution Medicines’ (RVMD) Promising Clinical Results Signal Potential Paradigm Shift",
-      "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-promising-clinical-143313578.html",
-      "published": "2026-09-16T14:33:13Z",
-      "ts": 1789569193
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Intel Stock Rises On Talk Of Fab Deal With SK Hynix",
-      "link": "https://www.investors.com/news/technology/intel-stock-possible-sk-hynix-fab-deal/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T14:26:31Z",
-      "ts": 1789568791
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Billionaire Ray Dalio’s Bridgewater’s and Cathie Wood’s ARK Portfolios: 2 Stocks They Both Own",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ray-dalio-bridgewater-cathie-142413224.html",
-      "published": "2026-09-16T14:24:13Z",
-      "ts": 1789568653
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Medline (MDLN) Slips Amid Broader MedTech Weakness",
-      "link": "https://finance.yahoo.com/healthcare/articles/medline-mdln-slips-amid-broader-142122686.html",
-      "published": "2026-09-16T14:21:22Z",
-      "ts": 1789568482
     },
     {
       "source": "FXStreet",
@@ -66,13 +108,6 @@
       "ts": 1789568339
     },
     {
-      "source": "Yahoo Finance",
-      "title": "How Lumentum Holdings (LITE) Powers the Next Generation of AI Data Demand",
-      "link": "https://finance.yahoo.com/technology/ai/articles/lumentum-holdings-lite-powers-next-141805542.html",
-      "published": "2026-09-16T14:18:05Z",
-      "ts": 1789568285
-    },
-    {
       "source": "MarketWatch",
       "title": "What happens if you never buy a house? What renters are gaining — and giving up",
       "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
@@ -80,32 +115,11 @@
       "ts": 1789568280
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Brad Gerstner Says Latest ‘Negativity’ Around AI is ‘Political Agenda’; See His 2 New AI Stock Picks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/brad-gerstner-says-latest-negativity-141757194.html",
-      "published": "2026-09-16T14:17:57Z",
-      "ts": 1789568277
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "American Battery Technology (ABAT) Turns A Profit, But Faces A New Export Threat",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-battery-technology-abat-turns-141323855.html",
-      "published": "2026-09-16T14:13:23Z",
-      "ts": 1789568003
-    },
-    {
       "source": "MarketWatch",
       "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
       "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 14:12:00 GMT",
       "ts": 1789567920
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Coda Octopus (CODA) Just Posted A First-Ever Profit Milestone",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coda-octopus-coda-just-posted-141014735.html",
-      "published": "2026-09-16T14:10:14Z",
-      "ts": 1789567814
     },
     {
       "source": "MarketWatch",
@@ -157,13 +171,6 @@
       "ts": 1789567035
     },
     {
-      "source": "FXStreet",
-      "title": "Euro trades cautiously against US Dollar ahead of expected Fed rate hike",
-      "link": "https://www.fxstreet.com/news/euro-trades-cautiously-against-us-dollar-ahead-of-expected-fed-rate-hike-202609161345",
-      "published": "Wed, 16 Sep 2026 13:45:51 GMT",
-      "ts": 1789566351
-    },
-    {
       "source": "Investing Crypto",
       "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
@@ -171,25 +178,11 @@
       "ts": 1789566288
     },
     {
-      "source": "FXStreet",
-      "title": "Silver price rebounds ahead of expected Fed rate hike, Warsh press conference",
-      "link": "https://www.fxstreet.com/news/silver-price-rebounds-ahead-of-expected-fed-rate-hike-warsh-press-conference-202609161341",
-      "published": "Wed, 16 Sep 2026 13:41:38 GMT",
-      "ts": 1789566098
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin drops below $76k as Clarity vote fails; Fed rate hike in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
       "published": "2026-09-16 13:40:40",
       "ts": 1789566040
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Fed pricing creates asymmetric risks – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-pricing-creates-asymmetric-risks-bbh-202609161338",
-      "published": "Wed, 16 Sep 2026 13:38:14 GMT",
-      "ts": 1789565894
     },
     {
       "source": "MarketWatch",
@@ -304,13 +297,6 @@
       "ts": 1789555724
     },
     {
-      "source": "CoinDesk",
-      "title": "Deutsche Bank close to debuting crypto custody for institutions",
-      "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
-      "published": "Wed, 16 Sep 2026 10:46:28 +0000",
-      "ts": 1789555588
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
       "link": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -374,6 +360,13 @@
       "ts": 1789546915
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
+      "published": "2026-09-16T08:03:56Z",
+      "ts": 1789545836
+    },
+    {
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
@@ -421,6 +414,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-rout-4902406",
       "published": "2026-09-15 18:44:04",
       "ts": 1789497844
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Rich Dad Poor Dad author warns biggest crash in history has started",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
+      "published": "2026-09-15T17:26:03Z",
+      "ts": 1789493163
     }
   ]
 }
