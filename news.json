@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-16T17:09:02.776325Z",
+  "updated": "2026-09-16T17:24:44.793693Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Jam (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T17:14:02Z",
+      "ts": 1789578842
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Wall Street bets on a rate hike, but the Fed decision could be a close call",
+      "link": "https://finance.yahoo.com/economy/policy/article/wall-street-bets-on-a-rate-hike-but-the-fed-decision-could-be-a-close-call-171212149.html",
+      "published": "2026-09-16T17:12:12Z",
+      "ts": 1789578732
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "S&P 500 Trucking Stock Craters On CFO's Warning",
+      "link": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T17:00:50Z",
+      "ts": 1789578050
+    },
     {
       "source": "MarketWatch",
       "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
       "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 17:00:00 GMT",
       "ts": 1789578000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bloom Energy Stock Jumps On 'Meaningful' Data-Center Catalyst",
+      "link": "https://www.investors.com/news/bloom-energy-stock-jumps-on-meaningful-data-center-catalyst/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T16:55:19Z",
+      "ts": 1789577719
     },
     {
       "source": "FXStreet",
@@ -59,46 +87,11 @@
       "ts": 1789575439
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Salesforce Stock Dips Ahead Of Investor Briefing Amid System Outage",
-      "link": "https://www.investors.com/news/technology/salesforce-stock-dips-ahead-of-investor-briefing-amid-system-outage/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T16:11:26Z",
-      "ts": 1789575086
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
-      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T16:10:31Z",
-      "ts": 1789575031
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Fed Will Be Hawkish. The S&P 500 May Prefer It. (Live Coverage)",
-      "link": "https://www.investors.com/news/federal-reserve-meeting-sept-warsh-10-year-treasury-yield-sp-500/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T16:10:25Z",
-      "ts": 1789575025
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AMD, IBD Stock Of The Day, Gains As Heavyweights Dismiss AI Slowdown",
-      "link": "https://www.investors.com/research/ibd-stock-of-the-day/amd-stock-rises-pundits-dismiss-ai-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T16:05:19Z",
-      "ts": 1789574719
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
       "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 16:03:35 +0000",
       "ts": 1789574615
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CareTrust REIT’s (CTRE) $400M Bet Extends A Record Year",
-      "link": "https://finance.yahoo.com/real-estate/articles/caretrust-reit-ctre-400m-bet-160209188.html",
-      "published": "2026-09-16T16:02:09Z",
-      "ts": 1789574529
     },
     {
       "source": "MarketWatch",
@@ -421,6 +414,13 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
       "published": "2026-09-15 20:38:48",
       "ts": 1789504728
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "XRP Falls 11% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-rout-4902406",
+      "published": "2026-09-15 18:44:04",
+      "ts": 1789497844
     }
   ]
 }
