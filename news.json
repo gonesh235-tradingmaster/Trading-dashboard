@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-16T07:13:36.728160Z",
+  "updated": "2026-09-16T07:31:09.069227Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index (DXY) eases from two-week top, holds above 99.50 ahead of Fed",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-eases-from-two-week-top-holds-above-9950-ahead-of-fed-202609160724",
+      "published": "Wed, 16 Sep 2026 07:24:51 GMT",
+      "ts": 1789543491
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: Consumer sectors under pressure from energy shock – Danske Bank",
+      "link": "https://www.fxstreet.com/news/equities-consumer-sectors-under-pressure-from-energy-shock-danske-bank-202609160720",
+      "published": "Wed, 16 Sep 2026 07:20:54 GMT",
+      "ts": 1789543254
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin breaks down below 200MA at $75,861: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-16 07:11:51",
+      "ts": 1789542711
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls below $76k as Clarity vote fails; Fed rate hike in focus",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
+      "published": "2026-09-16 07:11:12",
+      "ts": 1789542672
+    },
     {
       "source": "FXStreet",
       "title": "British Pound: Rising price pressures challenge BoE – Deutsche Bank",
@@ -50,20 +78,6 @@
       "link": "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 06:38:48 +0000",
       "ts": 1789540728
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound remains on the defensive as UK CPI meets expectations",
-      "link": "https://www.fxstreet.com/news/british-pound-remains-on-the-defensive-as-uk-cpi-meets-expectations-202609160629",
-      "published": "Wed, 16 Sep 2026 06:29:15 GMT",
-      "ts": 1789540155
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Downside pressure toward 1.1490 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-downside-pressure-toward-11490-against-us-dollar-uob-202609160619",
-      "published": "Wed, 16 Sep 2026 06:19:14 GMT",
-      "ts": 1789539554
     },
     {
       "source": "CoinDesk",
@@ -255,13 +269,6 @@
       "ts": 1789502597
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin breaks $76,400 support with bearish momentum: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-15 19:18:37",
-      "ts": 1789499917
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto industry reacts after Clarity Act fails Senate vote",
       "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
@@ -396,31 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "NVO Stock Alert: What to Know as Novo Nordisk Rebrands to 'Novo'",
-      "link": "https://finance.yahoo.com/healthcare/articles/nvo-stock-alert-know-novo-193142160.html",
-      "published": "2026-09-14T19:31:42Z",
-      "ts": 1789414302
+      "title": "Acquisition Momentum Offset by Profitability Headwinds for Mission Produce (AVO)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/acquisition-momentum-offset-profitability-headwinds-201205075.html",
+      "published": "2026-09-14T20:12:05Z",
+      "ts": 1789416725
     },
     {
       "source": "Yahoo Finance",
-      "title": "CIBC (CM) Sees Expansion of Actively Managed ETF Lineup Through Asset Management Arm",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cibc-cm-sees-expansion-actively-192751604.html",
-      "published": "2026-09-14T19:27:51Z",
-      "ts": 1789414071
+      "title": "You’re going to pay more for health insurance in 2027 as employers see costs jumping for the fifth straight year",
+      "link": "https://finance.yahoo.com/healthcare/articles/going-pay-more-health-insurance-200554070.html",
+      "published": "2026-09-14T20:05:54Z",
+      "ts": 1789416354
     },
     {
       "source": "Yahoo Finance",
-      "title": "Affirm Stock Just Scored an Upgrade. Here's What to Know.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/affirm-stock-just-scored-upgrade-192425914.html",
-      "published": "2026-09-14T19:24:25Z",
-      "ts": 1789413865
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "HIMS Bulls Should Heed This Historic Chart Signal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hims-bulls-heed-historic-chart-192100582.html",
-      "published": "2026-09-14T19:21:00Z",
-      "ts": 1789413660
+      "title": "What Accuray’s (ARAY) $8 Million RaySearch Deal Means for Its Adaptive Therapy Push",
+      "link": "https://finance.yahoo.com/healthcare/articles/accuray-aray-8-million-raysearch-200349571.html",
+      "published": "2026-09-14T20:03:49Z",
+      "ts": 1789416229
     }
   ]
 }
