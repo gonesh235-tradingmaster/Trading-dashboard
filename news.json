@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-16T05:27:14.867672Z",
+  "updated": "2026-09-16T05:42:06.688430Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee clings to recent losses ahead of Fed’s policy",
+      "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-recent-losses-ahead-of-feds-policy-202609160531",
+      "published": "Wed, 16 Sep 2026 05:31:41 GMT",
+      "ts": 1789536701
+    },
     {
       "source": "FXStreet",
       "title": "WTI tumbles to near $100.00 on surprise US inventory build despite supply disruption worries",
@@ -60,7 +67,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold gains some positive traction as USD bulls turn cautious ahead of Fed rate decision",
+      "title": "Gold sticks to modest gains below $4,350 as USD bulls await Fed rate decision",
       "link": "https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409",
       "published": "Wed, 16 Sep 2026 04:09:49 GMT",
       "ts": 1789531789
@@ -92,13 +99,6 @@
       "link": "https://www.fxstreet.com/news/us-treasury-yields-take-a-breather-after-recent-rally-feds-policy-in-focus-202609160317",
       "published": "Wed, 16 Sep 2026 03:17:29 GMT",
       "ts": 1789528649
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar drops as RBNZ’s Silk to exit in December",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-drops-as-rbnzs-silk-to-exit-in-december-202609160258",
-      "published": "Wed, 16 Sep 2026 02:58:38 GMT",
-      "ts": 1789527518
     },
     {
       "source": "CoinTelegraph",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dell Stock Is Up 331% Over the Past Year and Still Could Run Higher",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-331-over-past-174502244.html",
-      "published": "2026-09-14T17:45:02Z",
-      "ts": 1789407902
+      "title": "Cattle Bulls Are Back in Business as Futures Prices Rise",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/cattle-bulls-back-business-futures-182014710.html",
+      "published": "2026-09-14T18:20:14Z",
+      "ts": 1789410014
     },
     {
       "source": "Yahoo Finance",
-      "title": "Chili's Stays Hot. Its Owner Is IBD's Stock Of The Day.",
-      "link": "https://www.investors.com/research/ibd-stock-of-the-day/eat-stock-analysis-brinker-international-chilis/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T17:40:53Z",
-      "ts": 1789407653
+      "title": "Benchmark Yield Hits 5%. How Will Stocks Respond To A Fed Rate Hike?",
+      "link": "https://www.investors.com/news/stock-market-10-year-treasury-yield/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T18:05:56Z",
+      "ts": 1789409156
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dave Ramsey Has a Message for Small Business Owners: 'If Your Family Is Cray Cray, Expect the Business to Be Cray Cray'",
-      "link": "https://finance.yahoo.com/small-business/articles/dave-ramsey-message-small-business-173022361.html",
-      "published": "2026-09-14T17:30:22Z",
-      "ts": 1789407022
+      "title": "What Anthropic's AI Slowdown Call Could Mean For Cloud Giants Amazon, Microsoft, Google",
+      "link": "https://www.investors.com/news/technology/anthropic-ai-slowdown-amazon-microsoft-google/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T18:01:39Z",
+      "ts": 1789408899
     },
     {
       "source": "Yahoo Finance",
-      "title": "Unusually High Volume in Deep Out-of-the-Money Vertiv Call Options Shows Investors Bullish on VRT",
-      "link": "https://finance.yahoo.com/markets/options/articles/unusually-high-volume-deep-money-173002945.html",
-      "published": "2026-09-14T17:30:02Z",
-      "ts": 1789407002
+      "title": "Debt settlement vs. bankruptcy: How to choose",
+      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/debt-settlement-vs-bankruptcy-175657072.html",
+      "published": "2026-09-14T17:56:57Z",
+      "ts": 1789408617
     }
   ]
 }
