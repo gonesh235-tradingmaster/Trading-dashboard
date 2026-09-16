@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-16T16:11:01.892884Z",
+  "updated": "2026-09-16T16:27:31.783167Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
+      "link": "https://www.marketwatch.com/story/classic-budgeting-rules-dont-work-anymore-even-if-your-household-makes-100-000-heres-what-does-cfb235a8?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 16:24:00 GMT",
+      "ts": 1789575840
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
+      "link": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
+      "published": "Wed, 16 Sep 2026 16:21:44 +0000",
+      "ts": 1789575704
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "SEC chief vows action on crypto rules after Senate bill fails",
+      "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
+      "published": "2026-09-16 16:20:11",
+      "ts": 1789575611
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar steadies against US Dollar as markets await Fed decision",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-against-us-dollar-as-markets-await-fed-decision-202609161617",
+      "published": "Wed, 16 Sep 2026 16:17:19 GMT",
+      "ts": 1789575439
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
+      "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 16:03:35 +0000",
+      "ts": 1789574615
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitget-publishes-45th-consecutive-monthly-160021181.html",
+      "published": "2026-09-16T16:00:21Z",
+      "ts": 1789574421
+    },
     {
       "source": "MarketWatch",
       "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
@@ -17,11 +59,32 @@
       "ts": 1789574400
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Robust US retail sales underscore economy's resilience; inflation pressures building",
+      "link": "https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html",
+      "published": "2026-09-16T15:57:35Z",
+      "ts": 1789574255
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Leads Rebound As Fed Rate Decision Looms; This Industry Surges (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:55:29Z",
+      "ts": 1789574129
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
       "link": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 15:52:17 +0000",
       "ts": 1789573937
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Elastic (ESTC) Bets Big On AI Search With New Database",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elastic-estc-bets-big-ai-154753742.html",
+      "published": "2026-09-16T15:47:53Z",
+      "ts": 1789573673
     },
     {
       "source": "Yahoo Finance",
@@ -66,39 +129,11 @@
       "ts": 1789572341
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Radiant Logistics (RLGT) Bets $100M On A Freight Rebound",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-bets-100m-152433522.html",
-      "published": "2026-09-16T15:24:33Z",
-      "ts": 1789572273
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "S&P 500 Trucking Stock Craters On CFO's Warning",
-      "link": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T15:16:13Z",
-      "ts": 1789571773
-    },
-    {
       "source": "FXStreet",
       "title": "Dow Jones Industrial Average huddles ahead of Fed action",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-huddles-ahead-of-fed-action-202609161514",
       "published": "Wed, 16 Sep 2026 15:14:39 GMT",
       "ts": 1789571679
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cathie Wood Projects $10 Trillion In SpaceX Starship Revenue By 2030",
-      "link": "https://www.investors.com/news/cathie-wood-ark-spacex-starship-revenue-estimate-elon-msuk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T15:10:54Z",
-      "ts": 1789571454
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq, S&P 500 Up With Fed Decision Looming; Intel, Micron, Sandisk Rise (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T15:10:43Z",
-      "ts": 1789571443
     },
     {
       "source": "FXStreet",
@@ -155,13 +190,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
       "published": "Wed, 16 Sep 2026 14:35:43 +0000",
       "ts": 1789569343
-    },
-    {
-      "source": "FXStreet",
-      "title": "United Kingdom: BoE hold view reinforced – Nomura",
-      "link": "https://www.fxstreet.com/news/united-kingdom-boe-hold-view-reinforced-nomura-202609161418",
-      "published": "Wed, 16 Sep 2026 14:18:59 GMT",
-      "ts": 1789568339
     },
     {
       "source": "MarketWatch",
@@ -255,13 +283,6 @@
       "ts": 1789565400
     },
     {
-      "source": "MarketWatch",
-      "title": "Retail sales surged toward the end of summer. The U.S. economy has plenty of momentum.",
-      "link": "https://www.marketwatch.com/story/retail-sales-surged-toward-the-end-of-summer-economy-still-has-plenty-of-momentum-cdf667b2?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 13:22:00 GMT",
-      "ts": 1789564920
-    },
-    {
       "source": "CoinDesk",
       "title": "A stolen coin can be returned. A leaked identity cannot.",
       "link": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
@@ -318,13 +339,6 @@
       "ts": 1789556400
     },
     {
-      "source": "CoinDesk",
-      "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
-      "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
-      "published": "Wed, 16 Sep 2026 11:00:00 +0000",
-      "ts": 1789556400
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
       "link": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -344,13 +358,6 @@
       "link": "https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 09:58:48 +0000",
       "ts": 1789552728
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand",
-      "link": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 09:55:16 +0000",
-      "ts": 1789552516
     },
     {
       "source": "Investing Forex",
@@ -381,6 +388,13 @@
       "ts": 1789546915
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
+      "published": "2026-09-16T08:03:56Z",
+      "ts": 1789545836
+    },
+    {
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
@@ -407,20 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
       "published": "2026-09-15 21:49:19",
       "ts": 1789508959
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar hits two-week high as traders gear up for anticipated Fed hike on Wednesday",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
-      "published": "2026-09-15 20:38:48",
-      "ts": 1789504728
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "XRP Falls 11% In Rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-rout-4902406",
-      "published": "2026-09-15 18:44:04",
-      "ts": 1789497844
     }
   ]
 }
