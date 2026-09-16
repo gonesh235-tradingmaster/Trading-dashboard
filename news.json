@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-16T04:10:33.205570Z",
+  "updated": "2026-09-16T04:27:41.823070Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Holds gains above 110.50, but maintains bearish bias below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-holds-gains-above-11050-but-maintains-bearish-bias-below-100-day-sma-202609160427",
+      "published": "Wed, 16 Sep 2026 04:27:01 GMT",
+      "ts": 1789532821
+    },
     {
       "source": "FXStreet",
       "title": "Gold gains some positive traction as USD bulls turn cautious ahead of Fed rate decision",
@@ -15,6 +22,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
       "published": "Wed, 16 Sep 2026 04:07:27 +0000",
       "ts": 1789531647
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
+      "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 04:05:39 +0000",
+      "ts": 1789531539
     },
     {
       "source": "CoinDesk",
@@ -85,13 +99,6 @@
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-gains-ground-ahead-of-fed-interest-rate-decision-202609160143",
       "published": "Wed, 16 Sep 2026 01:43:03 GMT",
       "ts": 1789522983
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro sticks to losses near one-month low as USD bulls retain control ahead of Fed decision",
-      "link": "https://www.fxstreet.com/news/euro-sticks-to-losses-near-one-month-low-as-usd-bulls-retain-control-ahead-of-fed-decision-202609160139",
-      "published": "Wed, 16 Sep 2026 01:39:35 GMT",
-      "ts": 1789522775
     },
     {
       "source": "MarketWatch",
@@ -290,13 +297,6 @@
       "ts": 1789487423
     },
     {
-      "source": "CoinTelegraph",
-      "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
-      "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 15:21:26 +0000",
-      "ts": 1789485686
-    },
-    {
       "source": "CoinDesk",
       "title": "European Central Bank calls for merchants to participate in digital euro pilot",
       "link": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
@@ -389,6 +389,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Oracle Stock Falls After Ellison Scraps Plan To Sell Up To $7.5 Billion In Stock",
+      "link": "https://www.investors.com/news/technology/oracle-stock-falls-ellison-sell-plan-canceled/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T17:00:17Z",
+      "ts": 1789405217
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What Old-School Chart Analysis and Gamma Exposure Tell Us About QQQ This Fed Week",
+      "link": "https://finance.yahoo.com/markets/options/articles/old-school-chart-analysis-gamma-165534313.html",
+      "published": "2026-09-14T16:55:34Z",
+      "ts": 1789404934
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain",
       "link": "https://www.investors.com/news/ai-nvidia-broadcom-software-stocks-servicenow-workday-salesforce-micron/?src=A00220&yptr=yahoo",
       "published": "2026-09-14T16:38:47Z",
@@ -396,31 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Target hires ex-Hilton CMO as chief marketing and guest experience officer",
+      "link": "https://finance.yahoo.com/media-advertising/articles/target-hires-ex-hilton-cmo-163714703.html",
+      "published": "2026-09-14T16:37:14Z",
+      "ts": 1789403834
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO",
       "link": "https://finance.yahoo.com/technology/ai/articles/chinas-deepseek-hires-dealmaker-cfo-163408342.html",
       "published": "2026-09-14T16:36:46Z",
       "ts": 1789403806
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mexico-Based Energy Leader Vista Eyes Buy Point As Oil Prices Surge On Middle East Conflict",
-      "link": "https://www.investors.com/research/vista-stock-vist-energy-oil-prices/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T16:30:10Z",
-      "ts": 1789403410
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI Is Supercharging Cybersecurity Stocks. Here Are Wedbush’s 2 Favorite Picks.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-supercharging-cybersecurity-stocks-wedbush-162945505.html",
-      "published": "2026-09-14T16:29:45Z",
-      "ts": 1789403385
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How gold IRAs fit into a diversified retirement portfolio",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-gold-iras-fit-into-a-diversified-retirement-portfolio-162815731.html",
-      "published": "2026-09-14T16:28:15Z",
-      "ts": 1789403295
     }
   ]
 }
