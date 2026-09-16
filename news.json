@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-16T19:38:55.214473Z",
+  "updated": "2026-09-16T19:50:35.483990Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Federal Reserve sends Gold to fresh one-month lows",
+      "link": "https://www.fxstreet.com/news/us-federal-reserve-sends-gold-to-fresh-one-month-lows-202609161943",
+      "published": "Wed, 16 Sep 2026 19:43:08 GMT",
+      "ts": 1789587788
+    },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
@@ -120,13 +127,6 @@
       "link": "https://www.marketwatch.com/story/microns-stock-could-climb-70-higher-thanks-to-a-factor-thats-been-largely-absent-so-far-2489f2cc?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 18:26:00 GMT",
       "ts": 1789583160
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar slides below 0.7100 as Warsh strikes hawkish tone",
-      "link": "https://www.fxstreet.com/news/australian-dollar-falls-against-us-dollar-after-hawkish-fed-rate-hike-202609161823",
-      "published": "Wed, 16 Sep 2026 18:23:34 GMT",
-      "ts": 1789583014
     },
     {
       "source": "MarketWatch",
