@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-16T08:29:04.815271Z",
+  "updated": "2026-09-16T08:46:31.054862Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro gains against Canadian Dollar as oil prices retreat on rising US crude inventories",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-as-oil-prices-retreat-on-rising-us-crude-inventories-202609160839",
+      "published": "Wed, 16 Sep 2026 08:39:23 GMT",
+      "ts": 1789547963
+    },
+    {
+      "source": "FXStreet",
+      "title": "Oil: Supply risks and central bank pressures – Rabobank",
+      "link": "https://www.fxstreet.com/news/oil-supply-risks-and-central-bank-pressures-rabobank-202609160837",
+      "published": "Wed, 16 Sep 2026 08:37:42 GMT",
+      "ts": 1789547862
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ECB seeks online merchants for 2027 digital euro pilot",
+      "link": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 08:36:44 +0000",
+      "ts": 1789547804
+    },
     {
       "source": "MarketWatch",
       "title": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
@@ -22,6 +43,13 @@
       "link": "https://www.fxstreet.com/news/norwegian-krone-norges-bank-weighs-inflation-and-growth-commerzbank-202609160816",
       "published": "Wed, 16 Sep 2026 08:16:01 GMT",
       "ts": 1789546561
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum, Base give up on common wallet standard after months of talks",
+      "link": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
+      "published": "Wed, 16 Sep 2026 08:07:59 +0000",
+      "ts": 1789546079
     },
     {
       "source": "FXStreet",
@@ -80,25 +108,11 @@
       "ts": 1789543836
     },
     {
-      "source": "FXStreet",
-      "title": "United States Dollar Index (DXY) eases from two-week top, holds above 99.50 ahead of Fed",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-eases-from-two-week-top-holds-above-9950-ahead-of-fed-202609160724",
-      "published": "Wed, 16 Sep 2026 07:24:51 GMT",
-      "ts": 1789543491
-    },
-    {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar holds near highs, yen steadies ahead of Fed",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
       "published": "2026-09-16 07:21:09",
       "ts": 1789543269
-    },
-    {
-      "source": "FXStreet",
-      "title": "Equities: Consumer sectors under pressure from energy shock – Danske Bank",
-      "link": "https://www.fxstreet.com/news/equities-consumer-sectors-under-pressure-from-energy-shock-danske-bank-202609160720",
-      "published": "Wed, 16 Sep 2026 07:20:54 GMT",
-      "ts": 1789543254
     },
     {
       "source": "Investing Crypto",
@@ -337,20 +351,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
       "published": "2026-09-15T17:26:03Z",
       "ts": 1789493163
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Binance adds 11 US-listed ETFs to wealth management offering",
-      "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 17:22:04 +0000",
-      "ts": 1789492924
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
-      "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
-      "published": "Tue, 15 Sep 2026 15:50:23 +0000",
-      "ts": 1789487423
     },
     {
       "source": "Yahoo Finance",
