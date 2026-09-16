@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-16T09:10:06.392686Z",
+  "updated": "2026-09-16T09:27:12.885505Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Higher yields and oil support – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-and-oil-support-mufg-202609160923",
+      "published": "Wed, 16 Sep 2026 09:23:30 GMT",
+      "ts": 1789550610
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I am drowning in debt’: I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 09:15:00 GMT",
+      "ts": 1789550100
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Limited losses within 153.30–156.30 band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-limited-losses-within-15330-15630-band-against-us-dollar-uob-202609160912",
+      "published": "Wed, 16 Sep 2026 09:12:11 GMT",
+      "ts": 1789549931
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What history says about longer-term bond yields after the first Fed hike",
+      "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 09:11:00 GMT",
+      "ts": 1789549860
+    },
     {
       "source": "FXStreet",
       "title": "Eurozone Industrial Production contracts 0.1% in July",
@@ -50,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-as-oil-prices-retreat-on-rising-us-crude-inventories-202609160839",
       "published": "Wed, 16 Sep 2026 08:39:23 GMT",
       "ts": 1789547963
-    },
-    {
-      "source": "FXStreet",
-      "title": "Oil: Supply risks and central bank pressures – Rabobank",
-      "link": "https://www.fxstreet.com/news/oil-supply-risks-and-central-bank-pressures-rabobank-202609160837",
-      "published": "Wed, 16 Sep 2026 08:37:42 GMT",
-      "ts": 1789547862
     },
     {
       "source": "CoinTelegraph",
@@ -164,13 +185,6 @@
       "ts": 1789534100
     },
     {
-      "source": "FXStreet",
-      "title": "Gold traders seem noncommittal below $4,350; eyes Fed rate decision for fresh impetus",
-      "link": "https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409",
-      "published": "Wed, 16 Sep 2026 04:09:49 GMT",
-      "ts": 1789531789
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
       "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
@@ -269,13 +283,6 @@
       "ts": 1789506000
     },
     {
-      "source": "MarketWatch",
-      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
-      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 20:47:00 GMT",
-      "ts": 1789505220
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar hits two-week high as traders gear up for anticipated Fed hike on Wednesday",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
@@ -288,13 +295,6 @@
       "link": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 20:37:34 +0000",
       "ts": 1789504654
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
-      "link": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 20:36:00 GMT",
-      "ts": 1789504560
     },
     {
       "source": "CoinDesk",
