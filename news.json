@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-16T16:43:22.829420Z",
+  "updated": "2026-09-16T16:55:12.577968Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI pulls back below $100 as Saudi Arabia steps up efforts to restore Oil flows",
+      "link": "https://www.fxstreet.com/news/wti-pulls-back-below-100-as-saudi-arabia-steps-up-efforts-to-restore-oil-flows-202609161652",
+      "published": "Wed, 16 Sep 2026 16:52:46 GMT",
+      "ts": 1789577566
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Guardant Health Nears Buy Point As Sales Outlook Brightens",
+      "link": "https://www.investors.com/research/cancer-stock-guardant-health-gh/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T16:39:37Z",
+      "ts": 1789576777
+    },
     {
       "source": "MarketWatch",
       "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
@@ -73,13 +87,6 @@
       "ts": 1789574529
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitget-publishes-45th-consecutive-monthly-160021181.html",
-      "published": "2026-09-16T16:00:21Z",
-      "ts": 1789574421
-    },
-    {
       "source": "MarketWatch",
       "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
@@ -92,13 +99,6 @@
       "link": "https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 16:00:00 GMT",
       "ts": 1789574400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Robust US retail sales underscore economy's resilience; inflation pressures building",
-      "link": "https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html",
-      "published": "2026-09-16T15:57:35Z",
-      "ts": 1789574255
     },
     {
       "source": "CoinTelegraph",
@@ -176,13 +176,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-holds-ground-against-us-dollar-as-fed-decision-looms-202609161453",
       "published": "Wed, 16 Sep 2026 14:53:14 GMT",
       "ts": 1789570394
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar: BoC hawkish tilt and key levels – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hawkish-tilt-and-key-levels-scotiabank-202609161441",
-      "published": "Wed, 16 Sep 2026 14:41:17 GMT",
-      "ts": 1789569677
     },
     {
       "source": "CoinDesk",
@@ -386,6 +379,13 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
       "published": "2026-09-16 08:21:55",
       "ts": 1789546915
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
+      "published": "2026-09-16T08:03:56Z",
+      "ts": 1789545836
     },
     {
       "source": "Investing Forex",
