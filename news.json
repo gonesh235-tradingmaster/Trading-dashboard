@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-16T01:39:00.292379Z",
+  "updated": "2026-09-16T01:52:29.624754Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index gains ground ahead of Fed interest rate decision",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gains-ground-ahead-of-fed-interest-rate-decision-202609160143",
+      "published": "Wed, 16 Sep 2026 01:43:03 GMT",
+      "ts": 1789522983
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro sticks to losses near one-month low as USD bulls retain control ahead of Fed decision",
+      "link": "https://www.fxstreet.com/news/euro-sticks-to-losses-near-one-month-low-as-usd-bulls-retain-control-ahead-of-fed-decision-202609160139",
+      "published": "Wed, 16 Sep 2026 01:39:35 GMT",
+      "ts": 1789522775
+    },
     {
       "source": "FXStreet",
       "title": "British Pound softens below 1.3500 as traders await UK CPI data, Fed rate decision",
@@ -64,20 +78,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-as-risk-off-mood-meets-fomc-countdown-202609152255",
       "published": "Tue, 15 Sep 2026 22:55:22 GMT",
       "ts": 1789512922
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Euro edges lower as Frankfurt's hike takes effect the day Washington votes",
-      "link": "https://www.fxstreet.com/news/the-euro-edges-lower-as-frankfurts-hike-takes-effect-the-day-washington-votes-202609152226",
-      "published": "Tue, 15 Sep 2026 22:26:54 GMT",
-      "ts": 1789511214
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Rebounds above 207.00 as oversold risk eases",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebounds-above-20700-as-oversold-risk-eases-202609152222",
-      "published": "Tue, 15 Sep 2026 22:22:04 GMT",
-      "ts": 1789510924
     },
     {
       "source": "MarketWatch",
@@ -396,6 +396,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Kalshi To Offer U.S. Stock And Commodities Trading",
+      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-offer-u-stock-commodities-140300562.html",
+      "published": "2026-09-14T14:03:00Z",
+      "ts": 1789394580
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Strategy Again Leaves Bitcoin Holdings Unchanged",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-again-leaves-bitcoin-holdings-140100959.html",
+      "published": "2026-09-14T14:01:00Z",
+      "ts": 1789394460
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "How Is ON Semiconductor's Stock Performance Compared to Other Semiconductor Stocks?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductors-stock-performance-compared-other-140001530.html",
       "published": "2026-09-14T14:00:01Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/dario-elon-musk-more-top-135024610.html",
       "published": "2026-09-14T13:50:24Z",
       "ts": 1789393824
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
-      "published": "2026-09-14T13:45:19Z",
-      "ts": 1789393519
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is CDW Corporation Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cdw-corporation-stock-underperforming-p-134157757.html",
-      "published": "2026-09-14T13:41:57Z",
-      "ts": 1789393317
     }
   ]
 }
