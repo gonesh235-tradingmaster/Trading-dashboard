@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-16T06:56:29.148032Z",
+  "updated": "2026-09-16T07:13:36.728160Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Rising price pressures challenge BoE – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/british-pound-rising-price-pressures-challenge-boe-deutsche-bank-202609160709",
+      "published": "Wed, 16 Sep 2026 07:09:22 GMT",
+      "ts": 1789542562
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro ticks higher against British Pound following UK CPI data",
+      "link": "https://www.fxstreet.com/news/euro-ticks-higher-against-british-pound-following-uk-cpi-data-202609160707",
+      "published": "Wed, 16 Sep 2026 07:07:06 GMT",
+      "ts": 1789542426
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Trades with caution ahead of Fed’s policy outcome",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-trades-with-caution-ahead-of-feds-policy-outcome-202609160657",
+      "published": "Wed, 16 Sep 2026 06:57:13 GMT",
+      "ts": 1789541833
+    },
     {
       "source": "FXStreet",
       "title": "Forex Today: US Dollar holds steady ahead of Fed rate decision",
@@ -45,13 +66,6 @@
       "ts": 1789539554
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound faces selling pressure even as UK CPI rise in line with estimates",
-      "link": "https://www.fxstreet.com/news/british-pound-faces-selling-pressure-even-as-uk-cpi-rise-in-line-with-estimates-202609160612",
-      "published": "Wed, 16 Sep 2026 06:12:48 GMT",
-      "ts": 1789539168
-    },
-    {
       "source": "CoinDesk",
       "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
       "link": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
@@ -67,21 +81,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Indonesian Rupiah gains as US Dollar weakens ahead of Fed rate decision",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-as-us-dollar-weakens-ahead-of-fed-rate-decision-202609160549",
-      "published": "Wed, 16 Sep 2026 05:49:51 GMT",
-      "ts": 1789537791
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: 1.1500 to remain key support level for Fed’s Day",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-11500-to-remain-key-support-level-for-feds-day-202609160547",
-      "published": "Wed, 16 Sep 2026 05:47:32 GMT",
-      "ts": 1789537652
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee clings to recent losses ahead of Fed’s policy",
+      "title": "Indian Rupee trades near seven-week low ahead of Fed's policy decision",
       "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-recent-losses-ahead-of-feds-policy-202609160531",
       "published": "Wed, 16 Sep 2026 05:31:41 GMT",
       "ts": 1789536701
@@ -396,6 +396,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "NVO Stock Alert: What to Know as Novo Nordisk Rebrands to 'Novo'",
+      "link": "https://finance.yahoo.com/healthcare/articles/nvo-stock-alert-know-novo-193142160.html",
+      "published": "2026-09-14T19:31:42Z",
+      "ts": 1789414302
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CIBC (CM) Sees Expansion of Actively Managed ETF Lineup Through Asset Management Arm",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cibc-cm-sees-expansion-actively-192751604.html",
+      "published": "2026-09-14T19:27:51Z",
+      "ts": 1789414071
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Affirm Stock Just Scored an Upgrade. Here's What to Know.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/affirm-stock-just-scored-upgrade-192425914.html",
       "published": "2026-09-14T19:24:25Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/hims-bulls-heed-historic-chart-192100582.html",
       "published": "2026-09-14T19:21:00Z",
       "ts": 1789413660
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Middle East Supply Constraints Lift Crude Oil Prices",
-      "link": "https://finance.yahoo.com/energy/articles/middle-east-supply-constraints-lift-191350297.html",
-      "published": "2026-09-14T19:13:50Z",
-      "ts": 1789413230
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Hotter US Weather Forecasts Boost Nat-Gas Prices",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/hotter-us-weather-forecasts-boost-191259102.html",
-      "published": "2026-09-14T19:12:59Z",
-      "ts": 1789413179
     }
   ]
 }
