@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-16T06:13:30.185832Z",
+  "updated": "2026-09-16T06:36:11.337019Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound remains on the defensive as UK CPI meets expectations",
+      "link": "https://www.fxstreet.com/news/british-pound-remains-on-the-defensive-as-uk-cpi-meets-expectations-202609160629",
+      "published": "Wed, 16 Sep 2026 06:29:15 GMT",
+      "ts": 1789540155
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Downside pressure toward 1.1490 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-downside-pressure-toward-11490-against-us-dollar-uob-202609160619",
+      "published": "Wed, 16 Sep 2026 06:19:14 GMT",
+      "ts": 1789539554
+    },
     {
       "source": "FXStreet",
       "title": "British Pound faces selling pressure even as UK CPI rise in line with estimates",
@@ -74,20 +88,6 @@
     },
     {
       "source": "FXStreet",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609160435",
-      "published": "Wed, 16 Sep 2026 04:35:30 GMT",
-      "ts": 1789533330
-    },
-    {
-      "source": "FXStreet",
-      "title": "Asian stocks trade with modest gains as investors remain cautious ahead of Fed decision",
-      "link": "https://www.fxstreet.com/news/asian-stocks-trade-with-modest-gains-as-investors-remain-cautious-ahead-of-fed-decision-202609160431",
-      "published": "Wed, 16 Sep 2026 04:31:56 GMT",
-      "ts": 1789533116
-    },
-    {
-      "source": "FXStreet",
       "title": "Gold sticks to modest gains below $4,350 as USD bulls await Fed rate decision",
       "link": "https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409",
       "published": "Wed, 16 Sep 2026 04:09:49 GMT",
@@ -123,7 +123,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Breaking: United Kingdom CPI inflation rises to 3.1% YoY in August, as expected",
+      "title": "United Kingdom CPI inflation jumps to 3.1% YoY in August, as expected",
       "link": "https://www.fxstreet.com/news/august-uk-inflation-report-expected-to-show-rising-inflation-202609160200",
       "published": "Wed, 16 Sep 2026 02:00:00 GMT",
       "ts": 1789524000
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Alphyn Capital on Its Special-Situation Investment: AnaptysBio (ANAB)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphyn-capital-special-situation-investment-143413266.html",
-      "published": "2026-09-14T18:34:13Z",
-      "ts": 1789410853
+      "title": "AI Leaders Say Slow Down. IREN Says Compute Demand May Never Be Satisfied. Nvidia Sits in the Middle",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-leaders-slow-down-iren-190519922.html",
+      "published": "2026-09-14T19:05:19Z",
+      "ts": 1789412719
     },
     {
       "source": "Yahoo Finance",
-      "title": "S&P 500: Q4 Strength or Election Risk?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-q4-strength-election-183224128.html",
-      "published": "2026-09-14T18:32:24Z",
-      "ts": 1789410744
+      "title": "AI-Related Debt Sales Are Near $500 Billion. Meta and CoreWeave Show Why the Same Boom Creates Two Different Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-related-debt-sales-near-190243211.html",
+      "published": "2026-09-14T19:02:43Z",
+      "ts": 1789412563
     },
     {
       "source": "Yahoo Finance",
-      "title": "Cattle Bulls Are Back in Business as Futures Prices Rise",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/cattle-bulls-back-business-futures-182014710.html",
-      "published": "2026-09-14T18:20:14Z",
-      "ts": 1789410014
+      "title": "The Next Oil Shock Is Never the Last",
+      "link": "https://finance.yahoo.com/energy/articles/next-oil-shock-never-last-190000193.html",
+      "published": "2026-09-14T19:00:00Z",
+      "ts": 1789412400
     },
     {
       "source": "Yahoo Finance",
-      "title": "The 10-Year Treasury Yield Just Passed 5%. Here’s How That Impacts Dividend-Paying Consumer Stocks.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yield-just-passed-181001993.html",
-      "published": "2026-09-14T18:10:01Z",
-      "ts": 1789409401
+      "title": "CoreWeave Pays SOFR +5.5%. Nebius Pays +2.5%. AI Lenders Are Already Drawing a Line",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-pays-sofr-5-5-185757301.html",
+      "published": "2026-09-14T18:57:57Z",
+      "ts": 1789412277
     }
   ]
 }
