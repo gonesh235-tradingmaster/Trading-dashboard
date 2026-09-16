@@ -1,20 +1,34 @@
 {
-  "updated": "2026-09-16T09:27:12.885505Z",
+  "updated": "2026-09-16T09:42:50.440578Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609160933",
+      "published": "Wed, 16 Sep 2026 09:33:08 GMT",
+      "ts": 1789551188
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar consolidates ahead of Fed rate decision and Warsh signals",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
+      "published": "2026-09-16 09:26:49",
+      "ts": 1789550809
+    },
+    {
+      "source": "Investing Forex",
+      "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
+      "published": "2026-09-16 09:24:27",
+      "ts": 1789550667
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar: Higher yields and oil support – MUFG",
       "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-and-oil-support-mufg-202609160923",
       "published": "Wed, 16 Sep 2026 09:23:30 GMT",
       "ts": 1789550610
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I am drowning in debt’: I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?",
-      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 09:15:00 GMT",
-      "ts": 1789550100
     },
     {
       "source": "FXStreet",
@@ -24,11 +38,11 @@
       "ts": 1789549931
     },
     {
-      "source": "MarketWatch",
-      "title": "What history says about longer-term bond yields after the first Fed hike",
-      "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 09:11:00 GMT",
-      "ts": 1789549860
+      "source": "Investing Forex",
+      "title": "Citi sees GBP gains as short-lived ahead of October budget risks",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
+      "published": "2026-09-16 09:07:19",
+      "ts": 1789549639
     },
     {
       "source": "FXStreet",
@@ -73,25 +87,11 @@
       "ts": 1789548445
     },
     {
-      "source": "FXStreet",
-      "title": "Euro gains against Canadian Dollar as oil prices retreat on rising US crude inventories",
-      "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-as-oil-prices-retreat-on-rising-us-crude-inventories-202609160839",
-      "published": "Wed, 16 Sep 2026 08:39:23 GMT",
-      "ts": 1789547963
-    },
-    {
       "source": "CoinTelegraph",
       "title": "ECB seeks online merchants for 2027 digital euro pilot",
       "link": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 08:36:44 +0000",
       "ts": 1789547804
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
-      "link": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 08:26:00 GMT",
-      "ts": 1789547160
     },
     {
       "source": "Investing Forex",
@@ -120,13 +120,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
       "published": "2026-09-16 07:30:36",
       "ts": 1789543836
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds near highs, yen steadies ahead of Fed",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
-      "published": "2026-09-16 07:21:09",
-      "ts": 1789543269
     },
     {
       "source": "Investing Crypto",
@@ -213,27 +206,6 @@
       "ts": 1789525447
     },
     {
-      "source": "MarketWatch",
-      "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
-      "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 23:09:00 GMT",
-      "ts": 1789513740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 22:15:00 GMT",
-      "ts": 1789510500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 22:00:00 GMT",
-      "ts": 1789509600
-    },
-    {
       "source": "CoinDesk",
       "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
       "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
@@ -248,39 +220,11 @@
       "ts": 1789508959
     },
     {
-      "source": "MarketWatch",
-      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
-      "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 21:40:00 GMT",
-      "ts": 1789508400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
-      "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 21:34:00 GMT",
-      "ts": 1789508040
-    },
-    {
       "source": "CoinTelegraph",
       "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
       "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 21:23:00 +0000",
       "ts": 1789507380
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
-      "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 21:15:00 GMT",
-      "ts": 1789506900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Inflation killed the penny. Now it’s coming for your dollar.",
-      "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 21:00:00 GMT",
-      "ts": 1789506000
     },
     {
       "source": "Investing Forex",
@@ -410,17 +354,73 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Corporate Tax Payments Plunge 25% Even as Profits Boom",
+      "link": "https://finance.yahoo.com/economy/policy/articles/corporate-tax-payments-plunge-25-234056105.html",
+      "published": "2026-09-14T23:40:56Z",
+      "ts": 1789429256
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "1 ‘Strong Buy’ Dividend Stock Offering a 6.3% Yield Right Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-strong-buy-dividend-stock-233002620.html",
+      "published": "2026-09-14T23:30:02Z",
+      "ts": 1789428602
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "10-Year Yield Top 5% in Trading",
       "link": "https://finance.yahoo.com/economy/policy/articles/10-yield-top-5-trading-225933063.html",
       "published": "2026-09-14T22:59:33Z",
       "ts": 1789426773
     },
     {
+      "source": "Investing Crypto",
+      "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
+      "published": "2026-09-14 21:56:58",
+      "ts": 1789423018
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Loonie holds near 12-day low as oil support fails to offset dollar strength",
+      "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
+      "published": "2026-09-14 21:54:08",
+      "ts": 1789422848
+    },
+    {
       "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-micron-sandisk-ai-warning-fed-rate-hike/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T22:29:28Z",
-      "ts": 1789424968
+      "title": "Stocks pop when the Trump administration invests, but the gains often fade fast",
+      "link": "https://finance.yahoo.com/markets/article/stocks-pop-when-the-trump-administration-invests-but-the-gains-often-fade-fast-214120157.html",
+      "published": "2026-09-14T21:41:20Z",
+      "ts": 1789422080
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/big-tech-issued-220-billion-212946047.html",
+      "published": "2026-09-14T21:29:46Z",
+      "ts": 1789421386
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How gold IRAs fit into a diversified retirement portfolio",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-gold-iras-fit-into-a-diversified-retirement-portfolio-162815731.html",
+      "published": "2026-09-14T16:28:15Z",
+      "ts": 1789403295
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How a Fed rate hike would affect your bank accounts, loans, credit cards, and investments",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/how-a-fed-rate-hike-would-affect-your-bank-accounts-loans-credit-cards-and-investments-220526102.html",
+      "published": "2024-12-17T22:05:26Z",
+      "ts": 1734473126
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "When is the Fed's next meeting? See the full schedule for 2026.",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/when-is-the-next-fed-meeting-full-schedule-150709698.html",
+      "published": "2024-06-06T15:07:09Z",
+      "ts": 1717686429
     }
   ]
 }
