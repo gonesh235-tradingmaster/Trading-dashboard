@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T15:40:34.663492Z",
+  "updated": "2026-09-16T15:53:50.464727Z",
   "count": 60,
   "items": [
     {
@@ -10,11 +10,39 @@
       "ts": 1789572770
     },
     {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
+      "link": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 15:30:49 +0000",
+      "ts": 1789572649
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Kinetik’s (KNTK) Record Quarter Sets Up A Bigger 2027 Bet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kinetik-kntk-record-quarter-sets-152943083.html",
+      "published": "2026-09-16T15:29:43Z",
+      "ts": 1789572583
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Arista Stock Holds Up Well Amid Weakness. Here's How To Capitalize.",
+      "link": "https://www.investors.com/research/options/arista-anet-stock-covered-call-options/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:26:07Z",
+      "ts": 1789572367
+    },
+    {
       "source": "CoinDesk",
       "title": "Hamas’ military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
       "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
       "published": "Wed, 16 Sep 2026 15:25:41 +0000",
       "ts": 1789572341
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Radiant Logistics (RLGT) Bets $100M On A Freight Rebound",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-bets-100m-152433522.html",
+      "published": "2026-09-16T15:24:33Z",
+      "ts": 1789572273
     },
     {
       "source": "Yahoo Finance",
@@ -59,13 +87,6 @@
       "ts": 1789571225
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Alluvium Raised Its McKesson (MCK) Stake as Long-Term Growth Expectations Remain Strong",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alluvium-raised-mckesson-mck-stake-150454748.html",
-      "published": "2026-09-16T15:04:54Z",
-      "ts": 1789571094
-    },
-    {
       "source": "FXStreet",
       "title": "US Dollar: Fed repricing risk caps downside – Rabobank",
       "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-risk-caps-downside-rabobank-202609161501",
@@ -78,20 +99,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
       "published": "Wed, 16 Sep 2026 14:59:34 +0000",
       "ts": 1789570774
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here’s Why This Fund Sold Brown & Brown (BRO)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-fund-sold-brown-brown-145828796.html",
-      "published": "2026-09-16T14:58:28Z",
-      "ts": 1789570708
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SandiskCorp. (SNDK): AI Boom Fuels Attractive Storage Market Opportunity",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandiskcorp-sndk-ai-boom-fuels-145612588.html",
-      "published": "2026-09-16T14:56:12Z",
-      "ts": 1789570572
     },
     {
       "source": "Investing Crypto",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-16 07:11:51",
       "ts": 1789542711
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
-      "link": "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 06:38:48 +0000",
-      "ts": 1789540728
     },
     {
       "source": "Investing Crypto",
