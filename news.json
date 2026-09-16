@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-16T10:44:29.074673Z",
+  "updated": "2026-09-16T10:56:08.184398Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+      "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 10:51:00 GMT",
+      "ts": 1789555860
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
+      "published": "Wed, 16 Sep 2026 10:48:44 +0000",
+      "ts": 1789555724
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Deutsche Bank close to debuting crypto custody for institutions",
+      "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
+      "published": "Wed, 16 Sep 2026 10:46:28 +0000",
+      "ts": 1789555588
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Gold price today, Wednesday, September 16, 2026: Gold holds in the $4,300 range, awaiting the Fed's decision",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html",
+      "published": "2026-09-16T10:40:38Z",
+      "ts": 1789555238
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Zcash climbs 6% as majors slide ahead of Fed rate decision",
@@ -10,11 +38,25 @@
       "ts": 1789555066
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Kevin O’Leary, Barbara Corcoran and Robert Herjavec all avoid mixing money and family. Why retirees should do the same",
+      "link": "https://finance.yahoo.com/small-business/articles/kevin-o-leary-barbara-corcoran-103500907.html",
+      "published": "2026-09-16T10:35:00Z",
+      "ts": 1789554900
+    },
+    {
       "source": "FXStreet",
       "title": "Why is the US Dollar firm when the Federal Reserve hike is already fully priced in?",
       "link": "https://www.fxstreet.com/news/why-is-the-us-dollar-firm-when-the-federal-reserve-hike-is-already-fully-priced-in-202609161033",
       "published": "Wed, 16 Sep 2026 10:33:49 GMT",
       "ts": 1789554829
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
+      "link": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 10:33:12 +0000",
+      "ts": 1789554792
     },
     {
       "source": "CoinDesk",
@@ -99,27 +141,6 @@
       "link": "https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 10:11:39 +0000",
       "ts": 1789553499
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
-      "link": "https://finance.yahoo.com/economy/policy/articles/bond-market-woes-likely-factor-100656182.html",
-      "published": "2026-09-16T10:06:56Z",
-      "ts": 1789553216
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Are you 5 years from retirement? Do these 5 things now — or risk running out of cash",
-      "link": "https://finance.yahoo.com/markets/articles/5-years-retirement-5-things-100500756.html",
-      "published": "2026-09-16T10:05:00Z",
-      "ts": 1789553100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
-      "link": "https://finance.yahoo.com/economy/article/federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-happens-100449563.html",
-      "published": "2026-09-16T10:04:49Z",
-      "ts": 1789553089
     },
     {
       "source": "FXStreet",
@@ -346,13 +367,6 @@
       "ts": 1789531539
     },
     {
-      "source": "CoinDesk",
-      "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
-      "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
-      "published": "Wed, 16 Sep 2026 03:37:45 +0000",
-      "ts": 1789529865
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto industry turns to US regulators after CLARITY setback",
       "link": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -374,32 +388,11 @@
       "ts": 1789509600
     },
     {
-      "source": "CoinDesk",
-      "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
-      "published": "Tue, 15 Sep 2026 21:58:48 +0000",
-      "ts": 1789509528
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
       "published": "2026-09-15 21:49:19",
       "ts": 1789508959
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
-      "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 21:40:00 GMT",
-      "ts": 1789508400
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
-      "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 21:23:00 +0000",
-      "ts": 1789507380
     },
     {
       "source": "Investing Forex",
@@ -421,6 +414,13 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
       "published": "2026-09-15T17:26:03Z",
       "ts": 1789493163
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
+      "published": "2026-09-15T13:33:00Z",
+      "ts": 1789479180
     }
   ]
 }
