@@ -1,13 +1,76 @@
 {
-  "updated": "2026-09-16T11:28:41.254850Z",
+  "updated": "2026-09-16T11:45:12.799096Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Fed path and credibility in focus – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-path-and-credibility-in-focus-commerzbank-202609161144",
+      "published": "Wed, 16 Sep 2026 11:44:45 GMT",
+      "ts": 1789559085
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 11:39:00 GMT",
+      "ts": 1789558740
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar: Growth risks temper RBNZ pricing – ING",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-growth-risks-temper-rbnz-pricing-ing-202609161130",
+      "published": "Wed, 16 Sep 2026 11:30:58 GMT",
+      "ts": 1789558258
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 11:30:00 GMT",
+      "ts": 1789558200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Most workers would take a pay cut for job security right now: ‘I can’t deal with this stress anymore’",
+      "link": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 11:30:00 GMT",
+      "ts": 1789558200
+    },
     {
       "source": "FXStreet",
       "title": "Gold rebounds as traders position for Fed interest rate decision",
       "link": "https://www.fxstreet.com/news/gold-rebounds-as-traders-position-for-fed-interest-rate-decision-202609161128",
       "published": "Wed, 16 Sep 2026 11:28:16 GMT",
       "ts": 1789558096
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Co-investment and directs to eclipse primary funds, buyers say",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/co-investment-directs-eclipse-primary-112810718.html",
+      "published": "2026-09-16T11:28:10Z",
+      "ts": 1789558090
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-16-2026-crypto-prices-tank-after-clarity-act-fails-and-ahead-of-fed-decision-112517152.html",
+      "published": "2026-09-16T11:25:17Z",
+      "ts": 1789557917
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Cloudflare Hits Buy Point",
+      "link": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T11:23:21Z",
+      "ts": 1789557801
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; Will Market Bid Bond Voyage After Fed Rate Hike?",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T11:21:20Z",
+      "ts": 1789557680
     },
     {
       "source": "FXStreet",
@@ -17,6 +80,20 @@
       "ts": 1789557626
     },
     {
+      "source": "MarketWatch",
+      "title": "The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks",
+      "link": "https://www.marketwatch.com/story/the-cia-strategy-beating-the-market-how-one-top-performing-money-manager-spots-mispriced-stocks-535c638d?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 11:20:00 GMT",
+      "ts": 1789557600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Is the shingles vaccine the secret to living longer and delaying dementia? Here’s what the science says.",
+      "link": "https://www.marketwatch.com/story/is-the-shingles-vaccine-the-secret-to-living-longer-and-delaying-dementia-heres-what-the-science-says-1c108c26?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 11:17:00 GMT",
+      "ts": 1789557420
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
       "link": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
@@ -24,18 +101,18 @@
       "ts": 1789557411
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Warren Buffett's 'phenomenal' advice to GM CEO backfired for Berkshire despite the stock tripling. Avoid his big mistake",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-phenomenal-advice-gm-111500447.html",
+      "published": "2026-09-16T11:15:00Z",
+      "ts": 1789557300
+    },
+    {
       "source": "FXStreet",
       "title": "Australian Dollar: Downside risk persists against US Dollar - UOB",
       "link": "https://www.fxstreet.com/news/australian-dollar-downside-risk-persists-against-us-dollar-uob-202609161113",
       "published": "Wed, 16 Sep 2026 11:13:52 GMT",
       "ts": 1789557232
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; Will Market Bid Bond Voyage After Fed Rate Hike?",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T11:08:31Z",
-      "ts": 1789556911
     },
     {
       "source": "Yahoo Finance",
@@ -66,6 +143,13 @@
       "ts": 1789555894
     },
     {
+      "source": "MarketWatch",
+      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+      "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 10:51:00 GMT",
+      "ts": 1789555860
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
       "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
@@ -80,32 +164,11 @@
       "ts": 1789555588
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Morning Bid: A time to hike?",
-      "link": "https://finance.yahoo.com/news/morning-bid-time-hike-104329450.html",
-      "published": "2026-09-16T10:43:29Z",
-      "ts": 1789555409
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Gold price today, Wednesday, September 16, 2026: Gold holds in the $4,300 range, awaiting the Fed's decision",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html",
-      "published": "2026-09-16T10:40:38Z",
-      "ts": 1789555238
-    },
-    {
       "source": "CoinDesk",
-      "title": "Live updates: Zcash climbs 6% as majors slide ahead of Fed rate decision",
+      "title": "Live updates: Bitcoin holds near $76,000 as spot ETFs outflows surged alongside Clarity Act failure",
       "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
       "published": "Wed, 16 Sep 2026 10:37:46 +0000",
       "ts": 1789555066
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Kevin O’Leary, Barbara Corcoran and Robert Herjavec all avoid mixing money and family. Why retirees should do the same",
-      "link": "https://finance.yahoo.com/small-business/articles/kevin-o-leary-barbara-corcoran-103500907.html",
-      "published": "2026-09-16T10:35:00Z",
-      "ts": 1789554900
     },
     {
       "source": "FXStreet",
@@ -129,17 +192,31 @@
       "ts": 1789554600
     },
     {
-      "source": "Yahoo Finance",
-      "title": "5 signs you might be a good fit for debt settlement",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/signs-you-might-be-a-good-fit-for-debt-settlement-102500610.html",
-      "published": "2026-09-16T10:25:00Z",
-      "ts": 1789554300
+      "source": "MarketWatch",
+      "title": "5% Treasury yields mean America’s debt bill just got a lot bigger",
+      "link": "https://www.marketwatch.com/story/5-treasury-yields-mean-americas-debt-bill-just-got-a-lot-bigger-8a5702b0?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 10:30:00 GMT",
+      "ts": 1789554600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Inflation killed the penny. Now it’s coming for your dollar.",
+      "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 10:29:00 GMT",
+      "ts": 1789554540
     },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin dips to $76k as Clarity vote fails; Fed rate hike in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
       "published": "2026-09-16 10:16:00",
+      "ts": 1789553760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 10:16:00 GMT",
       "ts": 1789553760
     },
     {
@@ -192,13 +269,6 @@
       "ts": 1789552306
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar treads water against Japanese Yen ahead of BoJ rate hike",
-      "link": "https://www.fxstreet.com/news/australian-dollar-treads-water-against-japanese-yen-ahead-of-boj-rate-hike-202609160946",
-      "published": "Wed, 16 Sep 2026 09:46:46 GMT",
-      "ts": 1789552006
-    },
-    {
       "source": "CoinDesk",
       "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
       "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
@@ -206,11 +276,11 @@
       "ts": 1789551757
     },
     {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609160933",
-      "published": "Wed, 16 Sep 2026 09:33:08 GMT",
-      "ts": 1789551188
+      "source": "MarketWatch",
+      "title": "This BlackRock strategist opposes a Fed hike. Here are the funds she recommends.",
+      "link": "https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 09:34:00 GMT",
+      "ts": 1789551240
     },
     {
       "source": "Investing Forex",
@@ -225,13 +295,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
       "published": "2026-09-16 09:24:27",
       "ts": 1789550667
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Higher yields and oil support – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-and-oil-support-mufg-202609160923",
-      "published": "Wed, 16 Sep 2026 09:23:30 GMT",
-      "ts": 1789550610
     },
     {
       "source": "Investing Forex",
@@ -297,6 +360,13 @@
       "ts": 1789537951
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee remains close to seven-week low on Wednesday, Fed's policy in focus",
+      "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-recent-losses-ahead-of-feds-policy-202609160531",
+      "published": "Wed, 16 Sep 2026 05:31:41 GMT",
+      "ts": 1789536701
+    },
+    {
       "source": "CoinTelegraph",
       "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
       "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -351,76 +421,6 @@
       "link": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
       "published": "2026-09-15T14:34:52Z",
       "ts": 1789482892
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
-      "published": "2026-09-15T13:33:00Z",
-      "ts": 1789479180
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie slips as oil surge fuels rate worries ahead of Fed decision",
-      "link": "https://www.investing.com/news/forex-news/loonie-slips-as-oil-surge-fuels-rate-worries-ahead-of-fed-decision-4901710",
-      "published": "2026-09-15 12:40:11",
-      "ts": 1789476011
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Exclusive: Bitget Wallet adds tokenized U.S. stocks through Reality integration",
-      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-wallet-adds-tokenized-us-stocks-through-reality-integration-4901412",
-      "published": "2026-09-15 11:31:22",
-      "ts": 1789471882
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BingX Evolves into a Multi-Asset Trading Platform, Connecting Users to Global Opportunities",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bingx-evolves-into-a-multiasset-trading-platform-connecting-users-to-global-opportunities-4901404",
-      "published": "2026-09-15 11:30:33",
-      "ts": 1789471833
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "NBKR and CertiK Establish Long-Term Strategic Partnership on Digital Som Security and Digital Asset Oversight",
-      "link": "https://www.investing.com/news/cryptocurrency-news/nbkr-and-certik-establish-longterm-strategic-partnership-on-digital-som-security-and-digital-asset-oversight-4901279",
-      "published": "2026-09-15 11:00:32",
-      "ts": 1789470032
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Standard Chartered sees Arbitrum’s ARB token soaring 70x by 2030",
-      "link": "https://www.investing.com/news/cryptocurrency-news/standard-chartered-sees-arbitrums-arb-token-soaring-70x-by-2030-4901206",
-      "published": "2026-09-15 10:27:16",
-      "ts": 1789468036
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
-      "published": "2026-09-15 08:06:27",
-      "ts": 1789459587
-    },
-    {
-      "source": "Investing Forex",
-      "title": "European sovereign debt pressured as traders price ECB hikes through early 2027",
-      "link": "https://www.investing.com/news/forex-news/european-sovereign-debt-pressured-as-traders-price-ecb-hikes-through-early-2027-4900845",
-      "published": "2026-09-15 07:47:02",
-      "ts": 1789458422
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
-      "published": "2026-09-14 21:56:58",
-      "ts": 1789423018
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie holds near 12-day low as oil support fails to offset dollar strength",
-      "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
-      "published": "2026-09-14 21:54:08",
-      "ts": 1789422848
     }
   ]
 }
