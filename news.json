@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-16T23:25:06.560873Z",
+  "updated": "2026-09-16T23:38:32.813692Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold falls to near $4,250 after Fed delivers rate hike",
+      "link": "https://www.fxstreet.com/news/gold-falls-to-near-4-250-after-fed-delivers-rate-hike-202609162325",
+      "published": "Wed, 16 Sep 2026 23:25:30 GMT",
+      "ts": 1789601130
+    },
     {
       "source": "FXStreet",
       "title": "0.2%: New Zealand’s Gross Domestic Product grows more than expected in Q2",
@@ -190,13 +197,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
       "published": "2026-09-16 18:28:59",
       "ts": 1789583339
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Euro breaks lower once the Fed raises rates",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-six-days-after-the-ecb-202609161808",
-      "published": "Wed, 16 Sep 2026 18:08:49 GMT",
-      "ts": 1789582129
     },
     {
       "source": "CoinTelegraph",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Marathon Petroleum Stock Just Hit New Highs, But Oil Price Risks Remain",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-stock-just-hit-153003138.html",
-      "published": "2026-09-15T15:30:03Z",
-      "ts": 1789486203
+      "title": "OXEA taps Uber Freight to manage North American, European logistics",
+      "link": "https://finance.yahoo.com/economy/articles/oxea-taps-uber-freight-manage-160000087.html",
+      "published": "2026-09-15T16:00:00Z",
+      "ts": 1789488000
     },
     {
       "source": "Yahoo Finance",
-      "title": "Crude Prices Soar as Global Oil Supplies Continue to Tighten",
-      "link": "https://finance.yahoo.com/energy/articles/crude-prices-soar-global-oil-152716646.html",
-      "published": "2026-09-15T15:27:16Z",
-      "ts": 1789486036
+      "title": "Is Fifth Third Bancorp Stock Outperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-bancorp-stock-outperforming-155954803.html",
+      "published": "2026-09-15T15:59:54Z",
+      "ts": 1789487994
     }
   ]
 }
