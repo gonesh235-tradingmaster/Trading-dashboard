@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-16T04:27:41.823070Z",
+  "updated": "2026-09-16T04:43:36.011786Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609160435",
+      "published": "Wed, 16 Sep 2026 04:35:30 GMT",
+      "ts": 1789533330
+    },
+    {
+      "source": "FXStreet",
+      "title": "Asian stocks trade with modest gains as investors remain cautious ahead of Fed decision",
+      "link": "https://www.fxstreet.com/news/asian-stocks-trade-with-modest-gains-as-investors-remain-cautious-ahead-of-fed-decision-202609160431",
+      "published": "Wed, 16 Sep 2026 04:31:56 GMT",
+      "ts": 1789533116
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc edges higher as US Dollar declines despite Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/swiss-franc-edges-higher-as-us-dollar-declines-despite-fed-rate-hike-bets-202609160430",
+      "published": "Wed, 16 Sep 2026 04:30:40 GMT",
+      "ts": 1789533040
+    },
     {
       "source": "FXStreet",
       "title": "AUD/JPY Price Forecast: Holds gains above 110.50, but maintains bearish bias below 100-day SMA",
@@ -74,31 +95,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD bears have the upper hand below $64.00 and 200-day EMA",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bears-have-the-upper-hand-below-6400-and-200-day-ema-202609160214",
-      "published": "Wed, 16 Sep 2026 02:14:20 GMT",
-      "ts": 1789524860
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Holds ground above 179.00 within oversold territory",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-holds-ground-above-17900-within-oversold-territory-202609160208",
-      "published": "Wed, 16 Sep 2026 02:08:21 GMT",
-      "ts": 1789524501
-    },
-    {
-      "source": "FXStreet",
-      "title": "August UK inflation report expected to show rising inflation",
+      "title": "UK CPI could set stage for future rate hikes at Bank of England",
       "link": "https://www.fxstreet.com/news/august-uk-inflation-report-expected-to-show-rising-inflation-202609160200",
       "published": "Wed, 16 Sep 2026 02:00:00 GMT",
       "ts": 1789524000
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index gains ground ahead of Fed interest rate decision",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gains-ground-ahead-of-fed-interest-rate-decision-202609160143",
-      "published": "Wed, 16 Sep 2026 01:43:03 GMT",
-      "ts": 1789522983
     },
     {
       "source": "MarketWatch",
@@ -389,6 +389,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "RF Industries, Ltd. Q3 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-ltd-q3-2026-170334050.html",
+      "published": "2026-09-14T17:03:34Z",
+      "ts": 1789405414
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "DeFi Development Expands Solana Treasury to 2.39M SOL",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/defi-development-expands-solana-treasury-170300303.html",
+      "published": "2026-09-14T17:03:00Z",
+      "ts": 1789405380
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "This Bull Call Spread In Oil Provides A Hedge Against Stocks And Bonds",
+      "link": "https://www.investors.com/research/options/oil-etf-uso-options-spread-hedge-stocks-bonds-inflation-trade-strategy-markets/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T17:01:11Z",
+      "ts": 1789405271
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Oracle Stock Falls After Ellison Scraps Plan To Sell Up To $7.5 Billion In Stock",
       "link": "https://www.investors.com/news/technology/oracle-stock-falls-ellison-sell-plan-canceled/?src=A00220&yptr=yahoo",
       "published": "2026-09-14T17:00:17Z",
@@ -400,27 +421,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/old-school-chart-analysis-gamma-165534313.html",
       "published": "2026-09-14T16:55:34Z",
       "ts": 1789404934
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain",
-      "link": "https://www.investors.com/news/ai-nvidia-broadcom-software-stocks-servicenow-workday-salesforce-micron/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T16:38:47Z",
-      "ts": 1789403927
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Target hires ex-Hilton CMO as chief marketing and guest experience officer",
-      "link": "https://finance.yahoo.com/media-advertising/articles/target-hires-ex-hilton-cmo-163714703.html",
-      "published": "2026-09-14T16:37:14Z",
-      "ts": 1789403834
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO",
-      "link": "https://finance.yahoo.com/technology/ai/articles/chinas-deepseek-hires-dealmaker-cfo-163408342.html",
-      "published": "2026-09-14T16:36:46Z",
-      "ts": 1789403806
     }
   ]
 }
