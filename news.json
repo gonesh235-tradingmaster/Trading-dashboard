@@ -1,20 +1,48 @@
 {
-  "updated": "2026-09-16T12:13:14.338002Z",
+  "updated": "2026-09-16T12:35:54.975723Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
+      "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 12:31:00 GMT",
+      "ts": 1789561860
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Store brands like Kirkland are winning the war for consumer wallets, squeezing out national brands",
+      "link": "https://www.marketwatch.com/story/store-brands-like-kirkland-are-winning-the-war-for-consumer-wallets-squeezing-out-national-brands-a43ad2d9?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 12:30:00 GMT",
+      "ts": 1789561800
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Modestly bearish path under gridlock – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-modestly-bearish-path-under-gridlock-td-securities-202609161229",
+      "published": "Wed, 16 Sep 2026 12:29:15 GMT",
+      "ts": 1789561755
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound extends losses against Euro with BoE decision in focus",
+      "link": "https://www.fxstreet.com/news/british-pound-extends-losses-against-euro-with-boe-decision-in-focus-202609161224",
+      "published": "Wed, 16 Sep 2026 12:24:01 GMT",
+      "ts": 1789561441
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
+      "link": "https://finance.yahoo.com/economy/policy/articles/bond-market-woes-likely-factor-100656182.html",
+      "published": "2026-09-16T12:12:19Z",
+      "ts": 1789560739
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Recovery does not justify stronger EUR – BNY",
       "link": "https://www.fxstreet.com/news/euro-recovery-does-not-justify-stronger-eur-bny-202609161212",
       "published": "Wed, 16 Sep 2026 12:12:02 GMT",
       "ts": 1789560722
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Like Costco, Walmart to sell Medicare Advantage plans",
-      "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 12:10:00 GMT",
-      "ts": 1789560600
     },
     {
       "source": "Yahoo Finance",
@@ -150,20 +178,6 @@
       "ts": 1789558096
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Co-investment and directs to eclipse primary funds, buyers say",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/co-investment-directs-eclipse-primary-112810718.html",
-      "published": "2026-09-16T11:28:10Z",
-      "ts": 1789558090
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro trades with caution against US Dollar ahead of Fed’s policy meeting",
-      "link": "https://www.fxstreet.com/news/euro-trades-with-caution-against-us-dollar-ahead-of-feds-policy-meeting-202609161120",
-      "published": "Wed, 16 Sep 2026 11:20:26 GMT",
-      "ts": 1789557626
-    },
-    {
       "source": "MarketWatch",
       "title": "The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks",
       "link": "https://www.marketwatch.com/story/the-cia-strategy-beating-the-market-how-one-top-performing-money-manager-spots-mispriced-stocks-535c638d?mod=mw_rss_topstories",
@@ -183,13 +197,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
       "published": "Wed, 16 Sep 2026 11:16:51 +0000",
       "ts": 1789557411
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar: Downside risk persists against US Dollar - UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-downside-risk-persists-against-us-dollar-uob-202609161113",
-      "published": "Wed, 16 Sep 2026 11:13:52 GMT",
-      "ts": 1789557232
     },
     {
       "source": "CoinDesk",
@@ -245,13 +252,6 @@
       "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
       "link": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
       "published": "Wed, 16 Sep 2026 10:30:00 +0000",
-      "ts": 1789554600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "5% Treasury yields mean America’s debt bill just got a lot bigger",
-      "link": "https://www.marketwatch.com/story/5-treasury-yields-mean-americas-debt-bill-just-got-a-lot-bigger-8a5702b0?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 10:30:00 GMT",
       "ts": 1789554600
     },
     {
