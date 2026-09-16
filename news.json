@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-16T19:25:14.544741Z",
+  "updated": "2026-09-16T19:38:55.214473Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 19:25:46 +0000",
+      "ts": 1789586746
+    },
     {
       "source": "CoinTelegraph",
       "title": "UK FCA sets crypto authorization guidance ahead of September application window",
       "link": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 19:19:23 +0000",
       "ts": 1789586363
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin bounces at $75,791 below Ichimoku cloud: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-16 19:18:24",
+      "ts": 1789586304
     },
     {
       "source": "FXStreet",
@@ -94,13 +108,6 @@
       "ts": 1789583880
     },
     {
-      "source": "FXStreet",
-      "title": "WTI holds near daily low as Fed decision draws muted reaction",
-      "link": "https://www.fxstreet.com/news/wti-holds-near-daily-low-as-fed-decision-draws-muted-reaction-202609161837",
-      "published": "Wed, 16 Sep 2026 18:37:24 GMT",
-      "ts": 1789583844
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar gains after Fed raises interest rates",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
@@ -130,6 +137,13 @@
     },
     {
       "source": "FXStreet",
+      "title": "Fed rate hike bolsters US Dollar Index above 100.00",
+      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-into-a-dollar-index-basket-that-also-raised-rates-202609161815",
+      "published": "Wed, 16 Sep 2026 18:15:39 GMT",
+      "ts": 1789582539
+    },
+    {
+      "source": "FXStreet",
       "title": "Dow Jones Industrial Average slides behind a Federal Reserve hike",
       "link": "https://www.fxstreet.com/news/the-federal-reserve-raises-rates-on-the-dow-jones-30-corporate-borrowers-202609161815",
       "published": "Wed, 16 Sep 2026 18:15:09 GMT",
@@ -137,7 +151,14 @@
     },
     {
       "source": "FXStreet",
-      "title": "The Fed hikes six days after the ECB, weighing on the Euro",
+      "title": "The Pound sinks as the Fed overtakes the BoE",
+      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-back-above-britains-375-202609161809",
+      "published": "Wed, 16 Sep 2026 18:09:44 GMT",
+      "ts": 1789582184
+    },
+    {
+      "source": "FXStreet",
+      "title": "The Euro breaks lower once the Fed raises rates",
       "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-six-days-after-the-ecb-202609161808",
       "published": "Wed, 16 Sep 2026 18:08:49 GMT",
       "ts": 1789582129
@@ -283,13 +304,6 @@
       "ts": 1789567200
     },
     {
-      "source": "FXStreet",
-      "title": "Fed’s Warsh: Decision today was the right decision",
-      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-raise-interest-rate-after-five-meetings-on-hold-202609161400",
-      "published": "Wed, 16 Sep 2026 14:00:00 GMT",
-      "ts": 1789567200
-    },
-    {
       "source": "Investing Crypto",
       "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
@@ -332,13 +346,6 @@
       "ts": 1789558784
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
-      "link": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 10:33:12 +0000",
-      "ts": 1789554792
-    },
-    {
       "source": "Investing Forex",
       "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
@@ -372,13 +379,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
       "published": "2026-09-16 07:30:36",
       "ts": 1789543836
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin breaks down below 200MA at $75,861: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-16 07:11:51",
-      "ts": 1789542711
     },
     {
       "source": "Investing Crypto",
