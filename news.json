@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-16T22:09:37.511751Z",
+  "updated": "2026-09-16T22:25:27.185298Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Pound drops below its long-run average as the Fed's rate passes Britain's",
+      "link": "https://www.fxstreet.com/news/the-pound-drops-below-its-long-run-average-as-the-feds-rate-passes-britains-202609162219",
+      "published": "Wed, 16 Sep 2026 22:19:29 GMT",
+      "ts": 1789597169
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 22:16:00 GMT",
+      "ts": 1789596960
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 22:15:00 GMT",
+      "ts": 1789596900
+    },
     {
       "source": "FXStreet",
       "title": "The Euro's losing streak runs on as the Fed matches the ECB's rate hike",
@@ -11,7 +32,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI-power player",
+      "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
       "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 21:56:00 GMT",
       "ts": 1789595760
@@ -144,13 +165,6 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 19:00:00 GMT",
-      "ts": 1789585200
-    },
-    {
-      "source": "MarketWatch",
       "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
       "link": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 18:57:00 GMT",
@@ -164,25 +178,11 @@
       "ts": 1789584368
     },
     {
-      "source": "MarketWatch",
-      "title": "The smartest money moves to make now that interest rates are going higher",
-      "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 18:38:00 GMT",
-      "ts": 1789583880
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar gains after Fed raises interest rates",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
       "published": "2026-09-16 18:28:59",
       "ts": 1789583339
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed rate hike bolsters US Dollar Index above 100.00",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-into-a-dollar-index-basket-that-also-raised-rates-202609161815",
-      "published": "Wed, 16 Sep 2026 18:15:39 GMT",
-      "ts": 1789582539
     },
     {
       "source": "FXStreet",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is eBay Stock Outperforming the Dow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ebay-stock-outperforming-dow-141132319.html",
-      "published": "2026-09-15T14:11:32Z",
-      "ts": 1789481492
+      "title": "Apollo and J&J Face a High-Stakes Orthopedics Deal",
+      "link": "https://finance.yahoo.com/healthcare/articles/apollo-j-j-face-high-142856052.html",
+      "published": "2026-09-15T14:26:32Z",
+      "ts": 1789482392
     },
     {
       "source": "Yahoo Finance",
-      "title": "Billionaire Charlie Munger, Who Died at 99, Skipped Insurance on His Mansion Since He Could Just Write a Check to Rebuild — ‘All Intelligent People Do It My Way’",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-charlie-munger-died-99-141111025.html",
-      "published": "2026-09-15T14:11:11Z",
-      "ts": 1789481471
+      "title": "Is Equifax Stock Outperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equifax-stock-outperforming-dow-142606434.html",
+      "published": "2026-09-15T14:26:06Z",
+      "ts": 1789482366
     }
   ]
 }
