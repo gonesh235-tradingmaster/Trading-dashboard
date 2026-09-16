@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-16T08:46:31.054862Z",
+  "updated": "2026-09-16T09:10:06.392686Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Eurozone Industrial Production contracts 0.1% in July",
+      "link": "https://www.fxstreet.com/news/eurozone-industrial-production-contracts-01-in-july-202609160903",
+      "published": "Wed, 16 Sep 2026 09:03:30 GMT",
+      "ts": 1789549410
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Fails near 1.3500 as bears eye 200-SMA ahead of Fed decision",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-fails-near-13500-as-bears-eye-200-sma-ahead-of-fed-decision-202609160902",
+      "published": "Wed, 16 Sep 2026 09:02:35 GMT",
+      "ts": 1789549355
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: 1.150 target nears on Fed risk against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-1150-target-nears-on-fed-risk-against-us-dollar-ing-202609160901",
+      "published": "Wed, 16 Sep 2026 09:01:07 GMT",
+      "ts": 1789549267
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI falls near $100 as Saudi adds Oman route, US stocks surge",
+      "link": "https://www.fxstreet.com/news/wti-falls-near-100-as-saudi-adds-oman-route-us-stocks-surge-202609160900",
+      "published": "Wed, 16 Sep 2026 09:00:11 GMT",
+      "ts": 1789549211
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Retreats from 155.50 with Fed’s policy in focus",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-retreats-from-15550-with-feds-policy-in-focus-202609160848",
+      "published": "Wed, 16 Sep 2026 08:48:20 GMT",
+      "ts": 1789548500
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: Fed focus and energy shock – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-fed-focus-and-energy-shock-deutsche-bank-202609160847",
+      "published": "Wed, 16 Sep 2026 08:47:25 GMT",
+      "ts": 1789548445
+    },
     {
       "source": "FXStreet",
       "title": "Euro gains against Canadian Dollar as oil prices retreat on rising US crude inventories",
@@ -38,13 +80,6 @@
       "ts": 1789546915
     },
     {
-      "source": "FXStreet",
-      "title": "Norwegian Krone: Norges Bank weighs inflation and growth – Commerzbank",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-norges-bank-weighs-inflation-and-growth-commerzbank-202609160816",
-      "published": "Wed, 16 Sep 2026 08:16:01 GMT",
-      "ts": 1789546561
-    },
-    {
       "source": "CoinDesk",
       "title": "Ethereum, Base give up on common wallet standard after months of talks",
       "link": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
@@ -52,53 +87,11 @@
       "ts": 1789546079
     },
     {
-      "source": "FXStreet",
-      "title": "Dow Jones futures tick higher ahead of Fed interest rate decision",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-tick-higher-ahead-of-fed-interest-rate-decision-202609160806",
-      "published": "Wed, 16 Sep 2026 08:06:59 GMT",
-      "ts": 1789546019
-    },
-    {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: Bounces off two-month low; seems vulnerable near mid-0.5700s",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bounces-off-two-month-low-seems-vulnerable-near-mid-05700s-202609160806",
-      "published": "Wed, 16 Sep 2026 08:06:20 GMT",
-      "ts": 1789545980
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD jumps to near $65 ahead of Fed’s interest rate decision",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-65-ahead-of-feds-interest-rate-decision-202609160801",
-      "published": "Wed, 16 Sep 2026 08:01:26 GMT",
-      "ts": 1789545686
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Watching break of 0.8205 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-watching-break-of-08205-against-us-dollar-uob-202609160759",
-      "published": "Wed, 16 Sep 2026 07:59:28 GMT",
-      "ts": 1789545568
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: Eyes 1.3950 near ascending channel top",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-eyes-13950-near-ascending-channel-top-202609160752",
-      "published": "Wed, 16 Sep 2026 07:52:30 GMT",
-      "ts": 1789545150
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
       "published": "2026-09-16 07:43:07",
       "ts": 1789544587
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Warsh guidance keeps Greenback supported – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-warsh-guidance-keeps-greenback-supported-ing-202609160733",
-      "published": "Wed, 16 Sep 2026 07:33:10 GMT",
-      "ts": 1789543990
     },
     {
       "source": "Investing Crypto",
@@ -155,6 +148,13 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 05:52:31 +0000",
       "ts": 1789537951
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee remains near seven-week low ahead of Fed's decision",
+      "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-recent-losses-ahead-of-feds-policy-202609160531",
+      "published": "Wed, 16 Sep 2026 05:31:41 GMT",
+      "ts": 1789536701
     },
     {
       "source": "CoinTelegraph",
@@ -409,18 +409,18 @@
       "ts": 1789458422
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
-      "published": "2026-09-14 21:56:58",
-      "ts": 1789423018
+      "source": "Yahoo Finance",
+      "title": "10-Year Yield Top 5% in Trading",
+      "link": "https://finance.yahoo.com/economy/policy/articles/10-yield-top-5-trading-225933063.html",
+      "published": "2026-09-14T22:59:33Z",
+      "ts": 1789426773
     },
     {
-      "source": "Investing Forex",
-      "title": "Loonie holds near 12-day low as oil support fails to offset dollar strength",
-      "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
-      "published": "2026-09-14 21:54:08",
-      "ts": 1789422848
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-micron-sandisk-ai-warning-fed-rate-hike/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T22:29:28Z",
+      "ts": 1789424968
     }
   ]
 }
