@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-16T14:44:36.673867Z",
+  "updated": "2026-09-16T14:57:49.743595Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound: BoE repricing risk grows – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-repricing-risk-grows-bbh-202609161453",
+      "published": "Wed, 16 Sep 2026 14:53:22 GMT",
+      "ts": 1789570402
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar holds ground against US Dollar as Fed decision looms",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-ground-against-us-dollar-as-fed-decision-looms-202609161453",
+      "published": "Wed, 16 Sep 2026 14:53:14 GMT",
+      "ts": 1789570394
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar: BoC hawkish tilt and key levels – Scotiabank",
@@ -15,6 +29,20 @@
       "link": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
       "published": "Wed, 16 Sep 2026 14:35:43 +0000",
       "ts": 1789569343
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Revolution Medicines’ (RVMD) Promising Clinical Results Signal Potential Paradigm Shift",
+      "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-promising-clinical-143313578.html",
+      "published": "2026-09-16T14:33:13Z",
+      "ts": 1789569193
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Intel Stock Rises On Talk Of Fab Deal With SK Hynix",
+      "link": "https://www.investors.com/news/technology/intel-stock-possible-sk-hynix-fab-deal/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T14:26:31Z",
+      "ts": 1789568791
     },
     {
       "source": "Yahoo Finance",
@@ -85,20 +113,6 @@
       "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 14:10:00 GMT",
       "ts": 1789567800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq, S&P 500 Up Ahead Of Likely Fed Rate Increase; AI Leader Dell Jams (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T14:07:08Z",
-      "ts": 1789567628
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Billionaire Ray Dalio’s Bridgewater’s 2 Non-AI Stock Picks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ray-dalio-bridgewater-2-140700264.html",
-      "published": "2026-09-16T14:07:00Z",
-      "ts": 1789567620
     },
     {
       "source": "MarketWatch",
@@ -206,13 +220,6 @@
       "ts": 1789564920
     },
     {
-      "source": "FXStreet",
-      "title": "Bank of England: Hawkish hold risks and November hike – MUFG",
-      "link": "https://www.fxstreet.com/news/bank-of-england-hawkish-hold-risks-and-november-hike-mufg-202609161319",
-      "published": "Wed, 16 Sep 2026 13:19:28 GMT",
-      "ts": 1789564768
-    },
-    {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
@@ -225,13 +232,6 @@
       "link": "https://www.marketwatch.com/story/5-treasury-yields-mean-americas-debt-bill-just-got-a-lot-bigger-8a5702b0?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 13:03:00 GMT",
       "ts": 1789563780
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Markets test ECB reaction function – Rabobank",
-      "link": "https://www.fxstreet.com/news/euro-markets-test-ecb-reaction-function-rabobank-202609161300",
-      "published": "Wed, 16 Sep 2026 13:00:16 GMT",
-      "ts": 1789563616
     },
     {
       "source": "CoinDesk",
