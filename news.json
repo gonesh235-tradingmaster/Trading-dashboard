@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-16T01:10:03.943818Z",
+  "updated": "2026-09-16T01:25:21.529285Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound softens below 1.3500 as traders await UK CPI data, Fed rate decision",
+      "link": "https://www.fxstreet.com/news/british-pound-softens-below-13500-as-traders-await-uk-cpi-data-fed-rate-decision-202609160121",
+      "published": "Wed, 16 Sep 2026 01:21:05 GMT",
+      "ts": 1789521665
+    },
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7628 vs. 6.7670 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67628-vs-67670-previous-202609160115",
+      "published": "Wed, 16 Sep 2026 01:15:46 GMT",
+      "ts": 1789521346
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar languishes near two-week low as bullish USD offsets oil gains ahead of Fed",
@@ -71,13 +85,6 @@
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 22:15:00 GMT",
       "ts": 1789510500
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Pound drifts lower as the Fed lines up a rate above the Bank of England's",
-      "link": "https://www.fxstreet.com/news/the-pound-drifts-lower-as-the-fed-lines-up-a-rate-above-the-bank-of-englands-202609152209",
-      "published": "Tue, 15 Sep 2026 22:09:57 GMT",
-      "ts": 1789510197
     },
     {
       "source": "MarketWatch",
@@ -155,13 +162,6 @@
       "link": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 20:37:34 +0000",
       "ts": 1789504654
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso retreats as USD/MXN bounces from near YTD low",
-      "link": "https://www.fxstreet.com/news/mexican-peso-retreats-as-usd-mxn-bounces-from-near-ytd-low-202609152036",
-      "published": "Tue, 15 Sep 2026 20:36:09 GMT",
-      "ts": 1789504569
     },
     {
       "source": "MarketWatch",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Dominion, NextEra propose $1 billion-a-year Virginia supplier program",
+      "link": "https://finance.yahoo.com/news/dominion-nextera-propose-1-billion-133808617.html",
+      "published": "2026-09-14T13:38:08Z",
+      "ts": 1789393088
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Xcel Energy Stock: Is XEL Outperforming the Utility Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/xcel-energy-stock-xel-outperforming-133754654.html",
+      "published": "2026-09-14T13:37:54Z",
+      "ts": 1789393074
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "US Pentagon triggers alarm for 150M+ American drivers after massive ID breach — is your identity exposed? Do this now",
+      "link": "https://finance.yahoo.com/technology/articles/us-pentagon-triggers-alarm-150m-133500969.html",
+      "published": "2026-09-14T13:35:00Z",
+      "ts": 1789392900
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Costco rations Kirkland motor oil, raises price to $57.99",
       "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
       "published": "2026-09-14T13:33:08Z",
       "ts": 1789392788
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "XRP Price Prediction: $1.40 Breakout Could Open Path to $2.10",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-1-40-133202440.html",
-      "published": "2026-09-14T13:32:02Z",
-      "ts": 1789392722
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Is Dollar General's Stock Performance Compared to Other Consumer Defensive Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-generals-stock-performance-compared-132555848.html",
-      "published": "2026-09-14T13:25:55Z",
-      "ts": 1789392355
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tesla, Microsoft and Amazon Forecast: Tech Stocks Diverge",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-microsoft-amazon-forecast-tech-131133844.html",
-      "published": "2026-09-14T13:11:33Z",
-      "ts": 1789391493
     }
   ]
 }
