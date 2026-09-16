@@ -1,13 +1,69 @@
 {
-  "updated": "2026-09-16T12:57:15.163191Z",
+  "updated": "2026-09-16T13:16:12.163345Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "5% Treasury yields mean America’s debt bill just got a lot bigger",
+      "link": "https://www.marketwatch.com/story/5-treasury-yields-mean-americas-debt-bill-just-got-a-lot-bigger-8a5702b0?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 13:03:00 GMT",
+      "ts": 1789563780
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why a strategist who previously thought inflation was contained now sees potential for aggressive Fed rate hikes",
+      "link": "https://www.marketwatch.com/story/why-a-strategist-who-previously-thought-inflation-was-contained-now-sees-potential-for-aggressive-fed-rate-hikes-33ecaf04?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 13:01:00 GMT",
+      "ts": 1789563660
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Markets test ECB reaction function – Rabobank",
+      "link": "https://www.fxstreet.com/news/euro-markets-test-ecb-reaction-function-rabobank-202609161300",
+      "published": "Wed, 16 Sep 2026 13:00:16 GMT",
+      "ts": 1789563616
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A stolen coin can be returned. A leaked identity cannot.",
+      "link": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
+      "published": "Wed, 16 Sep 2026 13:00:00 +0000",
+      "ts": 1789563600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 13:00:00 GMT",
+      "ts": 1789563600
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States Retail Sales rose by 1.2% MoM in August",
+      "link": "https://www.fxstreet.com/news/united-states-retail-sales-rose-by-12-mom-in-august-202609161258",
+      "published": "Wed, 16 Sep 2026 12:58:45 GMT",
+      "ts": 1789563525
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The data-center backlash is so fierce that Republican candidates are willing to cross Trump",
+      "link": "https://www.marketwatch.com/story/the-data-center-backlash-is-so-fierce-that-republican-candidates-are-willing-to-cross-trump-9a6eaa03?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 12:54:00 GMT",
+      "ts": 1789563240
+    },
     {
       "source": "MarketWatch",
       "title": "Traders are betting Trump may soon turn on Fed chair Kevin Warsh as interest-rate hikes loom",
       "link": "https://www.marketwatch.com/story/traders-are-betting-trump-may-soon-turn-on-fed-chair-kevin-warsh-as-interest-rate-hikes-loom-b0dfff2a?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 12:53:00 GMT",
       "ts": 1789563180
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Rises Ahead Of Likely Fed Hike, Warsh Comments; Intel, SK Hynix Jump (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T12:47:45Z",
+      "ts": 1789562865
     },
     {
       "source": "FXStreet",
@@ -17,11 +73,32 @@
       "ts": 1789562732
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Seattle single-income mom homeschooling her kids discovers she owns $18M in one stock. What Dave Ramsey says to do next",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/seattle-single-income-mom-homeschooling-124500141.html",
+      "published": "2026-09-16T12:45:00Z",
+      "ts": 1789562700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Axon Stock Hit By $1 Billion Convertible Amid Cash Flow Squeeze",
+      "link": "https://www.investors.com/news/axon-stock-falls-convertible-bond-sp-500/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T12:43:30Z",
+      "ts": 1789562610
+    },
+    {
       "source": "MarketWatch",
-      "title": "Retail sales surged toward the end of summer. Economy still has plenty of momentum.",
+      "title": "Retail sales surged toward the end of summer. U.S. economy has plenty of momentum.",
       "link": "https://www.marketwatch.com/story/retail-sales-surged-toward-the-end-of-summer-economy-still-has-plenty-of-momentum-cdf667b2?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 12:42:00 GMT",
       "ts": 1789562520
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "US retail sales rebound sharply in August",
+      "link": "https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html",
+      "published": "2026-09-16T12:37:24Z",
+      "ts": 1789562244
     },
     {
       "source": "MarketWatch",
@@ -73,32 +150,11 @@
       "ts": 1789561755
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Liberty Capital (GLIBK) Acquires Quintillion in $360M Synergistic Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-capital-glibk-acquires-quintillion-122805699.html",
-      "published": "2026-09-16T12:28:05Z",
-      "ts": 1789561685
-    },
-    {
       "source": "FXStreet",
       "title": "British Pound extends losses against Euro with BoE decision in focus",
       "link": "https://www.fxstreet.com/news/british-pound-extends-losses-against-euro-with-boe-decision-in-focus-202609161224",
       "published": "Wed, 16 Sep 2026 12:24:01 GMT",
       "ts": 1789561441
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Can the Cox Acquisition Reverse Charter Communications’ (CHTR) Broadband Growth Concerns?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cox-acquisition-reverse-charter-communications-122123568.html",
-      "published": "2026-09-16T12:21:23Z",
-      "ts": 1789561283
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Happens When Strong Uptrends Meet Bullish Sentiment?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/happens-strong-uptrends-meet-bullish-122107436.html",
-      "published": "2026-09-16T12:21:07Z",
-      "ts": 1789561267
     },
     {
       "source": "FXStreet",
@@ -118,13 +174,6 @@
       "source": "MarketWatch",
       "title": "The smartest money moves to make with interest rates expected to go higher",
       "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 12:00:00 GMT",
-      "ts": 1789560000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tech’s top CEOs clash over safety, laws and speed at Salesforce event",
-      "link": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 12:00:00 GMT",
       "ts": 1789560000
     },
@@ -157,39 +206,11 @@
       "ts": 1789559199
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Fed path and credibility in focus – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-path-and-credibility-in-focus-commerzbank-202609161144",
-      "published": "Wed, 16 Sep 2026 11:44:45 GMT",
-      "ts": 1789559085
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Circle launches Arc mainnet with USDC as native gas token",
       "link": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 11:39:44 +0000",
       "ts": 1789558784
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 11:39:00 GMT",
-      "ts": 1789558740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 11:30:00 GMT",
-      "ts": 1789558200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Most workers would take a pay cut for job security right now: ‘I can’t deal with this stress anymore’",
-      "link": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 11:30:00 GMT",
-      "ts": 1789558200
     },
     {
       "source": "FXStreet",
@@ -290,13 +311,6 @@
       "ts": 1789552516
     },
     {
-      "source": "CoinDesk",
-      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
-      "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
-      "published": "Wed, 16 Sep 2026 09:42:37 +0000",
-      "ts": 1789551757
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar consolidates ahead of Fed rate decision and Warsh signals",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
@@ -332,13 +346,6 @@
       "ts": 1789546915
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise ahead of crucial Fed interest rate decision",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
-      "published": "2026-09-16T08:03:56Z",
-      "ts": 1789545836
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
@@ -372,13 +379,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 05:52:31 +0000",
       "ts": 1789537951
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee remains close to seven-week low on Wednesday, Fed's policy in focus",
-      "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-recent-losses-ahead-of-feds-policy-202609160531",
-      "published": "Wed, 16 Sep 2026 05:31:41 GMT",
-      "ts": 1789536701
     },
     {
       "source": "Investing Crypto",
