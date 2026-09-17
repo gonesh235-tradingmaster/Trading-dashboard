@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-17T02:10:09.024603Z",
+  "updated": "2026-09-17T02:27:03.877727Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro weakens to near 1.1450 as Fed raises rate for first time in three years",
+      "link": "https://www.fxstreet.com/news/euro-weakens-to-near-11450-as-fed-raises-rate-for-first-time-in-three-years-202609170226",
+      "published": "Thu, 17 Sep 2026 02:26:16 GMT",
+      "ts": 1789611976
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD rises to near $64.00 as oil prices decline",
@@ -78,13 +85,6 @@
       "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 23:51:00 GMT",
       "ts": 1789602660
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold falls to near $4,250 after Fed delivers rate hike",
-      "link": "https://www.fxstreet.com/news/gold-falls-to-near-4-250-after-fed-delivers-rate-hike-202609162325",
-      "published": "Wed, 16 Sep 2026 23:25:30 GMT",
-      "ts": 1789601130
     },
     {
       "source": "MarketWatch",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is Global Payments' Stock Performance Compared to Other Industrial Stocks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/global-payments-stock-performance-compared-143107523.html",
-      "published": "2026-09-15T14:31:07Z",
-      "ts": 1789482667
+      "title": "Fed, Bessent Fight For Credibility As 10-Year Treasury Yield Tops 5%",
+      "link": "https://www.investors.com/news/10-year-treasury-yield-federal-reserve-bessent-testimony/?src=A00220&yptr=yahoo",
+      "published": "2026-09-15T14:32:41Z",
+      "ts": 1789482761
     },
     {
       "source": "Yahoo Finance",
-      "title": "Oracle Adds $700 Million to the Cost of its AI Transformation",
-      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-adds-700-million-cost-143021878.html",
-      "published": "2026-09-15T14:30:21Z",
-      "ts": 1789482621
+      "title": "Dollar Supported by Higher Crude Prices and T-Note Yields",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-supported-higher-crude-prices-143224709.html",
+      "published": "2026-09-15T14:32:24Z",
+      "ts": 1789482744
     }
   ]
 }
