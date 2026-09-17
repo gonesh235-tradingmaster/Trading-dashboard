@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-17T08:56:21.405884Z",
+  "updated": "2026-09-17T09:13:07.622938Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Czech Koruna: Hawkish CNB pause may support CZK – Commerzbank",
+      "link": "https://www.fxstreet.com/news/czech-koruna-hawkish-cnb-pause-may-support-czk-commerzbank-202609170911",
+      "published": "Thu, 17 Sep 2026 09:11:19 GMT",
+      "ts": 1789636279
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger",
+      "link": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 09:00:31 +0000",
+      "ts": 1789635631
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: BoJ guidance key after Fed move – OCBC",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-guidance-key-after-fed-move-ocbc-202609170859",
+      "published": "Thu, 17 Sep 2026 08:59:37 GMT",
+      "ts": 1789635577
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI Oil holds near weekly lows as Saudi Oil exports find an alternative route",
+      "link": "https://www.fxstreet.com/news/wti-oil-holds-near-weekly-lows-as-saudi-oil-exports-find-an-alternative-route-202609170857",
+      "published": "Thu, 17 Sep 2026 08:57:48 GMT",
+      "ts": 1789635468
+    },
     {
       "source": "FXStreet",
       "title": "AUD/USD Price Forecast: Holds above 0.7100 amid retreating USD; 100-SMA holds the key",
@@ -52,32 +80,11 @@
       "ts": 1789633718
     },
     {
-      "source": "FXStreet",
-      "title": "ECB’s Makhlouf: Can't rule out anything at future meetings",
-      "link": "https://www.fxstreet.com/news/ecbs-makhlouf-cant-rule-out-anything-at-future-meetings-202609170813",
-      "published": "Thu, 17 Sep 2026 08:13:50 GMT",
-      "ts": 1789632830
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound flat as dollar rally pauses ahead of BoE decision",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
       "published": "2026-09-17 08:13:47",
       "ts": 1789632827
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures gain as oil slide offsets Fed rate hike jitters",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-as-oil-slide-offsets-fed-rate-hike-jitters-202609170813",
-      "published": "Thu, 17 Sep 2026 08:13:40 GMT",
-      "ts": 1789632820
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee: RBI liquidity withdrawal tempers risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-liquidity-withdrawal-tempers-risks-commerzbank-202609170810",
-      "published": "Thu, 17 Sep 2026 08:10:38 GMT",
-      "ts": 1789632638
     },
     {
       "source": "Investing Forex",
@@ -346,13 +353,6 @@
       "ts": 1789574615
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
-      "link": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 15:52:17 +0000",
-      "ts": 1789573937
-    },
-    {
       "source": "CoinDesk",
       "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
       "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "RKLB Stock Alert: What to Know as Rocket Lab Inches Closer to Iridium Acquisition",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-alert-know-rocket-205134590.html",
-      "published": "2026-09-15T20:51:34Z",
-      "ts": 1789505494
+      "title": "META Stock Alert: What to Know as Meta Platforms Plans Expanded Use of Proprietary Chips",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-stock-alert-know-meta-211054033.html",
+      "published": "2026-09-15T21:10:54Z",
+      "ts": 1789506654
     }
   ]
 }
