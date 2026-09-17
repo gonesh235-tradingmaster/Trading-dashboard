@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-17T19:51:20.798140Z",
+  "updated": "2026-09-17T20:10:38.591116Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 19:52:00 GMT",
+      "ts": 1789674720
+    },
     {
       "source": "FXStreet",
       "title": "Thai Baht: Electronics boom offers limited FX support – MUFG",
@@ -199,13 +206,6 @@
       "ts": 1789658400
     },
     {
-      "source": "MarketWatch",
-      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
-      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 15:15:00 GMT",
-      "ts": 1789658100
-    },
-    {
       "source": "CoinDesk",
       "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
       "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Iron Mountain Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iron-mountain-stock-underperforming-dow-100715952.html",
-      "published": "2026-09-16T10:07:15Z",
-      "ts": 1789553235
+      "title": "'The finance bros are gonna hate me for this': Tori Dunlap says ‘boring strategy’ made her a millionaire by 27",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/finance-bros-gonna-hate-tori-120000680.html",
+      "published": "2026-09-16T12:00:00Z",
+      "ts": 1789560000
     },
     {
       "source": "Yahoo Finance",
-      "title": "Are you 5 years from retirement? Do these 5 things now — or risk running out of cash",
-      "link": "https://finance.yahoo.com/markets/articles/5-years-retirement-5-things-100500756.html",
-      "published": "2026-09-16T10:05:00Z",
-      "ts": 1789553100
+      "title": "Is Aptiv Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aptiv-underperforming-nasdaq-115437795.html",
+      "published": "2026-09-16T11:54:37Z",
+      "ts": 1789559677
     },
     {
       "source": "Yahoo Finance",
-      "title": "Ethereum Signals 10% Drop Against Bitcoin Amid CLARITY Act Setback",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-signals-10-drop-against-100314853.html",
-      "published": "2026-09-16T10:03:14Z",
-      "ts": 1789552994
+      "title": "Is West Pharmaceutical Services Stock Outperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/west-pharmaceutical-services-stock-outperforming-115008400.html",
+      "published": "2026-09-16T11:50:08Z",
+      "ts": 1789559408
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is Cardinal Health's Stock Performance Compared to Other Health Care Services Stocks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cardinal-healths-stock-performance-compared-100143179.html",
-      "published": "2026-09-16T10:01:43Z",
-      "ts": 1789552903
+      "title": "The Stock Market Is Flashing a Warning Sign Rarely Seen in 145 Years. Here's What History Says Comes Next.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-flashing-warning-sign-115000114.html",
+      "published": "2026-09-16T11:50:00Z",
+      "ts": 1789559400
     },
     {
       "source": "Yahoo Finance",
-      "title": "Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/death-of-software-greatly-overstated-as-sector-flips-the-script-on-chip-stocks-chart-of-the-day-100000695.html",
-      "published": "2026-09-16T10:00:00Z",
-      "ts": 1789552800
+      "title": "How Is Teradyne Stock Performance Compared to Other Semiconductor Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-stock-performance-compared-other-114846545.html",
+      "published": "2026-09-16T11:48:46Z",
+      "ts": 1789559326
     }
   ]
 }
