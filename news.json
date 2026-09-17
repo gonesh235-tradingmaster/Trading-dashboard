@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-17T20:50:46.688201Z",
+  "updated": "2026-09-17T21:10:04.411285Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar slips against the Japanese Yen before the Bank of Japan raises rates",
+      "link": "https://www.fxstreet.com/news/us-dollar-slips-against-the-japanese-yen-before-the-bank-of-japan-raises-rates-202609172057",
+      "published": "Thu, 17 Sep 2026 20:57:07 GMT",
+      "ts": 1789678627
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound Sterling slides after the Bank of England stays put",
+      "link": "https://www.fxstreet.com/news/british-pound-sterling-slides-after-the-bank-of-england-stays-put-202609172056",
+      "published": "Thu, 17 Sep 2026 20:56:24 GMT",
+      "ts": 1789678584
+    },
     {
       "source": "FXStreet",
       "title": "GBP/JPY Price Forecast: Evening star puts 207.00 back in play",
       "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-evening-star-puts-20700-back-in-play-202609172047",
       "published": "Thu, 17 Sep 2026 20:47:09 GMT",
       "ts": 1789678029
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 20:44:00 +0000",
+      "ts": 1789677840
     },
     {
       "source": "FXStreet",
@@ -94,20 +115,6 @@
       "ts": 1789670290
     },
     {
-      "source": "FXStreet",
-      "title": "Crude Oil sells off and takes it all back on Saudi cargoes through Oman",
-      "link": "https://www.fxstreet.com/news/crude-oil-sells-off-and-takes-it-all-back-on-saudi-cargoes-through-oman-202609171813",
-      "published": "Thu, 17 Sep 2026 18:13:47 GMT",
-      "ts": 1789668827
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro climbs as Sterling slips on cautious BoE hold",
-      "link": "https://www.fxstreet.com/news/euro-climbs-as-sterling-slips-on-cautious-boe-hold-202609171808",
-      "published": "Thu, 17 Sep 2026 18:08:40 GMT",
-      "ts": 1789668520
-    },
-    {
       "source": "CoinTelegraph",
       "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
       "link": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -169,13 +176,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
       "published": "2026-09-17 13:57:03",
       "ts": 1789653423
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 13:53:14 +0000",
-      "ts": 1789653194
     },
     {
       "source": "CoinTelegraph",
@@ -319,66 +319,66 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "LyondellBasell (LYB) Retraces Amid Shifting Commodity Sentiment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-retraces-amid-shifting-123131175.html",
-      "published": "2026-09-16T12:31:31Z",
-      "ts": 1789561891
+      "title": "Why Meta's Zuckerberg, Nvidia's Huang Say An AI Slowdown Is Not Needed",
+      "link": "https://www.investors.com/news/technology/meta-stock-zuckerberg-ai-safety-nvidia-anthropic/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T13:22:23Z",
+      "ts": 1789564943
     },
     {
       "source": "Yahoo Finance",
-      "title": "Alphabet (GOOG) Surges 24% as Revenue Growth Soars — But Is $190 Billion in Capex Too Much?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-24-revenue-123012360.html",
-      "published": "2026-09-16T12:30:12Z",
-      "ts": 1789561812
+      "title": "Mesa man loses $449,328 home after HOA forecloses over $977 in missed assessments — lawyers say it's not uncommon",
+      "link": "https://finance.yahoo.com/real-estate/articles/mesa-man-loses-449-328-132000949.html",
+      "published": "2026-09-16T13:20:00Z",
+      "ts": 1789564800
     },
     {
       "source": "Yahoo Finance",
-      "title": "Evolution Petroleum Corporation Q4 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/energy/articles/evolution-petroleum-corporation-q4-2026-123000683.html",
-      "published": "2026-09-16T12:30:00Z",
-      "ts": 1789561800
+      "title": "Real REMAX Group (REAX) Stock Weakness Reflects Fears of AI-Driven Market Changes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/real-remax-group-reax-stock-130724417.html",
+      "published": "2026-09-16T13:07:24Z",
+      "ts": 1789564044
     },
     {
       "source": "Yahoo Finance",
-      "title": "Liberty Capital (GLIBK) Acquires Quintillion in $360M Synergistic Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-capital-glibk-acquires-quintillion-122805699.html",
-      "published": "2026-09-16T12:28:05Z",
-      "ts": 1789561685
+      "title": "Bloom Energy Corp. (BE) Short Position Weighs on Performance Amid Small-Cap AI Rally",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corp-short-position-130509545.html",
+      "published": "2026-09-16T13:05:09Z",
+      "ts": 1789563909
     },
     {
       "source": "Yahoo Finance",
-      "title": "Veralto Stock: Is VLTO Underperforming the Industrial Sector?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/veralto-stock-vlto-underperforming-industrial-122504138.html",
-      "published": "2026-09-16T12:25:04Z",
-      "ts": 1789561504
+      "title": "Oscar Health's Big ACA Gamble Is Paying Off. Here's The Caveat.",
+      "link": "https://www.investors.com/news/oscar-health-stock-medical-costs-aca-investor-update/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T13:02:50Z",
+      "ts": 1789563770
     },
     {
       "source": "Yahoo Finance",
-      "title": "Invesco Aerospace & Defense vs. Global X Defense Tech: Which ETF Is Best for Your Portfolio?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-aerospace-defense-vs-global-122501205.html",
-      "published": "2026-09-16T12:25:01Z",
-      "ts": 1789561501
+      "title": "This Dividend Stock Is Beating the Market in 2026 and Yields 2.36%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-beating-market-2026-130002850.html",
+      "published": "2026-09-16T13:00:02Z",
+      "ts": 1789563602
     },
     {
       "source": "Yahoo Finance",
-      "title": "Can the Cox Acquisition Reverse Charter Communications’ (CHTR) Broadband Growth Concerns?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cox-acquisition-reverse-charter-communications-122123568.html",
-      "published": "2026-09-16T12:21:23Z",
-      "ts": 1789561283
+      "title": "Guess’ European Fulfillment Operation Gets a Robotic Upgrade",
+      "link": "https://finance.yahoo.com/technology/articles/guess-european-fulfillment-operation-gets-130000412.html",
+      "published": "2026-09-16T13:00:00Z",
+      "ts": 1789563600
     },
     {
       "source": "Yahoo Finance",
-      "title": "What Happens When Strong Uptrends Meet Bullish Sentiment?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/happens-strong-uptrends-meet-bullish-122107436.html",
-      "published": "2026-09-16T12:21:07Z",
-      "ts": 1789561267
+      "title": "Is DTE Energy Stock Underperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dte-energy-stock-underperforming-dow-124602615.html",
+      "published": "2026-09-16T12:46:02Z",
+      "ts": 1789562762
     },
     {
       "source": "Yahoo Finance",
-      "title": "Robert Half (RHI): Can a Slow Recruitment Recovery Turn a Former Buying Mistake Into a Winner?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/robert-half-rhi-slow-recruitment-121817621.html",
-      "published": "2026-09-16T12:18:17Z",
-      "ts": 1789561097
+      "title": "Seattle single-income mom homeschooling her kids discovers she owns $18M in one stock. What Dave Ramsey says to do next",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/seattle-single-income-mom-homeschooling-124500141.html",
+      "published": "2026-09-16T12:45:00Z",
+      "ts": 1789562700
     },
     {
       "source": "Investing Forex",
