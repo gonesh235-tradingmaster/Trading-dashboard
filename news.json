@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-17T02:42:31.418130Z",
+  "updated": "2026-09-17T02:55:24.743738Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index holds gains above 100.00 as Fed signals further tightening",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-gains-above-10000-as-fed-signals-further-tightening-202609170252",
+      "published": "Thu, 17 Sep 2026 02:52:10 GMT",
+      "ts": 1789613530
+    },
     {
       "source": "FXStreet",
       "title": "Euro weakens to near 1.1450 as Fed raises rate for first time in three years",
@@ -71,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/us-president-donald-trump-to-hold-iran-talks-with-gulf-leaders-next-week-reuters-202609170015",
       "published": "Thu, 17 Sep 2026 00:15:03 GMT",
       "ts": 1789604103
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar remains weak below 0.5750 despite better-than-expected GDP data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-weak-below-05750-despite-better-than-expected-gdp-data-202609170006",
-      "published": "Thu, 17 Sep 2026 00:06:28 GMT",
-      "ts": 1789603588
     },
     {
       "source": "MarketWatch",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Reddit Finally Gets a Breakout Catalyst. This Could Be Turning Point for the Beaten-Down Stock.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-finally-gets-breakout-catalyst-150539618.html",
-      "published": "2026-09-15T15:05:39Z",
-      "ts": 1789484739
+      "title": "Is First Citizens BancShares (FCNCA) an Undervalued Opportunity?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-citizens-bancshares-fcnca-undervalued-151353136.html",
+      "published": "2026-09-15T15:13:53Z",
+      "ts": 1789485233
     },
     {
       "source": "Yahoo Finance",
-      "title": "Better Pricing for Ride-Hailing Worldwide: inDrive CEO & Founder Arsen Tomsky, Live at Nasdaq",
-      "link": "https://finance.yahoo.com/small-business/articles/better-pricing-ride-hailing-worldwide-150428338.html",
-      "published": "2026-09-15T15:04:28Z",
-      "ts": 1789484668
+      "title": "Meta launches Meta One subscriptions as it seeks to better monetize AI spending",
+      "link": "https://finance.yahoo.com/technology/article/meta-launches-meta-one-subscriptions-as-it-seeks-to-better-monetize-ai-spending-151014668.html",
+      "published": "2026-09-15T15:10:14Z",
+      "ts": 1789485014
     }
   ]
 }
