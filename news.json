@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-17T21:25:34.500028Z",
+  "updated": "2026-09-17T21:38:03.460009Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
+      "link": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
+      "published": "Thu, 17 Sep 2026 21:28:35 +0000",
+      "ts": 1789680515
+    },
     {
       "source": "MarketWatch",
       "title": "The bond market is seeing trouble. Why investors are buying now anyway.",
@@ -15,6 +22,13 @@
       "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 21:22:00 GMT",
       "ts": 1789680120
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin extends recovery from Clarity setback, gains capped by Fed hawkishness",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
+      "published": "2026-09-17 21:19:11",
+      "ts": 1789679951
     },
     {
       "source": "MarketWatch",
@@ -241,13 +255,6 @@
       "ts": 1789656658
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steady at $76.5k as markets digest Fed rate hike, M.East tensions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
-      "published": "2026-09-17 13:57:03",
-      "ts": 1789653423
-    },
-    {
       "source": "CoinTelegraph",
       "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
       "link": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -309,13 +316,6 @@
       "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
       "published": "2026-09-17 12:07:30",
       "ts": 1789646850
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
-      "link": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
-      "published": "Thu, 17 Sep 2026 12:00:00 +0000",
-      "ts": 1789646400
     },
     {
       "source": "Investing Forex",
@@ -389,6 +389,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "NVR Stock: Is NVR Underperforming the Consumer Cyclical Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvr-stock-nvr-underperforming-consumer-133902769.html",
+      "published": "2026-09-16T13:39:02Z",
+      "ts": 1789565942
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nasdaq, Dow and S&P 500 Rise Ahead of Fed Rate Decision",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-rise-133759906.html",
+      "published": "2026-09-16T13:37:59Z",
+      "ts": 1789565879
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "CoStar (CSGP): Residential Strategy Unchanged Despite Persistent Market Skepticism",
       "link": "https://finance.yahoo.com/real-estate/articles/costar-csgp-residential-strategy-unchanged-133542445.html",
       "published": "2026-09-16T13:35:42Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/lopsided-stock-market-momentum-suggests-133002553.html",
       "published": "2026-09-16T13:30:02Z",
       "ts": 1789565402
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "U.S. Retail Sales Rebound in Show of Consumer Strength",
-      "link": "https://www.wsj.com/economy/u-s-retail-sales-rebounded-last-month-cdb4a2e0?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-16T13:26:00Z",
-      "ts": 1789565160
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Bull Case for Netflix’s (NFLX) New Growth Engine",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-case-netflix-nflx-growth-132531860.html",
-      "published": "2026-09-16T13:25:31Z",
-      "ts": 1789565131
     }
   ]
 }
