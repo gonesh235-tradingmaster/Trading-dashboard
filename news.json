@@ -1,20 +1,62 @@
 {
-  "updated": "2026-09-17T12:34:27.036538Z",
+  "updated": "2026-09-17T12:56:06.349689Z",
   "count": 60,
   "items": [
     {
+      "source": "FXStreet",
+      "title": "Swiss National Bank: Inflation pressures build – Nomura",
+      "link": "https://www.fxstreet.com/news/swiss-national-bank-inflation-pressures-build-nomura-202609171242",
+      "published": "Thu, 17 Sep 2026 12:42:02 GMT",
+      "ts": 1789648922
+    },
+    {
+      "source": "MarketWatch",
+      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+      "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:39:00 GMT",
+      "ts": 1789648740
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Initial Jobless Claims dropped to 196K last week",
+      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-196k-last-week-202609171234",
+      "published": "Thu, 17 Sep 2026 12:34:33 GMT",
+      "ts": 1789648473
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher",
+      "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 12:34:11 +0000",
+      "ts": 1789648451
+    },
+    {
       "source": "Yahoo Finance",
-      "title": "Amundi picks 9.9% stake in asset manager ICG",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amundi-picks-9-9-stake-122049498.html",
-      "published": "2026-09-17T12:20:49Z",
-      "ts": 1789647649
+      "title": "The Biggest Catalyst for Alphabet Stock May Not Be Search",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-catalyst-alphabet-stock-may-123002982.html",
+      "published": "2026-09-17T12:30:02Z",
+      "ts": 1789648202
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "‘The benefits are kind of going away’: Rewards cards rules make it harder to get your money’s worth — how you still can",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/benefits-kind-going-away-rewards-123000499.html",
+      "published": "2026-09-17T12:30:00Z",
+      "ts": 1789648200
     },
     {
       "source": "Yahoo Finance",
       "title": "Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage)",
       "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T12:17:46Z",
-      "ts": 1789647466
+      "published": "2026-09-17T12:29:17Z",
+      "ts": 1789648157
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "'Oil market is a hot mess,' says analyst as supply shock keeps prices near $100: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/oil-market-is-a-hot-mess-says-analyst-as-supply-shock-keeps-prices-near-100-chart-of-the-day-122708703.html",
+      "published": "2026-09-17T12:27:08Z",
+      "ts": 1789648028
     },
     {
       "source": "Yahoo Finance",
@@ -38,6 +80,13 @@
       "ts": 1789647368
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Rising Commoditization Threatens Booz Allen Hamilton Holding Corporation’s (BAZ) Margins",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rising-commoditization-threatens-booz-allen-121543915.html",
+      "published": "2026-09-17T12:15:43Z",
+      "ts": 1789647343
+    },
+    {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
@@ -52,32 +101,11 @@
       "ts": 1789647300
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Fund Capitalizes on Axon Enterprise (AXON) in AI-Related Selloff",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-capitalizes-axon-enterprise-axon-121322313.html",
-      "published": "2026-09-17T12:13:22Z",
-      "ts": 1789647202
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Coherent Corp. (COHR): A Critical Player in AI Data Center Buildouts",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coherent-corp-cohr-critical-player-121138964.html",
-      "published": "2026-09-17T12:11:38Z",
-      "ts": 1789647098
-    },
-    {
       "source": "MarketWatch",
       "title": "Bitcoin could be headed for $230,000 in less than a decade. Here are seven ways to value the crypto.",
       "link": "https://www.marketwatch.com/story/bitcoin-could-be-headed-for-230-000-in-less-than-a-decade-here-are-seven-ways-to-value-the-crypto-d1110aab?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 12:10:00 GMT",
       "ts": 1789647000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nebius Stock Jumps On Cloud Computing Price Hikes",
-      "link": "https://www.investors.com/news/technology/nebius-stock-jumps-cloud-computing-price-hikes-nvidia-gpu/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T12:07:32Z",
-      "ts": 1789646852
     },
     {
       "source": "Investing Forex",
@@ -92,13 +120,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-weakens-against-japanese-yen-as-boe-leaves-rates-unchanged-202609171206",
       "published": "Thu, 17 Sep 2026 12:06:39 GMT",
       "ts": 1789646799
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Breakout Watch: Savvy Investors Get Wired Up For This Nvidia, Amazon Partner",
-      "link": "https://www.investors.com/research/ibd-stock-analysis/f5-stock-near-breakout-as-top-funds-buy-into-nvidia-amazon-partner/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T12:00:45Z",
-      "ts": 1789646445
     },
     {
       "source": "CoinDesk",
@@ -123,7 +144,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold recovers after Fed-led sell-off, but hawkish outlook caps gains",
+      "title": "Gold climbs over 2% as US Dollar trims post-Fed gains",
       "link": "https://www.fxstreet.com/news/gold-recovers-after-fed-led-sell-off-but-hawkish-outlook-caps-gains-202609171155",
       "published": "Thu, 17 Sep 2026 11:55:23 GMT",
       "ts": 1789646123
@@ -171,25 +192,11 @@
       "ts": 1789645260
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar: Short-term downside toward 0.7050 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-short-term-downside-toward-07050-against-us-dollar-uob-202609171131",
-      "published": "Thu, 17 Sep 2026 11:31:23 GMT",
-      "ts": 1789644683
-    },
-    {
       "source": "MarketWatch",
       "title": "How can I get my employees to stop oversharing at work?",
       "link": "https://www.marketwatch.com/story/how-can-i-get-my-employees-to-stop-oversharing-at-work-540ba78c?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 11:30:00 GMT",
       "ts": 1789644600
-    },
-    {
-      "source": "FXStreet",
-      "title": "Massive selloff: Swiss Franc plunges 2% in five days amid growing SNB-Fed divergence",
-      "link": "https://www.fxstreet.com/news/massive-selloff-swiss-franc-plunges-2-in-five-days-amid-growing-snb-fed-divergence-202609171129",
-      "published": "Thu, 17 Sep 2026 11:29:11 GMT",
-      "ts": 1789644551
     },
     {
       "source": "Investing Forex",
@@ -225,13 +232,6 @@
       "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 10:55:00 GMT",
       "ts": 1789642500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
-      "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 10:52:00 GMT",
-      "ts": 1789642320
     },
     {
       "source": "CoinDesk",
@@ -381,13 +381,6 @@
       "ts": 1789613528
     },
     {
-      "source": "CoinTelegraph",
-      "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
-      "link": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 00:23:44 +0000",
-      "ts": 1789604624
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
@@ -421,6 +414,13 @@
       "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
       "published": "2026-09-16T16:47:40Z",
       "ts": 1789577260
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "SEC chief vows action on crypto rules after Senate bill fails",
+      "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
+      "published": "2026-09-16 16:20:11",
+      "ts": 1789575611
     }
   ]
 }
