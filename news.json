@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-17T14:11:40.323106Z",
+  "updated": "2026-09-17T14:29:37.573199Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro gains against US Dollar as post-Fed rally loses momentum",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-us-dollar-as-post-fed-rally-loses-momentum-202609171424",
+      "published": "Thu, 17 Sep 2026 14:24:22 GMT",
+      "ts": 1789655062
+    },
+    {
+      "source": "FXStreet",
+      "title": "Federal Reserve: Two more hikes seen as inflation stays too high – UOB",
+      "link": "https://www.fxstreet.com/news/federal-reserve-two-more-hikes-seen-as-inflation-stays-too-high-uob-202609171418",
+      "published": "Thu, 17 Sep 2026 14:18:28 GMT",
+      "ts": 1789654708
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Home contract signings drop 4.7% from last year amid higher mortgage rates",
+      "link": "https://finance.yahoo.com/real-estate/article/home-contract-signings-drop-47-from-last-year-amid-higher-mortgage-rates-141613199.html",
+      "published": "2026-09-17T14:16:13Z",
+      "ts": 1789654573
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Unilever accused of “double standards” for workers post McCormick merger",
+      "link": "https://finance.yahoo.com/small-business/articles/unilever-accused-double-standards-workers-124645443.html",
+      "published": "2026-09-17T14:15:37Z",
+      "ts": 1789654537
+    },
     {
       "source": "FXStreet",
       "title": "British Pound: Bearish against Euro after BoE hold – TD Securities",
@@ -17,6 +45,20 @@
       "ts": 1789654048
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Energy markets grapple with Iran war uncertainty: 'We simply don't know how to model the endgame'",
+      "link": "https://finance.yahoo.com/markets/article/energy-markets-grapple-with-iran-war-uncertainty-we-simply-dont-know-how-to-model-the-endgame-140723902.html",
+      "published": "2026-09-17T14:07:23Z",
+      "ts": 1789654043
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ciena Stock Climbs On Three-Year, 30% Revenue Growth Outlook",
+      "link": "https://www.investors.com/news/technology/ciena-stock-investor-day-financial-targets-supply-constraints/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T14:06:51Z",
+      "ts": 1789654011
+    },
+    {
       "source": "MarketWatch",
       "title": "The smartest money moves to make now that interest rates are going up",
       "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
@@ -24,18 +66,18 @@
       "ts": 1789653840
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Fastly Highlights 43% Security Growth as AI Traffic Fuels Edge Opportunity",
-      "link": "https://finance.yahoo.com/technology/ai/articles/fastly-highlights-43-security-growth-140206222.html",
-      "published": "2026-09-17T14:02:06Z",
-      "ts": 1789653726
-    },
-    {
       "source": "FXStreet",
       "title": "Japanese Yen: BoJ tightening expectations lift JPY against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/japanese-yen-boj-tightening-expectations-lift-jpy-against-us-dollar-scotiabank-202609171400",
       "published": "Thu, 17 Sep 2026 14:00:16 GMT",
       "ts": 1789653616
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Strong Operational Momentum Drives Quanta Services’ (PWR) Full-Year Outlook Upgrade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-operational-momentum-drives-quanta-135944646.html",
+      "published": "2026-09-17T13:59:44Z",
+      "ts": 1789653584
     },
     {
       "source": "Investing Crypto",
@@ -59,13 +101,6 @@
       "ts": 1789653194
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T13:53:12Z",
-      "ts": 1789653192
-    },
-    {
       "source": "FXStreet",
       "title": "Bank of England: November hike risk rises – Rabobank",
       "link": "https://www.fxstreet.com/news/bank-of-england-november-hike-risk-rises-rabobank-202609171351",
@@ -73,32 +108,11 @@
       "ts": 1789653077
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Corning (GLW) Rallied on Strong Long-Term Outlook Upgrade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-rallied-strong-long-135038335.html",
-      "published": "2026-09-17T13:50:38Z",
-      "ts": 1789653038
-    },
-    {
       "source": "MarketWatch",
       "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
       "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 13:48:00 GMT",
       "ts": 1789652880
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Corning’s (GLW) Leadership Advantage in Adapting to Tech Transitions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-leadership-advantage-adapting-134515382.html",
-      "published": "2026-09-17T13:45:15Z",
-      "ts": 1789652715
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "10-year Treasury yield eases, oil falls to $100: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-eases-oil-falls-to-100-alphacheck-134408021.html",
-      "published": "2026-09-17T13:44:08Z",
-      "ts": 1789652648
     },
     {
       "source": "FXStreet",
@@ -178,25 +192,11 @@
       "ts": 1789650000
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Faster BoJ tightening supports gains against US Dollar - MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-faster-boj-tightening-supports-gains-against-us-dollar-mufg-202609171259",
-      "published": "Thu, 17 Sep 2026 12:59:35 GMT",
-      "ts": 1789649975
-    },
-    {
       "source": "CoinTelegraph",
       "title": "S&P Global to acquire blockchain security platform OpenZeppelin",
       "link": "https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 12:56:23 +0000",
       "ts": 1789649783
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss National Bank: Inflation pressures build – Nomura",
-      "link": "https://www.fxstreet.com/news/swiss-national-bank-inflation-pressures-build-nomura-202609171242",
-      "published": "Thu, 17 Sep 2026 12:42:02 GMT",
-      "ts": 1789648922
     },
     {
       "source": "MarketWatch",
