@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T22:24:16.272853Z",
+  "updated": "2026-09-17T22:37:08.265335Z",
   "count": 60,
   "items": [
     {
@@ -382,45 +382,45 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "How I’m Using This Great Barchart Stock Screener to Feel Like the ‘Dr. J’ of Trading",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/m-using-great-barchart-stock-144936394.html",
+      "published": "2026-09-16T14:49:36Z",
+      "ts": 1789570176
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Hot or not? The economy’s fate rests on Kevin Warsh’s answer to one key question",
+      "link": "https://finance.yahoo.com/economy/articles/hot-not-economy-fate-rests-144750028.html",
+      "published": "2026-09-16T14:47:50Z",
+      "ts": 1789570070
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "US Politicians Are Buying These Two Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-politicians-buying-two-stocks-144637200.html",
+      "published": "2026-09-16T14:46:37Z",
+      "ts": 1789569997
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dave & Buster’s (PLAY) Bets On New Leaders To Reverse Its Slide",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-buster-play-bets-leaders-144539009.html",
+      "published": "2026-09-16T14:45:39Z",
+      "ts": 1789569939
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Comfort Systems USA (FIX) Positioned to Benefit from Accelerated AI Investment",
+      "link": "https://finance.yahoo.com/technology/ai/articles/comfort-systems-usa-fix-positioned-144523131.html",
+      "published": "2026-09-16T14:45:23Z",
+      "ts": 1789569923
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Why Binance Is Dipping Its Toes Into TradFi",
       "link": "https://finance.yahoo.com/markets/options/articles/why-binance-dipping-toes-tradfi-144215301.html",
       "published": "2026-09-16T14:42:15Z",
       "ts": 1789569735
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Fund Exited Insmed (INSM) After the Investment Thesis Played Out",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-exited-insmed-insm-investment-144040894.html",
-      "published": "2026-09-16T14:40:40Z",
-      "ts": 1789569640
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Brazil’s Nubank launches in the US",
-      "link": "https://finance.yahoo.com/small-business/articles/brazil-nubank-launches-us-144017362.html",
-      "published": "2026-09-16T14:40:17Z",
-      "ts": 1789569617
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "If You Missed the Nancy Pelosi Rally, Here’s the Case for Buying Bloom Energy Stock Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/missed-nancy-pelosi-rally-case-143858523.html",
-      "published": "2026-09-16T14:38:58Z",
-      "ts": 1789569538
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Apple Watch Rival Garmin Traverses Rocky Road Toward Buy Range",
-      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/garmin-stock-apple-watch-rival-buy-range/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T14:37:33Z",
-      "ts": 1789569453
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dollar Posts Modest Gains Ahead of Expected Fed Rate Hike",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-posts-modest-gains-ahead-143354252.html",
-      "published": "2026-09-16T14:33:54Z",
-      "ts": 1789569234
     }
   ]
 }
