@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-17T09:53:14.245280Z",
+  "updated": "2026-09-17T10:10:19.984595Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro falls below 179.00 as Japanese Yen strengthens ahead of BoJ",
+      "link": "https://www.fxstreet.com/news/euro-falls-below-17900-as-japanese-yen-strengthens-ahead-of-boj-202609171004",
+      "published": "Thu, 17 Sep 2026 10:04:11 GMT",
+      "ts": 1789639451
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro languishes below 1.1500 in the aftermath of Fed’s hawkish hike",
+      "link": "https://www.fxstreet.com/news/euro-languishes-below-11500-in-the-aftermath-of-feds-hawkish-hike-202609171004",
+      "published": "Thu, 17 Sep 2026 10:04:01 GMT",
+      "ts": 1789639441
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Warsh message supports limited upside – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-warsh-message-supports-limited-upside-mufg-202609170959",
+      "published": "Thu, 17 Sep 2026 09:59:15 GMT",
+      "ts": 1789639155
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Revolut says no direct contact after $3 million public ransom demand",
+      "link": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 09:57:51 +0000",
+      "ts": 1789639071
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why stocks can still advance after a Fed hike, according to a Wall Street strategist",
+      "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 09:54:00 GMT",
+      "ts": 1789638840
+    },
     {
       "source": "FXStreet",
       "title": "British Pound: Sterling seen outperforming peers – Societe Generale",
@@ -53,13 +88,6 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why the S&P 500 could still advance after a Fed hike, according to a Wall Street strategist",
-      "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 09:16:00 GMT",
-      "ts": 1789636560
-    },
-    {
-      "source": "MarketWatch",
       "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 09:15:00 GMT",
@@ -85,20 +113,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-boj-guidance-key-after-fed-move-ocbc-202609170859",
       "published": "Thu, 17 Sep 2026 08:59:37 GMT",
       "ts": 1789635577
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Oil holds near weekly lows as Saudi Oil exports find an alternative route",
-      "link": "https://www.fxstreet.com/news/wti-oil-holds-near-weekly-lows-as-saudi-oil-exports-find-an-alternative-route-202609170857",
-      "published": "Thu, 17 Sep 2026 08:57:48 GMT",
-      "ts": 1789635468
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Holds above 0.7100 amid retreating USD; 100-SMA holds the key",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-above-07100-amid-retreating-usd-100-sma-holds-the-key-202609170856",
-      "published": "Thu, 17 Sep 2026 08:56:00 GMT",
-      "ts": 1789635360
     },
     {
       "source": "CoinDesk",
@@ -183,13 +197,6 @@
       "link": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 05:49:06 +0000",
       "ts": 1789624146
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee draws support from RBI's intervention near seven-week low",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-ground-despite-fears-of-more-fed-interest-rate-hikes-202609170519",
-      "published": "Thu, 17 Sep 2026 05:19:51 GMT",
-      "ts": 1789622391
     },
     {
       "source": "CoinDesk",
@@ -304,13 +311,6 @@
       "ts": 1789583339
     },
     {
-      "source": "CoinTelegraph",
-      "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
-      "link": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 18:01:55 +0000",
-      "ts": 1789581715
-    },
-    {
       "source": "CoinDesk",
       "title": "Fed raises rates by 25 basis points in first hike since July 2023",
       "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades",
+      "link": "https://finance.yahoo.com/energy/articles/hormuz-risk-opens-40-plus-220000152.html",
+      "published": "2026-09-15T22:00:00Z",
+      "ts": 1789509600
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Anthropic Just Put Claude Inside Schwab and BlackRock. The AI Agent War Has Reached Wealth Management",
       "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-just-put-claude-inside-215957194.html",
       "published": "2026-09-15T21:59:57Z",
       "ts": 1789509597
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Palantir and Nvidia Are Restricting Anthropic’s AI. Microsoft Could Win the Enterprise Trust War",
-      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-restricting-anthropic-ai-215533551.html",
-      "published": "2026-09-15T21:55:33Z",
-      "ts": 1789509333
     }
   ]
 }
