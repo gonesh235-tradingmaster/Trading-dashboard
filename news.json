@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-17T15:39:38.884142Z",
+  "updated": "2026-09-17T15:53:13.798623Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
+      "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 15:49:00 GMT",
+      "ts": 1789660140
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound loses its footing as BoE holds meet Fed tightening",
+      "link": "https://www.fxstreet.com/news/british-pound-loses-its-footing-as-boe-holds-meet-fed-tightening-202609171543",
+      "published": "Thu, 17 Sep 2026 15:43:17 GMT",
+      "ts": 1789659797
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ETSY Gets a Bullish Upgrade: What Investors Should Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etsy-gets-bullish-upgrade-investors-153936911.html",
+      "published": "2026-09-17T15:39:36Z",
+      "ts": 1789659576
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "North American Gold ETF Buying Jumped From $71 Million to $7.7 Billion in One Month. Can GLDM Hold Up?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/north-american-gold-etf-buying-153725893.html",
+      "published": "2026-09-17T15:37:25Z",
+      "ts": 1789659445
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SEC Clears Path For Tokenized Stock Trading. These Stocks Rally.",
+      "link": "https://www.investors.com/news/blockchain-tokenized-stock-trading-sec/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T15:33:36Z",
+      "ts": 1789659216
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nike (NKE) Is Down 40% YTD: Will the Turnaround Strategy Work?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-down-40-ytd-153250563.html",
+      "published": "2026-09-17T15:32:50Z",
+      "ts": 1789659170
+    },
     {
       "source": "Yahoo Finance",
       "title": "Average auto loan interest rates by credit score in 2026",
@@ -36,13 +78,6 @@
       "link": "https://finance.yahoo.com/healthcare/articles/novartis-nvs-ionis-ions-big-152119015.html",
       "published": "2026-09-17T15:21:19Z",
       "ts": 1789658479
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/strategist-wanted-8-400-p-152036941.html",
-      "published": "2026-09-17T15:20:36Z",
-      "ts": 1789658436
     },
     {
       "source": "MarketWatch",
@@ -85,34 +120,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
       "published": "Thu, 17 Sep 2026 15:03:19 +0000",
       "ts": 1789657399
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Second-chance car loans: What they are and how to get one",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/second-chance-car-loans-one-210834465.html",
-      "published": "2026-09-17T15:02:40Z",
-      "ts": 1789657360
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Leads Charge After Fed Day; Nvidia, Amazon Rise (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T15:00:55Z",
-      "ts": 1789657255
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "VinFast (VFS)-Backed Taxi Firm GSM Plots a US and European Push ahead of its Hong Kong IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vinfast-vfs-backed-taxi-firm-150001467.html",
-      "published": "2026-09-17T15:00:01Z",
-      "ts": 1789657201
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Talen Energy (TLN) Gains as Regulatory Progress Enhances Data Center Framework",
-      "link": "https://finance.yahoo.com/energy/articles/talen-energy-tln-gains-regulatory-145925718.html",
-      "published": "2026-09-17T14:59:25Z",
-      "ts": 1789657165
     },
     {
       "source": "CoinDesk",
@@ -183,13 +190,6 @@
       "link": "https://www.fxstreet.com/news/federal-reserve-two-more-hikes-seen-as-inflation-stays-too-high-uob-202609171418",
       "published": "Thu, 17 Sep 2026 14:18:28 GMT",
       "ts": 1789654708
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Bearish against Euro after BoE hold – TD Securities",
-      "link": "https://www.fxstreet.com/news/british-pound-bearish-against-euro-after-boe-hold-td-securities-202609171408",
-      "published": "Thu, 17 Sep 2026 14:08:55 GMT",
-      "ts": 1789654135
     },
     {
       "source": "MarketWatch",
@@ -276,13 +276,6 @@
       "ts": 1789649783
     },
     {
-      "source": "MarketWatch",
-      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
-      "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 12:39:00 GMT",
-      "ts": 1789648740
-    },
-    {
       "source": "CoinDesk",
       "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
       "link": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
@@ -290,11 +283,25 @@
       "ts": 1789648641
     },
     {
+      "source": "Investing Forex",
+      "title": "Uganda shilling faces pressure as dollar demand rises",
+      "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
+      "published": "2026-09-17 12:35:41",
+      "ts": 1789648541
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher",
       "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 12:34:11 +0000",
       "ts": 1789648451
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Global yields ease as Fed hike and BoE rate hold anchor debt bourses",
+      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
+      "published": "2026-09-17 12:07:30",
+      "ts": 1789646850
     },
     {
       "source": "CoinDesk",
@@ -323,6 +330,13 @@
       "link": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
       "published": "Thu, 17 Sep 2026 11:42:22 +0000",
       "ts": 1789645342
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound falls as BoE holds rates, cautious minutes weigh",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
+      "published": "2026-09-17 11:20:53",
+      "ts": 1789644053
     },
     {
       "source": "CoinDesk",
@@ -360,18 +374,25 @@
       "ts": 1789637852
     },
     {
+      "source": "Investing Forex",
+      "title": "Yen rise as markets price BOJ rate hike  while dollar pauses post-Fed",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
+      "published": "2026-09-17 09:27:30",
+      "ts": 1789637250
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate hike pacifies markets' inflation worries",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-17-dow-sp-500-nasdaq-081248626.html",
+      "published": "2026-09-17T08:12:48Z",
+      "ts": 1789632768
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin consolidates above $75K support: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-17 07:11:34",
       "ts": 1789629094
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds seven-week high, yen steadies",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
-      "published": "2026-09-17 05:02:32",
-      "ts": 1789621352
     },
     {
       "source": "Investing Crypto",
@@ -400,27 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
       "published": "2026-09-16 17:30:36",
       "ts": 1789579836
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
-      "published": "2026-09-16T16:47:40Z",
-      "ts": 1789577260
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "SEC chief vows action on crypto rules after Senate bill fails",
-      "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
-      "published": "2026-09-16 16:20:11",
-      "ts": 1789575611
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Coinbase cuts trading fees for active users on Advanced platform",
-      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
-      "published": "2026-09-16 14:56:02",
-      "ts": 1789570562
     }
   ]
 }
