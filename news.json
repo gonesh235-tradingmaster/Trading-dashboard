@@ -1,7 +1,119 @@
 {
-  "updated": "2026-09-17T11:53:23.283693Z",
+  "updated": "2026-09-17T12:12:55.044369Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Bitcoin could be headed for $230,000 in less than a decade. Here are seven ways to value the crypto.",
+      "link": "https://www.marketwatch.com/story/bitcoin-could-be-headed-for-230-000-in-less-than-a-decade-here-are-seven-ways-to-value-the-crypto-d1110aab?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:10:00 GMT",
+      "ts": 1789647000
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Global yields ease as Fed hike and BoE rate hold anchor debt bourses",
+      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
+      "published": "2026-09-17 12:07:30",
+      "ts": 1789646850
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound weakens against Japanese Yen as BoE leaves rates unchanged",
+      "link": "https://www.fxstreet.com/news/british-pound-weakens-against-japanese-yen-as-boe-leaves-rates-unchanged-202609171206",
+      "published": "Thu, 17 Sep 2026 12:06:39 GMT",
+      "ts": 1789646799
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Prediction: Tesla Stock Will Be Worth This Much in 2031",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-stock-worth-much-120501435.html",
+      "published": "2026-09-17T12:05:01Z",
+      "ts": 1789646701
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Verizon Stock: Connecting Investors To Value Along With 5.6% Yield",
+      "link": "https://www.investors.com/research/the-income-investor/verizon-vz-stock-income-investor-value-yield/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T12:00:01Z",
+      "ts": 1789646401
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
+      "link": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
+      "published": "Thu, 17 Sep 2026 12:00:00 +0000",
+      "ts": 1789646400
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
+      "link": "https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 12:00:00 +0000",
+      "ts": 1789646400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Do you have what it takes to join America's 1%? Here's how to build a first class portfolio today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/takes-join-americas-1-heres-120000963.html",
+      "published": "2026-09-17T12:00:00Z",
+      "ts": 1789646400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Amazon Deal Sends Generac Stock Skyrocketing",
+      "link": "https://www.investors.com/market-trend/stock-market-today/amazon-deal-sends-generac-stock-skyrocketing/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T11:58:54Z",
+      "ts": 1789646334
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T11:58:09Z",
+      "ts": 1789646289
+    },
+    {
+      "source": "FXStreet",
+      "title": "Federal Reserve: Hawkish path extends into year-end – Commerzbank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-path-extends-into-year-end-commerzbank-202609171158",
+      "published": "Thu, 17 Sep 2026 11:58:03 GMT",
+      "ts": 1789646283
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Merck & Co. (MRK) is Building a Stronger Future Beyond Its Keytruda Franchise",
+      "link": "https://finance.yahoo.com/healthcare/articles/merck-co-mrk-building-stronger-115738035.html",
+      "published": "2026-09-17T11:57:38Z",
+      "ts": 1789646258
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Earnings Drag and Geopolitical Headwinds Weigh on Lockheed Martin’s (LMT) Performance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-drag-geopolitical-headwinds-weigh-115555417.html",
+      "published": "2026-09-17T11:55:55Z",
+      "ts": 1789646155
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold recovers after Fed-led sell-off, but hawkish outlook caps gains",
+      "link": "https://www.fxstreet.com/news/gold-recovers-after-fed-led-sell-off-but-hawkish-outlook-caps-gains-202609171155",
+      "published": "Thu, 17 Sep 2026 11:55:23 GMT",
+      "ts": 1789646123
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Group 1 Automotive (GPI): Can High Debt and a Troubled UK Acquisition Derail the Recovery?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/group-1-automotive-gpi-high-115244285.html",
+      "published": "2026-09-17T11:52:44Z",
+      "ts": 1789645964
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Falling Bitcoin Prices Drag Down Products and Mining Revenue for Canaan (CAN)",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/falling-bitcoin-prices-drag-down-115121991.html",
+      "published": "2026-09-17T11:51:21Z",
+      "ts": 1789645881
+    },
     {
       "source": "FXStreet",
       "title": "Silver price rebounds on softer Oil but Fed tightening caps recovery",
@@ -94,18 +206,11 @@
       "ts": 1789643700
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound falls vertically after BoE leaves interest rates unchanged at 3.75%",
-      "link": "https://www.fxstreet.com/news/british-pound-falls-vertically-after-boe-leaves-interest-rates-unchanged-at-375-202609171112",
-      "published": "Thu, 17 Sep 2026 11:12:18 GMT",
-      "ts": 1789643538
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Second order effects guide BoJ risks – Rabobank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-second-order-effects-guide-boj-risks-rabobank-202609171107",
-      "published": "Thu, 17 Sep 2026 11:07:49 GMT",
-      "ts": 1789643269
+      "source": "Investing Crypto",
+      "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
+      "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
+      "published": "2026-09-17 11:00:34",
+      "ts": 1789642834
     },
     {
       "source": "MarketWatch",
@@ -171,6 +276,13 @@
       "ts": 1789637852
     },
     {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rangebound at $76.7k as markets digest Fed rate hike, M.East tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
+      "published": "2026-09-17 09:30:31",
+      "ts": 1789637431
+    },
+    {
       "source": "Investing Forex",
       "title": "Yen rise as markets price BOJ rate hike  while dollar pauses post-Fed",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
@@ -199,13 +311,6 @@
       "ts": 1789634508
     },
     {
-      "source": "Investing Forex",
-      "title": "U.S. 10-year Treasury yield dips in afterglow of Fed hike",
-      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
-      "published": "2026-09-17 08:09:55",
-      "ts": 1789632595
-    },
-    {
       "source": "CoinDesk",
       "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
       "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
@@ -227,11 +332,11 @@
       "ts": 1789630027
     },
     {
-      "source": "MarketWatch",
-      "title": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.",
-      "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 07:08:00 GMT",
-      "ts": 1789628880
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates above $75K support: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-17 07:11:34",
+      "ts": 1789629094
     },
     {
       "source": "CoinTelegraph",
@@ -239,13 +344,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 06:01:31 +0000",
       "ts": 1789624891
-    },
-    {
-      "source": "FXStreet",
-      "title": "Breaking: Bank of England keeps its policy rate at 3.75%",
-      "link": "https://www.fxstreet.com/news/boe-expected-to-hold-interest-rate-at-375-202609170600",
-      "published": "Thu, 17 Sep 2026 06:00:00 GMT",
-      "ts": 1789624800
     },
     {
       "source": "CoinTelegraph",
@@ -297,27 +395,6 @@
       "ts": 1789595647
     },
     {
-      "source": "CoinTelegraph",
-      "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
-      "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 20:51:38 +0000",
-      "ts": 1789591898
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin bounces at $75,791 below Ichimoku cloud: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-16 19:18:24",
-      "ts": 1789586304
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
-      "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
-      "published": "Wed, 16 Sep 2026 19:07:34 +0000",
-      "ts": 1789585654
-    },
-    {
       "source": "Investing Forex",
       "title": "Loonie weakens after Fed hike as dollar gains on hawkish outlook",
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-after-fed-hike-as-dollar-gains-on-hawkish-outlook-4904309",
@@ -344,83 +421,6 @@
       "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
       "published": "2026-09-16T16:47:40Z",
       "ts": 1789577260
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "SEC chief vows action on crypto rules after Senate bill fails",
-      "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
-      "published": "2026-09-16 16:20:11",
-      "ts": 1789575611
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Coinbase cuts trading fees for active users on Advanced platform",
-      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
-      "published": "2026-09-16 14:56:02",
-      "ts": 1789570562
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
-      "published": "2026-09-16 13:44:48",
-      "ts": 1789566288
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
-      "published": "2026-09-16 09:24:27",
-      "ts": 1789550667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees GBP gains as short-lived ahead of October budget risks",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
-      "published": "2026-09-16 09:07:19",
-      "ts": 1789549639
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as Fed hike bets and UK inflation uptick weigh",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
-      "published": "2026-09-16 08:21:55",
-      "ts": 1789546915
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
-      "published": "2026-09-16 07:43:07",
-      "ts": 1789544587
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
-      "published": "2026-09-16 07:30:36",
-      "ts": 1789543836
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Donnelley Financial (DFIN) Bets AI Translation Powers Its Next Deal Boom",
-      "link": "https://finance.yahoo.com/technology/ai/articles/donnelley-financial-dfin-bets-ai-030405240.html",
-      "published": "2026-09-16T03:04:05Z",
-      "ts": 1789527845
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MannKind (MNKD) Bets On Inhaled Weight Loss Amid Widening Losses",
-      "link": "https://finance.yahoo.com/healthcare/articles/mannkind-mnkd-bets-inhaled-weight-025827282.html",
-      "published": "2026-09-16T02:58:27Z",
-      "ts": 1789527507
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Artivion’s (AORT) Growth Story Hides A Widening Bottom-Line Problem",
-      "link": "https://finance.yahoo.com/healthcare/articles/artivion-aort-growth-story-hides-024959979.html",
-      "published": "2026-09-16T02:49:59Z",
-      "ts": 1789526999
     }
   ]
 }
