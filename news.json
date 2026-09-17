@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T02:55:24.743738Z",
+  "updated": "2026-09-17T03:10:47.359581Z",
   "count": 60,
   "items": [
     {
@@ -8,6 +8,13 @@
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-gains-above-10000-as-fed-signals-further-tightening-202609170252",
       "published": "Thu, 17 Sep 2026 02:52:10 GMT",
       "ts": 1789613530
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
+      "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 02:52:08 +0000",
+      "ts": 1789613528
     },
     {
       "source": "FXStreet",
@@ -339,13 +346,6 @@
       "ts": 1789563600
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
-      "link": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 12:36:20 +0000",
-      "ts": 1789562180
-    },
-    {
       "source": "Investing Forex",
       "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is First Citizens BancShares (FCNCA) an Undervalued Opportunity?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-citizens-bancshares-fcnca-undervalued-151353136.html",
-      "published": "2026-09-15T15:13:53Z",
-      "ts": 1789485233
+      "title": "How Allison Transmission Holdings (ALSN) is Capturing New Markets Beyond Commercial Vehicles",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-holdings-alsn-capturing-153216137.html",
+      "published": "2026-09-15T15:32:16Z",
+      "ts": 1789486336
     },
     {
       "source": "Yahoo Finance",
-      "title": "Meta launches Meta One subscriptions as it seeks to better monetize AI spending",
-      "link": "https://finance.yahoo.com/technology/article/meta-launches-meta-one-subscriptions-as-it-seeks-to-better-monetize-ai-spending-151014668.html",
-      "published": "2026-09-15T15:10:14Z",
-      "ts": 1789485014
+      "title": "Marathon Petroleum Stock Just Hit New Highs, But Oil Price Risks Remain",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-stock-just-hit-153003138.html",
+      "published": "2026-09-15T15:30:03Z",
+      "ts": 1789486203
     }
   ]
 }
