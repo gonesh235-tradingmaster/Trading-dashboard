@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-17T09:13:07.622938Z",
+  "updated": "2026-09-17T09:30:14.161604Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Why the S&P 500 could still advance after a Fed hike, according to a Wall Street strategist",
+      "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 09:16:00 GMT",
+      "ts": 1789636560
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 09:15:00 GMT",
+      "ts": 1789636500
+    },
     {
       "source": "FXStreet",
       "title": "Czech Koruna: Hawkish CNB pause may support CZK – Commerzbank",
@@ -73,13 +87,6 @@
       "ts": 1789634107
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Remains near recent lows against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-remains-near-recent-lows-against-us-dollar-uob-202609170828",
-      "published": "Thu, 17 Sep 2026 08:28:38 GMT",
-      "ts": 1789633718
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound flat as dollar rally pauses ahead of BoE decision",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
@@ -148,6 +155,13 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 06:01:31 +0000",
       "ts": 1789624891
+    },
+    {
+      "source": "FXStreet",
+      "title": "BoE set to hold interest rates at 3.75% for sixth meeting in a row",
+      "link": "https://www.fxstreet.com/news/boe-expected-to-hold-interest-rate-at-375-202609170600",
+      "published": "Thu, 17 Sep 2026 06:00:00 GMT",
+      "ts": 1789624800
     },
     {
       "source": "CoinTelegraph",
@@ -248,25 +262,11 @@
       "ts": 1789594800
     },
     {
-      "source": "MarketWatch",
-      "title": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
-      "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 20:52:00 GMT",
-      "ts": 1789591920
-    },
-    {
       "source": "CoinTelegraph",
       "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
       "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 20:51:38 +0000",
       "ts": 1789591898
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s a sneaky way to play the Fed’s rate increase",
-      "link": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 20:38:00 GMT",
-      "ts": 1789591080
     },
     {
       "source": "CoinTelegraph",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "META Stock Alert: What to Know as Meta Platforms Plans Expanded Use of Proprietary Chips",
-      "link": "https://finance.yahoo.com/technology/ai/articles/meta-stock-alert-know-meta-211054033.html",
-      "published": "2026-09-15T21:10:54Z",
-      "ts": 1789506654
+      "title": "China’s State Media Calls AI Slowdown a “Cold War” Tactic. Z.AI Is Raising $5 Billion to Do the Opposite",
+      "link": "https://finance.yahoo.com/technology/ai/articles/china-state-media-calls-ai-212953858.html",
+      "published": "2026-09-15T21:29:53Z",
+      "ts": 1789507793
     }
   ]
 }
