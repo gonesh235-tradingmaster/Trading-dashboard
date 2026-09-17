@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-17T18:12:08.012923Z",
+  "updated": "2026-09-17T18:31:22.794531Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Crude Oil sells off and takes it all back on Saudi cargoes through Oman",
+      "link": "https://www.fxstreet.com/news/crude-oil-sells-off-and-takes-it-all-back-on-saudi-cargoes-through-oman-202609171813",
+      "published": "Thu, 17 Sep 2026 18:13:47 GMT",
+      "ts": 1789668827
+    },
     {
       "source": "FXStreet",
       "title": "Euro climbs as Sterling slips on cautious BoE hold",
@@ -113,13 +120,6 @@
       "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 15:49:00 GMT",
       "ts": 1789660140
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound loses its footing as BoE hold meets Fed hike",
-      "link": "https://www.fxstreet.com/news/british-pound-loses-its-footing-as-boe-holds-meet-fed-tightening-202609171543",
-      "published": "Thu, 17 Sep 2026 15:43:17 GMT",
-      "ts": 1789659797
     },
     {
       "source": "MarketWatch",
@@ -389,6 +389,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Is International Flavors & Fragrances Stock Outperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/international-flavors-fragrances-stock-outperforming-093049933.html",
+      "published": "2026-09-16T09:30:49Z",
+      "ts": 1789551049
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown",
       "link": "https://finance.yahoo.com/energy/articles/japanese-refiners-rush-oman-crude-093000428.html",
       "published": "2026-09-16T09:30:00Z",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
       "published": "2026-09-16 09:07:19",
       "ts": 1789549639
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "I'm 62 With $1.5 Million in an IRA. Should I Convert $150,000 a Year to a Roth to Reduce Future RMDs?",
-      "link": "https://finance.yahoo.com/news/im-62-1-5-million-120000270.html",
-      "published": "2026-09-16T09:00:00Z",
-      "ts": 1789549200
     }
   ]
 }
