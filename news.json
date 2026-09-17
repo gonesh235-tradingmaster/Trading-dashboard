@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-17T01:11:15.015090Z",
+  "updated": "2026-09-17T01:27:23.302527Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar holds gains near 0.7100 despite Fed rate hike, IMF urges RBA to stay hawkish",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-gains-near-07100-despite-fed-rate-hike-imf-urges-rba-to-stay-hawkish-202609170119",
+      "published": "Thu, 17 Sep 2026 01:19:50 GMT",
+      "ts": 1789607990
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI remains below $97.50 as Saudi routes recover, US stocks shrink less than expected",
+      "link": "https://www.fxstreet.com/news/wti-remains-below-9750-as-saudi-routes-recover-us-stocks-shrink-less-than-expected-202609170118",
+      "published": "Thu, 17 Sep 2026 01:18:19 GMT",
+      "ts": 1789607899
+    },
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7580 vs. 6.7628 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67580-vs-67628-previous-202609170115",
+      "published": "Thu, 17 Sep 2026 01:15:35 GMT",
+      "ts": 1789607735
+    },
     {
       "source": "FXStreet",
       "title": "British Pound languishes near late July lows as hawkish Fed underpins USD ahead of BoE",
@@ -106,27 +127,6 @@
       "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 21:40:00 GMT",
       "ts": 1789594800
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Japanese Yen gives back more of its rally as the Fed raises rates",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-gives-back-more-of-its-rally-as-the-fed-raises-rates-202609162118",
-      "published": "Wed, 16 Sep 2026 21:18:26 GMT",
-      "ts": 1789593506
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand GDP in the barrel with the Kiwi at July lows",
-      "link": "https://www.fxstreet.com/news/new-zealand-gdp-in-the-barrel-with-the-kiwi-at-july-lows-202609162114",
-      "published": "Wed, 16 Sep 2026 21:14:20 GMT",
-      "ts": 1789593260
-    },
-    {
-      "source": "FXStreet",
-      "title": "Trump demands 1% rates hours after the Fed raised them",
-      "link": "https://www.fxstreet.com/news/trump-demands-1-rates-hours-after-the-fed-raised-them-202609162104",
-      "published": "Wed, 16 Sep 2026 21:04:26 GMT",
-      "ts": 1789592666
     },
     {
       "source": "MarketWatch",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
-      "published": "2026-09-15T13:33:00Z",
-      "ts": 1789479180
+      "title": "Radiant Logistics sees double-digit growth in FQ4, shares up 16%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-sees-double-digit-135419046.html",
+      "published": "2026-09-15T13:54:19Z",
+      "ts": 1789480459
     },
     {
       "source": "Yahoo Finance",
-      "title": "Robinhood To Offer Share Redemptions And Voting Rights On Tokenized Stocks",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/robinhood-offer-share-redemptions-voting-132500081.html",
-      "published": "2026-09-15T13:25:00Z",
-      "ts": 1789478700
+      "title": "Brown & Brown Stock: Is BRO Underperforming the Financial Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brown-brown-stock-bro-underperforming-135038375.html",
+      "published": "2026-09-15T13:50:38Z",
+      "ts": 1789480238
     }
   ]
 }
