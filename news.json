@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-17T07:32:15.559953Z",
+  "updated": "2026-09-17T07:53:17.502644Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed",
+      "link": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 07:50:00 GMT",
+      "ts": 1789631400
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD jumps to near $64.40 as rally in oil prices hit a pause",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-6440-as-rally-in-oil-prices-hit-a-pause-202609170741",
+      "published": "Thu, 17 Sep 2026 07:41:21 GMT",
+      "ts": 1789630881
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound rebounds from July 30 lows vs retreating USD as traders await BoE decision",
+      "link": "https://www.fxstreet.com/news/british-pound-rebounds-from-july-30-lows-vs-retreating-usd-as-traders-await-boe-decision-202609170740",
+      "published": "Thu, 17 Sep 2026 07:40:35 GMT",
+      "ts": 1789630835
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold: Higher yields cap recovery prospects – OCBC",
+      "link": "https://www.fxstreet.com/news/gold-higher-yields-cap-recovery-prospects-ocbc-202609170736",
+      "published": "Thu, 17 Sep 2026 07:36:32 GMT",
+      "ts": 1789630592
+    },
     {
       "source": "FXStreet",
       "title": "1.4000 within reach: USD/CAD consolidates gains after Fed’s hawkish hike",
@@ -73,20 +101,6 @@
       "ts": 1789626499
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen outperforms as BoJ’s policy takes centre stage",
-      "link": "https://www.fxstreet.com/news/japanese-yen-outperforms-as-bojs-policy-takes-centre-stage-202609170626",
-      "published": "Thu, 17 Sep 2026 06:26:13 GMT",
-      "ts": 1789626373
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/GBP Price Forecast: Euro struggles below 0.8570 with all eyes on the BoE",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-euro-struggles-below-08570-with-all-eyes-on-the-boe-202609170617",
-      "published": "Thu, 17 Sep 2026 06:17:57 GMT",
-      "ts": 1789625877
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -134,13 +148,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
       "published": "Thu, 17 Sep 2026 04:17:55 +0000",
       "ts": 1789618675
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold retakes $4,300 amid modest USD pullback but hawkish Fed caps upside",
-      "link": "https://www.fxstreet.com/news/gold-stalls-recovery-from-six-week-low-as-usd-preserves-post-fed-gains-amid-iran-risks-202609170348",
-      "published": "Thu, 17 Sep 2026 03:48:19 GMT",
-      "ts": 1789616899
     },
     {
       "source": "CoinTelegraph",
@@ -232,13 +239,6 @@
       "link": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 19:19:23 +0000",
       "ts": 1789586363
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 19:15:00 GMT",
-      "ts": 1789586100
     },
     {
       "source": "CoinDesk",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dollar Rises on Surging Crude Prices and T-Note Yields",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-rises-surging-crude-prices-193655740.html",
-      "published": "2026-09-15T19:36:55Z",
-      "ts": 1789501015
+      "title": "Contemptible, Outrageous, Vile”: Robinhood and AMC Clash Over Who Controls a Stock’s Identity",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/contemptible-outrageous-vile-robinhood-amc-200333833.html",
+      "published": "2026-09-15T20:03:33Z",
+      "ts": 1789502613
     },
     {
       "source": "Yahoo Finance",
-      "title": "A $1 Billion Reason Why AXON Stock Is Down Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-billion-reason-why-axon-193446212.html",
-      "published": "2026-09-15T19:34:46Z",
-      "ts": 1789500886
+      "title": "This Analyst Just Upgraded ResMed Stock. Here's Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-upgraded-resmed-stock-195751730.html",
+      "published": "2026-09-15T19:57:51Z",
+      "ts": 1789502271
     }
   ]
 }
