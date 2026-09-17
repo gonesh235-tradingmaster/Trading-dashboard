@@ -1,13 +1,90 @@
 {
-  "updated": "2026-09-17T14:57:26.768816Z",
+  "updated": "2026-09-17T15:15:24.161777Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
+      "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
+      "published": "Thu, 17 Sep 2026 15:08:24 +0000",
+      "ts": 1789657704
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Further weakness could target 157.30 against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-further-weakness-could-target-15730-against-us-dollar-uob-202609171506",
+      "published": "Thu, 17 Sep 2026 15:06:14 GMT",
+      "ts": 1789657574
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
+      "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
+      "published": "Thu, 17 Sep 2026 15:03:19 +0000",
+      "ts": 1789657399
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Second-chance car loans: What they are and how to get one",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/second-chance-car-loans-one-210834465.html",
+      "published": "2026-09-17T15:02:40Z",
+      "ts": 1789657360
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Leads Charge After Fed Day; Nvidia, Amazon Rise (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T15:00:55Z",
+      "ts": 1789657255
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What to Watch: PJSM",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/watch-pjsm-150035340.html",
+      "published": "2026-09-17T15:00:35Z",
+      "ts": 1789657235
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "VinFast (VFS)-Backed Taxi Firm GSM Plots a US and European Push ahead of its Hong Kong IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vinfast-vfs-backed-taxi-firm-150001467.html",
+      "published": "2026-09-17T15:00:01Z",
+      "ts": 1789657201
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Talen Energy (TLN) Gains as Regulatory Progress Enhances Data Center Framework",
+      "link": "https://finance.yahoo.com/energy/articles/talen-energy-tln-gains-regulatory-145925718.html",
+      "published": "2026-09-17T14:59:25Z",
+      "ts": 1789657165
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Beyond bitcoin and ether",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
+      "published": "Thu, 17 Sep 2026 14:57:11 +0000",
+      "ts": 1789657031
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ryanair (RYAAY) Slashes its Winter Flight Plans to Dodge a Costly Oil Spike",
+      "link": "https://finance.yahoo.com/energy/articles/ryanair-ryaay-slashes-winter-flight-145505604.html",
+      "published": "2026-09-17T14:55:05Z",
+      "ts": 1789656905
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Stabilizing with policy support – Scotiabank",
       "link": "https://www.fxstreet.com/news/euro-stabilizing-with-policy-support-scotiabank-202609171454",
       "published": "Thu, 17 Sep 2026 14:54:44 GMT",
       "ts": 1789656884
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Should I buy a new or used car? Here’s how to decide",
+      "link": "https://finance.yahoo.com/deals-and-buying-guides/articles/buy-used-car-181444914.html",
+      "published": "2026-09-17T14:53:52Z",
+      "ts": 1789656832
     },
     {
       "source": "FXStreet",
@@ -31,6 +108,20 @@
       "ts": 1789656658
     },
     {
+      "source": "Yahoo Finance",
+      "title": "What’s the average car loan length?",
+      "link": "https://finance.yahoo.com/markets/options/articles/long-car-loan-163621954.html",
+      "published": "2026-09-17T14:50:00Z",
+      "ts": 1789656600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Strong Execution Strengthens Macerich (MAC) in Q2",
+      "link": "https://finance.yahoo.com/real-estate/articles/strong-execution-strengthens-macerich-mac-144814109.html",
+      "published": "2026-09-17T14:48:14Z",
+      "ts": 1789656494
+    },
+    {
       "source": "FXStreet",
       "title": "Bank of England: Cautious hold with upside risks – TD Securities",
       "link": "https://www.fxstreet.com/news/bank-of-england-cautious-hold-with-upside-risks-td-securities-202609171446",
@@ -52,32 +143,11 @@
       "ts": 1789655664
     },
     {
-      "source": "Yahoo Finance",
-      "title": "The Next $100 Billion of Netflix’s Value Could Come From Here, 98% Upside Ahead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/next-100-billion-netflix-value-143033478.html",
-      "published": "2026-09-17T14:30:33Z",
-      "ts": 1789655433
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Breakout Watch: Savvy Investors Get Wired Up For This Nvidia, Amazon Partner",
-      "link": "https://www.investors.com/research/ibd-stock-analysis/f5-stock-near-breakout-as-top-funds-buy-into-nvidia-amazon-partner/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T14:24:50Z",
-      "ts": 1789655090
-    },
-    {
       "source": "FXStreet",
       "title": "Euro gains against US Dollar as post-Fed rally loses momentum",
       "link": "https://www.fxstreet.com/news/euro-gains-against-us-dollar-as-post-fed-rally-loses-momentum-202609171424",
       "published": "Thu, 17 Sep 2026 14:24:22 GMT",
       "ts": 1789655062
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Charges Higher On Amazon Deal; This Homebuilder Misses Views (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T14:19:48Z",
-      "ts": 1789654788
     },
     {
       "source": "FXStreet",
@@ -87,46 +157,11 @@
       "ts": 1789654708
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Home contract signings drop 4.7% from last year amid higher mortgage rates",
-      "link": "https://finance.yahoo.com/real-estate/article/home-contract-signings-drop-47-from-last-year-amid-higher-mortgage-rates-141613199.html",
-      "published": "2026-09-17T14:16:13Z",
-      "ts": 1789654573
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Can you use a personal loan to buy a car?",
-      "link": "https://finance.yahoo.com/markets/options/articles/personal-loan-buy-car-024352858.html",
-      "published": "2026-09-17T14:13:52Z",
-      "ts": 1789654432
-    },
-    {
       "source": "FXStreet",
       "title": "British Pound: Bearish against Euro after BoE hold – TD Securities",
       "link": "https://www.fxstreet.com/news/british-pound-bearish-against-euro-after-boe-hold-td-securities-202609171408",
       "published": "Thu, 17 Sep 2026 14:08:55 GMT",
       "ts": 1789654135
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Renewed Industry Competition Sparks T-Mobile US’s (TMUS) Sell-Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/renewed-industry-competition-sparks-t-140751845.html",
-      "published": "2026-09-17T14:07:51Z",
-      "ts": 1789654071
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar remains under pressure as USD/CAD flirts with 1.4000",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-as-usd-cad-flirts-with-14000-202609171407",
-      "published": "Thu, 17 Sep 2026 14:07:28 GMT",
-      "ts": 1789654048
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Energy markets grapple with Iran war uncertainty: 'We simply don't know how to model the endgame'",
-      "link": "https://finance.yahoo.com/markets/article/energy-markets-grapple-with-iran-war-uncertainty-we-simply-dont-know-how-to-model-the-endgame-140723902.html",
-      "published": "2026-09-17T14:07:23Z",
-      "ts": 1789654043
     },
     {
       "source": "MarketWatch",
@@ -325,20 +360,6 @@
       "ts": 1789642834
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin continues near $76,000 as stocks surge following Fed rate hike",
-      "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
-      "published": "Thu, 17 Sep 2026 10:41:15 +0000",
-      "ts": 1789641675
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto rallies through the Fed's first rate increase since 2023",
-      "link": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
-      "published": "Thu, 17 Sep 2026 10:40:01 +0000",
-      "ts": 1789641601
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
       "link": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -365,20 +386,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
       "published": "2026-09-17 09:27:30",
       "ts": 1789637250
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
-      "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
-      "published": "Thu, 17 Sep 2026 08:41:48 +0000",
-      "ts": 1789634508
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate hike pacifies markets' inflation worries",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-17-dow-sp-500-nasdaq-081248626.html",
-      "published": "2026-09-17T08:12:48Z",
-      "ts": 1789632768
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
       "published": "2026-09-16 17:30:36",
       "ts": 1789579836
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
-      "published": "2026-09-16T16:47:40Z",
-      "ts": 1789577260
     }
   ]
 }
