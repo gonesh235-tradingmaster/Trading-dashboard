@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-17T06:36:32.287293Z",
+  "updated": "2026-09-17T06:56:44.525547Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Hawkish Fed supports Dollar against Euro - Danske Bank",
+      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-supports-dollar-against-euro-danske-bank-202609170656",
+      "published": "Thu, 17 Sep 2026 06:56:26 GMT",
+      "ts": 1789628186
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index eases from late July highs as profit-taking kicks in amid sliding yields",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-eases-from-late-july-highs-as-profit-taking-kicks-in-amid-sliding-yields-202609170655",
+      "published": "Thu, 17 Sep 2026 06:55:30 GMT",
+      "ts": 1789628130
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: All eyes on BoE rate decision",
+      "link": "https://www.fxstreet.com/news/forex-today-all-eyes-on-boe-rate-decision-202609170652",
+      "published": "Thu, 17 Sep 2026 06:52:10 GMT",
+      "ts": 1789627930
+    },
     {
       "source": "FXStreet",
       "title": "British Pound: Oversold Sterling still seen weaker against US Dollar – UOB",
@@ -45,20 +66,6 @@
       "ts": 1789624812
     },
     {
-      "source": "FXStreet",
-      "title": "BoE expected to hold interest rate at 3.75%",
-      "link": "https://www.fxstreet.com/news/boe-expected-to-hold-interest-rate-at-375-202609170600",
-      "published": "Thu, 17 Sep 2026 06:00:00 GMT",
-      "ts": 1789624800
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah weakens amid complicating BI policy outlook",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-amid-complicating-bi-policy-outlook-202609170557",
-      "published": "Thu, 17 Sep 2026 05:57:21 GMT",
-      "ts": 1789624641
-    },
-    {
       "source": "CoinTelegraph",
       "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
       "link": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -74,14 +81,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Trades vulnerable below 1.3400 ahead of BoE’s policy decision",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-trades-vulnerable-below-13400-ahead-of-boes-policy-decision-202609170537",
-      "published": "Thu, 17 Sep 2026 05:37:57 GMT",
-      "ts": 1789623477
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee gains ground despite fears of more Fed interest rate hikes",
+      "title": "Indian Rupee draws support near seven-week low from RBI's intervention",
       "link": "https://www.fxstreet.com/news/indian-rupee-gains-ground-despite-fears-of-more-fed-interest-rate-hikes-202609170519",
       "published": "Thu, 17 Sep 2026 05:19:51 GMT",
       "ts": 1789622391
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "This Utility ETF Says the AI Trade Is Over",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/utility-etf-says-ai-trade-191906797.html",
-      "published": "2026-09-15T19:19:06Z",
-      "ts": 1789499946
+      "title": "U.S. Steel and Materials Stocks Swing as U.S.-Canada Trade War Escalates With 50% Tariffs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-steel-materials-stocks-swing-193008928.html",
+      "published": "2026-09-15T19:30:08Z",
+      "ts": 1789500608
     },
     {
       "source": "Yahoo Finance",
-      "title": "DEUTZ’s Growth Spree Comes With a Dilution Bill",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/deutz-growth-spree-comes-dilution-191755723.html",
-      "published": "2026-09-15T19:17:55Z",
-      "ts": 1789499875
+      "title": "Why Jefferies Is Bullish on Formula One Stock Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-jefferies-bullish-formula-one-192604818.html",
+      "published": "2026-09-15T19:26:04Z",
+      "ts": 1789500364
     },
     {
       "source": "Yahoo Finance",
-      "title": "Crude Prices Surge on Global Supply Risks",
-      "link": "https://finance.yahoo.com/energy/articles/crude-prices-surge-global-supply-191609324.html",
-      "published": "2026-09-15T19:16:09Z",
-      "ts": 1789499769
+      "title": "Dear Intuit Stock Fans, Mark Your Calendars for September 17",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-intuit-stock-fans-mark-192340305.html",
+      "published": "2026-09-15T19:23:40Z",
+      "ts": 1789500220
     }
   ]
 }
