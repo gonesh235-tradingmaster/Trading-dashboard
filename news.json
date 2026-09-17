@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-17T05:26:24.531457Z",
+  "updated": "2026-09-17T05:41:30.686455Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Trades vulnerable below 1.3400 ahead of BoE’s policy decision",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-trades-vulnerable-below-13400-ahead-of-boes-policy-decision-202609170537",
+      "published": "Thu, 17 Sep 2026 05:37:57 GMT",
+      "ts": 1789623477
+    },
     {
       "source": "FXStreet",
       "title": "Indian Rupee gains ground despite fears of more Fed interest rate hikes",
@@ -85,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/gold-stalls-recovery-from-six-week-low-as-usd-preserves-post-fed-gains-amid-iran-risks-202609170348",
       "published": "Thu, 17 Sep 2026 03:48:19 GMT",
       "ts": 1789616899
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Slips below 179.00 as bearish bias prevails",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-slips-below-17900-as-bearish-bias-prevails-202609170343",
-      "published": "Thu, 17 Sep 2026 03:43:35 GMT",
-      "ts": 1789616615
     },
     {
       "source": "CoinTelegraph",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dear Corteva Stock Fans, Mark Your Calendars for September 15",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-corteva-stock-fans-mark-174213249.html",
-      "published": "2026-09-15T17:42:13Z",
-      "ts": 1789494133
+      "title": "Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure",
+      "link": "https://www.investors.com/news/sunoco-oil-prices-stocks-iran-war-hormuz/?src=A00220&yptr=yahoo",
+      "published": "2026-09-15T18:19:37Z",
+      "ts": 1789496377
     },
     {
       "source": "Yahoo Finance",
-      "title": "CrowdStrike, Other Cybersecurity Stocks Surge as AI Debate Takes Center Stage",
-      "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-other-cybersecurity-stocks-surge-173149357.html",
-      "published": "2026-09-15T17:31:49Z",
-      "ts": 1789493509
+      "title": "Hold Your Horses: Palantir-Nebius Deal Doesn’t Solve Either Stock’s Biggest Problem",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hold-horses-palantir-nebius-deal-181024200.html",
+      "published": "2026-09-15T18:10:24Z",
+      "ts": 1789495824
     }
   ]
 }
