@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-17T04:45:43.029143Z",
+  "updated": "2026-09-17T05:09:41.637302Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds seven-week high, yen steadies",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
+      "published": "2026-09-17 05:02:32",
+      "ts": 1789621352
+    },
+    {
+      "source": "FXStreet",
+      "title": "US 10-Year Treasury Yield nears 5% after Fed rate hike, Middle East tensions raise inflation fears",
+      "link": "https://www.fxstreet.com/news/us-10-year-treasury-yield-nears-5-after-fed-rate-hike-middle-east-tensions-raise-inflation-fears-202609170501",
+      "published": "Thu, 17 Sep 2026 05:01:10 GMT",
+      "ts": 1789621270
+    },
+    {
+      "source": "FXStreet",
+      "title": "Asian stocks edge higher as hawkish Fed, elevated yields and geopolitical cap upside",
+      "link": "https://www.fxstreet.com/news/asian-stocks-edge-higher-as-hawkish-fed-elevated-yields-and-geopolitical-cap-upside-202609170451",
+      "published": "Thu, 17 Sep 2026 04:51:04 GMT",
+      "ts": 1789620664
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
+      "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+      "published": "Thu, 17 Sep 2026 04:47:27 +0000",
+      "ts": 1789620447
+    },
     {
       "source": "FXStreet",
       "title": "India Gold price today: Gold rises, according to FXStreet data",
@@ -18,7 +46,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Goldman pivots, now forecasts Fed hike in October",
+      "title": "Goldman pivots, now forecasts Fed rate hike in October",
       "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
       "published": "Thu, 17 Sep 2026 04:17:55 +0000",
       "ts": 1789618675
@@ -39,7 +67,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold stalls recovery from six-week low as USD preserves post-Fed gains amid Iran risks",
+      "title": "Gold struggles to build on recovery gains as hawkish Fed and Iran risks underpin USD",
       "link": "https://www.fxstreet.com/news/gold-stalls-recovery-from-six-week-low-as-usd-preserves-post-fed-gains-amid-iran-risks-202609170348",
       "published": "Thu, 17 Sep 2026 03:48:19 GMT",
       "ts": 1789616899
@@ -66,20 +94,6 @@
       "ts": 1789615218
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar slides to five-week low after Fed’s hawkish decision",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-to-five-week-low-after-feds-hawkish-decision-202609170320",
-      "published": "Thu, 17 Sep 2026 03:20:04 GMT",
-      "ts": 1789615204
-    },
-    {
-      "source": "FXStreet",
-      "title": "Federal Reserve: Policy path reshaped – Rabobank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-policy-path-reshaped-rabobank-202609170317",
-      "published": "Thu, 17 Sep 2026 03:17:40 GMT",
-      "ts": 1789615060
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
       "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -94,6 +108,41 @@
       "ts": 1789604624
     },
     {
+      "source": "MarketWatch",
+      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 23:51:00 GMT",
+      "ts": 1789602660
+    },
+    {
+      "source": "MarketWatch",
+      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 22:25:00 GMT",
+      "ts": 1789597500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 22:16:00 GMT",
+      "ts": 1789596960
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 22:15:00 GMT",
+      "ts": 1789596900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
+      "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 21:56:00 GMT",
+      "ts": 1789595760
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
@@ -101,11 +150,32 @@
       "ts": 1789595647
     },
     {
+      "source": "MarketWatch",
+      "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+      "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 21:40:00 GMT",
+      "ts": 1789594800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
+      "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 20:52:00 GMT",
+      "ts": 1789591920
+    },
+    {
       "source": "CoinTelegraph",
       "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
       "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 20:51:38 +0000",
       "ts": 1789591898
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s a sneaky way to play the Fed’s rate increase",
+      "link": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 20:38:00 GMT",
+      "ts": 1789591080
     },
     {
       "source": "CoinTelegraph",
@@ -129,11 +199,25 @@
       "ts": 1789586304
     },
     {
+      "source": "MarketWatch",
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 19:15:00 GMT",
+      "ts": 1789586100
+    },
+    {
       "source": "CoinDesk",
       "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
       "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
       "published": "Wed, 16 Sep 2026 19:07:34 +0000",
       "ts": 1789585654
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
+      "link": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 18:57:00 GMT",
+      "ts": 1789585020
     },
     {
       "source": "Investing Forex",
@@ -255,13 +339,6 @@
       "ts": 1789567200
     },
     {
-      "source": "CoinDesk",
-      "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
-      "link": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
-      "published": "Wed, 16 Sep 2026 14:00:00 +0000",
-      "ts": 1789567200
-    },
-    {
       "source": "Investing Crypto",
       "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
@@ -340,87 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Imperial Petroleum (IMPP) Posts Robust Q2 Topline Growth Despite Soft Fleet Utilization",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/imperial-petroleum-impp-posts-robust-170438574.html",
-      "published": "2026-09-15T17:04:38Z",
-      "ts": 1789491878
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Saudi Oil Crisis Deepens as Aramco Suspends Yanbu Loadings",
-      "link": "https://finance.yahoo.com/energy/articles/saudi-oil-crisis-deepens-aramco-170000784.html",
-      "published": "2026-09-15T17:00:00Z",
-      "ts": 1789491600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dell Technologies (DELL) Rallies on Bullish RBC Outlook: Is the Stock a Buy?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-rallies-bullish-165722821.html",
-      "published": "2026-09-15T16:57:22Z",
-      "ts": 1789491442
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Vera Bradley, Inc. Q2 2027 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-inc-q2-2027-165537210.html",
-      "published": "2026-09-15T16:55:37Z",
-      "ts": 1789491337
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Econergy Expands European Base, Acquires French Wind Energy Platform",
-      "link": "https://finance.yahoo.com/energy/articles/econergy-expands-european-acquires-french-165519899.html",
-      "published": "2026-09-15T16:55:19Z",
-      "ts": 1789491319
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lovesac (LOVE) Target Cut by Canaccord, Analysts See 40% Upside",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lovesac-love-target-cut-canaccord-165004527.html",
-      "published": "2026-09-15T16:50:04Z",
-      "ts": 1789491004
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MarketBeat's Most Downgraded Stocks in Q3: 2 Look Cheap, 1 Looks Risky",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marketbeats-most-downgraded-stocks-q3-165000356.html",
-      "published": "2026-09-15T16:50:00Z",
-      "ts": 1789491000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "H&R Block (HRB) Uses AI to Drive Value",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/h-r-block-hrb-uses-164551430.html",
-      "published": "2026-09-15T16:45:51Z",
-      "ts": 1789490751
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie slips as oil surge fuels rate worries ahead of Fed decision",
-      "link": "https://www.investing.com/news/forex-news/loonie-slips-as-oil-surge-fuels-rate-worries-ahead-of-fed-decision-4901710",
-      "published": "2026-09-15 12:40:11",
-      "ts": 1789476011
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Exclusive: Bitget Wallet adds tokenized U.S. stocks through Reality integration",
-      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-wallet-adds-tokenized-us-stocks-through-reality-integration-4901412",
-      "published": "2026-09-15 11:31:22",
-      "ts": 1789471882
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
-      "published": "2026-09-15 08:06:27",
-      "ts": 1789459587
-    },
-    {
-      "source": "Investing Forex",
-      "title": "European sovereign debt pressured as traders price ECB hikes through early 2027",
-      "link": "https://www.investing.com/news/forex-news/european-sovereign-debt-pressured-as-traders-price-ecb-hikes-through-early-2027-4900845",
-      "published": "2026-09-15 07:47:02",
-      "ts": 1789458422
+      "title": "Corn Pulling Off Early Lows on Tuesday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-pulling-off-early-lows-172221094.html",
+      "published": "2026-09-15T17:22:21Z",
+      "ts": 1789492941
     }
   ]
 }
