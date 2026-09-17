@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-17T09:30:14.161604Z",
+  "updated": "2026-09-17T09:53:14.245280Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Sterling seen outperforming peers – Societe Generale",
+      "link": "https://www.fxstreet.com/news/british-pound-sterling-seen-outperforming-peers-societe-generale-202609170948",
+      "published": "Thu, 17 Sep 2026 09:48:14 GMT",
+      "ts": 1789638494
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro remains stronger against Canadian Dollar following Eurozone HICP inflation data",
+      "link": "https://www.fxstreet.com/news/euro-remains-stronger-against-canadian-dollar-following-eurozone-hicp-inflation-data-202609170942",
+      "published": "Thu, 17 Sep 2026 09:42:08 GMT",
+      "ts": 1789638128
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609170937",
+      "published": "Thu, 17 Sep 2026 09:37:36 GMT",
+      "ts": 1789637856
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Polymarket users referred to prosecutors in South Korea: Report",
+      "link": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 09:37:32 +0000",
+      "ts": 1789637852
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Medium-term downside remains in focus against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/euro-medium-term-downside-remains-in-focus-against-us-dollar-uob-202609170933",
+      "published": "Thu, 17 Sep 2026 09:33:25 GMT",
+      "ts": 1789637605
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rangebound at $76.7k as markets digest Fed rate hike, M.East tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
+      "published": "2026-09-17 09:30:31",
+      "ts": 1789637431
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen rise as markets price BOJ rate hike  while dollar pauses post-Fed",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
+      "published": "2026-09-17 09:27:30",
+      "ts": 1789637250
+    },
     {
       "source": "MarketWatch",
       "title": "Why the S&P 500 could still advance after a Fed hike, according to a Wall Street strategist",
@@ -52,39 +101,11 @@
       "ts": 1789635360
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound: BoE decision keeps November hike risk alive – MUFG",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-decision-keeps-november-hike-risk-alive-mufg-202609170850",
-      "published": "Thu, 17 Sep 2026 08:50:27 GMT",
-      "ts": 1789635027
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen strengthens due to BoJ rate hike bets, weaker US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-due-to-boj-rate-hike-bets-weaker-us-dollar-202609170849",
-      "published": "Thu, 17 Sep 2026 08:49:37 GMT",
-      "ts": 1789634977
-    },
-    {
       "source": "CoinDesk",
-      "title": "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
+      "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
       "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
       "published": "Thu, 17 Sep 2026 08:41:48 +0000",
       "ts": 1789634508
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Structurally stronger after Fed hike – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-structurally-stronger-after-fed-hike-ing-202609170838",
-      "published": "Thu, 17 Sep 2026 08:38:46 GMT",
-      "ts": 1789634326
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound underperforms against Japanese Yen ahead of BoE-BoJ policy outcome",
-      "link": "https://www.fxstreet.com/news/british-pound-underperforms-against-japanese-yen-ahead-of-boe-boj-policy-outcome-202609170835",
-      "published": "Thu, 17 Sep 2026 08:35:07 GMT",
-      "ts": 1789634107
     },
     {
       "source": "Investing Forex",
@@ -99,13 +120,6 @@
       "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
       "published": "2026-09-17 08:09:55",
       "ts": 1789632595
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar eases, yen strengthens ahead of BoJ",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
-      "published": "2026-09-17 08:01:35",
-      "ts": 1789632095
     },
     {
       "source": "CoinDesk",
@@ -141,13 +155,6 @@
       "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 07:08:00 GMT",
       "ts": 1789628880
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steady at $76.5k as markets digest Fed rate hike, M.East tensions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
-      "published": "2026-09-17 07:01:04",
-      "ts": 1789628464
     },
     {
       "source": "CoinTelegraph",
@@ -346,13 +353,6 @@
       "ts": 1789575611
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
-      "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 16:03:35 +0000",
-      "ts": 1789574615
-    },
-    {
       "source": "CoinDesk",
       "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
       "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
@@ -409,18 +409,18 @@
       "ts": 1789543836
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 21:49:19",
-      "ts": 1789508959
+      "source": "Yahoo Finance",
+      "title": "Anthropic Just Put Claude Inside Schwab and BlackRock. The AI Agent War Has Reached Wealth Management",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-just-put-claude-inside-215957194.html",
+      "published": "2026-09-15T21:59:57Z",
+      "ts": 1789509597
     },
     {
       "source": "Yahoo Finance",
-      "title": "China’s State Media Calls AI Slowdown a “Cold War” Tactic. Z.AI Is Raising $5 Billion to Do the Opposite",
-      "link": "https://finance.yahoo.com/technology/ai/articles/china-state-media-calls-ai-212953858.html",
-      "published": "2026-09-15T21:29:53Z",
-      "ts": 1789507793
+      "title": "Palantir and Nvidia Are Restricting Anthropic’s AI. Microsoft Could Win the Enterprise Trust War",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-restricting-anthropic-ai-215533551.html",
+      "published": "2026-09-15T21:55:33Z",
+      "ts": 1789509333
     }
   ]
 }
