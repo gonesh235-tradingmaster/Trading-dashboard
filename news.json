@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T22:50:13.272965Z",
+  "updated": "2026-09-17T23:07:57.719269Z",
   "count": 60,
   "items": [
     {
@@ -375,10 +375,45 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "5 Dividend Stocks Delivering Rock Solid Fourth-Quarter Income",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-delivering-rock-151119325.html",
-      "published": "2026-09-16T15:11:19Z",
-      "ts": 1789571479
+      "title": "How Is Entergy's Stock Performance Compared to Other Utility Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/entergys-stock-performance-compared-other-152737113.html",
+      "published": "2026-09-16T15:27:37Z",
+      "ts": 1789572457
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Intel Stock Investors Should Pay Attention to This Potential SK Hynix Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-investors-pay-attention-152614539.html",
+      "published": "2026-09-16T15:26:14Z",
+      "ts": 1789572374
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Arista Stock Holds Up Well Amid Weakness. Here's How To Capitalize.",
+      "link": "https://www.investors.com/research/options/arista-anet-stock-covered-call-options/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:26:07Z",
+      "ts": 1789572367
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Radiant Logistics (RLGT) Bets $100M On A Freight Rebound",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-bets-100m-152433522.html",
+      "published": "2026-09-16T15:24:33Z",
+      "ts": 1789572273
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Weakness Is an Opportunity for Long-Term ASML Stock Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/weakness-opportunity-long-term-asml-152400381.html",
+      "published": "2026-09-16T15:24:00Z",
+      "ts": 1789572240
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stocks Hold Gains After Fed Hikes Key Rate",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-hold-gains-fed-hikes-151838478.html",
+      "published": "2026-09-16T15:18:38Z",
+      "ts": 1789571918
     },
     {
       "source": "Yahoo Finance",
@@ -386,41 +421,6 @@
       "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-failed-clarity-151045217.html",
       "published": "2026-09-16T15:10:45Z",
       "ts": 1789571445
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Impulse Space's Series D round grows to $808 million as backlog expands",
-      "link": "https://finance.yahoo.com/news/impulse-spaces-series-d-round-150705626.html",
-      "published": "2026-09-16T15:07:05Z",
-      "ts": 1789571225
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Alluvium Raised Its McKesson (MCK) Stake as Long-Term Growth Expectations Remain Strong",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alluvium-raised-mckesson-mck-stake-150454748.html",
-      "published": "2026-09-16T15:04:54Z",
-      "ts": 1789571094
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dear Tesla Stock Fans, Mark Your Calendars for October 1",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-tesla-stock-fans-mark-145857079.html",
-      "published": "2026-09-16T14:58:57Z",
-      "ts": 1789570737
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here’s Why This Fund Sold Brown & Brown (BRO)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-fund-sold-brown-brown-145828796.html",
-      "published": "2026-09-16T14:58:28Z",
-      "ts": 1789570708
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SandiskCorp. (SNDK): AI Boom Fuels Attractive Storage Market Opportunity",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandiskcorp-sndk-ai-boom-fuels-145612588.html",
-      "published": "2026-09-16T14:56:12Z",
-      "ts": 1789570572
     }
   ]
 }
