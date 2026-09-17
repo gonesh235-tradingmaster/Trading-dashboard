@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-17T18:31:22.794531Z",
+  "updated": "2026-09-17T18:54:47.217870Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian and New Zealand Dollars dig in ahead of a Japanese rate hike",
+      "link": "https://www.fxstreet.com/news/australian-and-new-zealand-dollars-dig-in-ahead-of-a-japanese-rate-hike-202609171852",
+      "published": "Thu, 17 Sep 2026 18:52:49 GMT",
+      "ts": 1789671169
+    },
+    {
+      "source": "FXStreet",
+      "title": "Chinese Yuan: PBoC accepts slower credit as summit nears – Commerzbank",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-accepts-slower-credit-as-summit-nears-commerzbank-202609171846",
+      "published": "Thu, 17 Sep 2026 18:46:24 GMT",
+      "ts": 1789670784
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
+      "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 18:46:00 GMT",
+      "ts": 1789670760
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kevin O’Leary says Congress will revisit CLARITY early next year as crypto tax bill advances",
+      "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
+      "published": "Thu, 17 Sep 2026 18:40:38 +0000",
+      "ts": 1789670438
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
+      "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
+      "published": "Thu, 17 Sep 2026 18:38:10 +0000",
+      "ts": 1789670290
+    },
     {
       "source": "FXStreet",
       "title": "Crude Oil sells off and takes it all back on Saudi cargoes through Oman",
@@ -108,13 +143,6 @@
       "ts": 1789660713
     },
     {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar gains ground as GDP growth beats expectations",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-ground-as-gdp-growth-beats-expectations-202609171555",
-      "published": "Thu, 17 Sep 2026 15:55:54 GMT",
-      "ts": 1789660554
-    },
-    {
       "source": "MarketWatch",
       "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
       "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
@@ -183,13 +211,6 @@
       "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 14:37:00 GMT",
       "ts": 1789655820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The smartest money moves to make now that interest rates are going up",
-      "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 14:04:00 GMT",
-      "ts": 1789653840
     },
     {
       "source": "Investing Crypto",
@@ -283,32 +304,11 @@
       "ts": 1789646400
     },
     {
-      "source": "FXStreet",
-      "title": "Gold climbs over 2% as US Dollar trims post-Fed gains",
-      "link": "https://www.fxstreet.com/news/gold-recovers-after-fed-led-sell-off-but-hawkish-outlook-caps-gains-202609171155",
-      "published": "Thu, 17 Sep 2026 11:55:23 GMT",
-      "ts": 1789646123
-    },
-    {
-      "source": "CoinDesk",
-      "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
-      "link": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
-      "published": "Thu, 17 Sep 2026 11:42:22 +0000",
-      "ts": 1789645342
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound falls as BoE holds rates, cautious minutes weigh",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
       "published": "2026-09-17 11:20:53",
       "ts": 1789644053
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Optimism creeps back into crypto, with the 2022 test still to come",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
-      "published": "Thu, 17 Sep 2026 11:19:09 +0000",
-      "ts": 1789643949
     },
     {
       "source": "Investing Crypto",
@@ -389,6 +389,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Former NFL star who was mentored by Warren Buffett shares the 2 investment lessons he learned from the Oracle of Omaha",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/former-nfl-star-mentored-warren-095500247.html",
+      "published": "2026-09-16T09:55:00Z",
+      "ts": 1789552500
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is International Flavors & Fragrances Stock Outperforming the Dow?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/international-flavors-fragrances-stock-outperforming-093049933.html",
       "published": "2026-09-16T09:30:49Z",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
       "published": "2026-09-16 09:24:27",
       "ts": 1789550667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees GBP gains as short-lived ahead of October budget risks",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
-      "published": "2026-09-16 09:07:19",
-      "ts": 1789549639
     }
   ]
 }
