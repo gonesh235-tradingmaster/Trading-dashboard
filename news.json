@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-17T03:27:45.461235Z",
+  "updated": "2026-09-17T03:43:52.116030Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Slips below 179.00 as bearish bias prevails",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-slips-below-17900-as-bearish-bias-prevails-202609170343",
+      "published": "Thu, 17 Sep 2026 03:43:35 GMT",
+      "ts": 1789616615
+    },
     {
       "source": "FXStreet",
       "title": "Fed Policy Monitor: Hiking bias and curve reaction – NBC Economics and Strategy",
@@ -71,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-he-told-fed-chair-to-do-what-you-want-ahead-of-rate-hike-202609170150",
       "published": "Thu, 17 Sep 2026 01:50:14 GMT",
       "ts": 1789609814
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar holds gains near 0.7100 despite Fed rate hike, IMF urges RBA to stay hawkish",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-gains-near-07100-despite-fed-rate-hike-imf-urges-rba-to-stay-hawkish-202609170119",
-      "published": "Thu, 17 Sep 2026 01:19:50 GMT",
-      "ts": 1789607990
     },
     {
       "source": "CoinTelegraph",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Gates Industrial (GTES) Benefits From AI Growth Without Being an AI Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gates-industrial-gtes-benefits-ai-154615331.html",
-      "published": "2026-09-15T15:46:15Z",
-      "ts": 1789487175
+      "title": "Why Kroger Co. (KR) Could Be a Consumer Staples Comeback Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-kroger-co-kr-could-160335573.html",
+      "published": "2026-09-15T16:03:35Z",
+      "ts": 1789488215
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jensen Huang Says Nvidia Can Grow 70% Next Year. Here’s Why He May Be Right.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-nvidia-grow-153609078.html",
-      "published": "2026-09-15T15:36:09Z",
-      "ts": 1789486569
+      "title": "OXEA taps Uber Freight to manage North American, European logistics",
+      "link": "https://finance.yahoo.com/economy/articles/oxea-taps-uber-freight-manage-160000087.html",
+      "published": "2026-09-15T16:00:00Z",
+      "ts": 1789488000
     }
   ]
 }
