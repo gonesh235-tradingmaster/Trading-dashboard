@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-17T08:29:37.110061Z",
+  "updated": "2026-09-17T08:44:53.541895Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
+      "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+      "published": "Thu, 17 Sep 2026 08:41:48 +0000",
+      "ts": 1789634508
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Structurally stronger after Fed hike – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-structurally-stronger-after-fed-hike-ing-202609170838",
+      "published": "Thu, 17 Sep 2026 08:38:46 GMT",
+      "ts": 1789634326
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound underperforms against Japanese Yen ahead of BoE-BoJ policy outcome",
+      "link": "https://www.fxstreet.com/news/british-pound-underperforms-against-japanese-yen-ahead-of-boe-boj-policy-outcome-202609170835",
+      "published": "Thu, 17 Sep 2026 08:35:07 GMT",
+      "ts": 1789634107
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc: Remains near recent lows against US Dollar – UOB",
@@ -17,6 +38,13 @@
       "ts": 1789632830
     },
     {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound flat as dollar rally pauses ahead of BoE decision",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
+      "published": "2026-09-17 08:13:47",
+      "ts": 1789632827
+    },
+    {
       "source": "FXStreet",
       "title": "Dow Jones futures gain as oil slide offsets Fed rate hike jitters",
       "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-as-oil-slide-offsets-fed-rate-hike-jitters-202609170813",
@@ -29,6 +57,13 @@
       "link": "https://www.fxstreet.com/news/indian-rupee-rbi-liquidity-withdrawal-tempers-risks-commerzbank-202609170810",
       "published": "Thu, 17 Sep 2026 08:10:38 GMT",
       "ts": 1789632638
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. 10-year Treasury yield eases in the afterglow of Fed hike",
+      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
+      "published": "2026-09-17 08:09:55",
+      "ts": 1789632595
     },
     {
       "source": "FXStreet",
@@ -59,13 +94,6 @@
       "ts": 1789631673
     },
     {
-      "source": "Investing Forex",
-      "title": "U.S. 10-year Treasury yield eases in the afterglow of Fed hike;",
-      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
-      "published": "2026-09-17 07:53:16",
-      "ts": 1789631596
-    },
-    {
       "source": "MarketWatch",
       "title": "Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed",
       "link": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
@@ -78,20 +106,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-6440-as-rally-in-oil-prices-hit-a-pause-202609170741",
       "published": "Thu, 17 Sep 2026 07:41:21 GMT",
       "ts": 1789630881
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound rebounds from July 30 lows vs retreating USD as traders await BoE decision",
-      "link": "https://www.fxstreet.com/news/british-pound-rebounds-from-july-30-lows-vs-retreating-usd-as-traders-await-boe-decision-202609170740",
-      "published": "Thu, 17 Sep 2026 07:40:35 GMT",
-      "ts": 1789630835
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold: Higher yields cap recovery prospects – OCBC",
-      "link": "https://www.fxstreet.com/news/gold-higher-yields-cap-recovery-prospects-ocbc-202609170736",
-      "published": "Thu, 17 Sep 2026 07:36:32 GMT",
-      "ts": 1789630592
     },
     {
       "source": "CoinDesk",
@@ -346,13 +360,6 @@
       "ts": 1789572341
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: Six signs a crypto winter is ending",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
-      "published": "Wed, 16 Sep 2026 14:59:34 +0000",
-      "ts": 1789570774
-    },
-    {
       "source": "Investing Crypto",
       "title": "Coinbase cuts trading fees for active users on Advanced platform",
       "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
@@ -409,18 +416,11 @@
       "ts": 1789508959
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar hits two-week high as traders gear up for anticipated Fed hike on Wednesday",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
-      "published": "2026-09-15 20:38:48",
-      "ts": 1789504728
-    },
-    {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer on Salesforce (CRM): “It’s Been Very Strong of Late”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-salesforce-crm-very-202539714.html",
-      "published": "2026-09-15T20:25:39Z",
-      "ts": 1789503939
+      "title": "SEALSQ Corp Q2 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sealsq-corp-q2-2026-earnings-205537987.html",
+      "published": "2026-09-15T20:55:37Z",
+      "ts": 1789505737
     }
   ]
 }
