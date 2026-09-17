@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-17T20:10:38.591116Z",
+  "updated": "2026-09-17T20:27:27.520075Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
+      "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:23:00 GMT",
+      "ts": 1789676580
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
+      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:19:00 GMT",
+      "ts": 1789676340
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
+      "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:13:00 GMT",
+      "ts": 1789675980
+    },
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Strong Dollar keeps pair supported – OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-strong-dollar-keeps-pair-supported-ocbc-202609172012",
+      "published": "Thu, 17 Sep 2026 20:12:00 GMT",
+      "ts": 1789675920
+    },
     {
       "source": "MarketWatch",
       "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
@@ -122,13 +150,6 @@
       "ts": 1789668396
     },
     {
-      "source": "FXStreet",
-      "title": "Brazilian Real: 200-DMA capping losses against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/brazilian-real-200-dma-capping-losses-against-us-dollar-societe-generale-202609171800",
-      "published": "Thu, 17 Sep 2026 18:00:04 GMT",
-      "ts": 1789668004
-    },
-    {
       "source": "MarketWatch",
       "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
       "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
@@ -183,27 +204,6 @@
       "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 15:49:00 GMT",
       "ts": 1789660140
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
-      "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 15:24:00 GMT",
-      "ts": 1789658640
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
-      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 15:22:00 GMT",
-      "ts": 1789658520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "More Americans are about to get scammed by the coming peptide rush",
-      "link": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 15:20:00 GMT",
-      "ts": 1789658400
     },
     {
       "source": "CoinDesk",
@@ -389,6 +389,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Alluvium Bought More Ryanair (RYAAY) on Weakness — Then Trimmed After the Rebound",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alluvium-bought-more-ryanair-ryaay-121120647.html",
+      "published": "2026-09-16T12:11:20Z",
+      "ts": 1789560680
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T12:07:50Z",
+      "ts": 1789560470
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "'The finance bros are gonna hate me for this': Tori Dunlap says ‘boring strategy’ made her a millionaire by 27",
       "link": "https://finance.yahoo.com/markets/stocks/articles/finance-bros-gonna-hate-tori-120000680.html",
       "published": "2026-09-16T12:00:00Z",
@@ -396,31 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Eyes on Fed Decision After Bitcoin Trades Near 4-Week Low on Failed Clarity Vote",
+      "link": "https://www.wsj.com/finance/currencies/eyes-on-fed-decision-after-bitcoin-trades-near-4-week-low-on-failed-clarity-vote-2b8af150?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-16T11:58:00Z",
+      "ts": 1789559880
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Aptiv Underperforming the Nasdaq?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/aptiv-underperforming-nasdaq-115437795.html",
       "published": "2026-09-16T11:54:37Z",
       "ts": 1789559677
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is West Pharmaceutical Services Stock Outperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/west-pharmaceutical-services-stock-outperforming-115008400.html",
-      "published": "2026-09-16T11:50:08Z",
-      "ts": 1789559408
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Stock Market Is Flashing a Warning Sign Rarely Seen in 145 Years. Here's What History Says Comes Next.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-flashing-warning-sign-115000114.html",
-      "published": "2026-09-16T11:50:00Z",
-      "ts": 1789559400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Is Teradyne Stock Performance Compared to Other Semiconductor Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-stock-performance-compared-other-114846545.html",
-      "published": "2026-09-16T11:48:46Z",
-      "ts": 1789559326
     }
   ]
 }
