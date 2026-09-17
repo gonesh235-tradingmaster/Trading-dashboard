@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T05:41:30.686455Z",
+  "updated": "2026-09-17T05:54:01.692073Z",
   "count": 60,
   "items": [
     {
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure",
-      "link": "https://www.investors.com/news/sunoco-oil-prices-stocks-iran-war-hormuz/?src=A00220&yptr=yahoo",
-      "published": "2026-09-15T18:19:37Z",
-      "ts": 1789496377
+      "title": "Intel Has 4 Major Tailwinds According to This Wall Street Analyst, Yet 1 Red Flag Caused a Price Target Cut",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-4-major-tailwinds-according-182657781.html",
+      "published": "2026-09-15T18:26:57Z",
+      "ts": 1789496817
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hold Your Horses: Palantir-Nebius Deal Doesn’t Solve Either Stock’s Biggest Problem",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hold-horses-palantir-nebius-deal-181024200.html",
-      "published": "2026-09-15T18:10:24Z",
-      "ts": 1789495824
+      "title": "Trustpilot Gets a One-Star Review From Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trustpilot-gets-one-star-review-173946110.html",
+      "published": "2026-09-15T18:24:00Z",
+      "ts": 1789496640
     }
   ]
 }
