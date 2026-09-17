@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-17T01:54:53.918582Z",
+  "updated": "2026-09-17T02:10:09.024603Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD rises to near $64.00 as oil prices decline",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6400-as-oil-prices-decline-202609170159",
+      "published": "Thu, 17 Sep 2026 01:59:02 GMT",
+      "ts": 1789610342
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen edges higher vs bullish USD amid expectations of a more hawkish BoJ",
@@ -78,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/gold-falls-to-near-4-250-after-fed-delivers-rate-hike-202609162325",
       "published": "Wed, 16 Sep 2026 23:25:30 GMT",
       "ts": 1789601130
-    },
-    {
-      "source": "FXStreet",
-      "title": "0.2%: New Zealand’s Gross Domestic Product grows more than expected in Q2",
-      "link": "https://www.fxstreet.com/news/02-new-zealands-gross-domestic-product-grows-more-than-expected-in-q2-202609162246",
-      "published": "Wed, 16 Sep 2026 22:46:19 GMT",
-      "ts": 1789598779
     },
     {
       "source": "MarketWatch",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nvidia’s Anthropic Investment: Securing AI Demand Amid Rising Competition",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-anthropic-investment-securing-ai-142836122.html",
-      "published": "2026-09-15T14:28:36Z",
-      "ts": 1789482516
+      "title": "How Is Global Payments' Stock Performance Compared to Other Industrial Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/global-payments-stock-performance-compared-143107523.html",
+      "published": "2026-09-15T14:31:07Z",
+      "ts": 1789482667
     },
     {
       "source": "Yahoo Finance",
-      "title": "Apollo and J&J Face a High-Stakes Orthopedics Deal",
-      "link": "https://finance.yahoo.com/healthcare/articles/apollo-j-j-face-high-142856052.html",
-      "published": "2026-09-15T14:26:32Z",
-      "ts": 1789482392
+      "title": "Oracle Adds $700 Million to the Cost of its AI Transformation",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-adds-700-million-cost-143021878.html",
+      "published": "2026-09-15T14:30:21Z",
+      "ts": 1789482621
     }
   ]
 }
