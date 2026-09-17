@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-17T10:10:19.984595Z",
+  "updated": "2026-09-17T10:26:57.234840Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 10:15:00 GMT",
+      "ts": 1789640100
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canada’s Carney puts economic sovereignty at heart of strategic alliances",
+      "link": "https://www.fxstreet.com/news/canadas-carney-puts-economic-sovereignty-at-heart-of-strategic-alliances-202609171012",
+      "published": "Thu, 17 Sep 2026 10:12:32 GMT",
+      "ts": 1789639952
+    },
     {
       "source": "FXStreet",
       "title": "Euro falls below 179.00 as Japanese Yen strengthens ahead of BoJ",
@@ -106,13 +120,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 09:00:31 +0000",
       "ts": 1789635631
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: BoJ guidance key after Fed move – OCBC",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-guidance-key-after-fed-move-ocbc-202609170859",
-      "published": "Thu, 17 Sep 2026 08:59:37 GMT",
-      "ts": 1789635577
     },
     {
       "source": "CoinDesk",
@@ -246,13 +253,6 @@
       "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 22:16:00 GMT",
       "ts": 1789596960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:15:00 GMT",
-      "ts": 1789596900
     },
     {
       "source": "MarketWatch",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades",
-      "link": "https://finance.yahoo.com/energy/articles/hormuz-risk-opens-40-plus-220000152.html",
-      "published": "2026-09-15T22:00:00Z",
-      "ts": 1789509600
+      "title": "This High-Yield Construction Stock Just Raised Its Dividend by 40%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/high-yield-construction-stock-just-233002433.html",
+      "published": "2026-09-15T23:30:02Z",
+      "ts": 1789515002
     },
     {
       "source": "Yahoo Finance",
-      "title": "Anthropic Just Put Claude Inside Schwab and BlackRock. The AI Agent War Has Reached Wealth Management",
-      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-just-put-claude-inside-215957194.html",
-      "published": "2026-09-15T21:59:57Z",
-      "ts": 1789509597
+      "title": "The Grid’s Wasted-Power Problem Has a Sector-Coupling Fix",
+      "link": "https://finance.yahoo.com/energy/articles/grid-wasted-power-problem-sector-230208698.html",
+      "published": "2026-09-15T23:02:08Z",
+      "ts": 1789513328
     }
   ]
 }
