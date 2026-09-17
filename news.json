@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-17T11:40:36.895716Z",
+  "updated": "2026-09-17T11:53:23.283693Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver price rebounds on softer Oil but Fed tightening caps recovery",
+      "link": "https://www.fxstreet.com/news/silver-price-rebounds-on-softer-oil-but-fed-tightening-caps-recovery-202609171150",
+      "published": "Thu, 17 Sep 2026 11:50:38 GMT",
+      "ts": 1789645838
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro jumps against British Pound as BoE leaves rates on hold",
+      "link": "https://www.fxstreet.com/news/euro-jumps-against-british-pound-as-boe-leaves-rates-on-hold-202609171146",
+      "published": "Thu, 17 Sep 2026 11:46:55 GMT",
+      "ts": 1789645615
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: 20-day acts key barrier near 156.45",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-20-day-acts-key-barrier-near-15645-202609171146",
+      "published": "Thu, 17 Sep 2026 11:46:06 GMT",
+      "ts": 1789645566
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Hawkish Fed supports Dollar near term – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-supports-dollar-near-term-ocbc-202609171143",
+      "published": "Thu, 17 Sep 2026 11:43:33 GMT",
+      "ts": 1789645413
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
+      "link": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
+      "published": "Thu, 17 Sep 2026 11:42:22 +0000",
+      "ts": 1789645342
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I just want out’: Why Jeffrey Gundlach is moving his money as far from AI as possible — and what he’s doing instead",
+      "link": "https://www.marketwatch.com/story/i-just-want-out-why-jeffrey-gundlach-is-moving-his-money-as-far-from-ai-as-possible-and-what-hes-doing-instead-54281010?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 11:41:00 GMT",
+      "ts": 1789645260
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar: Short-term downside toward 0.7050 against US Dollar – UOB",
@@ -66,13 +108,6 @@
       "ts": 1789643269
     },
     {
-      "source": "Investing Crypto",
-      "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
-      "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
-      "published": "2026-09-17 11:00:34",
-      "ts": 1789642834
-    },
-    {
       "source": "MarketWatch",
       "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
       "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
@@ -88,7 +123,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Zcash jumps 17% as $345 million of liquidations hit crypto traders",
+      "title": "Live updates: Bitcoin flat near $76,000 as stocks set for sharply higher open",
       "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
       "published": "Thu, 17 Sep 2026 10:41:15 +0000",
       "ts": 1789641675
@@ -108,32 +143,11 @@
       "ts": 1789641329
     },
     {
-      "source": "FXStreet",
-      "title": "Gold Price Forecast: XAU/USD gains as oil rally eases, upside seems limited amid hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-gains-as-oil-rally-eases-upside-seems-limited-amid-hawkish-fed-bets-202609171030",
-      "published": "Thu, 17 Sep 2026 10:30:21 GMT",
-      "ts": 1789641021
-    },
-    {
       "source": "MarketWatch",
       "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
       "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 10:15:00 GMT",
       "ts": 1789640100
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canada’s Carney puts economic sovereignty at heart of strategic alliances",
-      "link": "https://www.fxstreet.com/news/canadas-carney-puts-economic-sovereignty-at-heart-of-strategic-alliances-202609171012",
-      "published": "Thu, 17 Sep 2026 10:12:32 GMT",
-      "ts": 1789639952
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro falls below 179.00 as Japanese Yen strengthens ahead of BoJ",
-      "link": "https://www.fxstreet.com/news/euro-falls-below-17900-as-japanese-yen-strengthens-ahead-of-boj-202609171004",
-      "published": "Thu, 17 Sep 2026 10:04:11 GMT",
-      "ts": 1789639451
     },
     {
       "source": "CoinTelegraph",
@@ -155,13 +169,6 @@
       "link": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 09:37:32 +0000",
       "ts": 1789637852
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rangebound at $76.7k as markets digest Fed rate hike, M.East tensions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
-      "published": "2026-09-17 09:30:31",
-      "ts": 1789637431
     },
     {
       "source": "Investing Forex",
@@ -207,7 +214,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed",
+      "title": "Tom Lee says the ‘face ripping’ rally he predicted is still coming. It’s just delayed.",
       "link": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 07:50:00 GMT",
       "ts": 1789631400
@@ -218,13 +225,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
       "published": "Thu, 17 Sep 2026 07:27:07 +0000",
       "ts": 1789630027
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin consolidates above $75K support: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-17 07:11:34",
-      "ts": 1789629094
     },
     {
       "source": "MarketWatch",
@@ -262,13 +262,6 @@
       "ts": 1789624146
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee finds interim support from RBI's intervention",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-ground-despite-fears-of-more-fed-interest-rate-hikes-202609170519",
-      "published": "Thu, 17 Sep 2026 05:19:51 GMT",
-      "ts": 1789622391
-    },
-    {
       "source": "CoinDesk",
       "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
       "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
@@ -297,13 +290,6 @@
       "ts": 1789604624
     },
     {
-      "source": "MarketWatch",
-      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 23:51:00 GMT",
-      "ts": 1789602660
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
@@ -316,6 +302,13 @@
       "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 20:51:38 +0000",
       "ts": 1789591898
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin bounces at $75,791 below Ichimoku cloud: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-16 19:18:24",
+      "ts": 1789586304
     },
     {
       "source": "CoinDesk",
@@ -337,13 +330,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
       "published": "2026-09-16 18:28:59",
       "ts": 1789583339
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fed raises rates by 25 basis points in first hike since July 2023",
-      "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
-      "published": "Wed, 16 Sep 2026 17:54:55 +0000",
-      "ts": 1789581295
     },
     {
       "source": "Investing Crypto",
@@ -421,6 +407,20 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/donnelley-financial-dfin-bets-ai-030405240.html",
       "published": "2026-09-16T03:04:05Z",
       "ts": 1789527845
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "MannKind (MNKD) Bets On Inhaled Weight Loss Amid Widening Losses",
+      "link": "https://finance.yahoo.com/healthcare/articles/mannkind-mnkd-bets-inhaled-weight-025827282.html",
+      "published": "2026-09-16T02:58:27Z",
+      "ts": 1789527507
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Artivion’s (AORT) Growth Story Hides A Widening Bottom-Line Problem",
+      "link": "https://finance.yahoo.com/healthcare/articles/artivion-aort-growth-story-hides-024959979.html",
+      "published": "2026-09-16T02:49:59Z",
+      "ts": 1789526999
     }
   ]
 }
