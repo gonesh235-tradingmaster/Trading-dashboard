@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-17T21:10:04.411285Z",
+  "updated": "2026-09-17T21:25:34.500028Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The bond market is seeing trouble. Why investors are buying now anyway.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
+      "ts": 1789680120
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
+      "ts": 1789680120
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+      "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:09:00 GMT",
+      "ts": 1789679340
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar slips against the Japanese Yen before the Bank of Japan raises rates",
@@ -11,7 +32,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "British Pound Sterling slides after the Bank of England stays put",
+      "title": "British Pound slides after the Bank of England stays put",
       "link": "https://www.fxstreet.com/news/british-pound-sterling-slides-after-the-bank-of-england-stays-put-202609172056",
       "published": "Thu, 17 Sep 2026 20:56:24 GMT",
       "ts": 1789678584
@@ -31,11 +52,39 @@
       "ts": 1789677840
     },
     {
+      "source": "MarketWatch",
+      "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
+      "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:23:00 GMT",
+      "ts": 1789676580
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
+      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:19:00 GMT",
+      "ts": 1789676340
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
+      "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:13:00 GMT",
+      "ts": 1789675980
+    },
+    {
       "source": "FXStreet",
       "title": "Singapore Dollar: Strong Dollar keeps pair supported – OCBC",
       "link": "https://www.fxstreet.com/news/singapore-dollar-strong-dollar-keeps-pair-supported-ocbc-202609172012",
       "published": "Thu, 17 Sep 2026 20:12:00 GMT",
       "ts": 1789675920
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 19:52:00 GMT",
+      "ts": 1789674720
     },
     {
       "source": "FXStreet",
@@ -80,6 +129,13 @@
       "ts": 1789672523
     },
     {
+      "source": "MarketWatch",
+      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 19:07:00 GMT",
+      "ts": 1789672020
+    },
+    {
       "source": "FXStreet",
       "title": "Gold shrugs off Fed hike as falling yields reopen path to $4,400",
       "link": "https://www.fxstreet.com/news/gold-shrugs-off-fed-hike-as-falling-yields-reopen-path-to-4-400-202609171858",
@@ -101,6 +157,13 @@
       "ts": 1789670784
     },
     {
+      "source": "MarketWatch",
+      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
+      "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 18:46:00 GMT",
+      "ts": 1789670760
+    },
+    {
       "source": "CoinDesk",
       "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
       "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
@@ -113,6 +176,13 @@
       "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
       "published": "Thu, 17 Sep 2026 18:38:10 +0000",
       "ts": 1789670290
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
+      "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 17:42:00 GMT",
+      "ts": 1789666920
     },
     {
       "source": "CoinTelegraph",
@@ -319,108 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Meta's Zuckerberg, Nvidia's Huang Say An AI Slowdown Is Not Needed",
-      "link": "https://www.investors.com/news/technology/meta-stock-zuckerberg-ai-safety-nvidia-anthropic/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T13:22:23Z",
-      "ts": 1789564943
+      "title": "CoStar (CSGP): Residential Strategy Unchanged Despite Persistent Market Skepticism",
+      "link": "https://finance.yahoo.com/real-estate/articles/costar-csgp-residential-strategy-unchanged-133542445.html",
+      "published": "2026-09-16T13:35:42Z",
+      "ts": 1789565742
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mesa man loses $449,328 home after HOA forecloses over $977 in missed assessments — lawyers say it's not uncommon",
-      "link": "https://finance.yahoo.com/real-estate/articles/mesa-man-loses-449-328-132000949.html",
-      "published": "2026-09-16T13:20:00Z",
-      "ts": 1789564800
+      "title": "Amazon, Walmart and Target Forecast: Retail Stocks Test Key Levels",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-walmart-target-forecast-retail-133115158.html",
+      "published": "2026-09-16T13:31:15Z",
+      "ts": 1789565475
     },
     {
       "source": "Yahoo Finance",
-      "title": "Real REMAX Group (REAX) Stock Weakness Reflects Fears of AI-Driven Market Changes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/real-remax-group-reax-stock-130724417.html",
-      "published": "2026-09-16T13:07:24Z",
-      "ts": 1789564044
+      "title": "Lopsided Stock Market Momentum Suggests This is the Top… or the Buying Opportunity of the Century",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lopsided-stock-market-momentum-suggests-133002553.html",
+      "published": "2026-09-16T13:30:02Z",
+      "ts": 1789565402
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bloom Energy Corp. (BE) Short Position Weighs on Performance Amid Small-Cap AI Rally",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corp-short-position-130509545.html",
-      "published": "2026-09-16T13:05:09Z",
-      "ts": 1789563909
+      "title": "U.S. Retail Sales Rebound in Show of Consumer Strength",
+      "link": "https://www.wsj.com/economy/u-s-retail-sales-rebounded-last-month-cdb4a2e0?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-16T13:26:00Z",
+      "ts": 1789565160
     },
     {
       "source": "Yahoo Finance",
-      "title": "Oscar Health's Big ACA Gamble Is Paying Off. Here's The Caveat.",
-      "link": "https://www.investors.com/news/oscar-health-stock-medical-costs-aca-investor-update/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T13:02:50Z",
-      "ts": 1789563770
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Dividend Stock Is Beating the Market in 2026 and Yields 2.36%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-beating-market-2026-130002850.html",
-      "published": "2026-09-16T13:00:02Z",
-      "ts": 1789563602
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Guess’ European Fulfillment Operation Gets a Robotic Upgrade",
-      "link": "https://finance.yahoo.com/technology/articles/guess-european-fulfillment-operation-gets-130000412.html",
-      "published": "2026-09-16T13:00:00Z",
-      "ts": 1789563600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is DTE Energy Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dte-energy-stock-underperforming-dow-124602615.html",
-      "published": "2026-09-16T12:46:02Z",
-      "ts": 1789562762
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Seattle single-income mom homeschooling her kids discovers she owns $18M in one stock. What Dave Ramsey says to do next",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/seattle-single-income-mom-homeschooling-124500141.html",
-      "published": "2026-09-16T12:45:00Z",
-      "ts": 1789562700
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
-      "published": "2026-09-16 09:24:27",
-      "ts": 1789550667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees GBP gains as short-lived ahead of October budget risks",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
-      "published": "2026-09-16 09:07:19",
-      "ts": 1789549639
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as Fed hike bets and UK inflation uptick weigh",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
-      "published": "2026-09-16 08:21:55",
-      "ts": 1789546915
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
-      "published": "2026-09-16 07:43:07",
-      "ts": 1789544587
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
-      "published": "2026-09-16 07:30:36",
-      "ts": 1789543836
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 21:49:19",
-      "ts": 1789508959
+      "title": "The Bull Case for Netflix’s (NFLX) New Growth Engine",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-case-netflix-nflx-growth-132531860.html",
+      "published": "2026-09-16T13:25:31Z",
+      "ts": 1789565131
     }
   ]
 }
