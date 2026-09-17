@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-17T07:15:10.074007Z",
+  "updated": "2026-09-17T07:32:15.559953Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "1.4000 within reach: USD/CAD consolidates gains after Fed’s hawkish hike",
+      "link": "https://www.fxstreet.com/news/14000-within-reach-usd-cad-consolidates-gains-after-feds-hawkish-hike-202609170727",
+      "published": "Thu, 17 Sep 2026 07:27:27 GMT",
+      "ts": 1789630047
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+      "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
+      "published": "Thu, 17 Sep 2026 07:27:07 +0000",
+      "ts": 1789630027
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates above $75K support: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-17 07:11:34",
+      "ts": 1789629094
+    },
     {
       "source": "FXStreet",
       "title": "CEE FX: Prolonged pressure from strong Dollar – ING",
@@ -64,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-euro-struggles-below-08570-with-all-eyes-on-the-boe-202609170617",
       "published": "Thu, 17 Sep 2026 06:17:57 GMT",
       "ts": 1789625877
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Holds steady near 1.1450, bearish tone remains intact",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-steady-near-11450-bearish-tone-remains-intact-202609170609",
-      "published": "Thu, 17 Sep 2026 06:09:08 GMT",
-      "ts": 1789625348
     },
     {
       "source": "CoinTelegraph",
@@ -220,13 +234,6 @@
       "ts": 1789586363
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin bounces at $75,791 below Ichimoku cloud: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-16 19:18:24",
-      "ts": 1789586304
-    },
-    {
       "source": "MarketWatch",
       "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
@@ -346,13 +353,6 @@
       "ts": 1789569343
     },
     {
-      "source": "CoinDesk",
-      "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
-      "link": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
-      "published": "Wed, 16 Sep 2026 14:00:00 +0000",
-      "ts": 1789567200
-    },
-    {
       "source": "Investing Crypto",
       "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dear Intuit Stock Fans, Mark Your Calendars for September 17",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-intuit-stock-fans-mark-192340305.html",
-      "published": "2026-09-15T19:23:40Z",
-      "ts": 1789500220
+      "title": "Dollar Rises on Surging Crude Prices and T-Note Yields",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-rises-surging-crude-prices-193655740.html",
+      "published": "2026-09-15T19:36:55Z",
+      "ts": 1789501015
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Says “Target’s Doing Better than Walmart Right Now”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-target-doing-192102989.html",
-      "published": "2026-09-15T19:21:02Z",
-      "ts": 1789500062
+      "title": "A $1 Billion Reason Why AXON Stock Is Down Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-billion-reason-why-axon-193446212.html",
+      "published": "2026-09-15T19:34:46Z",
+      "ts": 1789500886
     }
   ]
 }
