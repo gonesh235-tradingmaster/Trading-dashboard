@@ -1,13 +1,69 @@
 {
-  "updated": "2026-09-17T14:44:57.117666Z",
+  "updated": "2026-09-17T14:57:26.768816Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Stabilizing with policy support – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-stabilizing-with-policy-support-scotiabank-202609171454",
+      "published": "Thu, 17 Sep 2026 14:54:44 GMT",
+      "ts": 1789656884
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar rebound offsets the hawkish Fed hike",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rebound-offsets-the-hawkish-fed-hike-202609171451",
+      "published": "Thu, 17 Sep 2026 14:51:15 GMT",
+      "ts": 1789656675
+    },
+    {
+      "source": "FXStreet",
+      "title": "1.25%: Why the Bank of Japan hike is a done deal and the Japanese Yen now hinges on Ueda's guidance",
+      "link": "https://www.fxstreet.com/news/125-why-the-bank-of-japan-hike-is-a-done-deal-and-the-japanese-yen-now-hinges-on-uedas-guidance-202609171451",
+      "published": "Thu, 17 Sep 2026 14:51:06 GMT",
+      "ts": 1789656666
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+      "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
+      "published": "Thu, 17 Sep 2026 14:50:58 +0000",
+      "ts": 1789656658
+    },
+    {
+      "source": "FXStreet",
+      "title": "Bank of England: Cautious hold with upside risks – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-england-cautious-hold-with-upside-risks-td-securities-202609171446",
+      "published": "Thu, 17 Sep 2026 14:46:31 GMT",
+      "ts": 1789656391
+    },
+    {
+      "source": "MarketWatch",
+      "title": "More home builders cut prices as buyers get spooked",
+      "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 14:37:00 GMT",
+      "ts": 1789655820
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar: Fed hike keeps upside risks – BBH",
       "link": "https://www.fxstreet.com/news/us-dollar-fed-hike-keeps-upside-risks-bbh-202609171434",
       "published": "Thu, 17 Sep 2026 14:34:24 GMT",
       "ts": 1789655664
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Next $100 Billion of Netflix’s Value Could Come From Here, 98% Upside Ahead",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/next-100-billion-netflix-value-143033478.html",
+      "published": "2026-09-17T14:30:33Z",
+      "ts": 1789655433
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Breakout Watch: Savvy Investors Get Wired Up For This Nvidia, Amazon Partner",
+      "link": "https://www.investors.com/research/ibd-stock-analysis/f5-stock-near-breakout-as-top-funds-buy-into-nvidia-amazon-partner/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T14:24:50Z",
+      "ts": 1789655090
     },
     {
       "source": "FXStreet",
@@ -18,17 +74,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "What to Watch: HQDG",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/watch-hqdg-142026539.html",
-      "published": "2026-09-17T14:20:26Z",
-      "ts": 1789654826
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Charges Higher On Amazon Deal; This Home Builder Misses Views (Live Coverage)",
+      "title": "Stock Market Today: Nasdaq Charges Higher On Amazon Deal; This Homebuilder Misses Views (Live Coverage)",
       "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T14:20:04Z",
-      "ts": 1789654804
+      "published": "2026-09-17T14:19:48Z",
+      "ts": 1789654788
     },
     {
       "source": "FXStreet",
@@ -80,18 +129,11 @@
       "ts": 1789654043
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Ciena Stock Climbs On Three-Year, 30% Revenue Growth Outlook",
-      "link": "https://www.investors.com/news/technology/ciena-stock-investor-day-financial-targets-supply-constraints/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T14:06:51Z",
-      "ts": 1789654011
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: BoJ tightening expectations lift JPY against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-tightening-expectations-lift-jpy-against-us-dollar-scotiabank-202609171400",
-      "published": "Thu, 17 Sep 2026 14:00:16 GMT",
-      "ts": 1789653616
+      "source": "MarketWatch",
+      "title": "The smartest money moves to make now that interest rates are going up",
+      "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 14:04:00 GMT",
+      "ts": 1789653840
     },
     {
       "source": "Investing Crypto",
@@ -108,18 +150,11 @@
       "ts": 1789653194
     },
     {
-      "source": "FXStreet",
-      "title": "Bank of England: November hike risk rises – Rabobank",
-      "link": "https://www.fxstreet.com/news/bank-of-england-november-hike-risk-rises-rabobank-202609171351",
-      "published": "Thu, 17 Sep 2026 13:51:17 GMT",
-      "ts": 1789653077
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Downside levels in focus against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-downside-levels-in-focus-against-us-dollar-uob-202609171338",
-      "published": "Thu, 17 Sep 2026 13:38:44 GMT",
-      "ts": 1789652324
+      "source": "MarketWatch",
+      "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
+      "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 13:48:00 GMT",
+      "ts": 1789652880
     },
     {
       "source": "CoinTelegraph",
@@ -143,18 +178,25 @@
       "ts": 1789651800
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar: Underperformance persists on wider spreads – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-underperformance-persists-on-wider-spreads-scotiabank-202609171324",
-      "published": "Thu, 17 Sep 2026 13:24:46 GMT",
-      "ts": 1789651486
-    },
-    {
       "source": "CoinDesk",
       "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
       "link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
       "published": "Thu, 17 Sep 2026 13:15:21 +0000",
       "ts": 1789650921
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 13:15:00 GMT",
+      "ts": 1789650900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘You are freed’: What happened when an OpenAI model began secretly writing notes to itself",
+      "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 13:07:00 GMT",
+      "ts": 1789650420
     },
     {
       "source": "CoinDesk",
@@ -169,6 +211,13 @@
       "link": "https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 12:56:23 +0000",
       "ts": 1789649783
+    },
+    {
+      "source": "MarketWatch",
+      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+      "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:39:00 GMT",
+      "ts": 1789648740
     },
     {
       "source": "CoinDesk",
@@ -190,6 +239,27 @@
       "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 12:34:11 +0000",
       "ts": 1789648451
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:15:00 GMT",
+      "ts": 1789647300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:15:00 GMT",
+      "ts": 1789647300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bitcoin could be headed for $230,000 in less than a decade. Here are seven ways to value the crypto.",
+      "link": "https://www.marketwatch.com/story/bitcoin-could-be-headed-for-230-000-in-less-than-a-decade-here-are-seven-ways-to-value-the-crypto-d1110aab?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:10:00 GMT",
+      "ts": 1789647000
     },
     {
       "source": "Investing Forex",
@@ -225,6 +295,13 @@
       "link": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
       "published": "Thu, 17 Sep 2026 11:42:22 +0000",
       "ts": 1789645342
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I just want out’: Why Jeffrey Gundlach is moving his money as far from AI as possible — and what he’s doing instead",
+      "link": "https://www.marketwatch.com/story/i-just-want-out-why-jeffrey-gundlach-is-moving-his-money-as-far-from-ai-as-possible-and-what-hes-doing-instead-54281010?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 11:41:00 GMT",
+      "ts": 1789645260
     },
     {
       "source": "Investing Forex",
@@ -304,13 +381,6 @@
       "ts": 1789632768
     },
     {
-      "source": "CoinDesk",
-      "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
-      "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
-      "published": "Thu, 17 Sep 2026 07:54:33 +0000",
-      "ts": 1789631673
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin consolidates above $75K support: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
@@ -351,76 +421,6 @@
       "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
       "published": "2026-09-16T16:47:40Z",
       "ts": 1789577260
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "SEC chief vows action on crypto rules after Senate bill fails",
-      "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
-      "published": "2026-09-16 16:20:11",
-      "ts": 1789575611
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Coinbase cuts trading fees for active users on Advanced platform",
-      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
-      "published": "2026-09-16 14:56:02",
-      "ts": 1789570562
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
-      "published": "2026-09-16 13:44:48",
-      "ts": 1789566288
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
-      "published": "2026-09-16 09:24:27",
-      "ts": 1789550667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees GBP gains as short-lived ahead of October budget risks",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
-      "published": "2026-09-16 09:07:19",
-      "ts": 1789549639
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as Fed hike bets and UK inflation uptick weigh",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
-      "published": "2026-09-16 08:21:55",
-      "ts": 1789546915
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
-      "published": "2026-09-16 07:43:07",
-      "ts": 1789544587
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
-      "published": "2026-09-16 07:30:36",
-      "ts": 1789543836
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 21:49:19",
-      "ts": 1789508959
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tech stocks today: OpenAI reveals six more instances of 'concerning model behavior'",
-      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-openai-reveals-six-more-instances-of-concerning-model-behavior-140134624.html",
-      "published": "2026-09-14T14:01:34Z",
-      "ts": 1789394494
     }
   ]
 }
