@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-17T11:26:10.602897Z",
+  "updated": "2026-09-17T11:40:36.895716Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: Short-term downside toward 0.7050 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-short-term-downside-toward-07050-against-us-dollar-uob-202609171131",
+      "published": "Thu, 17 Sep 2026 11:31:23 GMT",
+      "ts": 1789644683
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How can I get my employees to stop oversharing at work?",
+      "link": "https://www.marketwatch.com/story/how-can-i-get-my-employees-to-stop-oversharing-at-work-540ba78c?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 11:30:00 GMT",
+      "ts": 1789644600
+    },
+    {
+      "source": "FXStreet",
+      "title": "Massive selloff: Swiss Franc plunges 2% in five days amid growing SNB-Fed divergence",
+      "link": "https://www.fxstreet.com/news/massive-selloff-swiss-franc-plunges-2-in-five-days-amid-growing-snb-fed-divergence-202609171129",
+      "published": "Thu, 17 Sep 2026 11:29:11 GMT",
+      "ts": 1789644551
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound falls as BoE holds rates, cautious minutes weigh",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
+      "published": "2026-09-17 11:20:53",
+      "ts": 1789644053
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Fair value falls on oil and Fed pressure against US Dollar - ING",
@@ -36,6 +64,13 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-second-order-effects-guide-boj-risks-rabobank-202609171107",
       "published": "Thu, 17 Sep 2026 11:07:49 GMT",
       "ts": 1789643269
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
+      "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
+      "published": "2026-09-17 11:00:34",
+      "ts": 1789642834
     },
     {
       "source": "MarketWatch",
@@ -101,20 +136,6 @@
       "ts": 1789639451
     },
     {
-      "source": "FXStreet",
-      "title": "Euro languishes below 1.1500 in the aftermath of Fed’s hawkish hike",
-      "link": "https://www.fxstreet.com/news/euro-languishes-below-11500-in-the-aftermath-of-feds-hawkish-hike-202609171004",
-      "published": "Thu, 17 Sep 2026 10:04:01 GMT",
-      "ts": 1789639441
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Warsh message supports limited upside – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-warsh-message-supports-limited-upside-mufg-202609170959",
-      "published": "Thu, 17 Sep 2026 09:59:15 GMT",
-      "ts": 1789639155
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Revolut says no direct contact after $3 million public ransom demand",
       "link": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -169,13 +190,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
       "published": "Thu, 17 Sep 2026 08:41:48 +0000",
       "ts": 1789634508
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound flat as dollar rally pauses ahead of BoE decision",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
-      "published": "2026-09-17 08:13:47",
-      "ts": 1789632827
     },
     {
       "source": "Investing Forex",
@@ -288,13 +302,6 @@
       "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 23:51:00 GMT",
       "ts": 1789602660
-    },
-    {
-      "source": "MarketWatch",
-      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
-      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:25:00 GMT",
-      "ts": 1789597500
     },
     {
       "source": "Investing Crypto",
@@ -410,17 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jefferson Capital (JCAP) Grows Everywhere, But Costs Are Climbing Faster",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferson-capital-jcap-grows-everywhere-024604879.html",
-      "published": "2026-09-16T02:46:04Z",
-      "ts": 1789526764
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
-      "link": "https://finance.yahoo.com/news/boj-set-raise-interest-rates-024244752.html",
-      "published": "2026-09-16T02:42:44Z",
-      "ts": 1789526564
+      "title": "Donnelley Financial (DFIN) Bets AI Translation Powers Its Next Deal Boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/donnelley-financial-dfin-bets-ai-030405240.html",
+      "published": "2026-09-16T03:04:05Z",
+      "ts": 1789527845
     }
   ]
 }
