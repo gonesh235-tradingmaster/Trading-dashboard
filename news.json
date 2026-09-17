@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T10:42:35.532936Z",
+  "updated": "2026-09-17T10:54:38.247816Z",
   "count": 60,
   "items": [
     {
@@ -206,13 +206,6 @@
       "ts": 1789624891
     },
     {
-      "source": "FXStreet",
-      "title": "BoE set to hold interest rates at 3.75% for sixth meeting in a row",
-      "link": "https://www.fxstreet.com/news/boe-expected-to-hold-interest-rate-at-375-202609170600",
-      "published": "Thu, 17 Sep 2026 06:00:00 GMT",
-      "ts": 1789624800
-    },
-    {
       "source": "CoinTelegraph",
       "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
       "link": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -225,6 +218,13 @@
       "link": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 05:49:06 +0000",
       "ts": 1789624146
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee finds interim support from RBI's intervention",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-ground-despite-fears-of-more-fed-interest-rate-hikes-202609170519",
+      "published": "Thu, 17 Sep 2026 05:19:51 GMT",
+      "ts": 1789622391
     },
     {
       "source": "CoinDesk",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "The AI gold rush has a dress code: steel-toe boots",
+      "link": "https://finance.yahoo.com/economy/articles/ai-gold-rush-dress-code-233725771.html",
+      "published": "2026-09-15T23:37:25Z",
+      "ts": 1789515445
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "This High-Yield Construction Stock Just Raised Its Dividend by 40%",
       "link": "https://finance.yahoo.com/markets/stocks/articles/high-yield-construction-stock-just-233002433.html",
       "published": "2026-09-15T23:30:02Z",
       "ts": 1789515002
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Grid’s Wasted-Power Problem Has a Sector-Coupling Fix",
-      "link": "https://finance.yahoo.com/energy/articles/grid-wasted-power-problem-sector-230208698.html",
-      "published": "2026-09-15T23:02:08Z",
-      "ts": 1789513328
     }
   ]
 }
