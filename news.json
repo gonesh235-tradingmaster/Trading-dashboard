@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-17T06:56:44.525547Z",
+  "updated": "2026-09-17T07:15:10.074007Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "CEE FX: Prolonged pressure from strong Dollar – ING",
+      "link": "https://www.fxstreet.com/news/cee-fx-prolonged-pressure-from-strong-dollar-ing-202609170710",
+      "published": "Thu, 17 Sep 2026 07:10:01 GMT",
+      "ts": 1789629001
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.",
+      "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 07:08:00 GMT",
+      "ts": 1789628880
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steady at $76.5k as markets digest Fed rate hike, M.East tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
+      "published": "2026-09-17 07:01:04",
+      "ts": 1789628464
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar: Hawkish Fed supports Dollar against Euro - Danske Bank",
@@ -57,13 +78,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 06:01:31 +0000",
       "ts": 1789624891
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japan’s Kiuchi says aim to balance robust economy with fiscal sustainability",
-      "link": "https://www.fxstreet.com/news/japans-kiuchi-says-aim-to-balance-robust-economy-with-fiscal-sustainability-202609170600",
-      "published": "Thu, 17 Sep 2026 06:00:12 GMT",
-      "ts": 1789624812
     },
     {
       "source": "CoinTelegraph",
@@ -225,13 +239,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
       "published": "Wed, 16 Sep 2026 19:07:34 +0000",
       "ts": 1789585654
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
-      "link": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 18:57:00 GMT",
-      "ts": 1789585020
     },
     {
       "source": "Investing Forex",
@@ -403,24 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "U.S. Steel and Materials Stocks Swing as U.S.-Canada Trade War Escalates With 50% Tariffs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-steel-materials-stocks-swing-193008928.html",
-      "published": "2026-09-15T19:30:08Z",
-      "ts": 1789500608
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Jefferies Is Bullish on Formula One Stock Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-jefferies-bullish-formula-one-192604818.html",
-      "published": "2026-09-15T19:26:04Z",
-      "ts": 1789500364
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Dear Intuit Stock Fans, Mark Your Calendars for September 17",
       "link": "https://finance.yahoo.com/markets/stocks/articles/dear-intuit-stock-fans-mark-192340305.html",
       "published": "2026-09-15T19:23:40Z",
       "ts": 1789500220
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says “Target’s Doing Better than Walmart Right Now”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-target-doing-192102989.html",
+      "published": "2026-09-15T19:21:02Z",
+      "ts": 1789500062
     }
   ]
 }
