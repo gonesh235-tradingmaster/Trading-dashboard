@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T19:38:14.640060Z",
+  "updated": "2026-09-17T19:51:20.798140Z",
   "count": 60,
   "items": [
     {
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Morning Bid: A time to hike?",
-      "link": "https://finance.yahoo.com/news/morning-bid-time-hike-104329450.html",
-      "published": "2026-09-16T10:43:29Z",
-      "ts": 1789555409
+      "title": "Is Iron Mountain Stock Underperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iron-mountain-stock-underperforming-dow-100715952.html",
+      "published": "2026-09-16T10:07:15Z",
+      "ts": 1789553235
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Biogen Stock Outperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/biogen-stock-outperforming-p-500-103637463.html",
-      "published": "2026-09-16T10:36:37Z",
-      "ts": 1789554997
+      "title": "Are you 5 years from retirement? Do these 5 things now — or risk running out of cash",
+      "link": "https://finance.yahoo.com/markets/articles/5-years-retirement-5-things-100500756.html",
+      "published": "2026-09-16T10:05:00Z",
+      "ts": 1789553100
     },
     {
       "source": "Yahoo Finance",
-      "title": "FirstEnergy Stock: Is FE Outperforming the Utility Sector?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/firstenergy-stock-fe-outperforming-utility-103515789.html",
-      "published": "2026-09-16T10:35:15Z",
-      "ts": 1789554915
+      "title": "Ethereum Signals 10% Drop Against Bitcoin Amid CLARITY Act Setback",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-signals-10-drop-against-100314853.html",
+      "published": "2026-09-16T10:03:14Z",
+      "ts": 1789552994
     },
     {
       "source": "Yahoo Finance",
-      "title": "Kevin O’Leary, Barbara Corcoran and Robert Herjavec all avoid mixing money and family. Why retirees should do the same",
-      "link": "https://finance.yahoo.com/small-business/articles/kevin-o-leary-barbara-corcoran-103500907.html",
-      "published": "2026-09-16T10:35:00Z",
-      "ts": 1789554900
+      "title": "How Is Cardinal Health's Stock Performance Compared to Other Health Care Services Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cardinal-healths-stock-performance-compared-100143179.html",
+      "published": "2026-09-16T10:01:43Z",
+      "ts": 1789552903
     },
     {
       "source": "Yahoo Finance",
-      "title": "S&P Futures Gain as Oil Retreats, Fed Rate Decision in Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-futures-gain-oil-retreats-102852709.html",
-      "published": "2026-09-16T10:28:52Z",
-      "ts": 1789554532
+      "title": "Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/death-of-software-greatly-overstated-as-sector-flips-the-script-on-chip-stocks-chart-of-the-day-100000695.html",
+      "published": "2026-09-16T10:00:00Z",
+      "ts": 1789552800
     }
   ]
 }
