@@ -1,13 +1,76 @@
 {
-  "updated": "2026-09-17T16:11:10.954934Z",
+  "updated": "2026-09-17T16:27:55.007836Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average rebounds as Crude Oil and bond yields fall",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rebounds-as-crude-oil-and-bond-yields-fall-202609171616",
+      "published": "Thu, 17 Sep 2026 16:16:31 GMT",
+      "ts": 1789661791
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia Expects Chip Sales to Double in 2027",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-expects-chip-sales-double-161001284.html",
+      "published": "2026-09-17T16:10:01Z",
+      "ts": 1789661401
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Student loans are quietly gutting your retirement — especially in your 40s",
+      "link": "https://finance.yahoo.com/economy/article/student-loans-are-quietly-gutting-your-retirement--especially-in-your-40s-160955696.html",
+      "published": "2026-09-17T16:09:55Z",
+      "ts": 1789661395
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SpaceX (SPCX)’s Space Data Center Dream Runs into Four Very Earthly Problems",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-space-data-center-160856877.html",
+      "published": "2026-09-17T16:08:56Z",
+      "ts": 1789661336
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BioCryst (BCRX) Turns its First Profit and Now Wants to Go Shopping for Rare Disease Drugs",
+      "link": "https://finance.yahoo.com/healthcare/articles/biocryst-bcrx-turns-first-profit-160606434.html",
+      "published": "2026-09-17T16:06:06Z",
+      "ts": 1789661166
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ethos Technologies Highlights Why Key Sell Rules Also Apply To New IPOs",
+      "link": "https://www.investors.com/research/ethos-technologies-life-stock-ticker-new-ipos-sell-rules-life-insurance-growth/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T16:01:13Z",
+      "ts": 1789660873
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Struggling Coinbase Stock Sets Itself Up For This Bearish Trade",
+      "link": "https://www.investors.com/research/options/coinbase-coin-stock-bear-put-spread-options/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T16:01:06Z",
+      "ts": 1789660866
+    },
     {
       "source": "CoinTelegraph",
       "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
       "link": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 15:58:33 +0000",
       "ts": 1789660713
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Leads Dow After Surprise Jobs Data; Gold Name Vaults Higher (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T15:56:57Z",
+      "ts": 1789660617
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stellantis (STLA) and Ford (F) Bet Gas Engines Can Fix America’s EV Range Anxiety",
+      "link": "https://finance.yahoo.com/technology/articles/stellantis-stla-ford-f-bet-155611688.html",
+      "published": "2026-09-17T15:56:11Z",
+      "ts": 1789660571
     },
     {
       "source": "FXStreet",
@@ -17,27 +80,6 @@
       "ts": 1789660554
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Eli Lilly (LLY) Gets a Big Price Target Boost, Analysts See 20% Upside",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-gets-big-155107945.html",
-      "published": "2026-09-17T15:51:07Z",
-      "ts": 1789660267
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jamie Dimon on AI oversight: 'It should be light touch'",
-      "link": "https://finance.yahoo.com/technology/article/jamie-dimon-on-ai-oversight-it-should-be-light-touch-154920383.html",
-      "published": "2026-09-17T15:49:20Z",
-      "ts": 1789660160
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Goldgroup Mining Stock Popped, Then Dropped",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-goldgroup-mining-stock-popped-154915558.html",
-      "published": "2026-09-17T15:49:15Z",
-      "ts": 1789660155
-    },
-    {
       "source": "MarketWatch",
       "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
       "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
@@ -45,46 +87,11 @@
       "ts": 1789660140
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Novo Nordisk (NVO) and Eli Lilly (LLY)’s Weight-Loss Drugs Still Work at Smaller Doses, Study Finds",
-      "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-eli-lilly-154648868.html",
-      "published": "2026-09-17T15:46:48Z",
-      "ts": 1789660008
-    },
-    {
       "source": "FXStreet",
       "title": "British Pound loses its footing as BoE hold meets Fed hike",
       "link": "https://www.fxstreet.com/news/british-pound-loses-its-footing-as-boe-holds-meet-fed-tightening-202609171543",
       "published": "Thu, 17 Sep 2026 15:43:17 GMT",
       "ts": 1789659797
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ETSY Gets a Bullish Upgrade: What Investors Should Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etsy-gets-bullish-upgrade-investors-153936911.html",
-      "published": "2026-09-17T15:39:36Z",
-      "ts": 1789659576
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SEC Clears Path For Tokenized Stock Trading. These Stocks Rally.",
-      "link": "https://www.investors.com/news/blockchain-tokenized-stock-trading-sec/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T15:33:36Z",
-      "ts": 1789659216
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nike (NKE) Is Down 40% YTD: Will the Turnaround Strategy Work?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-down-40-ytd-153250563.html",
-      "published": "2026-09-17T15:32:50Z",
-      "ts": 1789659170
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Average auto loan interest rates by credit score in 2026",
-      "link": "https://finance.yahoo.com/news/average-car-loan-interest-rates-212521067.html",
-      "published": "2026-09-17T15:26:52Z",
-      "ts": 1789658812
     },
     {
       "source": "MarketWatch",
@@ -190,13 +197,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-fed-hike-keeps-upside-risks-bbh-202609171434",
       "published": "Thu, 17 Sep 2026 14:34:24 GMT",
       "ts": 1789655664
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro gains against US Dollar as post-Fed rally loses momentum",
-      "link": "https://www.fxstreet.com/news/euro-gains-against-us-dollar-as-post-fed-rally-loses-momentum-202609171424",
-      "published": "Thu, 17 Sep 2026 14:24:22 GMT",
-      "ts": 1789655062
     },
     {
       "source": "MarketWatch",
