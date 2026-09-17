@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-17T00:55:48.104612Z",
+  "updated": "2026-09-17T01:11:15.015090Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound languishes near late July lows as hawkish Fed underpins USD ahead of BoE",
+      "link": "https://www.fxstreet.com/news/british-pound-languishes-near-late-july-lows-as-hawkish-fed-underpins-usd-ahead-of-boe-202609170104",
+      "published": "Thu, 17 Sep 2026 01:04:58 GMT",
+      "ts": 1789607098
+    },
     {
       "source": "CoinTelegraph",
       "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
@@ -120,13 +127,6 @@
       "link": "https://www.fxstreet.com/news/trump-demands-1-rates-hours-after-the-fed-raised-them-202609162104",
       "published": "Wed, 16 Sep 2026 21:04:26 GMT",
       "ts": 1789592666
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar sinks toward its July low after the Fed hikes",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-sinks-toward-its-july-low-after-the-fed-hikes-202609162101",
-      "published": "Wed, 16 Sep 2026 21:01:18 GMT",
-      "ts": 1789592478
     },
     {
       "source": "MarketWatch",
