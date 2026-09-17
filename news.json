@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-17T23:07:57.719269Z",
+  "updated": "2026-09-17T23:21:56.548087Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold rebounds to near $4,350 on weaker US Dollar, falling oil prices",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-to-near-4-350-on-weaker-us-dollar-falling-oil-prices-202609172320",
+      "published": "Thu, 17 Sep 2026 23:20:22 GMT",
+      "ts": 1789687222
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar finds a floor as Oil retreat loosens USD’s grip",
+      "link": "https://www.fxstreet.com/news/australian-dollar-finds-a-floor-as-oil-retreat-loosens-usds-grip-202609172315",
+      "published": "Thu, 17 Sep 2026 23:15:56 GMT",
+      "ts": 1789686956
+    },
     {
       "source": "FXStreet",
       "title": "Bank of Japan is expected to deliver a hawkish hike, pressured by rising inflation",
@@ -157,25 +171,11 @@
       "ts": 1789672730
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: Bulls threaten bearish setup after Fed hike",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-bulls-threaten-bearish-setup-after-fed-hike-202609171915",
-      "published": "Thu, 17 Sep 2026 19:15:23 GMT",
-      "ts": 1789672523
-    },
-    {
       "source": "MarketWatch",
       "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
       "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 19:07:00 GMT",
       "ts": 1789672020
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold shrugs off Fed hike as falling yields reopen path to $4,400",
-      "link": "https://www.fxstreet.com/news/gold-shrugs-off-fed-hike-as-falling-yields-reopen-path-to-4-400-202609171858",
-      "published": "Thu, 17 Sep 2026 18:58:44 GMT",
-      "ts": 1789671524
     },
     {
       "source": "MarketWatch",
@@ -375,52 +375,52 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is Entergy's Stock Performance Compared to Other Utility Stocks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/entergys-stock-performance-compared-other-152737113.html",
-      "published": "2026-09-16T15:27:37Z",
-      "ts": 1789572457
+      "title": "Aptiv (APTV) Turns Chip Partnerships Into A Physical AI Bet",
+      "link": "https://finance.yahoo.com/technology/ai/articles/aptiv-aptv-turns-chip-partnerships-155643163.html",
+      "published": "2026-09-16T15:56:43Z",
+      "ts": 1789574203
     },
     {
       "source": "Yahoo Finance",
-      "title": "Intel Stock Investors Should Pay Attention to This Potential SK Hynix Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-investors-pay-attention-152614539.html",
-      "published": "2026-09-16T15:26:14Z",
-      "ts": 1789572374
+      "title": "Despite Robust Growth, CoreWeave Remains Unattractive on Leveraging and Margin Contraction",
+      "link": "https://finance.yahoo.com/technology/ai/articles/despite-robust-growth-coreweave-remains-155408176.html",
+      "published": "2026-09-16T15:54:08Z",
+      "ts": 1789574048
     },
     {
       "source": "Yahoo Finance",
-      "title": "Arista Stock Holds Up Well Amid Weakness. Here's How To Capitalize.",
-      "link": "https://www.investors.com/research/options/arista-anet-stock-covered-call-options/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T15:26:07Z",
-      "ts": 1789572367
+      "title": "Elastic (ESTC) Bets Big On AI Search With New Database",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elastic-estc-bets-big-ai-154753742.html",
+      "published": "2026-09-16T15:47:53Z",
+      "ts": 1789573673
     },
     {
       "source": "Yahoo Finance",
-      "title": "Radiant Logistics (RLGT) Bets $100M On A Freight Rebound",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-bets-100m-152433522.html",
-      "published": "2026-09-16T15:24:33Z",
-      "ts": 1789572273
+      "title": "J.B. Hunt Shares Fall After CFO Flags Rise in Costs",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/j-b-hunt-shares-fall-after-cfo-flags-rise-in-costs-s7j882i16UhTIRueVs59?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-16T15:46:48Z",
+      "ts": 1789573608
     },
     {
       "source": "Yahoo Finance",
-      "title": "Weakness Is an Opportunity for Long-Term ASML Stock Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/weakness-opportunity-long-term-asml-152400381.html",
-      "published": "2026-09-16T15:24:00Z",
-      "ts": 1789572240
+      "title": "Crude Oil Prices Retreat as Supply Fears Ease",
+      "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-retreat-supply-153920479.html",
+      "published": "2026-09-16T15:39:20Z",
+      "ts": 1789573160
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stocks Hold Gains After Fed Hikes Key Rate",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-hold-gains-fed-hikes-151838478.html",
-      "published": "2026-09-16T15:18:38Z",
-      "ts": 1789571918
+      "title": "Michael Dell Just Made a $7.7 Billion Bet on This Insurance Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-dell-just-made-7-153914458.html",
+      "published": "2026-09-16T15:39:14Z",
+      "ts": 1789573154
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bitcoin Price Prediction: Failed Clarity Act Vote Will Put BTC’s Rally to the Test",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-failed-clarity-151045217.html",
-      "published": "2026-09-16T15:10:45Z",
-      "ts": 1789571445
+      "title": "Westlake’s (WLK) Second Quarter Turned Two Straight Losses Into Profit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/westlake-wlk-second-quarter-turned-153826527.html",
+      "published": "2026-09-16T15:38:26Z",
+      "ts": 1789573106
     }
   ]
 }
