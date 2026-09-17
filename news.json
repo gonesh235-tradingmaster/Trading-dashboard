@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-17T19:24:39.329394Z",
+  "updated": "2026-09-17T19:38:14.640060Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Thai Baht: Electronics boom offers limited FX support – MUFG",
+      "link": "https://www.fxstreet.com/news/thai-baht-electronics-boom-offers-limited-fx-support-mufg-202609171937",
+      "published": "Thu, 17 Sep 2026 19:37:00 GMT",
+      "ts": 1789673820
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar eases ahead of Bank of Japan decision",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-eases-ahead-of-bank-of-japan-decision-202609171933",
+      "published": "Thu, 17 Sep 2026 19:33:58 GMT",
+      "ts": 1789673638
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC expands regulatory relief for passive trading software providers",
+      "link": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 19:30:48 +0000",
+      "ts": 1789673448
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar halts six-day rally after Fed hike, sterling slips after BoE stands pat",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
+      "published": "2026-09-17 19:24:32",
+      "ts": 1789673072
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trapped in $75K-$77K range on 5h chart: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-17 19:18:50",
+      "ts": 1789672730
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: Bulls threaten bearish setup after Fed hike",
@@ -87,13 +122,6 @@
       "ts": 1789668004
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen awaits fresh direction from Bank of Japan interest rate decision",
-      "link": "https://www.fxstreet.com/news/japanese-yen-awaits-fresh-direction-from-bank-of-japan-interest-rate-decision-202609171748",
-      "published": "Thu, 17 Sep 2026 17:48:12 GMT",
-      "ts": 1789667292
-    },
-    {
       "source": "MarketWatch",
       "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
       "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
@@ -113,13 +141,6 @@
       "link": "https://www.marketwatch.com/story/ai-was-supposed-to-kill-google-search-these-numbers-show-the-opposite-analyst-says-a3be9495?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 17:31:00 GMT",
       "ts": 1789666260
-    },
-    {
-      "source": "FXStreet",
-      "title": "Federal Reserve: Higher-for-longer path reshapes cuts – Rabobank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-higher-for-longer-path-reshapes-cuts-rabobank-202609171725",
-      "published": "Thu, 17 Sep 2026 17:25:46 GMT",
-      "ts": 1789665946
     },
     {
       "source": "MarketWatch",
@@ -283,13 +304,6 @@
       "ts": 1789648541
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher",
-      "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 12:34:11 +0000",
-      "ts": 1789648451
-    },
-    {
       "source": "Investing Forex",
       "title": "Global yields ease as Fed hike and BoE rate hold anchor debt bourses",
       "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
@@ -316,20 +330,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
       "published": "2026-09-17 11:00:34",
       "ts": 1789642834
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Yen rise as markets price BOJ rate hike  while dollar pauses post-Fed",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
-      "published": "2026-09-17 09:27:30",
-      "ts": 1789637250
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin consolidates above $75K support: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-17 07:11:34",
-      "ts": 1789629094
     },
     {
       "source": "Investing Crypto",
@@ -389,6 +389,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Morning Bid: A time to hike?",
+      "link": "https://finance.yahoo.com/news/morning-bid-time-hike-104329450.html",
+      "published": "2026-09-16T10:43:29Z",
+      "ts": 1789555409
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Biogen Stock Outperforming the S&P 500?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/biogen-stock-outperforming-p-500-103637463.html",
       "published": "2026-09-16T10:36:37Z",
@@ -396,31 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "6 signs you might be a good fit for debt settlement",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/signs-you-might-be-a-good-fit-for-debt-settlement-102500610.html",
-      "published": "2026-09-16T10:25:00Z",
-      "ts": 1789554300
+      "title": "FirstEnergy Stock: Is FE Outperforming the Utility Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/firstenergy-stock-fe-outperforming-utility-103515789.html",
+      "published": "2026-09-16T10:35:15Z",
+      "ts": 1789554915
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corcept Grows to Mid-Cap on Institutional Support",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/corcept-grows-mid-cap-institutional-102316998.html",
-      "published": "2026-09-16T10:23:16Z",
-      "ts": 1789554196
+      "title": "Kevin O’Leary, Barbara Corcoran and Robert Herjavec all avoid mixing money and family. Why retirees should do the same",
+      "link": "https://finance.yahoo.com/small-business/articles/kevin-o-leary-barbara-corcoran-103500907.html",
+      "published": "2026-09-16T10:35:00Z",
+      "ts": 1789554900
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is International Flavors & Fragrances Stock Outperforming the Dow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/international-flavors-fragrances-stock-outperforming-093049933.html",
-      "published": "2026-09-16T09:30:49Z",
-      "ts": 1789551049
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown",
-      "link": "https://finance.yahoo.com/energy/articles/japanese-refiners-rush-oman-crude-093000428.html",
-      "published": "2026-09-16T09:30:00Z",
-      "ts": 1789551000
+      "title": "S&P Futures Gain as Oil Retreats, Fed Rate Decision in Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-futures-gain-oil-retreats-102852709.html",
+      "published": "2026-09-16T10:28:52Z",
+      "ts": 1789554532
     }
   ]
 }
