@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-17T10:26:57.234840Z",
+  "updated": "2026-09-17T10:42:35.532936Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Zcash jumps 17% as $345 million of liquidations hit crypto traders",
+      "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
+      "published": "Thu, 17 Sep 2026 10:41:15 +0000",
+      "ts": 1789641675
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto rallies through the Fed's first rate increase since 2023",
+      "link": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
+      "published": "Thu, 17 Sep 2026 10:40:01 +0000",
+      "ts": 1789641601
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
+      "link": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 10:35:29 +0000",
+      "ts": 1789641329
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold Price Forecast: XAU/USD gains as oil rally eases, upside seems limited amid hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-gains-as-oil-rally-eases-upside-seems-limited-amid-hawkish-fed-bets-202609171030",
+      "published": "Thu, 17 Sep 2026 10:30:21 GMT",
+      "ts": 1789641021
+    },
     {
       "source": "MarketWatch",
       "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
@@ -106,13 +134,6 @@
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 09:15:00 GMT",
       "ts": 1789636500
-    },
-    {
-      "source": "FXStreet",
-      "title": "Czech Koruna: Hawkish CNB pause may support CZK – Commerzbank",
-      "link": "https://www.fxstreet.com/news/czech-koruna-hawkish-cnb-pause-may-support-czk-commerzbank-202609170911",
-      "published": "Thu, 17 Sep 2026 09:11:19 GMT",
-      "ts": 1789636279
     },
     {
       "source": "CoinTelegraph",
@@ -283,13 +304,6 @@
       "ts": 1789591898
     },
     {
-      "source": "CoinTelegraph",
-      "title": "UK FCA sets crypto authorization guidance ahead of September application window",
-      "link": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 19:19:23 +0000",
-      "ts": 1789586363
-    },
-    {
       "source": "CoinDesk",
       "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
       "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
@@ -339,25 +353,11 @@
       "ts": 1789577260
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
-      "link": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
-      "published": "Wed, 16 Sep 2026 16:21:44 +0000",
-      "ts": 1789575704
-    },
-    {
       "source": "Investing Crypto",
       "title": "SEC chief vows action on crypto rules after Senate bill fails",
       "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
       "published": "2026-09-16 16:20:11",
       "ts": 1789575611
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
-      "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
-      "published": "Wed, 16 Sep 2026 15:25:41 +0000",
-      "ts": 1789572341
     },
     {
       "source": "Investing Crypto",
