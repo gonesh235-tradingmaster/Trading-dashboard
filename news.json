@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-17T08:44:53.541895Z",
+  "updated": "2026-09-17T08:56:21.405884Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Holds above 0.7100 amid retreating USD; 100-SMA holds the key",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-above-07100-amid-retreating-usd-100-sma-holds-the-key-202609170856",
+      "published": "Thu, 17 Sep 2026 08:56:00 GMT",
+      "ts": 1789635360
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: BoE decision keeps November hike risk alive – MUFG",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-decision-keeps-november-hike-risk-alive-mufg-202609170850",
+      "published": "Thu, 17 Sep 2026 08:50:27 GMT",
+      "ts": 1789635027
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen strengthens due to BoJ rate hike bets, weaker US Dollar",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-due-to-boj-rate-hike-bets-weaker-us-dollar-202609170849",
+      "published": "Thu, 17 Sep 2026 08:49:37 GMT",
+      "ts": 1789634977
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
@@ -66,25 +87,11 @@
       "ts": 1789632595
     },
     {
-      "source": "FXStreet",
-      "title": "Equities: Pressured by higher yields – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-pressured-by-higher-yields-deutsche-bank-202609170801",
-      "published": "Thu, 17 Sep 2026 08:01:58 GMT",
-      "ts": 1789632118
-    },
-    {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar eases, yen strengthens ahead of BoJ",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
       "published": "2026-09-17 08:01:35",
       "ts": 1789632095
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar gains momentum following strong Q2 GDP growth",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-momentum-following-strong-q2-gdp-growth-202609170755",
-      "published": "Thu, 17 Sep 2026 07:55:26 GMT",
-      "ts": 1789631726
     },
     {
       "source": "CoinDesk",
@@ -99,13 +106,6 @@
       "link": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 07:50:00 GMT",
       "ts": 1789631400
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD jumps to near $64.40 as rally in oil prices hit a pause",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-6440-as-rally-in-oil-prices-hit-a-pause-202609170741",
-      "published": "Thu, 17 Sep 2026 07:41:21 GMT",
-      "ts": 1789630881
     },
     {
       "source": "CoinDesk",
@@ -157,6 +157,13 @@
       "ts": 1789624146
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee draws support from RBI's intervention near seven-week low",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-ground-despite-fears-of-more-fed-interest-rate-hikes-202609170519",
+      "published": "Thu, 17 Sep 2026 05:19:51 GMT",
+      "ts": 1789622391
+    },
+    {
       "source": "CoinDesk",
       "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
       "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
@@ -169,13 +176,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
       "published": "Thu, 17 Sep 2026 04:17:55 +0000",
       "ts": 1789618675
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold extends fragile recovery from multi-week low as softer bond yields weigh on USD",
-      "link": "https://www.fxstreet.com/news/gold-stalls-recovery-from-six-week-low-as-usd-preserves-post-fed-gains-amid-iran-risks-202609170348",
-      "published": "Thu, 17 Sep 2026 03:48:19 GMT",
-      "ts": 1789616899
     },
     {
       "source": "CoinTelegraph",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "SEALSQ Corp Q2 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sealsq-corp-q2-2026-earnings-205537987.html",
-      "published": "2026-09-15T20:55:37Z",
-      "ts": 1789505737
+      "title": "RKLB Stock Alert: What to Know as Rocket Lab Inches Closer to Iridium Acquisition",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-alert-know-rocket-205134590.html",
+      "published": "2026-09-15T20:51:34Z",
+      "ts": 1789505494
     }
   ]
 }
