@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-17T00:13:09.037431Z",
+  "updated": "2026-09-17T00:36:15.422251Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
+      "link": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 00:23:44 +0000",
+      "ts": 1789604624
+    },
+    {
+      "source": "FXStreet",
+      "title": "US President Donald Trump to hold Iran talks with Gulf leaders next week — Reuters",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-to-hold-iran-talks-with-gulf-leaders-next-week-reuters-202609170015",
+      "published": "Thu, 17 Sep 2026 00:15:03 GMT",
+      "ts": 1789604103
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar remains weak below 0.5750 despite better-than-expected GDP data",
@@ -113,13 +127,6 @@
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-sinks-toward-its-july-low-after-the-fed-hikes-202609162101",
       "published": "Wed, 16 Sep 2026 21:01:18 GMT",
       "ts": 1789592478
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Australian Dollar continues to slide as the Fed enters hike country",
-      "link": "https://www.fxstreet.com/news/the-australian-dollar-continues-to-slide-as-the-fed-enters-hike-country-202609162056",
-      "published": "Wed, 16 Sep 2026 20:56:22 GMT",
-      "ts": 1789592182
     },
     {
       "source": "MarketWatch",
@@ -339,13 +346,6 @@
       "ts": 1789562180
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
-      "link": "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 11:46:39 +0000",
-      "ts": 1789559199
-    },
-    {
       "source": "Investing Forex",
       "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
@@ -416,11 +416,11 @@
       "ts": 1789479180
     },
     {
-      "source": "Investing Forex",
-      "title": "Loonie slips as oil surge fuels rate worries ahead of Fed decision",
-      "link": "https://www.investing.com/news/forex-news/loonie-slips-as-oil-surge-fuels-rate-worries-ahead-of-fed-decision-4901710",
-      "published": "2026-09-15 12:40:11",
-      "ts": 1789476011
+      "source": "Yahoo Finance",
+      "title": "Universal Display (OLED): Is the AI Infrastructure Boom Becoming a Hidden Risk for Display Suppliers?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/universal-display-oled-ai-infrastructure-125924977.html",
+      "published": "2026-09-15T12:59:24Z",
+      "ts": 1789477164
     }
   ]
 }
