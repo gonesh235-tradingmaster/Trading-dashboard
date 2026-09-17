@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-17T07:53:17.502644Z",
+  "updated": "2026-09-17T08:11:11.874160Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: RBI liquidity withdrawal tempers risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-liquidity-withdrawal-tempers-risks-commerzbank-202609170810",
+      "published": "Thu, 17 Sep 2026 08:10:38 GMT",
+      "ts": 1789632638
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: Pressured by higher yields – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-pressured-by-higher-yields-deutsche-bank-202609170801",
+      "published": "Thu, 17 Sep 2026 08:01:58 GMT",
+      "ts": 1789632118
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar eases, yen strengthens ahead of BoJ",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
+      "published": "2026-09-17 08:01:35",
+      "ts": 1789632095
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar gains momentum following strong Q2 GDP growth",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-momentum-following-strong-q2-gdp-growth-202609170755",
+      "published": "Thu, 17 Sep 2026 07:55:26 GMT",
+      "ts": 1789631726
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
+      "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
+      "published": "Thu, 17 Sep 2026 07:54:33 +0000",
+      "ts": 1789631673
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. 10-year Treasury yield eases in the afterglow of Fed hike;",
+      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
+      "published": "2026-09-17 07:53:16",
+      "ts": 1789631596
+    },
     {
       "source": "MarketWatch",
       "title": "Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed",
@@ -80,27 +122,6 @@
       "ts": 1789628186
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar Index eases from late July highs as profit-taking kicks in amid sliding yields",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-eases-from-late-july-highs-as-profit-taking-kicks-in-amid-sliding-yields-202609170655",
-      "published": "Thu, 17 Sep 2026 06:55:30 GMT",
-      "ts": 1789628130
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: All eyes on BoE rate decision",
-      "link": "https://www.fxstreet.com/news/forex-today-all-eyes-on-boe-rate-decision-202609170652",
-      "published": "Thu, 17 Sep 2026 06:52:10 GMT",
-      "ts": 1789627930
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Oversold Sterling still seen weaker against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-oversold-sterling-still-seen-weaker-against-us-dollar-uob-202609170628",
-      "published": "Thu, 17 Sep 2026 06:28:19 GMT",
-      "ts": 1789626499
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -122,20 +143,6 @@
       "ts": 1789624146
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee draws support near seven-week low from RBI's intervention",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-ground-despite-fears-of-more-fed-interest-rate-hikes-202609170519",
-      "published": "Thu, 17 Sep 2026 05:19:51 GMT",
-      "ts": 1789622391
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds seven-week high, yen steadies",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
-      "published": "2026-09-17 05:02:32",
-      "ts": 1789621352
-    },
-    {
       "source": "CoinDesk",
       "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
       "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
@@ -148,6 +155,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
       "published": "Thu, 17 Sep 2026 04:17:55 +0000",
       "ts": 1789618675
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold extends fragile recovery from multi-week low as softer bond yields weigh on USD",
+      "link": "https://www.fxstreet.com/news/gold-stalls-recovery-from-six-week-low-as-usd-preserves-post-fed-gains-amid-iran-risks-202609170348",
+      "published": "Thu, 17 Sep 2026 03:48:19 GMT",
+      "ts": 1789616899
     },
     {
       "source": "CoinTelegraph",
@@ -346,13 +360,6 @@
       "ts": 1789570562
     },
     {
-      "source": "CoinDesk",
-      "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
-      "link": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
-      "published": "Wed, 16 Sep 2026 14:35:43 +0000",
-      "ts": 1789569343
-    },
-    {
       "source": "Investing Crypto",
       "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
@@ -410,17 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Contemptible, Outrageous, Vile”: Robinhood and AMC Clash Over Who Controls a Stock’s Identity",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/contemptible-outrageous-vile-robinhood-amc-200333833.html",
-      "published": "2026-09-15T20:03:33Z",
-      "ts": 1789502613
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Analyst Just Upgraded ResMed Stock. Here's Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-upgraded-resmed-stock-195751730.html",
-      "published": "2026-09-15T19:57:51Z",
-      "ts": 1789502271
+      "title": "Tesla’s Cybercab Launch Fizzles, Leaving Waymo as the Robotaxi Leader",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-cybercab-launch-fizzles-leaving-201402004.html",
+      "published": "2026-09-15T20:14:02Z",
+      "ts": 1789503242
     }
   ]
 }
