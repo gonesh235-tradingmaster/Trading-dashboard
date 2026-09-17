@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-17T05:09:41.637302Z",
+  "updated": "2026-09-17T05:26:24.531457Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee gains ground despite fears of more Fed interest rate hikes",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-ground-despite-fears-of-more-fed-interest-rate-hikes-202609170519",
+      "published": "Thu, 17 Sep 2026 05:19:51 GMT",
+      "ts": 1789622391
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc remains near 16-month lows against US Dollar",
+      "link": "https://www.fxstreet.com/news/swiss-franc-remains-near-16-month-lows-against-us-dollar-202609170510",
+      "published": "Thu, 17 Sep 2026 05:10:49 GMT",
+      "ts": 1789621849
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar holds seven-week high, yen steadies",
@@ -78,20 +92,6 @@
       "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-slips-below-17900-as-bearish-bias-prevails-202609170343",
       "published": "Thu, 17 Sep 2026 03:43:35 GMT",
       "ts": 1789616615
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed Policy Monitor: Hiking bias and curve reaction – NBC Economics and Strategy",
-      "link": "https://www.fxstreet.com/news/fed-policy-monitor-hiking-bias-and-curve-reaction-nbc-economics-and-strategy-202609170322",
-      "published": "Thu, 17 Sep 2026 03:22:09 GMT",
-      "ts": 1789615329
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States rates: Yields seen contained, steepeners favoured – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-rates-yields-seen-contained-steepeners-favoured-td-securities-202609170320",
-      "published": "Thu, 17 Sep 2026 03:20:18 GMT",
-      "ts": 1789615218
     },
     {
       "source": "CoinTelegraph",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Rich Dad Poor Dad author warns biggest crash in history has started",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
-      "published": "2026-09-15T17:26:03Z",
-      "ts": 1789493163
+      "title": "Dear Corteva Stock Fans, Mark Your Calendars for September 15",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-corteva-stock-fans-mark-174213249.html",
+      "published": "2026-09-15T17:42:13Z",
+      "ts": 1789494133
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corn Pulling Off Early Lows on Tuesday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-pulling-off-early-lows-172221094.html",
-      "published": "2026-09-15T17:22:21Z",
-      "ts": 1789492941
+      "title": "CrowdStrike, Other Cybersecurity Stocks Surge as AI Debate Takes Center Stage",
+      "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-other-cybersecurity-stocks-surge-173149357.html",
+      "published": "2026-09-15T17:31:49Z",
+      "ts": 1789493509
     }
   ]
 }
