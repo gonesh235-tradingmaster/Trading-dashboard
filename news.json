@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-17T01:41:52.195253Z",
+  "updated": "2026-09-17T01:54:53.918582Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen edges higher vs bullish USD amid expectations of a more hawkish BoJ",
+      "link": "https://www.fxstreet.com/news/japanese-yen-edges-higher-vs-bullish-usd-amid-expectations-of-a-more-hawkish-boj-202609170154",
+      "published": "Thu, 17 Sep 2026 01:54:04 GMT",
+      "ts": 1789610044
+    },
+    {
+      "source": "FXStreet",
+      "title": "US President Donald Trump says he told Fed Chair to 'do what you want' ahead of rate hike",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-he-told-fed-chair-to-do-what-you-want-ahead-of-rate-hike-202609170150",
+      "published": "Thu, 17 Sep 2026 01:50:14 GMT",
+      "ts": 1789609814
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar holds gains near 0.7100 despite Fed rate hike, IMF urges RBA to stay hawkish",
@@ -80,13 +94,6 @@
       "ts": 1789597500
     },
     {
-      "source": "FXStreet",
-      "title": "The Pound drops below its long-run average as the Fed's rate passes Britain's",
-      "link": "https://www.fxstreet.com/news/the-pound-drops-below-its-long-run-average-as-the-feds-rate-passes-britains-202609162219",
-      "published": "Wed, 16 Sep 2026 22:19:29 GMT",
-      "ts": 1789597169
-    },
-    {
       "source": "MarketWatch",
       "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
       "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
@@ -99,13 +106,6 @@
       "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 22:15:00 GMT",
       "ts": 1789596900
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Euro's losing streak runs on as the Fed matches the ECB's rate hike",
-      "link": "https://www.fxstreet.com/news/the-euros-losing-streak-runs-on-as-the-fed-matches-the-ecbs-rate-hike-202609162201",
-      "published": "Wed, 16 Sep 2026 22:01:20 GMT",
-      "ts": 1789596080
     },
     {
       "source": "MarketWatch",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Inside Broyhill’s Bearish Exit of Accenture (ACN)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/inside-broyhill-bearish-exit-accenture-140414781.html",
-      "published": "2026-09-15T14:04:14Z",
-      "ts": 1789481054
+      "title": "Nvidia’s Anthropic Investment: Securing AI Demand Amid Rising Competition",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-anthropic-investment-securing-ai-142836122.html",
+      "published": "2026-09-15T14:28:36Z",
+      "ts": 1789482516
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Wall Street Could Be Pricing This GE Stock Option Spread Incorrectly",
-      "link": "https://finance.yahoo.com/markets/options/articles/why-wall-street-could-pricing-140322126.html",
-      "published": "2026-09-15T14:03:22Z",
-      "ts": 1789481002
+      "title": "Apollo and J&J Face a High-Stakes Orthopedics Deal",
+      "link": "https://finance.yahoo.com/healthcare/articles/apollo-j-j-face-high-142856052.html",
+      "published": "2026-09-15T14:26:32Z",
+      "ts": 1789482392
     }
   ]
 }
