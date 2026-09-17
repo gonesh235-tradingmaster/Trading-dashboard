@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-17T06:13:17.629727Z",
+  "updated": "2026-09-17T06:36:32.287293Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Oversold Sterling still seen weaker against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-oversold-sterling-still-seen-weaker-against-us-dollar-uob-202609170628",
+      "published": "Thu, 17 Sep 2026 06:28:19 GMT",
+      "ts": 1789626499
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen outperforms as BoJ’s policy takes centre stage",
+      "link": "https://www.fxstreet.com/news/japanese-yen-outperforms-as-bojs-policy-takes-centre-stage-202609170626",
+      "published": "Thu, 17 Sep 2026 06:26:13 GMT",
+      "ts": 1789626373
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/GBP Price Forecast: Euro struggles below 0.8570 with all eyes on the BoE",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-euro-struggles-below-08570-with-all-eyes-on-the-boe-202609170617",
+      "published": "Thu, 17 Sep 2026 06:17:57 GMT",
+      "ts": 1789625877
+    },
     {
       "source": "FXStreet",
       "title": "EUR/USD Price Forecast: Holds steady near 1.1450, bearish tone remains intact",
@@ -25,7 +46,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "BoE expected to hold interest rate at 3.75",
+      "title": "BoE expected to hold interest rate at 3.75%",
       "link": "https://www.fxstreet.com/news/boe-expected-to-hold-interest-rate-at-375-202609170600",
       "published": "Thu, 17 Sep 2026 06:00:00 GMT",
       "ts": 1789624800
@@ -66,32 +87,11 @@
       "ts": 1789622391
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss Franc remains near 16-month lows against US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-remains-near-16-month-lows-against-us-dollar-202609170510",
-      "published": "Thu, 17 Sep 2026 05:10:49 GMT",
-      "ts": 1789621849
-    },
-    {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar holds seven-week high, yen steadies",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
       "published": "2026-09-17 05:02:32",
       "ts": 1789621352
-    },
-    {
-      "source": "FXStreet",
-      "title": "US 10-Year Treasury Yield nears 5% after Fed rate hike, Middle East tensions raise inflation fears",
-      "link": "https://www.fxstreet.com/news/us-10-year-treasury-yield-nears-5-after-fed-rate-hike-middle-east-tensions-raise-inflation-fears-202609170501",
-      "published": "Thu, 17 Sep 2026 05:01:10 GMT",
-      "ts": 1789621270
-    },
-    {
-      "source": "FXStreet",
-      "title": "Asian stocks edge higher as hawkish Fed, elevated yields and geopolitical cap upside",
-      "link": "https://www.fxstreet.com/news/asian-stocks-edge-higher-as-hawkish-fed-elevated-yields-and-geopolitical-cap-upside-202609170451",
-      "published": "Thu, 17 Sep 2026 04:51:04 GMT",
-      "ts": 1789620664
     },
     {
       "source": "CoinDesk",
@@ -109,7 +109,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold struggles to build on recovery gains as hawkish Fed and Iran risks underpin USD",
+      "title": "Gold retakes $4,300 amid modest USD pullback but hawkish Fed caps upside",
       "link": "https://www.fxstreet.com/news/gold-stalls-recovery-from-six-week-low-as-usd-preserves-post-fed-gains-amid-iran-risks-202609170348",
       "published": "Thu, 17 Sep 2026 03:48:19 GMT",
       "ts": 1789616899
@@ -402,25 +402,25 @@
       "ts": 1789504728
     },
     {
-      "source": "Investing Crypto",
-      "title": "XRP Falls 11% In Rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-rout-4902406",
-      "published": "2026-09-15 18:44:04",
-      "ts": 1789497844
+      "source": "Yahoo Finance",
+      "title": "This Utility ETF Says the AI Trade Is Over",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/utility-etf-says-ai-trade-191906797.html",
+      "published": "2026-09-15T19:19:06Z",
+      "ts": 1789499946
     },
     {
       "source": "Yahoo Finance",
-      "title": "Intel Has 4 Major Tailwinds According to This Wall Street Analyst, Yet 1 Red Flag Caused a Price Target Cut",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-4-major-tailwinds-according-182657781.html",
-      "published": "2026-09-15T18:26:57Z",
-      "ts": 1789496817
+      "title": "DEUTZ’s Growth Spree Comes With a Dilution Bill",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/deutz-growth-spree-comes-dilution-191755723.html",
+      "published": "2026-09-15T19:17:55Z",
+      "ts": 1789499875
     },
     {
       "source": "Yahoo Finance",
-      "title": "Trustpilot Gets a One-Star Review From Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trustpilot-gets-one-star-review-173946110.html",
-      "published": "2026-09-15T18:24:00Z",
-      "ts": 1789496640
+      "title": "Crude Prices Surge on Global Supply Risks",
+      "link": "https://finance.yahoo.com/energy/articles/crude-prices-surge-global-supply-191609324.html",
+      "published": "2026-09-15T19:16:09Z",
+      "ts": 1789499769
     }
   ]
 }
