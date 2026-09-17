@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-17T11:09:48.295773Z",
+  "updated": "2026-09-17T11:26:10.602897Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Fair value falls on oil and Fed pressure against US Dollar - ING",
+      "link": "https://www.fxstreet.com/news/euro-fair-value-falls-on-oil-and-fed-pressure-against-us-dollar-ing-202609171120",
+      "published": "Thu, 17 Sep 2026 11:20:49 GMT",
+      "ts": 1789644049
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Optimism creeps back into crypto, with the 2022 test still to come",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
+      "published": "Thu, 17 Sep 2026 11:19:09 +0000",
+      "ts": 1789643949
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 11:15:00 GMT",
+      "ts": 1789643700
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound falls vertically after BoE leaves interest rates unchanged at 3.75%",
+      "link": "https://www.fxstreet.com/news/british-pound-falls-vertically-after-boe-leaves-interest-rates-unchanged-at-375-202609171112",
+      "published": "Thu, 17 Sep 2026 11:12:18 GMT",
+      "ts": 1789643538
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen: Second order effects guide BoJ risks – Rabobank",
@@ -99,20 +127,6 @@
       "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 09:54:00 GMT",
       "ts": 1789638840
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Sterling seen outperforming peers – Societe Generale",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-seen-outperforming-peers-societe-generale-202609170948",
-      "published": "Thu, 17 Sep 2026 09:48:14 GMT",
-      "ts": 1789638494
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro remains stronger against Canadian Dollar following Eurozone HICP inflation data",
-      "link": "https://www.fxstreet.com/news/euro-remains-stronger-against-canadian-dollar-following-eurozone-hicp-inflation-data-202609170942",
-      "published": "Thu, 17 Sep 2026 09:42:08 GMT",
-      "ts": 1789638128
     },
     {
       "source": "CoinTelegraph",
@@ -283,13 +297,6 @@
       "ts": 1789597500
     },
     {
-      "source": "MarketWatch",
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:16:00 GMT",
-      "ts": 1789596960
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
@@ -330,13 +337,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
       "published": "Wed, 16 Sep 2026 17:54:55 +0000",
       "ts": 1789581295
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
-      "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
-      "published": "Wed, 16 Sep 2026 17:34:04 +0000",
-      "ts": 1789580044
     },
     {
       "source": "Investing Crypto",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Artivion’s (AORT) Growth Story Hides A Widening Bottom-Line Problem",
-      "link": "https://finance.yahoo.com/healthcare/articles/artivion-aort-growth-story-hides-024959979.html",
-      "published": "2026-09-16T02:49:59Z",
-      "ts": 1789526999
+      "title": "Jefferson Capital (JCAP) Grows Everywhere, But Costs Are Climbing Faster",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferson-capital-jcap-grows-everywhere-024604879.html",
+      "published": "2026-09-16T02:46:04Z",
+      "ts": 1789526764
     },
     {
       "source": "Yahoo Finance",
-      "title": "Exclusive-Malaysia talks to rival airlines as it monitors AirAsia's financial health, sources say",
-      "link": "https://finance.yahoo.com/economy/policy/articles/exclusive-malaysia-talks-rival-airlines-015835356.html",
-      "published": "2026-09-16T01:58:35Z",
-      "ts": 1789523915
+      "title": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
+      "link": "https://finance.yahoo.com/news/boj-set-raise-interest-rates-024244752.html",
+      "published": "2026-09-16T02:42:44Z",
+      "ts": 1789526564
     }
   ]
 }
