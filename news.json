@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-17T19:09:24.544991Z",
+  "updated": "2026-09-17T19:24:39.329394Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: Bulls threaten bearish setup after Fed hike",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-bulls-threaten-bearish-setup-after-fed-hike-202609171915",
+      "published": "Thu, 17 Sep 2026 19:15:23 GMT",
+      "ts": 1789672523
+    },
     {
       "source": "MarketWatch",
       "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
@@ -127,13 +134,6 @@
       "link": "https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 17:00:00 +0000",
       "ts": 1789664400
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CHF Price Forecast: RSI nears overbought territory",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rsi-nears-overbought-territory-202609171641",
-      "published": "Thu, 17 Sep 2026 16:41:10 GMT",
-      "ts": 1789663270
     },
     {
       "source": "CoinTelegraph",
@@ -389,6 +389,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Is Biogen Stock Outperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/biogen-stock-outperforming-p-500-103637463.html",
+      "published": "2026-09-16T10:36:37Z",
+      "ts": 1789554997
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "6 signs you might be a good fit for debt settlement",
+      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/signs-you-might-be-a-good-fit-for-debt-settlement-102500610.html",
+      "published": "2026-09-16T10:25:00Z",
+      "ts": 1789554300
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Corcept Grows to Mid-Cap on Institutional Support",
       "link": "https://finance.yahoo.com/markets/stocks/articles/corcept-grows-mid-cap-institutional-102316998.html",
       "published": "2026-09-16T10:23:16Z",
@@ -396,31 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Zscaler, Inc. (ZS)’s Growth Engine Is Strong, But Slowing ARR Could Pressure the Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-inc-zs-growth-engine-102049877.html",
-      "published": "2026-09-16T10:20:49Z",
-      "ts": 1789554049
+      "title": "Is International Flavors & Fragrances Stock Outperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/international-flavors-fragrances-stock-outperforming-093049933.html",
+      "published": "2026-09-16T09:30:49Z",
+      "ts": 1789551049
     },
     {
       "source": "Yahoo Finance",
-      "title": "Franco-Nevada Nears All-Time Highs After Record Revenue Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-nears-time-highs-102032819.html",
-      "published": "2026-09-16T10:20:32Z",
-      "ts": 1789554032
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘Dead money’: Your savings account is losing a fight with inflation. Here’s where 3 financial advisors put cash instead",
-      "link": "https://finance.yahoo.com/economy/articles/dead-money-savings-account-losing-101500222.html",
-      "published": "2026-09-16T10:15:00Z",
-      "ts": 1789553700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MicroAge Deal Signals Shift to Growth-Focused Strategy for ScanSource (SCSC)",
-      "link": "https://finance.yahoo.com/technology/articles/microage-deal-signals-shift-growth-101436453.html",
-      "published": "2026-09-16T10:14:36Z",
-      "ts": 1789553676
+      "title": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown",
+      "link": "https://finance.yahoo.com/energy/articles/japanese-refiners-rush-oman-crude-093000428.html",
+      "published": "2026-09-16T09:30:00Z",
+      "ts": 1789551000
     }
   ]
 }
