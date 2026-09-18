@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-18T11:25:05.535042Z",
+  "updated": "2026-09-18T11:39:07.951298Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "A sideways market and rising earnings are presenting a buying opportunity for this crucial sector",
+      "link": "https://www.marketwatch.com/story/a-sideways-market-and-rising-earnings-are-presenting-opportunities-not-seen-since-chatgpt-first-launched-0c37f89d?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 11:34:00 GMT",
+      "ts": 1789731240
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold eyes weekly gain, but hawkish Fed outlook limits upside",
+      "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
+      "published": "Fri, 18 Sep 2026 11:32:13 GMT",
+      "ts": 1789731133
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: BoE holds but inflation risks linger – OCBC",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-holds-but-inflation-risks-linger-ocbc-202609181125",
+      "published": "Fri, 18 Sep 2026 11:25:43 GMT",
+      "ts": 1789730743
+    },
     {
       "source": "MarketWatch",
       "title": "More Americans are about to get scammed by the coming peptide rush",
       "link": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 11:23:00 GMT",
       "ts": 1789730580
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
+      "link": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 11:22:24 +0000",
+      "ts": 1789730544
     },
     {
       "source": "CoinDesk",
@@ -43,13 +71,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 10:46:17 +0000",
       "ts": 1789728377
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A sideways market and rising earnings are presenting opportunities not seen since ChatGPT first launched",
-      "link": "https://www.marketwatch.com/story/a-sideways-market-and-rising-earnings-are-presenting-opportunities-not-seen-since-chatgpt-first-launched-0c37f89d?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 10:38:00 GMT",
-      "ts": 1789727880
     },
     {
       "source": "CoinDesk",
@@ -129,25 +150,11 @@
       "ts": 1789724500
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar: Short-term range but path still lower against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-short-term-range-but-path-still-lower-against-us-dollar-uob-202609180938",
-      "published": "Fri, 18 Sep 2026 09:38:27 GMT",
-      "ts": 1789724307
-    },
-    {
       "source": "Investing Crypto",
       "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
       "published": "2026-09-18 09:30:34",
       "ts": 1789723834
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Post-FOMC consolidation and data focus – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-post-fomc-consolidation-and-data-focus-ocbc-202609180923",
-      "published": "Fri, 18 Sep 2026 09:23:40 GMT",
-      "ts": 1789723420
     },
     {
       "source": "Investing Forex",
@@ -339,13 +346,6 @@
       "ts": 1789695234
     },
     {
-      "source": "CoinTelegraph",
-      "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
-      "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 23:49:23 +0000",
-      "ts": 1789688963
-    },
-    {
       "source": "MarketWatch",
       "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
       "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
@@ -403,6 +403,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "AXT Inc. (AXTI) Draws Bullish Analyst Attention — Here’s Why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-draws-bullish-010252885.html",
+      "published": "2026-09-17T01:02:52Z",
+      "ts": 1789606972
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
       "link": "https://finance.yahoo.com/energy/articles/stanchart-sees-higher-oil-floor-000000512.html",
       "published": "2026-09-17T00:00:00Z",
@@ -410,17 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "This High-Yield Tech Stock Just Raised Its Dividend by Nearly 8%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/high-yield-tech-stock-just-233002292.html",
-      "published": "2026-09-16T23:30:02Z",
-      "ts": 1789601402
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "XOM Keeps Climbing. Should You Climb On?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/xom-keeps-climbing-climb-232922566.html",
-      "published": "2026-09-16T23:29:22Z",
-      "ts": 1789601362
+      "title": "Michael Burry of \"The Big Short\" Says an AI Slowdown Would Be \"Self-Serving\" for OpenAI and Anthropic",
+      "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-big-short-says-234100507.html",
+      "published": "2026-09-16T23:41:00Z",
+      "ts": 1789602060
     }
   ]
 }
