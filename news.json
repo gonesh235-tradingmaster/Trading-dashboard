@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-18T09:26:24.091863Z",
+  "updated": "2026-09-18T09:40:37.793965Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: Short-term range but path still lower against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-short-term-range-but-path-still-lower-against-us-dollar-uob-202609180938",
+      "published": "Fri, 18 Sep 2026 09:38:27 GMT",
+      "ts": 1789724307
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
+      "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
+      "published": "2026-09-18 09:30:34",
+      "ts": 1789723834
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar: Post-FOMC consolidation and data focus – OCBC",
       "link": "https://www.fxstreet.com/news/us-dollar-post-fomc-consolidation-and-data-focus-ocbc-202609180923",
       "published": "Fri, 18 Sep 2026 09:23:40 GMT",
       "ts": 1789723420
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen tumbles despite BOJ lifting rates as Ueda pre-empts aggressive tightening",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
+      "published": "2026-09-18 09:20:22",
+      "ts": 1789723222
     },
     {
       "source": "MarketWatch",
@@ -108,13 +129,6 @@
       "ts": 1789719692
     },
     {
-      "source": "FXStreet",
-      "title": "ECB’s Lagarde: We'll decide on rates meeting by meeting",
-      "link": "https://www.fxstreet.com/news/ecbs-lagarde-well-decide-on-rates-meeting-by-meeting-202609180821",
-      "published": "Fri, 18 Sep 2026 08:21:10 GMT",
-      "ts": 1789719670
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound gains as UK retail sales beat and dollar cools",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
@@ -134,13 +148,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
       "published": "Fri, 18 Sep 2026 07:37:32 +0000",
       "ts": 1789717052
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Yen slides despite BOJ rate hike, dollar holds gains amid hawkish Fed",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
-      "published": "2026-09-18 07:18:34",
-      "ts": 1789715914
     },
     {
       "source": "Investing Crypto",
@@ -403,24 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Stocks slide toward lowest level since July after Warsh’s hawkish press conference",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-toward-lowest-level-212329075.html",
+      "published": "2026-09-16T21:23:29Z",
+      "ts": 1789593809
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Hawaiian Electric (HE): Does a $1 Billion Bank IPO Valuation Matter?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/hawaiian-electric-does-1-billion-212245205.html",
       "published": "2026-09-16T21:22:45Z",
       "ts": 1789593765
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ETF fueled by Iran war goes bonkers, gains 3,600%",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/etf-fueled-iran-war-goes-211700758.html",
-      "published": "2026-09-16T21:17:00Z",
-      "ts": 1789593420
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
-      "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
-      "published": "2026-09-16 17:30:36",
-      "ts": 1789579836
     }
   ]
 }
