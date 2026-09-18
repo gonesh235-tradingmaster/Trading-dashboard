@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T20:09:54.462641Z",
+  "updated": "2026-09-18T20:25:34.783404Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Most of what you know about data centers is wrong",
+      "link": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 20:15:00 GMT",
+      "ts": 1789762500
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen set for worst week since Oct 2025 as BoJ’s hike seen as not aggressive enough",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
+      "published": "2026-09-18 20:05:38",
+      "ts": 1789761938
+    },
     {
       "source": "MarketWatch",
       "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
@@ -164,13 +178,6 @@
       "ts": 1789750560
     },
     {
-      "source": "MarketWatch",
-      "title": "What’s really driving inflation and rising interest rates",
-      "link": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 16:50:00 GMT",
-      "ts": 1789750200
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar weakens against major currencies in the week ending September 18",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-against-major-currencies-in-the-week-ending-september-18-93CH-4907692",
@@ -319,13 +326,6 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Yen tumbles despite BOJ lifting rates as Ueda pre-empts aggressive tightening",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
-      "published": "2026-09-18 09:20:22",
-      "ts": 1789723222
-    },
-    {
-      "source": "Investing Forex",
       "title": "Here’s what BoE tightening means for EUR/GBP",
       "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
       "published": "2026-09-18 09:00:35",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "U.S. Stock Futures Rally as Bond Yields Fall on Fed’s Inflation Resolve",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rally-bond-103249165.html",
-      "published": "2026-09-17T10:32:49Z",
-      "ts": 1789641169
+      "title": "Morning Bid: A timely hike",
+      "link": "https://finance.yahoo.com/economy/policy/articles/morning-bid-timely-hike-103542140.html",
+      "published": "2026-09-17T10:35:42Z",
+      "ts": 1789641342
     },
     {
       "source": "Yahoo Finance",
-      "title": "Federal Reserve interest rate hike may trigger another brutal move for US Treasury yields",
-      "link": "https://finance.yahoo.com/economy/article/federal-reserve-interest-rate-hike-may-trigger-another-brutal-move-for-us-treasury-yields-103135302.html",
-      "published": "2026-09-17T10:31:35Z",
-      "ts": 1789641095
+      "title": "Worried $200K won’t last through retirement? Here’s why you may never run out of cash — if you make this move now",
+      "link": "https://finance.yahoo.com/markets/articles/worried-200k-won-t-last-103500964.html",
+      "published": "2026-09-17T10:35:00Z",
+      "ts": 1789641300
     }
   ]
 }
