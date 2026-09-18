@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-18T06:55:05.112113Z",
+  "updated": "2026-09-18T07:10:20.281242Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen struggles near two-week low vs USD after BoJ Governor Ueda’s comments",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-near-two-week-low-vs-usd-after-boj-governor-uedas-comments-202609180708",
+      "published": "Fri, 18 Sep 2026 07:08:51 GMT",
+      "ts": 1789715331
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/CAD Price Forecast: Holds gains near 1.4000, bullish signals support upside",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-holds-gains-near-14000-bullish-signals-support-upside-202609180708",
+      "published": "Fri, 18 Sep 2026 07:08:09 GMT",
+      "ts": 1789715289
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Downside risk extends toward 1.3300 – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-downside-risk-extends-toward-13300-uob-202609180701",
+      "published": "Fri, 18 Sep 2026 07:01:30 GMT",
+      "ts": 1789714890
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD rallies to near $66.80 amid correction in oil prices, US yields",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rallies-to-near-6680-amid-correction-in-oil-prices-us-yields-202609180657",
+      "published": "Fri, 18 Sep 2026 06:57:56 GMT",
+      "ts": 1789714676
+    },
     {
       "source": "CoinDesk",
       "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
@@ -15,6 +43,13 @@
       "link": "https://www.fxstreet.com/news/euro-declines-against-british-pound-following-uk-retail-sales-german-producer-price-data-202609180649",
       "published": "Fri, 18 Sep 2026 06:49:12 GMT",
       "ts": 1789714152
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rises to $77.5k as markets look past Clarity setback",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
+      "published": "2026-09-18 06:47:46",
+      "ts": 1789714066
     },
     {
       "source": "FXStreet",
@@ -45,27 +80,6 @@
       "ts": 1789712217
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Downtrend extends toward 1.1400 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-downtrend-extends-toward-11400-against-us-dollar-uob-202609180611",
-      "published": "Fri, 18 Sep 2026 06:11:11 GMT",
-      "ts": 1789711871
-    },
-    {
-      "source": "FXStreet",
-      "title": "United Kingdom Retail Sales unexpectedly rise 0.5% MoM in August vs. -0.2% estimates",
-      "link": "https://www.fxstreet.com/news/united-kingdom-retail-sales-unexpectedly-rise-05-mom-in-august-vs-02-estimates-202609180602",
-      "published": "Fri, 18 Sep 2026 06:02:37 GMT",
-      "ts": 1789711357
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah gains ground as crude oil prices retreat",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-ground-as-crude-oil-prices-retreat-202609180600",
-      "published": "Fri, 18 Sep 2026 06:00:15 GMT",
-      "ts": 1789711215
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -78,13 +92,6 @@
       "link": "https://www.investing.com/news/forex-news/why-is-australian-dollar-gaining-today-93CH-4906672",
       "published": "2026-09-18 05:58:24",
       "ts": 1789711104
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Recovers further as RBA reiterates commitment to bring inflation down",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-recovers-further-as-rba-reiterates-commitment-to-bring-inflation-down-202609180557",
-      "published": "Fri, 18 Sep 2026 05:57:56 GMT",
-      "ts": 1789711076
     },
     {
       "source": "CoinDesk",
@@ -186,7 +193,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Ueda Speech: BoJ Governor discusses policy outlook after the expected interest rate hike",
+      "title": "Ueda Speech: BoJ Governor sheds lights policy outlook after the expected interest rate hike",
       "link": "https://www.fxstreet.com/news/bank-of-japan-is-expected-to-deliver-a-hawkish-hike-pressured-by-rising-inflation-202609172200",
       "published": "Thu, 17 Sep 2026 22:00:00 GMT",
       "ts": 1789682400
@@ -375,52 +382,45 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "A $10 Trillion Reason Why SpaceX Stock Is Up Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/10-trillion-reason-why-spacex-185529245.html",
-      "published": "2026-09-16T18:55:29Z",
-      "ts": 1789584929
+      "title": "Two Low-Profile AI Data-Center Innovators That Investors Should Watch",
+      "link": "https://www.investors.com/news/ai-data-centers-neocloud-oracle-microsoft-joulent-crusoe/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T19:22:17Z",
+      "ts": 1789586537
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mining Stock Could Soon Unearth Another Record",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mining-stock-could-soon-unearth-185040112.html",
-      "published": "2026-09-16T18:50:40Z",
-      "ts": 1789584640
+      "title": "Crude Oil Prices Sharply Lower as Middle East Disruptions Ease",
+      "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-lower-191614521.html",
+      "published": "2026-09-16T19:16:14Z",
+      "ts": 1789586174
     },
     {
       "source": "Yahoo Finance",
-      "title": "Crypto Volatility to Stay High as Fed, CLARITY Failure Weigh on Markets",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-volatility-stay-high-fed-185000456.html",
-      "published": "2026-09-16T18:50:00Z",
-      "ts": 1789584600
+      "title": "Nat-Gas Prices Slip as European Gas Prices Retreat",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-slip-european-191503600.html",
+      "published": "2026-09-16T19:15:03Z",
+      "ts": 1789586103
     },
     {
       "source": "Yahoo Finance",
-      "title": "Precious Metals Relinquish Gains Following Fed Rate Increase",
-      "link": "https://www.wsj.com/finance/commodities-futures/rate-hike-views-yields-keep-gold-under-pressure-49c31f66?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-16T18:49:00Z",
-      "ts": 1789584540
+      "title": "Container shipping fuel prices remain elevated as supply fears ease",
+      "link": "https://finance.yahoo.com/energy/articles/container-shipping-fuel-prices-remain-190952235.html",
+      "published": "2026-09-16T19:09:52Z",
+      "ts": 1789585792
     },
     {
       "source": "Yahoo Finance",
-      "title": "Preliminary Agenda: 6th Palm Beach CorpGov Forum Nov 4-5 with Activism, Sports, VC",
-      "link": "https://finance.yahoo.com/news/preliminary-agenda-6th-palm-beach-224834498.html",
-      "published": "2026-09-16T18:48:34Z",
-      "ts": 1789584514
+      "title": "Union Pacific upgraded to Buy by UBS on stronger 2027 growth outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-upgraded-buy-ubs-185900505.html",
+      "published": "2026-09-16T18:59:00Z",
+      "ts": 1789585140
     },
     {
       "source": "Yahoo Finance",
-      "title": "VF Corporation Cut Its Dividend 82%. Five Historical Cases Show What Could Happen Next",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vf-corporation-cut-dividend-82-184652448.html",
-      "published": "2026-09-16T18:46:52Z",
-      "ts": 1789584412
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie weakens after Fed hike as dollar gains on hawkish outlook",
-      "link": "https://www.investing.com/news/forex-news/loonie-weakens-after-fed-hike-as-dollar-gains-on-hawkish-outlook-4904309",
-      "published": "2026-09-16 18:46:08",
-      "ts": 1789584368
+      "title": "Why Franklin Templeton Thinks Wall Street Is Underestimating Crypto’s Impact",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/why-franklin-templeton-thinks-wall-185700541.html",
+      "published": "2026-09-16T18:57:00Z",
+      "ts": 1789585020
     }
   ]
 }
