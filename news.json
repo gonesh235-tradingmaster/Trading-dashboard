@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-18T08:42:54.891272Z",
+  "updated": "2026-09-18T08:54:49.226583Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Attracts slight bids below trendline near 1.3360",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-attracts-slight-bids-below-trendline-near-13360-202609180852",
+      "published": "Fri, 18 Sep 2026 08:52:22 GMT",
+      "ts": 1789721542
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
+      "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 08:47:20 +0000",
+      "ts": 1789721240
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI Oil eases to levels near $95 on hopes of higher supply of Saudi Crude",
+      "link": "https://www.fxstreet.com/news/wti-oil-eases-to-levels-near-95-on-hopes-of-higher-supply-of-saudi-crude-202609180843",
+      "published": "Fri, 18 Sep 2026 08:43:19 GMT",
+      "ts": 1789720999
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen: Yen vulnerable after BoJ communication – MUFG",
       "link": "https://www.fxstreet.com/news/japanese-yen-yen-vulnerable-after-boj-communication-mufg-202609180841",
       "published": "Fri, 18 Sep 2026 08:41:45 GMT",
       "ts": 1789720905
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees EUR/JPY falling below ¥175 despite near-term rebound risk",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
+      "published": "2026-09-18 08:37:50",
+      "ts": 1789720670
     },
     {
       "source": "FXStreet",
@@ -71,20 +99,6 @@
       "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rallies-to-two-week-top-above-21050-amid-post-boj-jpy-selloff-202609180744",
       "published": "Fri, 18 Sep 2026 07:44:29 GMT",
       "ts": 1789717469
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures rise as 10-year US yield slides, tech rally resumes",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-10-year-us-yield-slides-tech-rally-resumes-202609180743",
-      "published": "Fri, 18 Sep 2026 07:43:54 GMT",
-      "ts": 1789717434
-    },
-    {
-      "source": "FXStreet",
-      "title": "Equities: Global rally extends with tech leadership – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-global-rally-extends-with-tech-leadership-deutsche-bank-202609180742",
-      "published": "Fri, 18 Sep 2026 07:42:49 GMT",
-      "ts": 1789717369
     },
     {
       "source": "CoinDesk",
@@ -360,13 +374,6 @@
       "ts": 1789664400
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
-      "link": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 16:22:23 +0000",
-      "ts": 1789662143
-    },
-    {
       "source": "Investing Forex",
       "title": "Uganda shilling faces pressure as dollar demand rises",
       "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
@@ -379,13 +386,6 @@
       "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
       "published": "2026-09-17 12:07:30",
       "ts": 1789646850
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound falls as BoE holds rates, cautious minutes weigh",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
-      "published": "2026-09-17 11:20:53",
-      "ts": 1789644053
     },
     {
       "source": "Investing Crypto",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today, Sept. 16: Grab Acquires 60% Stake in Atome Financial for $1.49 Billion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-16-211454498.html",
-      "published": "2026-09-16T21:14:54Z",
-      "ts": 1789593294
+      "title": "When the Fed hikes rates, here's how it affects retirees and their money",
+      "link": "https://finance.yahoo.com/economy/article/when-the-fed-hikes-rates-heres-how-it-affects-retirees-and-their-money-212953419.html",
+      "published": "2026-09-16T21:29:53Z",
+      "ts": 1789594193
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Ends Flat After Rate Hike; AI Play SpaceX Eyes Early Entry",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T21:12:56Z",
-      "ts": 1789593176
+      "title": "GEV Stock Jumps After GE Vernova CEO Touts This Milestone",
+      "link": "https://www.investors.com/news/gev-stock-ge-vernova-expects-200-billion-backlog-very-soon/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T21:27:51Z",
+      "ts": 1789594071
     },
     {
       "source": "Yahoo Finance",
-      "title": "Okta Stock Jumped 11% This Week. Here’s What’s Behind the Surge",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/okta-stock-jumped-11-week-211202474.html",
-      "published": "2026-09-16T21:12:02Z",
-      "ts": 1789593122
+      "title": "Pfizer Raises 2026 Revenue Guidance to $62 Billion. Here’s What’s Behind the Beat",
+      "link": "https://finance.yahoo.com/healthcare/articles/pfizer-raises-2026-revenue-guidance-212451559.html",
+      "published": "2026-09-16T21:24:51Z",
+      "ts": 1789593891
     }
   ]
 }
