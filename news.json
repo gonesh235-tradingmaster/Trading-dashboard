@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T05:09:40.183231Z",
+  "updated": "2026-09-18T05:24:47.073074Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
+      "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
+      "published": "Fri, 18 Sep 2026 05:23:29 +0000",
+      "ts": 1789709009
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX mixed as yen slides despite BOJ rate hike",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
+      "published": "2026-09-18 05:07:17",
+      "ts": 1789708037
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc gains ground as easing US Yields pressures Greenback",
@@ -325,13 +339,6 @@
       "ts": 1789657031
     },
     {
-      "source": "CoinDesk",
-      "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
-      "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
-      "published": "Thu, 17 Sep 2026 14:50:58 +0000",
-      "ts": 1789656658
-    },
-    {
       "source": "Investing Forex",
       "title": "Uganda shilling faces pressure as dollar demand rises",
       "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
@@ -389,6 +396,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Nick Timiraos | An Expected Fed Rate Increase Raises a Harder Question: How Many More?",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/nick-timiraos-an-expected-fed-rate-increase-raises-a-harder-question-how-many-more--shvQ8tACf3AqXhpo3CWf?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-16T17:37:58Z",
+      "ts": 1789580278
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Tesla Is Expanding Into Vietnam to Capture Growing EV Demand. What This Actually Means for TSLA Stock.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-expanding-vietnam-capture-growing-173529819.html",
       "published": "2026-09-16T17:35:29Z",
@@ -402,25 +416,11 @@
       "ts": 1789580035
     },
     {
-      "source": "Investing Crypto",
-      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
-      "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
-      "published": "2026-09-16 17:30:36",
-      "ts": 1789579836
-    },
-    {
       "source": "Yahoo Finance",
-      "title": "Large, Unusual Volume in Long-Dated Apple Put Options Shows Investors Bullish in AAPL",
-      "link": "https://finance.yahoo.com/markets/options/articles/large-unusual-volume-long-dated-173002343.html",
-      "published": "2026-09-16T17:30:02Z",
-      "ts": 1789579802
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Corn Falling Lower on Wednesday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-falling-lower-wednesday-172852782.html",
-      "published": "2026-09-16T17:28:52Z",
-      "ts": 1789579732
+      "title": "Palantir, Microsoft’s biggest warning gets real for AI stocks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-microsoft-biggest-warning-gets-173300865.html",
+      "published": "2026-09-16T17:33:00Z",
+      "ts": 1789579980
     }
   ]
 }
