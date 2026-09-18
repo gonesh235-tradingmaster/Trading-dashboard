@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-18T08:10:29.970531Z",
+  "updated": "2026-09-18T08:27:43.466100Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: Consolidation holds below 0.8300 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-consolidation-holds-below-08300-against-us-dollar-uob-202609180826",
+      "published": "Fri, 18 Sep 2026 08:26:12 GMT",
+      "ts": 1789719972
+    },
+    {
+      "source": "FXStreet",
+      "title": "ECB’s Lagarde: We'll decide on rates meeting by meeting",
+      "link": "https://www.fxstreet.com/news/ecbs-lagarde-well-decide-on-rates-meeting-by-meeting-202609180821",
+      "published": "Fri, 18 Sep 2026 08:21:10 GMT",
+      "ts": 1789719670
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro flattens against US Dollar as traders look beyond ECB-Fed hawkish decisions",
+      "link": "https://www.fxstreet.com/news/euro-flattens-against-us-dollar-as-traders-look-beyond-ecb-fed-hawkish-decisions-202609180812",
+      "published": "Fri, 18 Sep 2026 08:12:36 GMT",
+      "ts": 1789719156
+    },
     {
       "source": "FXStreet",
       "title": "Czech Koruna: CNB pause before potential November hike – ING",
@@ -59,13 +80,6 @@
       "ts": 1789716615
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Dollar weakness delayed as Fed stays hawkish – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-dollar-weakness-delayed-as-fed-stays-hawkish-commerzbank-202609180726",
-      "published": "Fri, 18 Sep 2026 07:26:38 GMT",
-      "ts": 1789716398
-    },
-    {
       "source": "Investing Forex",
       "title": "Yen slides despite BOJ rate hike, dollar holds gains amid hawkish Fed",
       "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
@@ -78,13 +92,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-18 07:11:59",
       "ts": 1789715519
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Dovish BoJ hike keeps Yen vulnerable – ING",
-      "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-keeps-yen-vulnerable-ing-202609180711",
-      "published": "Fri, 18 Sep 2026 07:11:38 GMT",
-      "ts": 1789715498
     },
     {
       "source": "CoinDesk",
@@ -127,13 +134,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
       "published": "Fri, 18 Sep 2026 05:43:21 +0000",
       "ts": 1789710201
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee gets relief from pause in US yields and oil price rally",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
-      "published": "Fri, 18 Sep 2026 05:35:20 GMT",
-      "ts": 1789709720
     },
     {
       "source": "CoinDesk",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "This Analyst Just Downgraded Expedia Stock. Here's Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-downgraded-expedia-stock-204426639.html",
-      "published": "2026-09-16T20:44:26Z",
-      "ts": 1789591466
+      "title": "Granite Construction (GVA) Wins $23.7 Million Road Contract. Can Repeat Work Lift Margins?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/granite-construction-gva-wins-23-205822584.html",
+      "published": "2026-09-16T20:58:22Z",
+      "ts": 1789592302
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Federal Reserve Raises Interest Rates for the First Time in 3 Years. Here's What Investors Need to Know.",
-      "link": "https://finance.yahoo.com/economy/policy/articles/federal-raises-interest-rates-first-204001682.html",
-      "published": "2026-09-16T20:40:01Z",
-      "ts": 1789591201
+      "title": "Bitcoin Fades, Cipher Leads Miners Higher After Fed, Energy News",
+      "link": "https://www.investors.com/news/bitcoin-price-cryptocurrency-federal-reserve-interest-rate-cipher-digital-cifr-stock/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T20:55:16Z",
+      "ts": 1789592116
     },
     {
       "source": "Yahoo Finance",
-      "title": "Cathie Wood Projects $10 Trillion In SpaceX Starship Revenue By 2030",
-      "link": "https://www.investors.com/news/cathie-wood-ark-spacex-starship-revenue-estimate-elon-msuk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T20:36:51Z",
-      "ts": 1789591011
+      "title": "Stocks Tumble as Fed Hikes Interest Rates and Signals More to Come",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-tumble-fed-hikes-interest-205250060.html",
+      "published": "2026-09-16T20:52:50Z",
+      "ts": 1789591970
     },
     {
       "source": "Yahoo Finance",
-      "title": "Boeing Stock Skids As CEO Warns Of Further 737 Production Delays",
-      "link": "https://www.investors.com/news/boeing-stock-jets-planes-aerospace-kelly-ortberg-737-max/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T20:35:38Z",
-      "ts": 1789590938
+      "title": "Anthropic IPO Date: What Investors Need to Know Before It Prices",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-date-investors-know-205000356.html",
+      "published": "2026-09-16T20:50:00Z",
+      "ts": 1789591800
     },
     {
       "source": "Yahoo Finance",
-      "title": "JBHT Stock Plummets as J.B. Hunt Warns Investors About Q3 Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jbht-stock-plummets-j-b-203326100.html",
-      "published": "2026-09-16T20:33:26Z",
-      "ts": 1789590806
+      "title": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-doubles-private-debt-deals-204851814.html",
+      "published": "2026-09-16T20:48:51Z",
+      "ts": 1789591731
     }
   ]
 }
