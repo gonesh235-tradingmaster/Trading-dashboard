@@ -1,10 +1,24 @@
 {
-  "updated": "2026-09-18T07:52:16.331287Z",
+  "updated": "2026-09-18T08:10:29.970531Z",
   "count": 60,
   "items": [
     {
       "source": "FXStreet",
-      "title": "Euro extends gains, nearing 181.00 despite BoJ's Ueda's hawkish comments",
+      "title": "Czech Koruna: CNB pause before potential November hike – ING",
+      "link": "https://www.fxstreet.com/news/czech-koruna-cnb-pause-before-potential-november-hike-ing-202609180756",
+      "published": "Fri, 18 Sep 2026 07:56:02 GMT",
+      "ts": 1789718162
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro zone yields head for weekly decline as post-Fed rally soothes duration fears",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
+      "published": "2026-09-18 07:55:05",
+      "ts": 1789718105
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro extends gains, nearing 181.00 against Japanese Yen despite Ueda's hawkish comments",
       "link": "https://www.fxstreet.com/news/euro-extends-gains-nearing-18100-despite-bojs-uedas-hawkish-comments-202609180751",
       "published": "Fri, 18 Sep 2026 07:51:00 GMT",
       "ts": 1789717860
@@ -71,20 +85,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-keeps-yen-vulnerable-ing-202609180711",
       "published": "Fri, 18 Sep 2026 07:11:38 GMT",
       "ts": 1789715498
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen struggles near two-week low vs USD after BoJ Governor Ueda’s comments",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-near-two-week-low-vs-usd-after-boj-governor-uedas-comments-202609180708",
-      "published": "Fri, 18 Sep 2026 07:08:51 GMT",
-      "ts": 1789715331
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: Holds gains near 1.4000, bullish signals support upside",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-holds-gains-near-14000-bullish-signals-support-upside-202609180708",
-      "published": "Fri, 18 Sep 2026 07:08:09 GMT",
-      "ts": 1789715289
     },
     {
       "source": "CoinDesk",
@@ -183,6 +183,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4906656",
       "published": "2026-09-18 03:36:04",
       "ts": 1789702564
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold flirts with $$4,400 as softer US bond yields offset hawkish Fed and bullish USD",
+      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-hawkish-fed-and-middle-east-jitters-limit-usd-downside-202609180321",
+      "published": "Fri, 18 Sep 2026 03:21:07 GMT",
+      "ts": 1789701667
     },
     {
       "source": "CoinDesk",
@@ -382,45 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hungerford gets six weeks to stop auction on troubled Rochester building",
-      "link": "https://finance.yahoo.com/real-estate/articles/hungerford-gets-six-weeks-stop-195211826.html",
-      "published": "2026-09-16T19:52:11Z",
-      "ts": 1789588331
+      "title": "This Analyst Just Downgraded Expedia Stock. Here's Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-downgraded-expedia-stock-204426639.html",
+      "published": "2026-09-16T20:44:26Z",
+      "ts": 1789591466
     },
     {
       "source": "Yahoo Finance",
-      "title": "Union Pacific Gets A Buy Rating. High Fuel Costs Make It An Attractive Shipping Option.",
-      "link": "https://www.investors.com/news/union-pacific-unp-stock-intermodal-freight/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T19:50:57Z",
-      "ts": 1789588257
+      "title": "The Federal Reserve Raises Interest Rates for the First Time in 3 Years. Here's What Investors Need to Know.",
+      "link": "https://finance.yahoo.com/economy/policy/articles/federal-raises-interest-rates-first-204001682.html",
+      "published": "2026-09-16T20:40:01Z",
+      "ts": 1789591201
     },
     {
       "source": "Yahoo Finance",
-      "title": "Average car payments in 2026: What to expect",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/average-auto-loan-payments-expect-174817148.html",
-      "published": "2026-09-16T19:50:31Z",
-      "ts": 1789588231
+      "title": "Cathie Wood Projects $10 Trillion In SpaceX Starship Revenue By 2030",
+      "link": "https://www.investors.com/news/cathie-wood-ark-spacex-starship-revenue-estimate-elon-msuk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T20:36:51Z",
+      "ts": 1789591011
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fox (FOXA) Faces a Deeper DOJ Review of Roku (ROKU). Can the Deal Still Deliver?",
-      "link": "https://finance.yahoo.com/media-advertising/articles/fox-foxa-faces-deeper-doj-194850344.html",
-      "published": "2026-09-16T19:48:50Z",
-      "ts": 1789588130
+      "title": "Boeing Stock Skids As CEO Warns Of Further 737 Production Delays",
+      "link": "https://www.investors.com/news/boeing-stock-jets-planes-aerospace-kelly-ortberg-737-max/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T20:35:38Z",
+      "ts": 1789590938
     },
     {
       "source": "Yahoo Finance",
-      "title": "Final Agenda: 2nd LA CorpGov Forum Sep 18 Featuring Activism, Sports, Entertainment",
-      "link": "https://finance.yahoo.com/media-advertising/articles/final-agenda-2nd-la-corpgov-214417129.html",
-      "published": "2026-09-16T19:44:17Z",
-      "ts": 1789587857
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Williams Companies (WMB) Loses NESE Water Permit. Can it Preserve a Q4 2027 Start?",
-      "link": "https://finance.yahoo.com/energy/articles/williams-companies-wmb-loses-nese-194359969.html",
-      "published": "2026-09-16T19:43:59Z",
-      "ts": 1789587839
+      "title": "JBHT Stock Plummets as J.B. Hunt Warns Investors About Q3 Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jbht-stock-plummets-j-b-203326100.html",
+      "published": "2026-09-16T20:33:26Z",
+      "ts": 1789590806
     }
   ]
 }
