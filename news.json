@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T22:50:49.171374Z",
+  "updated": "2026-09-18T23:10:03.371829Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-202609182307",
+      "published": "Fri, 18 Sep 2026 23:07:00 GMT",
+      "ts": 1789772820
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 23:00:00 GMT",
+      "ts": 1789772400
+    },
     {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -157,25 +171,11 @@
       "ts": 1789758192
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 19:00:00 GMT",
-      "ts": 1789758000
-    },
-    {
       "source": "FXStreet",
       "title": "Eurozone: Energy shock reshapes outlook – Rabobank",
       "link": "https://www.fxstreet.com/news/eurozone-energy-shock-reshapes-outlook-rabobank-202609181858",
       "published": "Fri, 18 Sep 2026 18:58:47 GMT",
       "ts": 1789757927
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Stabilization after FOMC volatility – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-stabilization-after-fomc-volatility-scotiabank-202609181844",
-      "published": "Fri, 18 Sep 2026 18:44:35 GMT",
-      "ts": 1789757075
     },
     {
       "source": "MarketWatch",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nike (NKE) Is Down 40% YTD: Will the Turnaround Strategy Work?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-down-40-ytd-153250563.html",
-      "published": "2026-09-17T15:32:50Z",
-      "ts": 1789659170
+      "title": "Alexandria Real Estate Equities Stock: Is ARE Underperforming the Real Estate Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alexandria-real-estate-equities-stock-154718451.html",
+      "published": "2026-09-17T15:47:18Z",
+      "ts": 1789660038
     },
     {
       "source": "Yahoo Finance",
-      "title": "Crude Prices Fall as Saudi Arabia Seeks to Restore East-West Pipeline",
-      "link": "https://finance.yahoo.com/energy/articles/crude-prices-fall-saudi-arabia-153112109.html",
-      "published": "2026-09-17T15:31:12Z",
-      "ts": 1789659072
+      "title": "Novo Nordisk (NVO) and Eli Lilly (LLY)’s Weight-Loss Drugs Still Work at Smaller Doses, Study Finds",
+      "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-eli-lilly-154648868.html",
+      "published": "2026-09-17T15:46:48Z",
+      "ts": 1789660008
     },
     {
       "source": "Yahoo Finance",
-      "title": "Trump Accounts Face Dec. 31 Deadline — But Employer Contributions Could Create New Tax Planning Trap",
-      "link": "https://finance.yahoo.com/economy/policy/articles/trump-accounts-face-dec-31-153013834.html",
-      "published": "2026-09-17T15:30:13Z",
-      "ts": 1789659013
+      "title": "SEC Backs Real Stock Tokens Over Synthetics: Who Loses?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/sec-backs-real-stock-tokens-154009203.html",
+      "published": "2026-09-17T15:40:09Z",
+      "ts": 1789659609
     }
   ]
 }
