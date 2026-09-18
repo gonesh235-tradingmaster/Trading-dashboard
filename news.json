@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-18T01:38:02.366660Z",
+  "updated": "2026-09-18T01:51:54.090209Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound flatlines above 1.3350, UK Retail Sales data in focus",
+      "link": "https://www.fxstreet.com/news/british-pound-flatlines-above-13350-uk-retail-sales-data-in-focus-202609180147",
+      "published": "Fri, 18 Sep 2026 01:47:39 GMT",
+      "ts": 1789696059
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar bears retain control near August 7 low amid US-Canada rate gap/trade war",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bears-retain-control-near-august-7-low-amid-us-canada-rate-gap-trade-war-202609180145",
+      "published": "Fri, 18 Sep 2026 01:45:30 GMT",
+      "ts": 1789695930
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
+      "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 01:33:54 +0000",
+      "ts": 1789695234
+    },
     {
       "source": "FXStreet",
       "title": "WTI drops as Middle East supply fears ease",
@@ -57,20 +78,6 @@
       "link": "https://www.fxstreet.com/news/19-japans-national-cpi-steadies-in-august-202609172333",
       "published": "Thu, 17 Sep 2026 23:33:27 GMT",
       "ts": 1789688007
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold rebounds to near $4,350 on weaker US Dollar, falling oil prices",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-to-near-4-350-on-weaker-us-dollar-falling-oil-prices-202609172320",
-      "published": "Thu, 17 Sep 2026 23:20:22 GMT",
-      "ts": 1789687222
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar finds a floor as Oil retreat loosens USD’s grip",
-      "link": "https://www.fxstreet.com/news/australian-dollar-finds-a-floor-as-oil-retreat-loosens-usds-grip-202609172315",
-      "published": "Thu, 17 Sep 2026 23:15:56 GMT",
-      "ts": 1789686956
     },
     {
       "source": "FXStreet",
@@ -283,13 +290,6 @@
       "ts": 1789652057
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
-      "link": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 13:30:00 +0000",
-      "ts": 1789651800
-    },
-    {
       "source": "CoinDesk",
       "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
       "link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
@@ -382,45 +382,45 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Investor Fears of AI Disintermediation Weigh on Accenture (ACN) Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investor-fears-ai-disintermediation-weigh-134808888.html",
-      "published": "2026-09-16T13:48:08Z",
-      "ts": 1789566488
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
-      "published": "2026-09-16 13:44:48",
-      "ts": 1789566288
+      "title": "Here’s What Dragged Netflix (NFLX) in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dragged-netflix-nflx-q2-140030973.html",
+      "published": "2026-09-16T14:00:30Z",
+      "ts": 1789567230
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Says Brinker (EAT) “Never Fails to Wow Me”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-brinker-eat-134344027.html",
-      "published": "2026-09-16T13:43:44Z",
-      "ts": 1789566224
+      "title": "AI and Next-Gen Sequencing Strengthens Twist Bioscience Corp. (TWST)",
+      "link": "https://finance.yahoo.com/healthcare/articles/ai-next-gen-sequencing-strengthens-135904901.html",
+      "published": "2026-09-16T13:59:04Z",
+      "ts": 1789567144
     },
     {
       "source": "Yahoo Finance",
-      "title": "NVR Stock: Is NVR Underperforming the Consumer Cyclical Sector?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvr-stock-nvr-underperforming-consumer-133902769.html",
-      "published": "2026-09-16T13:39:02Z",
-      "ts": 1789565942
+      "title": "Dear Salesforce Stock Fans, Mark Your Calendars for September 16",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-salesforce-stock-fans-mark-135653016.html",
+      "published": "2026-09-16T13:56:53Z",
+      "ts": 1789567013
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nasdaq, Dow and S&P 500 Rise Ahead of Fed Rate Decision",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-rise-133759906.html",
-      "published": "2026-09-16T13:37:59Z",
-      "ts": 1789565879
+      "title": "Circle Unveils New Arc Blockchain",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/circle-unveils-arc-blockchain-135200065.html",
+      "published": "2026-09-16T13:52:00Z",
+      "ts": 1789566720
     },
     {
       "source": "Yahoo Finance",
-      "title": "CoStar (CSGP): Residential Strategy Unchanged Despite Persistent Market Skepticism",
-      "link": "https://finance.yahoo.com/real-estate/articles/costar-csgp-residential-strategy-unchanged-133542445.html",
-      "published": "2026-09-16T13:35:42Z",
-      "ts": 1789565742
+      "title": "Bitcoin ETFs See $450 Million In Outflows After Clarity Act Vote",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-see-450-million-135000092.html",
+      "published": "2026-09-16T13:50:00Z",
+      "ts": 1789566600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Charter Communications (CHTR): Cox Merger and Wireless Growth Signal Stronger Future Ahead",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/charter-communications-chtr-cox-merger-134918958.html",
+      "published": "2026-09-16T13:49:18Z",
+      "ts": 1789566558
     }
   ]
 }
