@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-18T19:49:55.192061Z",
+  "updated": "2026-09-18T20:09:54.462641Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 20:01:00 GMT",
+      "ts": 1789761660
+    },
+    {
+      "source": "FXStreet",
+      "title": "Malaysian Ringgit: External pressure but scope for reversal – OCBC",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-external-pressure-but-scope-for-reversal-ocbc-202609181954",
+      "published": "Fri, 18 Sep 2026 19:54:00 GMT",
+      "ts": 1789761240
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Coinbase files to bring single-stock perpetual futures to US market",
+      "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 19:53:54 +0000",
+      "ts": 1789761234
+    },
     {
       "source": "MarketWatch",
       "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
@@ -150,13 +171,6 @@
       "ts": 1789750200
     },
     {
-      "source": "MarketWatch",
-      "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
-      "link": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 16:39:00 GMT",
-      "ts": 1789749540
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar weakens against major currencies in the week ending September 18",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-against-major-currencies-in-the-week-ending-september-18-93CH-4907692",
@@ -169,13 +183,6 @@
       "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 16:04:22 +0000",
       "ts": 1789747462
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen weakens despite BoJ hike as US Dollar remains firm",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-despite-boj-hike-as-us-dollar-remains-firm-202609181554",
-      "published": "Fri, 18 Sep 2026 15:54:41 GMT",
-      "ts": 1789746881
     },
     {
       "source": "CoinTelegraph",
@@ -281,13 +288,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
       "published": "Fri, 18 Sep 2026 11:15:00 +0000",
       "ts": 1789730100
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
-      "link": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 10:46:17 +0000",
-      "ts": 1789728377
     },
     {
       "source": "CoinDesk",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bitcoin Looks Resilient After 2 Blows, The On-Chain Data Disagrees",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-looks-resilient-2-blows-095120319.html",
-      "published": "2026-09-17T09:51:20Z",
-      "ts": 1789638680
+      "title": "U.S. Stock Futures Rally as Bond Yields Fall on Fed’s Inflation Resolve",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rally-bond-103249165.html",
+      "published": "2026-09-17T10:32:49Z",
+      "ts": 1789641169
     },
     {
       "source": "Yahoo Finance",
-      "title": "Silicon Labs (SLAB) Swung to a Non-GAAP Profit, but Wall Street Hesitates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/silicon-labs-slab-swung-non-095036143.html",
-      "published": "2026-09-17T09:50:36Z",
-      "ts": 1789638636
+      "title": "Federal Reserve interest rate hike may trigger another brutal move for US Treasury yields",
+      "link": "https://finance.yahoo.com/economy/article/federal-reserve-interest-rate-hike-may-trigger-another-brutal-move-for-us-treasury-yields-103135302.html",
+      "published": "2026-09-17T10:31:35Z",
+      "ts": 1789641095
     }
   ]
 }
