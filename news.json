@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T11:09:35.341758Z",
+  "updated": "2026-09-18T11:25:05.535042Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "More Americans are about to get scammed by the coming peptide rush",
+      "link": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 11:23:00 GMT",
+      "ts": 1789730580
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP on the brink of a golden cross as focus switches to altcoins",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
+      "published": "Fri, 18 Sep 2026 11:15:00 +0000",
+      "ts": 1789730100
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar strengthens as RBA maintains hawkish stance",
@@ -157,13 +171,6 @@
       "ts": 1789722843
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Hawkish ECB offers limited support against US Dollar - ING",
-      "link": "https://www.fxstreet.com/news/euro-hawkish-ecb-offers-limited-support-against-us-dollar-ing-202609180907",
-      "published": "Fri, 18 Sep 2026 09:07:53 GMT",
-      "ts": 1789722473
-    },
-    {
       "source": "Investing Forex",
       "title": "Here’s what BoE tightening means for EUR/GBP",
       "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
@@ -262,6 +269,13 @@
       "ts": 1789710201
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee gets slight relief as rally in US yields and oil price hits pause",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
+      "published": "Fri, 18 Sep 2026 05:35:20 GMT",
+      "ts": 1789709720
+    },
+    {
       "source": "CoinDesk",
       "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
       "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
@@ -309,13 +323,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4906656",
       "published": "2026-09-18 03:36:04",
       "ts": 1789702564
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
-      "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
-      "published": "Fri, 18 Sep 2026 03:03:38 +0000",
-      "ts": 1789700618
     },
     {
       "source": "Investing Crypto",
@@ -374,13 +381,6 @@
       "ts": 1789676580
     },
     {
-      "source": "MarketWatch",
-      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
-      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 20:19:00 GMT",
-      "ts": 1789676340
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar halts six-day rally after Fed hike, sterling slips after BoE stands pat",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
@@ -403,6 +403,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
+      "link": "https://finance.yahoo.com/energy/articles/stanchart-sees-higher-oil-floor-000000512.html",
+      "published": "2026-09-17T00:00:00Z",
+      "ts": 1789603200
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "This High-Yield Tech Stock Just Raised Its Dividend by Nearly 8%",
       "link": "https://finance.yahoo.com/markets/stocks/articles/high-yield-tech-stock-just-233002292.html",
       "published": "2026-09-16T23:30:02Z",
@@ -410,17 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Forgent (FPS) Powers 11% Higher on Swing to Profits, Upbeat Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-fps-powers-11-higher-231158558.html",
-      "published": "2026-09-16T23:11:58Z",
-      "ts": 1789600318
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says He Is “Worried About” Uber (UBER)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-worried-uber-230640156.html",
-      "published": "2026-09-16T23:06:40Z",
-      "ts": 1789600000
+      "title": "XOM Keeps Climbing. Should You Climb On?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/xom-keeps-climbing-climb-232922566.html",
+      "published": "2026-09-16T23:29:22Z",
+      "ts": 1789601362
     }
   ]
 }
