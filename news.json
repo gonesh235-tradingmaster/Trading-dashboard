@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T23:37:27.380479Z",
+  "updated": "2026-09-18T23:51:06.577526Z",
   "count": 60,
   "items": [
     {
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Jim Cramer on Tesla (TSLA): “My Only Solution to It Is That SpaceX Has to Buy It”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tesla-tsla-only-164733818.html",
+      "published": "2026-09-17T16:47:33Z",
+      "ts": 1789663653
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Apple (AAPL) Faces a $2.7 Billion UK Lawsuit over its App Tracking Rules",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-faces-2-7-164412973.html",
+      "published": "2026-09-17T16:44:12Z",
+      "ts": 1789663452
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Lululemon (LULU) Cuts its Outlook Again Just as a New CEO Walks through the Door",
       "link": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-cuts-outlook-again-164209283.html",
       "published": "2026-09-17T16:42:09Z",
       "ts": 1789663329
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Rackspace’s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-nvidia-partnership-sparks-early-163851620.html",
-      "published": "2026-09-17T16:38:51Z",
-      "ts": 1789663131
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Meta (META) Overhauls Instagram and Facebook for Teens after its $17 Billion Settlement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-overhauls-instagram-facebook-163514422.html",
-      "published": "2026-09-17T16:35:14Z",
-      "ts": 1789662914
     }
   ]
 }
