@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-18T07:26:35.083695Z",
+  "updated": "2026-09-18T07:40:49.571523Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
+      "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+      "published": "Fri, 18 Sep 2026 07:37:32 +0000",
+      "ts": 1789717052
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar declines as US Dollar gains on hawkish Fed outlook",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-gains-on-hawkish-fed-outlook-202609180730",
+      "published": "Fri, 18 Sep 2026 07:30:15 GMT",
+      "ts": 1789716615
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Dollar weakness delayed as Fed stays hawkish – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-dollar-weakness-delayed-as-fed-stays-hawkish-commerzbank-202609180726",
+      "published": "Fri, 18 Sep 2026 07:26:38 GMT",
+      "ts": 1789716398
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen slides despite BOJ rate hike, dollar holds gains amid hawkish Fed",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
+      "published": "2026-09-18 07:18:34",
+      "ts": 1789715914
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin consolidates at $77,612 with breakout imminent: Live levels",
@@ -66,20 +94,6 @@
       "ts": 1789714066
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound languishes at seven-week lows despite bright UK Retail Sales data",
-      "link": "https://www.fxstreet.com/news/british-pound-languishes-at-seven-week-lows-despite-bright-uk-retail-sales-data-202609180639",
-      "published": "Fri, 18 Sep 2026 06:39:40 GMT",
-      "ts": 1789713580
-    },
-    {
-      "source": "FXStreet",
-      "title": "Equities: Strong rebound supported by earnings growth – Danske Bank",
-      "link": "https://www.fxstreet.com/news/equities-strong-rebound-supported-by-earnings-growth-danske-bank-202609180639",
-      "published": "Fri, 18 Sep 2026 06:39:07 GMT",
-      "ts": 1789713547
-    },
-    {
       "source": "CoinDesk",
       "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
       "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
@@ -122,13 +136,6 @@
       "ts": 1789709009
     },
     {
-      "source": "Investing Forex",
-      "title": "Asia FX mixed as yen slides despite BOJ rate hike",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
-      "published": "2026-09-18 05:07:17",
-      "ts": 1789708037
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
       "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -137,7 +144,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Ether and XRP ETFs post outflows as bitcoin moves above $77,000",
+      "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
       "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
       "published": "Fri, 18 Sep 2026 04:49:17 +0000",
       "ts": 1789706957
@@ -311,13 +318,6 @@
       "ts": 1789670438
     },
     {
-      "source": "CoinDesk",
-      "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
-      "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
-      "published": "Thu, 17 Sep 2026 18:38:10 +0000",
-      "ts": 1789670290
-    },
-    {
       "source": "MarketWatch",
       "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
       "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
@@ -382,45 +382,45 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Fed's Hawkish Pivot Didn't Fix The 10-Year Yield; S&P 500 Slides",
-      "link": "https://www.investors.com/news/federal-reserve-meeting-sept-warsh-10-year-treasury-yield-sp-500/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T19:33:41Z",
-      "ts": 1789587221
+      "title": "Final Agenda: 2nd LA CorpGov Forum Sep 18 Featuring Activism, Sports, Entertainment",
+      "link": "https://finance.yahoo.com/media-advertising/articles/final-agenda-2nd-la-corpgov-214417129.html",
+      "published": "2026-09-16T19:44:17Z",
+      "ts": 1789587857
     },
     {
       "source": "Yahoo Finance",
-      "title": "Instant View: Stocks pull back after Fed raises rates, points to another hike this year",
-      "link": "https://finance.yahoo.com/economy/policy/articles/markets-steady-fed-raises-rates-182216095.html",
-      "published": "2026-09-16T19:32:22Z",
-      "ts": 1789587142
+      "title": "The Williams Companies (WMB) Loses NESE Water Permit. Can it Preserve a Q4 2027 Start?",
+      "link": "https://finance.yahoo.com/energy/articles/williams-companies-wmb-loses-nese-194359969.html",
+      "published": "2026-09-16T19:43:59Z",
+      "ts": 1789587839
     },
     {
       "source": "Yahoo Finance",
-      "title": "Amazon Business Hits $60B: What Shippers Should Notice",
-      "link": "https://finance.yahoo.com/small-business/articles/amazon-business-hits-60b-shippers-193055376.html",
-      "published": "2026-09-16T19:30:55Z",
-      "ts": 1789587055
+      "title": "NVO Stock Alert: What to Know as Novo Partners With Anthropic on Drug Discovery",
+      "link": "https://finance.yahoo.com/healthcare/articles/nvo-stock-alert-know-novo-194246138.html",
+      "published": "2026-09-16T19:42:46Z",
+      "ts": 1789587766
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mortgage rates jump, approach 7%",
-      "link": "https://finance.yahoo.com/real-estate/articles/mortgage-rates-jump-approach-7-193000830.html",
-      "published": "2026-09-16T19:30:00Z",
-      "ts": 1789587000
+      "title": "Circle Agrees to Buy Tazapay. Can Over $25B in Annualized Payment Volume Improve USDC Monetization?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/circle-agrees-buy-tazapay-over-194202296.html",
+      "published": "2026-09-16T19:42:02Z",
+      "ts": 1789587722
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Highway Sees Fraud, Risk and Carrier Vetting",
-      "link": "https://finance.yahoo.com/small-business/articles/highway-sees-fraud-risk-carrier-192844408.html",
-      "published": "2026-09-16T19:28:44Z",
-      "ts": 1789586924
+      "title": "FBI opens probe of Jon Venetos’ Lurin Capital",
+      "link": "https://finance.yahoo.com/real-estate/articles/fbi-opens-probe-jon-venetos-194004197.html",
+      "published": "2026-09-16T19:40:04Z",
+      "ts": 1789587604
     },
     {
       "source": "Yahoo Finance",
-      "title": "What is the average personal loan rate for September 2026?",
-      "link": "https://finance.yahoo.com/markets/articles/average-personal-loan-interest-rate-005856676.html",
-      "published": "2026-09-16T19:25:09Z",
-      "ts": 1789586709
+      "title": "Dollar Soars as Fed Hikes Rates and Signals More to Come",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-soars-fed-hikes-rates-193939474.html",
+      "published": "2026-09-16T19:39:39Z",
+      "ts": 1789587579
     }
   ]
 }
