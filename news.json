@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T02:53:35.280797Z",
+  "updated": "2026-09-18T03:10:03.649141Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin rises against yen",
+      "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+      "published": "Fri, 18 Sep 2026 03:03:38 +0000",
+      "ts": 1789700618
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD rises to near $66.00 as US-10 year yield slides",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6600-as-us-10-year-yield-slides-202609180259",
+      "published": "Fri, 18 Sep 2026 02:59:29 GMT",
+      "ts": 1789700369
+    },
     {
       "source": "Investing Crypto",
       "title": "Cardano Climbs 10% In Bullish Trade",
@@ -81,14 +95,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "RBA's Bullock: At August board meeting, risks to outlook were skewed to the upside",
-      "link": "https://www.fxstreet.com/news/rbas-bullock-at-august-board-meeting-risks-to-outlook-were-skewed-to-the-upside-202609172341",
-      "published": "Thu, 17 Sep 2026 23:41:14 GMT",
-      "ts": 1789688474
-    },
-    {
-      "source": "FXStreet",
-      "title": "Bank of Japan is set to raise interest rates as inflation pressures build",
+      "title": "Breaking: Bank of Japan lifts interest rate by 25 bps to 1.25%, as expected",
       "link": "https://www.fxstreet.com/news/bank-of-japan-is-expected-to-deliver-a-hawkish-hike-pressured-by-rising-inflation-202609172200",
       "published": "Thu, 17 Sep 2026 22:00:00 GMT",
       "ts": 1789682400
@@ -304,13 +311,6 @@
       "ts": 1789650921
     },
     {
-      "source": "CoinDesk",
-      "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
-      "link": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
-      "published": "Thu, 17 Sep 2026 13:00:00 +0000",
-      "ts": 1789650000
-    },
-    {
       "source": "Investing Forex",
       "title": "Uganda shilling faces pressure as dollar demand rises",
       "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
@@ -381,46 +381,46 @@
       "ts": 1789575611
     },
     {
-      "source": "Investing Crypto",
-      "title": "Coinbase cuts trading fees for active users on Advanced platform",
-      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
-      "published": "2026-09-16 14:56:02",
-      "ts": 1789570562
+      "source": "Yahoo Finance",
+      "title": "How Is Entergy's Stock Performance Compared to Other Utility Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/entergys-stock-performance-compared-other-152737113.html",
+      "published": "2026-09-16T15:27:37Z",
+      "ts": 1789572457
     },
     {
       "source": "Yahoo Finance",
-      "title": "US Politicians Are Buying These Two Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-politicians-buying-two-stocks-144637200.html",
-      "published": "2026-09-16T14:46:37Z",
-      "ts": 1789569997
+      "title": "Arista Stock Holds Up Well Amid Weakness. Here's How To Capitalize.",
+      "link": "https://www.investors.com/research/options/arista-anet-stock-covered-call-options/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:26:07Z",
+      "ts": 1789572367
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dave & Buster’s (PLAY) Bets On New Leaders To Reverse Its Slide",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-buster-play-bets-leaders-144539009.html",
-      "published": "2026-09-16T14:45:39Z",
-      "ts": 1789569939
+      "title": "Radiant Logistics (RLGT) Bets $100M On A Freight Rebound",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-bets-100m-152433522.html",
+      "published": "2026-09-16T15:24:33Z",
+      "ts": 1789572273
     },
     {
       "source": "Yahoo Finance",
-      "title": "Comfort Systems USA (FIX) Positioned to Benefit from Accelerated AI Investment",
-      "link": "https://finance.yahoo.com/technology/ai/articles/comfort-systems-usa-fix-positioned-144523131.html",
-      "published": "2026-09-16T14:45:23Z",
-      "ts": 1789569923
+      "title": "Weakness Is an Opportunity for Long-Term ASML Stock Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/weakness-opportunity-long-term-asml-152400381.html",
+      "published": "2026-09-16T15:24:00Z",
+      "ts": 1789572240
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Binance Is Dipping Its Toes Into TradFi",
-      "link": "https://finance.yahoo.com/markets/options/articles/why-binance-dipping-toes-tradfi-144215301.html",
-      "published": "2026-09-16T14:42:15Z",
-      "ts": 1789569735
+      "title": "Stocks Hold Gains After Fed Hikes Key Rate",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-hold-gains-fed-hikes-151838478.html",
+      "published": "2026-09-16T15:18:38Z",
+      "ts": 1789571918
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Fund Exited Insmed (INSM) After the Investment Thesis Played Out",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-exited-insmed-insm-investment-144040894.html",
-      "published": "2026-09-16T14:40:40Z",
-      "ts": 1789569640
+      "title": "Bitcoin Price Prediction: Failed Clarity Act Vote Will Put BTC’s Rally to the Test",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-failed-clarity-151045217.html",
+      "published": "2026-09-16T15:10:45Z",
+      "ts": 1789571445
     }
   ]
 }
