@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T12:58:23.526137Z",
+  "updated": "2026-09-18T13:09:40.720927Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound: QT overhaul supports Gilt curve and Pound – MUFG",
+      "link": "https://www.fxstreet.com/news/british-pound-qt-overhaul-supports-gilt-curve-and-pound-mufg-202609181303",
+      "published": "Fri, 18 Sep 2026 13:03:52 GMT",
+      "ts": 1789736632
+    },
+    {
+      "source": "CoinDesk",
+      "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
+      "link": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+      "published": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "ts": 1789736400
+    },
     {
       "source": "CoinDesk",
       "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
@@ -141,13 +155,6 @@
       "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
       "published": "Fri, 18 Sep 2026 11:32:13 GMT",
       "ts": 1789731133
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: BoE holds but inflation risks linger – OCBC",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-holds-but-inflation-risks-linger-ocbc-202609181125",
-      "published": "Fri, 18 Sep 2026 11:25:43 GMT",
-      "ts": 1789730743
     },
     {
       "source": "MarketWatch",
@@ -332,13 +339,6 @@
       "ts": 1789711104
     },
     {
-      "source": "CoinDesk",
-      "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
-      "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
-      "published": "Fri, 18 Sep 2026 05:43:21 +0000",
-      "ts": 1789710201
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
       "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -403,13 +403,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hudson Pacific (HPP) Extends $1.1B Hollywood Loan. Can Leasing Improve?",
-      "link": "https://finance.yahoo.com/real-estate/articles/hudson-pacific-hpp-extends-1-041136836.html",
-      "published": "2026-09-17T04:11:36Z",
-      "ts": 1789618296
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "The Clarity Act Failed to Advance. It’s Still Business As Usual",
       "link": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-failed-advance-still-040300692.html",
       "published": "2026-09-17T04:03:00Z",
@@ -421,6 +414,13 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/ai-won-t-replace-advisors-040200789.html",
       "published": "2026-09-17T04:02:00Z",
       "ts": 1789617720
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fed Raises Interest Rates for First Time in Three Years as Diesel, Gas Prices Surge",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fed-raises-interest-rates-first-040100694.html",
+      "published": "2026-09-17T04:01:00Z",
+      "ts": 1789617660
     }
   ]
 }
