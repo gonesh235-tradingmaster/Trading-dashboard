@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T08:27:43.466100Z",
+  "updated": "2026-09-18T08:42:54.891272Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Yen vulnerable after BoJ communication – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-yen-vulnerable-after-boj-communication-mufg-202609180841",
+      "published": "Fri, 18 Sep 2026 08:41:45 GMT",
+      "ts": 1789720905
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc: Consolidation holds below 0.8300 against US Dollar – UOB",
@@ -10,11 +17,25 @@
       "ts": 1789719972
     },
     {
+      "source": "Investing Forex",
+      "title": "UBS sees EUR/USD long opportunity on central bank dynamics",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurusd-long-opportunity-on-central-bank-dynamics-93CH-4906809",
+      "published": "2026-09-18 08:21:32",
+      "ts": 1789719692
+    },
+    {
       "source": "FXStreet",
       "title": "ECB’s Lagarde: We'll decide on rates meeting by meeting",
       "link": "https://www.fxstreet.com/news/ecbs-lagarde-well-decide-on-rates-meeting-by-meeting-202609180821",
       "published": "Fri, 18 Sep 2026 08:21:10 GMT",
       "ts": 1789719670
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound gains as UK retail sales beat and dollar cools",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
+      "published": "2026-09-18 08:17:33",
+      "ts": 1789719453
     },
     {
       "source": "FXStreet",
@@ -71,13 +92,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
       "published": "Fri, 18 Sep 2026 07:37:32 +0000",
       "ts": 1789717052
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar declines as US Dollar gains on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-gains-on-hawkish-fed-outlook-202609180730",
-      "published": "Fri, 18 Sep 2026 07:30:15 GMT",
-      "ts": 1789716615
     },
     {
       "source": "Investing Forex",
@@ -389,38 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Granite Construction (GVA) Wins $23.7 Million Road Contract. Can Repeat Work Lift Margins?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/granite-construction-gva-wins-23-205822584.html",
-      "published": "2026-09-16T20:58:22Z",
-      "ts": 1789592302
+      "title": "Stock Market Today, Sept. 16: Grab Acquires 60% Stake in Atome Financial for $1.49 Billion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-16-211454498.html",
+      "published": "2026-09-16T21:14:54Z",
+      "ts": 1789593294
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bitcoin Fades, Cipher Leads Miners Higher After Fed, Energy News",
-      "link": "https://www.investors.com/news/bitcoin-price-cryptocurrency-federal-reserve-interest-rate-cipher-digital-cifr-stock/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T20:55:16Z",
-      "ts": 1789592116
+      "title": "Stock Market Today: Nasdaq Ends Flat After Rate Hike; AI Play SpaceX Eyes Early Entry",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T21:12:56Z",
+      "ts": 1789593176
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stocks Tumble as Fed Hikes Interest Rates and Signals More to Come",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-tumble-fed-hikes-interest-205250060.html",
-      "published": "2026-09-16T20:52:50Z",
-      "ts": 1789591970
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Anthropic IPO Date: What Investors Need to Know Before It Prices",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-date-investors-know-205000356.html",
-      "published": "2026-09-16T20:50:00Z",
-      "ts": 1789591800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-doubles-private-debt-deals-204851814.html",
-      "published": "2026-09-16T20:48:51Z",
-      "ts": 1789591731
+      "title": "Okta Stock Jumped 11% This Week. Here’s What’s Behind the Surge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/okta-stock-jumped-11-week-211202474.html",
+      "published": "2026-09-16T21:12:02Z",
+      "ts": 1789593122
     }
   ]
 }
