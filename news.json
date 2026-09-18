@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T22:38:20.785117Z",
+  "updated": "2026-09-18T22:50:49.171374Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 22:45:00 GMT",
+      "ts": 1789771500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
+      "link": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 22:41:00 GMT",
+      "ts": 1789771260
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin jumps, tops $80k for first time since Sept 7 & turns positive for the week",
@@ -157,13 +171,6 @@
       "ts": 1789757927
     },
     {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 18:46:00 GMT",
-      "ts": 1789757160
-    },
-    {
       "source": "FXStreet",
       "title": "Euro: Stabilization after FOMC volatility – Scotiabank",
       "link": "https://www.fxstreet.com/news/euro-stabilization-after-fomc-volatility-scotiabank-202609181844",
@@ -176,13 +183,6 @@
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 18:30:00 GMT",
       "ts": 1789756200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 18:26:00 GMT",
-      "ts": 1789755960
     },
     {
       "source": "CoinTelegraph",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Worker Tensions in Taiwan Are Rising at Micron. What This Means for MU Stock.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/worker-tensions-taiwan-rising-micron-151005678.html",
-      "published": "2026-09-17T15:10:05Z",
-      "ts": 1789657805
+      "title": "Nike (NKE) Is Down 40% YTD: Will the Turnaround Strategy Work?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-down-40-ytd-153250563.html",
+      "published": "2026-09-17T15:32:50Z",
+      "ts": 1789659170
     },
     {
       "source": "Yahoo Finance",
-      "title": "Wall Street May Have Overpriced the Fed Rate Hike’s Impact on Citigroup Stock Spreads",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-may-overpriced-fed-150657658.html",
-      "published": "2026-09-17T15:06:57Z",
-      "ts": 1789657617
+      "title": "Crude Prices Fall as Saudi Arabia Seeks to Restore East-West Pipeline",
+      "link": "https://finance.yahoo.com/energy/articles/crude-prices-fall-saudi-arabia-153112109.html",
+      "published": "2026-09-17T15:31:12Z",
+      "ts": 1789659072
     },
     {
       "source": "Yahoo Finance",
-      "title": "JEPI and JEPQ Yield Way More Than SCHD, but SCHD Could Produce More Passive Income Over the Long Term. Here's Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jepi-jepq-yield-way-more-150500652.html",
-      "published": "2026-09-17T15:05:00Z",
-      "ts": 1789657500
+      "title": "Trump Accounts Face Dec. 31 Deadline — But Employer Contributions Could Create New Tax Planning Trap",
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-accounts-face-dec-31-153013834.html",
+      "published": "2026-09-17T15:30:13Z",
+      "ts": 1789659013
     }
   ]
 }
