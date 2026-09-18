@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-18T09:09:52.111874Z",
+  "updated": "2026-09-18T09:26:24.091863Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Post-FOMC consolidation and data focus – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-post-fomc-consolidation-and-data-focus-ocbc-202609180923",
+      "published": "Fri, 18 Sep 2026 09:23:40 GMT",
+      "ts": 1789723420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 09:15:00 GMT",
+      "ts": 1789722900
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+      "link": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 09:14:03 +0000",
+      "ts": 1789722843
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Hawkish ECB offers limited support against US Dollar - ING",
       "link": "https://www.fxstreet.com/news/euro-hawkish-ecb-offers-limited-support-against-us-dollar-ing-202609180907",
       "published": "Fri, 18 Sep 2026 09:07:53 GMT",
       "ts": 1789722473
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Here’s what BoE tightening means for EUR/GBP",
+      "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
+      "published": "2026-09-18 09:00:35",
+      "ts": 1789722035
     },
     {
       "source": "FXStreet",
@@ -92,13 +120,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
       "published": "2026-09-18 08:17:33",
       "ts": 1789719453
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro flattens against US Dollar as traders look beyond ECB-Fed hawkish decisions",
-      "link": "https://www.fxstreet.com/news/euro-flattens-against-us-dollar-as-traders-look-beyond-ecb-fed-hawkish-decisions-202609180812",
-      "published": "Fri, 18 Sep 2026 08:12:36 GMT",
-      "ts": 1789719156
     },
     {
       "source": "Investing Forex",
@@ -360,32 +381,11 @@
       "ts": 1789670438
     },
     {
-      "source": "MarketWatch",
-      "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
-      "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 17:42:00 GMT",
-      "ts": 1789666920
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
-      "link": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 17:31:12 +0000",
-      "ts": 1789666272
-    },
-    {
       "source": "Investing Forex",
       "title": "Uganda shilling faces pressure as dollar demand rises",
       "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
       "published": "2026-09-17 12:35:41",
       "ts": 1789648541
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Global yields ease as Fed hike and BoE rate hold anchor debt bourses",
-      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
-      "published": "2026-09-17 12:07:30",
-      "ts": 1789646850
     },
     {
       "source": "Investing Crypto",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Sunbelt Rentals (SUNB) Raises Guidance. Will Higher Fleet Spending Deliver Cash?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sunbelt-rentals-sunb-raises-guidance-213756984.html",
-      "published": "2026-09-16T21:37:56Z",
-      "ts": 1789594676
+      "title": "Hawaiian Electric (HE): Does a $1 Billion Bank IPO Valuation Matter?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hawaiian-electric-does-1-billion-212245205.html",
+      "published": "2026-09-16T21:22:45Z",
+      "ts": 1789593765
     },
     {
       "source": "Yahoo Finance",
-      "title": "Noise wants to help everyday people  become paid content creators",
-      "link": "https://finance.yahoo.com/media-advertising/articles/noise-wants-help-everyday-people-213500409.html",
-      "published": "2026-09-16T21:35:00Z",
-      "ts": 1789594500
+      "title": "ETF fueled by Iran war goes bonkers, gains 3,600%",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/etf-fueled-iran-war-goes-211700758.html",
+      "published": "2026-09-16T21:17:00Z",
+      "ts": 1789593420
     },
     {
-      "source": "Yahoo Finance",
-      "title": "AeroVironment (AVAV) Has $1.5 Billion in Funded Backlog. Can Conversion Support Guidance?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-1-5-billion-213431378.html",
-      "published": "2026-09-16T21:34:31Z",
-      "ts": 1789594471
+      "source": "Investing Crypto",
+      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
+      "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
+      "published": "2026-09-16 17:30:36",
+      "ts": 1789579836
     }
   ]
 }
