@@ -1,13 +1,55 @@
 {
-  "updated": "2026-09-18T09:52:09.039302Z",
+  "updated": "2026-09-18T10:10:28.681780Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
+      "link": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 10:08:00 GMT",
+      "ts": 1789726080
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The Fed hasn’t been this terse since 2007. What a 130-word statement signals for market stability.",
+      "link": "https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 10:08:00 GMT",
+      "ts": 1789726080
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
+      "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
+      "published": "Fri, 18 Sep 2026 10:07:33 +0000",
+      "ts": 1789726053
+    },
+    {
+      "source": "FXStreet",
+      "title": "Bank of Japan: Hawkish path with FX doubts – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-hawkish-path-with-fx-doubts-td-securities-202609181002",
+      "published": "Fri, 18 Sep 2026 10:02:23 GMT",
+      "ts": 1789725743
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar soars against Japanese Yen as BoJ rate hike disappoints hawks",
+      "link": "https://www.fxstreet.com/news/australian-dollar-soars-against-japanese-yen-as-boj-rate-hike-disappoints-hawks-202609180955",
+      "published": "Fri, 18 Sep 2026 09:55:19 GMT",
+      "ts": 1789725319
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
       "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
       "published": "Fri, 18 Sep 2026 09:49:51 +0000",
       "ts": 1789724991
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin climbs to $78k as markets look past Clarity setback",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
+      "published": "2026-09-18 09:45:52",
+      "ts": 1789724752
     },
     {
       "source": "FXStreet",
@@ -94,13 +136,6 @@
       "ts": 1789721693
     },
     {
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Attracts slight bids below trendline near 1.3360",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-attracts-slight-bids-below-trendline-near-13360-202609180852",
-      "published": "Fri, 18 Sep 2026 08:52:22 GMT",
-      "ts": 1789721542
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
       "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -113,13 +148,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 08:47:20 +0000",
       "ts": 1789721240
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Oil eases to levels near $95 on hopes of higher supply of Saudi Crude",
-      "link": "https://www.fxstreet.com/news/wti-oil-eases-to-levels-near-95-on-hopes-of-higher-supply-of-saudi-crude-202609180843",
-      "published": "Fri, 18 Sep 2026 08:43:19 GMT",
-      "ts": 1789720999
     },
     {
       "source": "Investing Forex",
@@ -169,13 +197,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
       "published": "Fri, 18 Sep 2026 06:52:23 +0000",
       "ts": 1789714343
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rises to $77.5k as markets look past Clarity setback",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
-      "published": "2026-09-18 06:47:46",
-      "ts": 1789714066
     },
     {
       "source": "CoinDesk",
@@ -297,13 +318,6 @@
       "ts": 1789681642
     },
     {
-      "source": "CoinDesk",
-      "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
-      "link": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
-      "published": "Thu, 17 Sep 2026 21:28:35 +0000",
-      "ts": 1789680515
-    },
-    {
       "source": "MarketWatch",
       "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
       "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
@@ -374,20 +388,6 @@
       "ts": 1789673072
     },
     {
-      "source": "MarketWatch",
-      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 19:07:00 GMT",
-      "ts": 1789672020
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
-      "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 18:46:00 GMT",
-      "ts": 1789670760
-    },
-    {
       "source": "Investing Forex",
       "title": "Uganda shilling faces pressure as dollar demand rises",
       "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
@@ -402,18 +402,18 @@
       "ts": 1789642834
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Walmart wants to change how you shop online, and it’s already working",
+      "link": "https://finance.yahoo.com/small-business/articles/walmart-wants-change-shop-online-215746102.html",
+      "published": "2026-09-16T21:57:46Z",
+      "ts": 1789595866
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
       "published": "2026-09-16 21:54:07",
       "ts": 1789595647
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Rum Roars on $13.7 Billion Compute Deal With Anthropic. How to Play RUM Stock Now.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/rum-roars-13-7-billion-214658317.html",
-      "published": "2026-09-16T21:46:58Z",
-      "ts": 1789595218
     },
     {
       "source": "Investing Crypto",
