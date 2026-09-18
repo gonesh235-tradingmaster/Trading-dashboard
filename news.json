@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-18T07:40:49.571523Z",
+  "updated": "2026-09-18T07:52:16.331287Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro extends gains, nearing 181.00 despite BoJ's Ueda's hawkish comments",
+      "link": "https://www.fxstreet.com/news/euro-extends-gains-nearing-18100-despite-bojs-uedas-hawkish-comments-202609180751",
+      "published": "Fri, 18 Sep 2026 07:51:00 GMT",
+      "ts": 1789717860
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Rallies to two-week top, above 210.50 amid post-BoJ JPY selloff",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rallies-to-two-week-top-above-21050-amid-post-boj-jpy-selloff-202609180744",
+      "published": "Fri, 18 Sep 2026 07:44:29 GMT",
+      "ts": 1789717469
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures rise as 10-year US yield slides, tech rally resumes",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-10-year-us-yield-slides-tech-rally-resumes-202609180743",
+      "published": "Fri, 18 Sep 2026 07:43:54 GMT",
+      "ts": 1789717434
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: Global rally extends with tech leadership – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-global-rally-extends-with-tech-leadership-deutsche-bank-202609180742",
+      "published": "Fri, 18 Sep 2026 07:42:49 GMT",
+      "ts": 1789717369
+    },
     {
       "source": "CoinDesk",
       "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
@@ -59,32 +87,11 @@
       "ts": 1789715289
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound: Downside risk extends toward 1.3300 – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-downside-risk-extends-toward-13300-uob-202609180701",
-      "published": "Fri, 18 Sep 2026 07:01:30 GMT",
-      "ts": 1789714890
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD rallies to near $66.80 amid correction in oil prices, US yields",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rallies-to-near-6680-amid-correction-in-oil-prices-us-yields-202609180657",
-      "published": "Fri, 18 Sep 2026 06:57:56 GMT",
-      "ts": 1789714676
-    },
-    {
       "source": "CoinDesk",
       "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
       "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
       "published": "Fri, 18 Sep 2026 06:52:23 +0000",
       "ts": 1789714343
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro declines against British Pound following UK Retail Sales, German Producer Price data",
-      "link": "https://www.fxstreet.com/news/euro-declines-against-british-pound-following-uk-retail-sales-german-producer-price-data-202609180649",
-      "published": "Fri, 18 Sep 2026 06:49:12 GMT",
-      "ts": 1789714152
     },
     {
       "source": "Investing Crypto",
@@ -204,13 +211,6 @@
       "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 23:49:23 +0000",
       "ts": 1789688963
-    },
-    {
-      "source": "FXStreet",
-      "title": "Ueda Speech: BoJ Governor sheds lights policy outlook after the expected interest rate hike",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-is-expected-to-deliver-a-hawkish-hike-pressured-by-rising-inflation-202609172200",
-      "published": "Thu, 17 Sep 2026 22:00:00 GMT",
-      "ts": 1789682400
     },
     {
       "source": "CoinDesk",
@@ -382,6 +382,34 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Hungerford gets six weeks to stop auction on troubled Rochester building",
+      "link": "https://finance.yahoo.com/real-estate/articles/hungerford-gets-six-weeks-stop-195211826.html",
+      "published": "2026-09-16T19:52:11Z",
+      "ts": 1789588331
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Union Pacific Gets A Buy Rating. High Fuel Costs Make It An Attractive Shipping Option.",
+      "link": "https://www.investors.com/news/union-pacific-unp-stock-intermodal-freight/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T19:50:57Z",
+      "ts": 1789588257
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Average car payments in 2026: What to expect",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/average-auto-loan-payments-expect-174817148.html",
+      "published": "2026-09-16T19:50:31Z",
+      "ts": 1789588231
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fox (FOXA) Faces a Deeper DOJ Review of Roku (ROKU). Can the Deal Still Deliver?",
+      "link": "https://finance.yahoo.com/media-advertising/articles/fox-foxa-faces-deeper-doj-194850344.html",
+      "published": "2026-09-16T19:48:50Z",
+      "ts": 1789588130
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Final Agenda: 2nd LA CorpGov Forum Sep 18 Featuring Activism, Sports, Entertainment",
       "link": "https://finance.yahoo.com/media-advertising/articles/final-agenda-2nd-la-corpgov-214417129.html",
       "published": "2026-09-16T19:44:17Z",
@@ -393,34 +421,6 @@
       "link": "https://finance.yahoo.com/energy/articles/williams-companies-wmb-loses-nese-194359969.html",
       "published": "2026-09-16T19:43:59Z",
       "ts": 1789587839
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "NVO Stock Alert: What to Know as Novo Partners With Anthropic on Drug Discovery",
-      "link": "https://finance.yahoo.com/healthcare/articles/nvo-stock-alert-know-novo-194246138.html",
-      "published": "2026-09-16T19:42:46Z",
-      "ts": 1789587766
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Circle Agrees to Buy Tazapay. Can Over $25B in Annualized Payment Volume Improve USDC Monetization?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/circle-agrees-buy-tazapay-over-194202296.html",
-      "published": "2026-09-16T19:42:02Z",
-      "ts": 1789587722
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "FBI opens probe of Jon Venetos’ Lurin Capital",
-      "link": "https://finance.yahoo.com/real-estate/articles/fbi-opens-probe-jon-venetos-194004197.html",
-      "published": "2026-09-16T19:40:04Z",
-      "ts": 1789587604
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dollar Soars as Fed Hikes Rates and Signals More to Come",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-soars-fed-hikes-rates-193939474.html",
-      "published": "2026-09-16T19:39:39Z",
-      "ts": 1789587579
     }
   ]
 }
