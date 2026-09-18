@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-18T18:54:14.449949Z",
+  "updated": "2026-09-18T19:09:42.151870Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US 10-Year back at 5% as global tightening wave pushes",
+      "link": "https://www.fxstreet.com/news/us-10-year-back-at-5-as-global-tightening-wave-pushes-202609181903",
+      "published": "Fri, 18 Sep 2026 19:03:12 GMT",
+      "ts": 1789758192
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 19:00:00 GMT",
+      "ts": 1789758000
+    },
+    {
+      "source": "FXStreet",
+      "title": "Eurozone: Energy shock reshapes outlook – Rabobank",
+      "link": "https://www.fxstreet.com/news/eurozone-energy-shock-reshapes-outlook-rabobank-202609181858",
+      "published": "Fri, 18 Sep 2026 18:58:47 GMT",
+      "ts": 1789757927
+    },
     {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -150,20 +171,6 @@
       "ts": 1789745759
     },
     {
-      "source": "MarketWatch",
-      "title": "A happier retirement contains these 3 elements",
-      "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 15:35:00 GMT",
-      "ts": 1789745700
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound gives back UK sales pop as Oil shock returns",
-      "link": "https://www.fxstreet.com/news/british-pound-gives-back-uk-sales-pop-as-oil-shock-returns-202609181527",
-      "published": "Fri, 18 Sep 2026 15:27:35 GMT",
-      "ts": 1789745255
-    },
-    {
       "source": "CoinDesk",
       "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
       "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
@@ -246,13 +253,6 @@
       "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 11:54:24 +0000",
       "ts": 1789732464
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold outlook hinges on Oil prices and shifting Fed expectations",
-      "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
-      "published": "Fri, 18 Sep 2026 11:32:13 GMT",
-      "ts": 1789731133
     },
     {
       "source": "CoinTelegraph",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Figure (FIGR) Bets AI Agents Can Rescue Trillions in Stalled Home Loans",
+      "link": "https://finance.yahoo.com/technology/ai/articles/figure-figr-bets-ai-agents-092850874.html",
+      "published": "2026-09-17T09:28:50Z",
+      "ts": 1789637330
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Invitation Homes Stock Underperforming the S&P 500?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/invitation-homes-stock-underperforming-p-092714807.html",
       "published": "2026-09-17T09:27:14Z",
       "ts": 1789637234
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘Starting at rock bottom’: Woman filed for bankruptcy at 24 with $65,000 in debt. How she made it back from the brink",
-      "link": "https://finance.yahoo.com/small-business/articles/starting-rock-bottom-woman-filed-092500033.html",
-      "published": "2026-09-17T09:25:00Z",
-      "ts": 1789637100
     }
   ]
 }
