@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T18:10:57.632347Z",
+  "updated": "2026-09-18T18:28:49.127604Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 18:26:00 GMT",
+      "ts": 1789755960
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: Mild bullish bias holds, but trend strength stays weak",
@@ -183,13 +190,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
       "published": "2026-09-18 13:39:48",
       "ts": 1789738788
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 13:39:00 GMT",
-      "ts": 1789738740
     },
     {
       "source": "CoinTelegraph",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Axon Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/axon-stock-underperforming-nasdaq-085804557.html",
-      "published": "2026-09-17T08:58:04Z",
-      "ts": 1789635484
+      "title": "How Is Live Nation Entertainment’s Stock Performance Compared to Other Entertainment Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/live-nation-entertainment-stock-performance-090619228.html",
+      "published": "2026-09-17T09:06:19Z",
+      "ts": 1789635979
     },
     {
       "source": "Yahoo Finance",
-      "title": "Zcash Price Forecast: Bull Flag Breakout Targets $1,865",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-forecast-bull-flag-082115127.html",
-      "published": "2026-09-17T08:21:15Z",
-      "ts": 1789633275
+      "title": "I'm 65 and a High Earner. Is Using My Roth IRA for Home Renovations a Mistake?",
+      "link": "https://finance.yahoo.com/markets/options/articles/im-65-high-earner-dont-135927460.html",
+      "published": "2026-09-17T09:00:00Z",
+      "ts": 1789635600
     }
   ]
 }
