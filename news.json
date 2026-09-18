@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-18T21:09:50.186333Z",
+  "updated": "2026-09-18T21:24:55.612874Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-after-07100-break-202609182116",
+      "published": "Fri, 18 Sep 2026 21:16:51 GMT",
+      "ts": 1789766211
+    },
+    {
+      "source": "MarketWatch",
+      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 21:16:00 GMT",
+      "ts": 1789766160
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+      "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 21:14:00 GMT",
+      "ts": 1789766040
+    },
+    {
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Pre-summit support and firmer bias – DBS",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-pre-summit-support-and-firmer-bias-dbs-202609182112",
+      "published": "Fri, 18 Sep 2026 21:12:00 GMT",
+      "ts": 1789765920
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 21:00:00 +0000",
+      "ts": 1789765200
+    },
     {
       "source": "MarketWatch",
       "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
@@ -80,13 +115,6 @@
       "ts": 1789759130
     },
     {
-      "source": "MarketWatch",
-      "title": "It’s almost impossible to sell a condo these days: ‘I feel trapped’",
-      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 19:11:00 GMT",
-      "ts": 1789758660
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Binance launches 24/7 FX perps with weekend pricing system",
       "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -157,27 +185,6 @@
       "ts": 1789754157
     },
     {
-      "source": "FXStreet",
-      "title": "Gold reclaims its footing as Oil retreat blunts Fed shock",
-      "link": "https://www.fxstreet.com/news/gold-reclaims-its-footing-as-oil-retreat-blunts-fed-shock-202609181744",
-      "published": "Fri, 18 Sep 2026 17:44:21 GMT",
-      "ts": 1789753461
-    },
-    {
-      "source": "MarketWatch",
-      "title": "As Warren Buffett’s reign ends, fans should sell Berkshire — and buy these stocks instead",
-      "link": "https://www.marketwatch.com/story/as-warren-buffetts-reign-ends-fans-should-sell-berkshire-and-buy-these-stocks-instead-bff5ba32?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 17:41:00 GMT",
-      "ts": 1789753260
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc gains against US Dollar, but Fed-SNB divergence weighs",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-against-us-dollar-but-fed-snb-divergence-weighs-202609181736",
-      "published": "Fri, 18 Sep 2026 17:36:58 GMT",
-      "ts": 1789753018
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar weakens against major currencies in the week ending September 18",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-against-major-currencies-in-the-week-ending-september-18-93CH-4907692",
@@ -225,13 +232,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
       "published": "2026-09-18 13:39:48",
       "ts": 1789738788
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 13:34:11 +0000",
-      "ts": 1789738451
     },
     {
       "source": "Investing Crypto",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Believes Sphere Entertainment (SPHR) Is “Amazing”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-sphere-entertainment-113657955.html",
-      "published": "2026-09-17T11:36:57Z",
-      "ts": 1789645017
+      "title": "Ventas Stock: Is VTR Outperforming the Real Estate Sector?",
+      "link": "https://finance.yahoo.com/real-estate/articles/ventas-stock-vtr-outperforming-real-134934587.html",
+      "published": "2026-09-17T13:49:34Z",
+      "ts": 1789652974
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Says He Thinks “You Hold on to Meta”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-thinks-hold-113430552.html",
-      "published": "2026-09-17T11:34:30Z",
-      "ts": 1789644870
+      "title": "Lyft downgraded, Trip.com upgraded: Wall Street's top analyst calls",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-downgraded-trip-com-upgraded-134731474.html",
+      "published": "2026-09-17T13:47:31Z",
+      "ts": 1789652851
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Says He Can’t “Counsel Owning” Honeywell Aerospace (HONA)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-t-counsel-112244525.html",
-      "published": "2026-09-17T11:22:44Z",
-      "ts": 1789644164
+      "title": "Corning’s (GLW) Leadership Advantage in Adapting to Tech Transitions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-leadership-advantage-adapting-134515382.html",
+      "published": "2026-09-17T13:45:15Z",
+      "ts": 1789652715
     }
   ]
 }
