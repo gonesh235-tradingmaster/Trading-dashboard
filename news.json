@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-18T10:26:32.716260Z",
+  "updated": "2026-09-18T10:40:52.243511Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman",
+      "link": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 10:39:00 GMT",
+      "ts": 1789727940
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A sideways market and rising earnings are presenting opportunities not seen since ChatGPT first launched",
+      "link": "https://www.marketwatch.com/story/a-sideways-market-and-rising-earnings-are-presenting-opportunities-not-seen-since-chatgpt-first-launched-0c37f89d?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 10:38:00 GMT",
+      "ts": 1789727880
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+      "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+      "published": "Fri, 18 Sep 2026 10:33:05 +0000",
+      "ts": 1789727585
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc consolidates losses weighed by adverse monetary policy divergence",
@@ -311,13 +332,6 @@
       "ts": 1789688963
     },
     {
-      "source": "CoinDesk",
-      "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
-      "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
-      "published": "Thu, 17 Sep 2026 21:47:22 +0000",
-      "ts": 1789681642
-    },
-    {
       "source": "MarketWatch",
       "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
       "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
@@ -360,20 +374,6 @@
       "ts": 1789676340
     },
     {
-      "source": "MarketWatch",
-      "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
-      "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 20:13:00 GMT",
-      "ts": 1789675980
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
-      "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 19:52:00 GMT",
-      "ts": 1789674720
-    },
-    {
       "source": "CoinTelegraph",
       "title": "CFTC expands regulatory relief for passive trading software providers",
       "link": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -403,17 +403,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Rate rise could exacerbate longstanding problems for the US PE industry",
-      "link": "https://finance.yahoo.com/economy/policy/articles/rate-rise-could-exacerbate-longstanding-222302262.html",
-      "published": "2026-09-16T22:23:02Z",
-      "ts": 1789597382
+      "title": "American Tower (AMT) Priced $1.6 Billion of Notes. Is $88.8 Million a Year Worth Longer Terms?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-tower-amt-priced-1-223539369.html",
+      "published": "2026-09-16T22:35:39Z",
+      "ts": 1789598139
     },
     {
       "source": "Yahoo Finance",
-      "title": "Michael Burry reveals his verdict on the ongoing AI bubble",
-      "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-reveals-verdict-ongoing-221700327.html",
-      "published": "2026-09-16T22:17:00Z",
-      "ts": 1789597020
+      "title": "Fashion’s Green Transition Has a Buyer-Supplier Disconnect",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fashion-green-transition-buyer-supplier-223145655.html",
+      "published": "2026-09-16T22:31:45Z",
+      "ts": 1789597905
     },
     {
       "source": "Investing Crypto",
