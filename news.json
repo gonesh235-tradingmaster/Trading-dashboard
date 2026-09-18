@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T02:10:01.504239Z",
+  "updated": "2026-09-18T02:27:42.604783Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar strengthens on hawkish RBA comments",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-on-hawkish-rba-comments-202609180217",
+      "published": "Fri, 18 Sep 2026 02:17:48 GMT",
+      "ts": 1789697868
+    },
     {
       "source": "FXStreet",
       "title": "British Pound flatlines above 1.3350, UK Retail Sales data in focus",
@@ -71,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/rbas-bullock-at-august-board-meeting-risks-to-outlook-were-skewed-to-the-upside-202609172341",
       "published": "Thu, 17 Sep 2026 23:41:14 GMT",
       "ts": 1789688474
-    },
-    {
-      "source": "FXStreet",
-      "title": "1.9%: Japan’s National CPI steadies in August",
-      "link": "https://www.fxstreet.com/news/19-japans-national-cpi-steadies-in-august-202609172333",
-      "published": "Thu, 17 Sep 2026 23:33:27 GMT",
-      "ts": 1789688007
     },
     {
       "source": "FXStreet",
@@ -382,45 +382,45 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-sits-below-5-as-market-awaits-fed-decision-alphacheck-140528141.html",
-      "published": "2026-09-16T14:05:28Z",
-      "ts": 1789567528
+      "title": "Dollar Posts Modest Gains Ahead of Expected Fed Rate Hike",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-posts-modest-gains-ahead-143354252.html",
+      "published": "2026-09-16T14:33:54Z",
+      "ts": 1789569234
     },
     {
       "source": "Yahoo Finance",
-      "title": "Ray Dalio’s Fund Was Buying These 2 AI Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-fund-buying-2-140527912.html",
-      "published": "2026-09-16T14:05:27Z",
-      "ts": 1789567527
+      "title": "Revolution Medicines’ (RVMD) Promising Clinical Results Signal Potential Paradigm Shift",
+      "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-promising-clinical-143313578.html",
+      "published": "2026-09-16T14:33:13Z",
+      "ts": 1789569193
     },
     {
       "source": "Yahoo Finance",
-      "title": "US homebuilder sentiment drops to 12-month low in September",
-      "link": "https://finance.yahoo.com/news/us-homebuilder-sentiment-drops-12-140214325.html",
-      "published": "2026-09-16T14:02:14Z",
-      "ts": 1789567334
+      "title": "1 Trade to Make Now as the Weakness in Cotton Prices Continues",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/1-trade-now-weakness-cotton-142626135.html",
+      "published": "2026-09-16T14:26:26Z",
+      "ts": 1789568786
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is State Street Corporation Stock Outperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-corporation-stock-outperforming-140143659.html",
-      "published": "2026-09-16T14:01:43Z",
-      "ts": 1789567303
+      "title": "Is PulteGroup Stock Underperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pultegroup-stock-underperforming-p-500-142502646.html",
+      "published": "2026-09-16T14:25:02Z",
+      "ts": 1789568702
     },
     {
       "source": "Yahoo Finance",
-      "title": "Here’s What Dragged Netflix (NFLX) in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dragged-netflix-nflx-q2-140030973.html",
-      "published": "2026-09-16T14:00:30Z",
-      "ts": 1789567230
+      "title": "Billionaire Ray Dalio’s Bridgewater’s and Cathie Wood’s ARK Portfolios: 2 Stocks They Both Own",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ray-dalio-bridgewater-cathie-142413224.html",
+      "published": "2026-09-16T14:24:13Z",
+      "ts": 1789568653
     },
     {
       "source": "Yahoo Finance",
-      "title": "AI and Next-Gen Sequencing Strengthens Twist Bioscience Corp. (TWST)",
-      "link": "https://finance.yahoo.com/healthcare/articles/ai-next-gen-sequencing-strengthens-135904901.html",
-      "published": "2026-09-16T13:59:04Z",
-      "ts": 1789567144
+      "title": "Medline (MDLN) Slips Amid Broader MedTech Weakness",
+      "link": "https://finance.yahoo.com/healthcare/articles/medline-mdln-slips-amid-broader-142122686.html",
+      "published": "2026-09-16T14:21:22Z",
+      "ts": 1789568482
     }
   ]
 }
