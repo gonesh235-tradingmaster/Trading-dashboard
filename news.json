@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-18T17:36:14.135224Z",
+  "updated": "2026-09-18T17:50:14.291421Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold reclaims its footing as Oil retreat blunts Fed shock",
+      "link": "https://www.fxstreet.com/news/gold-reclaims-its-footing-as-oil-retreat-blunts-fed-shock-202609181744",
+      "published": "Fri, 18 Sep 2026 17:44:21 GMT",
+      "ts": 1789753461
+    },
+    {
+      "source": "MarketWatch",
+      "title": "As Warren Buffett’s reign ends, fans should sell Berkshire — and buy these stocks instead",
+      "link": "https://www.marketwatch.com/story/as-warren-buffetts-reign-ends-fans-should-sell-berkshire-and-buy-these-stocks-instead-bff5ba32?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 17:41:00 GMT",
+      "ts": 1789753260
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc gains against US Dollar, but Fed-SNB divergence weighs",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-against-us-dollar-but-fed-snb-divergence-weighs-202609181736",
+      "published": "Fri, 18 Sep 2026 17:36:58 GMT",
+      "ts": 1789753018
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says He “Would Be a Buyer Right Here, Right Now” of Nokia (NOK)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buyer-now-173333902.html",
+      "published": "2026-09-18T17:33:33Z",
+      "ts": 1789752813
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nike lost its blue-chip badge but not its swagger",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-lost-blue-chip-badge-173300242.html",
+      "published": "2026-09-18T17:33:00Z",
+      "ts": 1789752780
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Disney names Karandeep Anand as first-ever CTO",
+      "link": "https://finance.yahoo.com/technology/articles/disney-names-karandeep-anand-first-173120309.html",
+      "published": "2026-09-18T17:31:20Z",
+      "ts": 1789752680
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer on CoreWeave (CRWV): “I Think It’s Going to Be Okay to Buy”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-coreweave-crwv-think-172910718.html",
+      "published": "2026-09-18T17:29:10Z",
+      "ts": 1789752550
+    },
     {
       "source": "FXStreet",
       "title": "Dollar Index nudges to a fresh high and slips back as Japan raises rates",
@@ -11,24 +60,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-      "link": "https://finance.yahoo.com/healthcare/articles/biotech-stock-too-cheap-ignore-172000522.html",
-      "published": "2026-09-18T17:20:00Z",
-      "ts": 1789752000
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Jim Cramer Says AI Could Make Okta’s Security Software More Essential",
       "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-says-ai-could-171508518.html",
       "published": "2026-09-18T17:15:08Z",
       "ts": 1789751708
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Fed Just Raised Rates for the First Time in Three Years. History Says This Is What Comes Next.",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-just-raised-rates-first-171202240.html",
-      "published": "2026-09-18T17:12:02Z",
-      "ts": 1789751522
     },
     {
       "source": "Yahoo Finance",
@@ -64,27 +99,6 @@
       "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 17:02:00 GMT",
       "ts": 1789750920
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Coca-Cola Bets $10 Billion on U.S. Infrastructure to Drive Growth",
-      "link": "https://finance.yahoo.com/economy/policy/articles/coca-cola-bets-10-billion-170127971.html",
-      "published": "2026-09-18T17:01:27Z",
-      "ts": 1789750887
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "General Motors (GM) Bets on Software to Strengthen its Pickup Truck Franchise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-bets-software-170012082.html",
-      "published": "2026-09-18T17:00:12Z",
-      "ts": 1789750812
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Carter’s (CRI) Rebrands for Younger Parents as Sales Momentum Builds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/carter-cri-rebrands-younger-parents-165846295.html",
-      "published": "2026-09-18T16:58:46Z",
-      "ts": 1789750726
     },
     {
       "source": "FXStreet",
@@ -206,20 +220,6 @@
       "ts": 1789743841
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound: Retail rebound but BoE risks – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-retail-rebound-but-boe-risks-bbh-202609181443",
-      "published": "Fri, 18 Sep 2026 14:43:30 GMT",
-      "ts": 1789742610
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar dips as Fed, US yields support the US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-fed-us-yields-support-the-us-dollar-202609181443",
-      "published": "Fri, 18 Sep 2026 14:43:17 GMT",
-      "ts": 1789742597
-    },
-    {
       "source": "MarketWatch",
       "title": "Travis Kelce and others lost millions in a Ponzi scheme. Here’s what a basic index fund would have earned them instead.",
       "link": "https://www.marketwatch.com/story/travis-kelce-and-others-lost-millions-in-a-ponzi-scheme-heres-what-a-basic-index-fund-would-have-earned-them-instead-c1ee3bd6?mod=mw_rss_topstories",
@@ -253,13 +253,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 13:34:11 +0000",
       "ts": 1789738451
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How can I get my employees to stop oversharing at work?",
-      "link": "https://www.marketwatch.com/story/how-can-i-get-my-employees-to-stop-oversharing-at-work-540ba78c?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 13:32:00 GMT",
-      "ts": 1789738320
     },
     {
       "source": "Investing Crypto",
@@ -421,6 +414,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
       "published": "Fri, 18 Sep 2026 07:37:32 +0000",
       "ts": 1789717052
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates at $77,612 with breakout imminent: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-18 07:11:59",
+      "ts": 1789715519
     }
   ]
 }
