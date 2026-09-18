@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-18T23:24:42.097480Z",
+  "updated": "2026-09-18T23:37:27.380479Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Taiwan Dollar: CBC holds rates but flags inflation risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-cbc-holds-rates-but-flags-inflation-risks-commerzbank-202609182332",
+      "published": "Fri, 18 Sep 2026 23:32:00 GMT",
+      "ts": 1789774320
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 23:30:00 GMT",
+      "ts": 1789774200
+    },
+    {
+      "source": "FXStreet",
+      "title": "South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/south-korean-won-foreign-equity-flows-keep-krw-heavy-against-us-dollar-ocbc-202609182327",
+      "published": "Fri, 18 Sep 2026 23:27:00 GMT",
+      "ts": 1789774020
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank",
@@ -162,27 +183,6 @@
       "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 19:06:30 +0000",
       "ts": 1789758390
-    },
-    {
-      "source": "FXStreet",
-      "title": "10-year Treasury yield rises back to 5% as global tightening wave pushes",
-      "link": "https://www.fxstreet.com/news/us-10-year-back-at-5-as-global-tightening-wave-pushes-202609181903",
-      "published": "Fri, 18 Sep 2026 19:03:12 GMT",
-      "ts": 1789758192
-    },
-    {
-      "source": "FXStreet",
-      "title": "Eurozone: Energy shock reshapes outlook – Rabobank",
-      "link": "https://www.fxstreet.com/news/eurozone-energy-shock-reshapes-outlook-rabobank-202609181858",
-      "published": "Fri, 18 Sep 2026 18:58:47 GMT",
-      "ts": 1789757927
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 18:30:00 GMT",
-      "ts": 1789756200
     },
     {
       "source": "CoinTelegraph",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Assemblin Caverion prints €1.5B floating-rate note in bumper day for European high yield",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/assemblin-caverion-prints-1-5b-162749040.html",
-      "published": "2026-09-17T16:27:49Z",
-      "ts": 1789662469
+      "title": "Lululemon (LULU) Cuts its Outlook Again Just as a New CEO Walks through the Door",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-cuts-outlook-again-164209283.html",
+      "published": "2026-09-17T16:42:09Z",
+      "ts": 1789663329
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corning Just Signed a Multibillion-Dollar Fiber Deal for AI and Broadband With Verizon. What That Means for GLW Stock.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/corning-just-signed-multibillion-dollar-162101149.html",
-      "published": "2026-09-17T16:21:01Z",
-      "ts": 1789662061
+      "title": "Rackspace’s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-nvidia-partnership-sparks-early-163851620.html",
+      "published": "2026-09-17T16:38:51Z",
+      "ts": 1789663131
     },
     {
       "source": "Yahoo Finance",
-      "title": "3 Dividend Stocks to Buy Now With Yields Over 3%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-buy-now-161200713.html",
-      "published": "2026-09-17T16:12:00Z",
-      "ts": 1789661520
+      "title": "Meta (META) Overhauls Instagram and Facebook for Teens after its $17 Billion Settlement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-overhauls-instagram-facebook-163514422.html",
+      "published": "2026-09-17T16:35:14Z",
+      "ts": 1789662914
     }
   ]
 }
