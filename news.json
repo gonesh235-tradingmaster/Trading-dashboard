@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T00:13:49.146023Z",
+  "updated": "2026-09-18T00:35:39.474071Z",
   "count": 60,
   "items": [
     {
@@ -46,7 +46,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Bank of Japan is set to raise interest rates as inflation, economic growth support tighter policy",
+      "title": "Bank of Japan is set to raise interest rates as inflation pressures build",
       "link": "https://www.fxstreet.com/news/bank-of-japan-is-expected-to-deliver-a-hawkish-hike-pressured-by-rising-inflation-202609172200",
       "published": "Thu, 17 Sep 2026 22:00:00 GMT",
       "ts": 1789682400
@@ -367,41 +367,6 @@
       "ts": 1789577260
     },
     {
-      "source": "Yahoo Finance",
-      "title": "LuxExperience B.V. Q4 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/luxexperience-b-v-q4-2026-164738799.html",
-      "published": "2026-09-16T16:47:38Z",
-      "ts": 1789577258
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Guardant Health Nears Buy Point As Sales Outlook Brightens",
-      "link": "https://www.investors.com/research/cancer-stock-guardant-health-gh/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T16:39:37Z",
-      "ts": 1789576777
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Zimmer Biomet Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zimmer-biomet-stock-underperforming-nasdaq-163755218.html",
-      "published": "2026-09-16T16:37:55Z",
-      "ts": 1789576675
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ORCL Stock Layoffs: What to Know About the Latest Oracle Job Cuts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-layoffs-know-latest-163322999.html",
-      "published": "2026-09-16T16:33:22Z",
-      "ts": 1789576402
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Australia’s infrastructure puts steel supply under pressure",
-      "link": "https://finance.yahoo.com/energy/articles/australia-infrastructure-puts-steel-supply-163106803.html",
-      "published": "2026-09-16T16:31:06Z",
-      "ts": 1789576266
-    },
-    {
       "source": "Investing Crypto",
       "title": "SEC chief vows action on crypto rules after Senate bill fails",
       "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
@@ -409,18 +374,53 @@
       "ts": 1789575611
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Diesel Price Predictions: How Much Higher Prices Can Go as Diesel Prices Top Record $6 Per Gallon",
-      "link": "https://finance.yahoo.com/energy/articles/diesel-price-predictions-much-higher-161226017.html",
-      "published": "2026-09-16T16:12:26Z",
-      "ts": 1789575146
+      "source": "Investing Crypto",
+      "title": "Coinbase cuts trading fees for active users on Advanced platform",
+      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
+      "published": "2026-09-16 14:56:02",
+      "ts": 1789570562
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
+      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
+      "published": "2026-09-16 13:44:48",
+      "ts": 1789566288
     },
     {
       "source": "Yahoo Finance",
-      "title": "Salesforce Stock Dips Ahead Of Investor Briefing Amid System Outage",
-      "link": "https://www.investors.com/news/technology/salesforce-stock-dips-ahead-of-investor-briefing-amid-system-outage/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T16:11:26Z",
-      "ts": 1789575086
+      "title": "Is DTE Energy Stock Underperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dte-energy-stock-underperforming-dow-124602615.html",
+      "published": "2026-09-16T12:46:02Z",
+      "ts": 1789562762
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Seattle single-income mom homeschooling her kids discovers she owns $18M in one stock. What Dave Ramsey says to do next",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/seattle-single-income-mom-homeschooling-124500141.html",
+      "published": "2026-09-16T12:45:00Z",
+      "ts": 1789562700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Soybean Gains Extending to Wednesday Morning",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/soybean-gains-extending-wednesday-morning-123944074.html",
+      "published": "2026-09-16T12:39:44Z",
+      "ts": 1789562384
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "LyondellBasell (LYB) Retraces Amid Shifting Commodity Sentiment",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-retraces-amid-shifting-123131175.html",
+      "published": "2026-09-16T12:31:31Z",
+      "ts": 1789561891
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Alphabet (GOOG) Surges 24% as Revenue Growth Soars — But Is $190 Billion in Capex Too Much?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-24-revenue-123012360.html",
+      "published": "2026-09-16T12:30:12Z",
+      "ts": 1789561812
     }
   ]
 }
