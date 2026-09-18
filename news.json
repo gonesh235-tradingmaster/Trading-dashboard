@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T03:52:45.533022Z",
+  "updated": "2026-09-18T04:10:16.817129Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar steadies as softer US bond yields keep USD on the defensive",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-as-softer-us-bond-yields-keep-usd-on-the-defensive-202609180402",
+      "published": "Fri, 18 Sep 2026 04:02:49 GMT",
+      "ts": 1789704169
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar rises against Japanese Yen as BOJ raises policy rate to the highest since 1995",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-against-japanese-yen-as-boj-raises-policy-rate-to-the-highest-since-1995-202609180352",
+      "published": "Fri, 18 Sep 2026 03:52:34 GMT",
+      "ts": 1789703554
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index trades firmly above 100.00 while approaching to weekend",
@@ -22,6 +36,13 @@
       "link": "https://www.fxstreet.com/news/euro-gains-momentum-against-japanese-yen-as-boj-aligns-on-rate-hikes-202609180340",
       "published": "Fri, 18 Sep 2026 03:40:26 GMT",
       "ts": 1789702826
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 12% In Bullish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4906656",
+      "published": "2026-09-18 03:36:04",
+      "ts": 1789702564
     },
     {
       "source": "FXStreet",
@@ -71,20 +92,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-on-hawkish-rba-comments-202609180217",
       "published": "Fri, 18 Sep 2026 02:17:48 GMT",
       "ts": 1789697868
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound flatlines above 1.3350, UK Retail Sales data in focus",
-      "link": "https://www.fxstreet.com/news/british-pound-flatlines-above-13350-uk-retail-sales-data-in-focus-202609180147",
-      "published": "Fri, 18 Sep 2026 01:47:39 GMT",
-      "ts": 1789696059
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar bears retain control near August 7 low amid US-Canada rate gap/trade war",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bears-retain-control-near-august-7-low-amid-us-canada-rate-gap-trade-war-202609180145",
-      "published": "Fri, 18 Sep 2026 01:45:30 GMT",
-      "ts": 1789695930
     },
     {
       "source": "CoinTelegraph",
@@ -382,6 +389,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Salesforce Stock Dips Ahead Of Investor Briefing Amid System Outage",
+      "link": "https://www.investors.com/news/technology/salesforce-stock-dips-ahead-of-investor-briefing-amid-system-outage/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T16:11:26Z",
+      "ts": 1789575086
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
       "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo",
       "published": "2026-09-16T16:10:31Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-stock-underperforming-p-155958681.html",
       "published": "2026-09-16T15:59:58Z",
       "ts": 1789574398
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Aptiv (APTV) Turns Chip Partnerships Into A Physical AI Bet",
-      "link": "https://finance.yahoo.com/technology/ai/articles/aptiv-aptv-turns-chip-partnerships-155643163.html",
-      "published": "2026-09-16T15:56:43Z",
-      "ts": 1789574203
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Despite Robust Growth, CoreWeave Remains Unattractive on Leveraging and Margin Contraction",
-      "link": "https://finance.yahoo.com/technology/ai/articles/despite-robust-growth-coreweave-remains-155408176.html",
-      "published": "2026-09-16T15:54:08Z",
-      "ts": 1789574048
     }
   ]
 }
