@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-18T13:40:32.454995Z",
+  "updated": "2026-09-18T13:52:36.770823Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "European Central Bank: Quarterly hikes still baseline – Nordea",
+      "link": "https://www.fxstreet.com/news/european-central-bank-quarterly-hikes-still-baseline-nordea-202609181350",
+      "published": "Fri, 18 Sep 2026 13:50:19 GMT",
+      "ts": 1789739419
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro heads for weekly loss against US Dollar on hawkish Fed outlook",
+      "link": "https://www.fxstreet.com/news/euro-heads-for-weekly-loss-against-us-dollar-on-hawkish-fed-outlook-202609181344",
+      "published": "Fri, 18 Sep 2026 13:44:03 GMT",
+      "ts": 1789739043
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 13:39:00 GMT",
+      "ts": 1789738740
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 13:34:11 +0000",
+      "ts": 1789738451
+    },
     {
       "source": "MarketWatch",
       "title": "How can I get my employees to stop oversharing at work?",
@@ -136,25 +164,11 @@
       "ts": 1789733435
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD extends recovery above $67.00 as yields fall",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-recovery-above-6700-as-yields-fall-202609181201",
-      "published": "Fri, 18 Sep 2026 12:01:21 GMT",
-      "ts": 1789732881
-    },
-    {
       "source": "CoinTelegraph",
       "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
       "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 11:54:24 +0000",
       "ts": 1789732464
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Fresh downside likely if sustain below 1.1455",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-fresh-downside-likely-if-sustain-below-11455-202609181152",
-      "published": "Fri, 18 Sep 2026 11:52:16 GMT",
-      "ts": 1789732336
     },
     {
       "source": "MarketWatch",
@@ -213,13 +227,6 @@
       "ts": 1789727585
     },
     {
-      "source": "MarketWatch",
-      "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
-      "link": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 10:08:00 GMT",
-      "ts": 1789726080
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
       "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
@@ -228,7 +235,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin climbs above $78,000 early Friday",
+      "title": "Live updates: Bitcoin climbs over $80,000 as rally accelerates at U.S. market open",
       "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
       "published": "Fri, 18 Sep 2026 09:49:51 +0000",
       "ts": 1789724991
@@ -330,13 +337,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
       "published": "Fri, 18 Sep 2026 06:16:57 +0000",
       "ts": 1789712217
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 06:00:00 +0000",
-      "ts": 1789711200
     },
     {
       "source": "Investing Forex",
