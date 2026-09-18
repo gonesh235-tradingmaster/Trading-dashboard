@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-18T16:39:09.320854Z",
+  "updated": "2026-09-18T16:50:48.809470Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
+      "link": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 16:39:00 GMT",
+      "ts": 1789749540
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "1 Incredible Reason to Buy Costco Stock Before It Reports Earnings on Sept. 24.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-incredible-reason-buy-costco-163500644.html",
+      "published": "2026-09-18T16:35:00Z",
+      "ts": 1789749300
+    },
     {
       "source": "MarketWatch",
       "title": "Two signs investors don’t have to fear an AI slowdown",
       "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 16:33:00 GMT",
       "ts": 1789749180
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Expect Today's Earnings Drivers to Sour, Goldman Strategists Warn",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091826/card/expect-today-s-earnings-drivers-to-sour-goldman-strategists-warn-B6NvAsVd0xmFwxeLZNKB?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-18T16:28:06Z",
+      "ts": 1789748886
     },
     {
       "source": "MarketWatch",
@@ -18,17 +39,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "JPMorgan says one asset class could soon beat gold",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-says-one-asset-class-161836916.html",
-      "published": "2026-09-18T16:18:36Z",
-      "ts": 1789748316
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Micron Just Built One Memory Stick That Replaces Four. Is MU Stock a Buy?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-just-built-one-memory-161647407.html",
-      "published": "2026-09-18T16:16:47Z",
-      "ts": 1789748207
+      "title": "Jim Cramer Says to Wait For Corning (GLW) to Fall Further",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wait-corning-162201204.html",
+      "published": "2026-09-18T16:22:01Z",
+      "ts": 1789748521
     },
     {
       "source": "MarketWatch",
@@ -115,13 +129,6 @@
       "ts": 1789745255
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Gold Stock Franco-Nevada Flashes Strength Amid Rate-Hike Woes",
-      "link": "https://www.investors.com/stock-lists/sector-leaders/gold-stock-franco-nevada-fnv/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T15:22:48Z",
-      "ts": 1789744968
-    },
-    {
       "source": "CoinDesk",
       "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
       "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
@@ -141,13 +148,6 @@
       "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 15:14:00 GMT",
       "ts": 1789744440
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What are the requirements for private student loans?",
-      "link": "https://finance.yahoo.com/news/qualify-private-student-loan-212942539.html",
-      "published": "2026-09-18T15:12:46Z",
-      "ts": 1789744366
     },
     {
       "source": "CoinDesk",
@@ -241,13 +241,6 @@
       "ts": 1789738200
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 13:29:00 GMT",
-      "ts": 1789738140
-    },
-    {
       "source": "Investing Crypto",
       "title": "Why is Bitcoin US Dollar stock climbing today?",
       "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
@@ -337,6 +330,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
       "published": "Fri, 18 Sep 2026 10:07:33 +0000",
       "ts": 1789726053
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mortgage and refinance interest rates today, Friday, September 18, 2026: Rates climb above 7%",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-18-2026-rates-climb-above-7-100000327.html",
+      "published": "2026-09-18T10:00:00Z",
+      "ts": 1789725600
     },
     {
       "source": "CoinDesk",
