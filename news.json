@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T07:10:20.281242Z",
+  "updated": "2026-09-18T07:26:35.083695Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates at $77,612 with breakout imminent: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-18 07:11:59",
+      "ts": 1789715519
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Dovish BoJ hike keeps Yen vulnerable – ING",
+      "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-keeps-yen-vulnerable-ing-202609180711",
+      "published": "Fri, 18 Sep 2026 07:11:38 GMT",
+      "ts": 1789715498
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen struggles near two-week low vs USD after BoJ Governor Ueda’s comments",
@@ -66,13 +80,6 @@
       "ts": 1789713547
     },
     {
-      "source": "FXStreet",
-      "title": "Oil: Prices fall as supply risks reassessed – MUFG",
-      "link": "https://www.fxstreet.com/news/oil-prices-fall-as-supply-risks-reassessed-mufg-202609180628",
-      "published": "Fri, 18 Sep 2026 06:28:10 GMT",
-      "ts": 1789712890
-    },
-    {
       "source": "CoinDesk",
       "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
       "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
@@ -99,6 +106,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
       "published": "Fri, 18 Sep 2026 05:43:21 +0000",
       "ts": 1789710201
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee gets relief from pause in US yields and oil price rally",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
+      "published": "Fri, 18 Sep 2026 05:35:20 GMT",
+      "ts": 1789709720
     },
     {
       "source": "CoinDesk",
@@ -155,13 +169,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4906656",
       "published": "2026-09-18 03:36:04",
       "ts": 1789702564
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold advances to fresh weekly top; eyes $$4,400 as softer US bond yields cap USD gains",
-      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-hawkish-fed-and-middle-east-jitters-limit-usd-downside-202609180321",
-      "published": "Fri, 18 Sep 2026 03:21:07 GMT",
-      "ts": 1789701667
     },
     {
       "source": "CoinDesk",
@@ -283,13 +290,6 @@
       "ts": 1789673072
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin trapped in $75K-$77K range on 5h chart: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-17 19:18:50",
-      "ts": 1789672730
-    },
-    {
       "source": "MarketWatch",
       "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
       "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
@@ -382,45 +382,45 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Two Low-Profile AI Data-Center Innovators That Investors Should Watch",
-      "link": "https://www.investors.com/news/ai-data-centers-neocloud-oracle-microsoft-joulent-crusoe/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T19:22:17Z",
-      "ts": 1789586537
+      "title": "The Fed's Hawkish Pivot Didn't Fix The 10-Year Yield; S&P 500 Slides",
+      "link": "https://www.investors.com/news/federal-reserve-meeting-sept-warsh-10-year-treasury-yield-sp-500/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T19:33:41Z",
+      "ts": 1789587221
     },
     {
       "source": "Yahoo Finance",
-      "title": "Crude Oil Prices Sharply Lower as Middle East Disruptions Ease",
-      "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-lower-191614521.html",
-      "published": "2026-09-16T19:16:14Z",
-      "ts": 1789586174
+      "title": "Instant View: Stocks pull back after Fed raises rates, points to another hike this year",
+      "link": "https://finance.yahoo.com/economy/policy/articles/markets-steady-fed-raises-rates-182216095.html",
+      "published": "2026-09-16T19:32:22Z",
+      "ts": 1789587142
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nat-Gas Prices Slip as European Gas Prices Retreat",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-slip-european-191503600.html",
-      "published": "2026-09-16T19:15:03Z",
-      "ts": 1789586103
+      "title": "Amazon Business Hits $60B: What Shippers Should Notice",
+      "link": "https://finance.yahoo.com/small-business/articles/amazon-business-hits-60b-shippers-193055376.html",
+      "published": "2026-09-16T19:30:55Z",
+      "ts": 1789587055
     },
     {
       "source": "Yahoo Finance",
-      "title": "Container shipping fuel prices remain elevated as supply fears ease",
-      "link": "https://finance.yahoo.com/energy/articles/container-shipping-fuel-prices-remain-190952235.html",
-      "published": "2026-09-16T19:09:52Z",
-      "ts": 1789585792
+      "title": "Mortgage rates jump, approach 7%",
+      "link": "https://finance.yahoo.com/real-estate/articles/mortgage-rates-jump-approach-7-193000830.html",
+      "published": "2026-09-16T19:30:00Z",
+      "ts": 1789587000
     },
     {
       "source": "Yahoo Finance",
-      "title": "Union Pacific upgraded to Buy by UBS on stronger 2027 growth outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-upgraded-buy-ubs-185900505.html",
-      "published": "2026-09-16T18:59:00Z",
-      "ts": 1789585140
+      "title": "How Highway Sees Fraud, Risk and Carrier Vetting",
+      "link": "https://finance.yahoo.com/small-business/articles/highway-sees-fraud-risk-carrier-192844408.html",
+      "published": "2026-09-16T19:28:44Z",
+      "ts": 1789586924
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Franklin Templeton Thinks Wall Street Is Underestimating Crypto’s Impact",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/why-franklin-templeton-thinks-wall-185700541.html",
-      "published": "2026-09-16T18:57:00Z",
-      "ts": 1789585020
+      "title": "What is the average personal loan rate for September 2026?",
+      "link": "https://finance.yahoo.com/markets/articles/average-personal-loan-interest-rate-005856676.html",
+      "published": "2026-09-16T19:25:09Z",
+      "ts": 1789586709
     }
   ]
 }
