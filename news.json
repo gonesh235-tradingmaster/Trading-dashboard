@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T18:43:45.365467Z",
+  "updated": "2026-09-18T18:54:14.449949Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 18:46:00 GMT",
+      "ts": 1789757160
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Stabilization after FOMC volatility – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-stabilization-after-fomc-volatility-scotiabank-202609181844",
+      "published": "Fri, 18 Sep 2026 18:44:35 GMT",
+      "ts": 1789757075
+    },
     {
       "source": "MarketWatch",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
@@ -155,20 +169,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
       "published": "Fri, 18 Sep 2026 15:16:37 +0000",
       "ts": 1789744597
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: Technical setup favours further gains above 100",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-technical-setup-favours-further-gains-above-100-202609181516",
-      "published": "Fri, 18 Sep 2026 15:16:00 GMT",
-      "ts": 1789744560
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Many young investors can’t afford to invest without their parents’ help",
-      "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 15:14:00 GMT",
-      "ts": 1789744440
     },
     {
       "source": "CoinDesk",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is Live Nation Entertainment’s Stock Performance Compared to Other Entertainment Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/live-nation-entertainment-stock-performance-090619228.html",
-      "published": "2026-09-17T09:06:19Z",
-      "ts": 1789635979
+      "title": "Is Invitation Homes Stock Underperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/invitation-homes-stock-underperforming-p-092714807.html",
+      "published": "2026-09-17T09:27:14Z",
+      "ts": 1789637234
     },
     {
       "source": "Yahoo Finance",
-      "title": "I'm 65 and a High Earner. Is Using My Roth IRA for Home Renovations a Mistake?",
-      "link": "https://finance.yahoo.com/markets/options/articles/im-65-high-earner-dont-135927460.html",
-      "published": "2026-09-17T09:00:00Z",
-      "ts": 1789635600
+      "title": "‘Starting at rock bottom’: Woman filed for bankruptcy at 24 with $65,000 in debt. How she made it back from the brink",
+      "link": "https://finance.yahoo.com/small-business/articles/starting-rock-bottom-woman-filed-092500033.html",
+      "published": "2026-09-17T09:25:00Z",
+      "ts": 1789637100
     }
   ]
 }
