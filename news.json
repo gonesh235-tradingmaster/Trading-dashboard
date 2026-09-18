@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T05:24:47.073074Z",
+  "updated": "2026-09-18T05:38:59.919749Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee rebounds as rally in US yields and oil prices hits a pause",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
+      "published": "Fri, 18 Sep 2026 05:35:20 GMT",
+      "ts": 1789709720
+    },
     {
       "source": "CoinDesk",
       "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
@@ -155,13 +162,6 @@
       "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 23:49:23 +0000",
       "ts": 1789688963
-    },
-    {
-      "source": "FXStreet",
-      "title": "Bank of Japan raises interest rate by 25 bps to 1.25%, as expected",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-is-expected-to-deliver-a-hawkish-hike-pressured-by-rising-inflation-202609172200",
-      "published": "Thu, 17 Sep 2026 22:00:00 GMT",
-      "ts": 1789682400
     },
     {
       "source": "CoinDesk",
@@ -389,6 +389,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "This Dividend Stock Is Staging a Turnaround in 2026 and Pays More Than 2.4%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-staging-turnaround-2026-182206216.html",
+      "published": "2026-09-16T18:22:06Z",
+      "ts": 1789582926
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The 1 Metric That Separates Joby From Archer in the Race to FAA Certification",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-metric-separates-joby-archer-175000750.html",
+      "published": "2026-09-16T17:50:00Z",
+      "ts": 1789581000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A Rivian Insider Sells 15,000 Shares for $244,000 Amid a CFO Transition",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-insider-sells-15-000-174802425.html",
+      "published": "2026-09-16T17:48:02Z",
+      "ts": 1789580882
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Here Is How to Play Corning Stock After Its Dilution Scare",
       "link": "https://finance.yahoo.com/markets/stocks/articles/play-corning-stock-dilution-scare-174734596.html",
       "published": "2026-09-16T17:47:34Z",
@@ -396,31 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nick Timiraos | An Expected Fed Rate Increase Raises a Harder Question: How Many More?",
-      "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/nick-timiraos-an-expected-fed-rate-increase-raises-a-harder-question-how-many-more--shvQ8tACf3AqXhpo3CWf?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-16T17:37:58Z",
-      "ts": 1789580278
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Tesla Is Expanding Into Vietnam to Capture Growing EV Demand. What This Actually Means for TSLA Stock.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-expanding-vietnam-capture-growing-173529819.html",
       "published": "2026-09-16T17:35:29Z",
       "ts": 1789580129
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-dfc-approves-500-million-173355620.html",
-      "published": "2026-09-16T17:33:55Z",
-      "ts": 1789580035
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Palantir, Microsoft’s biggest warning gets real for AI stocks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-microsoft-biggest-warning-gets-173300865.html",
-      "published": "2026-09-16T17:33:00Z",
-      "ts": 1789579980
     }
   ]
 }
