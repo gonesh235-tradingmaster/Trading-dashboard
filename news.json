@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T02:27:42.604783Z",
+  "updated": "2026-09-18T02:42:06.279598Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Climbs 10% In Bullish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4906628",
+      "published": "2026-09-18 02:27:02",
+      "ts": 1789698422
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar strengthens on hawkish RBA comments",
@@ -382,45 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dollar Posts Modest Gains Ahead of Expected Fed Rate Hike",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-posts-modest-gains-ahead-143354252.html",
-      "published": "2026-09-16T14:33:54Z",
-      "ts": 1789569234
+      "title": "US Politicians Are Buying These Two Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-politicians-buying-two-stocks-144637200.html",
+      "published": "2026-09-16T14:46:37Z",
+      "ts": 1789569997
     },
     {
       "source": "Yahoo Finance",
-      "title": "Revolution Medicines’ (RVMD) Promising Clinical Results Signal Potential Paradigm Shift",
-      "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-promising-clinical-143313578.html",
-      "published": "2026-09-16T14:33:13Z",
-      "ts": 1789569193
+      "title": "Dave & Buster’s (PLAY) Bets On New Leaders To Reverse Its Slide",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-buster-play-bets-leaders-144539009.html",
+      "published": "2026-09-16T14:45:39Z",
+      "ts": 1789569939
     },
     {
       "source": "Yahoo Finance",
-      "title": "1 Trade to Make Now as the Weakness in Cotton Prices Continues",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/1-trade-now-weakness-cotton-142626135.html",
-      "published": "2026-09-16T14:26:26Z",
-      "ts": 1789568786
+      "title": "Comfort Systems USA (FIX) Positioned to Benefit from Accelerated AI Investment",
+      "link": "https://finance.yahoo.com/technology/ai/articles/comfort-systems-usa-fix-positioned-144523131.html",
+      "published": "2026-09-16T14:45:23Z",
+      "ts": 1789569923
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is PulteGroup Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pultegroup-stock-underperforming-p-500-142502646.html",
-      "published": "2026-09-16T14:25:02Z",
-      "ts": 1789568702
+      "title": "Why Binance Is Dipping Its Toes Into TradFi",
+      "link": "https://finance.yahoo.com/markets/options/articles/why-binance-dipping-toes-tradfi-144215301.html",
+      "published": "2026-09-16T14:42:15Z",
+      "ts": 1789569735
     },
     {
       "source": "Yahoo Finance",
-      "title": "Billionaire Ray Dalio’s Bridgewater’s and Cathie Wood’s ARK Portfolios: 2 Stocks They Both Own",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ray-dalio-bridgewater-cathie-142413224.html",
-      "published": "2026-09-16T14:24:13Z",
-      "ts": 1789568653
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Medline (MDLN) Slips Amid Broader MedTech Weakness",
-      "link": "https://finance.yahoo.com/healthcare/articles/medline-mdln-slips-amid-broader-142122686.html",
-      "published": "2026-09-16T14:21:22Z",
-      "ts": 1789568482
+      "title": "The Fund Exited Insmed (INSM) After the Investment Thesis Played Out",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-exited-insmed-insm-investment-144040894.html",
+      "published": "2026-09-16T14:40:40Z",
+      "ts": 1789569640
     }
   ]
 }
