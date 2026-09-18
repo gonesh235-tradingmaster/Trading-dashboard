@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T01:24:59.028722Z",
+  "updated": "2026-09-18T01:38:02.366660Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI drops as Middle East supply fears ease",
+      "link": "https://www.fxstreet.com/news/wti-drops-as-middle-east-supply-fears-ease-202609180127",
+      "published": "Fri, 18 Sep 2026 01:27:50 GMT",
+      "ts": 1789694870
+    },
     {
       "source": "FXStreet",
       "title": "PBOC sets USD/CNY reference rate at 6.7521 vs. 6.7580 previous",
@@ -80,18 +87,25 @@
       "ts": 1789681642
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Spinning tops warn bulls near 180.00",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-spinning-tops-warn-bulls-near-18000-202609172144",
-      "published": "Thu, 17 Sep 2026 21:44:51 GMT",
-      "ts": 1789681491
-    },
-    {
       "source": "CoinDesk",
       "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
       "link": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
       "published": "Thu, 17 Sep 2026 21:28:35 +0000",
       "ts": 1789680515
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
+      "ts": 1789680120
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
+      "ts": 1789680120
     },
     {
       "source": "Investing Crypto",
@@ -101,11 +115,46 @@
       "ts": 1789679951
     },
     {
+      "source": "MarketWatch",
+      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+      "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:09:00 GMT",
+      "ts": 1789679340
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 20:44:00 +0000",
       "ts": 1789677840
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
+      "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:23:00 GMT",
+      "ts": 1789676580
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
+      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:19:00 GMT",
+      "ts": 1789676340
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
+      "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:13:00 GMT",
+      "ts": 1789675980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 19:52:00 GMT",
+      "ts": 1789674720
     },
     {
       "source": "CoinTelegraph",
@@ -129,6 +178,20 @@
       "ts": 1789672730
     },
     {
+      "source": "MarketWatch",
+      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 19:07:00 GMT",
+      "ts": 1789672020
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
+      "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 18:46:00 GMT",
+      "ts": 1789670760
+    },
+    {
       "source": "CoinDesk",
       "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
       "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
@@ -141,6 +204,13 @@
       "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
       "published": "Thu, 17 Sep 2026 18:38:10 +0000",
       "ts": 1789670290
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
+      "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 17:42:00 GMT",
+      "ts": 1789666920
     },
     {
       "source": "CoinTelegraph",
@@ -311,6 +381,13 @@
       "ts": 1789570562
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Investor Fears of AI Disintermediation Weigh on Accenture (ACN) Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investor-fears-ai-disintermediation-weigh-134808888.html",
+      "published": "2026-09-16T13:48:08Z",
+      "ts": 1789566488
+    },
+    {
       "source": "Investing Crypto",
       "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
@@ -319,108 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Amazon, Walmart and Target Forecast: Retail Stocks Test Key Levels",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-walmart-target-forecast-retail-133115158.html",
-      "published": "2026-09-16T13:31:15Z",
-      "ts": 1789565475
+      "title": "Jim Cramer Says Brinker (EAT) “Never Fails to Wow Me”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-brinker-eat-134344027.html",
+      "published": "2026-09-16T13:43:44Z",
+      "ts": 1789566224
     },
     {
       "source": "Yahoo Finance",
-      "title": "Lopsided Stock Market Momentum Suggests This is the Top… or the Buying Opportunity of the Century",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lopsided-stock-market-momentum-suggests-133002553.html",
-      "published": "2026-09-16T13:30:02Z",
-      "ts": 1789565402
+      "title": "NVR Stock: Is NVR Underperforming the Consumer Cyclical Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvr-stock-nvr-underperforming-consumer-133902769.html",
+      "published": "2026-09-16T13:39:02Z",
+      "ts": 1789565942
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Bull Case for Netflix’s (NFLX) New Growth Engine",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-case-netflix-nflx-growth-132531860.html",
-      "published": "2026-09-16T13:25:31Z",
-      "ts": 1789565131
+      "title": "Nasdaq, Dow and S&P 500 Rise Ahead of Fed Rate Decision",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-rise-133759906.html",
+      "published": "2026-09-16T13:37:59Z",
+      "ts": 1789565879
     },
     {
       "source": "Yahoo Finance",
-      "title": "What Makes Mettler-Toledo International (MTD) an Attractive Bet?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-mettler-toledo-international-mtd-132254501.html",
-      "published": "2026-09-16T13:22:54Z",
-      "ts": 1789564974
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Meta's Zuckerberg, Nvidia's Huang Say An AI Slowdown Is Not Needed",
-      "link": "https://www.investors.com/news/technology/meta-stock-zuckerberg-ai-safety-nvidia-anthropic/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T13:22:23Z",
-      "ts": 1789564943
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "HIVE subsidiary BUZZ HPC strikes AI infrastructure deal with ProCogia",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hive-subsidiary-buzz-hpc-strikes-132100321.html",
-      "published": "2026-09-16T13:21:00Z",
-      "ts": 1789564860
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Axon Got Slammed By Convertible: It's The Cash Flow",
-      "link": "https://www.investors.com/news/axon-stock-falls-convertible-bond-sp-500/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T13:20:47Z",
-      "ts": 1789564847
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mesa man loses $449,328 home after HOA forecloses over $977 in missed assessments — lawyers say it's not uncommon",
-      "link": "https://finance.yahoo.com/real-estate/articles/mesa-man-loses-449-328-132000949.html",
-      "published": "2026-09-16T13:20:00Z",
-      "ts": 1789564800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "6 signs you might be a good fit for debt settlement",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/signs-you-might-be-a-good-fit-for-debt-settlement-102500610.html",
-      "published": "2026-09-16T10:25:00Z",
-      "ts": 1789554300
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
-      "published": "2026-09-16 09:24:27",
-      "ts": 1789550667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees GBP gains as short-lived ahead of October budget risks",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
-      "published": "2026-09-16 09:07:19",
-      "ts": 1789549639
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as Fed hike bets and UK inflation uptick weigh",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
-      "published": "2026-09-16 08:21:55",
-      "ts": 1789546915
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
-      "published": "2026-09-16 07:43:07",
-      "ts": 1789544587
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
-      "published": "2026-09-16 07:30:36",
-      "ts": 1789543836
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 21:49:19",
-      "ts": 1789508959
+      "title": "CoStar (CSGP): Residential Strategy Unchanged Despite Persistent Market Skepticism",
+      "link": "https://finance.yahoo.com/real-estate/articles/costar-csgp-residential-strategy-unchanged-133542445.html",
+      "published": "2026-09-16T13:35:42Z",
+      "ts": 1789565742
     }
   ]
 }
