@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T11:39:07.951298Z",
+  "updated": "2026-09-18T11:50:56.986167Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Oil drives Dollar upside risks – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-oil-drives-dollar-upside-risks-ing-202609181142",
+      "published": "Fri, 18 Sep 2026 11:42:22 GMT",
+      "ts": 1789731742
+    },
     {
       "source": "MarketWatch",
       "title": "A sideways market and rising earnings are presenting a buying opportunity for this crucial sector",
@@ -141,13 +148,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609180945",
       "published": "Fri, 18 Sep 2026 09:45:02 GMT",
       "ts": 1789724702
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold Price Forecast: XAU/USD appreciates to $4,400 as yields retreat",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-appreciates-to-4-400-as-yields-retreat-202609180941",
-      "published": "Fri, 18 Sep 2026 09:41:40 GMT",
-      "ts": 1789724500
     },
     {
       "source": "Investing Crypto",
