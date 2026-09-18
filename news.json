@@ -1,20 +1,55 @@
 {
-  "updated": "2026-09-18T17:23:13.167358Z",
+  "updated": "2026-09-18T17:36:14.135224Z",
   "count": 60,
   "items": [
     {
-      "source": "Yahoo Finance",
-      "title": "Cerity Partners Enters Iowa with $2B Gilbert & Cook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cerity-partners-enters-iowa-2b-170801980.html",
-      "published": "2026-09-18T17:08:01Z",
-      "ts": 1789751281
+      "source": "FXStreet",
+      "title": "Dollar Index nudges to a fresh high and slips back as Japan raises rates",
+      "link": "https://www.fxstreet.com/news/dollar-index-nudges-to-a-fresh-high-and-slips-back-as-japan-raises-rates-202609181725",
+      "published": "Fri, 18 Sep 2026 17:25:39 GMT",
+      "ts": 1789752339
     },
     {
       "source": "Yahoo Finance",
-      "title": "Want to Invest in Anthropic Before Its IPO? Here's How.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/want-invest-anthropic-ipo-heres-170700655.html",
-      "published": "2026-09-18T17:07:00Z",
-      "ts": 1789751220
+      "title": "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+      "link": "https://finance.yahoo.com/healthcare/articles/biotech-stock-too-cheap-ignore-172000522.html",
+      "published": "2026-09-18T17:20:00Z",
+      "ts": 1789752000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says AI Could Make Okta’s Security Software More Essential",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-says-ai-could-171508518.html",
+      "published": "2026-09-18T17:15:08Z",
+      "ts": 1789751708
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Fed Just Raised Rates for the First Time in Three Years. History Says This Is What Comes Next.",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fed-just-raised-rates-first-171202240.html",
+      "published": "2026-09-18T17:12:02Z",
+      "ts": 1789751522
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Time to Build Better Corporate Governance at BETR",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/time-build-better-corporate-governance-171105878.html",
+      "published": "2026-09-18T17:11:05Z",
+      "ts": 1789751465
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says Selling Arm Holdings (ARM) Early Was a “Big Mistake”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-selling-arm-171014392.html",
+      "published": "2026-09-18T17:10:14Z",
+      "ts": 1789751414
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T17:09:47Z",
+      "ts": 1789751387
     },
     {
       "source": "Yahoo Finance",
@@ -52,39 +87,11 @@
       "ts": 1789750726
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Say What? This AI Stock Gets Support, Eyes New Entry As Earnings Surge 66%",
-      "link": "https://www.investors.com/stock-lists/stock-spotlight/ai-stock-netapp-ntap-support-entry-earnings-surge/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T16:57:59Z",
-      "ts": 1789750679
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Novo CEO Says Drugmaker Needs to “Rethink” its Obesity Strategy",
-      "link": "https://finance.yahoo.com/healthcare/articles/novo-ceo-says-drugmaker-needs-165713245.html",
-      "published": "2026-09-18T16:57:13Z",
-      "ts": 1789750633
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "When To Dump Stocks: These IBD 50 Components Hit Sell Signals",
-      "link": "https://www.investors.com/stock-lists/ibd-50/when-to-sell-stocks-ibd-50-nem-stock/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T16:56:58Z",
-      "ts": 1789750618
-    },
-    {
       "source": "FXStreet",
       "title": "Dow Jones Industrial Average gives back its bounce as factory output stalls",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-gives-back-its-bounce-as-factory-output-stalls-202609181656",
       "published": "Fri, 18 Sep 2026 16:56:00 GMT",
       "ts": 1789750560
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Carlyle Expands Canadian Energy Footprint with Parallax Acquisition",
-      "link": "https://finance.yahoo.com/energy/articles/carlyle-expands-canadian-energy-footprint-165537473.html",
-      "published": "2026-09-18T16:55:37Z",
-      "ts": 1789750537
     },
     {
       "source": "MarketWatch",
@@ -211,13 +218,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-fed-us-yields-support-the-us-dollar-202609181443",
       "published": "Fri, 18 Sep 2026 14:43:17 GMT",
       "ts": 1789742597
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar: Pressure builds near 1.40 against US Dollar - Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-pressure-builds-near-140-against-us-dollar-scotiabank-202609181426",
-      "published": "Fri, 18 Sep 2026 14:26:12 GMT",
-      "ts": 1789741572
     },
     {
       "source": "MarketWatch",
