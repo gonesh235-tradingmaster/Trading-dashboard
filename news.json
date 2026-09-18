@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-18T16:09:29.370668Z",
+  "updated": "2026-09-18T16:25:13.845013Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Global AI Infrastructure Spending Will Hit $31.6 Trillion by 2050. This Is the Stock That Could Benefit the Most",
+      "link": "https://finance.yahoo.com/technology/ai/articles/global-ai-infrastructure-spending-hit-161201630.html",
+      "published": "2026-09-18T16:12:01Z",
+      "ts": 1789747921
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These fast-growing ETFs aim for yields as high as 17.5%. But here’s the catch.",
+      "link": "https://www.marketwatch.com/story/these-fast-growing-etfs-aim-for-yields-as-high-as-17-5-but-heres-the-catch-6f0a3d43?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 16:11:00 GMT",
+      "ts": 1789747860
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Insider Buy: Planet Fitness Director Acquires Shares Valued at Nearly $120,000",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/insider-buy-planet-fitness-director-161001666.html",
+      "published": "2026-09-18T16:10:01Z",
+      "ts": 1789747801
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Darden Restaurants, Costco In Earnings Spotlight, Along With This IT Distributor",
+      "link": "https://www.investors.com/research/earnings-preview/darden-stock-costco-earnings-td-synnex-ai-infrastructure/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T16:07:33Z",
+      "ts": 1789747653
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Pressured As Yields Hit 5%; Strategy Soars As Bitcoin Price Tops $80,500 (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T16:04:37Z",
+      "ts": 1789747477
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC submits crypto market regulation plan for White House review",
+      "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 16:04:22 +0000",
+      "ts": 1789747462
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Netflix Stock Downgraded To Sell As Viewer Engagement Wanes",
+      "link": "https://www.investors.com/news/technology/netflix-stock-downgraded-sell-viewer-engagement-wanes/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T15:56:30Z",
+      "ts": 1789746990
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen weakens despite BoJ hike as US Dollar remains firm",
@@ -11,10 +60,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Meta Is About to Become Mega Cloud Operator",
-      "link": "https://finance.yahoo.com/technology/ai/articles/meta-become-mega-cloud-operator-154422140.html",
-      "published": "2026-09-18T15:44:22Z",
-      "ts": 1789746262
+      "title": "These Steelmakers Sink To Bottom Of S&P 500 After Issuing Weak Guidance",
+      "link": "https://www.investors.com/news/sp-500-stocks-steelmakers-outlook-nue-stld-stock/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T15:47:54Z",
+      "ts": 1789746474
     },
     {
       "source": "Yahoo Finance",
@@ -22,13 +71,6 @@
       "link": "https://finance.yahoo.com/economy/policy/article/fed-sat-on-silicon-valley-bank-flaws-because-regulators-feared-being-wrong-report-finds-154331423.html",
       "published": "2026-09-18T15:43:31Z",
       "ts": 1789746211
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Costco’s DoorDash Launch Came Too Late to Touch the Quarter It Reports September 24",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-doordash-launch-came-too-154323539.html",
-      "published": "2026-09-18T15:43:23Z",
-      "ts": 1789746203
     },
     {
       "source": "FXStreet",
@@ -94,13 +136,6 @@
       "ts": 1789744366
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T15:11:31Z",
-      "ts": 1789744291
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
       "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
@@ -108,32 +143,11 @@
       "ts": 1789743991
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stay In Sync With Stock Trends Using Exposure Levels, Market Pulse",
-      "link": "https://www.investors.com/how-to-invest/investors-corner/stock-market-exposure-levels-market-pulse-investors-nasdaq-sp500/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T15:04:26Z",
-      "ts": 1789743866
-    },
-    {
       "source": "FXStreet",
       "title": "Swiss Franc: Policy rate seen on hold – ING",
       "link": "https://www.fxstreet.com/news/swiss-franc-policy-rate-seen-on-hold-ing-202609181504",
       "published": "Fri, 18 Sep 2026 15:04:01 GMT",
       "ts": 1789743841
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Caleb Hammer blasts 27-year-old who cashed out her 401(k) twice to fund a home down payment — with penalties",
-      "link": "https://finance.yahoo.com/markets/options/articles/caleb-hammer-blasts-27-old-150000706.html",
-      "published": "2026-09-18T15:00:00Z",
-      "ts": 1789743600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "EU banks must be bigger, have deeper capital market, to compete with US, say top EU officials",
-      "link": "https://finance.yahoo.com/news/eu-banks-must-bigger-deeper-145102687.html",
-      "published": "2026-09-18T14:51:02Z",
-      "ts": 1789743062
     },
     {
       "source": "FXStreet",
@@ -269,13 +283,6 @@
       "ts": 1789734840
     },
     {
-      "source": "MarketWatch",
-      "title": "Warren Buffett moves further out of the spotlight at Berkshire, as his son is named chairman",
-      "link": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 12:22:00 GMT",
-      "ts": 1789734120
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasury curve flattens as long-end yields ease off multi-year peaks",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
@@ -372,13 +379,6 @@
       "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 08:50:38 +0000",
       "ts": 1789721438
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
-      "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 08:47:20 +0000",
-      "ts": 1789721240
     },
     {
       "source": "Investing Forex",
