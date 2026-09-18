@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T05:38:59.919749Z",
+  "updated": "2026-09-18T05:51:44.070872Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar holds gains as markets weigh Fed rate hike, BoJ move in focus",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-holds-gains-as-markets-weigh-fed-rate-hike-boj-move-in-focus-202609180549",
+      "published": "Fri, 18 Sep 2026 05:49:53 GMT",
+      "ts": 1789710593
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
+      "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
+      "published": "Fri, 18 Sep 2026 05:43:21 +0000",
+      "ts": 1789710201
+    },
     {
       "source": "FXStreet",
       "title": "Indian Rupee rebounds as rally in US yields and oil prices hits a pause",
@@ -113,13 +127,6 @@
       "link": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 03:40:28 +0000",
       "ts": 1789702828
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro gains momentum against Japanese Yen as BoJ aligns on rate hikes",
-      "link": "https://www.fxstreet.com/news/euro-gains-momentum-against-japanese-yen-as-boj-aligns-on-rate-hikes-202609180340",
-      "published": "Fri, 18 Sep 2026 03:40:26 GMT",
-      "ts": 1789702826
     },
     {
       "source": "Investing Crypto",
@@ -332,13 +339,6 @@
       "ts": 1789657399
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: Beyond bitcoin and ether",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
-      "published": "Thu, 17 Sep 2026 14:57:11 +0000",
-      "ts": 1789657031
-    },
-    {
       "source": "Investing Forex",
       "title": "Uganda shilling faces pressure as dollar demand rises",
       "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
@@ -381,6 +381,13 @@
       "ts": 1789584368
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Why It’s Time to Load Up on Nvidia Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-time-load-nvidia-stock-183025364.html",
+      "published": "2026-09-16T18:30:25Z",
+      "ts": 1789583425
+    },
+    {
       "source": "Investing Forex",
       "title": "Dollar gains after Fed raises interest rates",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
@@ -396,17 +403,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "The 1 Metric That Separates Joby From Archer in the Race to FAA Certification",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-metric-separates-joby-archer-175000750.html",
-      "published": "2026-09-16T17:50:00Z",
-      "ts": 1789581000
+      "title": "First Rate Hike Since 2023 Lands Atop 5% Treasury Yield, Ratcheting Up Capital Pressure",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fed-raises-benchmark-rate-intensifying-180550568.html",
+      "published": "2026-09-16T18:05:50Z",
+      "ts": 1789581950
     },
     {
       "source": "Yahoo Finance",
-      "title": "A Rivian Insider Sells 15,000 Shares for $244,000 Amid a CFO Transition",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-insider-sells-15-000-174802425.html",
-      "published": "2026-09-16T17:48:02Z",
-      "ts": 1789580882
+      "title": "Treasury Yields Hold Declines After Fed Raises Rates",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/treasury-yields-hold-declines-after-fed-raises-rates-spdrLTzaZf0leCiUSoD9?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-16T18:05:48Z",
+      "ts": 1789581948
     },
     {
       "source": "Yahoo Finance",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/play-corning-stock-dilution-scare-174734596.html",
       "published": "2026-09-16T17:47:34Z",
       "ts": 1789580854
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tesla Is Expanding Into Vietnam to Capture Growing EV Demand. What This Actually Means for TSLA Stock.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-expanding-vietnam-capture-growing-173529819.html",
-      "published": "2026-09-16T17:35:29Z",
-      "ts": 1789580129
     }
   ]
 }
