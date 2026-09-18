@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T03:40:57.154650Z",
+  "updated": "2026-09-18T03:52:45.533022Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index trades firmly above 100.00 while approaching to weekend",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-firmly-above-10000-while-approaching-to-weekend-202609180344",
+      "published": "Fri, 18 Sep 2026 03:44:05 GMT",
+      "ts": 1789703045
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "World launches self-custodial ‘super app’ World Money",
+      "link": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 03:40:28 +0000",
+      "ts": 1789702828
+    },
     {
       "source": "FXStreet",
       "title": "Euro gains momentum against Japanese Yen as BoJ aligns on rate hikes",
@@ -78,13 +92,6 @@
       "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 01:33:54 +0000",
       "ts": 1789695234
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI drops as Middle East supply fears ease",
-      "link": "https://www.fxstreet.com/news/wti-drops-as-middle-east-supply-fears-ease-202609180127",
-      "published": "Fri, 18 Sep 2026 01:27:50 GMT",
-      "ts": 1789694870
     },
     {
       "source": "CoinTelegraph",
@@ -297,13 +304,6 @@
       "ts": 1789652157
     },
     {
-      "source": "CoinTelegraph",
-      "title": "SEC grants temporary exemption for tokenized US stock trading",
-      "link": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 13:34:17 +0000",
-      "ts": 1789652057
-    },
-    {
       "source": "CoinDesk",
       "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
       "link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
@@ -382,10 +382,31 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
+      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T16:10:31Z",
+      "ts": 1789575031
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CareTrust REIT’s (CTRE) $400M Bet Extends A Record Year",
+      "link": "https://finance.yahoo.com/real-estate/articles/caretrust-reit-ctre-400m-bet-160209188.html",
+      "published": "2026-09-16T16:02:09Z",
+      "ts": 1789574529
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
       "link": "https://finance.yahoo.com/markets/crypto/articles/bitget-publishes-45th-consecutive-monthly-160021181.html",
       "published": "2026-09-16T16:00:21Z",
       "ts": 1789574421
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Broadridge Financial Stock Underperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-stock-underperforming-p-155958681.html",
+      "published": "2026-09-16T15:59:58Z",
+      "ts": 1789574398
     },
     {
       "source": "Yahoo Finance",
@@ -400,27 +421,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/despite-robust-growth-coreweave-remains-155408176.html",
       "published": "2026-09-16T15:54:08Z",
       "ts": 1789574048
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Elastic (ESTC) Bets Big On AI Search With New Database",
-      "link": "https://finance.yahoo.com/technology/ai/articles/elastic-estc-bets-big-ai-154753742.html",
-      "published": "2026-09-16T15:47:53Z",
-      "ts": 1789573673
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Crude Oil Prices Retreat as Supply Fears Ease",
-      "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-retreat-supply-153920479.html",
-      "published": "2026-09-16T15:39:20Z",
-      "ts": 1789573160
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Michael Dell Just Made a $7.7 Billion Bet on This Insurance Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-dell-just-made-7-153914458.html",
-      "published": "2026-09-16T15:39:14Z",
-      "ts": 1789573154
     }
   ]
 }
