@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T13:09:40.720927Z",
+  "updated": "2026-09-18T13:25:55.677764Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Why is Bitcoin US Dollar stock climbing today?",
+      "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
+      "published": "2026-09-18 13:06:16",
+      "ts": 1789736776
+    },
     {
       "source": "FXStreet",
       "title": "British Pound: QT overhaul supports Gilt curve and Pound – MUFG",
@@ -403,24 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Clarity Act Failed to Advance. It’s Still Business As Usual",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-failed-advance-still-040300692.html",
-      "published": "2026-09-17T04:03:00Z",
-      "ts": 1789617780
+      "title": "Vaxcyte (PCVX) Brings In Pharma Veterans As Its Big Test Nears",
+      "link": "https://finance.yahoo.com/healthcare/articles/vaxcyte-pcvx-brings-pharma-veterans-042014144.html",
+      "published": "2026-09-17T04:20:14Z",
+      "ts": 1789618814
     },
     {
       "source": "Yahoo Finance",
-      "title": "AI Won’t Replace Advisors. It May Actually Add More",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-won-t-replace-advisors-040200789.html",
-      "published": "2026-09-17T04:02:00Z",
-      "ts": 1789617720
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fed Raises Interest Rates for First Time in Three Years as Diesel, Gas Prices Surge",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-raises-interest-rates-first-040100694.html",
-      "published": "2026-09-17T04:01:00Z",
-      "ts": 1789617660
+      "title": "Redwood Trust (RWT) Prices $185M of Convertibles. Does Maturity Relief Justify Higher Interest?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/redwood-trust-rwt-prices-185m-041638826.html",
+      "published": "2026-09-17T04:16:38Z",
+      "ts": 1789618598
     }
   ]
 }
