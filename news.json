@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T20:39:24.158429Z",
+  "updated": "2026-09-18T20:51:00.844729Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
+      "link": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 20:48:00 GMT",
+      "ts": 1789764480
+    },
+    {
+      "source": "FXStreet",
+      "title": "NZD/USD Price Forecast: Kiwi reversal puts 0.5700 under pressure",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-reversal-puts-05700-under-pressure-202609182044",
+      "published": "Fri, 18 Sep 2026 20:44:54 GMT",
+      "ts": 1789764294
+    },
     {
       "source": "FXStreet",
       "title": "Singapore Dollar: Range trade persists against US Dollar – UOB",
@@ -162,20 +176,6 @@
       "link": "https://www.fxstreet.com/news/swiss-franc-gains-against-us-dollar-but-fed-snb-divergence-weighs-202609181736",
       "published": "Fri, 18 Sep 2026 17:36:58 GMT",
       "ts": 1789753018
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dollar Index nudges to a fresh high and slips back as Japan raises rates",
-      "link": "https://www.fxstreet.com/news/dollar-index-nudges-to-a-fresh-high-and-slips-back-as-japan-raises-rates-202609181725",
-      "published": "Fri, 18 Sep 2026 17:25:39 GMT",
-      "ts": 1789752339
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Two signs investors don’t have to fear an AI slowdown",
-      "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 17:02:00 GMT",
-      "ts": 1789750920
     },
     {
       "source": "Investing Forex",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer on Advanced Micro Devices (AMD): “Buy It”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-advanced-micro-devices-110433644.html",
-      "published": "2026-09-17T11:04:33Z",
-      "ts": 1789643073
+      "title": "Estée Lauder (EL) Partners with University of Leeds to Address Shade-Matching Challenges",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/est-e-lauder-el-partners-111345922.html",
+      "published": "2026-09-17T11:13:45Z",
+      "ts": 1789643625
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Suggests A Caller That It Is Time to Move On From DraftKings (DKNG)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-caller-time-110105395.html",
-      "published": "2026-09-17T11:01:05Z",
-      "ts": 1789642865
+      "title": "4 Investors Own More Nvidia Stock Than Founder Jensen Huang",
+      "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-investors-own-more-nvidia-stock-than-its-founder-jen-hsun-huang/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T11:12:54Z",
+      "ts": 1789643574
     },
     {
-      "source": "Investing Crypto",
-      "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
-      "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
-      "published": "2026-09-17 11:00:34",
-      "ts": 1789642834
+      "source": "Yahoo Finance",
+      "title": "Iren Stock Has Dropped 12% in a Week. Why, and How to Play It Here.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-stock-dropped-12-week-111020110.html",
+      "published": "2026-09-17T11:10:20Z",
+      "ts": 1789643420
     }
   ]
 }
