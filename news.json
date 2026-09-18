@@ -1,10 +1,17 @@
 {
-  "updated": "2026-09-18T04:26:41.853083Z",
+  "updated": "2026-09-18T04:41:22.590353Z",
   "count": 60,
   "items": [
     {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609180437",
+      "published": "Fri, 18 Sep 2026 04:37:19 GMT",
+      "ts": 1789706239
+    },
+    {
       "source": "CoinTelegraph",
-      "title": "Cardano’s IOG warns users to avoid YouTube channel amid giveaway scam",
+      "title": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack",
       "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 04:11:40 +0000",
       "ts": 1789704700
@@ -99,13 +106,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4906628",
       "published": "2026-09-18 02:27:02",
       "ts": 1789698422
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar strengthens on hawkish RBA comments",
-      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-on-hawkish-rba-comments-202609180217",
-      "published": "Fri, 18 Sep 2026 02:17:48 GMT",
-      "ts": 1789697868
     },
     {
       "source": "CoinTelegraph",
@@ -354,6 +354,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Is CAT Stock Safe At $780? Sizing Caterpillar’s Next Move",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cat-stock-safe-780-sizing-164306360.html",
+      "published": "2026-09-16T16:43:06Z",
+      "ts": 1789576986
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Guardant Health Nears Buy Point As Sales Outlook Brightens",
       "link": "https://www.investors.com/research/cancer-stock-guardant-health-gh/?src=A00220&yptr=yahoo",
       "published": "2026-09-16T16:39:37Z",
@@ -372,13 +379,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-layoffs-know-latest-163322999.html",
       "published": "2026-09-16T16:33:22Z",
       "ts": 1789576402
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fed Officials Don’t Think They’re Done Hiking Interest Rates",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-meeting-today-fed-officials-162904756.html",
-      "published": "2026-09-16T16:29:04Z",
-      "ts": 1789576144
     },
     {
       "source": "Investing Crypto",
