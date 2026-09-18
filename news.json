@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T03:26:03.339720Z",
+  "updated": "2026-09-18T03:40:57.154650Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro gains momentum against Japanese Yen as BoJ aligns on rate hikes",
+      "link": "https://www.fxstreet.com/news/euro-gains-momentum-against-japanese-yen-as-boj-aligns-on-rate-hikes-202609180340",
+      "published": "Fri, 18 Sep 2026 03:40:26 GMT",
+      "ts": 1789702826
+    },
     {
       "source": "FXStreet",
       "title": "Gold bulls seem hesitant as hawkish Fed and Middle East jitters limit USD downside",
@@ -80,13 +87,6 @@
       "ts": 1789694870
     },
     {
-      "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7521 vs. 6.7580 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67521-vs-67580-previous-202609180115",
-      "published": "Fri, 18 Sep 2026 01:15:31 GMT",
-      "ts": 1789694131
-    },
-    {
       "source": "CoinTelegraph",
       "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
       "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -95,7 +95,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Breaking: Bank of Japan lifts interest rate by 25 bps to 1.25%, as expected",
+      "title": "Bank of Japan raises interest rate by 25 bps to 1.25%, as expected",
       "link": "https://www.fxstreet.com/news/bank-of-japan-is-expected-to-deliver-a-hawkish-hike-pressured-by-rising-inflation-202609172200",
       "published": "Thu, 17 Sep 2026 22:00:00 GMT",
       "ts": 1789682400
@@ -382,45 +382,45 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Avantor Stock Has Strong Technical Momentum, But Make Sure Your Stop Losses Are Tight",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/avantor-stock-strong-technical-momentum-153003718.html",
-      "published": "2026-09-16T15:30:03Z",
-      "ts": 1789572603
+      "title": "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitget-publishes-45th-consecutive-monthly-160021181.html",
+      "published": "2026-09-16T16:00:21Z",
+      "ts": 1789574421
     },
     {
       "source": "Yahoo Finance",
-      "title": "Kinetik’s (KNTK) Record Quarter Sets Up A Bigger 2027 Bet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kinetik-kntk-record-quarter-sets-152943083.html",
-      "published": "2026-09-16T15:29:43Z",
-      "ts": 1789572583
+      "title": "Aptiv (APTV) Turns Chip Partnerships Into A Physical AI Bet",
+      "link": "https://finance.yahoo.com/technology/ai/articles/aptiv-aptv-turns-chip-partnerships-155643163.html",
+      "published": "2026-09-16T15:56:43Z",
+      "ts": 1789574203
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is Entergy's Stock Performance Compared to Other Utility Stocks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/entergys-stock-performance-compared-other-152737113.html",
-      "published": "2026-09-16T15:27:37Z",
-      "ts": 1789572457
+      "title": "Despite Robust Growth, CoreWeave Remains Unattractive on Leveraging and Margin Contraction",
+      "link": "https://finance.yahoo.com/technology/ai/articles/despite-robust-growth-coreweave-remains-155408176.html",
+      "published": "2026-09-16T15:54:08Z",
+      "ts": 1789574048
     },
     {
       "source": "Yahoo Finance",
-      "title": "Arista Stock Holds Up Well Amid Weakness. Here's How To Capitalize.",
-      "link": "https://www.investors.com/research/options/arista-anet-stock-covered-call-options/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T15:26:07Z",
-      "ts": 1789572367
+      "title": "Elastic (ESTC) Bets Big On AI Search With New Database",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elastic-estc-bets-big-ai-154753742.html",
+      "published": "2026-09-16T15:47:53Z",
+      "ts": 1789573673
     },
     {
       "source": "Yahoo Finance",
-      "title": "Radiant Logistics (RLGT) Bets $100M On A Freight Rebound",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-bets-100m-152433522.html",
-      "published": "2026-09-16T15:24:33Z",
-      "ts": 1789572273
+      "title": "Crude Oil Prices Retreat as Supply Fears Ease",
+      "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-retreat-supply-153920479.html",
+      "published": "2026-09-16T15:39:20Z",
+      "ts": 1789573160
     },
     {
       "source": "Yahoo Finance",
-      "title": "Weakness Is an Opportunity for Long-Term ASML Stock Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/weakness-opportunity-long-term-asml-152400381.html",
-      "published": "2026-09-16T15:24:00Z",
-      "ts": 1789572240
+      "title": "Michael Dell Just Made a $7.7 Billion Bet on This Insurance Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-dell-just-made-7-153914458.html",
+      "published": "2026-09-16T15:39:14Z",
+      "ts": 1789573154
     }
   ]
 }
