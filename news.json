@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T10:10:28.681780Z",
+  "updated": "2026-09-18T10:26:32.716260Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc consolidates losses weighed by adverse monetary policy divergence",
+      "link": "https://www.fxstreet.com/news/swiss-franc-consolidates-losses-weighed-by-adverse-monetary-policy-divergence-202609181023",
+      "published": "Fri, 18 Sep 2026 10:23:16 GMT",
+      "ts": 1789726996
+    },
     {
       "source": "MarketWatch",
       "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
@@ -127,13 +134,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-boe-on-hold-sparks-sterling-softness-danske-bank-202609180857",
       "published": "Fri, 18 Sep 2026 08:57:12 GMT",
       "ts": 1789721832
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index tests late July high, near 100.35 on hawkish Fed stance",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-tests-late-july-high-near-10035-on-hawkish-fed-stance-202609180854",
-      "published": "Fri, 18 Sep 2026 08:54:53 GMT",
-      "ts": 1789721693
     },
     {
       "source": "CoinTelegraph",
@@ -403,10 +403,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Walmart wants to change how you shop online, and it’s already working",
-      "link": "https://finance.yahoo.com/small-business/articles/walmart-wants-change-shop-online-215746102.html",
-      "published": "2026-09-16T21:57:46Z",
-      "ts": 1789595866
+      "title": "Rate rise could exacerbate longstanding problems for the US PE industry",
+      "link": "https://finance.yahoo.com/economy/policy/articles/rate-rise-could-exacerbate-longstanding-222302262.html",
+      "published": "2026-09-16T22:23:02Z",
+      "ts": 1789597382
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Michael Burry reveals his verdict on the ongoing AI bubble",
+      "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-reveals-verdict-ongoing-221700327.html",
+      "published": "2026-09-16T22:17:00Z",
+      "ts": 1789597020
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
       "published": "2026-09-16 21:54:07",
       "ts": 1789595647
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
-      "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
-      "published": "2026-09-16 17:30:36",
-      "ts": 1789579836
     }
   ]
 }
