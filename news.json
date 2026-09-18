@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-18T11:50:56.986167Z",
+  "updated": "2026-09-18T12:12:17.943580Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Cautious BoJ tilt weighs on JPY against US Dollar – BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-cautious-boj-tilt-weighs-on-jpy-against-us-dollar-bbh-202609181210",
+      "published": "Fri, 18 Sep 2026 12:10:35 GMT",
+      "ts": 1789733435
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD extends recovery above $67.00 as yields fall",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-recovery-above-6700-as-yields-fall-202609181201",
+      "published": "Fri, 18 Sep 2026 12:01:21 GMT",
+      "ts": 1789732881
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+      "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 11:54:24 +0000",
+      "ts": 1789732464
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Fresh downside likely if sustain below 1.1455",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-fresh-downside-likely-if-sustain-below-11455-202609181152",
+      "published": "Fri, 18 Sep 2026 11:52:16 GMT",
+      "ts": 1789732336
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+      "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 11:51:00 GMT",
+      "ts": 1789732260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 11:50:00 GMT",
+      "ts": 1789732200
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar: Oil drives Dollar upside risks – ING",
@@ -115,20 +157,6 @@
       "ts": 1789726053
     },
     {
-      "source": "FXStreet",
-      "title": "Bank of Japan: Hawkish path with FX doubts – TD Securities",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-hawkish-path-with-fx-doubts-td-securities-202609181002",
-      "published": "Fri, 18 Sep 2026 10:02:23 GMT",
-      "ts": 1789725743
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar soars against Japanese Yen as BoJ rate hike disappoints hawks",
-      "link": "https://www.fxstreet.com/news/australian-dollar-soars-against-japanese-yen-as-boj-rate-hike-disappoints-hawks-202609180955",
-      "published": "Fri, 18 Sep 2026 09:55:19 GMT",
-      "ts": 1789725319
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
       "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
@@ -141,13 +169,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
       "published": "2026-09-18 09:45:52",
       "ts": 1789724752
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609180945",
-      "published": "Fri, 18 Sep 2026 09:45:02 GMT",
-      "ts": 1789724702
     },
     {
       "source": "Investing Crypto",
@@ -339,20 +360,6 @@
       "ts": 1789698422
     },
     {
-      "source": "CoinTelegraph",
-      "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
-      "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 01:33:54 +0000",
-      "ts": 1789695234
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
-      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
-      "ts": 1789680120
-    },
-    {
       "source": "MarketWatch",
       "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
       "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
@@ -365,13 +372,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
       "published": "2026-09-17 21:19:11",
       "ts": 1789679951
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
-      "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 21:09:00 GMT",
-      "ts": 1789679340
     },
     {
       "source": "MarketWatch",
@@ -403,6 +403,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "GE Vernova and Vineyard Wind Settle $300M-Plus Offshore Wind Dispute",
+      "link": "https://finance.yahoo.com/energy/articles/ge-vernova-vineyard-wind-settle-024435837.html",
+      "published": "2026-09-17T02:44:35Z",
+      "ts": 1789613075
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "AXT Inc. (AXTI) Draws Bullish Analyst Attention — Here’s Why",
       "link": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-draws-bullish-010252885.html",
       "published": "2026-09-17T01:02:52Z",
@@ -410,17 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
-      "link": "https://finance.yahoo.com/energy/articles/stanchart-sees-higher-oil-floor-000000512.html",
-      "published": "2026-09-17T00:00:00Z",
-      "ts": 1789603200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Michael Burry of \"The Big Short\" Says an AI Slowdown Would Be \"Self-Serving\" for OpenAI and Anthropic",
-      "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-big-short-says-234100507.html",
-      "published": "2026-09-16T23:41:00Z",
-      "ts": 1789602060
+      "title": "These 2 Words From Fed Chair Kevin Warsh Sunk the Dow, S&P 500, and Nasdaq, and Put Wall Street on Notice",
+      "link": "https://finance.yahoo.com/economy/policy/articles/2-words-fed-chair-kevin-001101303.html",
+      "published": "2026-09-17T00:11:01Z",
+      "ts": 1789603861
     }
   ]
 }
