@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T19:36:15.987587Z",
+  "updated": "2026-09-18T19:49:55.192061Z",
   "count": 60,
   "items": [
     {
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Genuine Parts Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/genuine-parts-underperforming-nasdaq-094824193.html",
-      "published": "2026-09-17T09:48:24Z",
-      "ts": 1789638504
+      "title": "Bitcoin Looks Resilient After 2 Blows, The On-Chain Data Disagrees",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-looks-resilient-2-blows-095120319.html",
+      "published": "2026-09-17T09:51:20Z",
+      "ts": 1789638680
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Leidos Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-stock-underperforming-dow-094411865.html",
-      "published": "2026-09-17T09:44:11Z",
-      "ts": 1789638251
+      "title": "Silicon Labs (SLAB) Swung to a Non-GAAP Profit, but Wall Street Hesitates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/silicon-labs-slab-swung-non-095036143.html",
+      "published": "2026-09-17T09:50:36Z",
+      "ts": 1789638636
     }
   ]
 }
