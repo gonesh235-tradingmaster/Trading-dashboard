@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T06:12:55.559844Z",
+  "updated": "2026-09-18T06:33:57.150581Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Oil: Prices fall as supply risks reassessed – MUFG",
+      "link": "https://www.fxstreet.com/news/oil-prices-fall-as-supply-risks-reassessed-mufg-202609180628",
+      "published": "Fri, 18 Sep 2026 06:28:10 GMT",
+      "ts": 1789712890
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
+      "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+      "published": "Fri, 18 Sep 2026 06:16:57 +0000",
+      "ts": 1789712217
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Downtrend extends toward 1.1400 against US Dollar – UOB",
@@ -29,6 +43,13 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 06:00:00 +0000",
       "ts": 1789711200
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Why is the Australian Dollar gaining today?",
+      "link": "https://www.investing.com/news/forex-news/why-is-australian-dollar-gaining-today-93CH-4906672",
+      "published": "2026-09-18 05:58:24",
+      "ts": 1789711104
     },
     {
       "source": "FXStreet",
@@ -101,20 +122,6 @@
       "ts": 1789706853
     },
     {
-      "source": "Investing Forex",
-      "title": "Why is Australian Dollar gaining today?",
-      "link": "https://www.investing.com/news/forex-news/why-is-australian-dollar-gaining-today-93CH-4906672",
-      "published": "2026-09-18 04:47:25",
-      "ts": 1789706845
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Consolidates below mid-$96.00s as Mideast jitters favor bulls",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-consolidates-below-mid-9600s-as-mideast-jitters-favor-bulls-202609180445",
-      "published": "Fri, 18 Sep 2026 04:45:44 GMT",
-      "ts": 1789706744
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack",
       "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -144,7 +151,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold sticks to gains on softer bond yields and subdued USD; hawkish Fed caps upside",
+      "title": "Gold advances to fresh weekly top; eyes $$4,400 as softer US bond yields cap USD gains",
       "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-hawkish-fed-and-middle-east-jitters-limit-usd-downside-202609180321",
       "published": "Fri, 18 Sep 2026 03:21:07 GMT",
       "ts": 1789701667
@@ -192,11 +199,60 @@
       "ts": 1789680515
     },
     {
+      "source": "MarketWatch",
+      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
+      "ts": 1789680120
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
+      "ts": 1789680120
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin extends recovery from Clarity setback, gains capped by Fed hawkishness",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
       "published": "2026-09-17 21:19:11",
       "ts": 1789679951
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+      "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:09:00 GMT",
+      "ts": 1789679340
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
+      "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:23:00 GMT",
+      "ts": 1789676580
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
+      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:19:00 GMT",
+      "ts": 1789676340
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
+      "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:13:00 GMT",
+      "ts": 1789675980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 19:52:00 GMT",
+      "ts": 1789674720
     },
     {
       "source": "CoinTelegraph",
@@ -220,6 +276,20 @@
       "ts": 1789672730
     },
     {
+      "source": "MarketWatch",
+      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 19:07:00 GMT",
+      "ts": 1789672020
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
+      "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 18:46:00 GMT",
+      "ts": 1789670760
+    },
+    {
       "source": "CoinDesk",
       "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
       "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
@@ -232,6 +302,13 @@
       "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
       "published": "Thu, 17 Sep 2026 18:38:10 +0000",
       "ts": 1789670290
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
+      "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 17:42:00 GMT",
+      "ts": 1789666920
     },
     {
       "source": "CoinTelegraph",
@@ -260,13 +337,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
       "published": "Thu, 17 Sep 2026 15:08:24 +0000",
       "ts": 1789657704
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
-      "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
-      "published": "Thu, 17 Sep 2026 15:03:19 +0000",
-      "ts": 1789657399
     },
     {
       "source": "Investing Forex",
@@ -312,6 +382,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
+      "link": "https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html",
+      "published": "2026-09-16T18:40:07Z",
+      "ts": 1789584007
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fed officials' forecasts project one more rate hike to come in 2026",
+      "link": "https://finance.yahoo.com/economy/policy/article/fed-officials-forecasts-project-one-more-rate-hike-to-come-in-2026-183856618.html",
+      "published": "2026-09-16T18:38:56Z",
+      "ts": 1789583936
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Saudi Oil Crisis Is About to Hit Europe",
       "link": "https://finance.yahoo.com/energy/articles/saudi-oil-crisis-hit-europe-183200571.html",
       "published": "2026-09-16T18:32:00Z",
@@ -333,94 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "This Dividend Stock Is Staging a Turnaround in 2026 and Pays More Than 2.4%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-staging-turnaround-2026-182206216.html",
-      "published": "2026-09-16T18:22:06Z",
-      "ts": 1789582926
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "GE Vernova rebounds 6% after earlier sell-off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-rebounds-6-earlier-180900688.html",
-      "published": "2026-09-16T18:09:00Z",
-      "ts": 1789582140
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fed Raises Rates by 25 Bps for First Time Since 2023 — What It Means for Bitcoin",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/fed-raises-rates-25-bps-180750413.html",
-      "published": "2026-09-16T18:07:50Z",
-      "ts": 1789582070
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
-      "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
-      "published": "2026-09-16 17:30:36",
-      "ts": 1789579836
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "SEC chief vows action on crypto rules after Senate bill fails",
-      "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
-      "published": "2026-09-16 16:20:11",
-      "ts": 1789575611
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Coinbase cuts trading fees for active users on Advanced platform",
-      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
-      "published": "2026-09-16 14:56:02",
-      "ts": 1789570562
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
-      "published": "2026-09-16 13:44:48",
-      "ts": 1789566288
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
-      "link": "https://finance.yahoo.com/economy/article/federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-happens-100449563.html",
-      "published": "2026-09-16T10:04:49Z",
-      "ts": 1789553089
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
-      "published": "2026-09-16 09:24:27",
-      "ts": 1789550667
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How the Federal Reserve rate hike shapes consumer loans",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/federal-reserve-loan-rates-190719060.html",
-      "published": "2025-09-16T19:07:19Z",
-      "ts": 1758049639
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The best credit cards for Airbnb rentals (2026): Earn points and cash back for your stay",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-for-airbnb-rentals-183212147.html",
-      "published": "2025-04-14T18:32:12Z",
-      "ts": 1744655532
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What a Fed rate hike means for your bank accounts, loans, credit cards, and investments",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/what-a-fed-rate-hike-means-for-your-bank-accounts-loans-credit-cards-and-investments-220526102.html",
-      "published": "2024-12-17T22:05:26Z",
-      "ts": 1734473126
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How the Federal Reserve's rate hike impacts student loan interest rates",
-      "link": "https://finance.yahoo.com/personal-finance/student-loans/article/federal-reserve-student-loan-rates-223344566.html",
-      "published": "2024-01-26T22:33:44Z",
-      "ts": 1706308424
+      "title": "How to Build $8,700 a Month in Dividend Income Without Selling a Single Share",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/build-8-700-month-dividend-182718179.html",
+      "published": "2026-09-16T18:27:18Z",
+      "ts": 1789583238
     }
   ]
 }
