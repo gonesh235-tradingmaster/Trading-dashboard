@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-18T19:09:42.151870Z",
+  "updated": "2026-09-18T19:24:01.331948Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Limited upside after hawkish BoE hold – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-limited-upside-after-hawkish-boe-hold-scotiabank-202609181919",
+      "published": "Fri, 18 Sep 2026 19:19:58 GMT",
+      "ts": 1789759198
+    },
+    {
+      "source": "MarketWatch",
+      "title": "It’s almost impossible to sell a condo these days: ‘I feel trapped’",
+      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 19:11:00 GMT",
+      "ts": 1789758660
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance launches 24/7 FX perps with weekend pricing system",
+      "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 19:06:30 +0000",
+      "ts": 1789758390
+    },
     {
       "source": "FXStreet",
       "title": "US 10-Year back at 5% as global tightening wave pushes",
@@ -136,13 +157,6 @@
       "ts": 1789748580
     },
     {
-      "source": "MarketWatch",
-      "title": "These fast-growing ETFs aim for yields as high as 17.5%. But here’s the catch.",
-      "link": "https://www.marketwatch.com/story/these-fast-growing-etfs-aim-for-yields-as-high-as-17-5-but-heres-the-catch-6f0a3d43?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 16:11:00 GMT",
-      "ts": 1789747860
-    },
-    {
       "source": "CoinTelegraph",
       "title": "CFTC submits crypto market regulation plan for White House review",
       "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -155,13 +169,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-weakens-despite-boj-hike-as-us-dollar-remains-firm-202609181554",
       "published": "Fri, 18 Sep 2026 15:54:41 GMT",
       "ts": 1789746881
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Schmid supports rate hike as inflation broadens beyond 3%",
-      "link": "https://www.fxstreet.com/news/feds-schmid-supports-rate-hike-as-inflation-broadens-beyond-3-202609181541",
-      "published": "Fri, 18 Sep 2026 15:41:15 GMT",
-      "ts": 1789746075
     },
     {
       "source": "CoinTelegraph",
@@ -311,13 +318,6 @@
       "ts": 1789723222
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
-      "link": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 09:14:03 +0000",
-      "ts": 1789722843
-    },
-    {
       "source": "Investing Forex",
       "title": "Here’s what BoE tightening means for EUR/GBP",
       "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Figure (FIGR) Bets AI Agents Can Rescue Trillions in Stalled Home Loans",
-      "link": "https://finance.yahoo.com/technology/ai/articles/figure-figr-bets-ai-agents-092850874.html",
-      "published": "2026-09-17T09:28:50Z",
-      "ts": 1789637330
+      "title": "A Philippine Telecom’s AI Makeover Tests UiPath’s (PATH) Pitch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/philippine-telecom-ai-makeover-tests-093943850.html",
+      "published": "2026-09-17T09:39:43Z",
+      "ts": 1789637983
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Invitation Homes Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invitation-homes-stock-underperforming-p-092714807.html",
-      "published": "2026-09-17T09:27:14Z",
-      "ts": 1789637234
+      "title": "Builders FirstSource Stock: Is BLDR Underperforming the Industrials Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/builders-firstsource-stock-bldr-underperforming-093740455.html",
+      "published": "2026-09-17T09:37:40Z",
+      "ts": 1789637860
     }
   ]
 }
