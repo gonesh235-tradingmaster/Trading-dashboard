@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-18T19:24:01.331948Z",
+  "updated": "2026-09-18T19:36:15.987587Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 19:30:00 GMT",
+      "ts": 1789759800
+    },
     {
       "source": "FXStreet",
       "title": "British Pound: Limited upside after hawkish BoE hold – Scotiabank",
       "link": "https://www.fxstreet.com/news/british-pound-limited-upside-after-hawkish-boe-hold-scotiabank-202609181919",
       "published": "Fri, 18 Sep 2026 19:19:58 GMT",
       "ts": 1789759198
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin overbought at $81K after triangle breakout: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-18 19:18:50",
+      "ts": 1789759130
     },
     {
       "source": "MarketWatch",
@@ -25,7 +39,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "US 10-Year back at 5% as global tightening wave pushes",
+      "title": "10-year Treasury yield rises back to 5% as global tightening wave pushes",
       "link": "https://www.fxstreet.com/news/us-10-year-back-at-5-as-global-tightening-wave-pushes-202609181903",
       "published": "Fri, 18 Sep 2026 19:03:12 GMT",
       "ts": 1789758192
@@ -148,13 +162,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-against-major-currencies-in-the-week-ending-september-18-93CH-4907692",
       "published": "2026-09-18 16:25:57",
       "ts": 1789748757
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Netflix is too focused on podcasts and not enough on good shows, analysts say",
-      "link": "https://www.marketwatch.com/story/netflix-is-too-focused-on-podcasts-and-not-enough-on-good-shows-analysts-say-be758c93?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 16:23:00 GMT",
-      "ts": 1789748580
     },
     {
       "source": "CoinTelegraph",
@@ -353,13 +360,6 @@
       "ts": 1789717052
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin consolidates at $77,612 with breakout imminent: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-18 07:11:59",
-      "ts": 1789715519
-    },
-    {
       "source": "Investing Forex",
       "title": "Why is the Australian Dollar gaining today?",
       "link": "https://www.investing.com/news/forex-news/why-is-australian-dollar-gaining-today-93CH-4906672",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "A Philippine Telecom’s AI Makeover Tests UiPath’s (PATH) Pitch",
-      "link": "https://finance.yahoo.com/technology/ai/articles/philippine-telecom-ai-makeover-tests-093943850.html",
-      "published": "2026-09-17T09:39:43Z",
-      "ts": 1789637983
+      "title": "Is Genuine Parts Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/genuine-parts-underperforming-nasdaq-094824193.html",
+      "published": "2026-09-17T09:48:24Z",
+      "ts": 1789638504
     },
     {
       "source": "Yahoo Finance",
-      "title": "Builders FirstSource Stock: Is BLDR Underperforming the Industrials Sector?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/builders-firstsource-stock-bldr-underperforming-093740455.html",
-      "published": "2026-09-17T09:37:40Z",
-      "ts": 1789637860
+      "title": "Is Leidos Stock Underperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-stock-underperforming-dow-094411865.html",
+      "published": "2026-09-17T09:44:11Z",
+      "ts": 1789638251
     }
   ]
 }
