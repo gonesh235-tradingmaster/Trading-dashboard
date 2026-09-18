@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T21:38:07.351297Z",
+  "updated": "2026-09-18T21:50:04.454772Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-strong-nodx-but-usd-still-drives-usd-sgd-ocbc-202609182149",
+      "published": "Fri, 18 Sep 2026 21:49:00 GMT",
+      "ts": 1789768140
+    },
     {
       "source": "FXStreet",
       "title": "AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break",
@@ -169,13 +176,6 @@
       "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 18:26:00 GMT",
       "ts": 1789755960
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: Mild bullish bias holds, but trend strength stays weak",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-mild-bullish-bias-holds-but-trend-strength-stays-weak-202609181757",
-      "published": "Fri, 18 Sep 2026 17:57:51 GMT",
-      "ts": 1789754271
     },
     {
       "source": "CoinTelegraph",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Can you use a personal loan to buy a car?",
-      "link": "https://finance.yahoo.com/markets/options/articles/personal-loan-buy-car-024352858.html",
-      "published": "2026-09-17T14:13:52Z",
-      "ts": 1789654432
+      "title": "HQDG Dividend Growth ETF Launches Into Rising Rates: Here’s What Matters Most",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hqdg-dividend-growth-etf-launches-142026539.html",
+      "published": "2026-09-17T14:20:26Z",
+      "ts": 1789654826
     },
     {
       "source": "Yahoo Finance",
-      "title": "Berentzen Gets a Shot of Takeover Speculation",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berentzen-gets-shot-takeover-speculation-141307195.html",
-      "published": "2026-09-17T14:13:07Z",
-      "ts": 1789654387
+      "title": "Seagate’s Gross Margin Hit 52.7% Last Quarter. Here’s Why the CFO Says It Holds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-gross-margin-hit-52-141744773.html",
+      "published": "2026-09-17T14:17:44Z",
+      "ts": 1789654664
     },
     {
       "source": "Yahoo Finance",
-      "title": "Could Eaton Stock Lose A Third Or Gain Half In A Year?",
-      "link": "https://finance.yahoo.com/markets/options/articles/could-eaton-stock-lose-third-141150535.html",
-      "published": "2026-09-17T14:11:50Z",
-      "ts": 1789654310
+      "title": "Home contract signings drop 4.7% from last year amid higher mortgage rates",
+      "link": "https://finance.yahoo.com/real-estate/article/home-contract-signings-drop-47-from-last-year-amid-higher-mortgage-rates-141613199.html",
+      "published": "2026-09-17T14:16:13Z",
+      "ts": 1789654573
     }
   ]
 }
