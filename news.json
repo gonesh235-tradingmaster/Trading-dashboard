@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-18T06:33:57.150581Z",
+  "updated": "2026-09-18T06:55:05.112113Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
+      "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
+      "published": "Fri, 18 Sep 2026 06:52:23 +0000",
+      "ts": 1789714343
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro declines against British Pound following UK Retail Sales, German Producer Price data",
+      "link": "https://www.fxstreet.com/news/euro-declines-against-british-pound-following-uk-retail-sales-german-producer-price-data-202609180649",
+      "published": "Fri, 18 Sep 2026 06:49:12 GMT",
+      "ts": 1789714152
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound languishes at seven-week lows despite bright UK Retail Sales data",
+      "link": "https://www.fxstreet.com/news/british-pound-languishes-at-seven-week-lows-despite-bright-uk-retail-sales-data-202609180639",
+      "published": "Fri, 18 Sep 2026 06:39:40 GMT",
+      "ts": 1789713580
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: Strong rebound supported by earnings growth – Danske Bank",
+      "link": "https://www.fxstreet.com/news/equities-strong-rebound-supported-by-earnings-growth-danske-bank-202609180639",
+      "published": "Fri, 18 Sep 2026 06:39:07 GMT",
+      "ts": 1789713547
+    },
     {
       "source": "FXStreet",
       "title": "Oil: Prices fall as supply risks reassessed – MUFG",
@@ -59,25 +87,11 @@
       "ts": 1789711076
     },
     {
-      "source": "FXStreet",
-      "title": "Forex Today: Japanese Yen falls despite BoJ's rate hike; Fedspeak in focus",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-holds-gains-as-markets-weigh-fed-rate-hike-boj-move-in-focus-202609180549",
-      "published": "Fri, 18 Sep 2026 05:49:53 GMT",
-      "ts": 1789710593
-    },
-    {
       "source": "CoinDesk",
       "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
       "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
       "published": "Fri, 18 Sep 2026 05:43:21 +0000",
       "ts": 1789710201
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee rebounds as rally in US yields and oil prices hits a pause",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
-      "published": "Fri, 18 Sep 2026 05:35:20 GMT",
-      "ts": 1789709720
     },
     {
       "source": "CoinDesk",
@@ -94,13 +108,6 @@
       "ts": 1789708037
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss Franc gains ground as easing US Yields pressures Greenback",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-ground-as-easing-us-yields-pressures-greenback-202609180459",
-      "published": "Fri, 18 Sep 2026 04:59:14 GMT",
-      "ts": 1789707554
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
       "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -113,13 +120,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
       "published": "Fri, 18 Sep 2026 04:49:17 +0000",
       "ts": 1789706957
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Strengthens to near 1.1500, while bearish bias persists below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-strengthens-to-near-11500-while-bearish-bias-persists-below-100-day-sma-202609180447",
-      "published": "Fri, 18 Sep 2026 04:47:33 GMT",
-      "ts": 1789706853
     },
     {
       "source": "CoinTelegraph",
@@ -183,6 +183,13 @@
       "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 23:49:23 +0000",
       "ts": 1789688963
+    },
+    {
+      "source": "FXStreet",
+      "title": "Ueda Speech: BoJ Governor discusses policy outlook after the expected interest rate hike",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-is-expected-to-deliver-a-hawkish-hike-pressured-by-rising-inflation-202609172200",
+      "published": "Thu, 17 Sep 2026 22:00:00 GMT",
+      "ts": 1789682400
     },
     {
       "source": "CoinDesk",
@@ -332,13 +339,6 @@
       "ts": 1789662143
     },
     {
-      "source": "CoinDesk",
-      "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
-      "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
-      "published": "Thu, 17 Sep 2026 15:08:24 +0000",
-      "ts": 1789657704
-    },
-    {
       "source": "Investing Forex",
       "title": "Uganda shilling faces pressure as dollar demand rises",
       "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
@@ -374,53 +374,53 @@
       "ts": 1789595647
     },
     {
+      "source": "Yahoo Finance",
+      "title": "A $10 Trillion Reason Why SpaceX Stock Is Up Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/10-trillion-reason-why-spacex-185529245.html",
+      "published": "2026-09-16T18:55:29Z",
+      "ts": 1789584929
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mining Stock Could Soon Unearth Another Record",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mining-stock-could-soon-unearth-185040112.html",
+      "published": "2026-09-16T18:50:40Z",
+      "ts": 1789584640
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Crypto Volatility to Stay High as Fed, CLARITY Failure Weigh on Markets",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-volatility-stay-high-fed-185000456.html",
+      "published": "2026-09-16T18:50:00Z",
+      "ts": 1789584600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Precious Metals Relinquish Gains Following Fed Rate Increase",
+      "link": "https://www.wsj.com/finance/commodities-futures/rate-hike-views-yields-keep-gold-under-pressure-49c31f66?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-16T18:49:00Z",
+      "ts": 1789584540
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Preliminary Agenda: 6th Palm Beach CorpGov Forum Nov 4-5 with Activism, Sports, VC",
+      "link": "https://finance.yahoo.com/news/preliminary-agenda-6th-palm-beach-224834498.html",
+      "published": "2026-09-16T18:48:34Z",
+      "ts": 1789584514
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "VF Corporation Cut Its Dividend 82%. Five Historical Cases Show What Could Happen Next",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vf-corporation-cut-dividend-82-184652448.html",
+      "published": "2026-09-16T18:46:52Z",
+      "ts": 1789584412
+    },
+    {
       "source": "Investing Forex",
       "title": "Loonie weakens after Fed hike as dollar gains on hawkish outlook",
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-after-fed-hike-as-dollar-gains-on-hawkish-outlook-4904309",
       "published": "2026-09-16 18:46:08",
       "ts": 1789584368
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
-      "link": "https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html",
-      "published": "2026-09-16T18:40:07Z",
-      "ts": 1789584007
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fed officials' forecasts project one more rate hike to come in 2026",
-      "link": "https://finance.yahoo.com/economy/policy/article/fed-officials-forecasts-project-one-more-rate-hike-to-come-in-2026-183856618.html",
-      "published": "2026-09-16T18:38:56Z",
-      "ts": 1789583936
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Saudi Oil Crisis Is About to Hit Europe",
-      "link": "https://finance.yahoo.com/energy/articles/saudi-oil-crisis-hit-europe-183200571.html",
-      "published": "2026-09-16T18:32:00Z",
-      "ts": 1789583520
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why It’s Time to Load Up on Nvidia Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-time-load-nvidia-stock-183025364.html",
-      "published": "2026-09-16T18:30:25Z",
-      "ts": 1789583425
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar gains after Fed raises interest rates",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
-      "published": "2026-09-16 18:28:59",
-      "ts": 1789583339
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How to Build $8,700 a Month in Dividend Income Without Selling a Single Share",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/build-8-700-month-dividend-182718179.html",
-      "published": "2026-09-16T18:27:18Z",
-      "ts": 1789583238
     }
   ]
 }
