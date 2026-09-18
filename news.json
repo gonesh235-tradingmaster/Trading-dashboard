@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-18T15:10:04.265676Z",
+  "updated": "2026-09-18T15:26:00.226313Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
+      "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+      "published": "Fri, 18 Sep 2026 15:16:37 +0000",
+      "ts": 1789744597
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: Technical setup favours further gains above 100",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-technical-setup-favours-further-gains-above-100-202609181516",
+      "published": "Fri, 18 Sep 2026 15:16:00 GMT",
+      "ts": 1789744560
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Many young investors can’t afford to invest without their parents’ help",
+      "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 15:14:00 GMT",
+      "ts": 1789744440
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What are the requirements for private student loans?",
+      "link": "https://finance.yahoo.com/news/qualify-private-student-loan-212942539.html",
+      "published": "2026-09-18T15:12:46Z",
+      "ts": 1789744366
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T15:11:31Z",
+      "ts": 1789744291
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Legendary Investor Warren Buffett Is Resigning as Berkshire Chairman",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/legendary-investor-warren-buffett-resigning-151058047.html",
+      "published": "2026-09-18T15:10:58Z",
+      "ts": 1789744258
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
@@ -22,20 +64,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/caleb-hammer-blasts-27-old-150000706.html",
       "published": "2026-09-18T15:00:00Z",
       "ts": 1789743600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 Stocks That Have Compounded Wealth for Decades. History Suggests the Next Decade Will Not Be Different",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-compounded-wealth-decades-145907091.html",
-      "published": "2026-09-18T14:59:07Z",
-      "ts": 1789743547
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "KCM awards $498m copper recovery plant contract to China’s NERIN",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/kcm-awards-498m-copper-recovery-145808484.html",
-      "published": "2026-09-18T14:58:08Z",
-      "ts": 1789743488
     },
     {
       "source": "Yahoo Finance",
@@ -85,13 +113,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-pressure-builds-near-140-against-us-dollar-scotiabank-202609181426",
       "published": "Fri, 18 Sep 2026 14:26:12 GMT",
       "ts": 1789741572
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Techs Move Higher As Dow Slides; Taiwan Semiconductor Nears Buy Point (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T14:24:59Z",
-      "ts": 1789741499
     },
     {
       "source": "MarketWatch",
@@ -185,13 +206,6 @@
       "ts": 1789736776
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound: QT overhaul supports Gilt curve and Pound – MUFG",
-      "link": "https://www.fxstreet.com/news/british-pound-qt-overhaul-supports-gilt-curve-and-pound-mufg-202609181303",
-      "published": "Fri, 18 Sep 2026 13:03:52 GMT",
-      "ts": 1789736632
-    },
-    {
       "source": "CoinDesk",
       "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
       "link": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
@@ -262,15 +276,8 @@
       "ts": 1789732260
     },
     {
-      "source": "MarketWatch",
-      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
-      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 11:50:00 GMT",
-      "ts": 1789732200
-    },
-    {
       "source": "FXStreet",
-      "title": "Gold rebound stalls as Treasury yields return toward multi-year highs",
+      "title": "Gold outlook hinges on Oil prices and shifting Fed expectations",
       "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
       "published": "Fri, 18 Sep 2026 11:32:13 GMT",
       "ts": 1789731133
@@ -400,13 +407,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-18 07:11:59",
       "ts": 1789715519
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
-      "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
-      "published": "Fri, 18 Sep 2026 06:52:23 +0000",
-      "ts": 1789714343
     },
     {
       "source": "Investing Forex",
