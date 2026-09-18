@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T01:51:54.090209Z",
+  "updated": "2026-09-18T02:10:01.504239Z",
   "count": 60,
   "items": [
     {
@@ -382,6 +382,34 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-sits-below-5-as-market-awaits-fed-decision-alphacheck-140528141.html",
+      "published": "2026-09-16T14:05:28Z",
+      "ts": 1789567528
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ray Dalio’s Fund Was Buying These 2 AI Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-fund-buying-2-140527912.html",
+      "published": "2026-09-16T14:05:27Z",
+      "ts": 1789567527
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "US homebuilder sentiment drops to 12-month low in September",
+      "link": "https://finance.yahoo.com/news/us-homebuilder-sentiment-drops-12-140214325.html",
+      "published": "2026-09-16T14:02:14Z",
+      "ts": 1789567334
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is State Street Corporation Stock Outperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-corporation-stock-outperforming-140143659.html",
+      "published": "2026-09-16T14:01:43Z",
+      "ts": 1789567303
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Here’s What Dragged Netflix (NFLX) in Q2",
       "link": "https://finance.yahoo.com/markets/stocks/articles/dragged-netflix-nflx-q2-140030973.html",
       "published": "2026-09-16T14:00:30Z",
@@ -393,34 +421,6 @@
       "link": "https://finance.yahoo.com/healthcare/articles/ai-next-gen-sequencing-strengthens-135904901.html",
       "published": "2026-09-16T13:59:04Z",
       "ts": 1789567144
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dear Salesforce Stock Fans, Mark Your Calendars for September 16",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-salesforce-stock-fans-mark-135653016.html",
-      "published": "2026-09-16T13:56:53Z",
-      "ts": 1789567013
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Circle Unveils New Arc Blockchain",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/circle-unveils-arc-blockchain-135200065.html",
-      "published": "2026-09-16T13:52:00Z",
-      "ts": 1789566720
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin ETFs See $450 Million In Outflows After Clarity Act Vote",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-see-450-million-135000092.html",
-      "published": "2026-09-16T13:50:00Z",
-      "ts": 1789566600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Charter Communications (CHTR): Cox Merger and Wireless Growth Signal Stronger Future Ahead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/charter-communications-chtr-cox-merger-134918958.html",
-      "published": "2026-09-16T13:49:18Z",
-      "ts": 1789566558
     }
   ]
 }
