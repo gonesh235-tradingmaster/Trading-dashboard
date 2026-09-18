@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T20:25:34.783404Z",
+  "updated": "2026-09-18T20:39:24.158429Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Range trade persists against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-persists-against-us-dollar-uob-202609182038",
+      "published": "Fri, 18 Sep 2026 20:38:00 GMT",
+      "ts": 1789763880
+    },
     {
       "source": "MarketWatch",
       "title": "Most of what you know about data centers is wrong",
@@ -169,13 +176,6 @@
       "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 17:02:00 GMT",
       "ts": 1789750920
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average gives back its bounce as factory output stalls",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-gives-back-its-bounce-as-factory-output-stalls-202609181656",
-      "published": "Fri, 18 Sep 2026 16:56:00 GMT",
-      "ts": 1789750560
     },
     {
       "source": "Investing Forex",
@@ -402,25 +402,25 @@
       "ts": 1789673072
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer on Advanced Micro Devices (AMD): “Buy It”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-advanced-micro-devices-110433644.html",
+      "published": "2026-09-17T11:04:33Z",
+      "ts": 1789643073
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Suggests A Caller That It Is Time to Move On From DraftKings (DKNG)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-caller-time-110105395.html",
+      "published": "2026-09-17T11:01:05Z",
+      "ts": 1789642865
+    },
+    {
       "source": "Investing Crypto",
       "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
       "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
       "published": "2026-09-17 11:00:34",
       "ts": 1789642834
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Morning Bid: A timely hike",
-      "link": "https://finance.yahoo.com/economy/policy/articles/morning-bid-timely-hike-103542140.html",
-      "published": "2026-09-17T10:35:42Z",
-      "ts": 1789641342
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Worried $200K won’t last through retirement? Here’s why you may never run out of cash — if you make this move now",
-      "link": "https://finance.yahoo.com/markets/articles/worried-200k-won-t-last-103500964.html",
-      "published": "2026-09-17T10:35:00Z",
-      "ts": 1789641300
     }
   ]
 }
