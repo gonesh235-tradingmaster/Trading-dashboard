@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-18T09:40:37.793965Z",
+  "updated": "2026-09-18T09:52:09.039302Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
+      "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
+      "published": "Fri, 18 Sep 2026 09:49:51 +0000",
+      "ts": 1789724991
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609180945",
+      "published": "Fri, 18 Sep 2026 09:45:02 GMT",
+      "ts": 1789724702
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold Price Forecast: XAU/USD appreciates to $4,400 as yields retreat",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-appreciates-to-4-400-as-yields-retreat-202609180941",
+      "published": "Fri, 18 Sep 2026 09:41:40 GMT",
+      "ts": 1789724500
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar: Short-term range but path still lower against US Dollar – UOB",
@@ -101,25 +122,11 @@
       "ts": 1789720999
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Yen vulnerable after BoJ communication – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-yen-vulnerable-after-boj-communication-mufg-202609180841",
-      "published": "Fri, 18 Sep 2026 08:41:45 GMT",
-      "ts": 1789720905
-    },
-    {
       "source": "Investing Forex",
       "title": "Citi sees EUR/JPY falling below ¥175 despite near-term rebound risk",
       "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
       "published": "2026-09-18 08:37:50",
       "ts": 1789720670
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Consolidation holds below 0.8300 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-consolidation-holds-below-08300-against-us-dollar-uob-202609180826",
-      "published": "Fri, 18 Sep 2026 08:26:12 GMT",
-      "ts": 1789719972
     },
     {
       "source": "Investing Forex",
@@ -381,13 +388,6 @@
       "ts": 1789670760
     },
     {
-      "source": "CoinDesk",
-      "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
-      "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
-      "published": "Thu, 17 Sep 2026 18:40:38 +0000",
-      "ts": 1789670438
-    },
-    {
       "source": "Investing Forex",
       "title": "Uganda shilling faces pressure as dollar demand rises",
       "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stocks slide toward lowest level since July after Warsh’s hawkish press conference",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-toward-lowest-level-212329075.html",
-      "published": "2026-09-16T21:23:29Z",
-      "ts": 1789593809
+      "title": "Rum Roars on $13.7 Billion Compute Deal With Anthropic. How to Play RUM Stock Now.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/rum-roars-13-7-billion-214658317.html",
+      "published": "2026-09-16T21:46:58Z",
+      "ts": 1789595218
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Hawaiian Electric (HE): Does a $1 Billion Bank IPO Valuation Matter?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hawaiian-electric-does-1-billion-212245205.html",
-      "published": "2026-09-16T21:22:45Z",
-      "ts": 1789593765
+      "source": "Investing Crypto",
+      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
+      "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
+      "published": "2026-09-16 17:30:36",
+      "ts": 1789579836
     }
   ]
 }
