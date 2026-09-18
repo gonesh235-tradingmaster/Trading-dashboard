@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T21:50:04.454772Z",
+  "updated": "2026-09-18T22:09:38.884307Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin jumps, tops $80k for first time since Sept 7 & turns positive for the week",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
+      "published": "2026-09-18 21:49:51",
+      "ts": 1789768191
+    },
     {
       "source": "FXStreet",
       "title": "Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC",
@@ -228,13 +235,6 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin climbs to $78k as markets look past Clarity setback",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
-      "published": "2026-09-18 13:39:48",
-      "ts": 1789738788
-    },
-    {
-      "source": "Investing Crypto",
       "title": "Why is Bitcoin US Dollar stock climbing today?",
       "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
       "published": "2026-09-18 13:06:16",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "HQDG Dividend Growth ETF Launches Into Rising Rates: Here’s What Matters Most",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hqdg-dividend-growth-etf-launches-142026539.html",
-      "published": "2026-09-17T14:20:26Z",
-      "ts": 1789654826
+      "title": "Broadcom CEO Hock Tan Says He Isn’t Worried – ‘No, Not in the Least’ – About AVGO as AI Extinction Fears Rattle Stocks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-ceo-hock-tan-says-145433255.html",
+      "published": "2026-09-17T14:54:33Z",
+      "ts": 1789656873
     },
     {
       "source": "Yahoo Finance",
-      "title": "Seagate’s Gross Margin Hit 52.7% Last Quarter. Here’s Why the CFO Says It Holds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-gross-margin-hit-52-141744773.html",
-      "published": "2026-09-17T14:17:44Z",
-      "ts": 1789654664
+      "title": "Should I buy a new or used car? Here’s how to decide",
+      "link": "https://finance.yahoo.com/deals-and-buying-guides/articles/buy-used-car-181444914.html",
+      "published": "2026-09-17T14:53:52Z",
+      "ts": 1789656832
     },
     {
       "source": "Yahoo Finance",
-      "title": "Home contract signings drop 4.7% from last year amid higher mortgage rates",
-      "link": "https://finance.yahoo.com/real-estate/article/home-contract-signings-drop-47-from-last-year-amid-higher-mortgage-rates-141613199.html",
-      "published": "2026-09-17T14:16:13Z",
-      "ts": 1789654573
+      "title": "German distiller Berentzen in talks to sell to Sazerac",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/german-distiller-berentzen-talks-sell-093336262.html",
+      "published": "2026-09-17T14:50:13Z",
+      "ts": 1789656613
     }
   ]
 }
