@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-18T10:52:07.475955Z",
+  "updated": "2026-09-18T11:09:35.341758Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar strengthens as RBA maintains hawkish stance",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-as-rba-maintains-hawkish-stance-202609181107",
+      "published": "Fri, 18 Sep 2026 11:07:32 GMT",
+      "ts": 1789729652
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Yen plummets after BoJ’s policy outcome",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-yen-plummets-after-bojs-policy-outcome-202609181100",
+      "published": "Fri, 18 Sep 2026 11:00:04 GMT",
+      "ts": 1789729204
+    },
     {
       "source": "MarketWatch",
       "title": "Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman",
       "link": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 10:39:00 GMT",
-      "ts": 1789727940
+      "published": "Fri, 18 Sep 2026 10:55:00 GMT",
+      "ts": 1789728900
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
+      "link": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 10:46:17 +0000",
+      "ts": 1789728377
     },
     {
       "source": "MarketWatch",
@@ -150,13 +171,6 @@
       "ts": 1789722035
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound: BoE on hold sparks Sterling softness – Danske Bank",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-on-hold-sparks-sterling-softness-danske-bank-202609180857",
-      "published": "Fri, 18 Sep 2026 08:57:12 GMT",
-      "ts": 1789721832
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
       "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -246,13 +260,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
       "published": "Fri, 18 Sep 2026 05:43:21 +0000",
       "ts": 1789710201
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee gets slight relief as rally in US yields and oil price hits pause",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
-      "published": "Fri, 18 Sep 2026 05:35:20 GMT",
-      "ts": 1789709720
     },
     {
       "source": "CoinDesk",
@@ -374,13 +381,6 @@
       "ts": 1789676340
     },
     {
-      "source": "CoinTelegraph",
-      "title": "CFTC expands regulatory relief for passive trading software providers",
-      "link": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 19:30:48 +0000",
-      "ts": 1789673448
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar halts six-day rally after Fed hike, sterling slips after BoE stands pat",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Brazil’s Central Bank Lowers For Fifth Straight Meeting as Inflation Cools",
-      "link": "https://www.wsj.com/economy/central-banking/brazils-central-bank-lowers-for-fifth-straight-meeting-as-inflation-cools-7977cc0c?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-16T22:45:00Z",
-      "ts": 1789598700
+      "title": "This High-Yield Tech Stock Just Raised Its Dividend by Nearly 8%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/high-yield-tech-stock-just-233002292.html",
+      "published": "2026-09-16T23:30:02Z",
+      "ts": 1789601402
     },
     {
       "source": "Yahoo Finance",
-      "title": "Seagate (STX) Retired its 2028 Notes. Was the Cash and Share Cost Worth it?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-retired-2028-notes-224217935.html",
-      "published": "2026-09-16T22:42:17Z",
-      "ts": 1789598537
+      "title": "Forgent (FPS) Powers 11% Higher on Swing to Profits, Upbeat Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-fps-powers-11-higher-231158558.html",
+      "published": "2026-09-16T23:11:58Z",
+      "ts": 1789600318
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
-      "published": "2026-09-16 21:54:07",
-      "ts": 1789595647
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says He Is “Worried About” Uber (UBER)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-worried-uber-230640156.html",
+      "published": "2026-09-16T23:06:40Z",
+      "ts": 1789600000
     }
   ]
 }
