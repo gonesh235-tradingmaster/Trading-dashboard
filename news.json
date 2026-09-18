@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-18T15:53:05.639622Z",
+  "updated": "2026-09-18T16:09:29.370668Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen weakens despite BoJ hike as US Dollar remains firm",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-despite-boj-hike-as-us-dollar-remains-firm-202609181554",
+      "published": "Fri, 18 Sep 2026 15:54:41 GMT",
+      "ts": 1789746881
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Meta Is About to Become Mega Cloud Operator",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-become-mega-cloud-operator-154422140.html",
+      "published": "2026-09-18T15:44:22Z",
+      "ts": 1789746262
+    },
     {
       "source": "Yahoo Finance",
       "title": "Fed sat on Silicon Valley Bank flaws because regulators feared being wrong, report finds",
       "link": "https://finance.yahoo.com/economy/policy/article/fed-sat-on-silicon-valley-bank-flaws-because-regulators-feared-being-wrong-report-finds-154331423.html",
       "published": "2026-09-18T15:43:31Z",
       "ts": 1789746211
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Costco’s DoorDash Launch Came Too Late to Touch the Quarter It Reports September 24",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-doordash-launch-came-too-154323539.html",
+      "published": "2026-09-18T15:43:23Z",
+      "ts": 1789746203
     },
     {
       "source": "FXStreet",
@@ -17,25 +38,11 @@
       "ts": 1789746075
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Why Alphabet Stock Popped This Morning",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-stock-popped-morning-153653750.html",
-      "published": "2026-09-18T15:36:53Z",
-      "ts": 1789745813
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
       "link": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 15:35:59 +0000",
       "ts": 1789745759
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 AI Stocks Stuck in Neutral to Buy Before Their Next Catalysts Hit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-stuck-neutral-153500608.html",
-      "published": "2026-09-18T15:35:00Z",
-      "ts": 1789745700
     },
     {
       "source": "MarketWatch",
@@ -169,13 +176,6 @@
       "link": "https://www.fxstreet.com/news/bank-of-canada-rate-path-risks-tilt-earlier-rbc-202609181404",
       "published": "Fri, 18 Sep 2026 14:04:20 GMT",
       "ts": 1789740260
-    },
-    {
-      "source": "FXStreet",
-      "title": "European Central Bank: Quarterly hikes still baseline – Nordea",
-      "link": "https://www.fxstreet.com/news/european-central-bank-quarterly-hikes-still-baseline-nordea-202609181350",
-      "published": "Fri, 18 Sep 2026 13:50:19 GMT",
-      "ts": 1789739419
     },
     {
       "source": "Investing Crypto",
