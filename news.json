@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-18T08:54:49.226583Z",
+  "updated": "2026-09-18T09:09:52.111874Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Hawkish ECB offers limited support against US Dollar - ING",
+      "link": "https://www.fxstreet.com/news/euro-hawkish-ecb-offers-limited-support-against-us-dollar-ing-202609180907",
+      "published": "Fri, 18 Sep 2026 09:07:53 GMT",
+      "ts": 1789722473
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: BoE on hold sparks Sterling softness – Danske Bank",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-on-hold-sparks-sterling-softness-danske-bank-202609180857",
+      "published": "Fri, 18 Sep 2026 08:57:12 GMT",
+      "ts": 1789721832
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index tests late July high, near 100.35 on hawkish Fed stance",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-tests-late-july-high-near-10035-on-hawkish-fed-stance-202609180854",
+      "published": "Fri, 18 Sep 2026 08:54:53 GMT",
+      "ts": 1789721693
+    },
     {
       "source": "FXStreet",
       "title": "GBP/USD Price Forecast: Attracts slight bids below trendline near 1.3360",
       "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-attracts-slight-bids-below-trendline-near-13360-202609180852",
       "published": "Fri, 18 Sep 2026 08:52:22 GMT",
       "ts": 1789721542
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
+      "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 08:50:38 +0000",
+      "ts": 1789721438
     },
     {
       "source": "CoinTelegraph",
@@ -73,32 +101,11 @@
       "ts": 1789719156
     },
     {
-      "source": "FXStreet",
-      "title": "Czech Koruna: CNB pause before potential November hike – ING",
-      "link": "https://www.fxstreet.com/news/czech-koruna-cnb-pause-before-potential-november-hike-ing-202609180756",
-      "published": "Fri, 18 Sep 2026 07:56:02 GMT",
-      "ts": 1789718162
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro zone yields head for weekly decline as post-Fed rally soothes duration fears",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
       "published": "2026-09-18 07:55:05",
       "ts": 1789718105
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro extends gains, nearing 181.00 against Japanese Yen despite Ueda's hawkish comments",
-      "link": "https://www.fxstreet.com/news/euro-extends-gains-nearing-18100-despite-bojs-uedas-hawkish-comments-202609180751",
-      "published": "Fri, 18 Sep 2026 07:51:00 GMT",
-      "ts": 1789717860
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Rallies to two-week top, above 210.50 amid post-BoJ JPY selloff",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rallies-to-two-week-top-above-21050-amid-post-boj-jpy-selloff-202609180744",
-      "published": "Fri, 18 Sep 2026 07:44:29 GMT",
-      "ts": 1789717469
     },
     {
       "source": "CoinDesk",
@@ -164,6 +171,13 @@
       "ts": 1789710201
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee gets slight relief as rally in US yields and oil price hits pause",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
+      "published": "Fri, 18 Sep 2026 05:35:20 GMT",
+      "ts": 1789709720
+    },
+    {
       "source": "CoinDesk",
       "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
       "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
@@ -211,13 +225,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4906656",
       "published": "2026-09-18 03:36:04",
       "ts": 1789702564
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold flirts with $$4,400 as softer US bond yields offset hawkish Fed and bullish USD",
-      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-hawkish-fed-and-middle-east-jitters-limit-usd-downside-202609180321",
-      "published": "Fri, 18 Sep 2026 03:21:07 GMT",
-      "ts": 1789701667
     },
     {
       "source": "CoinDesk",
@@ -367,13 +374,6 @@
       "ts": 1789666272
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Is there any chance left to save the CLARITY Act?",
-      "link": "https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 17:00:00 +0000",
-      "ts": 1789664400
-    },
-    {
       "source": "Investing Forex",
       "title": "Uganda shilling faces pressure as dollar demand rises",
       "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "When the Fed hikes rates, here's how it affects retirees and their money",
-      "link": "https://finance.yahoo.com/economy/article/when-the-fed-hikes-rates-heres-how-it-affects-retirees-and-their-money-212953419.html",
-      "published": "2026-09-16T21:29:53Z",
-      "ts": 1789594193
+      "title": "Sunbelt Rentals (SUNB) Raises Guidance. Will Higher Fleet Spending Deliver Cash?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sunbelt-rentals-sunb-raises-guidance-213756984.html",
+      "published": "2026-09-16T21:37:56Z",
+      "ts": 1789594676
     },
     {
       "source": "Yahoo Finance",
-      "title": "GEV Stock Jumps After GE Vernova CEO Touts This Milestone",
-      "link": "https://www.investors.com/news/gev-stock-ge-vernova-expects-200-billion-backlog-very-soon/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T21:27:51Z",
-      "ts": 1789594071
+      "title": "Noise wants to help everyday people  become paid content creators",
+      "link": "https://finance.yahoo.com/media-advertising/articles/noise-wants-help-everyday-people-213500409.html",
+      "published": "2026-09-16T21:35:00Z",
+      "ts": 1789594500
     },
     {
       "source": "Yahoo Finance",
-      "title": "Pfizer Raises 2026 Revenue Guidance to $62 Billion. Here’s What’s Behind the Beat",
-      "link": "https://finance.yahoo.com/healthcare/articles/pfizer-raises-2026-revenue-guidance-212451559.html",
-      "published": "2026-09-16T21:24:51Z",
-      "ts": 1789593891
+      "title": "AeroVironment (AVAV) Has $1.5 Billion in Funded Backlog. Can Conversion Support Guidance?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-1-5-billion-213431378.html",
+      "published": "2026-09-16T21:34:31Z",
+      "ts": 1789594471
     }
   ]
 }
