@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T12:12:17.943580Z",
+  "updated": "2026-09-18T12:32:38.712846Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Warren Buffett moves further out of the spotlight at Berkshire, as his son is named chairman",
+      "link": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 12:22:00 GMT",
+      "ts": 1789734120
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury curve flattens as long-end yields ease off multi-year peaks",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
+      "published": "2026-09-18 12:16:35",
+      "ts": 1789733795
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen: Cautious BoJ tilt weighs on JPY against US Dollar – BBH",
@@ -106,13 +120,6 @@
       "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-yen-plummets-after-bojs-policy-outcome-202609181100",
       "published": "Fri, 18 Sep 2026 11:00:04 GMT",
       "ts": 1789729204
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman",
-      "link": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 10:55:00 GMT",
-      "ts": 1789728900
     },
     {
       "source": "CoinTelegraph",
@@ -239,13 +246,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
       "published": "2026-09-18 08:17:33",
       "ts": 1789719453
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro zone yields head for weekly decline as post-Fed rally soothes duration fears",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
-      "published": "2026-09-18 07:55:05",
-      "ts": 1789718105
     },
     {
       "source": "CoinDesk",
@@ -403,6 +403,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Liberty Global (LBTYA): Can £600M of Proposed Virgin Media O2 Cuts Reduce Debt?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-global-lbtya-600m-proposed-035730613.html",
+      "published": "2026-09-17T03:57:30Z",
+      "ts": 1789617450
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "GE Vernova and Vineyard Wind Settle $300M-Plus Offshore Wind Dispute",
       "link": "https://finance.yahoo.com/energy/articles/ge-vernova-vineyard-wind-settle-024435837.html",
       "published": "2026-09-17T02:44:35Z",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-draws-bullish-010252885.html",
       "published": "2026-09-17T01:02:52Z",
       "ts": 1789606972
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "These 2 Words From Fed Chair Kevin Warsh Sunk the Dow, S&P 500, and Nasdaq, and Put Wall Street on Notice",
-      "link": "https://finance.yahoo.com/economy/policy/articles/2-words-fed-chair-kevin-001101303.html",
-      "published": "2026-09-17T00:11:01Z",
-      "ts": 1789603861
     }
   ]
 }
