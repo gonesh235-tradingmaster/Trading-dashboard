@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T09:09:49.755324Z",
+  "updated": "2026-09-19T09:25:10.886402Z",
   "count": 60,
   "items": [
     {
@@ -396,6 +396,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "FTSE 100 Live: FTSE 100 slides as Wall Street turns mixed",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-ftse-100-060800408.html",
+      "published": "2026-09-18T06:08:00Z",
+      "ts": 1789711680
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Lloyds Banking Group Maps Accelerate 2030 Plan With AI, Growth and Buyback Focus",
       "link": "https://finance.yahoo.com/markets/stocks/articles/lloyds-banking-group-maps-accelerate-060205810.html",
       "published": "2026-09-18T06:02:05Z",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/why-is-australian-dollar-gaining-today-93CH-4906672",
       "published": "2026-09-18 05:58:24",
       "ts": 1789711104
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Grayscale Rules Out Major Crypto Shifts From a Second 2026 Hike",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/grayscale-rules-major-crypto-shifts-055759306.html",
-      "published": "2026-09-18T05:57:59Z",
-      "ts": 1789711079
     }
   ]
 }
