@@ -1,12 +1,19 @@
 {
-  "updated": "2026-09-19T14:50:05.723290Z",
+  "updated": "2026-09-19T15:08:58.034370Z",
   "count": 60,
   "items": [
     {
       "source": "MarketWatch",
+      "title": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500",
+      "link": "https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 14:57:00 GMT",
+      "ts": 1789829820
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 14:46:00 GMT",
+      "link": "https://finance.yahoo.com/healthcare/articles/m-50s-mother-died-alzheimer-233000741.html",
+      "published": "2026-09-19T14:46:00Z",
       "ts": 1789829160
     },
     {
@@ -18,17 +25,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "CVS division completes Chapter 11 bankruptcy liquidation",
-      "link": "https://finance.yahoo.com/healthcare/articles/cvs-division-completes-chapter-11-150700440.html",
-      "published": "2026-09-19T14:33:06Z",
-      "ts": 1789828386
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Upstart, Affirm, and SoFi All Lend to the Same Borrowers. Only One of Them Funds With Deposits.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-affirm-sofi-lend-same-143200816.html",
-      "published": "2026-09-19T14:32:00Z",
-      "ts": 1789828320
+      "title": "What 1 Popular Retirement Rule Says You Should Have Saved by Age 67",
+      "link": "https://finance.yahoo.com/markets/articles/1-popular-retirement-rule-says-143500280.html",
+      "published": "2026-09-19T14:35:00Z",
+      "ts": 1789828500
     },
     {
       "source": "MarketWatch",
@@ -160,13 +160,6 @@
       "source": "MarketWatch",
       "title": "I just started dating someone I really like, but he’s moving to Mexico for six months. Should I spend the money to visit him?",
       "link": "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 12:00:00 GMT",
-      "ts": 1789819200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
-      "link": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 12:00:00 GMT",
       "ts": 1789819200
     },
@@ -421,6 +414,13 @@
       "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
       "published": "2026-09-18 09:00:35",
       "ts": 1789722035
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees EUR/JPY falling below ¥175 despite near-term rebound risk",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
+      "published": "2026-09-18 08:37:50",
+      "ts": 1789720670
     }
   ]
 }
