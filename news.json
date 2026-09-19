@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T05:24:14.000666Z",
+  "updated": "2026-09-19T05:38:31.195727Z",
   "count": 60,
   "items": [
     {
@@ -403,6 +403,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Saudi Pipeline Outage Could Deepen the Global Fuel Crunch",
+      "link": "https://finance.yahoo.com/energy/articles/saudi-pipeline-outage-could-deepen-230000579.html",
+      "published": "2026-09-17T23:00:00Z",
+      "ts": 1789686000
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Teledyne Technologies (TDY) Price Target Hiked to $760 as Needham Bets on Defense and Short-Cycle Recovery",
       "link": "https://finance.yahoo.com/markets/stocks/articles/teledyne-technologies-tdy-price-target-224411866.html",
       "published": "2026-09-17T22:44:11Z",
@@ -410,17 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Lennar CEO Warns Homebuyers Are ‘Clearly Stretching’ Their Finances",
-      "link": "https://finance.yahoo.com/real-estate/articles/lennar-ceo-warns-homebuyers-clearly-222319170.html",
-      "published": "2026-09-17T22:23:19Z",
-      "ts": 1789683799
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Is Ethereum? How It Works and How It Differs From Bitcoin",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-works-differs-bitcoin-222206524.html",
-      "published": "2026-09-17T22:22:06Z",
-      "ts": 1789683726
+      "title": "Convenience store giant closes 80 stores",
+      "link": "https://finance.yahoo.com/small-business/articles/convenience-store-giant-closes-80-223300679.html",
+      "published": "2026-09-17T22:33:00Z",
+      "ts": 1789684380
     }
   ]
 }
