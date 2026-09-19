@@ -1,20 +1,27 @@
 {
-  "updated": "2026-09-19T17:36:03.223372Z",
+  "updated": "2026-09-19T17:50:27.172544Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "How Does This $40.3 Million Birwood Heights Financing Arrangement Benefit Marcus & Millichap’s (MMI)",
+      "link": "https://finance.yahoo.com/real-estate/articles/does-40-3-million-birwood-173911914.html",
+      "published": "2026-09-19T17:39:11Z",
+      "ts": 1789839551
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Warren Buffett Is No Longer Berkshire's Chairman. Here’s Why I'm Buying the Stock Anyway.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-no-longer-berkshires-172201521.html",
+      "published": "2026-09-19T17:22:01Z",
+      "ts": 1789838521
+    },
     {
       "source": "MarketWatch",
       "title": "These are the 10 biggest retirement fears — and what you can do about them",
       "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 17:21:00 GMT",
       "ts": 1789838460
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BofA drops stunning warning about Fed rate hikes",
-      "link": "https://finance.yahoo.com/economy/policy/articles/bofa-drops-stunning-warning-fed-171700996.html",
-      "published": "2026-09-19T17:17:00Z",
-      "ts": 1789838220
     },
     {
       "source": "Yahoo Finance",
@@ -113,13 +120,6 @@
       "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 15:57:00 GMT",
       "ts": 1789833420
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "PicS N.V. (PICS) Delivers Credit Portfolio Momentum and Q2 Outperformance Across the Board",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pics-n-v-pics-delivers-155428079.html",
-      "published": "2026-09-19T15:54:28Z",
-      "ts": 1789833268
     },
     {
       "source": "MarketWatch",
