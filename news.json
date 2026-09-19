@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T01:08:47.272423Z",
+  "updated": "2026-09-19T01:25:14.736779Z",
   "count": 60,
   "items": [
     {
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Mortgage preapproval vs. prequalification: Which should you choose?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-preapproval-vs-prequalification-182927362.html",
+      "published": "2026-09-17T18:29:27Z",
+      "ts": 1789669767
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SpaceX Said $100 Billion Is Within Reach, Its Cash Flow Tells Another Story",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-said-100-billion-within-182512037.html",
+      "published": "2026-09-17T18:25:12Z",
+      "ts": 1789669512
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Logistic Properties of the Americas (LPA) Wins $145 Million Sale Approval. Can Mexico Replace Peru Income?",
       "link": "https://finance.yahoo.com/real-estate/articles/logistic-properties-americas-lpa-wins-182352178.html",
       "published": "2026-09-17T18:23:52Z",
       "ts": 1789669432
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Roblox (RBLX) Plans Standalone Games. Can its Business Expand Beyond its App?",
-      "link": "https://finance.yahoo.com/technology/articles/roblox-rblx-plans-standalone-games-181908036.html",
-      "published": "2026-09-17T18:19:08Z",
-      "ts": 1789669148
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Iren’s CEO Says Demand Is Strong, The Financials Says It’s Complicated",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-ceo-says-demand-strong-181658757.html",
-      "published": "2026-09-17T18:16:58Z",
-      "ts": 1789669018
     }
   ]
 }
