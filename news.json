@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-19T14:24:23.899712Z",
+  "updated": "2026-09-19T14:37:53.761816Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
+      "link": "https://www.marketwatch.com/story/classic-budgeting-rules-dont-work-anymore-even-if-your-household-makes-100-000-heres-what-does-cfb235a8?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 14:31:00 GMT",
+      "ts": 1789828260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way.",
+      "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 14:23:00 GMT",
+      "ts": 1789827780
+    },
     {
       "source": "MarketWatch",
       "title": "Most workers would take a pay cut for job security right now: ‘I can’t deal with this stress anymore’",
@@ -11,17 +25,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Anthropic's IPO Is Coming. Here's What That Means for S&P 500 Investors.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropics-ipo-coming-heres-means-140500319.html",
+      "published": "2026-09-19T14:05:00Z",
+      "ts": 1789826700
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
       "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-raised-dividend-31-years-140251592.html",
       "published": "2026-09-19T14:02:51Z",
       "ts": 1789826571
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Texas Data Centers ‘Dug Their Own Grave,’ Gov Says. At 63, a Rancher Can Lease His Land and Give Social Security More Time to Grow.",
-      "link": "https://finance.yahoo.com/real-estate/articles/texas-data-centers-dug-own-140139976.html",
-      "published": "2026-09-19T14:01:39Z",
-      "ts": 1789826499
     },
     {
       "source": "CoinDesk",
@@ -213,13 +227,6 @@
       "ts": 1789774320
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 23:30:00 GMT",
-      "ts": 1789774200
-    },
-    {
       "source": "FXStreet",
       "title": "South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC",
       "link": "https://www.fxstreet.com/news/south-korean-won-foreign-equity-flows-keep-krw-heavy-against-us-dollar-ocbc-202609182327",
@@ -232,13 +239,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-202609182307",
       "published": "Fri, 18 Sep 2026 23:07:00 GMT",
       "ts": 1789772820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 23:00:00 GMT",
-      "ts": 1789772400
     },
     {
       "source": "Investing Crypto",
