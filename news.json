@@ -1,20 +1,41 @@
 {
-  "updated": "2026-09-19T13:37:45.922654Z",
+  "updated": "2026-09-19T13:50:16.403225Z",
   "count": 60,
   "items": [
     {
-      "source": "Yahoo Finance",
-      "title": "Motorola Solutions Eyes Defense, Drone Security Growth as Silvus Scales",
-      "link": "https://finance.yahoo.com/technology/articles/motorola-solutions-eyes-defense-drone-130200808.html",
-      "published": "2026-09-19T13:02:00Z",
-      "ts": 1789822920
+      "source": "CoinDesk",
+      "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+      "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+      "published": "Sat, 19 Sep 2026 13:39:15 +0000",
+      "ts": 1789825155
     },
     {
       "source": "Yahoo Finance",
-      "title": "What Will $5,000 Invested in Palantir Stock Be Worth in 5 Years?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-000-invested-palantir-stock-130027090.html",
-      "published": "2026-09-19T13:00:27Z",
-      "ts": 1789822827
+      "title": "Is Arm Holdings Still a Hidden Winner of the AI Chip Race?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-still-hidden-winner-133700100.html",
+      "published": "2026-09-19T13:37:00Z",
+      "ts": 1789825020
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "I Wouldn't Touch This 6.3%-Yielding Dividend Stock Right Now, Even Though Everyone Else Is Buying It.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wouldnt-touch-6-3-yielding-133500278.html",
+      "published": "2026-09-19T13:35:00Z",
+      "ts": 1789824900
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Lawyers say your $5,000 debt doesn't disappear when the company you owe goes out of business — here's why",
+      "link": "https://finance.yahoo.com/small-business/articles/lawyers-5-000-debt-doesnt-133000085.html",
+      "published": "2026-09-19T13:30:00Z",
+      "ts": 1789824600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+      "published": "2026-09-19T13:16:31Z",
+      "ts": 1789823791
     },
     {
       "source": "MarketWatch",
@@ -66,25 +87,11 @@
       "ts": 1789820967
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Mitt Romney warned a billionaire tax triggers demand for 2 assets — now California decides. Get in before the super-rich",
-      "link": "https://finance.yahoo.com/economy/policy/articles/mitt-romney-warned-billionaire-tax-122500287.html",
-      "published": "2026-09-19T12:25:00Z",
-      "ts": 1789820700
-    },
-    {
       "source": "CoinDesk",
       "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
       "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
       "published": "Sat, 19 Sep 2026 12:13:57 +0000",
       "ts": 1789820037
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "published": "2026-09-19T12:08:52Z",
-      "ts": 1789819732
     },
     {
       "source": "CoinDesk",
@@ -400,13 +407,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
       "published": "Fri, 18 Sep 2026 11:15:00 +0000",
       "ts": 1789730100
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
-      "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
-      "published": "Fri, 18 Sep 2026 10:33:05 +0000",
-      "ts": 1789727585
     },
     {
       "source": "Investing Crypto",
