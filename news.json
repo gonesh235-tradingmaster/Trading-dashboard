@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-19T09:50:29.035504Z",
+  "updated": "2026-09-19T10:09:52.847897Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Dtcpay welcomes SBI Group as strategic investor extending Series A to $25M",
+      "link": "https://cointelegraph.com/news/dtcpay-welcomes-sbi-group-as-strategic-investor-extending-series-a-to-25m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 19 Sep 2026 09:56:47 +0000",
+      "ts": 1789811807
+    },
     {
       "source": "CoinTelegraph",
       "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
@@ -304,13 +311,6 @@
       "ts": 1789733795
     },
     {
-      "source": "CoinTelegraph",
-      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
-      "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 11:54:24 +0000",
-      "ts": 1789732464
-    },
-    {
       "source": "CoinDesk",
       "title": "XRP on the brink of a golden cross as focus switches to altcoins",
       "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
@@ -346,11 +346,39 @@
       "ts": 1789723834
     },
     {
+      "source": "Yahoo Finance",
+      "title": "A New Jersey high schooler banked $135,000 in a single year flipping abandoned storage lockers",
+      "link": "https://finance.yahoo.com/small-business/articles/jersey-high-schooler-banked-135-091500036.html",
+      "published": "2026-09-18T09:15:00Z",
+      "ts": 1789722900
+    },
+    {
       "source": "Investing Forex",
       "title": "Here’s what BoE tightening means for EUR/GBP",
       "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
       "published": "2026-09-18 09:00:35",
       "ts": 1789722035
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Should I Convert 10% of My 401(k) to a Roth IRA Each Year to Reduce Taxes and RMDs?",
+      "link": "https://finance.yahoo.com/news/wise-convert-10-401-k-113000206.html",
+      "published": "2026-09-18T09:00:00Z",
+      "ts": 1789722000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Futures Rise as Post-Fed Tech Rally Rages On",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091826/card/stock-futures-rise-as-post-fed-tech-rally-rages-on-6gM6y3MApu1xw0u31JWH?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-18T08:45:16Z",
+      "ts": 1789721116
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Hitachi to double US production of small and medium-sized power transformers",
+      "link": "https://finance.yahoo.com/energy/articles/hitachi-double-us-production-small-084236160.html",
+      "published": "2026-09-18T08:42:36Z",
+      "ts": 1789720956
     },
     {
       "source": "Investing Forex",
@@ -389,38 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Tyson Foods Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-stock-underperforming-nasdaq-070706294.html",
-      "published": "2026-09-18T07:07:06Z",
-      "ts": 1789715226
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "I Have $1.7M Invested With an Advisor and Pay a 1% Fee. Is That Too Much?",
-      "link": "https://finance.yahoo.com/news/1-7m-invested-advisor-pay-120000978.html",
-      "published": "2026-09-18T07:00:00Z",
-      "ts": 1789714800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tesla vs SpaceX: Which Is the Better Elon Musk-Backed Stock to Buy?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-vs-spacex-better-elon-065000580.html",
-      "published": "2026-09-18T06:50:00Z",
-      "ts": 1789714200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CRE Rent Growth Fragments Across Major Property Sectors",
-      "link": "https://finance.yahoo.com/real-estate/articles/cre-rent-growth-fragments-across-064449232.html",
-      "published": "2026-09-18T06:44:49Z",
-      "ts": 1789713889
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Marsh & McLennan Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-stock-underperforming-p-063453524.html",
-      "published": "2026-09-18T06:34:53Z",
-      "ts": 1789713293
+      "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
+      "link": "https://finance.yahoo.com/economy/policy/articles/byd-catl-xiaomi-executives-may-072150010.html",
+      "published": "2026-09-18T07:21:50Z",
+      "ts": 1789716110
     }
   ]
 }
