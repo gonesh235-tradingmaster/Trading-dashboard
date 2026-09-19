@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T10:24:37.188093Z",
+  "updated": "2026-09-19T10:38:51.786994Z",
   "count": 60,
   "items": [
     {
@@ -339,6 +339,13 @@
       "ts": 1789724991
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Is India’s secondaries market hitting an inflection point?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/india-secondaries-market-hitting-inflection-094400255.html",
+      "published": "2026-09-18T09:44:00Z",
+      "ts": 1789724640
+    },
+    {
       "source": "Investing Crypto",
       "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
@@ -353,6 +360,20 @@
       "ts": 1789722900
     },
     {
+      "source": "Yahoo Finance",
+      "title": "SoftBank Boosts Credit Line to $6.5 Billion as AI Debts Mount",
+      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-boosts-credit-line-6-090933320.html",
+      "published": "2026-09-18T09:09:33Z",
+      "ts": 1789722573
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CFOs On the Move: Week ending Sept. 18",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cfos-move-week-ending-sept-090809748.html",
+      "published": "2026-09-18T09:08:09Z",
+      "ts": 1789722489
+    },
+    {
       "source": "Investing Forex",
       "title": "Here’s what BoE tightening means for EUR/GBP",
       "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
@@ -365,20 +386,6 @@
       "link": "https://finance.yahoo.com/news/wise-convert-10-401-k-113000206.html",
       "published": "2026-09-18T09:00:00Z",
       "ts": 1789722000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nvidia vs. Broadcom: Whose AI Revenue Actually Grows Faster From Here?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-broadcom-whose-ai-085300946.html",
-      "published": "2026-09-18T08:53:00Z",
-      "ts": 1789721580
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Prediction: This Will Be Palantir's Stock Price 1 Year From Now (Hint: It's a Bigger Move Than You Think)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-price-1-085000224.html",
-      "published": "2026-09-18T08:50:00Z",
-      "ts": 1789721400
     },
     {
       "source": "Investing Forex",
@@ -414,13 +421,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
       "published": "Fri, 18 Sep 2026 07:37:32 +0000",
       "ts": 1789717052
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
-      "link": "https://finance.yahoo.com/economy/policy/articles/byd-catl-xiaomi-executives-may-072150010.html",
-      "published": "2026-09-18T07:21:50Z",
-      "ts": 1789716110
     }
   ]
 }
