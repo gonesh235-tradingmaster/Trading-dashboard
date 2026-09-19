@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T07:24:26.061237Z",
+  "updated": "2026-09-19T07:37:48.425531Z",
   "count": 60,
   "items": [
     {
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "James Hardie (JHX) Crushes Guidance and Raises Its Full-Year Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/james-hardie-jhx-crushes-guidance-031641307.html",
+      "published": "2026-09-18T03:16:41Z",
+      "ts": 1789701401
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ecopetrol Names Carlos Suárez Rojas as Board Chairman",
+      "link": "https://finance.yahoo.com/energy/articles/ecopetrol-names-carlos-su-rez-031522806.html",
+      "published": "2026-09-18T03:15:22Z",
+      "ts": 1789701322
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "APA Corp. (APA) Cuts Rigs In Half And Still Raises Its Oil Forecast",
       "link": "https://finance.yahoo.com/energy/articles/apa-corp-apa-cuts-rigs-030926250.html",
       "published": "2026-09-18T03:09:26Z",
       "ts": 1789700966
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Amer Sports (AS) Went From Beating To Raising",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amer-sports-went-beating-raising-030024343.html",
-      "published": "2026-09-18T03:00:24Z",
-      "ts": 1789700424
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jazz Pharmaceuticals (JAZZ) Places An $820M Epilepsy Bet",
-      "link": "https://finance.yahoo.com/healthcare/articles/jazz-pharmaceuticals-jazz-places-820m-025614927.html",
-      "published": "2026-09-18T02:56:14Z",
-      "ts": 1789700174
     }
   ]
 }
