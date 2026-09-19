@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T04:39:19.830806Z",
+  "updated": "2026-09-19T04:51:17.762519Z",
   "count": 60,
   "items": [
     {
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "GE Aerospace (GE) Pays $12 Billion to Own the ‘Black Art’ Behind its Jet Engines",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-ge-pays-12-215855628.html",
-      "published": "2026-09-17T21:58:55Z",
-      "ts": 1789682335
+      "title": "Jim Cramer Prefers Palo Alto (PANW) Over SentinelOne (S)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-palo-alto-220330487.html",
+      "published": "2026-09-17T22:03:30Z",
+      "ts": 1789682610
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Highlights CrowdStrike (CRWD) as AI Security Concerns Lift Cybersecurity Stocks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-highlights-crowdstrike-crwd-215812820.html",
-      "published": "2026-09-17T21:58:12Z",
-      "ts": 1789682292
+      "title": "Corn Faces Pressure on Thursday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-faces-pressure-thursday-220320870.html",
+      "published": "2026-09-17T22:03:20Z",
+      "ts": 1789682600
     },
     {
       "source": "Yahoo Finance",
-      "title": "High Tide (HITI) Reports Record Revenue. Why is Cash Flow Lagging Operating Profit Growth?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/high-tide-hiti-reports-record-214936984.html",
-      "published": "2026-09-17T21:49:36Z",
-      "ts": 1789681776
+      "title": "Nike (NKE) Shareholders Side with the Board Over Norway’s Wealth Fund on Climate Disclosure",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-shareholders-side-board-220254034.html",
+      "published": "2026-09-17T22:02:54Z",
+      "ts": 1789682574
     }
   ]
 }
