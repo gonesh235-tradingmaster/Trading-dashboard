@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-19T07:50:43.241670Z",
+  "updated": "2026-09-19T08:10:40.284422Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+      "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 19 Sep 2026 07:50:58 +0000",
+      "ts": 1789804258
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin hits $82,178 resistance with MFI 100: Live levels",
@@ -304,13 +311,6 @@
       "ts": 1789732464
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
-      "link": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 11:22:24 +0000",
-      "ts": 1789730544
-    },
-    {
       "source": "CoinDesk",
       "title": "XRP on the brink of a golden cross as focus switches to altcoins",
       "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
@@ -395,32 +395,32 @@
       "ts": 1789704234
     },
     {
-      "source": "Investing Crypto",
-      "title": "EOS Climbs 12% In Bullish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4906656",
-      "published": "2026-09-18 03:36:04",
-      "ts": 1789702564
+      "source": "Yahoo Finance",
+      "title": "Selling Your RIA As a Retirement Strategy? Mind the Terms",
+      "link": "https://finance.yahoo.com/small-business/articles/selling-ria-retirement-strategy-mind-040200124.html",
+      "published": "2026-09-18T04:02:00Z",
+      "ts": 1789704120
     },
     {
       "source": "Yahoo Finance",
-      "title": "James Hardie (JHX) Crushes Guidance and Raises Its Full-Year Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/james-hardie-jhx-crushes-guidance-031641307.html",
-      "published": "2026-09-18T03:16:41Z",
-      "ts": 1789701401
+      "title": "Student Loan Debt Weighs Heavily on Retirement Savings",
+      "link": "https://finance.yahoo.com/markets/articles/student-loan-debt-weighs-heavily-040100133.html",
+      "published": "2026-09-18T04:01:00Z",
+      "ts": 1789704060
     },
     {
       "source": "Yahoo Finance",
-      "title": "Ecopetrol Names Carlos Suárez Rojas as Board Chairman",
-      "link": "https://finance.yahoo.com/energy/articles/ecopetrol-names-carlos-su-rez-031522806.html",
-      "published": "2026-09-18T03:15:22Z",
-      "ts": 1789701322
+      "title": "‘Outlook Cloudy’: Fed Rate Hike Pits Bulls Against Bears Over Year-End Rally Odds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/outlook-cloudy-fed-rate-hike-040100680.html",
+      "published": "2026-09-18T04:01:00Z",
+      "ts": 1789704060
     },
     {
       "source": "Yahoo Finance",
-      "title": "APA Corp. (APA) Cuts Rigs In Half And Still Raises Its Oil Forecast",
-      "link": "https://finance.yahoo.com/energy/articles/apa-corp-apa-cuts-rigs-030926250.html",
-      "published": "2026-09-18T03:09:26Z",
-      "ts": 1789700966
+      "title": "SEC Greenlights Tokenized Stocks After Clarity Act Fails in Senate",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/sec-greenlights-tokenized-stocks-clarity-040100321.html",
+      "published": "2026-09-18T04:01:00Z",
+      "ts": 1789704060
     }
   ]
 }
