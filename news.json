@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-19T07:09:04.726439Z",
+  "updated": "2026-09-19T07:24:26.061237Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin hits $82,178 resistance with MFI 100: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-19 07:02:25",
+      "ts": 1789801345
+    },
     {
       "source": "Investing Crypto",
       "title": "EOS Climbs 10% In Rally",
@@ -190,13 +197,6 @@
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 19:30:00 GMT",
       "ts": 1789759800
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin overbought at $81K after triangle breakout: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-18 19:18:50",
-      "ts": 1789759130
     },
     {
       "source": "CoinTelegraph",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "United Natural Foods (UNFI) Calls the Bottom and Guides for Growth Again",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/united-natural-foods-unfi-calls-000944953.html",
-      "published": "2026-09-18T00:09:44Z",
-      "ts": 1789690184
+      "title": "APA Corp. (APA) Cuts Rigs In Half And Still Raises Its Oil Forecast",
+      "link": "https://finance.yahoo.com/energy/articles/apa-corp-apa-cuts-rigs-030926250.html",
+      "published": "2026-09-18T03:09:26Z",
+      "ts": 1789700966
     },
     {
       "source": "Yahoo Finance",
-      "title": "Novartis (NVS) Suffers its Third Drug Trial Setback in a Week, and its Worst Trading Day in Years",
-      "link": "https://finance.yahoo.com/healthcare/articles/novartis-nvs-suffers-third-drug-000733048.html",
-      "published": "2026-09-18T00:07:33Z",
-      "ts": 1789690053
+      "title": "Amer Sports (AS) Went From Beating To Raising",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amer-sports-went-beating-raising-030024343.html",
+      "published": "2026-09-18T03:00:24Z",
+      "ts": 1789700424
     },
     {
       "source": "Yahoo Finance",
-      "title": "Burger franchisee closes 60 stores, files Chapter 11 bankruptcy",
-      "link": "https://finance.yahoo.com/small-business/articles/burger-franchisee-closes-60-stores-000300088.html",
-      "published": "2026-09-18T00:03:00Z",
-      "ts": 1789689780
+      "title": "Jazz Pharmaceuticals (JAZZ) Places An $820M Epilepsy Bet",
+      "link": "https://finance.yahoo.com/healthcare/articles/jazz-pharmaceuticals-jazz-places-820m-025614927.html",
+      "published": "2026-09-18T02:56:14Z",
+      "ts": 1789700174
     }
   ]
 }
