@@ -1,13 +1,62 @@
 {
-  "updated": "2026-09-19T19:36:08.578380Z",
+  "updated": "2026-09-19T19:50:06.924501Z",
   "count": 60,
   "items": [
     {
       "source": "Yahoo Finance",
-      "title": "AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right Now?",
-      "link": "https://finance.yahoo.com/healthcare/articles/abbvies-migraine-franchise-scored-big-192000630.html",
-      "published": "2026-09-19T19:20:00Z",
-      "ts": 1789845600
+      "title": "Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
+      "published": "2026-09-19T19:35:09Z",
+      "ts": 1789846509
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Main Street Capital Stock a Buy, Sell, or Hold With Shares 15% Below Their 52-Week High?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/main-street-capital-stock-buy-193500520.html",
+      "published": "2026-09-19T19:35:00Z",
+      "ts": 1789846500
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says “Buy Reddit” (RDDT)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-reddit-193324887.html",
+      "published": "2026-09-19T19:33:24Z",
+      "ts": 1789846404
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying",
+      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-charging-more-ai-193252050.html",
+      "published": "2026-09-19T19:32:52Z",
+      "ts": 1789846372
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
+      "published": "2026-09-19T19:29:55Z",
+      "ts": 1789846195
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
+      "link": "https://finance.yahoo.com/technology/articles/stmicroelectronics-stm-wants-every-car-192912047.html",
+      "published": "2026-09-19T19:29:12Z",
+      "ts": 1789846152
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Cerebras (CBRS) Plants A 165 MW Flag In Finland While Still Losing Money",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-plants-165-mw-192515264.html",
+      "published": "2026-09-19T19:25:15Z",
+      "ts": 1789845915
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+      "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 19 Sep 2026 19:14:38 +0000",
+      "ts": 1789845278
     },
     {
       "source": "Yahoo Finance",
@@ -38,27 +87,6 @@
       "ts": 1789844220
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-quarter-185639565.html",
-      "published": "2026-09-19T18:56:39Z",
-      "ts": 1789844199
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
-      "published": "2026-09-19T18:51:16Z",
-      "ts": 1789843876
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Garmin’s (GRMN) New Autopilot Signals Where Growth Is Headed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-autopilot-signals-where-184731033.html",
-      "published": "2026-09-19T18:47:31Z",
-      "ts": 1789843651
-    },
-    {
       "source": "MarketWatch",
       "title": "90% of retirees are making this miscalculation with their savings",
       "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
@@ -66,32 +94,11 @@
       "ts": 1789843200
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
-      "published": "2026-09-19T18:37:47Z",
-      "ts": 1789843067
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html",
-      "published": "2026-09-19T18:36:04Z",
-      "ts": 1789842964
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
       "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 19 Sep 2026 18:35:16 +0000",
       "ts": 1789842916
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
-      "link": "https://finance.yahoo.com/energy/articles/sempra-sre-just-locked-two-183448167.html",
-      "published": "2026-09-19T18:34:48Z",
-      "ts": 1789842888
     },
     {
       "source": "MarketWatch",
@@ -365,13 +372,6 @@
       "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 16:04:22 +0000",
       "ts": 1789747462
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
-      "link": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 15:35:59 +0000",
-      "ts": 1789745759
     },
     {
       "source": "CoinDesk",
