@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-19T18:10:44.134319Z",
+  "updated": "2026-09-19T18:27:15.283890Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Many young investors can’t afford to invest without their parents’ help",
+      "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 18:22:00 GMT",
+      "ts": 1789842120
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dividends vs. an Annuity: Which Turns $590,000 Into More Monthly Income for Life?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dividends-vs-annuity-turns-590-181214858.html",
+      "published": "2026-09-19T18:12:14Z",
+      "ts": 1789841534
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BJ’s Wholesale Club (BJ) Formalizes Investment-Grade Financial Policy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-bj-formalizes-180906005.html",
+      "published": "2026-09-19T18:09:06Z",
+      "ts": 1789841346
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The RealReal (REAL) Bets on Glendale to Capture Growing Vintage Demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-bets-glendale-capture-180003520.html",
+      "published": "2026-09-19T18:00:03Z",
+      "ts": 1789840803
+    },
     {
       "source": "MarketWatch",
       "title": "The future of retirement? Work until you die.",
@@ -11,17 +39,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
+      "link": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo",
+      "published": "2026-09-19T17:48:41Z",
+      "ts": 1789840121
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Willis Lease Finance (WLFC) Expands Fleet with New Aircraft and Engine Acquisition",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-expands-174813287.html",
+      "published": "2026-09-19T17:48:13Z",
+      "ts": 1789840093
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "How Does This $40.3 Million Birwood Heights Financing Arrangement Benefit Marcus & Millichap’s (MMI)",
       "link": "https://finance.yahoo.com/real-estate/articles/does-40-3-million-birwood-173911914.html",
       "published": "2026-09-19T17:39:11Z",
       "ts": 1789839551
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Spectrum hits a snag as it works to curb internet customer exodus",
-      "link": "https://finance.yahoo.com/technology/articles/spectrum-hits-snag-works-curb-173300356.html",
-      "published": "2026-09-19T17:33:00Z",
-      "ts": 1789839180
     },
     {
       "source": "MarketWatch",
@@ -52,25 +87,11 @@
       "ts": 1789837912
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Lucid (LCID) Rises After Bolt Partnership, But Cash Burn Remains a Concern",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-rises-bolt-partnership-165233221.html",
-      "published": "2026-09-19T16:52:33Z",
-      "ts": 1789836753
-    },
-    {
       "source": "MarketWatch",
       "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
       "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 16:45:00 GMT",
       "ts": 1789836300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "published": "2026-09-19T16:34:51Z",
-      "ts": 1789835691
     },
     {
       "source": "MarketWatch",
@@ -85,13 +106,6 @@
       "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 19 Sep 2026 16:15:27 +0000",
       "ts": 1789834527
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘Don't quit. Keep your job': Expert says Social Security will 'go away' — and the thing to protect isn't your 401(k)",
-      "link": "https://finance.yahoo.com/economy/policy/articles/dont-quit-keep-job-expert-161500293.html",
-      "published": "2026-09-19T16:15:00Z",
-      "ts": 1789834500
     },
     {
       "source": "MarketWatch",
@@ -115,13 +129,6 @@
       "ts": 1789833600
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Marvell (MRVL) and GlobalFoundries (GFS) Rise on Expanded Deal: What Investors Should Know",
-      "link": "https://finance.yahoo.com/technology/articles/marvell-mrvl-globalfoundries-gfs-rise-155724895.html",
-      "published": "2026-09-19T15:57:24Z",
-      "ts": 1789833444
-    },
-    {
       "source": "MarketWatch",
       "title": "Like Costco, Walmart will sell Medicare Advantage plans",
       "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
@@ -141,13 +148,6 @@
       "link": "https://www.marketwatch.com/story/are-ai-written-resumes-more-likely-to-get-you-a-job-the-answer-may-surprise-you-ae408827?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 15:20:00 GMT",
       "ts": 1789831200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 15:15:00 GMT",
-      "ts": 1789830900
     },
     {
       "source": "CoinDesk",
