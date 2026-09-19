@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-19T13:09:50.435565Z",
+  "updated": "2026-09-19T13:24:58.663292Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Motorola Solutions Eyes Defense, Drone Security Growth as Silvus Scales",
+      "link": "https://finance.yahoo.com/technology/articles/motorola-solutions-eyes-defense-drone-130200808.html",
+      "published": "2026-09-19T13:02:00Z",
+      "ts": 1789822920
+    },
     {
       "source": "MarketWatch",
       "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
@@ -15,13 +22,6 @@
       "link": "https://finance.yahoo.com/healthcare/articles/amgen-merck-drugmaker-stronger-dividend-125538920.html",
       "published": "2026-09-19T12:55:38Z",
       "ts": 1789822538
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "John Ternus's First iPhone Launch Prompted a Bank of America Price Target Cut. Is Apple Stock a Buy?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/john-ternuss-first-iphone-launch-125000640.html",
-      "published": "2026-09-19T12:50:00Z",
-      "ts": 1789822200
     },
     {
       "source": "Yahoo Finance",
