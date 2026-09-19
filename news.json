@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-19T14:37:53.761816Z",
+  "updated": "2026-09-19T14:50:05.723290Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 14:46:00 GMT",
+      "ts": 1789829160
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+      "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 14:40:00 GMT",
+      "ts": 1789828800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CVS division completes Chapter 11 bankruptcy liquidation",
+      "link": "https://finance.yahoo.com/healthcare/articles/cvs-division-completes-chapter-11-150700440.html",
+      "published": "2026-09-19T14:33:06Z",
+      "ts": 1789828386
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Upstart, Affirm, and SoFi All Lend to the Same Borrowers. Only One of Them Funds With Deposits.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-affirm-sofi-lend-same-143200816.html",
+      "published": "2026-09-19T14:32:00Z",
+      "ts": 1789828320
+    },
     {
       "source": "MarketWatch",
       "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
@@ -22,20 +50,6 @@
       "link": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 14:14:00 GMT",
       "ts": 1789827240
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Anthropic's IPO Is Coming. Here's What That Means for S&P 500 Investors.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropics-ipo-coming-heres-means-140500319.html",
-      "published": "2026-09-19T14:05:00Z",
-      "ts": 1789826700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-raised-dividend-31-years-140251592.html",
-      "published": "2026-09-19T14:02:51Z",
-      "ts": 1789826571
     },
     {
       "source": "CoinDesk",
@@ -162,20 +176,6 @@
       "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 19 Sep 2026 11:47:29 +0000",
       "ts": 1789818449
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Stocks face a growing list of threats — so why are investors staying so calm?",
-      "link": "https://www.marketwatch.com/story/stocks-face-a-growing-list-of-threats-so-why-are-investors-staying-so-calm-a6acd7e5?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 11:30:00 GMT",
-      "ts": 1789817400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?",
-      "link": "https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 11:00:00 GMT",
-      "ts": 1789815600
     },
     {
       "source": "CoinTelegraph",
