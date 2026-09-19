@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-19T10:50:30.515618Z",
+  "updated": "2026-09-19T11:09:08.438710Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?",
+      "link": "https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 11:00:00 GMT",
+      "ts": 1789815600
+    },
     {
       "source": "CoinTelegraph",
       "title": "Dtcpay welcomes SBI Group as strategic investor extending Series A to $25M",
@@ -206,13 +213,6 @@
       "ts": 1789761234
     },
     {
-      "source": "MarketWatch",
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 19:30:00 GMT",
-      "ts": 1789759800
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Binance launches 24/7 FX perps with weekend pricing system",
       "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -333,6 +333,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "From Florida to Nevada, retirees are fleeing to no-tax states in search of financial 'heaven.' They don't always find it",
+      "link": "https://finance.yahoo.com/real-estate/articles/florida-nevada-retirees-fleeing-no-100000560.html",
+      "published": "2026-09-18T10:00:00Z",
+      "ts": 1789725600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SEI’s Record Revenue, Earnings Fuel Future Growth, Rising Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sei-record-revenue-earnings-fuel-095850945.html",
+      "published": "2026-09-18T09:58:50Z",
+      "ts": 1789725530
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "AMD Up 155% YTD on Record Revenue, AI Demand",
       "link": "https://finance.yahoo.com/markets/stocks/articles/amd-155-ytd-record-revenue-095032401.html",
       "published": "2026-09-18T09:50:32Z",
@@ -353,6 +367,20 @@
       "ts": 1789724640
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Manufacturing output down in August; investments by Reckitt, Hitachi",
+      "link": "https://finance.yahoo.com/economy/articles/manufacturing-output-down-august-investments-093607916.html",
+      "published": "2026-09-18T09:36:07Z",
+      "ts": 1789724167
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Verizon the Year's Best Telecom Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-years-best-telecom-stock-093500316.html",
+      "published": "2026-09-18T09:35:00Z",
+      "ts": 1789724100
+    },
+    {
       "source": "Investing Crypto",
       "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
@@ -365,20 +393,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/jersey-high-schooler-banked-135-091500036.html",
       "published": "2026-09-18T09:15:00Z",
       "ts": 1789722900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Toys ‘R’ Us to open 120 new US stores",
-      "link": "https://finance.yahoo.com/small-business/articles/toys-r-us-open-120-091415988.html",
-      "published": "2026-09-18T09:14:15Z",
-      "ts": 1789722855
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Global Partners debuts new 125K-square-foot corporate HQ",
-      "link": "https://finance.yahoo.com/real-estate/articles/global-partners-debuts-125k-square-091252700.html",
-      "published": "2026-09-18T09:12:52Z",
-      "ts": 1789722772
     },
     {
       "source": "Investing Forex",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/energy/articles/china-fuel-exports-surge-global-083000060.html",
       "published": "2026-09-18T08:30:00Z",
       "ts": 1789720200
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees EUR/USD long opportunity on central bank dynamics",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurusd-long-opportunity-on-central-bank-dynamics-93CH-4906809",
-      "published": "2026-09-18 08:21:32",
-      "ts": 1789719692
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound gains as UK retail sales beat and dollar cools",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
-      "published": "2026-09-18 08:17:33",
-      "ts": 1789719453
     }
   ]
 }
