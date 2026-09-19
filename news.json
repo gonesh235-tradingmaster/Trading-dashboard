@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T10:38:51.786994Z",
+  "updated": "2026-09-19T10:50:30.515618Z",
   "count": 60,
   "items": [
     {
@@ -332,6 +332,13 @@
       "ts": 1789726053
     },
     {
+      "source": "Yahoo Finance",
+      "title": "AMD Up 155% YTD on Record Revenue, AI Demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-155-ytd-record-revenue-095032401.html",
+      "published": "2026-09-18T09:50:32Z",
+      "ts": 1789725032
+    },
+    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
       "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
@@ -361,17 +368,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "SoftBank Boosts Credit Line to $6.5 Billion as AI Debts Mount",
-      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-boosts-credit-line-6-090933320.html",
-      "published": "2026-09-18T09:09:33Z",
-      "ts": 1789722573
+      "title": "Toys ‘R’ Us to open 120 new US stores",
+      "link": "https://finance.yahoo.com/small-business/articles/toys-r-us-open-120-091415988.html",
+      "published": "2026-09-18T09:14:15Z",
+      "ts": 1789722855
     },
     {
       "source": "Yahoo Finance",
-      "title": "CFOs On the Move: Week ending Sept. 18",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cfos-move-week-ending-sept-090809748.html",
-      "published": "2026-09-18T09:08:09Z",
-      "ts": 1789722489
+      "title": "Global Partners debuts new 125K-square-foot corporate HQ",
+      "link": "https://finance.yahoo.com/real-estate/articles/global-partners-debuts-125k-square-091252700.html",
+      "published": "2026-09-18T09:12:52Z",
+      "ts": 1789722772
     },
     {
       "source": "Investing Forex",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
       "published": "2026-09-18 08:17:33",
       "ts": 1789719453
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
-      "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
-      "published": "Fri, 18 Sep 2026 07:37:32 +0000",
-      "ts": 1789717052
     }
   ]
 }
