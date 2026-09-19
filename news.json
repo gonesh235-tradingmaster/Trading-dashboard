@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-19T12:31:12.390365Z",
+  "updated": "2026-09-19T12:53:00.432353Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Gallagher’s (AJG) Colorado Deal Is Another Brick in a Very Big Wall",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gallagher-ajg-colorado-deal-another-123050148.html",
+      "published": "2026-09-19T12:30:50Z",
+      "ts": 1789821050
+    },
     {
       "source": "MarketWatch",
       "title": "The old new thing: Cisco and retro tech are back and forming the AI buildout’s backbone",
@@ -10,18 +17,25 @@
       "ts": 1789821000
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Week Ahead: Keeping An Eye Out For Change",
+      "link": "https://www.investors.com/research/investing-action-plan/stock-market-nasdaq-sp-500-analysis-meta-platforms-earnings/?src=A00220&yptr=yahoo",
+      "published": "2026-09-19T12:29:27Z",
+      "ts": 1789820967
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Margaritaville Brochure Leaves Out the Part Retirees Say Matters Most",
+      "link": "https://finance.yahoo.com/real-estate/articles/margaritaville-brochure-leaves-part-retirees-122843220.html",
+      "published": "2026-09-19T12:28:43Z",
+      "ts": 1789820923
+    },
+    {
       "source": "CoinDesk",
       "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
       "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
       "published": "Sat, 19 Sep 2026 12:13:57 +0000",
       "ts": 1789820037
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "published": "2026-09-19T12:08:52Z",
-      "ts": 1789819732
     },
     {
       "source": "CoinDesk",
@@ -339,11 +353,46 @@
       "ts": 1789733795
     },
     {
+      "source": "Yahoo Finance",
+      "title": "US equity funds post fourth weekly outflow on inflation worries, rate concerns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-funds-post-fourth-111638705.html",
+      "published": "2026-09-18T11:16:38Z",
+      "ts": 1789730198
+    },
+    {
       "source": "CoinDesk",
       "title": "XRP on the brink of a golden cross as focus switches to altcoins",
       "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
       "published": "Fri, 18 Sep 2026 11:15:00 +0000",
       "ts": 1789730100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BuyWander raises $21m for national expansion",
+      "link": "https://finance.yahoo.com/small-business/articles/buywander-raises-21m-national-expansion-111306564.html",
+      "published": "2026-09-18T11:13:06Z",
+      "ts": 1789729986
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Silver price today, Friday, September 18, 2026: Silver prices recover quickly, hitting weekly high today",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-friday-september-18-2026-silver-prices-recover-quickly-hitting-weekly-high-today-110854090.html",
+      "published": "2026-09-18T11:08:54Z",
+      "ts": 1789729734
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jamie Dimon was fired from Citigroup at 42 — he turned a $20 billion bank into America's most profitable",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-fired-citigroup-42-110500399.html",
+      "published": "2026-09-18T11:05:00Z",
+      "ts": 1789729500
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The 3 investing rules used by Warren Buffett to turn $10K into billions — that still work in 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-investing-rules-used-warren-110500958.html",
+      "published": "2026-09-18T11:05:00Z",
+      "ts": 1789729500
     },
     {
       "source": "Yahoo Finance",
@@ -360,41 +409,6 @@
       "ts": 1789728900
     },
     {
-      "source": "Yahoo Finance",
-      "title": "He Paid $115,000 Into Social Security. George Kamel Says It Cost Him $2 Million. Your Number Might Be Bigger.",
-      "link": "https://finance.yahoo.com/economy/policy/articles/paid-115-000-social-security-105304009.html",
-      "published": "2026-09-18T10:53:04Z",
-      "ts": 1789728784
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "TJX CEO: Distribution model will help weather El Niño",
-      "link": "https://finance.yahoo.com/small-business/articles/tjx-ceo-distribution-model-help-105300354.html",
-      "published": "2026-09-18T10:53:00Z",
-      "ts": 1789728780
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Is Principal Financial's Stock Performance Compared to Other Financial Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/principal-financials-stock-performance-compared-105257714.html",
-      "published": "2026-09-18T10:52:57Z",
-      "ts": 1789728777
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Gold price today, Friday, September 18, 2026: Gold hits weekly high as inflation concerns fade",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-18-2026-gold-hits-weekly-high-as-inflation-concerns-fade-104807567.html",
-      "published": "2026-09-18T10:48:07Z",
-      "ts": 1789728487
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Sam Altman, Elon Musk and Dario Amodei want AI slowed as tech stocks tumble. Is your retirement fund overexposed?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sam-altman-elon-musk-dario-104500837.html",
-      "published": "2026-09-18T10:45:00Z",
-      "ts": 1789728300
-    },
-    {
       "source": "CoinDesk",
       "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
       "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
@@ -402,25 +416,11 @@
       "ts": 1789727585
     },
     {
-      "source": "Yahoo Finance",
-      "title": "A $5,300 hospital bill arrived 5 years after her husband's death — she may not owe a single dollar",
-      "link": "https://finance.yahoo.com/healthcare/articles/5-300-hospital-bill-arrived-103000949.html",
-      "published": "2026-09-18T10:30:00Z",
-      "ts": 1789727400
-    },
-    {
       "source": "Investing Crypto",
       "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
       "published": "2026-09-18 09:30:34",
       "ts": 1789723834
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Here’s what BoE tightening means for EUR/GBP",
-      "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
-      "published": "2026-09-18 09:00:35",
-      "ts": 1789722035
     }
   ]
 }
