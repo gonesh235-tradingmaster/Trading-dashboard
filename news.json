@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-18T23:51:06.577526Z",
+  "updated": "2026-09-19T00:13:47.704083Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-mildly-hawkish-cbc-but-flows-drive-ocbc-202609182355",
+      "published": "Fri, 18 Sep 2026 23:55:00 GMT",
+      "ts": 1789775700
+    },
     {
       "source": "FXStreet",
       "title": "Taiwan Dollar: CBC holds rates but flags inflation risks – Commerzbank",
@@ -162,13 +169,6 @@
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 19:30:00 GMT",
       "ts": 1789759800
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Limited upside after hawkish BoE hold – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-limited-upside-after-hawkish-boe-hold-scotiabank-202609181919",
-      "published": "Fri, 18 Sep 2026 19:19:58 GMT",
-      "ts": 1789759198
     },
     {
       "source": "Investing Crypto",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Aon’s $17 Billion USI Deal: What Hedge Fund Sentiment Says About AON and KKR",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aon-17-billion-usi-deal-165811093.html",
+      "published": "2026-09-17T16:58:11Z",
+      "ts": 1789664291
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Polestar (PSNY)’s US Exit Just Showed Up in its Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/polestar-psny-us-exit-just-165023810.html",
+      "published": "2026-09-17T16:50:23Z",
+      "ts": 1789663823
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer on Tesla (TSLA): “My Only Solution to It Is That SpaceX Has to Buy It”",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tesla-tsla-only-164733818.html",
       "published": "2026-09-17T16:47:33Z",
       "ts": 1789663653
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Apple (AAPL) Faces a $2.7 Billion UK Lawsuit over its App Tracking Rules",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-faces-2-7-164412973.html",
-      "published": "2026-09-17T16:44:12Z",
-      "ts": 1789663452
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lululemon (LULU) Cuts its Outlook Again Just as a New CEO Walks through the Door",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-cuts-outlook-again-164209283.html",
-      "published": "2026-09-17T16:42:09Z",
-      "ts": 1789663329
     }
   ]
 }
