@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T08:26:51.241767Z",
+  "updated": "2026-09-19T08:41:10.275133Z",
   "count": 60,
   "items": [
     {
@@ -389,6 +389,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "A GAAP Loss Masks What Corebridge (CRBG) Actually Earned This Quarter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gaap-loss-masks-corebridge-crbg-042518547.html",
+      "published": "2026-09-18T04:25:18Z",
+      "ts": 1789705518
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "RB Global’s (RBA) Earnings Jump While Its Take Rate Shrinks",
       "link": "https://finance.yahoo.com/markets/stocks/articles/rb-global-rba-earnings-jump-042115694.html",
       "published": "2026-09-18T04:21:15Z",
@@ -410,17 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Selling Your RIA As a Retirement Strategy? Mind the Terms",
-      "link": "https://finance.yahoo.com/small-business/articles/selling-ria-retirement-strategy-mind-040200124.html",
-      "published": "2026-09-18T04:02:00Z",
-      "ts": 1789704120
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Student Loan Debt Weighs Heavily on Retirement Savings",
-      "link": "https://finance.yahoo.com/markets/articles/student-loan-debt-weighs-heavily-040100133.html",
-      "published": "2026-09-18T04:01:00Z",
-      "ts": 1789704060
+      "title": "Rocket Companies Sees Market-Share Gains as Redfin, Mr. Cooper Synergies Build",
+      "link": "https://finance.yahoo.com/real-estate/articles/rocket-companies-sees-market-share-040203732.html",
+      "published": "2026-09-18T04:02:03Z",
+      "ts": 1789704123
     }
   ]
 }
