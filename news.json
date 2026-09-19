@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-19T12:12:04.044716Z",
+  "updated": "2026-09-19T12:31:12.390365Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The old new thing: Cisco and retro tech are back and forming the AI buildout’s backbone",
+      "link": "https://www.marketwatch.com/story/the-old-new-thing-cisco-and-retro-tech-are-back-and-forming-the-ai-buildouts-backbone-cdffc0b7?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 12:30:00 GMT",
+      "ts": 1789821000
+    },
+    {
+      "source": "CoinDesk",
+      "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+      "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+      "published": "Sat, 19 Sep 2026 12:13:57 +0000",
+      "ts": 1789820037
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+      "published": "2026-09-19T12:08:52Z",
+      "ts": 1789819732
+    },
     {
       "source": "CoinDesk",
       "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
@@ -14,13 +35,6 @@
       "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
       "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
       "published": "Sat, 19 Sep 2026 12:00:00 +0000",
-      "ts": 1789819200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked",
-      "link": "https://finance.yahoo.com/markets/articles/mark-cuban-spent-125-000-120000383.html",
-      "published": "2026-09-19T12:00:00Z",
       "ts": 1789819200
     },
     {
@@ -43,13 +57,6 @@
       "link": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 12:00:00 GMT",
       "ts": 1789819200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
-      "published": "2026-09-19T11:59:55Z",
-      "ts": 1789819195
     },
     {
       "source": "CoinTelegraph",
@@ -183,13 +190,6 @@
       "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-after-07100-break-202609182116",
       "published": "Fri, 18 Sep 2026 21:16:51 GMT",
       "ts": 1789766211
-    },
-    {
-      "source": "MarketWatch",
-      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
-      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 21:16:00 GMT",
-      "ts": 1789766160
     },
     {
       "source": "FXStreet",
@@ -347,6 +347,41 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "‘The Genie’s Out of the Bottle’ on AI Risks, Creating a Buying Opportunity in CrowdStrike Stock",
+      "link": "https://finance.yahoo.com/technology/ai/articles/genie-bottle-ai-risks-creating-105741054.html",
+      "published": "2026-09-18T10:57:41Z",
+      "ts": 1789729061
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "These 7 simple ‘financial fitness’ tasks could save you serious coin — and you can get them each done in under an hour",
+      "link": "https://finance.yahoo.com/markets/articles/7-simple-financial-fitness-tasks-105500342.html",
+      "published": "2026-09-18T10:55:00Z",
+      "ts": 1789728900
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "He Paid $115,000 Into Social Security. George Kamel Says It Cost Him $2 Million. Your Number Might Be Bigger.",
+      "link": "https://finance.yahoo.com/economy/policy/articles/paid-115-000-social-security-105304009.html",
+      "published": "2026-09-18T10:53:04Z",
+      "ts": 1789728784
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "TJX CEO: Distribution model will help weather El Niño",
+      "link": "https://finance.yahoo.com/small-business/articles/tjx-ceo-distribution-model-help-105300354.html",
+      "published": "2026-09-18T10:53:00Z",
+      "ts": 1789728780
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Is Principal Financial's Stock Performance Compared to Other Financial Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/principal-financials-stock-performance-compared-105257714.html",
+      "published": "2026-09-18T10:52:57Z",
+      "ts": 1789728777
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Gold price today, Friday, September 18, 2026: Gold hits weekly high as inflation concerns fade",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-18-2026-gold-hits-weekly-high-as-inflation-concerns-fade-104807567.html",
       "published": "2026-09-18T10:48:07Z",
@@ -360,13 +395,6 @@
       "ts": 1789728300
     },
     {
-      "source": "Yahoo Finance",
-      "title": "1 Top Dividend ETF Worth Loading Up On With $1,000 Right Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-top-dividend-etf-worth-103500571.html",
-      "published": "2026-09-18T10:35:00Z",
-      "ts": 1789727700
-    },
-    {
       "source": "CoinDesk",
       "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
       "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
@@ -375,38 +403,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nasdaq Futures Pare Gains as Treasury Yields Climb",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-pare-gains-treasury-103117849.html",
-      "published": "2026-09-18T10:31:17Z",
-      "ts": 1789727477
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "A $5,300 hospital bill arrived 5 years after her husband's death — she may not owe a single dollar",
       "link": "https://finance.yahoo.com/healthcare/articles/5-300-hospital-bill-arrived-103000949.html",
       "published": "2026-09-18T10:30:00Z",
       "ts": 1789727400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
-      "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
-      "published": "Fri, 18 Sep 2026 10:07:33 +0000",
-      "ts": 1789726053
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Best CD rates today, Friday, September 18, 2026: Up to 4.40% APY return available with a 2-year CD",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-18-2026-up-to-440-apy-return-available-with-a-2-year-cd-100000224.html",
-      "published": "2026-09-18T10:00:00Z",
-      "ts": 1789725600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "From Florida to Nevada, retirees are fleeing to no-tax states in search of financial 'heaven.' They don't always find it",
-      "link": "https://finance.yahoo.com/real-estate/articles/florida-nevada-retirees-fleeing-no-100000560.html",
-      "published": "2026-09-18T10:00:00Z",
-      "ts": 1789725600
     },
     {
       "source": "Investing Crypto",
