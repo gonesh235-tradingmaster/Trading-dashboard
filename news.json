@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-19T13:50:16.403225Z",
+  "updated": "2026-09-19T14:09:35.436471Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+      "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+      "published": "Sat, 19 Sep 2026 14:00:00 +0000",
+      "ts": 1789826400
+    },
     {
       "source": "CoinDesk",
       "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
@@ -18,10 +25,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "I Wouldn't Touch This 6.3%-Yielding Dividend Stock Right Now, Even Though Everyone Else Is Buying It.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wouldnt-touch-6-3-yielding-133500278.html",
-      "published": "2026-09-19T13:35:00Z",
-      "ts": 1789824900
+      "title": "MarsCoin Trader Turns $2.4K Into $680K Without Selling a Single Token: Here’s How",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/marscoin-trader-turns-2-4k-133506209.html",
+      "published": "2026-09-19T13:35:06Z",
+      "ts": 1789824906
     },
     {
       "source": "Yahoo Finance",
@@ -400,13 +407,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
       "published": "2026-09-18 12:16:35",
       "ts": 1789733795
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP on the brink of a golden cross as focus switches to altcoins",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
-      "published": "Fri, 18 Sep 2026 11:15:00 +0000",
-      "ts": 1789730100
     },
     {
       "source": "Investing Crypto",
