@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T00:35:17.372143Z",
+  "updated": "2026-09-19T00:53:34.516109Z",
   "count": 60,
   "items": [
     {
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "How Defined-Maturity Bond ETFs Could Help You Outperform the S&P 500 Over the Next 5-10 Years",
+      "link": "https://finance.yahoo.com/markets/options/articles/defined-maturity-bond-etfs-could-172427680.html",
+      "published": "2026-09-17T17:24:27Z",
+      "ts": 1789665867
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Musk Calls $10 Trillion in Starship Revenue ‘Not Impossible.’ Here Are 2 Things You Need to Know About His Bold Projection.",
+      "link": "https://finance.yahoo.com/technology/articles/musk-calls-10-trillion-starship-172321117.html",
+      "published": "2026-09-17T17:23:21Z",
+      "ts": 1789665801
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "How does the Fed interest rate affect car loans?",
       "link": "https://finance.yahoo.com/news/fed-affects-auto-loan-rates-190622401.html",
       "published": "2026-09-17T17:20:50Z",
       "ts": 1789665650
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Corn Feeling Pressure on Thursday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-feeling-pressure-thursday-171912863.html",
-      "published": "2026-09-17T17:19:12Z",
-      "ts": 1789665552
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How This Freight Cycle Could Last",
-      "link": "https://finance.yahoo.com/economy/articles/freight-cycle-could-last-171832534.html",
-      "published": "2026-09-17T17:18:32Z",
-      "ts": 1789665512
     }
   ]
 }
