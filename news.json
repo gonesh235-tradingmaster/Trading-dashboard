@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-19T20:09:46.577117Z",
+  "updated": "2026-09-19T20:24:41.499708Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Interactive Brokers (IBKR) Turns Every Revenue Dollar Into 77 Cents of Pretax Profit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-ibkr-turns-every-200932877.html",
+      "published": "2026-09-19T20:09:32Z",
+      "ts": 1789848572
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Equinix Sees AI Driving Data Center Demand, Interconnection Growth",
+      "link": "https://finance.yahoo.com/technology/ai/articles/equinix-sees-ai-driving-data-200214555.html",
+      "published": "2026-09-19T20:02:14Z",
+      "ts": 1789848134
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ferguson (FERG) Keeps Beating a Housing Market That Refuses to Cooperate",
+      "link": "https://finance.yahoo.com/real-estate/articles/ferguson-ferg-keeps-beating-housing-195513837.html",
+      "published": "2026-09-19T19:55:13Z",
+      "ts": 1789847713
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Agilent (A) Wants Pathology Labs To Go Digital, 540 Slides At A Time",
+      "link": "https://finance.yahoo.com/healthcare/articles/agilent-wants-pathology-labs-digital-195217186.html",
+      "published": "2026-09-19T19:52:17Z",
+      "ts": 1789847537
+    },
     {
       "source": "Yahoo Finance",
       "title": "eGain (EGAN): B. Riley and Roth Capital Both Cut Targets as AI Growth Struggles to Offset Legacy Declines",
@@ -32,38 +60,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Main Street Capital Stock a Buy, Sell, or Hold With Shares 15% Below Their 52-Week High?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/main-street-capital-stock-buy-193500520.html",
-      "published": "2026-09-19T19:35:00Z",
-      "ts": 1789846500
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Jim Cramer Says “Buy Reddit” (RDDT)",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-reddit-193324887.html",
       "published": "2026-09-19T19:33:24Z",
       "ts": 1789846404
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-charging-more-ai-193252050.html",
-      "published": "2026-09-19T19:32:52Z",
-      "ts": 1789846372
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
-      "published": "2026-09-19T19:29:55Z",
-      "ts": 1789846195
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
-      "link": "https://finance.yahoo.com/technology/articles/stmicroelectronics-stm-wants-every-car-192912047.html",
-      "published": "2026-09-19T19:29:12Z",
-      "ts": 1789846152
     },
     {
       "source": "CoinTelegraph",
