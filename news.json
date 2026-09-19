@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T06:12:18.721395Z",
+  "updated": "2026-09-19T06:31:46.180907Z",
   "count": 60,
   "items": [
     {
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Ford Hasn’t Raised Its Dividend in Years. Don’t Count on a Hike in 2026.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ford-hasn-t-raised-dividend-233003869.html",
-      "published": "2026-09-17T23:30:03Z",
-      "ts": 1789687803
+      "title": "Meta (META) Hands its New AI Agent the Keys to Your Inbox and Wallet",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-meta-hands-ai-agent-234026981.html",
+      "published": "2026-09-17T23:40:26Z",
+      "ts": 1789688426
     },
     {
       "source": "Yahoo Finance",
-      "title": "Warren Buffett Has More Than 50% of His Portfolio in These 3 Stocks. Which One Is the Best Buy Today?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-more-50-portfolio-232000060.html",
-      "published": "2026-09-17T23:20:00Z",
-      "ts": 1789687200
+      "title": "Novo Nordisk (NVO) Pulls the Plug on Two More Heart Drug Trials",
+      "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pulls-plug-233726977.html",
+      "published": "2026-09-17T23:37:26Z",
+      "ts": 1789688246
     },
     {
       "source": "Yahoo Finance",
-      "title": "Estes bets $56M on cross-border, offshore freight expansion",
-      "link": "https://finance.yahoo.com/economy/policy/articles/estes-bets-56m-cross-border-231647268.html",
-      "published": "2026-09-17T23:16:47Z",
-      "ts": 1789687007
+      "title": "Washington Tells Ford (F) its Chinese Partnerships are a National Security Problem",
+      "link": "https://finance.yahoo.com/economy/policy/articles/washington-tells-ford-f-chinese-233517320.html",
+      "published": "2026-09-17T23:35:17Z",
+      "ts": 1789688117
     }
   ]
 }
