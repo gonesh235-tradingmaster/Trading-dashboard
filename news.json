@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T17:23:01.688942Z",
+  "updated": "2026-09-19T17:36:03.223372Z",
   "count": 60,
   "items": [
     {
@@ -11,10 +11,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Month Before He Went Into Care, She Paid Off the Mortgage, Put a New Roof on the House, and Bought a Car. Medicaid Never Counted a Dollar of It, Because Not One Purchase Was a Gift",
-      "link": "https://finance.yahoo.com/healthcare/articles/month-went-care-she-paid-170728701.html",
-      "published": "2026-09-19T17:07:28Z",
-      "ts": 1789837648
+      "title": "BofA drops stunning warning about Fed rate hikes",
+      "link": "https://finance.yahoo.com/economy/policy/articles/bofa-drops-stunning-warning-fed-171700996.html",
+      "published": "2026-09-19T17:17:00Z",
+      "ts": 1789838220
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
+      "published": "2026-09-19T17:14:43Z",
+      "ts": 1789838083
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
+      "published": "2026-09-19T17:12:00Z",
+      "ts": 1789837920
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
+      "link": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
+      "published": "2026-09-19T17:11:52Z",
+      "ts": 1789837912
     },
     {
       "source": "Yahoo Finance",
@@ -101,13 +122,6 @@
       "ts": 1789833268
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Netflix (NFLX) Gets a Bullish $110 Target: What’s Driving the Outlook?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-gets-bullish-110-155252131.html",
-      "published": "2026-09-19T15:52:52Z",
-      "ts": 1789833172
-    },
-    {
       "source": "MarketWatch",
       "title": "Couples with a big age gap need more money — they have to plan for two retirements",
       "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
@@ -148,13 +162,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
       "published": "Sat, 19 Sep 2026 13:39:15 +0000",
       "ts": 1789825155
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lawyers say your $5,000 debt doesn't disappear when the company you owe goes out of business — here's why",
-      "link": "https://finance.yahoo.com/small-business/articles/lawyers-5-000-debt-doesnt-133000085.html",
-      "published": "2026-09-19T13:30:00Z",
-      "ts": 1789824600
     },
     {
       "source": "CoinDesk",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
       "published": "2026-09-18 09:30:34",
       "ts": 1789723834
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Here’s what BoE tightening means for EUR/GBP",
-      "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
-      "published": "2026-09-18 09:00:35",
-      "ts": 1789722035
     }
   ]
 }
