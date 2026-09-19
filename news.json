@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T08:10:40.284422Z",
+  "updated": "2026-09-19T08:26:51.241767Z",
   "count": 60,
   "items": [
     {
@@ -388,11 +388,25 @@
       "ts": 1789711104
     },
     {
+      "source": "Yahoo Finance",
+      "title": "RB Global’s (RBA) Earnings Jump While Its Take Rate Shrinks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rb-global-rba-earnings-jump-042115694.html",
+      "published": "2026-09-18T04:21:15Z",
+      "ts": 1789705275
+    },
+    {
       "source": "Investing Forex",
       "title": "Yuan hits 4-year high ahead of Trump-Xi meeting as China broadens clearing",
       "link": "https://www.investing.com/news/forex-news/yuan-hits-4year-high-ahead-of-trumpxi-meeting-as-china-broadens-clearing-4906662",
       "published": "2026-09-18 04:03:54",
       "ts": 1789704234
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Retirement Savers Don’t Love 401(k) Predictive Tools",
+      "link": "https://finance.yahoo.com/markets/options/articles/why-retirement-savers-don-t-040300321.html",
+      "published": "2026-09-18T04:03:00Z",
+      "ts": 1789704180
     },
     {
       "source": "Yahoo Finance",
@@ -405,20 +419,6 @@
       "source": "Yahoo Finance",
       "title": "Student Loan Debt Weighs Heavily on Retirement Savings",
       "link": "https://finance.yahoo.com/markets/articles/student-loan-debt-weighs-heavily-040100133.html",
-      "published": "2026-09-18T04:01:00Z",
-      "ts": 1789704060
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘Outlook Cloudy’: Fed Rate Hike Pits Bulls Against Bears Over Year-End Rally Odds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/outlook-cloudy-fed-rate-hike-040100680.html",
-      "published": "2026-09-18T04:01:00Z",
-      "ts": 1789704060
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SEC Greenlights Tokenized Stocks After Clarity Act Fails in Senate",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/sec-greenlights-tokenized-stocks-clarity-040100321.html",
       "published": "2026-09-18T04:01:00Z",
       "ts": 1789704060
     }
