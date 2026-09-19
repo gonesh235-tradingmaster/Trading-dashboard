@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T03:09:43.816061Z",
+  "updated": "2026-09-19T03:25:30.925699Z",
   "count": 60,
   "items": [
     {
@@ -395,6 +395,20 @@
       "ts": 1789702564
     },
     {
+      "source": "Yahoo Finance",
+      "title": "AI Power Stocks Rally After Generac's Deal For Amazon Data Centers",
+      "link": "https://www.investors.com/news/generac-stock-recharged-amazon-deal-unlocks-data-center-opportunity/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T21:21:04Z",
+      "ts": 1789680064
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "$10,000 in a high-yield savings account or $10,000 in a CD: Which one will earn more in one year?",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/10000-high-yield-savings-account-vs-cd-earnings-one-year-211941165.html",
+      "published": "2026-09-17T21:19:41Z",
+      "ts": 1789679981
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin extends recovery from Clarity setback, gains capped by Fed hawkishness",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
@@ -403,24 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Lovesac Company (LOVE): Three Analysts Still Say Buy. All Three Just Cut Their Targets",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lovesac-company-love-three-analysts-210905041.html",
-      "published": "2026-09-17T21:09:05Z",
-      "ts": 1789679345
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Academy Sports and Outdoors (ASO): Target Hikes Follow Q2, but No Upgrades",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/academy-sports-outdoors-aso-target-210404586.html",
-      "published": "2026-09-17T21:04:04Z",
-      "ts": 1789679044
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "U.S. Stocks Up on Hopes Rising Inflation, Oil Prices Are Now Contained",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-on-inflation-containment-hopes-4b45bf55?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-17T21:01:00Z",
-      "ts": 1789678860
+      "title": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom",
+      "link": "https://www.wsj.com/finance/stocks/investors-come-back-to-ai-stocks-snapping-market-out-of-inflation-gloom-a7690ce5?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-17T21:18:00Z",
+      "ts": 1789679880
     }
   ]
 }
