@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-19T14:09:35.436471Z",
+  "updated": "2026-09-19T14:24:23.899712Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Most workers would take a pay cut for job security right now: ‘I can’t deal with this stress anymore’",
+      "link": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 14:14:00 GMT",
+      "ts": 1789827240
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-raised-dividend-31-years-140251592.html",
+      "published": "2026-09-19T14:02:51Z",
+      "ts": 1789826571
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Texas Data Centers ‘Dug Their Own Grave,’ Gov Says. At 63, a Rancher Can Lease His Land and Give Social Security More Time to Grow.",
+      "link": "https://finance.yahoo.com/real-estate/articles/texas-data-centers-dug-own-140139976.html",
+      "published": "2026-09-19T14:01:39Z",
+      "ts": 1789826499
+    },
     {
       "source": "CoinDesk",
       "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
@@ -15,20 +36,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
       "published": "Sat, 19 Sep 2026 13:39:15 +0000",
       "ts": 1789825155
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Arm Holdings Still a Hidden Winner of the AI Chip Race?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-still-hidden-winner-133700100.html",
-      "published": "2026-09-19T13:37:00Z",
-      "ts": 1789825020
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MarsCoin Trader Turns $2.4K Into $680K Without Selling a Single Token: Here’s How",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/marscoin-trader-turns-2-4k-133506209.html",
-      "published": "2026-09-19T13:35:06Z",
-      "ts": 1789824906
     },
     {
       "source": "Yahoo Finance",
@@ -232,13 +239,6 @@
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 23:00:00 GMT",
       "ts": 1789772400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 22:45:00 GMT",
-      "ts": 1789771500
     },
     {
       "source": "Investing Crypto",
