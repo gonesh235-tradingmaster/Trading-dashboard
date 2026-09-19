@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-19T11:50:12.941360Z",
+  "updated": "2026-09-19T12:12:04.044716Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+      "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+      "published": "Sat, 19 Sep 2026 12:00:00 +0000",
+      "ts": 1789819200
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+      "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+      "published": "Sat, 19 Sep 2026 12:00:00 +0000",
+      "ts": 1789819200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked",
+      "link": "https://finance.yahoo.com/markets/articles/mark-cuban-spent-125-000-120000383.html",
+      "published": "2026-09-19T12:00:00Z",
+      "ts": 1789819200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Starbucks’s Snoopy cups and McDonald’s SpongeBob toys are commanding huge markups on eBay",
+      "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 12:00:00 GMT",
+      "ts": 1789819200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I just started dating someone I really like, but he’s moving to Mexico for six months. Should I spend the money to visit him?",
+      "link": "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 12:00:00 GMT",
+      "ts": 1789819200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
+      "link": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 12:00:00 GMT",
+      "ts": 1789819200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
+      "published": "2026-09-19T11:59:55Z",
+      "ts": 1789819195
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bastion wins conditional OCC approval for national trust bank charter",
+      "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 19 Sep 2026 11:47:29 +0000",
+      "ts": 1789818449
+    },
     {
       "source": "MarketWatch",
       "title": "Stocks face a growing list of threats — so why are investors staying so calm?",
@@ -136,13 +192,6 @@
       "ts": 1789766160
     },
     {
-      "source": "MarketWatch",
-      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
-      "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 21:14:00 GMT",
-      "ts": 1789766040
-    },
-    {
       "source": "FXStreet",
       "title": "Chinese Yuan: Pre-summit support and firmer bias – DBS",
       "link": "https://www.fxstreet.com/news/chinese-yuan-pre-summit-support-and-firmer-bias-dbs-202609182112",
@@ -157,13 +206,6 @@
       "ts": 1789765200
     },
     {
-      "source": "MarketWatch",
-      "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
-      "link": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 20:48:00 GMT",
-      "ts": 1789764480
-    },
-    {
       "source": "FXStreet",
       "title": "NZD/USD Price Forecast: Kiwi reversal puts 0.5700 under pressure",
       "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-reversal-puts-05700-under-pressure-202609182044",
@@ -176,13 +218,6 @@
       "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-persists-against-us-dollar-uob-202609182038",
       "published": "Fri, 18 Sep 2026 20:38:00 GMT",
       "ts": 1789763880
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Most of what you know about data centers is wrong",
-      "link": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 20:15:00 GMT",
-      "ts": 1789762500
     },
     {
       "source": "Investing Forex",
@@ -304,18 +339,32 @@
       "ts": 1789733795
     },
     {
-      "source": "CoinTelegraph",
-      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
-      "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 11:54:24 +0000",
-      "ts": 1789732464
-    },
-    {
       "source": "CoinDesk",
       "title": "XRP on the brink of a golden cross as focus switches to altcoins",
       "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
       "published": "Fri, 18 Sep 2026 11:15:00 +0000",
       "ts": 1789730100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Gold price today, Friday, September 18, 2026: Gold hits weekly high as inflation concerns fade",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-18-2026-gold-hits-weekly-high-as-inflation-concerns-fade-104807567.html",
+      "published": "2026-09-18T10:48:07Z",
+      "ts": 1789728487
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Sam Altman, Elon Musk and Dario Amodei want AI slowed as tech stocks tumble. Is your retirement fund overexposed?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sam-altman-elon-musk-dario-104500837.html",
+      "published": "2026-09-18T10:45:00Z",
+      "ts": 1789728300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "1 Top Dividend ETF Worth Loading Up On With $1,000 Right Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-top-dividend-etf-worth-103500571.html",
+      "published": "2026-09-18T10:35:00Z",
+      "ts": 1789727700
     },
     {
       "source": "CoinDesk",
@@ -339,25 +388,11 @@
       "ts": 1789727400
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Micron Is Still 22% Below Its All-Time High Heading Into Earnings -- Buying Opportunity or Warning Sign?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-still-22-below-time-101000583.html",
-      "published": "2026-09-18T10:10:00Z",
-      "ts": 1789726200
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
       "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
       "published": "Fri, 18 Sep 2026 10:07:33 +0000",
       "ts": 1789726053
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 Financial Stocks Berkshire Hathaway Owns That I'd Buy Before Buying Berkshire Itself",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-financial-stocks-berkshire-hathaway-100500715.html",
-      "published": "2026-09-18T10:05:00Z",
-      "ts": 1789725900
     },
     {
       "source": "Yahoo Finance",
@@ -374,46 +409,11 @@
       "ts": 1789725600
     },
     {
-      "source": "Yahoo Finance",
-      "title": "SEI’s Record Revenue, Earnings Fuel Future Growth, Rising Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sei-record-revenue-earnings-fuel-095850945.html",
-      "published": "2026-09-18T09:58:50Z",
-      "ts": 1789725530
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AMD Up 155% YTD on Record Revenue, AI Demand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-155-ytd-record-revenue-095032401.html",
-      "published": "2026-09-18T09:50:32Z",
-      "ts": 1789725032
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
-      "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
-      "published": "Fri, 18 Sep 2026 09:49:51 +0000",
-      "ts": 1789724991
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is India’s secondaries market hitting an inflection point?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/india-secondaries-market-hitting-inflection-094400255.html",
-      "published": "2026-09-18T09:44:00Z",
-      "ts": 1789724640
-    },
-    {
       "source": "Investing Crypto",
       "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
       "published": "2026-09-18 09:30:34",
       "ts": 1789723834
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A New Jersey high schooler banked $135,000 in a single year flipping abandoned storage lockers",
-      "link": "https://finance.yahoo.com/small-business/articles/jersey-high-schooler-banked-135-091500036.html",
-      "published": "2026-09-18T09:15:00Z",
-      "ts": 1789722900
     },
     {
       "source": "Investing Forex",
