@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T01:39:03.926342Z",
+  "updated": "2026-09-19T01:51:28.276313Z",
   "count": 60,
   "items": [
     {
@@ -395,6 +395,20 @@
       "ts": 1789679951
     },
     {
+      "source": "Yahoo Finance",
+      "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on",
+      "link": "https://finance.yahoo.com/energy/articles/jp-morgan-says-no-clear-193058656.html",
+      "published": "2026-09-17T19:30:58Z",
+      "ts": 1789673458
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "LCID Stock Surges as Lucid Unveils New European Robotaxi Partnership",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lcid-stock-surges-lucid-unveils-192905699.html",
+      "published": "2026-09-17T19:29:05Z",
+      "ts": 1789673345
+    },
+    {
       "source": "Investing Forex",
       "title": "Dollar halts six-day rally after Fed hike, sterling slips after BoE stands pat",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
@@ -403,24 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Exodus Movement (EXOD) Grows Payment Volume with Fewer Active Cards. Is Usage Improving?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/exodus-movement-exod-grows-payment-185213120.html",
-      "published": "2026-09-17T18:52:13Z",
-      "ts": 1789671133
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A $2.4 Billion Reason Why Generac Stock Is Up Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-4-billion-reason-why-183407198.html",
-      "published": "2026-09-17T18:34:07Z",
-      "ts": 1789670047
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A 30-Year Study Followed Students Into Their Careers. Here’s What It Revealed About the Power of Investing in People.",
-      "link": "https://finance.yahoo.com/small-business/articles/30-study-followed-students-careers-183000471.html",
-      "published": "2026-09-17T18:30:00Z",
-      "ts": 1789669800
+      "title": "The ultimate guide to federal student loans",
+      "link": "https://finance.yahoo.com/news/ultimate-guide-federal-student-loans-200030002.html",
+      "published": "2026-09-17T19:18:55Z",
+      "ts": 1789672735
     }
   ]
 }
