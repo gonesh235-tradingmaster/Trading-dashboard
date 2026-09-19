@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-19T02:51:21.946218Z",
+  "updated": "2026-09-19T03:09:43.816061Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Climbs 10% In Bullish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4908042",
+      "published": "2026-09-19 02:45:02",
+      "ts": 1789785902
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-jumps-above-81k-as-short-squeeze-offsets-rate-and-regulatory-pressure-4908041",
+      "published": "2026-09-19 02:41:38",
+      "ts": 1789785698
+    },
     {
       "source": "FXStreet",
       "title": "Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC",
@@ -382,17 +396,17 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Cardano Climbs 10% In Bullish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4906628",
-      "published": "2026-09-18 02:27:02",
-      "ts": 1789698422
-    },
-    {
-      "source": "Investing Crypto",
       "title": "Bitcoin extends recovery from Clarity setback, gains capped by Fed hawkishness",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
       "published": "2026-09-17 21:19:11",
       "ts": 1789679951
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Lovesac Company (LOVE): Three Analysts Still Say Buy. All Three Just Cut Their Targets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lovesac-company-love-three-analysts-210905041.html",
+      "published": "2026-09-17T21:09:05Z",
+      "ts": 1789679345
     },
     {
       "source": "Yahoo Finance",
@@ -403,24 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "ETF League Tables: Capital Group Nears $160B In AUM",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-capital-group-210005404.html",
-      "published": "2026-09-17T21:00:05Z",
-      "ts": 1789678805
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Daily ETF Flows: QQQ Inflows Total Nearly $1B",
-      "link": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-qqq-inflows-210005358.html",
-      "published": "2026-09-17T21:00:05Z",
-      "ts": 1789678805
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wall Street Splits on Phreesia (PHR) as Margins Improve but Growth Visibility Fades",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-splits-phreesia-phr-205812051.html",
-      "published": "2026-09-17T20:58:12Z",
-      "ts": 1789678692
+      "title": "U.S. Stocks Up on Hopes Rising Inflation, Oil Prices Are Now Contained",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-on-inflation-containment-hopes-4b45bf55?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-17T21:01:00Z",
+      "ts": 1789678860
     }
   ]
 }
