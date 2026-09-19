@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T09:25:10.886402Z",
+  "updated": "2026-09-19T09:38:34.977447Z",
   "count": 60,
   "items": [
     {
@@ -382,10 +382,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "I Have $1.7M Invested With an Advisor and Pay a 1% Fee. Is That Too Much?",
+      "link": "https://finance.yahoo.com/news/1-7m-invested-advisor-pay-120000978.html",
+      "published": "2026-09-18T07:00:00Z",
+      "ts": 1789714800
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Marsh & McLennan Stock Underperforming the S&P 500?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-stock-underperforming-p-063453524.html",
       "published": "2026-09-18T06:34:53Z",
       "ts": 1789713293
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ryft raises £20m Series B to back European and US expansion",
+      "link": "https://finance.yahoo.com/small-business/articles/ryft-raises-20m-series-b-063132175.html",
+      "published": "2026-09-18T06:31:32Z",
+      "ts": 1789713092
     },
     {
       "source": "Yahoo Finance",
@@ -396,17 +410,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "FTSE 100 Live: FTSE 100 slides as Wall Street turns mixed",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-ftse-100-060800408.html",
-      "published": "2026-09-18T06:08:00Z",
-      "ts": 1789711680
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lloyds Banking Group Maps Accelerate 2030 Plan With AI, Growth and Buyback Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lloyds-banking-group-maps-accelerate-060205810.html",
-      "published": "2026-09-18T06:02:05Z",
-      "ts": 1789711325
+      "title": "Strategists Are Most Bullish on European Stocks in Eight Years",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/strategists-most-bullish-european-stocks-062354923.html",
+      "published": "2026-09-18T06:23:54Z",
+      "ts": 1789712634
     },
     {
       "source": "Yahoo Finance",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/caci-caci-centcom-contract-arrives-055844123.html",
       "published": "2026-09-18T05:58:44Z",
       "ts": 1789711124
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Why is the Australian Dollar gaining today?",
-      "link": "https://www.investing.com/news/forex-news/why-is-australian-dollar-gaining-today-93CH-4906672",
-      "published": "2026-09-18 05:58:24",
-      "ts": 1789711104
     }
   ]
 }
