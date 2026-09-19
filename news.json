@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T13:24:58.663292Z",
+  "updated": "2026-09-19T13:37:45.922654Z",
   "count": 60,
   "items": [
     {
@@ -10,18 +10,18 @@
       "ts": 1789822920
     },
     {
+      "source": "Yahoo Finance",
+      "title": "What Will $5,000 Invested in Palantir Stock Be Worth in 5 Years?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-000-invested-palantir-stock-130027090.html",
+      "published": "2026-09-19T13:00:27Z",
+      "ts": 1789822827
+    },
+    {
       "source": "MarketWatch",
       "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
       "link": "https://www.marketwatch.com/story/warshs-fed-shows-its-serious-about-taming-inflation-why-wall-street-now-believes-it-55dc5af5?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 13:00:00 GMT",
       "ts": 1789822800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Amgen or Merck: Which Drugmaker Has the Stronger Dividend Growth Story?",
-      "link": "https://finance.yahoo.com/healthcare/articles/amgen-merck-drugmaker-stronger-dividend-125538920.html",
-      "published": "2026-09-19T12:55:38Z",
-      "ts": 1789822538
     },
     {
       "source": "Yahoo Finance",
