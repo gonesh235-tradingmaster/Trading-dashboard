@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T00:13:47.704083Z",
+  "updated": "2026-09-19T00:35:17.372143Z",
   "count": 60,
   "items": [
     {
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Aon’s $17 Billion USI Deal: What Hedge Fund Sentiment Says About AON and KKR",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aon-17-billion-usi-deal-165811093.html",
-      "published": "2026-09-17T16:58:11Z",
-      "ts": 1789664291
+      "title": "How does the Fed interest rate affect car loans?",
+      "link": "https://finance.yahoo.com/news/fed-affects-auto-loan-rates-190622401.html",
+      "published": "2026-09-17T17:20:50Z",
+      "ts": 1789665650
     },
     {
       "source": "Yahoo Finance",
-      "title": "Polestar (PSNY)’s US Exit Just Showed Up in its Guidance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/polestar-psny-us-exit-just-165023810.html",
-      "published": "2026-09-17T16:50:23Z",
-      "ts": 1789663823
+      "title": "Corn Feeling Pressure on Thursday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-feeling-pressure-thursday-171912863.html",
+      "published": "2026-09-17T17:19:12Z",
+      "ts": 1789665552
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer on Tesla (TSLA): “My Only Solution to It Is That SpaceX Has to Buy It”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tesla-tsla-only-164733818.html",
-      "published": "2026-09-17T16:47:33Z",
-      "ts": 1789663653
+      "title": "How This Freight Cycle Could Last",
+      "link": "https://finance.yahoo.com/economy/articles/freight-cycle-could-last-171832534.html",
+      "published": "2026-09-17T17:18:32Z",
+      "ts": 1789665512
     }
   ]
 }
