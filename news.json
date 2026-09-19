@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T09:38:34.977447Z",
+  "updated": "2026-09-19T09:50:29.035504Z",
   "count": 60,
   "items": [
     {
@@ -360,6 +360,13 @@
       "ts": 1789720670
     },
     {
+      "source": "Yahoo Finance",
+      "title": "China’s Fuel Exports Surge as Global Diesel Shortage Deepens",
+      "link": "https://finance.yahoo.com/energy/articles/china-fuel-exports-surge-global-083000060.html",
+      "published": "2026-09-18T08:30:00Z",
+      "ts": 1789720200
+    },
+    {
       "source": "Investing Forex",
       "title": "UBS sees EUR/USD long opportunity on central bank dynamics",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurusd-long-opportunity-on-central-bank-dynamics-93CH-4906809",
@@ -382,6 +389,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Is Tyson Foods Stock Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-stock-underperforming-nasdaq-070706294.html",
+      "published": "2026-09-18T07:07:06Z",
+      "ts": 1789715226
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "I Have $1.7M Invested With an Advisor and Pay a 1% Fee. Is That Too Much?",
       "link": "https://finance.yahoo.com/news/1-7m-invested-advisor-pay-120000978.html",
       "published": "2026-09-18T07:00:00Z",
@@ -389,38 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Tesla vs SpaceX: Which Is the Better Elon Musk-Backed Stock to Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-vs-spacex-better-elon-065000580.html",
+      "published": "2026-09-18T06:50:00Z",
+      "ts": 1789714200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CRE Rent Growth Fragments Across Major Property Sectors",
+      "link": "https://finance.yahoo.com/real-estate/articles/cre-rent-growth-fragments-across-064449232.html",
+      "published": "2026-09-18T06:44:49Z",
+      "ts": 1789713889
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Marsh & McLennan Stock Underperforming the S&P 500?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-stock-underperforming-p-063453524.html",
       "published": "2026-09-18T06:34:53Z",
       "ts": 1789713293
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ryft raises £20m Series B to back European and US expansion",
-      "link": "https://finance.yahoo.com/small-business/articles/ryft-raises-20m-series-b-063132175.html",
-      "published": "2026-09-18T06:31:32Z",
-      "ts": 1789713092
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "US Dollar Price Forecast: DXY Holds Above 100 as EUR and GBP Face Policy Tests",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-063047247.html",
-      "published": "2026-09-18T06:30:47Z",
-      "ts": 1789713047
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Strategists Are Most Bullish on European Stocks in Eight Years",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/strategists-most-bullish-european-stocks-062354923.html",
-      "published": "2026-09-18T06:23:54Z",
-      "ts": 1789712634
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CACI’s (CACI) New CENTCOM Contract Arrives With Some Fine Print",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/caci-caci-centcom-contract-arrives-055844123.html",
-      "published": "2026-09-18T05:58:44Z",
-      "ts": 1789711124
     }
   ]
 }
