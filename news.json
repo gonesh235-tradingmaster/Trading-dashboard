@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T11:09:08.438710Z",
+  "updated": "2026-09-19T11:23:49.335286Z",
   "count": 60,
   "items": [
     {
@@ -8,13 +8,6 @@
       "link": "https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 11:00:00 GMT",
       "ts": 1789815600
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Dtcpay welcomes SBI Group as strategic investor extending Series A to $25M",
-      "link": "https://cointelegraph.com/news/dtcpay-welcomes-sbi-group-as-strategic-investor-extending-series-a-to-25m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 19 Sep 2026 09:56:47 +0000",
-      "ts": 1789811807
     },
     {
       "source": "CoinTelegraph",
@@ -311,6 +304,13 @@
       "ts": 1789733795
     },
     {
+      "source": "CoinTelegraph",
+      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+      "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 11:54:24 +0000",
+      "ts": 1789732464
+    },
+    {
       "source": "CoinDesk",
       "title": "XRP on the brink of a golden cross as focus switches to altcoins",
       "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
@@ -330,6 +330,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
       "published": "Fri, 18 Sep 2026 10:07:33 +0000",
       "ts": 1789726053
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Best CD rates today, Friday, September 18, 2026: Up to 4.40% APY return available with a 2-year CD",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-18-2026-up-to-440-apy-return-available-with-a-2-year-cd-100000224.html",
+      "published": "2026-09-18T10:00:00Z",
+      "ts": 1789725600
     },
     {
       "source": "Yahoo Finance",
@@ -361,6 +368,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Oracle Tells Employees 'Doing More With Less' Isn’t The Goal After Recent Layoffs, CFO Urges 'Thoughtful' Spending: Report",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-tells-employees-doing-more-094508947.html",
+      "published": "2026-09-18T09:45:08Z",
+      "ts": 1789724708
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is India’s secondaries market hitting an inflection point?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/india-secondaries-market-hitting-inflection-094400255.html",
       "published": "2026-09-18T09:44:00Z",
@@ -368,17 +382,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Manufacturing output down in August; investments by Reckitt, Hitachi",
-      "link": "https://finance.yahoo.com/economy/articles/manufacturing-output-down-august-investments-093607916.html",
-      "published": "2026-09-18T09:36:07Z",
-      "ts": 1789724167
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Verizon the Year's Best Telecom Stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-years-best-telecom-stock-093500316.html",
-      "published": "2026-09-18T09:35:00Z",
-      "ts": 1789724100
+      "title": "Highgate and Eternam acquire Zafolia Hotel Athens in Greece",
+      "link": "https://finance.yahoo.com/real-estate/articles/highgate-eternam-acquire-zafolia-hotel-094239787.html",
+      "published": "2026-09-18T09:42:39Z",
+      "ts": 1789724559
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
       "published": "2026-09-18 08:37:50",
       "ts": 1789720670
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "China’s Fuel Exports Surge as Global Diesel Shortage Deepens",
-      "link": "https://finance.yahoo.com/energy/articles/china-fuel-exports-surge-global-083000060.html",
-      "published": "2026-09-18T08:30:00Z",
-      "ts": 1789720200
     }
   ]
 }
