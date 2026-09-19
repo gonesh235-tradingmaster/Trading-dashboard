@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T08:41:10.275133Z",
+  "updated": "2026-09-19T08:51:49.352137Z",
   "count": 60,
   "items": [
     {
@@ -402,6 +402,13 @@
       "ts": 1789705275
     },
     {
+      "source": "Yahoo Finance",
+      "title": "GQRE vs HAUZ: Global Real Estate ETF Showdown",
+      "link": "https://finance.yahoo.com/real-estate/articles/gqre-vs-hauz-global-real-042001445.html",
+      "published": "2026-09-18T04:20:01Z",
+      "ts": 1789705201
+    },
+    {
       "source": "Investing Forex",
       "title": "Yuan hits 4-year high ahead of Trump-Xi meeting as China broadens clearing",
       "link": "https://www.investing.com/news/forex-news/yuan-hits-4year-high-ahead-of-trumpxi-meeting-as-china-broadens-clearing-4906662",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/why-retirement-savers-don-t-040300321.html",
       "published": "2026-09-18T04:03:00Z",
       "ts": 1789704180
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Rocket Companies Sees Market-Share Gains as Redfin, Mr. Cooper Synergies Build",
-      "link": "https://finance.yahoo.com/real-estate/articles/rocket-companies-sees-market-share-040203732.html",
-      "published": "2026-09-18T04:02:03Z",
-      "ts": 1789704123
     }
   ]
 }
