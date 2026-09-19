@@ -1,20 +1,34 @@
 {
-  "updated": "2026-09-19T17:08:46.027338Z",
+  "updated": "2026-09-19T17:23:01.688942Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "These are the 10 biggest retirement fears — and what you can do about them",
+      "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 17:21:00 GMT",
+      "ts": 1789838460
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Month Before He Went Into Care, She Paid Off the Mortgage, Put a New Roof on the House, and Bought a Car. Medicaid Never Counted a Dollar of It, Because Not One Purchase Was a Gift",
+      "link": "https://finance.yahoo.com/healthcare/articles/month-went-care-she-paid-170728701.html",
+      "published": "2026-09-19T17:07:28Z",
+      "ts": 1789837648
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Lucid (LCID) Rises After Bolt Partnership, But Cash Burn Remains a Concern",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-rises-bolt-partnership-165233221.html",
+      "published": "2026-09-19T16:52:33Z",
+      "ts": 1789836753
+    },
     {
       "source": "MarketWatch",
       "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
       "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 16:45:00 GMT",
       "ts": 1789836300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "There Are Only a Handful of Nasdaq-100 Stocks That Yield Over 3%. Here's My Top Pick to Buy in September.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/only-handful-nasdaq-100-stocks-163500606.html",
-      "published": "2026-09-19T16:35:00Z",
-      "ts": 1789835700
     },
     {
       "source": "Yahoo Finance",
@@ -122,13 +136,6 @@
       "ts": 1789830840
     },
     {
-      "source": "MarketWatch",
-      "title": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500",
-      "link": "https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 14:57:00 GMT",
-      "ts": 1789829820
-    },
-    {
       "source": "CoinDesk",
       "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
       "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
@@ -148,13 +155,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/lawyers-5-000-debt-doesnt-133000085.html",
       "published": "2026-09-19T13:30:00Z",
       "ts": 1789824600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
-      "published": "2026-09-19T12:45:47Z",
-      "ts": 1789821947
     },
     {
       "source": "CoinDesk",
