@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T06:31:46.180907Z",
+  "updated": "2026-09-19T06:53:30.854376Z",
   "count": 60,
   "items": [
     {
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Meta (META) Hands its New AI Agent the Keys to Your Inbox and Wallet",
-      "link": "https://finance.yahoo.com/technology/ai/articles/meta-meta-hands-ai-agent-234026981.html",
-      "published": "2026-09-17T23:40:26Z",
-      "ts": 1789688426
+      "title": "A Failed Cholesterol Drug Raises the Stakes for Amgen (AMGN) and Eli Lilly (LLY) Too",
+      "link": "https://finance.yahoo.com/healthcare/articles/failed-cholesterol-drug-raises-stakes-235724249.html",
+      "published": "2026-09-17T23:57:24Z",
+      "ts": 1789689444
     },
     {
       "source": "Yahoo Finance",
-      "title": "Novo Nordisk (NVO) Pulls the Plug on Two More Heart Drug Trials",
-      "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pulls-plug-233726977.html",
-      "published": "2026-09-17T23:37:26Z",
-      "ts": 1789688246
+      "title": "Long-Term Treasury Yields Now Beat These Dividend Stalwarts. Is Government Debt the Top Passive-Income Play?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/long-term-treasury-yields-now-235000483.html",
+      "published": "2026-09-17T23:50:00Z",
+      "ts": 1789689000
     },
     {
       "source": "Yahoo Finance",
-      "title": "Washington Tells Ford (F) its Chinese Partnerships are a National Security Problem",
-      "link": "https://finance.yahoo.com/economy/policy/articles/washington-tells-ford-f-chinese-233517320.html",
-      "published": "2026-09-17T23:35:17Z",
-      "ts": 1789688117
+      "title": "'Why wouldn't you want that?' Ex-CFTC chief on the $1 Treasury fund coming to crypto wallets",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/why-wouldnt-want-ex-cftc-234623165.html",
+      "published": "2026-09-17T23:46:23Z",
+      "ts": 1789688783
     }
   ]
 }
