@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-19T03:39:34.705727Z",
+  "updated": "2026-09-19T03:51:32.544850Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 10% In Rally",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-rally-4908047",
+      "published": "2026-09-19 03:38:02",
+      "ts": 1789789082
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure",
@@ -396,31 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "High Tide (HITI) Reports Record Revenue. Why is Cash Flow Lagging Operating Profit Growth?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/high-tide-hiti-reports-record-214936984.html",
+      "published": "2026-09-17T21:49:36Z",
+      "ts": 1789681776
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Burford Capital (BUR) Prices $300M of Secured Debt. Is the Refinancing Buying Enough Time?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/burford-capital-bur-prices-300m-214714531.html",
+      "published": "2026-09-17T21:47:14Z",
+      "ts": 1789681634
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer on Broadcom (AVGO): “The Stock May Be Too Cheap to Ignore”",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-broadcom-avgo-stock-214237143.html",
       "published": "2026-09-17T21:42:37Z",
       "ts": 1789681357
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says Give Kraft Heinz (KHC) Six Months to Prove Its Turnaround",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-kraft-heinz-214002740.html",
-      "published": "2026-09-17T21:40:02Z",
-      "ts": 1789681202
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Uber’s Madrid Expansion Adds a Fourth City to Its WeRide Partnership, But Its Multi-Partner Bet Faces Real Strain",
-      "link": "https://finance.yahoo.com/technology/articles/uber-madrid-expansion-adds-fourth-213622958.html",
-      "published": "2026-09-17T21:36:22Z",
-      "ts": 1789680982
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CoinShares (CSHR) Attracts Inflows as Revenue Falls. Can Asset Gathering Restore Fee Economics?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/coinshares-cshr-attracts-inflows-revenue-213505209.html",
-      "published": "2026-09-17T21:35:05Z",
-      "ts": 1789680905
     }
   ]
 }
