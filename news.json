@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T11:37:18.875551Z",
+  "updated": "2026-09-19T11:50:12.941360Z",
   "count": 60,
   "items": [
     {
@@ -326,10 +326,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Nasdaq Futures Pare Gains as Treasury Yields Climb",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-pare-gains-treasury-103117849.html",
+      "published": "2026-09-18T10:31:17Z",
+      "ts": 1789727477
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "A $5,300 hospital bill arrived 5 years after her husband's death — she may not owe a single dollar",
       "link": "https://finance.yahoo.com/healthcare/articles/5-300-hospital-bill-arrived-103000949.html",
       "published": "2026-09-18T10:30:00Z",
       "ts": 1789727400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Micron Is Still 22% Below Its All-Time High Heading Into Earnings -- Buying Opportunity or Warning Sign?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-still-22-below-time-101000583.html",
+      "published": "2026-09-18T10:10:00Z",
+      "ts": 1789726200
     },
     {
       "source": "CoinDesk",
@@ -340,6 +354,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "3 Financial Stocks Berkshire Hathaway Owns That I'd Buy Before Buying Berkshire Itself",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-financial-stocks-berkshire-hathaway-100500715.html",
+      "published": "2026-09-18T10:05:00Z",
+      "ts": 1789725900
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Best CD rates today, Friday, September 18, 2026: Up to 4.40% APY return available with a 2-year CD",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-18-2026-up-to-440-apy-return-available-with-a-2-year-cd-100000224.html",
       "published": "2026-09-18T10:00:00Z",
@@ -347,22 +368,8 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Shadow AI use booms, finds new Deloitte survey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/shadow-ai-booms-finds-deloitte-100000360.html",
-      "published": "2026-09-18T10:00:00Z",
-      "ts": 1789725600
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "From Florida to Nevada, retirees are fleeing to no-tax states in search of financial 'heaven.' They don't always find it",
       "link": "https://finance.yahoo.com/real-estate/articles/florida-nevada-retirees-fleeing-no-100000560.html",
-      "published": "2026-09-18T10:00:00Z",
-      "ts": 1789725600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Merit Financial Adds Former Commonwealth Advisor Overseeing $888M",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/merit-financial-adds-former-commonwealth-100000974.html",
       "published": "2026-09-18T10:00:00Z",
       "ts": 1789725600
     },
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
       "published": "2026-09-18 09:00:35",
       "ts": 1789722035
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Should I Convert 10% of My 401(k) to a Roth IRA Each Year to Reduce Taxes and RMDs?",
-      "link": "https://finance.yahoo.com/news/wise-convert-10-401-k-113000206.html",
-      "published": "2026-09-18T09:00:00Z",
-      "ts": 1789722000
     }
   ]
 }
