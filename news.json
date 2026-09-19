@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T04:51:17.762519Z",
+  "updated": "2026-09-19T05:08:58.633114Z",
   "count": 60,
   "items": [
     {
@@ -403,6 +403,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Michael Burry returns to a difficult corner of Wall Street",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-returns-difficult-corner-220700698.html",
+      "published": "2026-09-17T22:07:00Z",
+      "ts": 1789682820
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer Prefers Palo Alto (PANW) Over SentinelOne (S)",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-palo-alto-220330487.html",
       "published": "2026-09-17T22:03:30Z",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/markets/commodities/articles/corn-faces-pressure-thursday-220320870.html",
       "published": "2026-09-17T22:03:20Z",
       "ts": 1789682600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nike (NKE) Shareholders Side with the Board Over Norway’s Wealth Fund on Climate Disclosure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-shareholders-side-board-220254034.html",
-      "published": "2026-09-17T22:02:54Z",
-      "ts": 1789682574
     }
   ]
 }
