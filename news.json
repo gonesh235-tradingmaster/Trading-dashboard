@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-19T18:27:15.283890Z",
+  "updated": "2026-09-19T18:41:49.075089Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
+      "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 19 Sep 2026 18:35:16 +0000",
+      "ts": 1789842916
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AMETEK’s (AME) $5B Deal Bets Big On A Hot Streak",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ametek-ame-5b-deal-bets-183135450.html",
+      "published": "2026-09-19T18:31:35Z",
+      "ts": 1789842695
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Boeing Isn't Perfect -- but It's Still a Compelling Value Buy Right Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-isnt-perfect-still-compelling-182500408.html",
+      "published": "2026-09-19T18:25:00Z",
+      "ts": 1789842300
+    },
     {
       "source": "MarketWatch",
       "title": "Many young investors can’t afford to invest without their parents’ help",
@@ -11,10 +32,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dividends vs. an Annuity: Which Turns $590,000 Into More Monthly Income for Life?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dividends-vs-annuity-turns-590-181214858.html",
-      "published": "2026-09-19T18:12:14Z",
-      "ts": 1789841534
+      "title": "PureCycle (PCT) Expands PureFive Use as Regulatory Tailwinds Meet Execution Risk",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-expands-purefive-regulatory-182105336.html",
+      "published": "2026-09-19T18:21:05Z",
+      "ts": 1789842065
     },
     {
       "source": "Yahoo Finance",
@@ -71,20 +92,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
       "published": "2026-09-19T17:14:43Z",
       "ts": 1789838083
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
-      "published": "2026-09-19T17:12:00Z",
-      "ts": 1789837920
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
-      "link": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
-      "published": "2026-09-19T17:11:52Z",
-      "ts": 1789837912
     },
     {
       "source": "MarketWatch",
@@ -379,13 +386,6 @@
       "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
       "published": "Fri, 18 Sep 2026 15:06:31 +0000",
       "ts": 1789743991
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
-      "link": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 14:04:43 +0000",
-      "ts": 1789740283
     },
     {
       "source": "Investing Crypto",
