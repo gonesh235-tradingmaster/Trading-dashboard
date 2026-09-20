@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T05:09:22.460014Z",
+  "updated": "2026-09-20T05:24:25.681511Z",
   "count": 60,
   "items": [
     {
@@ -221,6 +221,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Why DataMEDS’ Acquisition Does Not Seem to Be Very Bullish for MEDS Stock at This Point",
+      "link": "https://finance.yahoo.com/healthcare/articles/why-datameds-acquisition-does-not-221116776.html",
+      "published": "2026-09-18T22:11:16Z",
+      "ts": 1789769476
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The SEC Greenlights Tokenized Stocks... With Caveats",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/sec-greenlights-tokenized-stocks-caveats-220732726.html",
+      "published": "2026-09-18T22:07:32Z",
+      "ts": 1789769252
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Weekly Wrap: Bitcoin Climbs Back Above $80,000",
       "link": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-climbs-back-220100164.html",
       "published": "2026-09-18T22:01:00Z",
@@ -288,20 +302,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 21:00:00 +0000",
       "ts": 1789765200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Social Security Check at 62 vs. 70: How Much Can You Get?",
-      "link": "https://finance.yahoo.com/small-business/articles/social-security-check-62-vs-210000443.html",
-      "published": "2026-09-18T21:00:00Z",
-      "ts": 1789765200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T20:57:21Z",
-      "ts": 1789765041
     },
     {
       "source": "FXStreet",
