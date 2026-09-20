@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T04:52:18.061537Z",
+  "updated": "2026-09-20T05:09:22.460014Z",
   "count": 60,
   "items": [
     {
@@ -318,13 +318,6 @@
       "ts": 1789763880
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stocks Finish Mostly Higher as Crude Prices Fall",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-finish-mostly-higher-crude-203728012.html",
-      "published": "2026-09-18T20:37:28Z",
-      "ts": 1789763848
-    },
-    {
       "source": "Investing Forex",
       "title": "Yen set for worst week since Oct 2025 as BoJ’s hike seen as not aggressive enough",
       "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
@@ -421,6 +414,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
       "published": "2026-09-18 09:30:34",
       "ts": 1789723834
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Here’s what BoE tightening means for EUR/GBP",
+      "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
+      "published": "2026-09-18 09:00:35",
+      "ts": 1789722035
     }
   ]
 }
