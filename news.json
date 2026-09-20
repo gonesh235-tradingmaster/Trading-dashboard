@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-20T16:25:51.694613Z",
+  "updated": "2026-09-20T16:39:34.894196Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 16:30:00 GMT",
+      "ts": 1789921800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "California Resources (CRC) Sells Uinta Assets for $90 Million",
+      "link": "https://finance.yahoo.com/energy/articles/california-resources-crc-sells-uinta-162106302.html",
+      "published": "2026-09-20T16:21:06Z",
+      "ts": 1789921266
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Musk Says NVIDIA (NVDA) AI Chips Are Headed to Space With SpaceX (SPCX) Next Year",
+      "link": "https://finance.yahoo.com/technology/ai/articles/musk-says-nvidia-nvda-ai-162008359.html",
+      "published": "2026-09-20T16:20:08Z",
+      "ts": 1789921208
+    },
     {
       "source": "Yahoo Finance",
       "title": "3 Reasons CRISPR Therapeutics Stock Is Still a Buy After a Rocky 2026",
@@ -57,20 +78,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-bets-rebound-enbridge-152940861.html",
       "published": "2026-09-20T15:29:40Z",
       "ts": 1789918180
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "published": "2026-09-20T15:25:44Z",
-      "ts": 1789917944
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "NextEra’s Nuclear Bet Just Got a $1.9 Billion Boost",
-      "link": "https://finance.yahoo.com/energy/articles/nextera-nuclear-bet-just-got-152438612.html",
-      "published": "2026-09-20T15:24:38Z",
-      "ts": 1789917878
     },
     {
       "source": "MarketWatch",
@@ -211,13 +218,6 @@
       "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 19 Sep 2026 19:18:00 +0000",
       "ts": 1789845480
-    },
-    {
-      "source": "MarketWatch",
-      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
-      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 18:57:00 GMT",
-      "ts": 1789844220
     },
     {
       "source": "CoinTelegraph",
