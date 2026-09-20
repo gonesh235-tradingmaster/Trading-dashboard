@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-20T15:09:11.708815Z",
+  "updated": "2026-09-20T15:24:38.338905Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "You Can Soon Get Pre-IPO Exposure on Binance Wallet, But There's A Catch",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/soon-pre-ipo-exposure-binance-151028238.html",
+      "published": "2026-09-20T15:10:28Z",
+      "ts": 1789917028
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Baker Hughes (BKR) Raises 2026 Guidance. But Investors Aren’t Impressed",
+      "link": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-raises-2026-150954006.html",
+      "published": "2026-09-20T15:09:54Z",
+      "ts": 1789916994
+    },
     {
       "source": "MarketWatch",
       "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
@@ -15,13 +29,6 @@
       "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
       "published": "Sun, 20 Sep 2026 14:54:48 +0000",
       "ts": 1789916088
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ask These 2 Questions to Make Sure Your Roth Conversion Doesn't End Up Backfiring",
-      "link": "https://finance.yahoo.com/markets/articles/ask-2-questions-sure-roth-144100215.html",
-      "published": "2026-09-20T14:41:00Z",
-      "ts": 1789915260
     },
     {
       "source": "Yahoo Finance",
@@ -414,13 +421,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
       "published": "Fri, 18 Sep 2026 15:16:37 +0000",
       "ts": 1789744597
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Why is Bitcoin US Dollar stock climbing today?",
-      "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
-      "published": "2026-09-18 13:06:16",
-      "ts": 1789736776
     }
   ]
 }
