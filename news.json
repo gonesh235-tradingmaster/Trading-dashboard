@@ -1,20 +1,27 @@
 {
-  "updated": "2026-09-20T22:51:17.276001Z",
+  "updated": "2026-09-20T23:08:48.475198Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Starbucks (SBUX)’s New Chai Recipe has its Most Loyal Customers Revolting",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-chai-recipe-most-225540524.html",
+      "published": "2026-09-20T22:55:40Z",
+      "ts": 1789944940
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+      "published": "2026-09-20T22:47:12Z",
+      "ts": 1789944432
+    },
     {
       "source": "FXStreet",
       "title": "Qatar’s Prime Minister says Gulf states have to act together on Iran",
       "link": "https://www.fxstreet.com/news/qatars-prime-minister-says-gulf-states-have-to-act-together-on-iran-202609202229",
       "published": "Sun, 20 Sep 2026 22:29:23 GMT",
       "ts": 1789943363
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "published": "2026-09-20T22:22:10Z",
-      "ts": 1789942930
     },
     {
       "source": "Yahoo Finance",
@@ -57,13 +64,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/nokia-nok-gets-buy-rating-214509281.html",
       "published": "2026-09-20T21:45:09Z",
       "ts": 1789940709
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
-      "link": "https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html",
-      "published": "2026-09-20T21:41:29Z",
-      "ts": 1789940489
     },
     {
       "source": "Investing Crypto",
