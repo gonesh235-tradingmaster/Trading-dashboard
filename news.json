@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-20T20:08:55.327809Z",
+  "updated": "2026-09-20T20:24:34.657114Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/orion-energy-oesx-raises-guidance-195100572.html",
+      "published": "2026-09-20T19:51:00Z",
+      "ts": 1789933860
+    },
     {
       "source": "Yahoo Finance",
       "title": "Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost?",
@@ -32,15 +39,15 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit",
-      "link": "https://finance.yahoo.com/energy/articles/diesel-6-48-per-gallon-190000006.html",
+      "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
+      "link": "https://finance.yahoo.com/energy/articles/hormuz-crisis-push-global-coal-190000905.html",
       "published": "2026-09-20T19:00:00Z",
       "ts": 1789930800
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
-      "link": "https://finance.yahoo.com/energy/articles/hormuz-crisis-push-global-coal-190000905.html",
+      "title": "Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit",
+      "link": "https://finance.yahoo.com/energy/articles/diesel-6-48-per-gallon-190000006.html",
       "published": "2026-09-20T19:00:00Z",
       "ts": 1789930800
     },
@@ -57,13 +64,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-vra-returns-operating-185154105.html",
       "published": "2026-09-20T18:51:54Z",
       "ts": 1789930314
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SPX Technologies (SPXC) Buys FIS Water for $410M. Can Water Management Lift Cooling Returns?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spx-technologies-spxc-buys-fis-184511019.html",
-      "published": "2026-09-20T18:45:11Z",
-      "ts": 1789929911
     },
     {
       "source": "MarketWatch",
