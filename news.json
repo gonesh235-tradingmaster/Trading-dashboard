@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T14:09:44.330440Z",
+  "updated": "2026-09-20T14:24:27.577343Z",
   "count": 60,
   "items": [
     {
@@ -8,6 +8,13 @@
       "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
       "published": "Sun, 20 Sep 2026 14:08:00 GMT",
       "ts": 1789913280
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
+      "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
+      "published": "2026-09-20 14:00:37",
+      "ts": 1789912837
     },
     {
       "source": "MarketWatch",
@@ -179,6 +186,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Dave Ramsey Told 1 Caller, ‘Hold on to the Cash. We’re Not Gonna Pay Off the House,’ But 5 Months Later Told Another to Pay It Off That Night. Here’s Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-told-1-caller-130002244.html",
+      "published": "2026-09-19T13:00:02Z",
+      "ts": 1789822802
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
       "link": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
       "published": "2026-09-19T12:45:47Z",
@@ -232,13 +246,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
       "published": "Sat, 19 Sep 2026 12:13:57 +0000",
       "ts": 1789820037
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘You’re gonna get there’: Dave Ramsey tells divorced mom, 51, with no savings she can retire a millionaire. Here’s how",
-      "link": "https://finance.yahoo.com/small-business/articles/gonna-dave-ramsey-tells-divorced-120500452.html",
-      "published": "2026-09-19T12:05:00Z",
-      "ts": 1789819500
     },
     {
       "source": "CoinDesk",
@@ -414,13 +421,6 @@
       "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
       "published": "Fri, 18 Sep 2026 15:06:31 +0000",
       "ts": 1789743991
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Why is Bitcoin US Dollar stock climbing today?",
-      "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
-      "published": "2026-09-18 13:06:16",
-      "ts": 1789736776
     }
   ]
 }
