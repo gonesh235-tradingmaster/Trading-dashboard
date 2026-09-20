@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T04:26:06.807917Z",
+  "updated": "2026-09-20T04:40:28.136385Z",
   "count": 60,
   "items": [
     {
@@ -220,6 +220,13 @@
       "ts": 1789772820
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Social Security at 62 vs. 65: What Is the Break Even Point?",
+      "link": "https://finance.yahoo.com/markets/articles/social-security-62-vs-65-220000653.html",
+      "published": "2026-09-18T22:00:00Z",
+      "ts": 1789768800
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin jumps, tops $80k for first time since Sept 7 & turns positive for the week",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
@@ -316,13 +323,6 @@
       "link": "https://www.investors.com/news/technology/chip-stocks-hit-ceiling-macom-technology-solutions-mtsi/?src=A00220&yptr=yahoo",
       "published": "2026-09-18T20:33:38Z",
       "ts": 1789763618
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Analyst Just Downgraded Array Technologies. Here's Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-downgraded-array-technologies-202037892.html",
-      "published": "2026-09-18T20:20:37Z",
-      "ts": 1789762837
     },
     {
       "source": "Investing Forex",
