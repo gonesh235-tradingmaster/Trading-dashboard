@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-20T13:51:25.401274Z",
+  "updated": "2026-09-20T14:09:44.330440Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
+      "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 14:08:00 GMT",
+      "ts": 1789913280
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 14:00:00 GMT",
+      "ts": 1789912800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "China is chasing SpaceX and setting its sights on the global space economy",
+      "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 13:53:00 GMT",
+      "ts": 1789912380
+    },
     {
       "source": "MarketWatch",
       "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
@@ -59,13 +80,6 @@
       "ts": 1789905600
     },
     {
-      "source": "MarketWatch",
-      "title": "China is chasing SpaceX and setting its sights on the global space economy",
-      "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 12:00:00 GMT",
-      "ts": 1789905600
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Falls 11% In Rout",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4908157",
@@ -99,13 +113,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
       "published": "2026-09-20 05:06:36",
       "ts": 1789880796
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 01:45:00 GMT",
-      "ts": 1789868700
     },
     {
       "source": "Yahoo Finance",
@@ -143,13 +150,6 @@
       "ts": 1789843200
     },
     {
-      "source": "MarketWatch",
-      "title": "Many young investors can’t afford to invest without their parents’ help",
-      "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 18:22:00 GMT",
-      "ts": 1789842120
-    },
-    {
       "source": "CoinTelegraph",
       "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
       "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -178,6 +178,55 @@
       "ts": 1789825155
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
+      "published": "2026-09-19T12:45:47Z",
+      "ts": 1789821947
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-cor-raised-guidance-bought-123837104.html",
+      "published": "2026-09-19T12:38:37Z",
+      "ts": 1789821517
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Coherent (COHR) Squeezes Key Optical Network Gear Into a Plug-In Module",
+      "link": "https://finance.yahoo.com/technology/articles/coherent-cohr-squeezes-key-optical-123508124.html",
+      "published": "2026-09-19T12:35:08Z",
+      "ts": 1789821308
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Gallagher’s (AJG) Colorado Deal Is Another Brick in a Very Big Wall",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gallagher-ajg-colorado-deal-another-123050148.html",
+      "published": "2026-09-19T12:30:50Z",
+      "ts": 1789821050
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Week Ahead: Keeping An Eye Out For Change",
+      "link": "https://www.investors.com/research/investing-action-plan/stock-market-nasdaq-sp-500-analysis-meta-platforms-earnings/?src=A00220&yptr=yahoo",
+      "published": "2026-09-19T12:29:27Z",
+      "ts": 1789820967
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mitt Romney warned a billionaire tax triggers demand for 2 assets — now California decides. Get in before the super-rich",
+      "link": "https://finance.yahoo.com/economy/policy/articles/mitt-romney-warned-billionaire-tax-122500287.html",
+      "published": "2026-09-19T12:25:00Z",
+      "ts": 1789820700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Meta Stock Could Hit $800 This Year -- And It All Begins on Sept. 23",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-could-hit-800-122139390.html",
+      "published": "2026-09-19T12:21:39Z",
+      "ts": 1789820499
+    },
+    {
       "source": "CoinDesk",
       "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
       "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
@@ -192,27 +241,6 @@
       "ts": 1789819500
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Bill Ackman's Pershing Square IPO Breaks Out",
-      "link": "https://www.investors.com/news/bill-ackman-pershing-square-ipo-stock-setting-up/?src=A00220&yptr=yahoo",
-      "published": "2026-09-19T12:00:59Z",
-      "ts": 1789819259
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Robinhood Soars, SpaceX Orbits Entry: Five Stocks Near Buy Points",
-      "link": "https://www.investors.com/news/robinhood-stock-spacex-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-      "published": "2026-09-19T12:00:39Z",
-      "ts": 1789819239
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A Pause on Advanced AI Is Wishful Thinking, But Adobe Stock Is a Buy Anyway",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pause-advanced-ai-wishful-thinking-120002470.html",
-      "published": "2026-09-19T12:00:02Z",
-      "ts": 1789819202
-    },
-    {
       "source": "CoinDesk",
       "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
       "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
@@ -225,34 +253,6 @@
       "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
       "published": "Sat, 19 Sep 2026 12:00:00 +0000",
       "ts": 1789819200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "YardFlow lands over 200-site yard automation deal",
-      "link": "https://finance.yahoo.com/technology/articles/yardflow-lands-over-200-yard-120000605.html",
-      "published": "2026-09-19T12:00:00Z",
-      "ts": 1789819200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked",
-      "link": "https://finance.yahoo.com/markets/articles/mark-cuban-spent-125-000-120000383.html",
-      "published": "2026-09-19T12:00:00Z",
-      "ts": 1789819200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
-      "published": "2026-09-19T11:59:55Z",
-      "ts": 1789819195
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nestlé Loses the Keys to Its Russian Business",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nestl-loses-keys-russian-business-115500444.html",
-      "published": "2026-09-19T11:55:00Z",
-      "ts": 1789818900
     },
     {
       "source": "CoinTelegraph",
