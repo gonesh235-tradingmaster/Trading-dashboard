@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T08:51:56.616540Z",
+  "updated": "2026-09-20T09:09:45.287231Z",
   "count": 60,
   "items": [
     {
@@ -172,6 +172,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Marketing Discipline Pays Off as GDEV Improves Operating Cash Flow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marketing-discipline-pays-off-gdev-082304068.html",
+      "published": "2026-09-19T08:23:04Z",
+      "ts": 1789806184
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ResMed Inc. (RMD)’s Sleep Apnea Leadership Supports Growth Despite Rising Competitive Pressures",
+      "link": "https://finance.yahoo.com/healthcare/articles/resmed-inc-rmd-sleep-apnea-081836880.html",
+      "published": "2026-09-19T08:18:36Z",
+      "ts": 1789805916
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Intel Corporation (INTC)’s Terafab Partnership Could Give Its AI Foundry Ambitions a Major Boost",
       "link": "https://finance.yahoo.com/technology/ai/articles/intel-corporation-intc-terafab-partnership-081341477.html",
       "published": "2026-09-19T08:13:41Z",
@@ -267,20 +281,6 @@
       "link": "https://www.fxstreet.com/news/south-korean-won-foreign-equity-flows-keep-krw-heavy-against-us-dollar-ocbc-202609182327",
       "published": "Fri, 18 Sep 2026 23:27:00 GMT",
       "ts": 1789774020
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Shared What CrowdStrike Holdings, Inc. (NASDAQ:CRWD)’s CEO Told Him About AI “Doomsaying”",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-shared-crowdstrike-holdings-232242655.html",
-      "published": "2026-09-18T23:22:42Z",
-      "ts": 1789773762
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Revealed GE Vernova Inc. (NYSE:GEV)’s Saying There’s An Order Acceleration",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-ge-vernova-232155534.html",
-      "published": "2026-09-18T23:21:55Z",
-      "ts": 1789773715
     },
     {
       "source": "FXStreet",
