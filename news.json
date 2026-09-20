@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-20T15:38:22.467335Z",
+  "updated": "2026-09-20T15:50:39.375804Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia",
+      "link": "https://finance.yahoo.com/energy/articles/nextera-nee-dominion-d-unveil-153356972.html",
+      "published": "2026-09-20T15:33:56Z",
+      "ts": 1789918436
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BMO Capital Bets on a Rebound for Enbridge (ENB)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-bets-rebound-enbridge-152940861.html",
+      "published": "2026-09-20T15:29:40Z",
+      "ts": 1789918180
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "This Analyst Has a $450 Price Target on SpaceX Stock. Does That Make it a Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-450-price-target-spacex-152700401.html",
+      "published": "2026-09-20T15:27:00Z",
+      "ts": 1789918020
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+      "published": "2026-09-20T15:25:44Z",
+      "ts": 1789917944
+    },
     {
       "source": "Yahoo Finance",
       "title": "NextEra’s Nuclear Bet Just Got a $1.9 Billion Boost",
@@ -15,13 +43,6 @@
       "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-shell-shel-152036523.html",
       "published": "2026-09-20T15:20:36Z",
       "ts": 1789917636
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Caterpillar Correction Shouldn't Last Much Longer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-correction-shouldnt-last-much-152000520.html",
-      "published": "2026-09-20T15:20:00Z",
-      "ts": 1789917600
     },
     {
       "source": "Yahoo Finance",
@@ -45,13 +66,6 @@
       "ts": 1789916994
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Marathon Petroleum (MPC) Could Smash its All-Time High, UBS Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-could-smash-150634017.html",
-      "published": "2026-09-20T15:06:34Z",
-      "ts": 1789916794
-    },
-    {
       "source": "MarketWatch",
       "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
       "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
@@ -66,13 +80,6 @@
       "ts": 1789916088
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Don’t even think about retiring if this is you in 2026 — 5 red flags to watch (especially with Trump in the White House)",
-      "link": "https://finance.yahoo.com/markets/articles/don-t-even-think-retiring-141500099.html",
-      "published": "2026-09-20T14:15:00Z",
-      "ts": 1789913700
-    },
-    {
       "source": "MarketWatch",
       "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
       "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
@@ -85,13 +92,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
       "published": "2026-09-20 14:00:37",
       "ts": 1789912837
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Like father, like son: David Ellison considers Nashville alongside Austin as future home for Paramount",
-      "link": "https://finance.yahoo.com/media-advertising/articles/father-son-david-ellison-considers-140000496.html",
-      "published": "2026-09-20T14:00:00Z",
-      "ts": 1789912800
     },
     {
       "source": "MarketWatch",
