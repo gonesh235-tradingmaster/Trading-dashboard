@@ -1,13 +1,69 @@
 {
-  "updated": "2026-09-20T23:36:19.283027Z",
+  "updated": "2026-09-20T23:50:24.110730Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US, China open high-level talks ahead of Trump-Xi summit",
+      "link": "https://www.fxstreet.com/news/us-china-open-high-level-talks-ahead-of-trump-xi-summit-202609202343",
+      "published": "Sun, 20 Sep 2026 23:43:54 GMT",
+      "ts": 1789947834
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 20 Sep 2026 23:37:39 +0000",
+      "ts": 1789947459
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Analog Devices (ADI) Bets $1.35 Billion on Chips that Let Machines Think for Themselves",
+      "link": "https://finance.yahoo.com/technology/ai/articles/analog-devices-adi-bets-1-233705093.html",
+      "published": "2026-09-20T23:37:05Z",
+      "ts": 1789947425
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Casey’s (CASY) Beats on Profit, but a Soft Sales Number Sends the Stock Tumbling",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/casey-casy-beats-profit-soft-233311591.html",
+      "published": "2026-09-20T23:33:11Z",
+      "ts": 1789947191
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar edges lower as Fed hike bets grow ahead of Trump-Xi summit",
       "link": "https://www.fxstreet.com/news/australian-dollar-edges-lower-as-fed-hike-bets-grow-ahead-of-trump-xi-summit-202609202332",
       "published": "Sun, 20 Sep 2026 23:32:57 GMT",
       "ts": 1789947177
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Signet Jewelers (SIG) Swings to a Profit and Signs a Credit Deal Worth $1 Billion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/signet-jewelers-sig-swings-profit-232831573.html",
+      "published": "2026-09-20T23:28:31Z",
+      "ts": 1789946911
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jersey Mike’s (JMKE) Posts its First Public Earnings, and the Numbers Back Up the Growth Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jersey-mike-jmke-posts-first-232340583.html",
+      "published": "2026-09-20T23:23:40Z",
+      "ts": 1789946620
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Semaglutide Cliff vs. a 10x Multiple: Is Novo Nordisk (NVO) a Value Trap or a Bargain?",
+      "link": "https://finance.yahoo.com/healthcare/articles/semaglutide-cliff-vs-10x-multiple-232313561.html",
+      "published": "2026-09-20T23:23:13Z",
+      "ts": 1789946593
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Chewy (CHWY) Beats on Profit Even as Pet Spending Stays Soft",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-chwy-beats-profit-even-231901389.html",
+      "published": "2026-09-20T23:19:01Z",
+      "ts": 1789946341
     },
     {
       "source": "Yahoo Finance",
@@ -24,53 +80,11 @@
       "ts": 1789946110
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Alphabet (GOOGL)’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-google-bets-finland-230634716.html",
-      "published": "2026-09-20T23:06:34Z",
-      "ts": 1789945594
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Paramount (PSKY) Turns California’s Own Words Against it in Warner Bros. (WBD) Bond Fight",
-      "link": "https://finance.yahoo.com/media-advertising/articles/paramount-psky-turns-california-own-230245287.html",
-      "published": "2026-09-20T23:02:45Z",
-      "ts": 1789945365
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stellantis (STLA) Recalls 200,000 More Jeeps, its Latest Entry in a Record Recall Year",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-recalls-200-000-225734007.html",
-      "published": "2026-09-20T22:57:34Z",
-      "ts": 1789945054
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Starbucks (SBUX)’s New Chai Recipe has its Most Loyal Customers Revolting",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-chai-recipe-most-225540524.html",
-      "published": "2026-09-20T22:55:40Z",
-      "ts": 1789944940
-    },
-    {
       "source": "FXStreet",
       "title": "Qatar’s Prime Minister says Gulf states have to act together on Iran",
       "link": "https://www.fxstreet.com/news/qatars-prime-minister-says-gulf-states-have-to-act-together-on-iran-202609202229",
       "published": "Sun, 20 Sep 2026 22:29:23 GMT",
       "ts": 1789943363
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Warner Music (WMG) Bets its AI Truce with Suno Can Turn into a New Revenue Line",
-      "link": "https://finance.yahoo.com/technology/ai/articles/warner-music-wmg-bets-ai-215750591.html",
-      "published": "2026-09-20T21:57:50Z",
-      "ts": 1789941470
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer on Iron Mountain (IRM): “It’s Been an Incredible Stock”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-iron-mountain-irm-215701602.html",
-      "published": "2026-09-20T21:57:01Z",
-      "ts": 1789941421
     },
     {
       "source": "Investing Crypto",
@@ -388,25 +402,11 @@
       "ts": 1789765200
     },
     {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: Kiwi reversal puts 0.5700 under pressure",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-reversal-puts-05700-under-pressure-202609182044",
-      "published": "Fri, 18 Sep 2026 20:44:54 GMT",
-      "ts": 1789764294
-    },
-    {
       "source": "Investing Forex",
       "title": "Yen set for worst week since Oct 2025 as BoJ’s hike seen as not aggressive enough",
       "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
       "published": "2026-09-18 20:05:38",
       "ts": 1789761938
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Coinbase files to bring single-stock perpetual futures to US market",
-      "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 19:53:54 +0000",
-      "ts": 1789761234
     },
     {
       "source": "Investing Forex",
