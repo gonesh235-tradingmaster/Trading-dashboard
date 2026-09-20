@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-20T05:24:25.681511Z",
+  "updated": "2026-09-20T05:39:02.932322Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds above $80,000 as ETF inflows revive institutional demand",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
+      "published": "2026-09-20 05:06:36",
+      "ts": 1789880796
+    },
     {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -221,6 +228,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Tesla, Inc. (TSLA) Eyes Europe’s Electric Truck Boom With Semi Expansion",
+      "link": "https://finance.yahoo.com/technology/articles/tesla-inc-tsla-eyes-europe-224919901.html",
+      "published": "2026-09-18T22:49:19Z",
+      "ts": 1789771759
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Wheat Faces Pressure on Friday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-faces-pressure-friday-222923465.html",
+      "published": "2026-09-18T22:29:23Z",
+      "ts": 1789770563
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Corn Faces Pressure into the Weekend",
+      "link": "https://finance.yahoo.com/news/corn-faces-pressure-weekend-222923016.html",
+      "published": "2026-09-18T22:29:23Z",
+      "ts": 1789770563
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Why DataMEDS’ Acquisition Does Not Seem to Be Very Bullish for MEDS Stock at This Point",
       "link": "https://finance.yahoo.com/healthcare/articles/why-datameds-acquisition-does-not-221116776.html",
       "published": "2026-09-18T22:11:16Z",
@@ -274,27 +302,6 @@
       "link": "https://www.fxstreet.com/news/chinese-yuan-pre-summit-support-and-firmer-bias-dbs-202609182112",
       "published": "Fri, 18 Sep 2026 21:12:00 GMT",
       "ts": 1789765920
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Sir Lynton Crosby, CT Group Executive Chairman, on the Case for Capitalism",
-      "link": "https://finance.yahoo.com/economy/policy/articles/sir-lynton-crosby-ct-group-210625339.html",
-      "published": "2026-09-18T21:06:25Z",
-      "ts": 1789765585
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Daily ETF Flows: SPMO's AUM Surges",
-      "link": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-spmos-aum-210026978.html",
-      "published": "2026-09-18T21:00:26Z",
-      "ts": 1789765226
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ETF League Tables: Schwab Registers Hefty Inflows",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-schwab-registers-210004452.html",
-      "published": "2026-09-18T21:00:04Z",
-      "ts": 1789765204
     },
     {
       "source": "CoinTelegraph",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
       "published": "2026-09-18 09:30:34",
       "ts": 1789723834
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Here’s what BoE tightening means for EUR/GBP",
-      "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
-      "published": "2026-09-18 09:00:35",
-      "ts": 1789722035
     }
   ]
 }
