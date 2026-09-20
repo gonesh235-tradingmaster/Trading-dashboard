@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T07:38:12.208234Z",
+  "updated": "2026-09-20T07:50:26.037097Z",
   "count": 60,
   "items": [
     {
@@ -221,17 +221,59 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Here’s When Jim Cramer Thinks Costco Wholesale Corporation (NASDAQ:COST) Will Cut Prices",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-costco-wholesale-231228388.html",
-      "published": "2026-09-18T23:12:28Z",
-      "ts": 1789773148
+      "title": "Jim Cramer Shared What CrowdStrike Holdings, Inc. (NASDAQ:CRWD)’s CEO Told Him About AI “Doomsaying”",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-shared-crowdstrike-holdings-232242655.html",
+      "published": "2026-09-18T23:22:42Z",
+      "ts": 1789773762
     },
     {
       "source": "Yahoo Finance",
-      "title": "Here’s A Stock That Jim Cramer Like Before But Now He Just Doesn’t Want To Buy It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-jim-cramer-now-just-231218503.html",
-      "published": "2026-09-18T23:12:18Z",
-      "ts": 1789773138
+      "title": "Jim Cramer Revealed GE Vernova Inc. (NYSE:GEV)’s Saying There’s An Order Acceleration",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-ge-vernova-232155534.html",
+      "published": "2026-09-18T23:21:55Z",
+      "ts": 1789773715
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Said This AI Firm Has More Orders Than “Almost Anybody” Other Than NVIDIA",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-said-ai-firm-232154601.html",
+      "published": "2026-09-18T23:21:54Z",
+      "ts": 1789773714
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Walmart Vs Kroger: Jim Cramer Couldn’t Figure Out Why Only One’s Shares Went Up",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-vs-kroger-jim-cramer-231954802.html",
+      "published": "2026-09-18T23:19:54Z",
+      "ts": 1789773594
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Wished He’d Worked At This Firm Instead Of Goldman Sachs",
+      "link": "https://finance.yahoo.com/energy/articles/jim-cramer-wished-d-worked-231818524.html",
+      "published": "2026-09-18T23:18:18Z",
+      "ts": 1789773498
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Allegiant Travel Company (ALGT) Stock Has Upside as Sun Country Merger Synergies Build",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/allegiant-travel-company-algt-stock-231730256.html",
+      "published": "2026-09-18T23:17:30Z",
+      "ts": 1789773450
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Believes Chevron Corporation (NYSE:CVX)’s CEO Is A “Beacon”",
+      "link": "https://finance.yahoo.com/energy/articles/jim-cramer-believes-chevron-corporation-231552841.html",
+      "published": "2026-09-18T23:15:52Z",
+      "ts": 1789773352
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Said These 2 Stocks Were Sold Because Of A Rotation – But Is He Right?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-2-stocks-231504292.html",
+      "published": "2026-09-18T23:15:04Z",
+      "ts": 1789773304
     },
     {
       "source": "FXStreet",
@@ -239,48 +281,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-202609182307",
       "published": "Fri, 18 Sep 2026 23:07:00 GMT",
       "ts": 1789772820
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption — A New Catalyst Looms Next Week",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-surges-16-growing-230649452.html",
-      "published": "2026-09-18T23:06:49Z",
-      "ts": 1789772809
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Stock Used This Stock As An Indicator Of Investor Sentiment Towards AI",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-stock-used-stock-indicator-230633041.html",
-      "published": "2026-09-18T23:06:33Z",
-      "ts": 1789772793
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Said The Strength In Oracle (ORCL)’s Shares Was A “Positive Sign”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-strength-oracle-230622055.html",
-      "published": "2026-09-18T23:06:22Z",
-      "ts": 1789772782
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-intel-corporation-nasdaq-230352152.html",
-      "published": "2026-09-18T23:03:52Z",
-      "ts": 1789772632
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says His Palantir Technologies Inc. (NASDAQ:PLTR) Price Target Is $250",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-palantir-technologies-230154955.html",
-      "published": "2026-09-18T23:01:54Z",
-      "ts": 1789772514
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "IBM Once Held Nvidia's Spot as Tech's Biggest Name. The Stock Just Crashed 25%. Here's the Comeback Case.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-once-held-nvidias-spot-230002527.html",
-      "published": "2026-09-18T23:00:02Z",
-      "ts": 1789772402
     },
     {
       "source": "Investing Crypto",
