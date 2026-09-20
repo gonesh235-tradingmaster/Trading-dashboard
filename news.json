@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T02:40:04.159386Z",
+  "updated": "2026-09-20T02:51:52.726989Z",
   "count": 60,
   "items": [
     {
@@ -270,6 +270,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Chip Stocks Break Through Ceiling As Sector Rebounds. Macom Is A Standout.",
+      "link": "https://www.investors.com/news/technology/chip-stocks-hit-ceiling-macom-technology-solutions-mtsi/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T20:33:38Z",
+      "ts": 1789763618
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "This Analyst Just Downgraded Array Technologies. Here's Why.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-downgraded-array-technologies-202037892.html",
       "published": "2026-09-18T20:20:37Z",
@@ -323,13 +330,6 @@
       "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 19:53:54 +0000",
       "ts": 1789761234
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dollar Erases Early Gains on Weak US Economic News",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-erases-early-gains-weak-193353447.html",
-      "published": "2026-09-18T19:33:53Z",
-      "ts": 1789760033
     },
     {
       "source": "CoinTelegraph",
