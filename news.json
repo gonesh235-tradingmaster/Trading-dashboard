@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-20T14:50:53.163132Z",
+  "updated": "2026-09-20T15:09:11.708815Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 15:00:00 GMT",
+      "ts": 1789916400
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+      "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+      "published": "Sun, 20 Sep 2026 14:54:48 +0000",
+      "ts": 1789916088
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ask These 2 Questions to Make Sure Your Roth Conversion Doesn't End Up Backfiring",
+      "link": "https://finance.yahoo.com/markets/articles/ask-2-questions-sure-roth-144100215.html",
+      "published": "2026-09-20T14:41:00Z",
+      "ts": 1789915260
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Don’t even think about retiring if this is you in 2026 — 5 red flags to watch (especially with Trump in the White House)",
+      "link": "https://finance.yahoo.com/markets/articles/don-t-even-think-retiring-141500099.html",
+      "published": "2026-09-20T14:15:00Z",
+      "ts": 1789913700
+    },
     {
       "source": "MarketWatch",
       "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
@@ -15,6 +43,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
       "published": "2026-09-20 14:00:37",
       "ts": 1789912837
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Like father, like son: David Ellison considers Nashville alongside Austin as future home for Paramount",
+      "link": "https://finance.yahoo.com/media-advertising/articles/father-son-david-ellison-considers-140000496.html",
+      "published": "2026-09-20T14:00:00Z",
+      "ts": 1789912800
     },
     {
       "source": "MarketWatch",
@@ -150,13 +185,6 @@
       "ts": 1789843200
     },
     {
-      "source": "MarketWatch",
-      "title": "90% of retirees are making this miscalculation with their savings",
-      "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 18:40:00 GMT",
-      "ts": 1789843200
-    },
-    {
       "source": "CoinTelegraph",
       "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
       "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -169,6 +197,20 @@
       "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
       "published": "Sat, 19 Sep 2026 16:00:00 +0000",
       "ts": 1789833600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is This A $20 Million Reason to Buy Infleqtion Stock Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/20-million-reason-buy-infleqtion-140725770.html",
+      "published": "2026-09-19T14:07:25Z",
+      "ts": 1789826845
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Investing Based on Past Performance in 2026 Almost Guarantees a Bad Outcome. Do This Instead.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investing-based-past-performance-2026-140002456.html",
+      "published": "2026-09-19T14:00:02Z",
+      "ts": 1789826402
     },
     {
       "source": "CoinDesk",
@@ -186,6 +228,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Lawyers say your $5,000 debt doesn't disappear when the company you owe goes out of business — here's why",
+      "link": "https://finance.yahoo.com/small-business/articles/lawyers-5-000-debt-doesnt-133000085.html",
+      "published": "2026-09-19T13:30:00Z",
+      "ts": 1789824600
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Best Buy Stock Outperforming the Dow?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/best-buy-stock-outperforming-dow-132723594.html",
       "published": "2026-09-19T13:27:23Z",
@@ -197,41 +246,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/bond-market-back-tlt-bagholders-131502737.html",
       "published": "2026-09-19T13:15:02Z",
       "ts": 1789823702
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wall Street’s Favorite Safe Haven Could Be In Trouble. How Investors Should Play Gold Here.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/wall-street-favorite-safe-haven-130003037.html",
-      "published": "2026-09-19T13:00:03Z",
-      "ts": 1789822803
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dave Ramsey Told 1 Caller, ‘Hold on to the Cash. We’re Not Gonna Pay Off the House,’ But 5 Months Later Told Another to Pay It Off That Night. Here’s Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-told-1-caller-130002244.html",
-      "published": "2026-09-19T13:00:02Z",
-      "ts": 1789822802
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
-      "published": "2026-09-19T12:45:47Z",
-      "ts": 1789821947
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-cor-raised-guidance-bought-123837104.html",
-      "published": "2026-09-19T12:38:37Z",
-      "ts": 1789821517
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Coherent (COHR) Squeezes Key Optical Network Gear Into a Plug-In Module",
-      "link": "https://finance.yahoo.com/technology/articles/coherent-cohr-squeezes-key-optical-123508124.html",
-      "published": "2026-09-19T12:35:08Z",
-      "ts": 1789821308
     },
     {
       "source": "CoinDesk",
@@ -281,13 +295,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-jumps-above-81k-as-short-squeeze-offsets-rate-and-regulatory-pressure-4908041",
       "published": "2026-09-19 03:19:14",
       "ts": 1789787954
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Whiskey brand tied to Jack Daniel's faces a second Chapter 7",
-      "link": "https://finance.yahoo.com/small-business/articles/170-old-whiskey-brands-saga-171043884.html",
-      "published": "2026-09-19T02:59:56Z",
-      "ts": 1789786796
     },
     {
       "source": "Investing Crypto",
@@ -407,13 +414,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
       "published": "Fri, 18 Sep 2026 15:16:37 +0000",
       "ts": 1789744597
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
-      "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
-      "published": "Fri, 18 Sep 2026 15:06:31 +0000",
-      "ts": 1789743991
     },
     {
       "source": "Investing Crypto",
