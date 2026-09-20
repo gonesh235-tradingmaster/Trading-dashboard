@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T03:41:29.495036Z",
+  "updated": "2026-09-20T03:52:50.565140Z",
   "count": 60,
   "items": [
     {
@@ -248,11 +248,46 @@
       "ts": 1789765920
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Sir Lynton Crosby, CT Group Executive Chairman, on the Case for Capitalism",
+      "link": "https://finance.yahoo.com/economy/policy/articles/sir-lynton-crosby-ct-group-210625339.html",
+      "published": "2026-09-18T21:06:25Z",
+      "ts": 1789765585
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Daily ETF Flows: SPMO's AUM Surges",
+      "link": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-spmos-aum-210026978.html",
+      "published": "2026-09-18T21:00:26Z",
+      "ts": 1789765226
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ETF League Tables: Schwab Registers Hefty Inflows",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-schwab-registers-210004452.html",
+      "published": "2026-09-18T21:00:04Z",
+      "ts": 1789765204
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 21:00:00 +0000",
       "ts": 1789765200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Social Security Check at 62 vs. 70: How Much Can You Get?",
+      "link": "https://finance.yahoo.com/small-business/articles/social-security-check-62-vs-210000443.html",
+      "published": "2026-09-18T21:00:00Z",
+      "ts": 1789765200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T20:57:21Z",
+      "ts": 1789765041
     },
     {
       "source": "FXStreet",
@@ -288,27 +323,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-downgraded-array-technologies-202037892.html",
       "published": "2026-09-18T20:20:37Z",
       "ts": 1789762837
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Atlassian Stock Shook Off 'SaaSpocalypse' AI Fears For A Big Rally",
-      "link": "https://www.investors.com/research/the-new-america/atlassian-stock-saaspocalypse-ai-rally/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T20:12:39Z",
-      "ts": 1789762359
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Netflix Stock Downgraded To Sell As Viewer Engagement Wanes",
-      "link": "https://www.investors.com/news/technology/netflix-stock-downgraded-sell-viewer-engagement-wanes/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T20:08:45Z",
-      "ts": 1789762125
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Biotech Surged 50% On Positive Data In March. Now, It's Completely Gone.",
-      "link": "https://www.investors.com/news/technology/xenon-pharmaceuticals-azetukalner-side-effects-biotech-stock/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T20:08:44Z",
-      "ts": 1789762124
     },
     {
       "source": "Investing Forex",
@@ -407,20 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
       "published": "2026-09-18 09:30:34",
       "ts": 1789723834
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Here’s what BoE tightening means for EUR/GBP",
-      "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
-      "published": "2026-09-18 09:00:35",
-      "ts": 1789722035
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees EUR/JPY falling below ¥175 despite near-term rebound risk",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
-      "published": "2026-09-18 08:37:50",
-      "ts": 1789720670
     }
   ]
 }
