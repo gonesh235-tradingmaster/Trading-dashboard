@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-20T07:50:26.037097Z",
+  "updated": "2026-09-20T08:10:03.427066Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal",
+      "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 20 Sep 2026 07:51:24 +0000",
+      "ts": 1789890684
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin trapped between $78.5K-$82K in breakout standoff: Live",
@@ -199,6 +206,13 @@
       "ts": 1789785902
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Is McCormick Stock Underperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mccormick-stock-underperforming-dow-024214391.html",
+      "published": "2026-09-19T02:42:14Z",
+      "ts": 1789785734
+    },
+    {
       "source": "FXStreet",
       "title": "Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC",
       "link": "https://www.fxstreet.com/news/taiwan-dollar-mildly-hawkish-cbc-but-flows-drive-ocbc-202609182355",
@@ -267,13 +281,6 @@
       "link": "https://finance.yahoo.com/energy/articles/jim-cramer-believes-chevron-corporation-231552841.html",
       "published": "2026-09-18T23:15:52Z",
       "ts": 1789773352
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Said These 2 Stocks Were Sold Because Of A Rotation – But Is He Right?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-2-stocks-231504292.html",
-      "published": "2026-09-18T23:15:04Z",
-      "ts": 1789773304
     },
     {
       "source": "FXStreet",
@@ -372,13 +379,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-against-major-currencies-in-the-week-ending-september-18-93CH-4907692",
       "published": "2026-09-18 16:25:57",
       "ts": 1789748757
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "CFTC submits crypto market regulation plan for White House review",
-      "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 16:04:22 +0000",
-      "ts": 1789747462
     },
     {
       "source": "CoinDesk",
