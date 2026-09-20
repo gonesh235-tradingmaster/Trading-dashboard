@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-20T12:53:31.139499Z",
+  "updated": "2026-09-20T13:08:50.906431Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Record diesel prices are exposing pain points in the stock market and economy",
+      "link": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 13:00:00 GMT",
+      "ts": 1789909200
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
@@ -143,13 +150,6 @@
       "ts": 1789840380
     },
     {
-      "source": "MarketWatch",
-      "title": "These are the 10 biggest retirement fears — and what you can do about them",
-      "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 17:21:00 GMT",
-      "ts": 1789838460
-    },
-    {
       "source": "CoinTelegraph",
       "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
       "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -199,6 +199,27 @@
       "ts": 1789819200
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked",
+      "link": "https://finance.yahoo.com/markets/articles/mark-cuban-spent-125-000-120000383.html",
+      "published": "2026-09-19T12:00:00Z",
+      "ts": 1789819200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
+      "published": "2026-09-19T11:59:55Z",
+      "ts": 1789819195
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nestlé Loses the Keys to Its Russian Business",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nestl-loses-keys-russian-business-115500444.html",
+      "published": "2026-09-19T11:55:00Z",
+      "ts": 1789818900
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Bastion wins conditional OCC approval for national trust bank charter",
       "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -239,27 +260,6 @@
       "link": "https://finance.yahoo.com/technology/articles/air-products-apd-doubling-down-111348272.html",
       "published": "2026-09-19T11:13:48Z",
       "ts": 1789816428
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This new bill could save Social Security in America — and boost your monthly check. Is it time to kick your heels back?",
-      "link": "https://finance.yahoo.com/economy/policy/articles/bill-could-save-social-security-110500151.html",
-      "published": "2026-09-19T11:05:00Z",
-      "ts": 1789815900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Targa Resources (TRGP) Set a Record Quarter and Then Raised the Bar",
-      "link": "https://finance.yahoo.com/energy/articles/targa-resources-trgp-set-record-110433301.html",
-      "published": "2026-09-19T11:04:33Z",
-      "ts": 1789815873
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ferrari (RACE) Signs Rakuten While 2027 Is Already Spoken For",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ferrari-race-signs-rakuten-while-110100680.html",
-      "published": "2026-09-19T11:01:00Z",
-      "ts": 1789815660
     },
     {
       "source": "CoinTelegraph",
