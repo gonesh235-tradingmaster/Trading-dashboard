@@ -1,41 +1,62 @@
 {
-  "updated": "2026-09-20T20:50:20.264767Z",
+  "updated": "2026-09-20T21:09:02.633626Z",
   "count": 60,
   "items": [
     {
       "source": "Yahoo Finance",
-      "title": "Streaming’s Biggest Rivals Just Became Allies in Washington",
-      "link": "https://finance.yahoo.com/media-advertising/articles/streaming-biggest-rivals-just-became-202114144.html",
-      "published": "2026-09-20T20:21:14Z",
-      "ts": 1789935674
+      "title": "Semtech’s (SMTC) LoRa Plus Expansion Is Bigger Than Two New Chips",
+      "link": "https://finance.yahoo.com/technology/articles/semtech-smtc-lora-plus-expansion-205447567.html",
+      "published": "2026-09-20T20:54:47Z",
+      "ts": 1789937687
     },
     {
       "source": "Yahoo Finance",
-      "title": "Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/orion-energy-oesx-raises-guidance-195100572.html",
-      "published": "2026-09-20T19:51:00Z",
-      "ts": 1789933860
+      "title": "Chord Energy (CHRD) Signs $550 Million Marcellus Sale. Is Greater Focus Worth it?",
+      "link": "https://finance.yahoo.com/energy/articles/chord-energy-chrd-signs-550-205447338.html",
+      "published": "2026-09-20T20:54:47Z",
+      "ts": 1789937687
     },
     {
       "source": "Yahoo Finance",
-      "title": "Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-axon-prices-1b-194719659.html",
-      "published": "2026-09-20T19:47:19Z",
-      "ts": 1789933639
+      "title": "LuxExperience (LUXE) Reports NET-A-PORTER and MR PORTER Growth. Are Customers Returning?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/luxexperience-luxe-reports-net-porter-205013606.html",
+      "published": "2026-09-20T20:50:13Z",
+      "ts": 1789937413
     },
     {
       "source": "Yahoo Finance",
-      "title": "Sabre (SABR) Prices $1.35B of Secured Notes. Is the Breathing Room Worth the Cost?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sabre-sabr-prices-1-35b-194212645.html",
-      "published": "2026-09-20T19:42:12Z",
-      "ts": 1789933332
+      "title": "Lennar (LEN) Cuts Delivery Forecast. Can Construction Savings Offset Heavy Incentives?",
+      "link": "https://finance.yahoo.com/real-estate/articles/lennar-len-cuts-delivery-forecast-204510657.html",
+      "published": "2026-09-20T20:45:10Z",
+      "ts": 1789937110
     },
     {
       "source": "Yahoo Finance",
-      "title": "Brookfield Business (BBUC) Joins Reliance Deal. What Returns Can it Capture?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-business-bbuc-joins-reliance-194039725.html",
-      "published": "2026-09-20T19:40:39Z",
-      "ts": 1789933239
+      "title": "RB Global (RBA) Doubles its Buyback Authorization. Can Cash Generation Support it?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rb-global-rba-doubles-buyback-204211476.html",
+      "published": "2026-09-20T20:42:11Z",
+      "ts": 1789936931
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Halliburton (HAL) Wins Integrated Cyprus Contract. Can Broader Services Improve Returns?",
+      "link": "https://finance.yahoo.com/energy/articles/halliburton-hal-wins-integrated-cyprus-203555402.html",
+      "published": "2026-09-20T20:35:55Z",
+      "ts": 1789936555
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "HCA Healthcare (HCA) Acquires a Healthcare College. Can Training Capacity Improve Staffing?",
+      "link": "https://finance.yahoo.com/healthcare/articles/hca-healthcare-hca-acquires-healthcare-203355980.html",
+      "published": "2026-09-20T20:33:55Z",
+      "ts": 1789936435
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Navan’s (NAVN) Collaboration with Engine Offers New Lever for Platform Stickiness",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/navan-navn-collaboration-engine-offers-203232047.html",
+      "published": "2026-09-20T20:32:32Z",
+      "ts": 1789936352
     },
     {
       "source": "Investing Crypto",
@@ -43,27 +64,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-20 19:02:10",
       "ts": 1789930930
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit",
-      "link": "https://finance.yahoo.com/energy/articles/diesel-6-48-per-gallon-190000006.html",
-      "published": "2026-09-20T19:00:00Z",
-      "ts": 1789930800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
-      "link": "https://finance.yahoo.com/energy/articles/hormuz-crisis-push-global-coal-190000905.html",
-      "published": "2026-09-20T19:00:00Z",
-      "ts": 1789930800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lindblad Expeditions (LIND) Buys White Desert Control. Can Antarctic Land Travel Lift Returns?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lindblad-expeditions-lind-buys-white-185653752.html",
-      "published": "2026-09-20T18:56:53Z",
-      "ts": 1789930613
     },
     {
       "source": "MarketWatch",
