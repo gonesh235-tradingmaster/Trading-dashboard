@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T14:24:27.577343Z",
+  "updated": "2026-09-20T14:38:07.125879Z",
   "count": 60,
   "items": [
     {
@@ -186,6 +186,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Wall Street’s Favorite Safe Haven Could Be In Trouble. How Investors Should Play Gold Here.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/wall-street-favorite-safe-haven-130003037.html",
+      "published": "2026-09-19T13:00:03Z",
+      "ts": 1789822803
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Dave Ramsey Told 1 Caller, ‘Hold on to the Cash. We’re Not Gonna Pay Off the House,’ But 5 Months Later Told Another to Pay It Off That Night. Here’s Why.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-told-1-caller-130002244.html",
       "published": "2026-09-19T13:00:02Z",
@@ -225,20 +232,6 @@
       "link": "https://www.investors.com/research/investing-action-plan/stock-market-nasdaq-sp-500-analysis-meta-platforms-earnings/?src=A00220&yptr=yahoo",
       "published": "2026-09-19T12:29:27Z",
       "ts": 1789820967
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mitt Romney warned a billionaire tax triggers demand for 2 assets — now California decides. Get in before the super-rich",
-      "link": "https://finance.yahoo.com/economy/policy/articles/mitt-romney-warned-billionaire-tax-122500287.html",
-      "published": "2026-09-19T12:25:00Z",
-      "ts": 1789820700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Meta Stock Could Hit $800 This Year -- And It All Begins on Sept. 23",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-could-hit-800-122139390.html",
-      "published": "2026-09-19T12:21:39Z",
-      "ts": 1789820499
     },
     {
       "source": "CoinDesk",
@@ -421,6 +414,13 @@
       "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
       "published": "Fri, 18 Sep 2026 15:06:31 +0000",
       "ts": 1789743991
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Why is Bitcoin US Dollar stock climbing today?",
+      "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
+      "published": "2026-09-18 13:06:16",
+      "ts": 1789736776
     }
   ]
 }
