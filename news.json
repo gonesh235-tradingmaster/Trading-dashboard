@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-20T19:50:20.072013Z",
+  "updated": "2026-09-20T20:08:55.327809Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-axon-prices-1b-194719659.html",
+      "published": "2026-09-20T19:47:19Z",
+      "ts": 1789933639
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Sabre (SABR) Prices $1.35B of Secured Notes. Is the Breathing Room Worth the Cost?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sabre-sabr-prices-1-35b-194212645.html",
+      "published": "2026-09-20T19:42:12Z",
+      "ts": 1789933332
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Brookfield Business (BBUC) Joins Reliance Deal. What Returns Can it Capture?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-business-bbuc-joins-reliance-194039725.html",
+      "published": "2026-09-20T19:40:39Z",
+      "ts": 1789933239
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin trapped between $78K support and $82K resistance: Live levels",
@@ -13,6 +34,13 @@
       "source": "Yahoo Finance",
       "title": "Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit",
       "link": "https://finance.yahoo.com/energy/articles/diesel-6-48-per-gallon-190000006.html",
+      "published": "2026-09-20T19:00:00Z",
+      "ts": 1789930800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
+      "link": "https://finance.yahoo.com/energy/articles/hormuz-crisis-push-global-coal-190000905.html",
       "published": "2026-09-20T19:00:00Z",
       "ts": 1789930800
     },
@@ -36,34 +64,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/spx-technologies-spxc-buys-fis-184511019.html",
       "published": "2026-09-20T18:45:11Z",
       "ts": 1789929911
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "LifeMD (LFMD) Secures AT&T Partnership. Can Free Memberships Produce Paying Patients?",
-      "link": "https://finance.yahoo.com/healthcare/articles/lifemd-lfmd-secures-t-partnership-184302502.html",
-      "published": "2026-09-20T18:43:02Z",
-      "ts": 1789929782
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Trip.com (TCOM) Books RMB5.2 Billion Penalty. Can Overseas Growth Offset Domestic Pressure?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-books-rmb5-183136873.html",
-      "published": "2026-09-20T18:31:36Z",
-      "ts": 1789929096
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-fps-reports-3b-183008960.html",
-      "published": "2026-09-20T18:30:08Z",
-      "ts": 1789929008
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-rfil-reports-stronger-174049668.html",
-      "published": "2026-09-20T17:40:49Z",
-      "ts": 1789926049
     },
     {
       "source": "MarketWatch",
