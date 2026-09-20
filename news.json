@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-20T18:52:41.686315Z",
+  "updated": "2026-09-20T19:08:18.991021Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Vera Bradley (VRA) Returns to Operating Profit. Can the Recovery Outlast Tariff Refunds?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-vra-returns-operating-185154105.html",
+      "published": "2026-09-20T18:51:54Z",
+      "ts": 1789930314
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SPX Technologies (SPXC) Buys FIS Water for $410M. Can Water Management Lift Cooling Returns?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spx-technologies-spxc-buys-fis-184511019.html",
+      "published": "2026-09-20T18:45:11Z",
+      "ts": 1789929911
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "LifeMD (LFMD) Secures AT&T Partnership. Can Free Memberships Produce Paying Patients?",
+      "link": "https://finance.yahoo.com/healthcare/articles/lifemd-lfmd-secures-t-partnership-184302502.html",
+      "published": "2026-09-20T18:43:02Z",
+      "ts": 1789929782
+    },
     {
       "source": "Yahoo Finance",
       "title": "Trip.com (TCOM) Books RMB5.2 Billion Penalty. Can Overseas Growth Offset Domestic Pressure?",
@@ -50,27 +71,6 @@
       "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
       "published": "2026-09-20T16:47:00Z",
       "ts": 1789922820
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bloom Energy (BE) Unveils a New Power Play for the AI Boom",
-      "link": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-unveils-power-play-164510735.html",
-      "published": "2026-09-20T16:45:10Z",
-      "ts": 1789922710
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Exxon (XOM) Eyes a Return to Venezuela After Nearly Two Decades Away",
-      "link": "https://finance.yahoo.com/energy/articles/exxon-xom-eyes-return-venezuela-164059135.html",
-      "published": "2026-09-20T16:40:59Z",
-      "ts": 1789922459
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BMO Sees Phillips 66 (PSX) Breaking into New Highs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-sees-phillips-66-psx-163523482.html",
-      "published": "2026-09-20T16:35:23Z",
-      "ts": 1789922123
     },
     {
       "source": "MarketWatch",
