@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-20T12:31:15.934792Z",
+  "updated": "2026-09-20T12:53:31.139499Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 12:46:00 GMT",
+      "ts": 1789908360
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year.",
+      "link": "https://www.marketwatch.com/story/midterm-voters-are-overwhelmingly-worried-about-the-national-debt-but-only-small-fixes-are-expected-this-year-758d364e?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 12:31:00 GMT",
+      "ts": 1789907460
+    },
     {
       "source": "MarketWatch",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
@@ -80,13 +94,6 @@
       "ts": 1789868700
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 01:30:00 GMT",
-      "ts": 1789867800
-    },
-    {
       "source": "Yahoo Finance",
       "title": "80-year-old discount fashion chain closing 120 stores",
       "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
@@ -141,13 +148,6 @@
       "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 17:21:00 GMT",
       "ts": 1789838460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
-      "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 16:45:00 GMT",
-      "ts": 1789836300
     },
     {
       "source": "CoinTelegraph",
@@ -207,6 +207,34 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them",
+      "link": "https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html",
+      "published": "2026-09-19T11:45:00Z",
+      "ts": 1789818300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html",
+      "published": "2026-09-19T11:45:00Z",
+      "ts": 1789818300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mom plans to give brother early inheritance for his 3 kids' college — childfree sibling says it's not fair",
+      "link": "https://finance.yahoo.com/small-business/articles/mom-plans-brother-early-inheritance-113000096.html",
+      "published": "2026-09-19T11:30:00Z",
+      "ts": 1789817400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "At 60 I have nothing for retirement and no plan except Social Security. Now that I've been laid off, how can I survive?",
+      "link": "https://finance.yahoo.com/small-business/articles/60-nothing-retirement-no-plan-112500522.html",
+      "published": "2026-09-19T11:25:00Z",
+      "ts": 1789817100
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs",
       "link": "https://finance.yahoo.com/technology/articles/air-products-apd-doubling-down-111348272.html",
       "published": "2026-09-19T11:13:48Z",
@@ -232,34 +260,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/ferrari-race-signs-rakuten-while-110100680.html",
       "published": "2026-09-19T11:01:00Z",
       "ts": 1789815660
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Simon Property (SPG) Group Raised Its Outlook Again",
-      "link": "https://finance.yahoo.com/real-estate/articles/simon-property-spg-group-raised-105326029.html",
-      "published": "2026-09-19T10:53:26Z",
-      "ts": 1789815206
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Royal Caribbean’s (RCL) $1.25B Debt Deal Hides A Bigger Story",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-rcl-1-25b-104710556.html",
-      "published": "2026-09-19T10:47:10Z",
-      "ts": 1789814830
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Republic Services (RSG) Is Winning On Price While Volumes Slip",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/republic-services-rsg-winning-price-104333739.html",
-      "published": "2026-09-19T10:43:33Z",
-      "ts": 1789814613
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The US is being forced to reset Social Security — protect yourself now (especially if you're young or middle-aged)",
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-being-forced-reset-social-103500367.html",
-      "published": "2026-09-19T10:35:00Z",
-      "ts": 1789814100
     },
     {
       "source": "CoinTelegraph",
