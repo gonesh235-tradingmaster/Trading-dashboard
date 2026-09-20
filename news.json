@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-20T16:51:02.638162Z",
+  "updated": "2026-09-20T17:08:43.151639Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Chevron CEO sends a strong message on oil price and the economy",
+      "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
+      "published": "2026-09-20T16:47:00Z",
+      "ts": 1789922820
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Exxon (XOM) Eyes a Return to Venezuela After Nearly Two Decades Away",
+      "link": "https://finance.yahoo.com/energy/articles/exxon-xom-eyes-return-venezuela-164059135.html",
+      "published": "2026-09-20T16:40:59Z",
+      "ts": 1789922459
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BMO Sees Phillips 66 (PSX) Breaking into New Highs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-sees-phillips-66-psx-163523482.html",
+      "published": "2026-09-20T16:35:23Z",
+      "ts": 1789922123
+    },
     {
       "source": "Yahoo Finance",
       "title": "Centrus Energy (LEU) Lands New HALEU Deal with Antares",
@@ -22,13 +43,6 @@
       "link": "https://finance.yahoo.com/healthcare/articles/definium-lsd-pill-clears-second-162842492.html",
       "published": "2026-09-20T16:28:42Z",
       "ts": 1789921722
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "I'm Watching PG&E Closely, but Here's Why I Haven't Bought the Dip",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/im-watching-pg-e-closely-162500840.html",
-      "published": "2026-09-20T16:25:00Z",
-      "ts": 1789921500
     },
     {
       "source": "Yahoo Finance",
@@ -64,20 +78,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-trgp-gets-fresh-155123097.html",
       "published": "2026-09-20T15:51:23Z",
       "ts": 1789919483
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Morgan Stanley Sees Marathon Petroleum (MPC) Breaking into New Highs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-marathon-petroleum-154726182.html",
-      "published": "2026-09-20T15:47:26Z",
-      "ts": 1789919246
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "GE Vernova’s (GEV) $200 Billion Backlog is Coming Sooner than Expected",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-200-billion-154331999.html",
-      "published": "2026-09-20T15:43:31Z",
-      "ts": 1789919011
     },
     {
       "source": "MarketWatch",
