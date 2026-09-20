@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-20T07:09:08.925718Z",
+  "updated": "2026-09-20T07:24:38.383982Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trapped between $78.5K-$82K in breakout standoff: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-20 07:02:23",
+      "ts": 1789887743
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin holds above $80,000 as ETF inflows revive institutional demand",
@@ -43,13 +50,6 @@
       "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 19 Sep 2026 19:14:38 +0000",
       "ts": 1789845278
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin tests $82,178 resistance with RSI overbought: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-19 19:01:46",
-      "ts": 1789844506
     },
     {
       "source": "MarketWatch",
@@ -160,8 +160,8 @@
       "source": "CoinTelegraph",
       "title": "Bastion wins conditional OCC approval for national trust bank charter",
       "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 19 Sep 2026 11:47:29 +0000",
-      "ts": 1789818449
+      "published": "Sat, 19 Sep 2026 11:51:00 +0000",
+      "ts": 1789818660
     },
     {
       "source": "CoinTelegraph",
@@ -221,6 +221,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Here’s When Jim Cramer Thinks Costco Wholesale Corporation (NASDAQ:COST) Will Cut Prices",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-costco-wholesale-231228388.html",
+      "published": "2026-09-18T23:12:28Z",
+      "ts": 1789773148
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Here’s A Stock That Jim Cramer Like Before But Now He Just Doesn’t Want To Buy It",
       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-jim-cramer-now-just-231218503.html",
       "published": "2026-09-18T23:12:18Z",
@@ -274,13 +281,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-once-held-nvidias-spot-230002527.html",
       "published": "2026-09-18T23:00:02Z",
       "ts": 1789772402
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tesla, Inc. (TSLA) Eyes Europe’s Electric Truck Boom With Semi Expansion",
-      "link": "https://finance.yahoo.com/technology/articles/tesla-inc-tsla-eyes-europe-224919901.html",
-      "published": "2026-09-18T22:49:19Z",
-      "ts": 1789771759
     },
     {
       "source": "Investing Crypto",
