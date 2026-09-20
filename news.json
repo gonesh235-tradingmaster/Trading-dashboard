@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-20T23:23:49.562436Z",
+  "updated": "2026-09-20T23:36:19.283027Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar edges lower as Fed hike bets grow ahead of Trump-Xi summit",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-lower-as-fed-hike-bets-grow-ahead-of-trump-xi-summit-202609202332",
+      "published": "Sun, 20 Sep 2026 23:32:57 GMT",
+      "ts": 1789947177
+    },
     {
       "source": "Yahoo Finance",
       "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "published": "2026-09-20T23:08:32Z",
-      "ts": 1789945712
+      "published": "2026-09-20T23:18:55Z",
+      "ts": 1789946335
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Independence Realty Trust (IRT) and Centerspace Combine into an $8.1 Billion Apartment Giant",
+      "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-irt-centerspace-231510521.html",
+      "published": "2026-09-20T23:15:10Z",
+      "ts": 1789946110
     },
     {
       "source": "Yahoo Finance",
@@ -57,13 +71,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-iron-mountain-irm-215701602.html",
       "published": "2026-09-20T21:57:01Z",
       "ts": 1789941421
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Two Years In, Starbucks (SBUX)’s CEO Niccol has Won Back Customers. Now Wall Street Wants Margins",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/two-years-starbucks-sbux-ceo-215502629.html",
-      "published": "2026-09-20T21:55:02Z",
-      "ts": 1789941302
     },
     {
       "source": "Investing Crypto",
@@ -386,13 +393,6 @@
       "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-reversal-puts-05700-under-pressure-202609182044",
       "published": "Fri, 18 Sep 2026 20:44:54 GMT",
       "ts": 1789764294
-    },
-    {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Range trade persists against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-persists-against-us-dollar-uob-202609182038",
-      "published": "Fri, 18 Sep 2026 20:38:00 GMT",
-      "ts": 1789763880
     },
     {
       "source": "Investing Forex",
