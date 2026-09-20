@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-20T18:27:49.930236Z",
+  "updated": "2026-09-20T18:42:07.936237Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Trip.com (TCOM) Books RMB5.2 Billion Penalty. Can Overseas Growth Offset Domestic Pressure?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-books-rmb5-183136873.html",
+      "published": "2026-09-20T18:31:36Z",
+      "ts": 1789929096
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-fps-reports-3b-183008960.html",
+      "published": "2026-09-20T18:30:08Z",
+      "ts": 1789929008
+    },
     {
       "source": "Yahoo Finance",
       "title": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
@@ -59,25 +73,11 @@
       "ts": 1789922123
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Centrus Energy (LEU) Lands New HALEU Deal with Antares",
-      "link": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-lands-haleu-163159900.html",
-      "published": "2026-09-20T16:31:59Z",
-      "ts": 1789921919
-    },
-    {
       "source": "MarketWatch",
       "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
       "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
       "published": "Sun, 20 Sep 2026 16:30:00 GMT",
       "ts": 1789921800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Definium’s LSD Pill Clears a Second Anxiety Trial, and the Psychedelics Sector Is Watching",
-      "link": "https://finance.yahoo.com/healthcare/articles/definium-lsd-pill-clears-second-162842492.html",
-      "published": "2026-09-20T16:28:42Z",
-      "ts": 1789921722
     },
     {
       "source": "Investing Crypto",
