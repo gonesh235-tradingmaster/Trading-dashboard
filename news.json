@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-20T20:24:34.657114Z",
+  "updated": "2026-09-20T20:38:48.936893Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Streaming’s Biggest Rivals Just Became Allies in Washington",
+      "link": "https://finance.yahoo.com/media-advertising/articles/streaming-biggest-rivals-just-became-202114144.html",
+      "published": "2026-09-20T20:21:14Z",
+      "ts": 1789935674
+    },
     {
       "source": "Yahoo Finance",
       "title": "Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?",
@@ -39,15 +46,15 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
-      "link": "https://finance.yahoo.com/energy/articles/hormuz-crisis-push-global-coal-190000905.html",
+      "title": "Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit",
+      "link": "https://finance.yahoo.com/energy/articles/diesel-6-48-per-gallon-190000006.html",
       "published": "2026-09-20T19:00:00Z",
       "ts": 1789930800
     },
     {
       "source": "Yahoo Finance",
-      "title": "Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit",
-      "link": "https://finance.yahoo.com/energy/articles/diesel-6-48-per-gallon-190000006.html",
+      "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
+      "link": "https://finance.yahoo.com/energy/articles/hormuz-crisis-push-global-coal-190000905.html",
       "published": "2026-09-20T19:00:00Z",
       "ts": 1789930800
     },
@@ -57,13 +64,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/lindblad-expeditions-lind-buys-white-185653752.html",
       "published": "2026-09-20T18:56:53Z",
       "ts": 1789930613
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Vera Bradley (VRA) Returns to Operating Profit. Can the Recovery Outlast Tariff Refunds?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-vra-returns-operating-185154105.html",
-      "published": "2026-09-20T18:51:54Z",
-      "ts": 1789930314
     },
     {
       "source": "MarketWatch",
