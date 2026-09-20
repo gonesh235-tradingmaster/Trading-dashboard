@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T00:14:11.187543Z",
+  "updated": "2026-09-20T00:37:07.285185Z",
   "count": 60,
   "items": [
     {
@@ -291,6 +291,62 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Is CenterPoint Energy Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-underperforming-nasdaq-182622146.html",
+      "published": "2026-09-18T18:26:22Z",
+      "ts": 1789755982
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Wells Fargo Just Downgraded Netflix Stock. Here's Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-just-downgraded-netflix-182315862.html",
+      "published": "2026-09-18T18:23:15Z",
+      "ts": 1789755795
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fed keeps the door open for more rate hikes as Schmid warns there's 'work to do'",
+      "link": "https://finance.yahoo.com/economy/policy/article/fed-keeps-the-door-open-for-more-rate-hikes-as-schmid-warns-theres-work-to-do-182214817.html",
+      "published": "2026-09-18T18:22:14Z",
+      "ts": 1789755734
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is First Solar Stock Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-underperforming-nasdaq-182115801.html",
+      "published": "2026-09-18T18:21:15Z",
+      "ts": 1789755675
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-intel-intc-181522000.html",
+      "published": "2026-09-18T18:15:22Z",
+      "ts": 1789755322
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Volkswagen Slashes Profit Outlook as China Slump and Porsche Writedown Bite",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/volkswagen-slashes-profit-outlook-china-181000583.html",
+      "published": "2026-09-18T18:10:00Z",
+      "ts": 1789755000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Corning Stock: The $2 Billion Dilution Scare Is Fading. Here’s What Matters Now.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/corning-stock-2-billion-dilution-180923077.html",
+      "published": "2026-09-18T18:09:23Z",
+      "ts": 1789754963
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Merck Stock Nearly Doubled Without A Change In Its Revenue Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/merck-stock-nearly-doubled-without-180909523.html",
+      "published": "2026-09-18T18:09:09Z",
+      "ts": 1789754949
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Fed Hike Jolts Gold Before Oil Retreat Fuels a Sharp Rebound",
       "link": "https://finance.yahoo.com/markets/commodities/articles/fed-hike-jolts-gold-oil-175938582.html",
       "published": "2026-09-18T17:59:38Z",
@@ -302,62 +358,6 @@
       "link": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 17:55:57 +0000",
       "ts": 1789754157
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Questionable Berkshire Hathaway Holding Actually Makes Sense",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/questionable-berkshire-hathaway-holding-actually-175000305.html",
-      "published": "2026-09-18T17:50:00Z",
-      "ts": 1789753800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A $25 Billion Reason to Buy CoreWeave Stock",
-      "link": "https://finance.yahoo.com/technology/ai/articles/25-billion-reason-buy-coreweave-174856481.html",
-      "published": "2026-09-18T17:48:56Z",
-      "ts": 1789753736
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "IPO Stock Of The Week: Regional Banking Leader NB Bancorp Poised To Hit New Buy Point",
-      "link": "https://www.investors.com/stock-lists/ipo-analysis/ipo-stock-nb-bancorp-buy-point/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T17:46:36Z",
-      "ts": 1789753596
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Visa, Mastercard $167.5 million settlement could mean money for ATM users. Who qualifies.",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/visa-mastercard-1675-million-settlement-could-mean-money-for-atm-users-who-qualifies-174156944.html",
-      "published": "2026-09-18T17:41:56Z",
-      "ts": 1789753316
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Datavault AI Stock Jumped More Than 10% After a Tokenization Deal. What This Means for DVLT.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/datavault-ai-stock-jumped-more-173755554.html",
-      "published": "2026-09-18T17:37:55Z",
-      "ts": 1789753075
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Coinbase Seeks Approval to List Perpetual Futures Tied to U.S. Stocks",
-      "link": "https://finance.yahoo.com/markets/options/articles/coinbase-seeks-approval-list-perpetual-173700089.html",
-      "published": "2026-09-18T17:37:00Z",
-      "ts": 1789753020
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says He “Would Be a Buyer Right Here, Right Now” of Nokia (NOK)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buyer-now-173333902.html",
-      "published": "2026-09-18T17:33:33Z",
-      "ts": 1789752813
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Warby Parker’s Unusual Options Activity Points to a Covered Call Bet: Bullish on Growth, Cautious on Valuation",
-      "link": "https://finance.yahoo.com/markets/options/articles/warby-parker-unusual-options-activity-173002493.html",
-      "published": "2026-09-18T17:30:02Z",
-      "ts": 1789752602
     },
     {
       "source": "Investing Forex",
