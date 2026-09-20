@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-20T10:24:38.450363Z",
+  "updated": "2026-09-20T10:38:17.037522Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Falls 11% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4908157",
+      "published": "2026-09-20 10:17:05",
+      "ts": 1789899425
+    },
     {
       "source": "CoinTelegraph",
       "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
@@ -414,13 +421,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
       "published": "Fri, 18 Sep 2026 12:57:06 +0000",
       "ts": 1789736226
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury curve flattens as long-end yields ease off multi-year peaks",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
-      "published": "2026-09-18 12:16:35",
-      "ts": 1789733795
     }
   ]
 }
