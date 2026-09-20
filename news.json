@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-20T13:08:50.906431Z",
+  "updated": "2026-09-20T13:24:55.213413Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 13:16:00 GMT",
+      "ts": 1789910160
+    },
     {
       "source": "MarketWatch",
       "title": "Record diesel prices are exposing pain points in the stock market and economy",
@@ -143,13 +150,6 @@
       "ts": 1789842120
     },
     {
-      "source": "MarketWatch",
-      "title": "The future of retirement? Work until you die.",
-      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 17:53:00 GMT",
-      "ts": 1789840380
-    },
-    {
       "source": "CoinTelegraph",
       "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
       "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -185,6 +185,20 @@
       "ts": 1789820037
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Bill Ackman's Pershing Square IPO Breaks Out",
+      "link": "https://www.investors.com/news/bill-ackman-pershing-square-ipo-stock-setting-up/?src=A00220&yptr=yahoo",
+      "published": "2026-09-19T12:00:59Z",
+      "ts": 1789819259
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A Pause on Advanced AI Is Wishful Thinking, But Adobe Stock Is a Buy Anyway",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pause-advanced-ai-wishful-thinking-120002470.html",
+      "published": "2026-09-19T12:00:02Z",
+      "ts": 1789819202
+    },
+    {
       "source": "CoinDesk",
       "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
       "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
@@ -207,10 +221,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
-      "published": "2026-09-19T11:59:55Z",
-      "ts": 1789819195
+      "title": "YardFlow lands over 200-site yard automation deal",
+      "link": "https://finance.yahoo.com/technology/articles/yardflow-lands-over-200-yard-120000605.html",
+      "published": "2026-09-19T12:00:00Z",
+      "ts": 1789819200
     },
     {
       "source": "Yahoo Finance",
@@ -228,15 +242,15 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them",
-      "link": "https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html",
+      "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html",
       "published": "2026-09-19T11:45:00Z",
       "ts": 1789818300
     },
     {
       "source": "Yahoo Finance",
-      "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html",
+      "title": "5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them",
+      "link": "https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html",
       "published": "2026-09-19T11:45:00Z",
       "ts": 1789818300
     },
@@ -246,20 +260,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/mom-plans-brother-early-inheritance-113000096.html",
       "published": "2026-09-19T11:30:00Z",
       "ts": 1789817400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "At 60 I have nothing for retirement and no plan except Social Security. Now that I've been laid off, how can I survive?",
-      "link": "https://finance.yahoo.com/small-business/articles/60-nothing-retirement-no-plan-112500522.html",
-      "published": "2026-09-19T11:25:00Z",
-      "ts": 1789817100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs",
-      "link": "https://finance.yahoo.com/technology/articles/air-products-apd-doubling-down-111348272.html",
-      "published": "2026-09-19T11:13:48Z",
-      "ts": 1789816428
     },
     {
       "source": "CoinTelegraph",
