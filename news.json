@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T02:26:01.536478Z",
+  "updated": "2026-09-20T02:40:04.159386Z",
   "count": 60,
   "items": [
     {
@@ -270,6 +270,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "This Analyst Just Downgraded Array Technologies. Here's Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-downgraded-array-technologies-202037892.html",
+      "published": "2026-09-18T20:20:37Z",
+      "ts": 1789762837
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Atlassian Stock Shook Off 'SaaSpocalypse' AI Fears For A Big Rally",
+      "link": "https://www.investors.com/research/the-new-america/atlassian-stock-saaspocalypse-ai-rally/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T20:12:39Z",
+      "ts": 1789762359
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Netflix Stock Downgraded To Sell As Viewer Engagement Wanes",
       "link": "https://www.investors.com/news/technology/netflix-stock-downgraded-sell-viewer-engagement-wanes/?src=A00220&yptr=yahoo",
       "published": "2026-09-18T20:08:45Z",
@@ -316,20 +330,6 @@
       "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-erases-early-gains-weak-193353447.html",
       "published": "2026-09-18T19:33:53Z",
       "ts": 1789760033
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "On Holding's Kylian Mbappé bet 'a direct challenge to Nike and Adidas': Analyst",
-      "link": "https://finance.yahoo.com/markets/stocks/article/on-holdings-kylian-mbappe-bet-a-direct-challenge-to-nike-and-adidas-analyst-193202945.html",
-      "published": "2026-09-18T19:32:02Z",
-      "ts": 1789759922
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Coinbase Leads Crypto Stocks Higher as Bitcoin Crosses $80,000",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-leads-crypto-stocks-higher-193117793.html",
-      "published": "2026-09-18T19:31:17Z",
-      "ts": 1789759877
     },
     {
       "source": "CoinTelegraph",
