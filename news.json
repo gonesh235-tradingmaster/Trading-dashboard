@@ -1,70 +1,7 @@
 {
-  "updated": "2026-09-19T23:50:02.356152Z",
+  "updated": "2026-09-20T00:14:11.187543Z",
   "count": 60,
   "items": [
-    {
-      "source": "Yahoo Finance",
-      "title": "Berkshire's Energy Holdings Are Worth More Than Most Stand-Alone Utilities. Here's the Math.",
-      "link": "https://finance.yahoo.com/energy/articles/berkshires-energy-holdings-worth-more-232000992.html",
-      "published": "2026-09-19T23:20:00Z",
-      "ts": 1789860000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nashville’s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project",
-      "link": "https://finance.yahoo.com/real-estate/articles/nashville-traffic-nightmare-now-9-202041295.html",
-      "published": "2026-09-19T20:20:41Z",
-      "ts": 1789849241
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "IDEXX (IDXX) Bets an AI Scribe Can Sell More Pet Diagnostics",
-      "link": "https://finance.yahoo.com/technology/ai/articles/idexx-idxx-bets-ai-scribe-201730587.html",
-      "published": "2026-09-19T20:17:30Z",
-      "ts": 1789849050
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prudential-pru-leaving-emerging-markets-201350497.html",
-      "published": "2026-09-19T20:13:50Z",
-      "ts": 1789848830
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Interactive Brokers (IBKR) Turns Every Revenue Dollar Into 77 Cents of Pretax Profit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-ibkr-turns-every-200932877.html",
-      "published": "2026-09-19T20:09:32Z",
-      "ts": 1789848572
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ferguson (FERG) Keeps Beating a Housing Market That Refuses to Cooperate",
-      "link": "https://finance.yahoo.com/real-estate/articles/ferguson-ferg-keeps-beating-housing-195513837.html",
-      "published": "2026-09-19T19:55:13Z",
-      "ts": 1789847713
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Agilent (A) Wants Pathology Labs To Go Digital, 540 Slides At A Time",
-      "link": "https://finance.yahoo.com/healthcare/articles/agilent-wants-pathology-labs-digital-195217186.html",
-      "published": "2026-09-19T19:52:17Z",
-      "ts": 1789847537
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "eGain (EGAN): B. Riley and Roth Capital Both Cut Targets as AI Growth Struggles to Offset Legacy Declines",
-      "link": "https://finance.yahoo.com/technology/ai/articles/egain-egan-b-riley-roth-194936520.html",
-      "published": "2026-09-19T19:49:36Z",
-      "ts": 1789847376
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Infosys (INFY) Lands a Brake Maker as Growth Stays in Low Gear",
-      "link": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-lands-brake-maker-194747627.html",
-      "published": "2026-09-19T19:47:47Z",
-      "ts": 1789847267
-    },
     {
       "source": "CoinTelegraph",
       "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
@@ -353,11 +290,74 @@
       "ts": 1789758390
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Fed Hike Jolts Gold Before Oil Retreat Fuels a Sharp Rebound",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/fed-hike-jolts-gold-oil-175938582.html",
+      "published": "2026-09-18T17:59:38Z",
+      "ts": 1789754378
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Crypto stocks rebound after CLARITY Act selloff",
       "link": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 17:55:57 +0000",
       "ts": 1789754157
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "This Questionable Berkshire Hathaway Holding Actually Makes Sense",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/questionable-berkshire-hathaway-holding-actually-175000305.html",
+      "published": "2026-09-18T17:50:00Z",
+      "ts": 1789753800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A $25 Billion Reason to Buy CoreWeave Stock",
+      "link": "https://finance.yahoo.com/technology/ai/articles/25-billion-reason-buy-coreweave-174856481.html",
+      "published": "2026-09-18T17:48:56Z",
+      "ts": 1789753736
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "IPO Stock Of The Week: Regional Banking Leader NB Bancorp Poised To Hit New Buy Point",
+      "link": "https://www.investors.com/stock-lists/ipo-analysis/ipo-stock-nb-bancorp-buy-point/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T17:46:36Z",
+      "ts": 1789753596
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Visa, Mastercard $167.5 million settlement could mean money for ATM users. Who qualifies.",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/visa-mastercard-1675-million-settlement-could-mean-money-for-atm-users-who-qualifies-174156944.html",
+      "published": "2026-09-18T17:41:56Z",
+      "ts": 1789753316
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Datavault AI Stock Jumped More Than 10% After a Tokenization Deal. What This Means for DVLT.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/datavault-ai-stock-jumped-more-173755554.html",
+      "published": "2026-09-18T17:37:55Z",
+      "ts": 1789753075
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Coinbase Seeks Approval to List Perpetual Futures Tied to U.S. Stocks",
+      "link": "https://finance.yahoo.com/markets/options/articles/coinbase-seeks-approval-list-perpetual-173700089.html",
+      "published": "2026-09-18T17:37:00Z",
+      "ts": 1789753020
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says He “Would Be a Buyer Right Here, Right Now” of Nokia (NOK)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buyer-now-173333902.html",
+      "published": "2026-09-18T17:33:33Z",
+      "ts": 1789752813
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Warby Parker’s Unusual Options Activity Points to a Covered Call Bet: Bullish on Growth, Cautious on Valuation",
+      "link": "https://finance.yahoo.com/markets/options/articles/warby-parker-unusual-options-activity-173002493.html",
+      "published": "2026-09-18T17:30:02Z",
+      "ts": 1789752602
     },
     {
       "source": "Investing Forex",
