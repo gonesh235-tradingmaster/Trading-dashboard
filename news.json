@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T01:08:55.112905Z",
+  "updated": "2026-09-20T01:24:55.743085Z",
   "count": 60,
   "items": [
     {
@@ -283,6 +283,13 @@
       "ts": 1789761234
     },
     {
+      "source": "Yahoo Finance",
+      "title": "JOBY Stock Alert: What to Know as Joby Aviation Completes Cross Country Flight",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/joby-stock-alert-know-joby-190935277.html",
+      "published": "2026-09-18T19:09:35Z",
+      "ts": 1789758575
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Binance launches 24/7 FX perps with weekend pricing system",
       "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -319,6 +326,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Zipline’s Valuation Could Nearly Triple as Drone Delivery Rules Remain Unsettled",
+      "link": "https://finance.yahoo.com/technology/articles/zipline-valuation-could-nearly-triple-184133555.html",
+      "published": "2026-09-18T18:41:33Z",
+      "ts": 1789756893
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Tower Semiconductor Just Scored a New Bullish Rating. What to Know.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-just-scored-bullish-184106083.html",
       "published": "2026-09-18T18:41:06Z",
@@ -326,24 +340,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Evereve Taps Sarah Clary as Advisory Chief Creative Officer to Shape Retailer’s Next Chapter",
-      "link": "https://finance.yahoo.com/media-advertising/articles/evereve-taps-sarah-clary-advisory-183926068.html",
-      "published": "2026-09-18T18:39:26Z",
-      "ts": 1789756766
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "The U.S. Government Is Preparing to Offload Over 9 Million GlobalFoundries Shares. How You Should Play GFS Stock in Response.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/u-government-preparing-offload-over-183612647.html",
       "published": "2026-09-18T18:36:12Z",
       "ts": 1789756572
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SailPoint’s (SAIL) Falcon Next-Gen SIEM Arrangement Fits Its Broader Identity Security Push",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sailpoint-sail-falcon-next-gen-183101460.html",
-      "published": "2026-09-18T18:31:01Z",
-      "ts": 1789756261
     },
     {
       "source": "CoinTelegraph",
