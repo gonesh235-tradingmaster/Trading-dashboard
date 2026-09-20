@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-20T18:10:59.814503Z",
+  "updated": "2026-09-20T18:27:49.930236Z",
   "count": 60,
   "items": [
     {
       "source": "Yahoo Finance",
-      "title": "Can Your Retirement Plan Stand Up to Inflation? These 2 Tweaks Might Help.",
-      "link": "https://finance.yahoo.com/markets/articles/retirement-plan-stand-inflation-2-173800242.html",
-      "published": "2026-09-20T17:38:00Z",
-      "ts": 1789925880
+      "title": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-rfil-reports-stronger-174049668.html",
+      "published": "2026-09-20T17:40:49Z",
+      "ts": 1789926049
     },
     {
       "source": "Yahoo Finance",
@@ -29,6 +29,13 @@
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
       "published": "2026-09-20T17:04:35Z",
       "ts": 1789923875
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Chevron CEO sends a strong message on oil price and the economy",
+      "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
+      "published": "2026-09-20T16:47:00Z",
+      "ts": 1789922820
     },
     {
       "source": "Yahoo Finance",
@@ -71,13 +78,6 @@
       "link": "https://finance.yahoo.com/healthcare/articles/definium-lsd-pill-clears-second-162842492.html",
       "published": "2026-09-20T16:28:42Z",
       "ts": 1789921722
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Transocean (RIG) Scores an $80 Million Deepwater Contract in Africa",
-      "link": "https://finance.yahoo.com/energy/articles/transocean-rig-scores-80-million-162459514.html",
-      "published": "2026-09-20T16:24:59Z",
-      "ts": 1789921499
     },
     {
       "source": "Investing Crypto",
@@ -193,7 +193,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal",
+      "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
       "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 20 Sep 2026 07:51:24 +0000",
       "ts": 1789890684
