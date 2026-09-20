@@ -1,20 +1,27 @@
 {
-  "updated": "2026-09-20T17:37:33.355163Z",
+  "updated": "2026-09-20T17:50:20.726489Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
+      "link": "https://finance.yahoo.com/energy/articles/sempra-sre-adds-20-lng-173718056.html",
+      "published": "2026-09-20T17:37:18Z",
+      "ts": 1789925838
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia CEO has a blunt message for Americans fearing AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-blunt-message-americans-173300093.html",
+      "published": "2026-09-20T17:33:00Z",
+      "ts": 1789925580
+    },
     {
       "source": "MarketWatch",
       "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
       "published": "Sun, 20 Sep 2026 17:30:00 GMT",
       "ts": 1789925400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A seven-year standoff over Venezuelan gold nears its end",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/seven-standoff-over-venezuelan-gold-170700066.html",
-      "published": "2026-09-20T17:07:00Z",
-      "ts": 1789924020
     },
     {
       "source": "Yahoo Finance",
@@ -71,13 +78,6 @@
       "link": "https://finance.yahoo.com/energy/articles/transocean-rig-scores-80-million-162459514.html",
       "published": "2026-09-20T16:24:59Z",
       "ts": 1789921499
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "California Resources (CRC) Sells Uinta Assets for $90 Million",
-      "link": "https://finance.yahoo.com/energy/articles/california-resources-crc-sells-uinta-162106302.html",
-      "published": "2026-09-20T16:21:06Z",
-      "ts": 1789921266
     },
     {
       "source": "Investing Crypto",
