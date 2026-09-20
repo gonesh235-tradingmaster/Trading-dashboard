@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-20T00:54:40.047886Z",
+  "updated": "2026-09-20T01:08:55.112905Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 01:03:00 GMT",
+      "ts": 1789866180
+    },
     {
       "source": "CoinTelegraph",
       "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
@@ -99,13 +106,6 @@
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 16:00:00 GMT",
       "ts": 1789833600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
-      "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 15:57:00 GMT",
-      "ts": 1789833420
     },
     {
       "source": "CoinDesk",
@@ -291,10 +291,45 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "XENE Stock Plummets as Xenon Pharmaceuticals Pauses Drug Trial",
+      "link": "https://finance.yahoo.com/healthcare/articles/xene-stock-plummets-xenon-pharmaceuticals-190004522.html",
+      "published": "2026-09-18T19:00:04Z",
+      "ts": 1789758004
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ask these 4 questions — written by Realtors — when choosing a mortgage lender",
+      "link": "https://finance.yahoo.com/real-estate/articles/ask-4-questions-written-realtors-190000139.html",
+      "published": "2026-09-18T19:00:00Z",
+      "ts": 1789758000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "FleetCor, CEO agree to pay $100 million over hidden fuel-card fees",
+      "link": "https://finance.yahoo.com/small-business/articles/fleetcor-ceo-agree-pay-100-185319968.html",
+      "published": "2026-09-18T18:53:19Z",
+      "ts": 1789757599
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Costco expands ultra-fast delivery through DoorDash, Uber",
+      "link": "https://finance.yahoo.com/small-business/articles/costco-expands-ultra-fast-delivery-185042149.html",
+      "published": "2026-09-18T18:50:42Z",
+      "ts": 1789757442
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Tower Semiconductor Just Scored a New Bullish Rating. What to Know.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-just-scored-bullish-184106083.html",
       "published": "2026-09-18T18:41:06Z",
       "ts": 1789756866
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Evereve Taps Sarah Clary as Advisory Chief Creative Officer to Shape Retailer’s Next Chapter",
+      "link": "https://finance.yahoo.com/media-advertising/articles/evereve-taps-sarah-clary-advisory-183926068.html",
+      "published": "2026-09-18T18:39:26Z",
+      "ts": 1789756766
     },
     {
       "source": "Yahoo Finance",
@@ -309,48 +344,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/sailpoint-sail-falcon-next-gen-183101460.html",
       "published": "2026-09-18T18:31:01Z",
       "ts": 1789756261
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SCHD vs. VIG: Which Dividend ETF Should Anchor Your Retirement Income?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/schd-vs-vig-dividend-etf-182755834.html",
-      "published": "2026-09-18T18:27:55Z",
-      "ts": 1789756075
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is CenterPoint Energy Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-underperforming-nasdaq-182622146.html",
-      "published": "2026-09-18T18:26:22Z",
-      "ts": 1789755982
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wells Fargo Just Downgraded Netflix Stock. Here's Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-just-downgraded-netflix-182315862.html",
-      "published": "2026-09-18T18:23:15Z",
-      "ts": 1789755795
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fed keeps the door open for more rate hikes as Schmid warns there's 'work to do'",
-      "link": "https://finance.yahoo.com/economy/policy/article/fed-keeps-the-door-open-for-more-rate-hikes-as-schmid-warns-theres-work-to-do-182214817.html",
-      "published": "2026-09-18T18:22:14Z",
-      "ts": 1789755734
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is First Solar Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-underperforming-nasdaq-182115801.html",
-      "published": "2026-09-18T18:21:15Z",
-      "ts": 1789755675
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-intel-intc-181522000.html",
-      "published": "2026-09-18T18:15:22Z",
-      "ts": 1789755322
     },
     {
       "source": "CoinTelegraph",
@@ -421,6 +414,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
       "published": "2026-09-18 09:30:34",
       "ts": 1789723834
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Here’s what BoE tightening means for EUR/GBP",
+      "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
+      "published": "2026-09-18 09:00:35",
+      "ts": 1789722035
     }
   ]
 }
