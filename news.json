@@ -1,13 +1,20 @@
 {
-  "updated": "2026-09-20T22:24:17.746104Z",
+  "updated": "2026-09-20T22:37:57.751094Z",
   "count": 60,
   "items": [
     {
+      "source": "FXStreet",
+      "title": "Qatar’s Prime Minister says Gulf states have to act together on Iran",
+      "link": "https://www.fxstreet.com/news/qatars-prime-minister-says-gulf-states-have-to-act-together-on-iran-202609202229",
+      "published": "Sun, 20 Sep 2026 22:29:23 GMT",
+      "ts": 1789943363
+    },
+    {
       "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "published": "2026-09-20T22:06:16Z",
-      "ts": 1789941976
+      "published": "2026-09-20T22:16:49Z",
+      "ts": 1789942609
     },
     {
       "source": "Yahoo Finance",
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
       "published": "2026-09-18 20:05:38",
       "ts": 1789761938
-    },
-    {
-      "source": "FXStreet",
-      "title": "Malaysian Ringgit: External pressure but scope for reversal – OCBC",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-external-pressure-but-scope-for-reversal-ocbc-202609181954",
-      "published": "Fri, 18 Sep 2026 19:54:00 GMT",
-      "ts": 1789761240
     },
     {
       "source": "CoinTelegraph",
