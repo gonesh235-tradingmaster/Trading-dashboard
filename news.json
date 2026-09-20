@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T03:09:58.275252Z",
+  "updated": "2026-09-20T03:26:45.750176Z",
   "count": 60,
   "items": [
     {
@@ -270,13 +270,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stocks Finish Mostly Higher as Crude Prices Fall",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-finish-mostly-higher-crude-203728012.html",
-      "published": "2026-09-18T20:37:28Z",
-      "ts": 1789763848
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Chip Stocks Break Through Ceiling As Sector Rebounds. Macom Is A Standout.",
       "link": "https://www.investors.com/news/technology/chip-stocks-hit-ceiling-macom-technology-solutions-mtsi/?src=A00220&yptr=yahoo",
       "published": "2026-09-18T20:33:38Z",
@@ -421,6 +414,13 @@
       "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
       "published": "2026-09-18 09:00:35",
       "ts": 1789722035
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees EUR/JPY falling below ¥175 despite near-term rebound risk",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
+      "published": "2026-09-18 08:37:50",
+      "ts": 1789720670
     }
   ]
 }
