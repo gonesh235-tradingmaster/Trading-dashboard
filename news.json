@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-20T21:50:15.443471Z",
+  "updated": "2026-09-20T22:09:18.054416Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Nokia (NOK) Gets a Buy Rating, But Q2 Operating Loss Raises Questions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nokia-nok-gets-buy-rating-214509281.html",
+      "published": "2026-09-20T21:45:09Z",
+      "ts": 1789940709
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
+      "link": "https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html",
+      "published": "2026-09-20T21:41:29Z",
+      "ts": 1789940489
+    },
     {
       "source": "Yahoo Finance",
       "title": "KeyBanc Raises AppFolio (APPF) Price Target: What Investors Need to Know",
@@ -43,20 +57,6 @@
       "link": "https://finance.yahoo.com/technology/articles/boeing-ba-completes-13-satellite-211953360.html",
       "published": "2026-09-20T21:19:53Z",
       "ts": 1789939193
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jersey Mike’s (JMKE) Owns the Sub Business. Winning Over Younger Diners is the Next Fight",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jersey-mike-jmke-owns-sub-211057214.html",
-      "published": "2026-09-20T21:10:57Z",
-      "ts": 1789938657
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bally’s (BALY)’s Casino Building Spree Triggers a ‘Going Concern’ Warning",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bally-baly-casino-building-spree-210836644.html",
-      "published": "2026-09-20T21:08:36Z",
-      "ts": 1789938516
     },
     {
       "source": "Investing Crypto",
