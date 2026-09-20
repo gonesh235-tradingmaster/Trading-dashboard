@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T04:40:28.136385Z",
+  "updated": "2026-09-20T04:52:18.061537Z",
   "count": 60,
   "items": [
     {
@@ -221,6 +221,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Weekly Wrap: Bitcoin Climbs Back Above $80,000",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-climbs-back-220100164.html",
+      "published": "2026-09-18T22:01:00Z",
+      "ts": 1789768860
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Social Security at 62 vs. 65: What Is the Break Even Point?",
       "link": "https://finance.yahoo.com/markets/articles/social-security-62-vs-65-220000653.html",
       "published": "2026-09-18T22:00:00Z",
@@ -316,13 +323,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-finish-mostly-higher-crude-203728012.html",
       "published": "2026-09-18T20:37:28Z",
       "ts": 1789763848
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Chip Stocks Break Through Ceiling As Sector Rebounds. Macom Is A Standout.",
-      "link": "https://www.investors.com/news/technology/chip-stocks-hit-ceiling-macom-technology-solutions-mtsi/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T20:33:38Z",
-      "ts": 1789763618
     },
     {
       "source": "Investing Forex",
