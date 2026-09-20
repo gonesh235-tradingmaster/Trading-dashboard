@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-20T17:50:20.726489Z",
+  "updated": "2026-09-20T18:10:59.814503Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Can Your Retirement Plan Stand Up to Inflation? These 2 Tweaks Might Help.",
+      "link": "https://finance.yahoo.com/markets/articles/retirement-plan-stand-inflation-2-173800242.html",
+      "published": "2026-09-20T17:38:00Z",
+      "ts": 1789925880
+    },
     {
       "source": "Yahoo Finance",
       "title": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
       "link": "https://finance.yahoo.com/energy/articles/sempra-sre-adds-20-lng-173718056.html",
       "published": "2026-09-20T17:37:18Z",
       "ts": 1789925838
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nvidia CEO has a blunt message for Americans fearing AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-blunt-message-americans-173300093.html",
-      "published": "2026-09-20T17:33:00Z",
-      "ts": 1789925580
     },
     {
       "source": "MarketWatch",
