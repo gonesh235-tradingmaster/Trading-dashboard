@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T14:38:07.125879Z",
+  "updated": "2026-09-20T14:50:53.163132Z",
   "count": 60,
   "items": [
     {
@@ -186,6 +186,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Is Best Buy Stock Outperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/best-buy-stock-outperforming-dow-132723594.html",
+      "published": "2026-09-19T13:27:23Z",
+      "ts": 1789824443
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Bond Market is Back. Here’s What TLT Bagholders Need to Know.",
+      "link": "https://finance.yahoo.com/markets/options/articles/bond-market-back-tlt-bagholders-131502737.html",
+      "published": "2026-09-19T13:15:02Z",
+      "ts": 1789823702
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Wall Street’s Favorite Safe Haven Could Be In Trouble. How Investors Should Play Gold Here.",
       "link": "https://finance.yahoo.com/markets/commodities/articles/wall-street-favorite-safe-haven-130003037.html",
       "published": "2026-09-19T13:00:03Z",
@@ -218,20 +232,6 @@
       "link": "https://finance.yahoo.com/technology/articles/coherent-cohr-squeezes-key-optical-123508124.html",
       "published": "2026-09-19T12:35:08Z",
       "ts": 1789821308
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Gallagher’s (AJG) Colorado Deal Is Another Brick in a Very Big Wall",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gallagher-ajg-colorado-deal-another-123050148.html",
-      "published": "2026-09-19T12:30:50Z",
-      "ts": 1789821050
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Week Ahead: Keeping An Eye Out For Change",
-      "link": "https://www.investors.com/research/investing-action-plan/stock-market-nasdaq-sp-500-analysis-meta-platforms-earnings/?src=A00220&yptr=yahoo",
-      "published": "2026-09-19T12:29:27Z",
-      "ts": 1789820967
     },
     {
       "source": "CoinDesk",
