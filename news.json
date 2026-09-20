@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T11:24:00.923123Z",
+  "updated": "2026-09-20T11:37:50.161243Z",
   "count": 60,
   "items": [
     {
@@ -186,6 +186,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Republic Services (RSG) Is Winning On Price While Volumes Slip",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/republic-services-rsg-winning-price-104333739.html",
+      "published": "2026-09-19T10:43:33Z",
+      "ts": 1789814613
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The US is being forced to reset Social Security — protect yourself now (especially if you're young or middle-aged)",
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-being-forced-reset-social-103500367.html",
+      "published": "2026-09-19T10:35:00Z",
+      "ts": 1789814100
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Digital Realty (DLR): Can a Data Center Landlord Become the Control Panel for Enterprise AI?",
       "link": "https://finance.yahoo.com/technology/ai/articles/digital-realty-dlr-data-center-103118086.html",
       "published": "2026-09-19T10:31:18Z",
@@ -207,13 +221,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Americans say they’re ready for retirement — but most aren’t actually prepared. How to know which camp you belong to",
-      "link": "https://finance.yahoo.com/markets/articles/americans-ready-retirement-most-aren-100000604.html",
-      "published": "2026-09-19T10:00:00Z",
-      "ts": 1789812000
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-19-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000984.html",
       "published": "2026-09-19T10:00:00Z",
@@ -228,17 +235,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Think you're ready to retire? Don't bite the bullet until you've hit these 6 key milestones",
-      "link": "https://finance.yahoo.com/markets/articles/think-youre-ready-retire-dont-093000702.html",
-      "published": "2026-09-19T09:30:00Z",
-      "ts": 1789810200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Kevin O'Leary's mother hid an investment account from both her husbands — and died a wealthy woman",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-olearys-mother-hid-investment-093000054.html",
-      "published": "2026-09-19T09:30:00Z",
-      "ts": 1789810200
+      "title": "Americans say they’re ready for retirement — but most aren’t actually prepared. How to know which camp you belong to",
+      "link": "https://finance.yahoo.com/markets/articles/americans-ready-retirement-most-aren-100000604.html",
+      "published": "2026-09-19T10:00:00Z",
+      "ts": 1789812000
     },
     {
       "source": "CoinTelegraph",
