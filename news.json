@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-21T19:25:32.370811Z",
+  "updated": "2026-09-21T19:39:40.267158Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah: Policy continuity offsets but cannot erase external headwinds – OCBC",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-policy-continuity-offsets-but-cannot-erase-external-headwinds-ocbc-202609211937",
+      "published": "Mon, 21 Sep 2026 19:37:00 GMT",
+      "ts": 1790019420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 19:30:00 GMT",
+      "ts": 1790019000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The hottest part of the AI trade could be turning into its biggest weakness",
+      "link": "https://www.marketwatch.com/story/the-hottest-part-of-the-ai-trade-could-be-turning-into-its-biggest-weakness-099f2c09?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 19:24:00 GMT",
+      "ts": 1790018640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Forget Elon Musk and Jeff Bezos: The ‘everywhere millionaires’ created the blueprint for regular people to get rich in America",
+      "link": "https://www.marketwatch.com/story/forget-elon-musk-and-jeff-bezos-the-everywhere-millionaires-created-the-blueprint-for-regular-people-to-get-rich-in-america-df543f9c?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 19:23:00 GMT",
+      "ts": 1790018580
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin parabolic at $86K with RSI at 83: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-21 19:19:36",
+      "ts": 1790018376
+    },
     {
       "source": "FXStreet",
       "title": "Brent: Supply risks contrast softer prices – ING",
@@ -157,13 +192,6 @@
       "ts": 1790008200
     },
     {
-      "source": "FXStreet",
-      "title": "BoC’s Macklem: Rate decisions must look beyond initial Oil shock",
-      "link": "https://www.fxstreet.com/news/bocs-macklem-rate-decisions-must-look-beyond-initial-oil-shock-202609211609",
-      "published": "Mon, 21 Sep 2026 16:09:53 GMT",
-      "ts": 1790006993
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
       "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
@@ -178,32 +206,11 @@
       "ts": 1790006437
     },
     {
-      "source": "MarketWatch",
-      "title": "AMD hits a major milestone as AI stocks blaze higher",
-      "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 15:58:00 GMT",
-      "ts": 1790006280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This is the ‘most underappreciated’ driver for Microsoft’s business, according to one analyst",
-      "link": "https://www.marketwatch.com/story/this-is-the-most-underappreciated-driver-for-microsoft-according-to-one-analyst-f9a5e4eb?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 15:39:00 GMT",
-      "ts": 1790005140
-    },
-    {
       "source": "Investing Crypto",
       "title": "CryptoPawn Launches Protocol Integration Allowing Authorized AI Agents to Participate in Crypto-Backed Loan Transactions",
       "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
       "published": "2026-09-21 15:30:38",
       "ts": 1790004638
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 15:30:00 GMT",
-      "ts": 1790004600
     },
     {
       "source": "CoinTelegraph",
@@ -379,13 +386,6 @@
       "link": "https://www.investing.com/news/forex-news/goldman-sees-hungary-inflation-target-cut-as-positive-for-forint-93CH-4908570",
       "published": "2026-09-21 10:09:50",
       "ts": 1789985390
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Climbs 15% In Rally",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-15-in-rally-4908544",
-      "published": "2026-09-21 10:03:02",
-      "ts": 1789984982
     },
     {
       "source": "Investing Forex",
