@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T18:11:36.337392Z",
+  "updated": "2026-09-21T18:30:32.567547Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again: NYT",
+      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 18:15:22 +0000",
+      "ts": 1790014522
+    },
     {
       "source": "FXStreet",
       "title": "AUD/USD Price Forecast: Upside bias intact despite mixed momentum",
@@ -407,13 +414,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-limited-yen-gains-despite-bank-of-japan-rate-hike-93CH-4908446",
       "published": "2026-09-21 08:48:42",
       "ts": 1789980522
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
-      "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 07:31:47 +0000",
-      "ts": 1789975907
     },
     {
       "source": "Yahoo Finance",
