@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-21T05:41:12.808930Z",
+  "updated": "2026-09-21T05:53:42.423320Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Iran’s IRGC warns any new strike will prompt Tehran to alter war geography and armaments",
+      "link": "https://www.fxstreet.com/news/irans-irgc-warns-any-new-strike-will-prompt-tehran-to-alter-war-geography-and-armaments-202609210549",
+      "published": "Mon, 21 Sep 2026 05:49:35 GMT",
+      "ts": 1789969775
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Signs of stabilization above 20-day EMA back more upside",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-signs-of-stabilization-above-20-day-ema-back-more-upside-202609210547",
+      "published": "Mon, 21 Sep 2026 05:47:22 GMT",
+      "ts": 1789969642
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Declines below 1.3400 as bearish momentum persists below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-declines-below-13400-as-bearish-momentum-persists-below-100-day-sma-202609210542",
+      "published": "Mon, 21 Sep 2026 05:42:28 GMT",
+      "ts": 1789969348
+    },
     {
       "source": "FXStreet",
       "title": "Gold drifts lower as Fed hike bets and geopolitics lift USD ahead of Trump-Xi summit",
@@ -46,7 +67,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Bitcoin reclaims 50-week moving average: Is the bear market over?",
+      "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
       "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 04:29:59 +0000",
       "ts": 1789964999
@@ -92,27 +113,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
       "published": "2026-09-21 03:52:17",
       "ts": 1789962737
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc weakens as US Dollar gain support on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-gain-support-on-hawkish-fed-outlook-202609210346",
-      "published": "Mon, 21 Sep 2026 03:46:57 GMT",
-      "ts": 1789962417
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD consolidates near $66.35 at the start of the week",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-near-6635-at-the-start-of-the-week-202609210328",
-      "published": "Mon, 21 Sep 2026 03:28:31 GMT",
-      "ts": 1789961311
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index holds firm on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-firm-on-hawkish-fed-outlook-202609210317",
-      "published": "Mon, 21 Sep 2026 03:17:52 GMT",
-      "ts": 1789960672
     },
     {
       "source": "MarketWatch",
@@ -290,6 +290,27 @@
       "ts": 1789845480
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-quarter-185639565.html",
+      "published": "2026-09-19T18:56:39Z",
+      "ts": 1789844199
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
+      "published": "2026-09-19T18:51:16Z",
+      "ts": 1789843876
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Garmin’s (GRMN) New Autopilot Signals Where Growth Is Headed",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-autopilot-signals-where-184731033.html",
+      "published": "2026-09-19T18:47:31Z",
+      "ts": 1789843651
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Kalshi joins Coinbase with own filing for US stock perpetual futures",
       "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -330,27 +351,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
       "published": "2026-09-19T18:30:02Z",
       "ts": 1789842602
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "PureCycle (PCT) Expands PureFive Use as Regulatory Tailwinds Meet Execution Risk",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-expands-purefive-regulatory-182105336.html",
-      "published": "2026-09-19T18:21:05Z",
-      "ts": 1789842065
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BJ’s Wholesale Club (BJ) Formalizes Investment-Grade Financial Policy",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-bj-formalizes-180906005.html",
-      "published": "2026-09-19T18:09:06Z",
-      "ts": 1789841346
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The RealReal (REAL) Bets on Glendale to Capture Growing Vintage Demand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-bets-glendale-capture-180003520.html",
-      "published": "2026-09-19T18:00:03Z",
-      "ts": 1789840803
     },
     {
       "source": "CoinDesk",
