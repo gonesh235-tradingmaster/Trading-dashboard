@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T02:54:16.289397Z",
+  "updated": "2026-09-21T03:10:05.597739Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Holds comfortably above 0.7100 as bulls await Trump-Xi meeting",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-comfortably-above-07100-as-bulls-await-trump-xi-meeting-202609210309",
+      "published": "Mon, 21 Sep 2026 03:09:20 GMT",
+      "ts": 1789960160
+    },
     {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -78,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-bulls-seem-hesitant-amid-bojs-dovish-rate-hike-as-fed-bets-support-usd-202609210112",
       "published": "Mon, 21 Sep 2026 01:12:12 GMT",
       "ts": 1789953132
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound slips as hawkish Fed outlook boosts US Dollar",
-      "link": "https://www.fxstreet.com/news/british-pound-slips-as-hawkish-fed-outlook-boosts-us-dollar-202609210110",
-      "published": "Mon, 21 Sep 2026 01:10:08 GMT",
-      "ts": 1789953008
     },
     {
       "source": "CoinTelegraph",
