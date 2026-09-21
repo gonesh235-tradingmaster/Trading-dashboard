@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-21T04:53:39.504075Z",
+  "updated": "2026-09-21T05:10:05.924427Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US President Donald Trump says was ready to strike Houthis in Yemen, then pulled back",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-was-ready-to-strike-houthis-in-yemen-then-pulled-back-202609210508",
+      "published": "Mon, 21 Sep 2026 05:08:23 GMT",
+      "ts": 1789967303
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah declines as US Dollar remains stronger amid hawkish Fed tone",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-as-us-dollar-remains-stronger-amid-hawkish-fed-tone-202609210504",
+      "published": "Mon, 21 Sep 2026 05:04:54 GMT",
+      "ts": 1789967094
+    },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
@@ -106,20 +120,6 @@
       "link": "https://www.fxstreet.com/news/gold-edges-lower-to-near-4-350-on-fed-hawkish-stance-middle-east-tensions-202609210238",
       "published": "Mon, 21 Sep 2026 02:38:49 GMT",
       "ts": 1789958329
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar seems vulnerable near August 7 low amid sliding oil prices, trade tensions",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-august-7-low-amid-sliding-oil-prices-trade-tensions-202609210231",
-      "published": "Mon, 21 Sep 2026 02:31:12 GMT",
-      "ts": 1789957872
-    },
-    {
-      "source": "FXStreet",
-      "title": "Ukraine attacks on Moscow oil refinery in massive drone and missile attack",
-      "link": "https://www.fxstreet.com/news/ukraine-attacks-on-moscow-oil-refinery-in-massive-drone-and-missile-attack-202609210227",
-      "published": "Mon, 21 Sep 2026 02:27:48 GMT",
-      "ts": 1789957668
     },
     {
       "source": "CoinTelegraph",
@@ -298,6 +298,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "PureCycle (PCT) Expands PureFive Use as Regulatory Tailwinds Meet Execution Risk",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-expands-purefive-regulatory-182105336.html",
+      "published": "2026-09-19T18:21:05Z",
+      "ts": 1789842065
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "BJ’s Wholesale Club (BJ) Formalizes Investment-Grade Financial Policy",
       "link": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-bj-formalizes-180906005.html",
       "published": "2026-09-19T18:09:06Z",
@@ -344,13 +351,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
       "published": "2026-09-19T17:14:43Z",
       "ts": 1789838083
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
-      "published": "2026-09-19T17:12:00Z",
-      "ts": 1789837920
     },
     {
       "source": "CoinDesk",
