@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-21T13:26:11.326420Z",
+  "updated": "2026-09-21T13:40:53.429355Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: AI imports add pressure against US Dollar – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/indian-rupee-ai-imports-add-pressure-against-us-dollar-standard-chartered-202609211339",
+      "published": "Mon, 21 Sep 2026 13:39:12 GMT",
+      "ts": 1789997952
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
+      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 13:32:00 GMT",
+      "ts": 1789997520
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
+      "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 13:30:00 +0000",
+      "ts": 1789997400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks",
+      "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 13:30:00 GMT",
+      "ts": 1789997400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT",
+      "link": "https://finance.yahoo.com/markets/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt-132800172.html",
+      "published": "2026-09-21T13:28:00Z",
+      "ts": 1789997280
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Aggressive Store Additions Challenge Black Rock Coffee Bar’s (BRCB) Long-Term Expansion Thesis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aggressive-store-additions-challenge-black-132106435.html",
+      "published": "2026-09-21T13:21:06Z",
+      "ts": 1789996866
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Clorox vs. Kimberly-Clark: Which Household Staples Dividend Is Safer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/clorox-vs-kimberly-clark-household-131924678.html",
+      "published": "2026-09-21T13:19:24Z",
+      "ts": 1789996764
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Short Seller Reports Drag Ensign Group (ENSG) Down",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/short-seller-reports-drag-ensign-131917317.html",
+      "published": "2026-09-21T13:19:17Z",
+      "ts": 1789996757
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Should You Be Bullish on Fastly (FSLY)?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bullish-fastly-fsly-131746101.html",
+      "published": "2026-09-21T13:17:46Z",
+      "ts": 1789996666
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BillionToOne SVP Sells 1,416 Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billiontoone-svp-sells-1-416-131601502.html",
+      "published": "2026-09-21T13:16:01Z",
+      "ts": 1789996561
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Below-Expected Earnings Pressured Shake Shack (SHAK) in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/below-expected-earnings-pressured-shake-131531191.html",
+      "published": "2026-09-21T13:15:31Z",
+      "ts": 1789996531
+    },
     {
       "source": "FXStreet",
       "title": "Gold: CTA whipsaws but support holds – TD Securities",
@@ -10,25 +87,11 @@
       "ts": 1789996495
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Is Archer Aviation Stock a No-Brainer Buy While It's Trading Near $5?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-stock-no-brainer-131217629.html",
-      "published": "2026-09-21T13:12:17Z",
-      "ts": 1789996337
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
       "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
       "published": "Mon, 21 Sep 2026 13:11:15 +0000",
       "ts": 1789996275
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Anthropic’s IPO Could Be the Biggest in History. Here’s What SpaceX Taught Us About Buying It.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-could-biggest-history-130702434.html",
-      "published": "2026-09-21T13:07:02Z",
-      "ts": 1789996022
     },
     {
       "source": "Yahoo Finance",
@@ -87,48 +150,6 @@
       "ts": 1789994400
     },
     {
-      "source": "Yahoo Finance",
-      "title": "SanDisk Corp’s (SNDK) Impact on Small/Mid Cap Returns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corp-sndk-impact-small-123955859.html",
-      "published": "2026-09-21T12:39:55Z",
-      "ts": 1789994395
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Veeco Instruments (VECO): Results Far Exceed Expectations Amid Memory Capacity Boom",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/veeco-instruments-veco-results-far-123608566.html",
-      "published": "2026-09-21T12:36:08Z",
-      "ts": 1789994168
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Strategy Sees Value in Methanex (MEOH) Despite a Near-Term Cash Flow Pullback",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-sees-value-methanex-meoh-123337498.html",
-      "published": "2026-09-21T12:33:37Z",
-      "ts": 1789994017
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Montgomery v. Caribe Supercharges Knight-Swift’s (KNX) Scale Advantage",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/montgomery-v-caribe-supercharges-knight-123210361.html",
-      "published": "2026-09-21T12:32:10Z",
-      "ts": 1789993930
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here’s Why This Strategy Decided to Exit Charles River Laboratories (CRL)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-decided-exit-charles-123056495.html",
-      "published": "2026-09-21T12:30:56Z",
-      "ts": 1789993856
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "11 Texas condo owners pay $800 per month in HOA fees 5 years after a fire destroyed units they've yet to return to",
-      "link": "https://finance.yahoo.com/real-estate/articles/11-texas-condo-owners-pay-123000155.html",
-      "published": "2026-09-21T12:30:00Z",
-      "ts": 1789993800
-    },
-    {
       "source": "Investing Crypto",
       "title": "Cardano Climbs 10% In a Green Day",
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-a-green-day-4908996",
@@ -178,13 +199,6 @@
       "ts": 1789992477
     },
     {
-      "source": "MarketWatch",
-      "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
-      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 12:06:00 GMT",
-      "ts": 1789992360
-    },
-    {
       "source": "Investing Crypto",
       "title": "Strategy buys 950 bitcoin, repurchases STRC shares in weekly update",
       "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-950-bitcoin-repurchases-strc-shares-in-weekly-update-432SI-4908941",
@@ -213,13 +227,6 @@
       "ts": 1789991491
     },
     {
-      "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Momentum stabilizes, but lacks bullish conviction",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-momentum-stabilizes-but-lacks-bullish-conviction-202609211150",
-      "published": "Mon, 21 Sep 2026 11:50:17 GMT",
-      "ts": 1789991417
-    },
-    {
       "source": "MarketWatch",
       "title": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
       "link": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories",
@@ -238,13 +245,6 @@
       "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
       "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
       "published": "Mon, 21 Sep 2026 11:30:00 +0000",
-      "ts": 1789990200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks",
-      "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 11:30:00 GMT",
       "ts": 1789990200
     },
     {
