@@ -1,13 +1,55 @@
 {
-  "updated": "2026-09-21T14:42:50.335218Z",
+  "updated": "2026-09-21T14:55:21.141055Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Forget Tech Billionaires. Economists Say Car Dealers Are the Number One Source of Top 1% Pass-Through Business Income",
+      "link": "https://finance.yahoo.com/economy/policy/articles/forget-tech-billionaires-economists-car-144815640.html",
+      "published": "2026-09-21T14:48:15Z",
+      "ts": 1790002095
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Robinhood’s Vlad Tenev: Trump Accounts Could Become “The Biggest Element of Long-Term Saving and Investing in This Country Within Possibly Even a Decade”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-vlad-tenev-trump-accounts-144727251.html",
+      "published": "2026-09-21T14:47:27Z",
+      "ts": 1790002047
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What Makes Curbline Properties (CURB) an Attractive Bet?",
+      "link": "https://finance.yahoo.com/real-estate/articles/makes-curbline-properties-curb-attractive-144558288.html",
+      "published": "2026-09-21T14:45:58Z",
+      "ts": 1790001958
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro struggles against US Dollar as hawkish Fed outlook weighs",
+      "link": "https://www.fxstreet.com/news/euro-struggles-against-us-dollar-as-hawkish-fed-outlook-weighs-202609211444",
+      "published": "Mon, 21 Sep 2026 14:44:35 GMT",
+      "ts": 1790001875
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Here’s What Pressured Vail Resorts (MTN) in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pressured-vail-resorts-mtn-q2-144137984.html",
+      "published": "2026-09-21T14:41:37Z",
+      "ts": 1790001697
+    },
     {
       "source": "MarketWatch",
       "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
       "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 14:39:00 GMT",
       "ts": 1790001540
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Should You be Bullish on American Healthcare REIT (AHR)?",
+      "link": "https://finance.yahoo.com/real-estate/articles/bullish-american-healthcare-reit-ahr-143612697.html",
+      "published": "2026-09-21T14:36:12Z",
+      "ts": 1790001372
     },
     {
       "source": "FXStreet",
@@ -17,6 +59,27 @@
       "ts": 1790001341
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Bitcoin and ethereum prices today, Monday, September 21, 2026: Crypto prices hit highest levels in 8 months",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-21-2026-crypto-prices-hit-highest-levels-in-8-months-143444230.html",
+      "published": "2026-09-21T14:34:44Z",
+      "ts": 1790001284
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
+      "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4909333",
+      "published": "2026-09-21 14:31:45",
+      "ts": 1790001105
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Baron Capital Sees Blackstone Mortgage Trust (BXMT) as a Compelling Opportunity",
+      "link": "https://finance.yahoo.com/real-estate/articles/baron-capital-sees-blackstone-mortgage-143030157.html",
+      "published": "2026-09-21T14:30:30Z",
+      "ts": 1790001030
+    },
+    {
       "source": "MarketWatch",
       "title": "My husband and I are in our 50s and have no kids. We have $2 million. Do we need a will?",
       "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
@@ -24,18 +87,18 @@
       "ts": 1790001000
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Work from home? Here are 5 ways to save money on remote work expenses.",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-working-from-home-142616852.html",
+      "published": "2026-09-21T14:26:16Z",
+      "ts": 1790000776
+    },
+    {
       "source": "MarketWatch",
       "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
       "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 14:20:00 GMT",
       "ts": 1790000400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "PizzaExpress explores sale at valuation of up to £500m – report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pizzaexpress-explores-sale-valuation-500m-141813074.html",
-      "published": "2026-09-21T14:18:13Z",
-      "ts": 1790000293
     },
     {
       "source": "FXStreet",
@@ -46,59 +109,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Rallies As Nvidia Nears Entry; Oil Dips On Iran Hopes (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T14:14:33Z",
-      "ts": 1790000073
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week’s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-climbs-5-nuclear-names-141418370.html",
-      "published": "2026-09-21T14:14:18Z",
-      "ts": 1790000058
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SiTime Corporation (SITM) Surged on Strong AI data center demand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sitime-corporation-sitm-surged-strong-141359726.html",
-      "published": "2026-09-21T14:13:59Z",
-      "ts": 1790000039
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oura publicly files for initial public offering, looks to raise $2.2 billion",
-      "link": "https://finance.yahoo.com/technology/article/oura-publicly-files-for-initial-public-offering-looks-to-raise-22-billion-140523751.html",
-      "published": "2026-09-21T14:05:23Z",
-      "ts": 1789999523
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here’s What Lifted BrightSpring Health Services (BTSG)",
-      "link": "https://finance.yahoo.com/healthcare/articles/lifted-brightspring-health-services-btsg-140139645.html",
-      "published": "2026-09-21T14:01:39Z",
-      "ts": 1789999299
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin Surges. Coinbase Wins Target Hike. These Crypto Stocks Break Out.",
-      "link": "https://www.investors.com/news/bitcoin-price-cryptocurrency-liquidations-etf-inflows-cftc-sec-coinbase-bullish/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T14:01:34Z",
-      "ts": 1789999294
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI build-out Strengthens Credo Technology Group Holding Ltd (CRDO)",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-build-strengthens-credo-technology-135854858.html",
-      "published": "2026-09-21T13:58:54Z",
-      "ts": 1789999134
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Applied Optoelectronics (AAOI): Hyperscaler Capex Surge Fuels Unprecedented Demand for Optical Infrastructure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-hyperscaler-capex-135615291.html",
-      "published": "2026-09-21T13:56:15Z",
-      "ts": 1789998975
+      "title": "Bloom Energy (BE) Surges as AI Hyperscalers Adopt Solid Oxide Fuel Cells",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-surges-ai-hyperscalers-141646925.html",
+      "published": "2026-09-21T14:16:46Z",
+      "ts": 1790000206
     },
     {
       "source": "FXStreet",
@@ -225,13 +239,6 @@
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 12:15:00 GMT",
       "ts": 1789992900
-    },
-    {
-      "source": "FXStreet",
-      "title": "Experts agree: Further US Dollar’s upside hinges on upcoming data and not hawkish Fed prospects",
-      "link": "https://www.fxstreet.com/news/experts-agree-further-us-dollars-upside-hinges-on-upcoming-data-and-not-hawkish-fed-prospects-202609211209",
-      "published": "Mon, 21 Sep 2026 12:09:28 GMT",
-      "ts": 1789992568
     },
     {
       "source": "CoinDesk",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
       "published": "2026-09-21 08:56:10",
       "ts": 1789980970
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees limited yen gains despite Bank of Japan rate hike",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-limited-yen-gains-despite-bank-of-japan-rate-hike-93CH-4908446",
-      "published": "2026-09-21 08:48:42",
-      "ts": 1789980522
     }
   ]
 }
