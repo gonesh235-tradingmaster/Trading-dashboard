@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-21T21:09:34.605488Z",
+  "updated": "2026-09-21T21:26:21.404757Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
+      "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 21:17:00 GMT",
+      "ts": 1790025420
+    },
     {
       "source": "MarketWatch",
       "title": "These beaten-down stocks could bounce back in January, if history is any guide",
       "link": "https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 21:06:00 GMT",
       "ts": 1790024760
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
+      "published": "2026-09-21 21:01:45",
+      "ts": 1790024505
     },
     {
       "source": "MarketWatch",
@@ -55,13 +69,6 @@
       "source": "MarketWatch",
       "title": "AMD hits a major milestone as AI stocks blaze higher",
       "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 20:19:00 GMT",
-      "ts": 1790021940
-    },
-    {
-      "source": "MarketWatch",
-      "title": "As the S&P 500 nears a new record high, there are cracks below the surface",
-      "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 20:19:00 GMT",
       "ts": 1790021940
     },
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-lower-as-oil-fed-hike-bets-underpin-dollar-4908483",
       "published": "2026-09-21 09:22:18",
       "ts": 1789982538
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Yen steadies amid rate-check warnings as euro absorbs German political shock",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
-      "published": "2026-09-21 09:21:56",
-      "ts": 1789982516
     },
     {
       "source": "Investing Forex",
