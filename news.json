@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-21T02:26:47.499093Z",
+  "updated": "2026-09-21T02:41:56.677206Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold edges lower to near $4,350 on Fed hawkish stance, Middle East tensions",
+      "link": "https://www.fxstreet.com/news/gold-edges-lower-to-near-4-350-on-fed-hawkish-stance-middle-east-tensions-202609210238",
+      "published": "Mon, 21 Sep 2026 02:38:49 GMT",
+      "ts": 1789958329
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar seems vulnerable near August 7 low amid sliding oil prices, trade tensions",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-august-7-low-amid-sliding-oil-prices-trade-tensions-202609210231",
+      "published": "Mon, 21 Sep 2026 02:31:12 GMT",
+      "ts": 1789957872
+    },
+    {
+      "source": "FXStreet",
+      "title": "Ukraine attacks on Moscow oil refinery in massive drone and missile attack",
+      "link": "https://www.fxstreet.com/news/ukraine-attacks-on-moscow-oil-refinery-in-massive-drone-and-missile-attack-202609210227",
+      "published": "Mon, 21 Sep 2026 02:27:48 GMT",
+      "ts": 1789957668
+    },
     {
       "source": "FXStreet",
       "title": "Houthis claim attacks on Saudi capital, thick smoke seen near Riyadh airport",
@@ -57,27 +78,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-slips-as-hawkish-fed-outlook-boosts-us-dollar-202609210110",
       "published": "Mon, 21 Sep 2026 01:10:08 GMT",
       "ts": 1789953008
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro edges higher above 1.1450 despite Fed hawkish stance",
-      "link": "https://www.fxstreet.com/news/euro-edges-higher-above-11450-despite-fed-hawkish-stance-202609210103",
-      "published": "Mon, 21 Sep 2026 01:03:09 GMT",
-      "ts": 1789952589
-    },
-    {
-      "source": "FXStreet",
-      "title": "Confirmed: PBOC leaves Loan Prime Rates unchanged in September",
-      "link": "https://www.fxstreet.com/news/confirmed-pboc-leaves-loan-prime-rates-unchanged-in-september-202609210100",
-      "published": "Mon, 21 Sep 2026 01:00:55 GMT",
-      "ts": 1789952455
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Kashkari: Inflation is still too high in “all aspects” of US economy",
-      "link": "https://www.fxstreet.com/news/feds-kashkari-inflation-is-still-too-high-in-all-aspects-of-us-economy-202609202357",
-      "published": "Sun, 20 Sep 2026 23:57:13 GMT",
-      "ts": 1789948633
     },
     {
       "source": "CoinTelegraph",
@@ -255,6 +255,13 @@
       "ts": 1789843200
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Lucid (LCID) Rises After Bolt Partnership, But Cash Burn Remains a Concern",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-rises-bolt-partnership-165233221.html",
+      "published": "2026-09-19T16:52:33Z",
+      "ts": 1789836753
+    },
+    {
       "source": "CoinTelegraph",
       "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
       "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -316,13 +323,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/conclude-ai-era-won-t-150002323.html",
       "published": "2026-09-19T15:00:02Z",
       "ts": 1789830002
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Follow Soon",
-      "link": "https://finance.yahoo.com/technology/ai/articles/1-microsoft-deal-iren-delivering-142734921.html",
-      "published": "2026-09-19T14:27:34Z",
-      "ts": 1789828054
     },
     {
       "source": "CoinDesk",
