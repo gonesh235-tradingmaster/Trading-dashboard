@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-21T15:25:25.710681Z",
+  "updated": "2026-09-21T15:38:46.975884Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc advances against US Dollar after recent sell-off, SNB in focus",
+      "link": "https://www.fxstreet.com/news/swiss-franc-advances-against-us-dollar-after-recent-sell-off-snb-in-focus-202609211537",
+      "published": "Mon, 21 Sep 2026 15:37:42 GMT",
+      "ts": 1790005062
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 15:30:00 GMT",
+      "ts": 1790004600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Paramount settles with US states in big step towards closing Warner Bros merger, source says",
+      "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
+      "published": "2026-09-21T15:23:02Z",
+      "ts": 1790004182
+    },
     {
       "source": "MarketWatch",
       "title": "Many young adults can only afford to invest thanks to the bank of mom and dad",
@@ -15,6 +36,13 @@
       "link": "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 15:19:00 GMT",
       "ts": 1790003940
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act – Corrected",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
+      "published": "2026-09-21T15:12:47Z",
+      "ts": 1790003567
     },
     {
       "source": "MarketWatch",
@@ -50,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-high-as-160-seen-possible-against-us-dollar-ing-202609211504",
       "published": "Mon, 21 Sep 2026 15:04:10 GMT",
       "ts": 1790003050
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Paramount settles with US states in big step towards closing Warner Bros merger, source says",
-      "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
-      "published": "2026-09-21T15:01:09Z",
-      "ts": 1790002869
     },
     {
       "source": "CoinDesk",
@@ -106,20 +127,6 @@
       "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-oura-files-ipo-paperwork-nvidias-huang-pushes-back-on-ai-doomsday-talk-144918730.html",
       "published": "2026-09-21T14:49:18Z",
       "ts": 1790002158
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "HP Stock Drops After PC Maker Forecasts Industry Sales Decline",
-      "link": "https://www.investors.com/news/technology/hpq-stock-hp-forecasts-pc-industry-sales-decline/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T14:48:41Z",
-      "ts": 1790002121
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Makes Curbline Properties (CURB) an Attractive Bet?",
-      "link": "https://finance.yahoo.com/real-estate/articles/makes-curbline-properties-curb-attractive-144558288.html",
-      "published": "2026-09-21T14:45:58Z",
-      "ts": 1790001958
     },
     {
       "source": "FXStreet",
@@ -220,13 +227,6 @@
       "ts": 1789997400
     },
     {
-      "source": "MarketWatch",
-      "title": "Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks",
-      "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 13:30:00 GMT",
-      "ts": 1789997400
-    },
-    {
       "source": "FXStreet",
       "title": "Gold: CTA whipsaws but support holds – TD Securities",
       "link": "https://www.fxstreet.com/news/gold-cta-whipsaws-but-support-holds-td-securities-202609211314",
@@ -239,13 +239,6 @@
       "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
       "published": "Mon, 21 Sep 2026 13:11:15 +0000",
       "ts": 1789996275
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar remains under pressure as hawkish Fed contrasts with steady BoC",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-as-hawkish-fed-contrasts-with-steady-boc-202609211253",
-      "published": "Mon, 21 Sep 2026 12:53:51 GMT",
-      "ts": 1789995231
     },
     {
       "source": "CoinTelegraph",
@@ -421,6 +414,13 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
       "published": "2026-09-21 09:21:56",
       "ts": 1789982516
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Deutsche Bank sees dollar decline continuing on FX outlook",
+      "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
+      "published": "2026-09-21 08:56:10",
+      "ts": 1789980970
     }
   ]
 }
