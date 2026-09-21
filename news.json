@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T15:38:46.975884Z",
+  "updated": "2026-09-21T15:52:33.125353Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "This is the ‘most underappreciated’ driver for Microsoft’s business, according to one analyst",
+      "link": "https://www.marketwatch.com/story/this-is-the-most-underappreciated-driver-for-microsoft-according-to-one-analyst-f9a5e4eb?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 15:39:00 GMT",
+      "ts": 1790005140
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc advances against US Dollar after recent sell-off, SNB in focus",
@@ -10,18 +17,25 @@
       "ts": 1790005062
     },
     {
+      "source": "Investing Crypto",
+      "title": "CryptoPawn Launches Protocol Integration Allowing Authorized AI Agents to Participate in Crypto-Backed Loan Transactions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
+      "published": "2026-09-21 15:30:38",
+      "ts": 1790004638
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Trump demands 1% rates because the US has the ‘Best Credit in the World’ — the Fed hiked rates anyway. So who’s right?",
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-demands-1-rates-because-153000828.html",
+      "published": "2026-09-21T15:30:00Z",
+      "ts": 1790004600
+    },
+    {
       "source": "MarketWatch",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 15:30:00 GMT",
       "ts": 1790004600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Paramount settles with US states in big step towards closing Warner Bros merger, source says",
-      "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
-      "published": "2026-09-21T15:23:02Z",
-      "ts": 1790004182
     },
     {
       "source": "MarketWatch",
@@ -186,8 +200,8 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Paramount, Warner Bros. shares rally on reports of merger settlement agreement",
-      "link": "https://finance.yahoo.com/markets/stocks/article/paramount-warner-bros-shares-rally-on-reports-of-merger-settlement-agreement-134233954.html",
+      "title": "Paramount, Warner Bros. shares rally on report of merger settlement agreement",
+      "link": "https://finance.yahoo.com/markets/stocks/article/paramount-warner-bros-shares-rally-on-report-of-merger-settlement-agreement-134233954.html",
       "published": "2026-09-21T13:42:33Z",
       "ts": 1789998153
     },
@@ -211,13 +225,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
       "published": "2026-09-21 13:39:10",
       "ts": 1789997950
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
-      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 13:32:00 GMT",
-      "ts": 1789997520
     },
     {
       "source": "CoinTelegraph",
@@ -326,7 +333,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold remains vulnerable as hawksih Fed outlook supports the Greenback",
+      "title": "Gold struggles near $4,350 as hawksih Fed outlook supports the Greenback",
       "link": "https://www.fxstreet.com/news/gold-starts-week-on-the-back-foot-as-us-dollar-holds-firm-oil-decline-limits-losses-202609211110",
       "published": "Mon, 21 Sep 2026 11:10:59 GMT",
       "ts": 1789989059
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
       "published": "2026-09-21 09:21:56",
       "ts": 1789982516
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Deutsche Bank sees dollar decline continuing on FX outlook",
-      "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
-      "published": "2026-09-21 08:56:10",
-      "ts": 1789980970
     }
   ]
 }
