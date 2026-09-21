@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-21T01:41:22.676247Z",
+  "updated": "2026-09-21T01:53:32.809692Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
+      "link": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 01:42:53 +0000",
+      "ts": 1789954973
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar languishes near two-month low vs USD as bears await break below 0.5700",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-languishes-near-two-month-low-vs-usd-as-bears-await-break-below-05700-202609210142",
+      "published": "Mon, 21 Sep 2026 01:42:14 GMT",
+      "ts": 1789954934
+    },
     {
       "source": "FXStreet",
       "title": "PBOC sets USD/CNY reference rate at 6.7487 vs. 6.7521 previous",
@@ -71,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-edges-lower-as-fed-hike-bets-grow-ahead-of-trump-xi-summit-202609202332",
       "published": "Sun, 20 Sep 2026 23:32:57 GMT",
       "ts": 1789947177
-    },
-    {
-      "source": "FXStreet",
-      "title": "Qatar’s Prime Minister says Gulf states have to act together on Iran",
-      "link": "https://www.fxstreet.com/news/qatars-prime-minister-says-gulf-states-have-to-act-together-on-iran-202609202229",
-      "published": "Sun, 20 Sep 2026 22:29:23 GMT",
-      "ts": 1789943363
     },
     {
       "source": "Investing Crypto",
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
       "published": "2026-09-18 21:49:51",
       "ts": 1789768191
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 21:00:00 +0000",
-      "ts": 1789765200
     },
     {
       "source": "Investing Forex",
