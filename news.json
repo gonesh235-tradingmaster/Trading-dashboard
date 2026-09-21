@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-21T08:29:12.170270Z",
+  "updated": "2026-09-21T08:45:09.775350Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Volatility focus after BoJ – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-volatility-focus-after-boj-mufg-202609210840",
+      "published": "Mon, 21 Sep 2026 08:40:17 GMT",
+      "ts": 1789980017
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin rockets above $83,500 as falling oil lifts risk assets",
+      "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
+      "published": "Mon, 21 Sep 2026 08:39:26 +0000",
+      "ts": 1789979966
+    },
+    {
+      "source": "FXStreet",
+      "title": "NZD/USD Price Forecast: Sees fresh downside leg below 0.5700",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-sees-fresh-downside-leg-below-05700-202609210835",
+      "published": "Mon, 21 Sep 2026 08:35:11 GMT",
+      "ts": 1789979711
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures rise as lower crude oil prices improve market sentiment",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-lower-crude-oil-prices-improve-market-sentiment-202609210832",
+      "published": "Mon, 21 Sep 2026 08:32:02 GMT",
+      "ts": 1789979522
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar: Gradual upside after hawkish Fed hike – HSBC",
@@ -50,27 +78,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
       "published": "2026-09-21 07:47:15",
       "ts": 1789976835
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: US Dollar consolidates Fed-inspired gains",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-consolidates-fed-inspired-gains-202609210741",
-      "published": "Mon, 21 Sep 2026 07:41:53 GMT",
-      "ts": 1789976513
-    },
-    {
-      "source": "FXStreet",
-      "title": "Oil: Supply risks linger despite recovering Saudi flows - OCBC",
-      "link": "https://www.fxstreet.com/news/oil-supply-risks-linger-despite-recovering-saudi-flows-ocbc-202609210734",
-      "published": "Mon, 21 Sep 2026 07:34:39 GMT",
-      "ts": 1789976079
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index: Trades firmly near 100.35 ahead of Fed speeches",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-trades-firmly-near-10035-ahead-of-fed-speeches-202609210733",
-      "published": "Mon, 21 Sep 2026 07:33:06 GMT",
-      "ts": 1789975986
     },
     {
       "source": "CoinTelegraph",
@@ -386,13 +393,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
       "published": "Sat, 19 Sep 2026 13:39:15 +0000",
       "ts": 1789825155
-    },
-    {
-      "source": "CoinDesk",
-      "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-      "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
-      "published": "Sat, 19 Sep 2026 12:13:57 +0000",
-      "ts": 1789820037
     },
     {
       "source": "Yahoo Finance",
