@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-21T22:51:11.139007Z",
+  "updated": "2026-09-21T23:09:27.516542Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Japanese Yen keeps sliding after the Bank of Japan's split vote",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-keeps-sliding-after-the-bank-of-japans-split-vote-202609212301",
+      "published": "Mon, 21 Sep 2026 23:01:01 GMT",
+      "ts": 1790031661
+    },
+    {
+      "source": "FXStreet",
+      "title": "NZD/USD Price Forecast: Bears lean on 0.5700 as RSI sinks",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-lean-on-05700-as-rsi-sinks-202609212252",
+      "published": "Mon, 21 Sep 2026 22:52:24 GMT",
+      "ts": 1790031144
+    },
     {
       "source": "FXStreet",
       "title": "The British Pound slips again as bets on an October Fed hike build",
@@ -192,13 +206,6 @@
       "ts": 1790016660
     },
     {
-      "source": "FXStreet",
-      "title": "Fed's Musalem calls for more rate hikes",
-      "link": "https://www.fxstreet.com/news/feds-musalem-calls-for-more-rate-hikes-202609211846",
-      "published": "Mon, 21 Sep 2026 18:46:03 GMT",
-      "ts": 1790016363
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ondo lets institutions convert stocks directly into tokenized shares",
       "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -211,13 +218,6 @@
       "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 18:15:22 +0000",
       "ts": 1790014522
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Upside bias intact despite mixed momentum",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-upside-bias-intact-despite-mixed-momentum-202609211810",
-      "published": "Mon, 21 Sep 2026 18:10:26 GMT",
-      "ts": 1790014226
     },
     {
       "source": "Investing Forex",
