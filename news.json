@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-21T08:11:16.550894Z",
+  "updated": "2026-09-21T08:29:12.170270Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Gradual upside after hawkish Fed hike – HSBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-gradual-upside-after-hawkish-fed-hike-hsbc-202609210826",
+      "published": "Mon, 21 Sep 2026 08:26:48 GMT",
+      "ts": 1789979208
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen holds losses below 157.00 US Dollar with intervention fears growing",
+      "link": "https://www.fxstreet.com/news/japanese-yen-holds-losses-below-15700-us-dollar-with-intervention-fears-growing-202609210821",
+      "published": "Mon, 21 Sep 2026 08:21:11 GMT",
+      "ts": 1789978871
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Dollar strength seen sustainable – Commerzbank",
@@ -66,20 +80,6 @@
       "ts": 1789975907
     },
     {
-      "source": "FXStreet",
-      "title": "Euro remains capped below 1.1500 amid growing political uncertainty in Germany",
-      "link": "https://www.fxstreet.com/news/euro-remains-capped-below-11500-amid-growing-political-uncertainty-in-germany-202609210728",
-      "published": "Mon, 21 Sep 2026 07:28:59 GMT",
-      "ts": 1789975739
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD falls to near $66.00 amid Middle East tracking",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6600-amid-middle-east-tracking-202609210719",
-      "published": "Mon, 21 Sep 2026 07:19:49 GMT",
-      "ts": 1789975189
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin tests double top at $82,179 with MFI maxed: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
@@ -109,7 +109,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold slides below $4,350 as USD strengthens amid Fed hike bets and Iran risks",
+      "title": "Gold struggles near daily low as hawkish Fed and bullish USD weigh amid Iran risks",
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-fed-hike-bets-and-geopolitics-lift-usd-ahead-of-trump-xi-summit-202609210536",
       "published": "Mon, 21 Sep 2026 05:36:33 GMT",
       "ts": 1789968993
@@ -311,11 +311,25 @@
       "ts": 1789895667
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Elon Musk totaled a $1 million McLaren with Peter Thiel riding shotgun — and hadn't bought insurance",
+      "link": "https://finance.yahoo.com/small-business/articles/elon-musk-totaled-1-million-090000791.html",
+      "published": "2026-09-20T09:00:00Z",
+      "ts": 1789894800
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
       "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 20 Sep 2026 07:51:24 +0000",
       "ts": 1789890684
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oracle (ORCL) Cloud Revenue Jumps 121% and its Backlog Hits $664 Billion. Can it Actually Deliver?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-cloud-revenue-jumps-045435586.html",
+      "published": "2026-09-20T04:54:35Z",
+      "ts": 1789880075
     },
     {
       "source": "Yahoo Finance",
@@ -353,34 +367,6 @@
       "ts": 1789858800
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Nashville’s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project",
-      "link": "https://finance.yahoo.com/real-estate/articles/nashville-traffic-nightmare-now-9-202041295.html",
-      "published": "2026-09-19T20:20:41Z",
-      "ts": 1789849241
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "IDEXX (IDXX) Bets an AI Scribe Can Sell More Pet Diagnostics",
-      "link": "https://finance.yahoo.com/technology/ai/articles/idexx-idxx-bets-ai-scribe-201730587.html",
-      "published": "2026-09-19T20:17:30Z",
-      "ts": 1789849050
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prudential-pru-leaving-emerging-markets-201350497.html",
-      "published": "2026-09-19T20:13:50Z",
-      "ts": 1789848830
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Interactive Brokers (IBKR) Turns Every Revenue Dollar Into 77 Cents of Pretax Profit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-ibkr-turns-every-200932877.html",
-      "published": "2026-09-19T20:09:32Z",
-      "ts": 1789848572
-    },
-    {
       "source": "CoinDesk",
       "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
       "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
@@ -407,6 +393,20 @@
       "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
       "published": "Sat, 19 Sep 2026 12:13:57 +0000",
       "ts": 1789820037
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-19-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000984.html",
+      "published": "2026-09-19T10:00:00Z",
+      "ts": 1789812000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-19-2026-mortgage-rates-move-lower-to-start-the-weekend-100000254.html",
+      "published": "2026-09-19T10:00:00Z",
+      "ts": 1789812000
     },
     {
       "source": "Investing Crypto",
