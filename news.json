@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T03:10:05.597739Z",
+  "updated": "2026-09-21T03:27:33.102884Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index holds firm on hawkish Fed outlook",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-firm-on-hawkish-fed-outlook-202609210317",
+      "published": "Mon, 21 Sep 2026 03:17:52 GMT",
+      "ts": 1789960672
+    },
     {
       "source": "FXStreet",
       "title": "AUD/USD Price Forecast: Holds comfortably above 0.7100 as bulls await Trump-Xi meeting",
@@ -78,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-says-had-a-very-successful-engagement-with-china-on-trade-and-ai-202609210114",
       "published": "Mon, 21 Sep 2026 01:14:07 GMT",
       "ts": 1789953247
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen bulls seem hesitant amid BoJ's dovish rate hike as Fed bets support USD",
-      "link": "https://www.fxstreet.com/news/japanese-yen-bulls-seem-hesitant-amid-bojs-dovish-rate-hike-as-fed-bets-support-usd-202609210112",
-      "published": "Mon, 21 Sep 2026 01:12:12 GMT",
-      "ts": 1789953132
     },
     {
       "source": "CoinTelegraph",
@@ -256,6 +256,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
+      "link": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
+      "published": "2026-09-19T17:11:52Z",
+      "ts": 1789837912
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Lucid (LCID) Rises After Bolt Partnership, But Cash Burn Remains a Concern",
       "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-rises-bolt-partnership-165233221.html",
       "published": "2026-09-19T16:52:33Z",
@@ -316,13 +323,6 @@
       "link": "https://finance.yahoo.com/economy/articles/no-degree-no-problem-why-153002314.html",
       "published": "2026-09-19T15:30:02Z",
       "ts": 1789831802
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Before You Conclude the AI Era Won’t End Like the Dot-Com Era Did, Check Out These 2 Charts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/conclude-ai-era-won-t-150002323.html",
-      "published": "2026-09-19T15:00:02Z",
-      "ts": 1789830002
     },
     {
       "source": "CoinDesk",
