@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-21T04:30:39.303376Z",
+  "updated": "2026-09-21T04:53:39.504075Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 04:44:48 +0000",
+      "ts": 1789965888
+    },
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609210444",
+      "published": "Mon, 21 Sep 2026 04:44:44 GMT",
+      "ts": 1789965884
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin reclaims 50-week moving average: Is the bear market over?",
+      "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 04:29:59 +0000",
+      "ts": 1789964999
+    },
     {
       "source": "FXStreet",
       "title": "Euro flatlines against Japanese Yen as intervention risks rise",
       "link": "https://www.fxstreet.com/news/euro-flatlines-against-japanese-yen-as-intervention-risks-rise-202609210428",
       "published": "Mon, 21 Sep 2026 04:28:24 GMT",
       "ts": 1789964904
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
+      "link": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 04:27:32 +0000",
+      "ts": 1789964852
     },
     {
       "source": "CoinDesk",
@@ -92,13 +120,6 @@
       "link": "https://www.fxstreet.com/news/ukraine-attacks-on-moscow-oil-refinery-in-massive-drone-and-missile-attack-202609210227",
       "published": "Mon, 21 Sep 2026 02:27:48 GMT",
       "ts": 1789957668
-    },
-    {
-      "source": "FXStreet",
-      "title": "Houthis claim attacks on Saudi capital, thick smoke seen near Riyadh airport",
-      "link": "https://www.fxstreet.com/news/houthis-claim-attacks-on-saudi-capital-thick-smoke-seen-near-riyadh-airport-202609210217",
-      "published": "Mon, 21 Sep 2026 02:17:33 GMT",
-      "ts": 1789957053
     },
     {
       "source": "CoinTelegraph",
@@ -277,6 +298,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "BJ’s Wholesale Club (BJ) Formalizes Investment-Grade Financial Policy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-bj-formalizes-180906005.html",
+      "published": "2026-09-19T18:09:06Z",
+      "ts": 1789841346
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The RealReal (REAL) Bets on Glendale to Capture Growing Vintage Demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-bets-glendale-capture-180003520.html",
+      "published": "2026-09-19T18:00:03Z",
+      "ts": 1789840803
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
       "link": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo",
       "published": "2026-09-19T17:48:41Z",
@@ -318,27 +353,6 @@
       "ts": 1789837920
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
-      "link": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
-      "published": "2026-09-19T17:11:52Z",
-      "ts": 1789837912
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lucid (LCID) Rises After Bolt Partnership, But Cash Burn Remains a Concern",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-rises-bolt-partnership-165233221.html",
-      "published": "2026-09-19T16:52:33Z",
-      "ts": 1789836753
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
-      "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 19 Sep 2026 16:20:00 +0000",
-      "ts": 1789834800
-    },
-    {
       "source": "CoinDesk",
       "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
       "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
@@ -372,20 +386,6 @@
       "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
       "published": "Sat, 19 Sep 2026 12:00:00 +0000",
       "ts": 1789819200
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bastion wins conditional OCC approval for national trust bank charter",
-      "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 19 Sep 2026 11:51:00 +0000",
-      "ts": 1789818660
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report",
-      "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 19 Sep 2026 07:52:00 +0000",
-      "ts": 1789804320
     },
     {
       "source": "Investing Crypto",
