@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T05:53:42.423320Z",
+  "updated": "2026-09-21T06:14:19.769070Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Drops to over one-week low, below $94.00 but bullish bias stays intact",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-drops-to-over-one-week-low-below-9400-but-bullish-bias-stays-intact-202609210556",
+      "published": "Mon, 21 Sep 2026 05:56:59 GMT",
+      "ts": 1789970219
+    },
     {
       "source": "FXStreet",
       "title": "Iran’s IRGC warns any new strike will prompt Tehran to alter war geography and armaments",
@@ -99,13 +106,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
       "published": "Mon, 21 Sep 2026 03:56:23 +0000",
       "ts": 1789962983
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro stays defensive vs USD amid geopolitical risks as traders await Lagarde's speech",
-      "link": "https://www.fxstreet.com/news/euro-stays-defensive-vs-usd-amid-geopolitical-risks-as-traders-await-lagardes-speech-202609210355",
-      "published": "Mon, 21 Sep 2026 03:55:24 GMT",
-      "ts": 1789962924
     },
     {
       "source": "Investing Forex",
