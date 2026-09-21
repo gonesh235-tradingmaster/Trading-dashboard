@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T23:24:58.345796Z",
+  "updated": "2026-09-21T23:38:36.003213Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Iranian President will head to New York for UN meeting",
+      "link": "https://www.fxstreet.com/news/iranian-president-will-head-to-new-york-for-un-meeting-202609212332",
+      "published": "Mon, 21 Sep 2026 23:32:32 GMT",
+      "ts": 1790033552
+    },
     {
       "source": "FXStreet",
       "title": "Gold declines to near $4,350 on rising odds of Fed rate hike",
@@ -190,13 +197,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-21 19:19:36",
       "ts": 1790018376
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brent: Supply risks contrast softer prices – ING",
-      "link": "https://www.fxstreet.com/news/brent-supply-risks-contrast-softer-prices-ing-202609211912",
-      "published": "Mon, 21 Sep 2026 19:12:00 GMT",
-      "ts": 1790017920
     },
     {
       "source": "CoinDesk",
