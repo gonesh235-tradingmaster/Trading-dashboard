@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-21T09:52:27.348179Z",
+  "updated": "2026-09-21T10:09:54.056430Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: BoJ rate check limits yen downside – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-rate-check-limits-yen-downside-mufg-202609210953",
+      "published": "Mon, 21 Sep 2026 09:53:36 GMT",
+      "ts": 1789984416
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
+      "link": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html",
+      "published": "2026-09-21T09:41:21Z",
+      "ts": 1789983681
+    },
     {
       "source": "FXStreet",
       "title": "WTI Oil dips below $94.00 amid reports of higher Saudi crude supplies",
@@ -164,13 +178,6 @@
       "ts": 1789980522
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Volatility focus after BoJ – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-volatility-focus-after-boj-mufg-202609210840",
-      "published": "Mon, 21 Sep 2026 08:40:17 GMT",
-      "ts": 1789980017
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
       "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
@@ -232,13 +239,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
       "published": "Mon, 21 Sep 2026 06:20:47 +0000",
       "ts": 1789971647
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "H World (HTHT) Cleared Its $2B Promise Early, Then Topped It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/h-world-htht-cleared-2b-054407002.html",
-      "published": "2026-09-21T05:44:07Z",
-      "ts": 1789969447
     },
     {
       "source": "FXStreet",
