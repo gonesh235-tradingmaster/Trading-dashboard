@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-21T17:08:24.523626Z",
+  "updated": "2026-09-21T17:23:00.014373Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
+      "published": "2026-09-21 17:16:09",
+      "ts": 1790010969
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The future of retirement? Work until you die.",
+      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 17:16:00 GMT",
+      "ts": 1790010960
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A happier retirement contains these 3 elements",
+      "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 17:12:00 GMT",
+      "ts": 1790010720
+    },
     {
       "source": "FXStreet",
       "title": "BoC’s Macklem sees inflation drifting higher as uncertainty lingers",
@@ -10,11 +31,25 @@
       "ts": 1790010167
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Drug developer ADARx seeks $1.74 billion valuation in US IPO",
+      "link": "https://finance.yahoo.com/healthcare/articles/drug-developer-adarx-seeks-1-170042280.html",
+      "published": "2026-09-21T17:00:42Z",
+      "ts": 1790010042
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
       "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 16:56:53 +0000",
       "ts": 1790009813
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Craneware Gets a Painful Growth Reset",
+      "link": "https://finance.yahoo.com/healthcare/articles/craneware-gets-painful-growth-reset-165632082.html",
+      "published": "2026-09-21T16:56:32Z",
+      "ts": 1790009792
     },
     {
       "source": "FXStreet",
@@ -73,13 +108,6 @@
       "ts": 1790007387
     },
     {
-      "source": "Yahoo Finance",
-      "title": "CBP importer crackdown puts thousands of cross-border freight shipments at risk",
-      "link": "https://finance.yahoo.com/economy/policy/articles/cbp-importer-crackdown-puts-thousands-161317046.html",
-      "published": "2026-09-21T16:13:17Z",
-      "ts": 1790007197
-    },
-    {
       "source": "MarketWatch",
       "title": "Meta’s stock is enjoying its best month in more than two years thanks to the company’s hot new AI assistant",
       "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
@@ -92,13 +120,6 @@
       "link": "https://www.fxstreet.com/news/bocs-macklem-rate-decisions-must-look-beyond-initial-oil-shock-202609211609",
       "published": "Mon, 21 Sep 2026 16:09:53 GMT",
       "ts": 1790006993
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Up As Boeing, Nvidia Pop; Bessent Touts This China AI Move (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T16:09:43Z",
-      "ts": 1790006983
     },
     {
       "source": "FXStreet",
@@ -206,13 +227,6 @@
       "ts": 1790002761
     },
     {
-      "source": "MarketWatch",
-      "title": "AI is a Pandora’s box that some CEOs seem wary of opening — at least with investors",
-      "link": "https://www.marketwatch.com/story/ai-is-a-pandoras-box-that-some-ceos-seem-wary-of-opening-at-least-with-investors-39eff0d2?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 14:57:00 GMT",
-      "ts": 1790002620
-    },
-    {
       "source": "CoinDesk",
       "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
       "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
@@ -225,13 +239,6 @@
       "link": "https://www.fxstreet.com/news/euro-struggles-against-us-dollar-as-hawkish-fed-outlook-weighs-202609211444",
       "published": "Mon, 21 Sep 2026 14:44:35 GMT",
       "ts": 1790001875
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
-      "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 14:39:00 GMT",
-      "ts": 1790001540
     },
     {
       "source": "Yahoo Finance",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-15-in-rally-4908544",
       "published": "2026-09-21 10:03:02",
       "ts": 1789984982
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
-      "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 09:35:25 +0000",
-      "ts": 1789983325
     }
   ]
 }
