@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-21T18:54:32.332540Z",
+  "updated": "2026-09-21T19:09:10.362304Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+      "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
+      "published": "Mon, 21 Sep 2026 19:08:40 +0000",
+      "ts": 1790017720
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 19:00:00 GMT",
+      "ts": 1790017200
+    },
     {
       "source": "FXStreet",
       "title": "Singapore Dollar: Inflation keeps MAS tightening risk alive - Commerzbank",
@@ -32,7 +46,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again: NYT",
+      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
       "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 18:15:22 +0000",
       "ts": 1790014522
@@ -192,13 +206,6 @@
       "ts": 1790004600
     },
     {
-      "source": "MarketWatch",
-      "title": "Many young adults can only afford to invest thanks to the bank of mom and dad",
-      "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 15:22:00 GMT",
-      "ts": 1790004120
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
       "link": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -323,13 +330,6 @@
       "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 11:27:00 +0000",
       "ts": 1789990020
-    },
-    {
-      "source": "CoinDesk",
-      "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
-      "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
-      "published": "Mon, 21 Sep 2026 11:18:55 +0000",
-      "ts": 1789989535
     },
     {
       "source": "Investing Forex",
