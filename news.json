@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-21T05:26:07.296041Z",
+  "updated": "2026-09-21T05:41:12.808930Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold drifts lower as Fed hike bets and geopolitics lift USD ahead of Trump-Xi summit",
+      "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-fed-hike-bets-and-geopolitics-lift-usd-ahead-of-trump-xi-summit-202609210536",
+      "published": "Mon, 21 Sep 2026 05:36:33 GMT",
+      "ts": 1789968993
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee starts positive as oil prices fall further",
+      "link": "https://www.fxstreet.com/news/indian-rupee-starts-positive-as-oil-prices-fall-further-202609210526",
+      "published": "Mon, 21 Sep 2026 05:26:10 GMT",
+      "ts": 1789968370
+    },
     {
       "source": "FXStreet",
       "title": "US President Donald Trump says was ready to strike Houthis in Yemen, then pulled back",
@@ -101,25 +115,11 @@
       "ts": 1789960672
     },
     {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Holds comfortably above 0.7100 as bulls await Trump-Xi meeting",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-comfortably-above-07100-as-bulls-await-trump-xi-meeting-202609210309",
-      "published": "Mon, 21 Sep 2026 03:09:20 GMT",
-      "ts": 1789960160
-    },
-    {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 02:40:00 GMT",
       "ts": 1789958400
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold edges lower to near $4,350 on Fed hawkish stance, Middle East tensions",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-to-near-4-350-on-fed-hawkish-stance-middle-east-tensions-202609210238",
-      "published": "Mon, 21 Sep 2026 02:38:49 GMT",
-      "ts": 1789958329
     },
     {
       "source": "CoinTelegraph",
@@ -298,6 +298,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
+      "published": "2026-09-19T18:37:47Z",
+      "ts": 1789843067
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html",
+      "published": "2026-09-19T18:36:04Z",
+      "ts": 1789842964
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
       "link": "https://finance.yahoo.com/energy/articles/sempra-sre-just-locked-two-183448167.html",
       "published": "2026-09-19T18:34:48Z",
@@ -337,20 +351,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-bets-glendale-capture-180003520.html",
       "published": "2026-09-19T18:00:03Z",
       "ts": 1789840803
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
-      "link": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo",
-      "published": "2026-09-19T17:48:41Z",
-      "ts": 1789840121
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Willis Lease Finance (WLFC) Expands Fleet with New Aircraft and Engine Acquisition",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-expands-174813287.html",
-      "published": "2026-09-19T17:48:13Z",
-      "ts": 1789840093
     },
     {
       "source": "CoinDesk",
