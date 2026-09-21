@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-21T17:38:19.394508Z",
+  "updated": "2026-09-21T17:51:36.136431Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 17:45:00 GMT",
+      "ts": 1790012700
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: Fedspeak takes centre stage alongside weekly ADP figures",
+      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-takes-centre-stage-alongside-weekly-adp-figures-202609211744",
+      "published": "Mon, 21 Sep 2026 17:44:30 GMT",
+      "ts": 1790012670
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Behind the Ticker: Crossmark's Values-Based ETFs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/behind-ticker-crossmarks-values-based-174055390.html",
+      "published": "2026-09-21T17:40:55Z",
+      "ts": 1790012455
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Signal Says This Software Stock Could Soon Break Out",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/signal-says-software-stock-could-173505415.html",
+      "published": "2026-09-21T17:35:05Z",
+      "ts": 1790012105
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Loren Finegold, Ed Comber Join Vinson & Elkins NY Practice, Finance & Infrastructure Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/loren-finegold-ed-comber-join-173054582.html",
+      "published": "2026-09-21T17:30:54Z",
+      "ts": 1790011854
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Up, Nasdaq Roars As Micron Tests Entry; Bessent Touts China Progress (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T17:30:11Z",
+      "ts": 1790011811
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Halliburton Signs Deals to Expand Venezuela Energy Presence",
+      "link": "https://finance.yahoo.com/energy/articles/halliburton-signs-deals-expand-venezuela-172503667.html",
+      "published": "2026-09-21T17:25:03Z",
+      "ts": 1790011503
+    },
     {
       "source": "Yahoo Finance",
       "title": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
@@ -38,25 +87,11 @@
       "ts": 1790010713
     },
     {
-      "source": "Yahoo Finance",
-      "title": "SoftBank Borrows Even More Money for OpenAI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-borrows-even-more-money-170902930.html",
-      "published": "2026-09-21T17:09:02Z",
-      "ts": 1790010542
-    },
-    {
       "source": "FXStreet",
       "title": "BoC’s Macklem sees inflation drifting higher as uncertainty lingers",
       "link": "https://www.fxstreet.com/news/bocs-macklem-sees-inflation-drifting-higher-as-uncertainty-lingers-202609211702",
       "published": "Mon, 21 Sep 2026 17:02:47 GMT",
       "ts": 1790010167
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Drug developer ADARx seeks $1.74 billion valuation in US IPO",
-      "link": "https://finance.yahoo.com/healthcare/articles/drug-developer-adarx-seeks-1-170042280.html",
-      "published": "2026-09-21T17:00:42Z",
-      "ts": 1790010042
     },
     {
       "source": "CoinTelegraph",
@@ -66,25 +101,11 @@
       "ts": 1790009813
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Craneware Gets a Painful Growth Reset",
-      "link": "https://finance.yahoo.com/healthcare/articles/craneware-gets-painful-growth-reset-165632082.html",
-      "published": "2026-09-21T16:56:32Z",
-      "ts": 1790009792
-    },
-    {
       "source": "FXStreet",
       "title": "Dow Jones Industrial Average edges up as Trump floats a meeting with Iran",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-edges-up-as-trump-floats-a-meeting-with-iran-202609211644",
       "published": "Mon, 21 Sep 2026 16:44:24 GMT",
       "ts": 1790009064
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin Clears 50-Week Hurdle as Traders Eye New Bull Market: Analyst",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-clears-50-week-hurdle-164400579.html",
-      "published": "2026-09-21T16:44:00Z",
-      "ts": 1790009040
     },
     {
       "source": "CoinTelegraph",
@@ -106,13 +127,6 @@
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 16:30:00 GMT",
       "ts": 1790008200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meta’s stock is enjoying its best month in more than two years thanks to the company’s hot new AI assistant",
-      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 16:12:00 GMT",
-      "ts": 1790007120
     },
     {
       "source": "FXStreet",
@@ -232,13 +246,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
       "published": "Mon, 21 Sep 2026 14:53:52 +0000",
       "ts": 1790002432
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro struggles against US Dollar as hawkish Fed outlook weighs",
-      "link": "https://www.fxstreet.com/news/euro-struggles-against-us-dollar-as-hawkish-fed-outlook-weighs-202609211444",
-      "published": "Mon, 21 Sep 2026 14:44:35 GMT",
-      "ts": 1790001875
     },
     {
       "source": "Yahoo Finance",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/goldman-sees-hungary-inflation-target-cut-as-positive-for-forint-93CH-4908570",
       "published": "2026-09-21 10:09:50",
       "ts": 1789985390
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Climbs 15% In Rally",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-15-in-rally-4908544",
-      "published": "2026-09-21 10:03:02",
-      "ts": 1789984982
     }
   ]
 }
