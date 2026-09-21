@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-21T10:26:23.809190Z",
+  "updated": "2026-09-21T10:40:22.911685Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
+      "published": "Mon, 21 Sep 2026 10:30:00 +0000",
+      "ts": 1789986600
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc recovery halts with SNB monetary policy coming into focus",
+      "link": "https://www.fxstreet.com/news/swiss-franc-recovery-halts-with-snb-monetary-policy-coming-into-focus-202609211026",
+      "published": "Mon, 21 Sep 2026 10:26:43 GMT",
+      "ts": 1789986403
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Crypto stocks rise premarket as Bitcoin hits over seven-month high",
+      "link": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-rise-premarket-as-bitcoin-hits-over-sevenmonth-high-4908587",
+      "published": "2026-09-21 10:16:07",
+      "ts": 1789985767
+    },
     {
       "source": "MarketWatch",
       "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
@@ -31,11 +52,25 @@
       "ts": 1789985580
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Tesla faces major trial for alleged bias against Black workers, after years of lawsuits",
-      "link": "https://finance.yahoo.com/news/tesla-faces-major-trial-alleged-100649614.html",
-      "published": "2026-09-21T10:06:49Z",
-      "ts": 1789985209
+      "source": "Investing Forex",
+      "title": "EUR/USD outlook: Here’s where ING sees the pair heading",
+      "link": "https://www.investing.com/news/forex-news/eurusd-outlook-heres-where-ing-sees-the-pair-heading-93CH-4908572",
+      "published": "2026-09-21 10:10:48",
+      "ts": 1789985448
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Goldman sees Hungary inflation target cut as positive for forint",
+      "link": "https://www.investing.com/news/forex-news/goldman-sees-hungary-inflation-target-cut-as-positive-for-forint-93CH-4908570",
+      "published": "2026-09-21 10:09:50",
+      "ts": 1789985390
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 15% In Rally",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-15-in-rally-4908544",
+      "published": "2026-09-21 10:03:02",
+      "ts": 1789984982
     },
     {
       "source": "Yahoo Finance",
@@ -46,15 +81,15 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
-      "link": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
+      "title": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
       "published": "2026-09-21T10:00:00Z",
       "ts": 1789984800
     },
     {
       "source": "Yahoo Finance",
-      "title": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
+      "title": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
+      "link": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
       "published": "2026-09-21T10:00:00Z",
       "ts": 1789984800
     },
@@ -113,6 +148,13 @@
       "link": "https://www.fxstreet.com/news/silver-price-today-silver-broadly-unchanged-according-to-fxstreet-data-202609210932",
       "published": "Mon, 21 Sep 2026 09:32:05 GMT",
       "ts": 1789983125
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
+      "link": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html",
+      "published": "2026-09-21T09:30:00Z",
+      "ts": 1789983000
     },
     {
       "source": "FXStreet",
@@ -276,13 +318,6 @@
       "ts": 1789968993
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee remains supported by correcting oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-starts-positive-as-oil-prices-fall-further-202609210526",
-      "published": "Mon, 21 Sep 2026 05:26:10 GMT",
-      "ts": 1789968370
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -386,41 +421,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
       "published": "2026-09-20T14:07:00Z",
       "ts": 1789913220
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
-      "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
-      "published": "2026-09-20 14:00:37",
-      "ts": 1789912837
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
-      "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 20 Sep 2026 12:00:52 +0000",
-      "ts": 1789905652
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
-      "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
-      "published": "Sun, 20 Sep 2026 12:00:00 +0000",
-      "ts": 1789905600
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
-      "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
-      "published": "Sun, 20 Sep 2026 12:00:00 +0000",
-      "ts": 1789905600
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Falls 11% In Rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4908157",
-      "published": "2026-09-20 10:17:05",
-      "ts": 1789899425
     }
   ]
 }
