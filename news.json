@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-21T18:30:32.567547Z",
+  "updated": "2026-09-21T18:54:32.332540Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Inflation keeps MAS tightening risk alive - Commerzbank",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-inflation-keeps-mas-tightening-risk-alive-commerzbank-202609211851",
+      "published": "Mon, 21 Sep 2026 18:51:00 GMT",
+      "ts": 1790016660
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed's Musalem calls for more rate hikes",
+      "link": "https://www.fxstreet.com/news/feds-musalem-calls-for-more-rate-hikes-202609211846",
+      "published": "Mon, 21 Sep 2026 18:46:03 GMT",
+      "ts": 1790016363
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ondo lets institutions convert stocks directly into tokenized shares",
+      "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 18:35:43 +0000",
+      "ts": 1790015743
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 18:30:00 GMT",
+      "ts": 1790015400
+    },
     {
       "source": "CoinTelegraph",
       "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again: NYT",
@@ -150,13 +178,6 @@
       "ts": 1790005140
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss Franc advances after recent sell-off, SNB in focus",
-      "link": "https://www.fxstreet.com/news/swiss-franc-advances-against-us-dollar-after-recent-sell-off-snb-in-focus-202609211537",
-      "published": "Mon, 21 Sep 2026 15:37:42 GMT",
-      "ts": 1790005062
-    },
-    {
       "source": "Investing Crypto",
       "title": "CryptoPawn Launches Protocol Integration Allowing Authorized AI Agents to Participate in Crypto-Backed Loan Transactions",
       "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
@@ -176,13 +197,6 @@
       "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 15:22:00 GMT",
       "ts": 1790004120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I just started dating someone I really like, but he’s moving to Mexico for six months. Should I spend the money to visit him?",
-      "link": "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 15:19:00 GMT",
-      "ts": 1790003940
     },
     {
       "source": "CoinTelegraph",
@@ -318,13 +332,6 @@
       "ts": 1789989535
     },
     {
-      "source": "FXStreet",
-      "title": "Gold struggles near $4,350 as hawksih Fed outlook supports the Greenback",
-      "link": "https://www.fxstreet.com/news/gold-starts-week-on-the-back-foot-as-us-dollar-holds-firm-oil-decline-limits-losses-202609211110",
-      "published": "Mon, 21 Sep 2026 11:10:59 GMT",
-      "ts": 1789989059
-    },
-    {
       "source": "Investing Forex",
       "title": "As lines grow at banks, Cuba tiptoes away from communism but stability seems distant",
       "link": "https://www.investing.com/news/forex-news/as-lines-grow-at-banks-cuba-tiptoes-away-from-communism-but-stability-seems-distant-4908748",
@@ -381,13 +388,6 @@
       "ts": 1789984982
     },
     {
-      "source": "CoinTelegraph",
-      "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
-      "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 09:35:25 +0000",
-      "ts": 1789983325
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound edges lower as oil, Fed hike bets underpin dollar",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-lower-as-oil-fed-hike-bets-underpin-dollar-4908483",
@@ -417,7 +417,7 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Burger chain's breakfast is disappearing one restaurant at a time",
+      "title": "Burger chain cancels breakfast at hundreds of restaurants",
       "link": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
       "published": "2026-09-21T04:15:19Z",
       "ts": 1789964119
