@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-21T13:40:53.429355Z",
+  "updated": "2026-09-21T13:54:11.928046Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Strategy Buys $75 Million of Bitcoin As Price Rallies",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-buys-75-million-bitcoin-134300104.html",
+      "published": "2026-09-21T13:43:00Z",
+      "ts": 1789998180
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Warner Bros. Discovery Jumps 7%, Paramount Skydance Climbs 5% as Antitrust Settlement Talks Advance; Netflix Sits Out the Rally",
+      "link": "https://finance.yahoo.com/media-advertising/articles/warner-bros-discovery-jumps-7-134236689.html",
+      "published": "2026-09-21T13:42:36Z",
+      "ts": 1789998156
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Paramount, Warner Bros shares rally on reports of merger settlement talks advancing",
+      "link": "https://finance.yahoo.com/markets/article/paramount-warner-bros-shares-rally-on-reports-of-merger-settlement-talks-advancing-134233954.html",
+      "published": "2026-09-21T13:42:33Z",
+      "ts": 1789998153
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro steadies vs British Pound as German political uncertainty, PMIs cap direction",
+      "link": "https://www.fxstreet.com/news/euro-steadies-vs-british-pound-as-german-political-uncertainty-pmis-cap-direction-202609211342",
+      "published": "Mon, 21 Sep 2026 13:42:30 GMT",
+      "ts": 1789998150
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Phillips 66 Is Minting Money on $102 Diesel Margins. How Long Can It Last?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-minting-money-102-134040343.html",
+      "published": "2026-09-21T13:40:40Z",
+      "ts": 1789998040
+    },
     {
       "source": "FXStreet",
       "title": "Indian Rupee: AI imports add pressure against US Dollar – Standard Chartered",
@@ -10,11 +45,32 @@
       "ts": 1789997952
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Michael Saylor's Strategy jumps as the company says it bought more bitcoin",
+      "link": "https://finance.yahoo.com/markets/article/michael-saylors-strategy-jumps-as-the-company-says-it-bought-more-bitcoin-133538866.html",
+      "published": "2026-09-21T13:35:38Z",
+      "ts": 1789997738
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Gold prices today, Monday, September 21, 2026: Gold prices slip on Middle East tensions",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-21-2026-gold-prices-slip-on-middle-east-tensions-133531697.html",
+      "published": "2026-09-21T13:35:31Z",
+      "ts": 1789997731
+    },
+    {
       "source": "MarketWatch",
       "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
       "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 13:32:00 GMT",
       "ts": 1789997520
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oura targets $15.62 billion valuation in US IPO, setting stage for fall listings",
+      "link": "https://finance.yahoo.com/technology/articles/oura-targets-15-62-billion-133100430.html",
+      "published": "2026-09-21T13:31:00Z",
+      "ts": 1789997460
     },
     {
       "source": "CoinTelegraph",
@@ -45,41 +101,6 @@
       "ts": 1789996866
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Clorox vs. Kimberly-Clark: Which Household Staples Dividend Is Safer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/clorox-vs-kimberly-clark-household-131924678.html",
-      "published": "2026-09-21T13:19:24Z",
-      "ts": 1789996764
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Short Seller Reports Drag Ensign Group (ENSG) Down",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/short-seller-reports-drag-ensign-131917317.html",
-      "published": "2026-09-21T13:19:17Z",
-      "ts": 1789996757
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Should You Be Bullish on Fastly (FSLY)?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bullish-fastly-fsly-131746101.html",
-      "published": "2026-09-21T13:17:46Z",
-      "ts": 1789996666
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BillionToOne SVP Sells 1,416 Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billiontoone-svp-sells-1-416-131601502.html",
-      "published": "2026-09-21T13:16:01Z",
-      "ts": 1789996561
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Below-Expected Earnings Pressured Shake Shack (SHAK) in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/below-expected-earnings-pressured-shake-131531191.html",
-      "published": "2026-09-21T13:15:31Z",
-      "ts": 1789996531
-    },
-    {
       "source": "FXStreet",
       "title": "Gold: CTA whipsaws but support holds – TD Securities",
       "link": "https://www.fxstreet.com/news/gold-cta-whipsaws-but-support-holds-td-securities-202609211314",
@@ -94,25 +115,11 @@
       "ts": 1789996275
     },
     {
-      "source": "Yahoo Finance",
-      "title": "The resilient stock market is flashing warning signs",
-      "link": "https://finance.yahoo.com/markets/article/the-resilient-stock-market-is-flashing-warning-signs-130213993.html",
-      "published": "2026-09-21T13:02:13Z",
-      "ts": 1789995733
-    },
-    {
       "source": "FXStreet",
       "title": "Canadian Dollar remains under pressure as hawkish Fed contrasts with steady BoC",
       "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-as-hawkish-fed-contrasts-with-steady-boc-202609211253",
       "published": "Mon, 21 Sep 2026 12:53:51 GMT",
       "ts": 1789995231
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T12:52:00Z",
-      "ts": 1789995120
     },
     {
       "source": "MarketWatch",
@@ -218,13 +225,6 @@
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecasts-bears-remain-in-control-with-11450-support-eyed-202609211158",
       "published": "Mon, 21 Sep 2026 11:58:05 GMT",
       "ts": 1789991885
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso: Sideways range against US Dollar intact – Rabobank",
-      "link": "https://www.fxstreet.com/news/mexican-peso-sideways-range-against-us-dollar-intact-rabobank-202609211151",
-      "published": "Mon, 21 Sep 2026 11:51:31 GMT",
-      "ts": 1789991491
     },
     {
       "source": "MarketWatch",
