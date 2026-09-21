@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-21T09:30:37.439282Z",
+  "updated": "2026-09-21T09:52:27.348179Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI Oil dips below $94.00 amid reports of higher Saudi crude supplies",
+      "link": "https://www.fxstreet.com/news/wti-oil-dips-below-9400-amid-reports-of-higher-saudi-crude-supplies-202609210940",
+      "published": "Mon, 21 Sep 2026 09:40:29 GMT",
+      "ts": 1789983629
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
+      "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 09:35:25 +0000",
+      "ts": 1789983325
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin jumps above $84k as tokenized-stock move boosts crypto sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
+      "published": "2026-09-21 09:32:16",
+      "ts": 1789983136
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver broadly unchanged, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-broadly-unchanged-according-to-fxstreet-data-202609210932",
+      "published": "Mon, 21 Sep 2026 09:32:05 GMT",
+      "ts": 1789983125
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
+      "link": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html",
+      "published": "2026-09-21T09:30:00Z",
+      "ts": 1789983000
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar rises vs Japanese Yen on diverging RBA, BoJ policy outlooks",
@@ -32,8 +67,8 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Novo Nordisk stock gets drilled on pipeline concerns -- its CEO sees this as the main problem",
-      "link": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns----its-ceo-sees-this-as-the-main-problem-091933221.html",
+      "title": "Novo Nordisk stock gets drilled on pipeline concerns— its CEO sees this as the main problem",
+      "link": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns-its-ceo-sees-this-as-the-main-problem-091933221.html",
       "published": "2026-09-21T09:19:33Z",
       "ts": 1789982373
     },
@@ -67,15 +102,15 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Brookfield eyes small tickets, high returns with its $5B Catalytic Transition Fund",
-      "link": "https://finance.yahoo.com/energy/articles/brookfield-eyes-small-tickets-high-090000623.html",
+      "title": "My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now?",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/mom-opened-credit-card-name-090000564.html",
       "published": "2026-09-21T09:00:00Z",
       "ts": 1789981200
     },
     {
       "source": "Yahoo Finance",
-      "title": "My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now?",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/mom-opened-credit-card-name-090000564.html",
+      "title": "Brookfield eyes small tickets, high returns with its $5B Catalytic Transition Fund",
+      "link": "https://finance.yahoo.com/energy/articles/brookfield-eyes-small-tickets-high-090000623.html",
       "published": "2026-09-21T09:00:00Z",
       "ts": 1789981200
     },
@@ -137,24 +172,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rockets above $83,500 as falling oil lifts risk assets",
+      "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
       "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
       "published": "Mon, 21 Sep 2026 08:39:26 +0000",
       "ts": 1789979966
-    },
-    {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: Sees fresh downside leg below 0.5700",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-sees-fresh-downside-leg-below-05700-202609210835",
-      "published": "Mon, 21 Sep 2026 08:35:11 GMT",
-      "ts": 1789979711
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures rise as lower crude oil prices improve market sentiment",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-lower-crude-oil-prices-improve-market-sentiment-202609210832",
-      "published": "Mon, 21 Sep 2026 08:32:02 GMT",
-      "ts": 1789979522
     },
     {
       "source": "Yahoo Finance",
@@ -206,13 +227,6 @@
       "ts": 1789972883
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin climbs toward $82k as tokenized-stock move boosts crypto sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
-      "published": "2026-09-21 06:39:48",
-      "ts": 1789972788
-    },
-    {
       "source": "CoinDesk",
       "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
       "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
@@ -232,13 +246,6 @@
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-fed-hike-bets-and-geopolitics-lift-usd-ahead-of-trump-xi-summit-202609210536",
       "published": "Mon, 21 Sep 2026 05:36:33 GMT",
       "ts": 1789968993
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Most Qorvo (QRVO) Bondholders Said Yes, but Skyworks (SWKS) Is Still Waiting",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/most-qorvo-qrvo-bondholders-said-053624051.html",
-      "published": "2026-09-21T05:36:24Z",
-      "ts": 1789968984
     },
     {
       "source": "FXStreet",
@@ -407,13 +414,6 @@
       "link": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 20 Sep 2026 09:14:27 +0000",
       "ts": 1789895667
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
-      "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 20 Sep 2026 07:51:24 +0000",
-      "ts": 1789890684
     },
     {
       "source": "Yahoo Finance",
