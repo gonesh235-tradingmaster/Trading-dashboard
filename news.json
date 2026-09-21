@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-21T08:45:09.775350Z",
+  "updated": "2026-09-21T08:56:41.992924Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound strengthens vs weak Yen; upside seems capped amid intervention risks",
+      "link": "https://www.fxstreet.com/news/british-pound-strengthens-vs-weak-yen-upside-seems-capped-amid-intervention-risks-202609210854",
+      "published": "Mon, 21 Sep 2026 08:54:43 GMT",
+      "ts": 1789980883
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro holds gains against Canadian Dollar amid lower oil prices",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-against-canadian-dollar-amid-lower-oil-prices-202609210853",
+      "published": "Mon, 21 Sep 2026 08:53:45 GMT",
+      "ts": 1789980825
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+      "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
+      "published": "Mon, 21 Sep 2026 08:49:59 +0000",
+      "ts": 1789980599
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen: Volatility focus after BoJ – MUFG",
@@ -52,27 +73,6 @@
       "ts": 1789978190
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound sticks to losses vs firmer USD as Fed-BoE divergence favors bears",
-      "link": "https://www.fxstreet.com/news/british-pound-sticks-to-losses-vs-firmer-usd-as-fed-boe-divergence-favors-bears-202609210800",
-      "published": "Mon, 21 Sep 2026 08:00:54 GMT",
-      "ts": 1789977654
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Trades near 180.50 after breaking above nine-day EMA",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-trades-near-18050-after-breaking-above-nine-day-ema-202609210753",
-      "published": "Mon, 21 Sep 2026 07:53:48 GMT",
-      "ts": 1789977228
-    },
-    {
-      "source": "FXStreet",
-      "title": "Equities: Strong rebound supported by earnings growth – Danske Bank",
-      "link": "https://www.fxstreet.com/news/equities-strong-rebound-supported-by-earnings-growth-danske-bank-202609210749",
-      "published": "Mon, 21 Sep 2026 07:49:36 GMT",
-      "ts": 1789976976
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro zone yields ease as markets await of ECB’s Lagarde speech",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
@@ -120,6 +120,13 @@
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-fed-hike-bets-and-geopolitics-lift-usd-ahead-of-trump-xi-summit-202609210536",
       "published": "Mon, 21 Sep 2026 05:36:33 GMT",
       "ts": 1789968993
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee remains supported by correcting oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-starts-positive-as-oil-prices-fall-further-202609210526",
+      "published": "Mon, 21 Sep 2026 05:26:10 GMT",
+      "ts": 1789968370
     },
     {
       "source": "CoinTelegraph",
@@ -388,23 +395,16 @@
       "ts": 1789826400
     },
     {
-      "source": "CoinDesk",
-      "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-      "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
-      "published": "Sat, 19 Sep 2026 13:39:15 +0000",
-      "ts": 1789825155
-    },
-    {
       "source": "Yahoo Finance",
-      "title": "Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-19-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000984.html",
+      "title": "Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-19-2026-mortgage-rates-move-lower-to-start-the-weekend-100000254.html",
       "published": "2026-09-19T10:00:00Z",
       "ts": 1789812000
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-19-2026-mortgage-rates-move-lower-to-start-the-weekend-100000254.html",
+      "title": "Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-19-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000984.html",
       "published": "2026-09-19T10:00:00Z",
       "ts": 1789812000
     },
