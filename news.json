@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T17:23:00.014373Z",
+  "updated": "2026-09-21T17:38:19.394508Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
+      "link": "https://www.investors.com/news/technology/chip-stocks-amd-stock-four-new-names-join-sox-index/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T17:19:56Z",
+      "ts": 1790011196
+    },
     {
       "source": "Investing Forex",
       "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
@@ -22,6 +29,20 @@
       "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 17:12:00 GMT",
       "ts": 1790010720
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Brazil to use Uruguay's surplus of beef export quota to China, Lula says",
+      "link": "https://finance.yahoo.com/economy/policy/articles/brazil-uruguays-surplus-beef-export-171153710.html",
+      "published": "2026-09-21T17:11:53Z",
+      "ts": 1790010713
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SoftBank Borrows Even More Money for OpenAI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-borrows-even-more-money-170902930.html",
+      "published": "2026-09-21T17:09:02Z",
+      "ts": 1790010542
     },
     {
       "source": "FXStreet",
@@ -85,27 +106,6 @@
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 16:30:00 GMT",
       "ts": 1790008200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI Leader AMD Breaks Out Past New Buy Point With This Bullish Signal",
-      "link": "https://www.investors.com/research/amd-stock-advanced-micro-devices/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T16:26:46Z",
-      "ts": 1790008006
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Bearish Netflix Stock Trade Can Cash In On Video Streaming Giant's Woes",
-      "link": "https://www.investors.com/research/options/netflix-nflx-stock-bear-put-spread-options/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T16:20:08Z",
-      "ts": 1790007608
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/amd-stock-soars-to-new-record-as-semiconductors-bounce-chart-of-the-day-161627271.html",
-      "published": "2026-09-21T16:16:27Z",
-      "ts": 1790007387
     },
     {
       "source": "MarketWatch",
