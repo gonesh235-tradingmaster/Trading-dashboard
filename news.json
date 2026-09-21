@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T19:09:10.362304Z",
+  "updated": "2026-09-21T19:25:32.370811Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Brent: Supply risks contrast softer prices – ING",
+      "link": "https://www.fxstreet.com/news/brent-supply-risks-contrast-softer-prices-ing-202609211912",
+      "published": "Mon, 21 Sep 2026 19:12:00 GMT",
+      "ts": 1790017920
+    },
     {
       "source": "CoinDesk",
       "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
@@ -155,13 +162,6 @@
       "link": "https://www.fxstreet.com/news/bocs-macklem-rate-decisions-must-look-beyond-initial-oil-shock-202609211609",
       "published": "Mon, 21 Sep 2026 16:09:53 GMT",
       "ts": 1790006993
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Oil extends losing streak as resilient Saudi exports outweigh Middle East risk premium",
-      "link": "https://www.fxstreet.com/news/wti-oil-extends-losing-streak-as-resilient-saudi-exports-outweigh-middle-east-risk-premium-202609211606",
-      "published": "Mon, 21 Sep 2026 16:06:14 GMT",
-      "ts": 1790006774
     },
     {
       "source": "CoinDesk",
