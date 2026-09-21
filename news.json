@@ -1,7 +1,91 @@
 {
-  "updated": "2026-09-21T12:31:55.213619Z",
+  "updated": "2026-09-21T12:53:34.103727Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Record diesel prices are exposing pain points in the stock market and economy",
+      "link": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 12:50:00 GMT",
+      "ts": 1789995000
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Oil-driven support as Fed seen hiking – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-oil-driven-support-as-fed-seen-hiking-ing-202609211248",
+      "published": "Mon, 21 Sep 2026 12:48:30 GMT",
+      "ts": 1789994910
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Veeco Instruments (VECO): Results Far Exceed Expectations Amid Memory Capacity Boom",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/veeco-instruments-veco-results-far-123608566.html",
+      "published": "2026-09-21T12:36:08Z",
+      "ts": 1789994168
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "This Strategy Sees Value in Methanex (MEOH) Despite a Near-Term Cash Flow Pullback",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-sees-value-methanex-meoh-123337498.html",
+      "published": "2026-09-21T12:33:37Z",
+      "ts": 1789994017
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tariffs, fuel costs, and rising rates squeeze U.S. manufacturers",
+      "link": "https://finance.yahoo.com/economy/policy/articles/tariffs-fuel-costs-rising-rates-123314726.html",
+      "published": "2026-09-21T12:33:14Z",
+      "ts": 1789993994
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Montgomery v. Caribe Supercharges Knight-Swift’s (KNX) Scale Advantage",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/montgomery-v-caribe-supercharges-knight-123210361.html",
+      "published": "2026-09-21T12:32:10Z",
+      "ts": 1789993930
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nobody Wants to Inherit a Villages Home. Here’s What It Costs the Kids When They Do",
+      "link": "https://finance.yahoo.com/real-estate/articles/nobody-wants-inherit-villages-home-123147292.html",
+      "published": "2026-09-21T12:31:47Z",
+      "ts": 1789993907
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Here’s Why This Strategy Decided to Exit Charles River Laboratories (CRL)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-decided-exit-charles-123056495.html",
+      "published": "2026-09-21T12:30:56Z",
+      "ts": 1789993856
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "11 Texas condo owners pay $800 per month in HOA fees 5 years after a fire destroyed units they've yet to return to",
+      "link": "https://finance.yahoo.com/real-estate/articles/11-texas-condo-owners-pay-123000155.html",
+      "published": "2026-09-21T12:30:00Z",
+      "ts": 1789993800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tokenized-equities-ai-disruption-threaten-122633931.html",
+      "published": "2026-09-21T12:26:33Z",
+      "ts": 1789993593
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Climbs 10% In a Green Day",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-a-green-day-4908996",
+      "published": "2026-09-21 12:26:02",
+      "ts": 1789993562
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jack Henry & Associates (JKHY): Why Disruption Risks Appear Overstated",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jack-henry-associates-jkhy-why-122322388.html",
+      "published": "2026-09-21T12:23:22Z",
+      "ts": 1789993402
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen: BoJ hike underwhelms as yields drive JPY against US Dollar – OCBC",
@@ -11,10 +95,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Saudi Central Bank leaves China-led digital currency initiative",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/saudi-central-bank-leaves-china-121900552.html",
-      "published": "2026-09-21T12:19:00Z",
-      "ts": 1789993140
+      "title": "Motorola Solutions (MSI) Powering Essential Communications for First Responders",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/motorola-solutions-msi-powering-essential-122202340.html",
+      "published": "2026-09-21T12:22:02Z",
+      "ts": 1789993322
     },
     {
       "source": "CoinDesk",
@@ -29,13 +113,6 @@
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 12:15:00 GMT",
       "ts": 1789992900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Worried About Hugging Face? Microsoft and Amazon Got Exposed Most Among Hyperscalers",
-      "link": "https://finance.yahoo.com/technology/ai/articles/worried-hugging-face-microsoft-amazon-121222004.html",
-      "published": "2026-09-21T12:12:22Z",
-      "ts": 1789992742
     },
     {
       "source": "FXStreet",
@@ -73,13 +150,6 @@
       "ts": 1789992242
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T11:59:26Z",
-      "ts": 1789991966
-    },
-    {
       "source": "FXStreet",
       "title": "Silver price edges up as lower Oil, guarded Fed stance temper upside",
       "link": "https://www.fxstreet.com/news/silver-price-edges-up-as-lower-oil-guarded-fed-stance-temper-upside-202609211158",
@@ -94,32 +164,11 @@
       "ts": 1789991885
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Kevin O'Leary sold his software company for $4.2 billion, so why did he only walk away with about $11 million?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-sold-software-company-115500725.html",
-      "published": "2026-09-21T11:55:00Z",
-      "ts": 1789991700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nscale, Rival Of CoreWeave And Nebius, Files For IPO",
-      "link": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T11:53:06Z",
-      "ts": 1789991586
-    },
-    {
       "source": "FXStreet",
       "title": "Mexican Peso: Sideways range against US Dollar intact – Rabobank",
       "link": "https://www.fxstreet.com/news/mexican-peso-sideways-range-against-us-dollar-intact-rabobank-202609211151",
       "published": "Mon, 21 Sep 2026 11:51:31 GMT",
       "ts": 1789991491
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/four-launches-100-rocket-lab-115117949.html",
-      "published": "2026-09-21T11:51:17Z",
-      "ts": 1789991477
     },
     {
       "source": "FXStreet",
@@ -136,25 +185,11 @@
       "ts": 1789991340
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Boeing and Lockheed Martin Both Cash In on the Pentagon’s Contract Calendar",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-lockheed-martin-both-cash-114654499.html",
-      "published": "2026-09-21T11:46:54Z",
-      "ts": 1789991214
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
       "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
       "published": "Mon, 21 Sep 2026 11:36:11 +0000",
       "ts": 1789990571
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "“Who Can Imagine What Action One Might Take”: Musk’s Latest Non-Answer Sends Tesla and SpaceX Higher",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/imagine-action-one-might-musk-113510252.html",
-      "published": "2026-09-21T11:35:10Z",
-      "ts": 1789990510
     },
     {
       "source": "FXStreet",
@@ -168,13 +203,6 @@
       "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
       "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
       "published": "Mon, 21 Sep 2026 11:30:00 +0000",
-      "ts": 1789990200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘I just want out’: Billionaire Jeffrey Gundlach says you should have ‘almost nothing’ in AI stocks — what to buy instead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/just-want-billionaire-jeffrey-gundlach-113000010.html",
-      "published": "2026-09-21T11:30:00Z",
       "ts": 1789990200
     },
     {
@@ -218,13 +246,6 @@
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 11:15:00 GMT",
       "ts": 1789989300
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Goolsbee: Demand, tariffs, energy, supply shocks all are fuelling inflation",
-      "link": "https://www.fxstreet.com/news/feds-goolsbee-demand-tariffs-energy-supply-shocks-all-are-fuelling-inflation-202609211113",
-      "published": "Mon, 21 Sep 2026 11:13:18 GMT",
-      "ts": 1789989198
     },
     {
       "source": "Investing Forex",
@@ -360,13 +381,6 @@
       "ts": 1789981500
     },
     {
-      "source": "MarketWatch",
-      "title": "Steven Spielberg lists longtime L.A. equestrian ranch for $30 million",
-      "link": "https://www.marketwatch.com/story/steven-spielberg-lists-longtime-l-a-equestrian-ranch-for-30-million-2209cbb4?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 09:03:00 GMT",
-      "ts": 1789981380
-    },
-    {
       "source": "Investing Forex",
       "title": "Deutsche Bank sees dollar decline continuing on FX outlook",
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
@@ -395,13 +409,6 @@
       "ts": 1789979966
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
-      "published": "2026-09-21T08:02:14Z",
-      "ts": 1789977734
-    },
-    {
       "source": "CoinTelegraph",
       "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
       "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-21 07:12:04",
       "ts": 1789974724
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
-      "link": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 06:41:23 +0000",
-      "ts": 1789972883
     }
   ]
 }
