@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-21T01:09:48.245572Z",
+  "updated": "2026-09-21T01:26:25.809935Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7487 vs. 6.7521 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67487-vs-67521-previous-202609210115",
+      "published": "Mon, 21 Sep 2026 01:15:28 GMT",
+      "ts": 1789953328
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Treasury Secretary Bessent says had a very successful engagement with China on trade and AI",
+      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-says-had-a-very-successful-engagement-with-china-on-trade-and-ai-202609210114",
+      "published": "Mon, 21 Sep 2026 01:14:07 GMT",
+      "ts": 1789953247
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen bulls seem hesitant amid BoJ's dovish rate hike as Fed bets support USD",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bulls-seem-hesitant-amid-bojs-dovish-rate-hike-as-fed-bets-support-usd-202609210112",
+      "published": "Mon, 21 Sep 2026 01:12:12 GMT",
+      "ts": 1789953132
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound slips as hawkish Fed outlook boosts US Dollar",
+      "link": "https://www.fxstreet.com/news/british-pound-slips-as-hawkish-fed-outlook-boosts-us-dollar-202609210110",
+      "published": "Mon, 21 Sep 2026 01:10:08 GMT",
+      "ts": 1789953008
+    },
     {
       "source": "FXStreet",
       "title": "Euro edges higher above 1.1450 despite Fed hawkish stance",
@@ -235,6 +263,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Netflix (NFLX) Gets a Bullish $110 Target: What’s Driving the Outlook?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-gets-bullish-110-155252131.html",
+      "published": "2026-09-19T15:52:52Z",
+      "ts": 1789833172
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "No Degree, No Problem: Why the Job Market Is Booming for Americans Without College Degrees",
       "link": "https://finance.yahoo.com/economy/articles/no-degree-no-problem-why-153002314.html",
       "published": "2026-09-19T15:30:02Z",
@@ -297,13 +332,6 @@
       "ts": 1789824443
     },
     {
-      "source": "Yahoo Finance",
-      "title": "The Bond Market is Back. Here’s What TLT Bagholders Need to Know.",
-      "link": "https://finance.yahoo.com/markets/options/articles/bond-market-back-tlt-bagholders-131502737.html",
-      "published": "2026-09-19T13:15:02Z",
-      "ts": 1789823702
-    },
-    {
       "source": "CoinDesk",
       "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
       "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
@@ -358,34 +386,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4908042",
       "published": "2026-09-19 02:45:02",
       "ts": 1789785902
-    },
-    {
-      "source": "FXStreet",
-      "title": "Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-mildly-hawkish-cbc-but-flows-drive-ocbc-202609182355",
-      "published": "Fri, 18 Sep 2026 23:55:00 GMT",
-      "ts": 1789775700
-    },
-    {
-      "source": "FXStreet",
-      "title": "Taiwan Dollar: CBC holds rates but flags inflation risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-cbc-holds-rates-but-flags-inflation-risks-commerzbank-202609182332",
-      "published": "Fri, 18 Sep 2026 23:32:00 GMT",
-      "ts": 1789774320
-    },
-    {
-      "source": "FXStreet",
-      "title": "South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/south-korean-won-foreign-equity-flows-keep-krw-heavy-against-us-dollar-ocbc-202609182327",
-      "published": "Fri, 18 Sep 2026 23:27:00 GMT",
-      "ts": 1789774020
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-202609182307",
-      "published": "Fri, 18 Sep 2026 23:07:00 GMT",
-      "ts": 1789772820
     },
     {
       "source": "Investing Crypto",
