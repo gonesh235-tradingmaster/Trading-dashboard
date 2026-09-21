@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-21T23:38:36.003213Z",
+  "updated": "2026-09-21T23:50:35.380326Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "ECB’s Lane says energy shock could delay inflation’s return to 2%",
+      "link": "https://www.fxstreet.com/news/ecbs-lane-says-energy-shock-could-delay-inflations-return-to-2-202609212347",
+      "published": "Mon, 21 Sep 2026 23:47:09 GMT",
+      "ts": 1790034429
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar holds its nerve as Fed hawks meet RBA hike bets",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-its-nerve-as-fed-hawks-meet-rba-hike-bets-202609212339",
+      "published": "Mon, 21 Sep 2026 23:39:52 GMT",
+      "ts": 1790033992
+    },
     {
       "source": "FXStreet",
       "title": "Iranian President will head to New York for UN meeting",
@@ -171,25 +185,11 @@
       "ts": 1790021880
     },
     {
-      "source": "FXStreet",
-      "title": "Gold price retraces as Fed hawks keep the US Dollar bid",
-      "link": "https://www.fxstreet.com/news/gold-price-retraces-as-fed-hawks-keep-the-us-dollar-bid-202609212010",
-      "published": "Mon, 21 Sep 2026 20:10:00 GMT",
-      "ts": 1790021400
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 19:53:04 +0000",
       "ts": 1790020384
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah: Policy continuity offsets but cannot erase external headwinds – OCBC",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-policy-continuity-offsets-but-cannot-erase-external-headwinds-ocbc-202609211937",
-      "published": "Mon, 21 Sep 2026 19:37:00 GMT",
-      "ts": 1790019420
     },
     {
       "source": "Investing Crypto",
