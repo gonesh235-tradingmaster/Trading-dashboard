@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-21T00:55:13.672362Z",
+  "updated": "2026-09-21T01:09:48.245572Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro edges higher above 1.1450 despite Fed hawkish stance",
+      "link": "https://www.fxstreet.com/news/euro-edges-higher-above-11450-despite-fed-hawkish-stance-202609210103",
+      "published": "Mon, 21 Sep 2026 01:03:09 GMT",
+      "ts": 1789952589
+    },
+    {
+      "source": "FXStreet",
+      "title": "Confirmed: PBOC leaves Loan Prime Rates unchanged in September",
+      "link": "https://www.fxstreet.com/news/confirmed-pboc-leaves-loan-prime-rates-unchanged-in-september-202609210100",
+      "published": "Mon, 21 Sep 2026 01:00:55 GMT",
+      "ts": 1789952455
+    },
     {
       "source": "FXStreet",
       "title": "Fed’s Kashkari: Inflation is still too high in “all aspects” of US economy",
@@ -221,6 +235,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "No Degree, No Problem: Why the Job Market Is Booming for Americans Without College Degrees",
+      "link": "https://finance.yahoo.com/economy/articles/no-degree-no-problem-why-153002314.html",
+      "published": "2026-09-19T15:30:02Z",
+      "ts": 1789831802
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Before You Conclude the AI Era Won’t End Like the Dot-Com Era Did, Check Out These 2 Charts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/conclude-ai-era-won-t-150002323.html",
+      "published": "2026-09-19T15:00:02Z",
+      "ts": 1789830002
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Follow Soon",
+      "link": "https://finance.yahoo.com/technology/ai/articles/1-microsoft-deal-iren-delivering-142734921.html",
+      "published": "2026-09-19T14:27:34Z",
+      "ts": 1789828054
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is This A $20 Million Reason to Buy Infleqtion Stock Now?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/20-million-reason-buy-infleqtion-140725770.html",
       "published": "2026-09-19T14:07:25Z",
@@ -267,20 +302,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/bond-market-back-tlt-bagholders-131502737.html",
       "published": "2026-09-19T13:15:02Z",
       "ts": 1789823702
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wall Street’s Favorite Safe Haven Could Be In Trouble. How Investors Should Play Gold Here.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/wall-street-favorite-safe-haven-130003037.html",
-      "published": "2026-09-19T13:00:03Z",
-      "ts": 1789822803
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dave Ramsey Told 1 Caller, ‘Hold on to the Cash. We’re Not Gonna Pay Off the House,’ But 5 Months Later Told Another to Pay It Off That Night. Here’s Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-told-1-caller-130002244.html",
-      "published": "2026-09-19T13:00:02Z",
-      "ts": 1789822802
     },
     {
       "source": "CoinDesk",
@@ -374,20 +395,6 @@
       "ts": 1789768191
     },
     {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-strong-nodx-but-usd-still-drives-usd-sgd-ocbc-202609182149",
-      "published": "Fri, 18 Sep 2026 21:49:00 GMT",
-      "ts": 1789768140
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-after-07100-break-202609182116",
-      "published": "Fri, 18 Sep 2026 21:16:51 GMT",
-      "ts": 1789766211
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -414,13 +421,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
       "published": "Fri, 18 Sep 2026 15:16:37 +0000",
       "ts": 1789744597
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Why is Bitcoin US Dollar stock climbing today?",
-      "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
-      "published": "2026-09-18 13:06:16",
-      "ts": 1789736776
     }
   ]
 }
