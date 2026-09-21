@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-21T12:53:34.103727Z",
+  "updated": "2026-09-21T13:09:18.564004Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "AI giants sued in California over alleged illegal pact to slow AI development",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-giants-sued-california-over-125933830.html",
+      "published": "2026-09-21T12:59:33Z",
+      "ts": 1789995573
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Is Bitcoin Up Today? It Closed Above Its 50-Week Average for the First Time in 45 Weeks.",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-today-closed-above-125755691.html",
+      "published": "2026-09-21T12:57:55Z",
+      "ts": 1789995475
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar remains under pressure as hawkish Fed contrasts with steady BoC",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-as-hawkish-fed-contrasts-with-steady-boc-202609211253",
+      "published": "Mon, 21 Sep 2026 12:53:51 GMT",
+      "ts": 1789995231
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T12:52:00Z",
+      "ts": 1789995120
+    },
     {
       "source": "MarketWatch",
       "title": "Record diesel prices are exposing pain points in the stock market and economy",
@@ -15,6 +43,34 @@
       "link": "https://www.fxstreet.com/news/us-dollar-oil-driven-support-as-fed-seen-hiking-ing-202609211248",
       "published": "Mon, 21 Sep 2026 12:48:30 GMT",
       "ts": 1789994910
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
+      "link": "https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 12:48:21 +0000",
+      "ts": 1789994901
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Scott Bessent champions dollar dominance across global markets and stablecoins",
+      "link": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
+      "published": "Mon, 21 Sep 2026 12:44:33 +0000",
+      "ts": 1789994673
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Litecoin Climbs 10% As Investors Gain Confidence",
+      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-as-investors-gain-confidence-4909060",
+      "published": "2026-09-21 12:40:00",
+      "ts": 1789994400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SanDisk Corp’s (SNDK) Impact on Small/Mid Cap Returns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corp-sndk-impact-small-123955859.html",
+      "published": "2026-09-21T12:39:55Z",
+      "ts": 1789994395
     },
     {
       "source": "Yahoo Finance",
@@ -32,24 +88,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Tariffs, fuel costs, and rising rates squeeze U.S. manufacturers",
-      "link": "https://finance.yahoo.com/economy/policy/articles/tariffs-fuel-costs-rising-rates-123314726.html",
-      "published": "2026-09-21T12:33:14Z",
-      "ts": 1789993994
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "How Montgomery v. Caribe Supercharges Knight-Swift’s (KNX) Scale Advantage",
       "link": "https://finance.yahoo.com/markets/stocks/articles/montgomery-v-caribe-supercharges-knight-123210361.html",
       "published": "2026-09-21T12:32:10Z",
       "ts": 1789993930
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nobody Wants to Inherit a Villages Home. Here’s What It Costs the Kids When They Do",
-      "link": "https://finance.yahoo.com/real-estate/articles/nobody-wants-inherit-villages-home-123147292.html",
-      "published": "2026-09-21T12:31:47Z",
-      "ts": 1789993907
     },
     {
       "source": "Yahoo Finance",
@@ -80,25 +122,11 @@
       "ts": 1789993562
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Jack Henry & Associates (JKHY): Why Disruption Risks Appear Overstated",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jack-henry-associates-jkhy-why-122322388.html",
-      "published": "2026-09-21T12:23:22Z",
-      "ts": 1789993402
-    },
-    {
       "source": "FXStreet",
       "title": "Japanese Yen: BoJ hike underwhelms as yields drive JPY against US Dollar – OCBC",
       "link": "https://www.fxstreet.com/news/japanese-yen-boj-hike-underwhelms-as-yields-drive-jpy-against-us-dollar-ocbc-202609211222",
       "published": "Mon, 21 Sep 2026 12:22:15 GMT",
       "ts": 1789993335
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Motorola Solutions (MSI) Powering Essential Communications for First Responders",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/motorola-solutions-msi-powering-essential-122202340.html",
-      "published": "2026-09-21T12:22:02Z",
-      "ts": 1789993322
     },
     {
       "source": "CoinDesk",
@@ -227,25 +255,18 @@
       "ts": 1789989535
     },
     {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar wavers near two-month lows despite a brighter market mood",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-wavers-near-two-month-lows-despite-a-brighter-market-mood-202609211118",
-      "published": "Mon, 21 Sep 2026 11:18:40 GMT",
-      "ts": 1789989520
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold: Range-bound outlook with Fed headwinds – ING",
-      "link": "https://www.fxstreet.com/news/gold-range-bound-outlook-with-fed-headwinds-ing-202609211116",
-      "published": "Mon, 21 Sep 2026 11:16:01 GMT",
-      "ts": 1789989361
-    },
-    {
       "source": "MarketWatch",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 11:15:00 GMT",
       "ts": 1789989300
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold struggles for direction as traders weigh Fed outlook and falling Oil prices",
+      "link": "https://www.fxstreet.com/news/gold-starts-week-on-the-back-foot-as-us-dollar-holds-firm-oil-decline-limits-losses-202609211110",
+      "published": "Mon, 21 Sep 2026 11:10:59 GMT",
+      "ts": 1789989059
     },
     {
       "source": "Investing Forex",
@@ -400,27 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-limited-yen-gains-despite-bank-of-japan-rate-hike-93CH-4908446",
       "published": "2026-09-21 08:48:42",
       "ts": 1789980522
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
-      "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
-      "published": "Mon, 21 Sep 2026 08:39:26 +0000",
-      "ts": 1789979966
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
-      "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 07:31:47 +0000",
-      "ts": 1789975907
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin tests double top at $82,179 with MFI maxed: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-21 07:12:04",
-      "ts": 1789974724
     }
   ]
 }
