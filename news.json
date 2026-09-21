@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T03:56:47.457489Z",
+  "updated": "2026-09-21T04:13:43.228562Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
+      "published": "Mon, 21 Sep 2026 04:03:43 +0000",
+      "ts": 1789963423
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
@@ -15,6 +22,13 @@
       "link": "https://www.fxstreet.com/news/euro-stays-defensive-vs-usd-amid-geopolitical-risks-as-traders-await-lagardes-speech-202609210355",
       "published": "Mon, 21 Sep 2026 03:55:24 GMT",
       "ts": 1789962924
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX muted with U.S.-China summit in focus, dollar ticks higher",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
+      "published": "2026-09-21 03:52:17",
+      "ts": 1789962737
     },
     {
       "source": "FXStreet",
@@ -263,6 +277,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Willis Lease Finance (WLFC) Expands Fleet with New Aircraft and Engine Acquisition",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-expands-174813287.html",
+      "published": "2026-09-19T17:48:13Z",
+      "ts": 1789840093
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Does This $40.3 Million Birwood Heights Financing Arrangement Benefit Marcus & Millichap’s (MMI)",
+      "link": "https://finance.yahoo.com/real-estate/articles/does-40-3-million-birwood-173911914.html",
+      "published": "2026-09-19T17:39:11Z",
+      "ts": 1789839551
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Amodei, Altman, and Musk Called for an AI Slowdown. Here’s Why It’s a Warning Sign for ASML Shareholders.",
       "link": "https://finance.yahoo.com/technology/ai/articles/amodei-altman-musk-called-ai-173002836.html",
       "published": "2026-09-19T17:30:02Z",
@@ -318,20 +346,6 @@
       "ts": 1789833600
     },
     {
-      "source": "Yahoo Finance",
-      "title": "IonQ's Options Are the Cheapest They've Been All Year. Here's the Trade That Takes Advantage.",
-      "link": "https://finance.yahoo.com/markets/options/articles/ionqs-options-cheapest-theyve-heres-155811959.html",
-      "published": "2026-09-19T15:58:11Z",
-      "ts": 1789833491
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Marvell (MRVL) and GlobalFoundries (GFS) Rise on Expanded Deal: What Investors Should Know",
-      "link": "https://finance.yahoo.com/technology/articles/marvell-mrvl-globalfoundries-gfs-rise-155724895.html",
-      "published": "2026-09-19T15:57:24Z",
-      "ts": 1789833444
-    },
-    {
       "source": "CoinDesk",
       "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
       "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
@@ -356,13 +370,6 @@
       "source": "CoinDesk",
       "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
       "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
-      "published": "Sat, 19 Sep 2026 12:00:00 +0000",
-      "ts": 1789819200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
-      "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
       "published": "Sat, 19 Sep 2026 12:00:00 +0000",
       "ts": 1789819200
     },
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
       "published": "2026-09-18 20:05:38",
       "ts": 1789761938
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar weakens against major currencies in the week ending September 18",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-against-major-currencies-in-the-week-ending-september-18-93CH-4907692",
-      "published": "2026-09-18 16:25:57",
-      "ts": 1789748757
     }
   ]
 }
