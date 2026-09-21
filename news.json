@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T02:10:00.609254Z",
+  "updated": "2026-09-21T02:26:47.499093Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Houthis claim attacks on Saudi capital, thick smoke seen near Riyadh airport",
+      "link": "https://www.fxstreet.com/news/houthis-claim-attacks-on-saudi-capital-thick-smoke-seen-near-riyadh-airport-202609210217",
+      "published": "Mon, 21 Sep 2026 02:17:33 GMT",
+      "ts": 1789957053
+    },
     {
       "source": "FXStreet",
       "title": "WTI falls to near $93.50 as Middle East diplomacy hopes ease supply fears",
@@ -71,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/feds-kashkari-inflation-is-still-too-high-in-all-aspects-of-us-economy-202609202357",
       "published": "Sun, 20 Sep 2026 23:57:13 GMT",
       "ts": 1789948633
-    },
-    {
-      "source": "FXStreet",
-      "title": "US, China open high-level talks ahead of Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/us-china-open-high-level-talks-ahead-of-trump-xi-summit-202609202343",
-      "published": "Sun, 20 Sep 2026 23:43:54 GMT",
-      "ts": 1789947834
     },
     {
       "source": "CoinTelegraph",
@@ -262,6 +262,13 @@
       "ts": 1789834800
     },
     {
+      "source": "Yahoo Finance",
+      "title": "‘Don't quit. Keep your job': Expert says Social Security will 'go away' — and the thing to protect isn't your 401(k)",
+      "link": "https://finance.yahoo.com/economy/policy/articles/dont-quit-keep-job-expert-161500293.html",
+      "published": "2026-09-19T16:15:00Z",
+      "ts": 1789834500
+    },
+    {
       "source": "CoinDesk",
       "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
       "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
@@ -316,13 +323,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/1-microsoft-deal-iren-delivering-142734921.html",
       "published": "2026-09-19T14:27:34Z",
       "ts": 1789828054
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is This A $20 Million Reason to Buy Infleqtion Stock Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/20-million-reason-buy-infleqtion-140725770.html",
-      "published": "2026-09-19T14:07:25Z",
-      "ts": 1789826845
     },
     {
       "source": "CoinDesk",
