@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-21T10:52:23.140562Z",
+  "updated": "2026-09-21T11:10:00.671202Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Why one Buffett-inspired fund manager is betting big on Chinese stocks",
+      "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 10:57:00 GMT",
+      "ts": 1789988220
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
+      "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 10:52:35 +0000",
+      "ts": 1789987955
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Forget the growth-stage funding gap, Europe is facing an early-stage crisis",
+      "link": "https://finance.yahoo.com/small-business/articles/forget-growth-stage-funding-gap-104940880.html",
+      "published": "2026-09-21T10:49:40Z",
+      "ts": 1789987780
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar edges higher on renewed RBA hike bets ahead of Bullock, jobs data",
@@ -22,6 +43,13 @@
       "link": "https://www.fxstreet.com/news/gold-price-forecast-struggles-to-hold-above-20-day-ema-202609211042",
       "published": "Mon, 21 Sep 2026 10:42:44 GMT",
       "ts": 1789987364
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Morning Bid: Summiteering",
+      "link": "https://finance.yahoo.com/economy/policy/articles/morning-bid-summiteering-104146934.html",
+      "published": "2026-09-21T10:41:46Z",
+      "ts": 1789987306
     },
     {
       "source": "Yahoo Finance",
@@ -129,25 +157,11 @@
       "ts": 1789984800
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Monday, September 21, 2026: Refinance rates mostly lower",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-21-2026-refinance-rates-mostly-lower-100000495.html",
-      "published": "2026-09-21T10:00:00Z",
-      "ts": 1789984800
-    },
-    {
       "source": "FXStreet",
       "title": "Japanese Yen: BoJ rate check limits yen downside – MUFG",
       "link": "https://www.fxstreet.com/news/japanese-yen-boj-rate-check-limits-yen-downside-mufg-202609210953",
       "published": "Mon, 21 Sep 2026 09:53:36 GMT",
       "ts": 1789984416
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
-      "link": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html",
-      "published": "2026-09-21T09:41:21Z",
-      "ts": 1789983681
     },
     {
       "source": "FXStreet",
@@ -241,13 +255,6 @@
       "ts": 1789981080
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Downside risks persist despite ECB hike call – ING",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-persist-despite-ecb-hike-call-ing-202609210856",
-      "published": "Mon, 21 Sep 2026 08:56:42 GMT",
-      "ts": 1789981002
-    },
-    {
       "source": "Investing Forex",
       "title": "Deutsche Bank sees dollar decline continuing on FX outlook",
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
@@ -323,6 +330,13 @@
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-fed-hike-bets-and-geopolitics-lift-usd-ahead-of-trump-xi-summit-202609210536",
       "published": "Mon, 21 Sep 2026 05:36:33 GMT",
       "ts": 1789968993
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupeee gains due to further correction in oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-starts-positive-as-oil-prices-fall-further-202609210526",
+      "published": "Mon, 21 Sep 2026 05:26:10 GMT",
+      "ts": 1789968370
     },
     {
       "source": "CoinTelegraph",
@@ -407,20 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
       "published": "2026-09-20 16:08:07",
       "ts": 1789920487
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 15:00:00 GMT",
-      "ts": 1789916400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
-      "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
-      "published": "Sun, 20 Sep 2026 14:54:48 +0000",
-      "ts": 1789916088
     }
   ]
 }
