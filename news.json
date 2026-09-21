@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T04:13:43.228562Z",
+  "updated": "2026-09-21T04:30:39.303376Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro flatlines against Japanese Yen as intervention risks rise",
+      "link": "https://www.fxstreet.com/news/euro-flatlines-against-japanese-yen-as-intervention-risks-rise-202609210428",
+      "published": "Mon, 21 Sep 2026 04:28:24 GMT",
+      "ts": 1789964904
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
@@ -92,13 +99,6 @@
       "link": "https://www.fxstreet.com/news/houthis-claim-attacks-on-saudi-capital-thick-smoke-seen-near-riyadh-airport-202609210217",
       "published": "Mon, 21 Sep 2026 02:17:33 GMT",
       "ts": 1789957053
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI falls to near $93.50 as Middle East diplomacy hopes ease supply fears",
-      "link": "https://www.fxstreet.com/news/wti-falls-to-near-9350-as-middle-east-diplomacy-hopes-ease-supply-fears-202609210205",
-      "published": "Mon, 21 Sep 2026 02:05:21 GMT",
-      "ts": 1789956321
     },
     {
       "source": "CoinTelegraph",
@@ -277,6 +277,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
+      "link": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo",
+      "published": "2026-09-19T17:48:41Z",
+      "ts": 1789840121
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Willis Lease Finance (WLFC) Expands Fleet with New Aircraft and Engine Acquisition",
       "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-expands-174813287.html",
       "published": "2026-09-19T17:48:13Z",
@@ -330,13 +337,6 @@
       "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 19 Sep 2026 16:20:00 +0000",
       "ts": 1789834800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘Don't quit. Keep your job': Expert says Social Security will 'go away' — and the thing to protect isn't your 401(k)",
-      "link": "https://finance.yahoo.com/economy/policy/articles/dont-quit-keep-job-expert-161500293.html",
-      "published": "2026-09-19T16:15:00Z",
-      "ts": 1789834500
     },
     {
       "source": "CoinDesk",
