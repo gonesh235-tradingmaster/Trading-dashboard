@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T22:25:20.768275Z",
+  "updated": "2026-09-21T22:39:35.167014Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "CloudTech Powers Institutional-Grade Digital Asset Trading for Australian Investors Through Integral Technology",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cloudtech-powers-institutionalgrade-digital-asset-trading-for-australian-investors-through-integral-technology-4909726",
+      "published": "2026-09-21 22:30:35",
+      "ts": 1790029835
+    },
     {
       "source": "MarketWatch",
       "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
@@ -372,13 +379,6 @@
       "link": "https://www.investing.com/news/forex-news/as-lines-grow-at-banks-cuba-tiptoes-away-from-communism-but-stability-seems-distant-4908748",
       "published": "2026-09-21 11:06:38",
       "ts": 1789988798
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Crypto stocks rise premarket as Bitcoin hits over seven-month high",
-      "link": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-rise-premarket-as-bitcoin-hits-over-sevenmonth-high-4908587",
-      "published": "2026-09-21 10:43:27",
-      "ts": 1789987407
     },
     {
       "source": "Investing Forex",
