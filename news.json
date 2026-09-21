@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-21T07:41:33.038751Z",
+  "updated": "2026-09-21T07:54:36.071497Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Trades near 180.50 after breaking above nine-day EMA",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-trades-near-18050-after-breaking-above-nine-day-ema-202609210753",
+      "published": "Mon, 21 Sep 2026 07:53:48 GMT",
+      "ts": 1789977228
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: Strong rebound supported by earnings growth – Danske Bank",
+      "link": "https://www.fxstreet.com/news/equities-strong-rebound-supported-by-earnings-growth-danske-bank-202609210749",
+      "published": "Mon, 21 Sep 2026 07:49:36 GMT",
+      "ts": 1789976976
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar consolidates Fed-inspired gains",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-consolidates-fed-inspired-gains-202609210741",
+      "published": "Mon, 21 Sep 2026 07:41:53 GMT",
+      "ts": 1789976513
+    },
     {
       "source": "FXStreet",
       "title": "Oil: Supply risks linger despite recovering Saudi flows - OCBC",
@@ -59,20 +80,6 @@
       "ts": 1789973588
     },
     {
-      "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: Strengthens above 1.4000, bullish tone prevails above key averages",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-strengthens-above-14000-bullish-tone-prevails-above-key-averages-202609210653",
-      "published": "Mon, 21 Sep 2026 06:53:01 GMT",
-      "ts": 1789973581
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar outperforms its peers on hawkish RBA bets",
-      "link": "https://www.fxstreet.com/news/australian-dollar-outperforms-its-peers-on-hawkish-rba-bets-202609210643",
-      "published": "Mon, 21 Sep 2026 06:43:25 GMT",
-      "ts": 1789973005
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
       "link": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -99,13 +106,6 @@
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-fed-hike-bets-and-geopolitics-lift-usd-ahead-of-trump-xi-summit-202609210536",
       "published": "Mon, 21 Sep 2026 05:36:33 GMT",
       "ts": 1789968993
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee draws relief from continuously correcting oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-starts-positive-as-oil-prices-fall-further-202609210526",
-      "published": "Mon, 21 Sep 2026 05:26:10 GMT",
-      "ts": 1789968370
     },
     {
       "source": "CoinTelegraph",
