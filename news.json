@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T01:53:32.809692Z",
+  "updated": "2026-09-21T02:10:00.609254Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI falls to near $93.50 as Middle East diplomacy hopes ease supply fears",
+      "link": "https://www.fxstreet.com/news/wti-falls-to-near-9350-as-middle-east-diplomacy-hopes-ease-supply-fears-202609210205",
+      "published": "Mon, 21 Sep 2026 02:05:21 GMT",
+      "ts": 1789956321
+    },
     {
       "source": "CoinTelegraph",
       "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
@@ -78,13 +85,6 @@
       "link": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 20 Sep 2026 23:37:39 +0000",
       "ts": 1789947459
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar edges lower as Fed hike bets grow ahead of Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/australian-dollar-edges-lower-as-fed-hike-bets-grow-ahead-of-trump-xi-summit-202609202332",
-      "published": "Sun, 20 Sep 2026 23:32:57 GMT",
-      "ts": 1789947177
     },
     {
       "source": "Investing Crypto",
@@ -270,6 +270,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "IonQ's Options Are the Cheapest They've Been All Year. Here's the Trade That Takes Advantage.",
+      "link": "https://finance.yahoo.com/markets/options/articles/ionqs-options-cheapest-theyve-heres-155811959.html",
+      "published": "2026-09-19T15:58:11Z",
+      "ts": 1789833491
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Marvell (MRVL) and GlobalFoundries (GFS) Rise on Expanded Deal: What Investors Should Know",
       "link": "https://finance.yahoo.com/technology/articles/marvell-mrvl-globalfoundries-gfs-rise-155724895.html",
       "published": "2026-09-19T15:57:24Z",
@@ -316,13 +323,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/20-million-reason-buy-infleqtion-140725770.html",
       "published": "2026-09-19T14:07:25Z",
       "ts": 1789826845
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Investing Based on Past Performance in 2026 Almost Guarantees a Bad Outcome. Do This Instead.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investing-based-past-performance-2026-140002456.html",
-      "published": "2026-09-19T14:00:02Z",
-      "ts": 1789826402
     },
     {
       "source": "CoinDesk",
