@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-21T03:44:12.044618Z",
+  "updated": "2026-09-21T03:56:47.457489Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
+      "published": "Mon, 21 Sep 2026 03:56:23 +0000",
+      "ts": 1789962983
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro stays defensive vs USD amid geopolitical risks as traders await Lagarde's speech",
+      "link": "https://www.fxstreet.com/news/euro-stays-defensive-vs-usd-amid-geopolitical-risks-as-traders-await-lagardes-speech-202609210355",
+      "published": "Mon, 21 Sep 2026 03:55:24 GMT",
+      "ts": 1789962924
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc weakens as US Dollar gain support on hawkish Fed outlook",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-gain-support-on-hawkish-fed-outlook-202609210346",
+      "published": "Mon, 21 Sep 2026 03:46:57 GMT",
+      "ts": 1789962417
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD consolidates near $66.35 at the start of the week",
@@ -71,20 +92,6 @@
       "link": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 01:42:53 +0000",
       "ts": 1789954973
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar languishes near two-month low vs USD as bears await break below 0.5700",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-languishes-near-two-month-low-vs-usd-as-bears-await-break-below-05700-202609210142",
-      "published": "Mon, 21 Sep 2026 01:42:14 GMT",
-      "ts": 1789954934
-    },
-    {
-      "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7487 vs. 6.7521 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67487-vs-67521-previous-202609210115",
-      "published": "Mon, 21 Sep 2026 01:15:28 GMT",
-      "ts": 1789953328
     },
     {
       "source": "CoinTelegraph",
@@ -256,6 +263,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Amodei, Altman, and Musk Called for an AI Slowdown. Here’s Why It’s a Warning Sign for ASML Shareholders.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amodei-altman-musk-called-ai-173002836.html",
+      "published": "2026-09-19T17:30:02Z",
+      "ts": 1789839002
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
+      "published": "2026-09-19T17:14:43Z",
+      "ts": 1789838083
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
       "link": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
       "published": "2026-09-19T17:12:00Z",
@@ -309,20 +330,6 @@
       "link": "https://finance.yahoo.com/technology/articles/marvell-mrvl-globalfoundries-gfs-rise-155724895.html",
       "published": "2026-09-19T15:57:24Z",
       "ts": 1789833444
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "PicS N.V. (PICS) Delivers Credit Portfolio Momentum and Q2 Outperformance Across the Board",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pics-n-v-pics-delivers-155428079.html",
-      "published": "2026-09-19T15:54:28Z",
-      "ts": 1789833268
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Netflix (NFLX) Gets a Bullish $110 Target: What’s Driving the Outlook?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-gets-bullish-110-155252131.html",
-      "published": "2026-09-19T15:52:52Z",
-      "ts": 1789833172
     },
     {
       "source": "CoinDesk",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-against-major-currencies-in-the-week-ending-september-18-93CH-4907692",
       "published": "2026-09-18 16:25:57",
       "ts": 1789748757
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-      "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
-      "published": "Fri, 18 Sep 2026 15:16:37 +0000",
-      "ts": 1789744597
     }
   ]
 }
