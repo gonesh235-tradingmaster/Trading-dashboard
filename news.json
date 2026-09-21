@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T02:41:56.677206Z",
+  "updated": "2026-09-21T02:54:16.289397Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 02:40:00 GMT",
+      "ts": 1789958400
+    },
     {
       "source": "FXStreet",
       "title": "Gold edges lower to near $4,350 on Fed hawkish stance, Middle East tensions",
@@ -148,13 +155,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
       "published": "2026-09-20 14:00:37",
       "ts": 1789912837
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 14:00:00 GMT",
-      "ts": 1789912800
     },
     {
       "source": "MarketWatch",
