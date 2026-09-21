@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T22:39:35.167014Z",
+  "updated": "2026-09-21T22:51:11.139007Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The British Pound slips again as bets on an October Fed hike build",
+      "link": "https://www.fxstreet.com/news/the-british-pound-slips-again-as-bets-on-an-october-fed-hike-build-202609212242",
+      "published": "Mon, 21 Sep 2026 22:42:45 GMT",
+      "ts": 1790030565
+    },
     {
       "source": "Investing Crypto",
       "title": "CloudTech Powers Institutional-Grade Digital Asset Trading for Australian Investors Through Integral Technology",
@@ -211,13 +218,6 @@
       "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-upside-bias-intact-despite-mixed-momentum-202609211810",
       "published": "Mon, 21 Sep 2026 18:10:26 GMT",
       "ts": 1790014226
-    },
-    {
-      "source": "FXStreet",
-      "title": "South Korean Won: High-beta KRW needs foreign inflows – OCBC",
-      "link": "https://www.fxstreet.com/news/south-korean-won-high-beta-krw-needs-foreign-inflows-ocbc-202609211809",
-      "published": "Mon, 21 Sep 2026 18:09:35 GMT",
-      "ts": 1790014175
     },
     {
       "source": "Investing Forex",
