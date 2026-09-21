@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T06:57:26.800699Z",
+  "updated": "2026-09-21T07:15:51.213141Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "CEE FX: Rating downgrade adds to regional FX pressure – ING",
+      "link": "https://www.fxstreet.com/news/rating-downgrade-adds-to-regional-fx-pressure-ing-202609210706",
+      "published": "Mon, 21 Sep 2026 07:06:50 GMT",
+      "ts": 1789974410
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen: Policy delay risks weakness against US Dollar - Commerzbank",
@@ -78,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-signs-of-stabilization-above-20-day-ema-back-more-upside-202609210547",
       "published": "Mon, 21 Sep 2026 05:47:22 GMT",
       "ts": 1789969642
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Declines below 1.3400 as bearish momentum persists below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-declines-below-13400-as-bearish-momentum-persists-below-100-day-sma-202609210542",
-      "published": "Mon, 21 Sep 2026 05:42:28 GMT",
-      "ts": 1789969348
     },
     {
       "source": "FXStreet",
@@ -305,6 +305,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Infosys (INFY) Lands a Brake Maker as Growth Stays in Low Gear",
+      "link": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-lands-brake-maker-194747627.html",
+      "published": "2026-09-19T19:47:47Z",
+      "ts": 1789847267
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer on Seanergy Maritime (SHIP): “I’d Be a Buyer”",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-seanergy-maritime-ship-194035405.html",
       "published": "2026-09-19T19:40:35Z",
@@ -351,13 +358,6 @@
       "link": "https://finance.yahoo.com/technology/articles/stmicroelectronics-stm-wants-every-car-192912047.html",
       "published": "2026-09-19T19:29:12Z",
       "ts": 1789846152
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cerebras (CBRS) Plants A 165 MW Flag In Finland While Still Losing Money",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-plants-165-mw-192515264.html",
-      "published": "2026-09-19T19:25:15Z",
-      "ts": 1789845915
     },
     {
       "source": "CoinTelegraph",
