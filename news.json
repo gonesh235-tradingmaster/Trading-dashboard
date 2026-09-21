@@ -1,20 +1,41 @@
 {
-  "updated": "2026-09-21T13:09:18.564004Z",
+  "updated": "2026-09-21T13:26:11.326420Z",
   "count": 60,
   "items": [
     {
-      "source": "Yahoo Finance",
-      "title": "AI giants sued in California over alleged illegal pact to slow AI development",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-giants-sued-california-over-125933830.html",
-      "published": "2026-09-21T12:59:33Z",
-      "ts": 1789995573
+      "source": "FXStreet",
+      "title": "Gold: CTA whipsaws but support holds – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-cta-whipsaws-but-support-holds-td-securities-202609211314",
+      "published": "Mon, 21 Sep 2026 13:14:55 GMT",
+      "ts": 1789996495
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Is Bitcoin Up Today? It Closed Above Its 50-Week Average for the First Time in 45 Weeks.",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-today-closed-above-125755691.html",
-      "published": "2026-09-21T12:57:55Z",
-      "ts": 1789995475
+      "title": "Is Archer Aviation Stock a No-Brainer Buy While It's Trading Near $5?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-stock-no-brainer-131217629.html",
+      "published": "2026-09-21T13:12:17Z",
+      "ts": 1789996337
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
+      "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
+      "published": "Mon, 21 Sep 2026 13:11:15 +0000",
+      "ts": 1789996275
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Anthropic’s IPO Could Be the Biggest in History. Here’s What SpaceX Taught Us About Buying It.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-could-biggest-history-130702434.html",
+      "published": "2026-09-21T13:07:02Z",
+      "ts": 1789996022
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The resilient stock market is flashing warning signs",
+      "link": "https://finance.yahoo.com/markets/article/the-resilient-stock-market-is-flashing-warning-signs-130213993.html",
+      "published": "2026-09-21T13:02:13Z",
+      "ts": 1789995733
     },
     {
       "source": "FXStreet",
@@ -53,7 +74,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Scott Bessent champions dollar dominance across global markets and stablecoins",
+      "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
       "link": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
       "published": "Mon, 21 Sep 2026 12:44:33 +0000",
       "ts": 1789994673
@@ -106,13 +127,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/11-texas-condo-owners-pay-123000155.html",
       "published": "2026-09-21T12:30:00Z",
       "ts": 1789993800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tokenized-equities-ai-disruption-threaten-122633931.html",
-      "published": "2026-09-21T12:26:33Z",
-      "ts": 1789993593
     },
     {
       "source": "Investing Crypto",
@@ -218,13 +232,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
       "published": "Mon, 21 Sep 2026 11:36:11 +0000",
       "ts": 1789990571
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brent: Diesel signals higher prices – Societe Generale",
-      "link": "https://www.fxstreet.com/news/brent-diesel-signals-higher-prices-societe-generale-202609211130",
-      "published": "Mon, 21 Sep 2026 11:30:14 GMT",
-      "ts": 1789990214
     },
     {
       "source": "CoinDesk",
@@ -407,13 +414,6 @@
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
       "published": "2026-09-21 08:56:10",
       "ts": 1789980970
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
-      "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
-      "published": "Mon, 21 Sep 2026 08:49:59 +0000",
-      "ts": 1789980599
     },
     {
       "source": "Investing Forex",
