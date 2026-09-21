@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-21T14:55:21.141055Z",
+  "updated": "2026-09-21T15:09:38.102130Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "AMD hits a major milestone as AI stocks blaze higher",
+      "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 15:06:00 GMT",
+      "ts": 1790003160
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Intervention risk high as 160 seen possible against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-high-as-160-seen-possible-against-us-dollar-ing-202609211504",
+      "published": "Mon, 21 Sep 2026 15:04:10 GMT",
+      "ts": 1790003050
+    },
+    {
+      "source": "CoinDesk",
+      "title": "ECB plans to buy tokenized bonds with its own funds",
+      "link": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
+      "published": "Mon, 21 Sep 2026 15:00:47 +0000",
+      "ts": 1790002847
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen slides as Fed hawkishness, intervention fears grow",
+      "link": "https://www.fxstreet.com/news/apanese-yen-slides-as-fed-hawkishness-intervention-fears-grow-202609211459",
+      "published": "Mon, 21 Sep 2026 14:59:21 GMT",
+      "ts": 1790002761
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI is a Pandora’s box that some CEOs seem wary of opening — at least with investors",
+      "link": "https://www.marketwatch.com/story/ai-is-a-pandoras-box-that-some-ceos-seem-wary-of-opening-at-least-with-investors-39eff0d2?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 14:57:00 GMT",
+      "ts": 1790002620
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
+      "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
+      "published": "Mon, 21 Sep 2026 14:53:52 +0000",
+      "ts": 1790002432
+    },
     {
       "source": "Yahoo Finance",
       "title": "Forget Tech Billionaires. Economists Say Car Dealers Are the Number One Source of Top 1% Pass-Through Business Income",
@@ -81,7 +123,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million. Do we need a will?",
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
       "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 14:30:00 GMT",
       "ts": 1790001000
@@ -185,13 +227,6 @@
       "ts": 1789995000
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Oil-driven support as Fed seen hiking – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-oil-driven-support-as-fed-seen-hiking-ing-202609211248",
-      "published": "Mon, 21 Sep 2026 12:48:30 GMT",
-      "ts": 1789994910
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
       "link": "https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -218,13 +253,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-a-green-day-4908996",
       "published": "2026-09-21 12:26:02",
       "ts": 1789993562
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: BoJ hike underwhelms as yields drive JPY against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hike-underwhelms-as-yields-drive-jpy-against-us-dollar-ocbc-202609211222",
-      "published": "Mon, 21 Sep 2026 12:22:15 GMT",
-      "ts": 1789993335
     },
     {
       "source": "CoinDesk",
@@ -297,13 +325,6 @@
       "ts": 1789989535
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 11:15:00 GMT",
-      "ts": 1789989300
-    },
-    {
       "source": "FXStreet",
       "title": "Gold remains vulnerable as hawksih Fed outlook supports the Greenback",
       "link": "https://www.fxstreet.com/news/gold-starts-week-on-the-back-foot-as-us-dollar-holds-firm-oil-decline-limits-losses-202609211110",
@@ -353,20 +374,6 @@
       "ts": 1789985751
     },
     {
-      "source": "CoinDesk",
-      "title": "X sues its own users for running a fake bitcoin news bot farm",
-      "link": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm",
-      "published": "Mon, 21 Sep 2026 10:15:44 +0000",
-      "ts": 1789985744
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Corporate earnings are growing much faster than the economy. What Goldman strategists say about bubble concerns.",
-      "link": "https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 10:13:00 GMT",
-      "ts": 1789985580
-    },
-    {
       "source": "Investing Forex",
       "title": "EUR/USD outlook: Here’s where ING sees the pair heading",
       "link": "https://www.investing.com/news/forex-news/eurusd-outlook-heres-where-ing-sees-the-pair-heading-93CH-4908572",
@@ -407,13 +414,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
       "published": "2026-09-21 09:21:56",
       "ts": 1789982516
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
-      "published": "Mon, 21 Sep 2026 09:12:42 +0000",
-      "ts": 1789981962
     },
     {
       "source": "Investing Forex",
