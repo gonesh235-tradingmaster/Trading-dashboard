@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-21T15:52:33.125353Z",
+  "updated": "2026-09-21T16:10:26.239915Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "BoC’s Macklem: Rate decisions must look beyond initial Oil shock",
+      "link": "https://www.fxstreet.com/news/bocs-macklem-rate-decisions-must-look-beyond-initial-oil-shock-202609211609",
+      "published": "Mon, 21 Sep 2026 16:09:53 GMT",
+      "ts": 1790006993
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI Oil extends losing streak as resilient Saudi exports outweigh Middle East risk premium",
+      "link": "https://www.fxstreet.com/news/wti-oil-extends-losing-streak-as-resilient-saudi-exports-outweigh-middle-east-risk-premium-202609211606",
+      "published": "Mon, 21 Sep 2026 16:06:14 GMT",
+      "ts": 1790006774
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Fairshake repeats history with $30 million to oppose Sherrod Brown Senate bid",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
+      "published": "Mon, 21 Sep 2026 16:01:36 +0000",
+      "ts": 1790006496
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "NOWPayments Releases Cross-Chain Payout Data Revealing Key Performance Benchmarks Across TRON, BNB Chain, and Solana",
+      "link": "https://www.investing.com/news/cryptocurrency-news/nowpayments-releases-crosschain-payout-data-revealing-key-performance-benchmarks-across-tron-bnb-chain-and-solana-4909411",
+      "published": "2026-09-21 16:00:37",
+      "ts": 1790006437
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AMD hits a major milestone as AI stocks blaze higher",
+      "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 15:58:00 GMT",
+      "ts": 1790006280
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Neocloud Nscale, Rival Of CoreWeave And Nebius, Files For IPO",
+      "link": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T15:47:59Z",
+      "ts": 1790005679
+    },
     {
       "source": "MarketWatch",
       "title": "This is the ‘most underappreciated’ driver for Microsoft’s business, according to one analyst",
@@ -11,10 +53,17 @@
     },
     {
       "source": "FXStreet",
-      "title": "Swiss Franc advances against US Dollar after recent sell-off, SNB in focus",
+      "title": "Swiss Franc advances after recent sell-off, SNB in focus",
       "link": "https://www.fxstreet.com/news/swiss-franc-advances-against-us-dollar-after-recent-sell-off-snb-in-focus-202609211537",
       "published": "Mon, 21 Sep 2026 15:37:42 GMT",
       "ts": 1790005062
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
+      "link": "https://www.investors.com/news/critical-metals-crml-stock-rare-earth-us-denmark-greenland-trump-xi/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T15:33:32Z",
+      "ts": 1790004812
     },
     {
       "source": "Investing Crypto",
@@ -80,13 +129,6 @@
       "ts": 1790003266
     },
     {
-      "source": "MarketWatch",
-      "title": "AMD hits a major milestone as AI stocks blaze higher",
-      "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 15:07:00 GMT",
-      "ts": 1790003220
-    },
-    {
       "source": "FXStreet",
       "title": "Japanese Yen: Intervention risk high as 160 seen possible against US Dollar – ING",
       "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-high-as-160-seen-possible-against-us-dollar-ing-202609211504",
@@ -122,25 +164,11 @@
       "ts": 1790002620
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Tim Cook warned of a ‘hundred-year flood’ striking tech giants — and now Apple is raising prices. What it means for you",
-      "link": "https://finance.yahoo.com/technology/articles/tim-cook-warned-hundred-flood-145500897.html",
-      "published": "2026-09-21T14:55:00Z",
-      "ts": 1790002500
-    },
-    {
       "source": "CoinDesk",
       "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
       "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
       "published": "Mon, 21 Sep 2026 14:53:52 +0000",
       "ts": 1790002432
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk",
-      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-oura-files-ipo-paperwork-nvidias-huang-pushes-back-on-ai-doomsday-talk-144918730.html",
-      "published": "2026-09-21T14:49:18Z",
-      "ts": 1790002158
     },
     {
       "source": "FXStreet",
@@ -199,25 +227,11 @@
       "ts": 1790000222
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Paramount, Warner Bros. shares rally on report of merger settlement agreement",
-      "link": "https://finance.yahoo.com/markets/stocks/article/paramount-warner-bros-shares-rally-on-report-of-merger-settlement-agreement-134233954.html",
-      "published": "2026-09-21T13:42:33Z",
-      "ts": 1789998153
-    },
-    {
       "source": "FXStreet",
       "title": "Euro steadies vs British Pound as German political uncertainty, PMIs cap direction",
       "link": "https://www.fxstreet.com/news/euro-steadies-vs-british-pound-as-german-political-uncertainty-pmis-cap-direction-202609211342",
       "published": "Mon, 21 Sep 2026 13:42:30 GMT",
       "ts": 1789998150
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee: AI imports add pressure against US Dollar – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/indian-rupee-ai-imports-add-pressure-against-us-dollar-standard-chartered-202609211339",
-      "published": "Mon, 21 Sep 2026 13:39:12 GMT",
-      "ts": 1789997952
     },
     {
       "source": "Investing Crypto",
@@ -232,13 +246,6 @@
       "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 13:30:00 +0000",
       "ts": 1789997400
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold: CTA whipsaws but support holds – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-cta-whipsaws-but-support-holds-td-securities-202609211314",
-      "published": "Mon, 21 Sep 2026 13:14:55 GMT",
-      "ts": 1789996495
     },
     {
       "source": "CoinDesk",
@@ -358,13 +365,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-rise-premarket-as-bitcoin-hits-over-sevenmonth-high-4908587",
       "published": "2026-09-21 10:43:27",
       "ts": 1789987407
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
-      "published": "Mon, 21 Sep 2026 10:30:00 +0000",
-      "ts": 1789986600
     },
     {
       "source": "Investing Crypto",
