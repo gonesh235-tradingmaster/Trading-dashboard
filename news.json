@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-21T11:10:00.671202Z",
+  "updated": "2026-09-21T11:26:52.173857Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
+      "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+      "published": "Mon, 21 Sep 2026 11:18:55 +0000",
+      "ts": 1789989535
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar wavers near two-month lows despite a brighter market mood",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-wavers-near-two-month-lows-despite-a-brighter-market-mood-202609211118",
+      "published": "Mon, 21 Sep 2026 11:18:40 GMT",
+      "ts": 1789989520
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold: Range-bound outlook with Fed headwinds – ING",
+      "link": "https://www.fxstreet.com/news/gold-range-bound-outlook-with-fed-headwinds-ing-202609211116",
+      "published": "Mon, 21 Sep 2026 11:16:01 GMT",
+      "ts": 1789989361
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 11:15:00 GMT",
+      "ts": 1789989300
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Goolsbee: Demand, tariffs, energy, supply shocks all are fuelling inflation",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-demand-tariffs-energy-supply-shocks-all-are-fuelling-inflation-202609211113",
+      "published": "Mon, 21 Sep 2026 11:13:18 GMT",
+      "ts": 1789989198
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold starts week on the back foot as US Dollar holds firm, Oil decline limits losses",
+      "link": "https://www.fxstreet.com/news/gold-starts-week-on-the-back-foot-as-us-dollar-holds-firm-oil-decline-limits-losses-202609211110",
+      "published": "Mon, 21 Sep 2026 11:10:59 GMT",
+      "ts": 1789989059
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "5 easy ways US boomers become poor in retirement (after having a fairly fat nest egg) — are you making these mistakes?",
+      "link": "https://finance.yahoo.com/markets/articles/5-easy-ways-us-boomers-110500674.html",
+      "published": "2026-09-21T11:05:00Z",
+      "ts": 1789988700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Peter Schiff's father sold $4.2 million in books claiming income tax is illegal. He died in federal prison",
+      "link": "https://finance.yahoo.com/economy/policy/articles/peter-schiffs-father-sold-4-110000968.html",
+      "published": "2026-09-21T11:00:00Z",
+      "ts": 1789988400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Another aspect of Montgomery: it might make human brokers more valuable",
+      "link": "https://finance.yahoo.com/small-business/articles/another-aspect-montgomery-might-human-110000308.html",
+      "published": "2026-09-21T11:00:00Z",
+      "ts": 1789988400
+    },
     {
       "source": "MarketWatch",
       "title": "Why one Buffett-inspired fund manager is betting big on Chinese stocks",
@@ -136,27 +199,6 @@
       "ts": 1789984800
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
-      "link": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
-      "published": "2026-09-21T10:00:00Z",
-      "ts": 1789984800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
-      "published": "2026-09-21T10:00:00Z",
-      "ts": 1789984800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Best high-yield savings interest rates today, Monday, September 21, 2026: Earn up to 4.10% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-21-2026-earn-up-to-410-apy-100000921.html",
-      "published": "2026-09-21T10:00:00Z",
-      "ts": 1789984800
-    },
-    {
       "source": "FXStreet",
       "title": "Japanese Yen: BoJ rate check limits yen downside – MUFG",
       "link": "https://www.fxstreet.com/news/japanese-yen-boj-rate-check-limits-yen-downside-mufg-202609210953",
@@ -183,27 +225,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
       "published": "2026-09-21 09:32:16",
       "ts": 1789983136
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver broadly unchanged, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-broadly-unchanged-according-to-fxstreet-data-202609210932",
-      "published": "Mon, 21 Sep 2026 09:32:05 GMT",
-      "ts": 1789983125
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar rises vs Japanese Yen on diverging RBA, BoJ policy outlooks",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rises-vs-japanese-yen-on-diverging-rba-boj-policy-outlooks-202609210926",
-      "published": "Mon, 21 Sep 2026 09:26:17 GMT",
-      "ts": 1789982777
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Post-FOMC gains face higher hurdle – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-post-fomc-gains-face-higher-hurdle-ocbc-202609210925",
-      "published": "Mon, 21 Sep 2026 09:25:48 GMT",
-      "ts": 1789982748
     },
     {
       "source": "Investing Forex",
@@ -326,13 +347,6 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold remains depressed around $4,350 amid rate jitters, modest USD strength",
-      "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-fed-hike-bets-and-geopolitics-lift-usd-ahead-of-trump-xi-summit-202609210536",
-      "published": "Mon, 21 Sep 2026 05:36:33 GMT",
-      "ts": 1789968993
-    },
-    {
-      "source": "FXStreet",
       "title": "Indian Rupeee gains due to further correction in oil prices",
       "link": "https://www.fxstreet.com/news/indian-rupee-starts-positive-as-oil-prices-fall-further-202609210526",
       "published": "Mon, 21 Sep 2026 05:26:10 GMT",
@@ -407,20 +421,6 @@
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
       "published": "Sun, 20 Sep 2026 17:30:00 GMT",
       "ts": 1789925400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 16:30:00 GMT",
-      "ts": 1789921800
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips 1% but above $80,000 as ETF inflows revive institutional demand",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
-      "published": "2026-09-20 16:08:07",
-      "ts": 1789920487
     }
   ]
 }
