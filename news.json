@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T00:13:43.635042Z",
+  "updated": "2026-09-21T00:36:48.962216Z",
   "count": 60,
   "items": [
     {
@@ -220,6 +220,20 @@
       "ts": 1789833600
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Is This A $20 Million Reason to Buy Infleqtion Stock Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/20-million-reason-buy-infleqtion-140725770.html",
+      "published": "2026-09-19T14:07:25Z",
+      "ts": 1789826845
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Investing Based on Past Performance in 2026 Almost Guarantees a Bad Outcome. Do This Instead.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investing-based-past-performance-2026-140002456.html",
+      "published": "2026-09-19T14:00:02Z",
+      "ts": 1789826402
+    },
+    {
       "source": "CoinDesk",
       "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
       "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
@@ -267,20 +281,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-told-1-caller-130002244.html",
       "published": "2026-09-19T13:00:02Z",
       "ts": 1789822802
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
-      "published": "2026-09-19T12:45:47Z",
-      "ts": 1789821947
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-cor-raised-guidance-bought-123837104.html",
-      "published": "2026-09-19T12:38:37Z",
-      "ts": 1789821517
     },
     {
       "source": "CoinDesk",
