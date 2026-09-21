@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-21T21:51:27.733570Z",
+  "updated": "2026-09-21T22:09:38.838671Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 22:01:00 GMT",
+      "ts": 1790028060
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
+      "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 21:57:00 GMT",
+      "ts": 1790027820
+    },
     {
       "source": "MarketWatch",
       "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
@@ -10,11 +24,25 @@
       "ts": 1790027220
     },
     {
+      "source": "Investing Crypto",
+      "title": "XRP Climbs 10% In a Green Day",
+      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
+      "published": "2026-09-21 21:39:05",
+      "ts": 1790026745
+    },
+    {
       "source": "FXStreet",
       "title": "Silver Price Forecast: 100-day SMA caps bulls as range tightens",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-100-day-sma-caps-bulls-as-range-tightens-202609212137",
       "published": "Mon, 21 Sep 2026 21:37:57 GMT",
       "ts": 1790026677
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin surges to over 7-month high as tokenized-stock move lifts crypto sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
+      "published": "2026-09-21 21:37:00",
+      "ts": 1790026620
     },
     {
       "source": "MarketWatch",
@@ -94,13 +122,6 @@
       "ts": 1790021940
     },
     {
-      "source": "MarketWatch",
-      "title": "Moderna will reveal the data for its mRNA cancer vaccine next month. Here’s why it matters.",
-      "link": "https://www.marketwatch.com/story/moderna-will-reveal-the-data-for-its-mrna-cancer-vaccine-next-month-heres-why-it-matters-4470a558?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 20:19:00 GMT",
-      "ts": 1790021940
-    },
-    {
       "source": "FXStreet",
       "title": "Singapore Dollar: Labour slack limits MAS tightening risk – UOB",
       "link": "https://www.fxstreet.com/news/singapore-dollar-labour-slack-limits-mas-tightening-risk-uob-202609212018",
@@ -113,13 +134,6 @@
       "link": "https://www.fxstreet.com/news/gold-price-retraces-as-fed-hawks-keep-the-us-dollar-bid-202609212010",
       "published": "Mon, 21 Sep 2026 20:10:00 GMT",
       "ts": 1790021400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "America’s power grid is running out of juice — and these stocks stand to gain",
-      "link": "https://www.marketwatch.com/story/americas-power-grid-is-running-out-of-juice-and-these-stocks-stand-to-gain-85364aca?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 20:02:00 GMT",
-      "ts": 1790020920
     },
     {
       "source": "CoinTelegraph",
@@ -269,13 +283,6 @@
       "ts": 1790001105
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rallies above $85k as tokenized-stock move boosts crypto sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
-      "published": "2026-09-21 13:39:10",
-      "ts": 1789997950
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
       "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -372,13 +379,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-rise-premarket-as-bitcoin-hits-over-sevenmonth-high-4908587",
       "published": "2026-09-21 10:43:27",
       "ts": 1789987407
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin surges past $84k: Key technical levels to watch for BTC now",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-84k-key-technical-levels-to-watch-for-btc-now-93CH-4908598",
-      "published": "2026-09-21 10:22:12",
-      "ts": 1789986132
     },
     {
       "source": "Investing Forex",
