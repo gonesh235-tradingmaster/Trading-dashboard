@@ -1,13 +1,83 @@
 {
-  "updated": "2026-09-21T11:53:55.589002Z",
+  "updated": "2026-09-21T12:12:35.350123Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Experts agree: Further US Dollar’s upside hinges on upcoming data and not hawkish Fed prospects",
+      "link": "https://www.fxstreet.com/news/experts-agree-further-us-dollars-upside-hinges-on-upcoming-data-and-not-hawkish-fed-prospects-202609211209",
+      "published": "Mon, 21 Sep 2026 12:09:28 GMT",
+      "ts": 1789992568
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
+      "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
+      "published": "Mon, 21 Sep 2026 12:08:02 +0000",
+      "ts": 1789992482
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields ease on crude pull-back ;  rate hike bets stay",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
+      "published": "2026-09-21 12:07:57",
+      "ts": 1789992477
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
+      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 12:06:00 GMT",
+      "ts": 1789992360
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Strategy buys 950 bitcoin, repurchases STRC shares in weekly update",
+      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-950-bitcoin-repurchases-strc-shares-in-weekly-update-432SI-4908941",
+      "published": "2026-09-21 12:04:02",
+      "ts": 1789992242
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price edges up as lower Oil, guarded Fed stance temper upside",
+      "link": "https://www.fxstreet.com/news/silver-price-edges-up-as-lower-oil-guarded-fed-stance-temper-upside-202609211158",
+      "published": "Mon, 21 Sep 2026 11:58:34 GMT",
+      "ts": 1789991914
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecasts: Bears remain in control with 1.1450 support eyed",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecasts-bears-remain-in-control-with-11450-support-eyed-202609211158",
+      "published": "Mon, 21 Sep 2026 11:58:05 GMT",
+      "ts": 1789991885
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Wealth manager Allspring considers sale – report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wealth-manager-allspring-considers-sale-115442395.html",
+      "published": "2026-09-21T11:54:42Z",
+      "ts": 1789991682
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Credo Technology Crashed for 3 Months: This Wall Street Pro Says It’s About to Double",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crashed-3-months-115135647.html",
+      "published": "2026-09-21T11:51:35Z",
+      "ts": 1789991495
+    },
     {
       "source": "FXStreet",
       "title": "Mexican Peso: Sideways range against US Dollar intact – Rabobank",
       "link": "https://www.fxstreet.com/news/mexican-peso-sideways-range-against-us-dollar-intact-rabobank-202609211151",
       "published": "Mon, 21 Sep 2026 11:51:31 GMT",
       "ts": 1789991491
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/four-launches-100-rocket-lab-115117949.html",
+      "published": "2026-09-21T11:51:17Z",
+      "ts": 1789991477
     },
     {
       "source": "FXStreet",
@@ -24,11 +94,32 @@
       "ts": 1789991340
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Boeing and Lockheed Martin Both Cash In on the Pentagon’s Contract Calendar",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-lockheed-martin-both-cash-114654499.html",
+      "published": "2026-09-21T11:46:54Z",
+      "ts": 1789991214
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nscale, Rival Of CoreWeave And Nebius, Files For IPO",
+      "link": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T11:42:26Z",
+      "ts": 1789990946
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
       "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
       "published": "Mon, 21 Sep 2026 11:36:11 +0000",
       "ts": 1789990571
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "“Who Can Imagine What Action One Might Take”: Musk’s Latest Non-Answer Sends Tesla and SpaceX Higher",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/imagine-action-one-might-musk-113510252.html",
+      "published": "2026-09-21T11:35:10Z",
+      "ts": 1789990510
     },
     {
       "source": "FXStreet",
@@ -129,20 +220,6 @@
       "ts": 1789988700
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Peter Schiff's father sold $4.2 million in books claiming income tax is illegal. He died in federal prison",
-      "link": "https://finance.yahoo.com/economy/policy/articles/peter-schiffs-father-sold-4-110000968.html",
-      "published": "2026-09-21T11:00:00Z",
-      "ts": 1789988400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Another aspect of Montgomery: it might make human brokers more valuable",
-      "link": "https://finance.yahoo.com/small-business/articles/another-aspect-montgomery-might-human-110000308.html",
-      "published": "2026-09-21T11:00:00Z",
-      "ts": 1789988400
-    },
-    {
       "source": "CoinTelegraph",
       "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
       "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -150,46 +227,11 @@
       "ts": 1789987955
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Forget the growth-stage funding gap, Europe is facing an early-stage crisis",
-      "link": "https://finance.yahoo.com/small-business/articles/forget-growth-stage-funding-gap-104940880.html",
-      "published": "2026-09-21T10:49:40Z",
-      "ts": 1789987780
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar edges higher on renewed RBA hike bets ahead of Bullock, jobs data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-on-renewed-rba-hike-bets-ahead-of-bullock-jobs-data-202609211044",
-      "published": "Mon, 21 Sep 2026 10:44:44 GMT",
-      "ts": 1789987484
-    },
-    {
       "source": "Investing Crypto",
       "title": "Crypto stocks rise premarket as Bitcoin hits over seven-month high",
       "link": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-rise-premarket-as-bitcoin-hits-over-sevenmonth-high-4908587",
       "published": "2026-09-21 10:43:27",
       "ts": 1789987407
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold Price Forecast: Struggles to hold above 20-day EMA",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-struggles-to-hold-above-20-day-ema-202609211042",
-      "published": "Mon, 21 Sep 2026 10:42:44 GMT",
-      "ts": 1789987364
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Morning Bid: Summiteering",
-      "link": "https://finance.yahoo.com/economy/policy/articles/morning-bid-summiteering-104146934.html",
-      "published": "2026-09-21T10:41:46Z",
-      "ts": 1789987306
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘Bull crap’: Why Dave Ramsey says moving to conservative bond investments in old age is mathematically stupid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-crap-why-dave-ramsey-103500321.html",
-      "published": "2026-09-21T10:35:00Z",
-      "ts": 1789986900
     },
     {
       "source": "CoinDesk",
@@ -311,13 +353,6 @@
       "ts": 1789981380
     },
     {
-      "source": "MarketWatch",
-      "title": "Novo Nordisk stock tumbles as Ozempic maker sets out 2030 goals",
-      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 08:58:00 GMT",
-      "ts": 1789981080
-    },
-    {
       "source": "Investing Forex",
       "title": "Deutsche Bank sees dollar decline continuing on FX outlook",
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
@@ -346,11 +381,11 @@
       "ts": 1789979966
     },
     {
-      "source": "Investing Forex",
-      "title": "Euro zone yields ease as markets await of ECB’s Lagarde speech",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
-      "published": "2026-09-21 07:47:15",
-      "ts": 1789976835
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+      "published": "2026-09-21T08:02:14Z",
+      "ts": 1789977734
     },
     {
       "source": "CoinTelegraph",
@@ -381,46 +416,11 @@
       "ts": 1789971647
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupeee gains due to further correction in oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-starts-positive-as-oil-prices-fall-further-202609210526",
-      "published": "Mon, 21 Sep 2026 05:26:10 GMT",
-      "ts": 1789968370
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 04:44:48 +0000",
       "ts": 1789965888
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
-      "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 04:29:59 +0000",
-      "ts": 1789964999
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
-      "link": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 04:27:32 +0000",
-      "ts": 1789964852
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
-      "published": "Mon, 21 Sep 2026 04:03:43 +0000",
-      "ts": 1789963423
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 02:40:00 GMT",
-      "ts": 1789958400
     }
   ]
 }
