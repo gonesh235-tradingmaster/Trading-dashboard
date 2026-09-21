@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T23:09:27.516542Z",
+  "updated": "2026-09-21T23:24:58.345796Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold declines to near $4,350 on rising odds of Fed rate hike",
+      "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-350-on-rising-odds-of-fed-rate-hike-202609212317",
+      "published": "Mon, 21 Sep 2026 23:17:19 GMT",
+      "ts": 1790032639
+    },
     {
       "source": "FXStreet",
       "title": "The Japanese Yen keeps sliding after the Bank of Japan's split vote",
@@ -197,13 +204,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
       "published": "Mon, 21 Sep 2026 19:08:40 +0000",
       "ts": 1790017720
-    },
-    {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Inflation keeps MAS tightening risk alive - Commerzbank",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-inflation-keeps-mas-tightening-risk-alive-commerzbank-202609211851",
-      "published": "Mon, 21 Sep 2026 18:51:00 GMT",
-      "ts": 1790016660
     },
     {
       "source": "CoinTelegraph",
