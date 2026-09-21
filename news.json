@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-21T17:51:36.136431Z",
+  "updated": "2026-09-21T18:11:36.337392Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Upside bias intact despite mixed momentum",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-upside-bias-intact-despite-mixed-momentum-202609211810",
+      "published": "Mon, 21 Sep 2026 18:10:26 GMT",
+      "ts": 1790014226
+    },
+    {
+      "source": "FXStreet",
+      "title": "South Korean Won: High-beta KRW needs foreign inflows – OCBC",
+      "link": "https://www.fxstreet.com/news/south-korean-won-high-beta-krw-needs-foreign-inflows-ocbc-202609211809",
+      "published": "Mon, 21 Sep 2026 18:09:35 GMT",
+      "ts": 1790014175
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 18:00:00 GMT",
+      "ts": 1790013600
+    },
     {
       "source": "MarketWatch",
       "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
@@ -15,48 +36,6 @@
       "link": "https://www.fxstreet.com/news/forex-today-fedspeak-takes-centre-stage-alongside-weekly-adp-figures-202609211744",
       "published": "Mon, 21 Sep 2026 17:44:30 GMT",
       "ts": 1790012670
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Behind the Ticker: Crossmark's Values-Based ETFs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/behind-ticker-crossmarks-values-based-174055390.html",
-      "published": "2026-09-21T17:40:55Z",
-      "ts": 1790012455
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Signal Says This Software Stock Could Soon Break Out",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/signal-says-software-stock-could-173505415.html",
-      "published": "2026-09-21T17:35:05Z",
-      "ts": 1790012105
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Loren Finegold, Ed Comber Join Vinson & Elkins NY Practice, Finance & Infrastructure Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/loren-finegold-ed-comber-join-173054582.html",
-      "published": "2026-09-21T17:30:54Z",
-      "ts": 1790011854
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Up, Nasdaq Roars As Micron Tests Entry; Bessent Touts China Progress (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T17:30:11Z",
-      "ts": 1790011811
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Halliburton Signs Deals to Expand Venezuela Energy Presence",
-      "link": "https://finance.yahoo.com/energy/articles/halliburton-signs-deals-expand-venezuela-172503667.html",
-      "published": "2026-09-21T17:25:03Z",
-      "ts": 1790011503
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
-      "link": "https://www.investors.com/news/technology/chip-stocks-amd-stock-four-new-names-join-sox-index/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T17:19:56Z",
-      "ts": 1790011196
     },
     {
       "source": "Investing Forex",
@@ -78,13 +57,6 @@
       "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 17:12:00 GMT",
       "ts": 1790010720
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Brazil to use Uruguay's surplus of beef export quota to China, Lula says",
-      "link": "https://finance.yahoo.com/economy/policy/articles/brazil-uruguays-surplus-beef-export-171153710.html",
-      "published": "2026-09-21T17:11:53Z",
-      "ts": 1790010713
     },
     {
       "source": "FXStreet",
@@ -206,25 +178,11 @@
       "ts": 1790003940
     },
     {
-      "source": "MarketWatch",
-      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
-      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 15:11:00 GMT",
-      "ts": 1790003460
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
       "link": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 15:08:17 +0000",
       "ts": 1790003297
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Intervention risk high as 160 seen possible against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-high-as-160-seen-possible-against-us-dollar-ing-202609211504",
-      "published": "Mon, 21 Sep 2026 15:04:10 GMT",
-      "ts": 1790003050
     },
     {
       "source": "CoinDesk",
@@ -234,25 +192,11 @@
       "ts": 1790002847
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen slides as Fed hawkishness, intervention fears grow",
-      "link": "https://www.fxstreet.com/news/apanese-yen-slides-as-fed-hawkishness-intervention-fears-grow-202609211459",
-      "published": "Mon, 21 Sep 2026 14:59:21 GMT",
-      "ts": 1790002761
-    },
-    {
       "source": "CoinDesk",
       "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
       "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
       "published": "Mon, 21 Sep 2026 14:53:52 +0000",
       "ts": 1790002432
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bank of America says buy tumbling shares of aviation giant",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
-      "published": "2026-09-21T14:37:00Z",
-      "ts": 1790001420
     },
     {
       "source": "Investing Crypto",
@@ -421,6 +365,62 @@
       "link": "https://www.investing.com/news/forex-news/goldman-sees-hungary-inflation-target-cut-as-positive-for-forint-93CH-4908570",
       "published": "2026-09-21 10:09:50",
       "ts": 1789985390
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 15% In Rally",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-15-in-rally-4908544",
+      "published": "2026-09-21 10:03:02",
+      "ts": 1789984982
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
+      "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 09:35:25 +0000",
+      "ts": 1789983325
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges lower as oil, Fed hike bets underpin dollar",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-lower-as-oil-fed-hike-bets-underpin-dollar-4908483",
+      "published": "2026-09-21 09:22:18",
+      "ts": 1789982538
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen steadies amid rate-check warnings as euro absorbs German political shock",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
+      "published": "2026-09-21 09:21:56",
+      "ts": 1789982516
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Deutsche Bank sees dollar decline continuing on FX outlook",
+      "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
+      "published": "2026-09-21 08:56:10",
+      "ts": 1789980970
+    },
+    {
+      "source": "Investing Forex",
+      "title": "UBS sees limited yen gains despite Bank of Japan rate hike",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-limited-yen-gains-despite-bank-of-japan-rate-hike-93CH-4908446",
+      "published": "2026-09-21 08:48:42",
+      "ts": 1789980522
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
+      "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 07:31:47 +0000",
+      "ts": 1789975907
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Burger chain's breakfast is disappearing one restaurant at a time",
+      "link": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
+      "published": "2026-09-21T04:15:19Z",
+      "ts": 1789964119
     }
   ]
 }
