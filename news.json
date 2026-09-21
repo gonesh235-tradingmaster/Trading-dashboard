@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-21T20:38:47.920143Z",
+  "updated": "2026-09-21T20:51:05.050738Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Collins eyes another hike as energy risks linger",
+      "link": "https://www.fxstreet.com/news/feds-collins-eyes-another-hike-as-energy-risks-linger-202609212044",
+      "published": "Mon, 21 Sep 2026 20:44:17 GMT",
+      "ts": 1790023457
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+      "published": "Mon, 21 Sep 2026 20:39:39 +0000",
+      "ts": 1790023179
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
+      "link": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 20:37:15 +0000",
+      "ts": 1790023035
+    },
     {
       "source": "MarketWatch",
       "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
@@ -178,13 +199,6 @@
       "ts": 1790010969
     },
     {
-      "source": "FXStreet",
-      "title": "BoC’s Macklem sees inflation drifting higher as uncertainty lingers",
-      "link": "https://www.fxstreet.com/news/bocs-macklem-sees-inflation-drifting-higher-as-uncertainty-lingers-202609211702",
-      "published": "Mon, 21 Sep 2026 17:02:47 GMT",
-      "ts": 1790010167
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
       "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -332,13 +346,6 @@
       "ts": 1789990571
     },
     {
-      "source": "CoinDesk",
-      "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
-      "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
-      "published": "Mon, 21 Sep 2026 11:30:00 +0000",
-      "ts": 1789990200
-    },
-    {
       "source": "CoinTelegraph",
       "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
       "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -351,13 +358,6 @@
       "link": "https://www.investing.com/news/forex-news/as-lines-grow-at-banks-cuba-tiptoes-away-from-communism-but-stability-seems-distant-4908748",
       "published": "2026-09-21 11:06:38",
       "ts": 1789988798
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
-      "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 10:52:35 +0000",
-      "ts": 1789987955
     },
     {
       "source": "Investing Crypto",
