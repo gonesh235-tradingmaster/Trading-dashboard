@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-21T09:14:07.459186Z",
+  "updated": "2026-09-21T09:30:37.439282Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar rises vs Japanese Yen on diverging RBA, BoJ policy outlooks",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-vs-japanese-yen-on-diverging-rba-boj-policy-outlooks-202609210926",
+      "published": "Mon, 21 Sep 2026 09:26:17 GMT",
+      "ts": 1789982777
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Post-FOMC gains face higher hurdle – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-post-fomc-gains-face-higher-hurdle-ocbc-202609210925",
+      "published": "Mon, 21 Sep 2026 09:25:48 GMT",
+      "ts": 1789982748
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges lower as oil, Fed hike bets underpin dollar",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-lower-as-oil-fed-hike-bets-underpin-dollar-4908483",
+      "published": "2026-09-21 09:22:18",
+      "ts": 1789982538
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen steadies amid rate-check warnings as euro absorbs German political shock",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
+      "published": "2026-09-21 09:21:56",
+      "ts": 1789982516
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Novo Nordisk stock gets drilled on pipeline concerns -- its CEO sees this as the main problem",
+      "link": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns----its-ceo-sees-this-as-the-main-problem-091933221.html",
+      "published": "2026-09-21T09:19:33Z",
+      "ts": 1789982373
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million. Do we need a will?",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 09:15:00 GMT",
+      "ts": 1789982100
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
@@ -22,6 +64,20 @@
       "link": "https://www.marketwatch.com/story/steven-spielberg-lists-longtime-l-a-equestrian-ranch-for-30-million-2209cbb4?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 09:03:00 GMT",
       "ts": 1789981380
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Brookfield eyes small tickets, high returns with its $5B Catalytic Transition Fund",
+      "link": "https://finance.yahoo.com/energy/articles/brookfield-eyes-small-tickets-high-090000623.html",
+      "published": "2026-09-21T09:00:00Z",
+      "ts": 1789981200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now?",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/mom-opened-credit-card-name-090000564.html",
+      "published": "2026-09-21T09:00:00Z",
+      "ts": 1789981200
     },
     {
       "source": "MarketWatch",
@@ -99,20 +155,6 @@
       "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-lower-crude-oil-prices-improve-market-sentiment-202609210832",
       "published": "Mon, 21 Sep 2026 08:32:02 GMT",
       "ts": 1789979522
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Gradual upside after hawkish Fed hike – HSBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-gradual-upside-after-hawkish-fed-hike-hsbc-202609210826",
-      "published": "Mon, 21 Sep 2026 08:26:48 GMT",
-      "ts": 1789979208
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen holds losses below 157.00 US Dollar with intervention fears growing",
-      "link": "https://www.fxstreet.com/news/japanese-yen-holds-losses-below-15700-us-dollar-with-intervention-fears-growing-202609210821",
-      "published": "Mon, 21 Sep 2026 08:21:11 GMT",
-      "ts": 1789978871
     },
     {
       "source": "Yahoo Finance",
@@ -199,32 +241,11 @@
       "ts": 1789968984
     },
     {
-      "source": "Yahoo Finance",
-      "title": "A Cyber Intelligence Veteran Now Runs Masco’s (MAS) AI Agenda",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cyber-intelligence-veteran-now-runs-053054700.html",
-      "published": "2026-09-21T05:30:54Z",
-      "ts": 1789968654
-    },
-    {
       "source": "FXStreet",
       "title": "Indian Rupee remains supported by correcting oil prices",
       "link": "https://www.fxstreet.com/news/indian-rupee-starts-positive-as-oil-prices-fall-further-202609210526",
       "published": "Mon, 21 Sep 2026 05:26:10 GMT",
       "ts": 1789968370
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-advance-bessent-says-talks-051936845.html",
-      "published": "2026-09-21T05:19:36Z",
-      "ts": 1789967976
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Textron (TXT) Unveils a Cargo Plane Concept That Needs No Pilot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/textron-txt-unveils-cargo-plane-051634574.html",
-      "published": "2026-09-21T05:16:34Z",
-      "ts": 1789967794
     },
     {
       "source": "CoinTelegraph",
@@ -260,13 +281,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
       "published": "Mon, 21 Sep 2026 03:56:23 +0000",
       "ts": 1789962983
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar ticks higher with Trump-Xi summit on the horizon",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
-      "published": "2026-09-21 03:52:17",
-      "ts": 1789962737
     },
     {
       "source": "MarketWatch",
@@ -360,13 +374,6 @@
       "ts": 1789912380
     },
     {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 13:16:00 GMT",
-      "ts": 1789910160
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
       "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
       "published": "2026-09-19T23:02:22Z",
       "ts": 1789858942
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
-      "published": "Sat, 19 Sep 2026 16:00:00 +0000",
-      "ts": 1789833600
     }
   ]
 }
