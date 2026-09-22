@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-22T17:50:38.306783Z",
+  "updated": "2026-09-22T18:12:27.768733Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Trump signals diplomatic push on Ukraine and Iran as diesel ban looms",
+      "link": "https://www.fxstreet.com/news/trump-signals-diplomatic-push-on-ukraine-and-iran-as-diesel-ban-looms-202609221809",
+      "published": "Tue, 22 Sep 2026 18:09:07 GMT",
+      "ts": 1790100547
+    },
+    {
+      "source": "FXStreet",
+      "title": "South Korean Won: Export surge supports KRW recovery – OCBC",
+      "link": "https://www.fxstreet.com/news/south-korean-won-export-surge-supports-krw-recovery-ocbc-202609221759",
+      "published": "Tue, 22 Sep 2026 17:59:55 GMT",
+      "ts": 1790099995
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index pushes higher on the case for another Fed increase",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-pushes-higher-on-the-case-for-another-fed-increase-202609221759",
+      "published": "Tue, 22 Sep 2026 17:59:02 GMT",
+      "ts": 1790099942
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Defending against dangerous AI should be a national priority — and we need more AI to do it",
+      "link": "https://www.marketwatch.com/story/defending-against-dangerous-ai-should-be-a-national-priority-and-we-need-more-ai-to-do-it-049e1c88?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 17:52:00 GMT",
+      "ts": 1790099520
+    },
     {
       "source": "MarketWatch",
       "title": "Quantum stocks are getting hot again after a brutal summer. Can the rally last?",
@@ -15,27 +43,6 @@
       "link": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
       "published": "Tue, 22 Sep 2026 17:34:03 +0000",
       "ts": 1790098443
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-stock-amzn-key-level/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T17:26:43Z",
-      "ts": 1790098003
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Private markets dealmaking is starting to mirror Greater China 's K-shaped economy",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/private-markets-dealmaking-starting-mirror-172112209.html",
-      "published": "2026-09-22T17:21:12Z",
-      "ts": 1790097672
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Micron, IBD Stock Of The Day, Surges Past Early Buy Point With Earnings Ahead",
-      "link": "https://www.investors.com/research/ibd-stock-of-the-day/micron-stock-mu-buy-point-earnings/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T17:20:49Z",
-      "ts": 1790097649
     },
     {
       "source": "FXStreet",
@@ -57,27 +64,6 @@
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 17:00:00 GMT",
       "ts": 1790096400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Rocket Lab Stock Breaks Above Key Trendline",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-breaks-above-165728910.html",
-      "published": "2026-09-22T16:57:28Z",
-      "ts": 1790096248
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What credit score do you need for a balance transfer credit card?",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-score-needed-for-balance-transfer-card-165714139.html",
-      "published": "2026-09-22T16:57:14Z",
-      "ts": 1790096234
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Think buying a car in cash is a flex? Why millions of boomers are quietly wasting thousands in savings",
-      "link": "https://finance.yahoo.com/markets/articles/think-buying-car-cash-flex-165500324.html",
-      "published": "2026-09-22T16:55:00Z",
-      "ts": 1790096100
     },
     {
       "source": "MarketWatch",
@@ -171,13 +157,6 @@
       "ts": 1790091780
     },
     {
-      "source": "MarketWatch",
-      "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
-      "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 15:39:00 GMT",
-      "ts": 1790091540
-    },
-    {
       "source": "FXStreet",
       "title": "USD/JPY Price Forecast: Recovery stalls below key moving averages",
       "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-recovery-stalls-below-key-moving-averages-202609221538",
@@ -206,27 +185,6 @@
       "ts": 1790090488
     },
     {
-      "source": "FXStreet",
-      "title": "Bank of Canada: Slack delays hikes despite crude shock – NBC",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-slack-delays-hikes-despite-crude-shock-nbc-202609221506",
-      "published": "Tue, 22 Sep 2026 15:06:29 GMT",
-      "ts": 1790089589
-    },
-    {
-      "source": "FXStreet",
-      "title": "Trump sees post-election Iran deal, calls for pressure to stay",
-      "link": "https://www.fxstreet.com/news/trump-sees-post-election-iran-deal-calls-for-pressure-to-stay-202609221502",
-      "published": "Tue, 22 Sep 2026 15:02:52 GMT",
-      "ts": 1790089372
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States: September inflation profile – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-september-inflation-profile-td-securities-202609221456",
-      "published": "Tue, 22 Sep 2026 14:56:06 GMT",
-      "ts": 1790088966
-    },
-    {
       "source": "CoinDesk",
       "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
       "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
@@ -253,6 +211,13 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 13:12:25 +0000",
       "ts": 1790082745
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
+      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
+      "published": "2026-09-22T12:39:18Z",
+      "ts": 1790080758
     },
     {
       "source": "CoinDesk",
@@ -367,13 +332,6 @@
       "ts": 1790067667
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow slips, Nasdaq and S&P 500 drift higher as oil pares losses after Trump's UN address",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-      "published": "2026-09-22T08:06:25Z",
-      "ts": 1790064385
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin overbought at $87K high, mean-reversion risk: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
@@ -421,6 +379,48 @@
       "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
       "published": "2026-09-21T18:17:21Z",
       "ts": 1790014641
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
+      "published": "2026-09-21 17:16:09",
+      "ts": 1790010969
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "NOWPayments Releases Cross-Chain Payout Data Revealing Key Performance Benchmarks Across TRON, BNB Chain, and Solana",
+      "link": "https://www.investing.com/news/cryptocurrency-news/nowpayments-releases-crosschain-payout-data-revealing-key-performance-benchmarks-across-tron-bnb-chain-and-solana-4909411",
+      "published": "2026-09-21 16:00:37",
+      "ts": 1790006437
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "CryptoPawn Launches Protocol Integration Allowing Authorized AI Agents to Participate in Crypto-Backed Loan Transactions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
+      "published": "2026-09-21 15:30:38",
+      "ts": 1790004638
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bank of America says buy tumbling shares of aviation giant",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+      "published": "2026-09-21T14:37:00Z",
+      "ts": 1790001420
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
+      "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4909333",
+      "published": "2026-09-21 14:31:45",
+      "ts": 1790001105
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields ease on crude pull-back ;  rate hike bets stay",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
+      "published": "2026-09-21 12:07:57",
+      "ts": 1789992477
     }
   ]
 }
