@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-22T04:26:38.996802Z",
+  "updated": "2026-09-22T04:41:11.375834Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609220435",
+      "published": "Tue, 22 Sep 2026 04:35:24 GMT",
+      "ts": 1790051724
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+      "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
+      "published": "Tue, 22 Sep 2026 04:33:11 +0000",
+      "ts": 1790051591
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Sticks to gains above 112.00 as bulls await 50% Fibo. breakout",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-sticks-to-gains-above-11200-as-bulls-await-50-fibo-breakout-202609220431",
+      "published": "Tue, 22 Sep 2026 04:31:42 GMT",
+      "ts": 1790051502
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc gains as US Dollar declines on increased risk appetite",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-declines-on-increased-risk-appetite-202609220430",
+      "published": "Tue, 22 Sep 2026 04:30:21 GMT",
+      "ts": 1790051421
+    },
     {
       "source": "FXStreet",
       "title": "Gold struggles to lure buyers amid hawkish Fed counters sliding US bond yields",
@@ -92,27 +120,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-consolidates-vs-usd-bearish-bias-remains-amid-divergent-fed-boe-outlook-202609220220",
       "published": "Tue, 22 Sep 2026 02:20:38 GMT",
       "ts": 1790043638
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar slips amid gradual RBNZ rate hike outlook, geopolitical tensions",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slips-amid-gradual-rbnz-rate-hike-outlook-geopolitical-tensions-202609220218",
-      "published": "Tue, 22 Sep 2026 02:18:06 GMT",
-      "ts": 1790043486
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen weakens on BoJ's lack of hawkish guidance, eyes on potential intervention",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-on-bojs-lack-of-hawkish-guidance-eyes-on-potential-intervention-202609220205",
-      "published": "Tue, 22 Sep 2026 02:05:20 GMT",
-      "ts": 1790042720
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI rises to near $92.50 despite Middle East diplomacy, resuming flows",
-      "link": "https://www.fxstreet.com/news/wti-rises-to-near-9250-despite-middle-east-diplomacy-resuming-flows-202609220143",
-      "published": "Tue, 22 Sep 2026 01:43:26 GMT",
-      "ts": 1790041406
     },
     {
       "source": "Investing Crypto",
@@ -318,6 +325,13 @@
       "ts": 1790002432
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Bank of America says buy tumbling shares of aviation giant",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+      "published": "2026-09-21T14:37:00Z",
+      "ts": 1790001420
+    },
+    {
       "source": "Investing Crypto",
       "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
       "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4909333",
@@ -358,13 +372,6 @@
       "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
       "published": "Mon, 21 Sep 2026 12:17:48 +0000",
       "ts": 1789993068
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
-      "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
-      "published": "Mon, 21 Sep 2026 12:08:02 +0000",
-      "ts": 1789992482
     },
     {
       "source": "Investing Forex",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
       "published": "2026-09-21 08:56:10",
       "ts": 1789980970
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees limited yen gains despite Bank of Japan rate hike",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-limited-yen-gains-despite-bank-of-japan-rate-hike-93CH-4908446",
-      "published": "2026-09-21 08:48:42",
-      "ts": 1789980522
     }
   ]
 }
