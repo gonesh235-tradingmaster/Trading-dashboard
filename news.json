@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T02:10:24.770711Z",
+  "updated": "2026-09-22T02:26:42.849486Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound consolidates vs USD; bearish bias remains amid divergent Fed-BoE outlook",
+      "link": "https://www.fxstreet.com/news/british-pound-consolidates-vs-usd-bearish-bias-remains-amid-divergent-fed-boe-outlook-202609220220",
+      "published": "Tue, 22 Sep 2026 02:20:38 GMT",
+      "ts": 1790043638
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar slips amid gradual RBNZ rate hike outlook, geopolitical tensions",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slips-amid-gradual-rbnz-rate-hike-outlook-geopolitical-tensions-202609220218",
+      "published": "Tue, 22 Sep 2026 02:18:06 GMT",
+      "ts": 1790043486
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen weakens on BoJ's lack of hawkish guidance, eyes on potential intervention",
@@ -57,20 +71,6 @@
       "link": "https://www.fxstreet.com/news/donald-trump-administration-plans-5-billion-middle-east-reconstruction-fund-for-iran-war-202609220024",
       "published": "Tue, 22 Sep 2026 00:24:02 GMT",
       "ts": 1790036642
-    },
-    {
-      "source": "FXStreet",
-      "title": "RBA’s Hunter backs more hikes as inflation risks entrench",
-      "link": "https://www.fxstreet.com/news/rbas-hunter-backs-more-hikes-as-inflation-risks-entrench-202609212357",
-      "published": "Mon, 21 Sep 2026 23:57:53 GMT",
-      "ts": 1790035073
-    },
-    {
-      "source": "FXStreet",
-      "title": "Yemeni forces says Houthis drone, fighters targeted",
-      "link": "https://www.fxstreet.com/news/houthis-push-for-control-of-yemen-highlands-202609212353",
-      "published": "Mon, 21 Sep 2026 23:53:35 GMT",
-      "ts": 1790034815
     },
     {
       "source": "Investing Crypto",
