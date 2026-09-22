@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T17:25:19.844572Z",
+  "updated": "2026-09-22T17:38:23.448059Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
+      "link": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
+      "published": "Tue, 22 Sep 2026 17:34:03 +0000",
+      "ts": 1790098443
+    },
     {
       "source": "FXStreet",
       "title": "Fed’s Barkin backs rate hike, stays unsure on more increases",
@@ -71,13 +78,6 @@
       "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-allow-u-retail-investors-165100177.html",
       "published": "2026-09-22T16:51:00Z",
       "ts": 1790095860
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "McDonald's has 1 shot to turn around its dreadful year",
-      "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-has-1-shot-to-turn-around-its-dreadful-year-164554149.html",
-      "published": "2026-09-22T16:45:54Z",
-      "ts": 1790095554
     },
     {
       "source": "MarketWatch",
@@ -353,13 +353,6 @@
       "ts": 1790071106
     },
     {
-      "source": "CoinDesk",
-      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
-      "link": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
-      "published": "Tue, 22 Sep 2026 09:47:15 +0000",
-      "ts": 1790070435
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar holds on hawkish Fed pricing while yen languishes despite Tokyo support",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
@@ -421,6 +414,13 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
       "published": "2026-09-21 21:01:45",
       "ts": 1790024505
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
+      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
+      "published": "2026-09-21T18:17:21Z",
+      "ts": 1790014641
     }
   ]
 }
