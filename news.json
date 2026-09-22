@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T21:38:51.859192Z",
+  "updated": "2026-09-22T21:51:44.876507Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
+      "link": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 21:44:00 GMT",
+      "ts": 1790113440
+    },
     {
       "source": "MarketWatch",
       "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
@@ -155,13 +162,6 @@
       "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 19:48:00 GMT",
       "ts": 1790106480
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 19:45:00 GMT",
-      "ts": 1790106300
     },
     {
       "source": "FXStreet",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Should You Be Bullish on Fastly (FSLY)?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bullish-fastly-fsly-131746101.html",
-      "published": "2026-09-21T13:17:46Z",
-      "ts": 1789996666
+      "title": "Short Seller Reports Drag Ensign Group (ENSG) Down",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/short-seller-reports-drag-ensign-131917317.html",
+      "published": "2026-09-21T13:19:17Z",
+      "ts": 1789996757
     }
   ]
 }
