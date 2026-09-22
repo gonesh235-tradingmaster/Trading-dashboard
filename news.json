@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-22T04:09:59.611845Z",
+  "updated": "2026-09-22T04:26:38.996802Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold struggles to lure buyers amid hawkish Fed counters sliding US bond yields",
+      "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-hawkish-fed-counters-sliding-us-bond-yields-202609220419",
+      "published": "Tue, 22 Sep 2026 04:19:16 GMT",
+      "ts": 1790050756
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+      "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+      "published": "Tue, 22 Sep 2026 04:15:45 +0000",
+      "ts": 1790050545
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trueo prediction market moves from Base to Ethereum",
+      "link": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 04:03:00 +0000",
+      "ts": 1790049780
+    },
     {
       "source": "MarketWatch",
       "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
       "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 04:02:00 GMT",
       "ts": 1790049720
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar steadies, yen pressured by policy gap",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
+      "published": "2026-09-22 04:01:54",
+      "ts": 1790049714
     },
     {
       "source": "FXStreet",
@@ -39,7 +67,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Australian Dollar softens on hawkish Fed outlook",
+      "title": "Australian Dollar drifts higher above 0.7100 after RBA's Bullock speech",
       "link": "https://www.fxstreet.com/news/australian-dollar-softens-on-hawkish-fed-outlook-202609220255",
       "published": "Tue, 22 Sep 2026 02:55:23 GMT",
       "ts": 1790045723
@@ -85,13 +113,6 @@
       "link": "https://www.fxstreet.com/news/wti-rises-to-near-9250-despite-middle-east-diplomacy-resuming-flows-202609220143",
       "published": "Tue, 22 Sep 2026 01:43:26 GMT",
       "ts": 1790041406
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar hits fresh low since August 5, seems vulnerable vs bullish USD",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-hits-fresh-low-since-august-5-seems-vulnerable-vs-bullish-usd-202609220140",
-      "published": "Tue, 22 Sep 2026 01:40:20 GMT",
-      "ts": 1790041220
     },
     {
       "source": "Investing Crypto",
@@ -304,13 +325,6 @@
       "ts": 1790001105
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
-      "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 13:30:00 +0000",
-      "ts": 1789997400
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
       "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
@@ -367,13 +381,6 @@
       "ts": 1789992242
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
-      "published": "Mon, 21 Sep 2026 11:36:11 +0000",
-      "ts": 1789990571
-    },
-    {
       "source": "Investing Forex",
       "title": "As lines grow at banks, Cuba tiptoes away from communism but stability seems distant",
       "link": "https://www.investing.com/news/forex-news/as-lines-grow-at-banks-cuba-tiptoes-away-from-communism-but-stability-seems-distant-4908748",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-limited-yen-gains-despite-bank-of-japan-rate-hike-93CH-4908446",
       "published": "2026-09-21 08:48:42",
       "ts": 1789980522
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Burger chain cancels breakfast at hundreds of restaurants",
-      "link": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
-      "published": "2026-09-21T04:15:19Z",
-      "ts": 1789964119
     }
   ]
 }
