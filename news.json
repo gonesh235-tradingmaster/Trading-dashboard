@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-22T11:40:34.356001Z",
+  "updated": "2026-09-22T11:51:45.438360Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/GBP Price Forecast: 100-day SMA blocks recovery as momentum remains subdued",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-100-day-sma-blocks-recovery-as-momentum-remains-subdued-202609221148",
+      "published": "Tue, 22 Sep 2026 11:48:58 GMT",
+      "ts": 1790077738
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Financial conditions are tightening. Here’s why stock investors should pay attention.",
+      "link": "https://www.marketwatch.com/story/financial-conditions-are-tightening-heres-why-stock-investors-should-pay-attention-a7d12134?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 11:48:00 GMT",
+      "ts": 1790077680
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc rallies on risk appetite while SNB threatens with FX intervention",
+      "link": "https://www.fxstreet.com/news/swiss-franc-rallies-on-risk-appetite-while-snb-threatens-with-fx-intervention-202609221147",
+      "published": "Tue, 22 Sep 2026 11:47:54 GMT",
+      "ts": 1790077674
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Modestly stronger into year-end – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-modestly-stronger-into-year-end-ocbc-202609221145",
+      "published": "Tue, 22 Sep 2026 11:45:37 GMT",
+      "ts": 1790077537
+    },
     {
       "source": "MarketWatch",
       "title": "How this market-beating fund is constantly shifting to keep up with the AI trade",
@@ -15,6 +43,13 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
       "published": "Tue, 22 Sep 2026 11:35:43 +0000",
       "ts": 1790076943
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AARP: Social Security proposal could ‘erode’ checks for 80% of recipients. 3 moves to protect your retirement income now",
+      "link": "https://finance.yahoo.com/economy/policy/articles/aarp-social-security-proposal-could-113000944.html",
+      "published": "2026-09-22T11:30:00Z",
+      "ts": 1790076600
     },
     {
       "source": "CoinTelegraph",
@@ -115,13 +150,6 @@
       "ts": 1790075134
     },
     {
-      "source": "Yahoo Finance",
-      "title": "92% of grandparents give financial help to grandkids — and it's draining their retirement savings",
-      "link": "https://finance.yahoo.com/small-business/articles/92-grandparents-financial-help-grandkids-110000432.html",
-      "published": "2026-09-22T11:00:00Z",
-      "ts": 1790074800
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
       "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
@@ -192,20 +220,6 @@
       "ts": 1790071106
     },
     {
-      "source": "FXStreet",
-      "title": "Gold Price Forecast: XAU/USD approaches $4,300 after rejection at the $4,400 area",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-approaches-4-300-after-rejection-at-the-4-400-area-202609220950",
-      "published": "Tue, 22 Sep 2026 09:50:09 GMT",
-      "ts": 1790070609
-    },
-    {
-      "source": "FXStreet",
-      "title": "Hungarian Forint: NBH stance supports carry appeal – ING",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-nbh-stance-supports-carry-appeal-ing-202609220947",
-      "published": "Tue, 22 Sep 2026 09:47:43 GMT",
-      "ts": 1790070463
-    },
-    {
       "source": "CoinDesk",
       "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
       "link": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
@@ -225,13 +239,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
       "published": "2026-09-22 09:31:24",
       "ts": 1790069484
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Fed tightening keeps upside risks – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-tightening-keeps-upside-risks-bbh-202609220929",
-      "published": "Tue, 22 Sep 2026 09:29:32 GMT",
-      "ts": 1790069372
     },
     {
       "source": "MarketWatch",
@@ -379,13 +386,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
       "published": "Tue, 22 Sep 2026 04:33:11 +0000",
       "ts": 1790051591
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
-      "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 04:02:00 GMT",
-      "ts": 1790049720
     },
     {
       "source": "Investing Crypto",
