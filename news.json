@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-22T08:10:40.312915Z",
+  "updated": "2026-09-22T08:28:10.002306Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Rises to near 158.00 near 50-day EMA",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-rises-to-near-15800-near-50-day-ema-202609220827",
+      "published": "Tue, 22 Sep 2026 08:27:42 GMT",
+      "ts": 1790065662
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: Geopolitical uncertainty keeps markets on edge",
+      "link": "https://www.fxstreet.com/news/forex-today-geopolitical-uncertainty-keeps-markets-on-edge-202609220817",
+      "published": "Tue, 22 Sep 2026 08:17:56 GMT",
+      "ts": 1790065076
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: BoE pricing keeps rangebound against Euro – ING",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-pricing-keeps-rangebound-against-euro-ing-202609220816",
+      "published": "Tue, 22 Sep 2026 08:16:11 GMT",
+      "ts": 1790064971
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/CAD Price Forecast: Bulls retain control near August 6 highs, just below mid-1.4000s",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bulls-retain-control-near-august-6-highs-just-below-mid-14000s-202609220810",
+      "published": "Tue, 22 Sep 2026 08:10:43 GMT",
+      "ts": 1790064643
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
+      "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 08:06:23 +0000",
+      "ts": 1790064383
+    },
     {
       "source": "Investing Forex",
       "title": "Euro area debt bourses face risk drag from Paris debt trajectory",
@@ -59,46 +94,11 @@
       "ts": 1790062759
     },
     {
-      "source": "FXStreet",
-      "title": "Hungarian Forint: MNB pause supports HUF – Commerzbank",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-mnb-pause-supports-huf-commerzbank-202609220737",
-      "published": "Tue, 22 Sep 2026 07:37:19 GMT",
-      "ts": 1790062639
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound remains on the front foot amid BoJ-inspired Yen weakness",
-      "link": "https://www.fxstreet.com/news/british-pound-remains-on-the-front-foot-amid-boj-inspired-yen-weakness-202609220733",
-      "published": "Tue, 22 Sep 2026 07:33:38 GMT",
-      "ts": 1790062418
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 07:33:37 +0000",
       "ts": 1790062417
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro declines as US Dollar recovers recent losses amid hawkish Fed tone",
-      "link": "https://www.fxstreet.com/news/euro-declines-as-us-dollar-recovers-recent-losses-amid-hawkish-fed-tone-202609220727",
-      "published": "Tue, 22 Sep 2026 07:27:48 GMT",
-      "ts": 1790062068
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Stronger as Fed hike path extends – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-stronger-as-fed-hike-path-extends-mufg-202609220724",
-      "published": "Tue, 22 Sep 2026 07:24:24 GMT",
-      "ts": 1790061864
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Fair value drop points to downside against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-fair-value-drop-points-to-downside-against-us-dollar-ing-202609220715",
-      "published": "Tue, 22 Sep 2026 07:15:40 GMT",
-      "ts": 1790061340
     },
     {
       "source": "Investing Crypto",
@@ -162,6 +162,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
       "published": "Tue, 22 Sep 2026 04:33:11 +0000",
       "ts": 1790051591
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold flirts with $4,300 as inflation fears reaffirm Fed bets and underpin bullish USD",
+      "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-hawkish-fed-counters-sliding-us-bond-yields-202609220419",
+      "published": "Tue, 22 Sep 2026 04:19:16 GMT",
+      "ts": 1790050756
     },
     {
       "source": "CoinDesk",
@@ -316,13 +323,6 @@
       "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 18:35:43 +0000",
       "ts": 1790015743
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
-      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 18:15:22 +0000",
-      "ts": 1790014522
     },
     {
       "source": "Investing Forex",
