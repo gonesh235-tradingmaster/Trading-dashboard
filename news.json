@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T18:32:15.317823Z",
+  "updated": "2026-09-22T18:53:34.314622Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Gradual decline within tight bands – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-decline-within-tight-bands-uob-202609221839",
+      "published": "Tue, 22 Sep 2026 18:39:00 GMT",
+      "ts": 1790102340
+    },
+    {
+      "source": "MarketWatch",
+      "title": "She was ready to buy her dream condo — but discovered the HOA had just 1% in cash reserves",
+      "link": "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 18:33:00 GMT",
+      "ts": 1790101980
+    },
     {
       "source": "FXStreet",
       "title": "WTI extends decline as Trump signals progress in talks with Iran",
@@ -39,7 +53,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Defending against dangerous AI should be a national priority — and we need more AI to do it",
+      "title": "Defending against dangerous AI should be a national priority — and we need more capable AI to do it",
       "link": "https://www.marketwatch.com/story/defending-against-dangerous-ai-should-be-a-national-priority-and-we-need-more-ai-to-do-it-049e1c88?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 17:52:00 GMT",
       "ts": 1790099520
@@ -155,20 +169,6 @@
       "link": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 15:46:00 GMT",
       "ts": 1790091960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
-      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 15:45:00 GMT",
-      "ts": 1790091900
-    },
-    {
-      "source": "FXStreet",
-      "title": "Oil: Headlines drive vulnerability – TD Securities",
-      "link": "https://www.fxstreet.com/news/oil-headlines-drive-vulnerability-td-securities-202609221543",
-      "published": "Tue, 22 Sep 2026 15:43:00 GMT",
-      "ts": 1790091780
     },
     {
       "source": "CoinTelegraph",
