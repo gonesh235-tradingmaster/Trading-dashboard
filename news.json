@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-22T21:24:06.376032Z",
+  "updated": "2026-09-22T21:38:51.859192Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 21:30:00 GMT",
+      "ts": 1790112600
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
+      "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
+      "published": "Tue, 22 Sep 2026 21:29:05 +0000",
+      "ts": 1790112545
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
+      "link": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 21:27:00 GMT",
+      "ts": 1790112420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
+      "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 21:26:00 GMT",
+      "ts": 1790112360
+    },
     {
       "source": "FXStreet",
       "title": "Singapore Dollar: Sideways bias holds above support against US Dollar – UOB",
@@ -69,13 +97,6 @@
       "source": "MarketWatch",
       "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
       "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 20:31:00 GMT",
-      "ts": 1790109060
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Want to bet on risky, high-beta stocks? Why you should wait for this week in October.",
-      "link": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 20:31:00 GMT",
       "ts": 1790109060
     },
@@ -150,13 +171,6 @@
       "ts": 1790105809
     },
     {
-      "source": "MarketWatch",
-      "title": "Trump endorses diesel export ban. A decision is coming ‘fast, one way or the other.’",
-      "link": "https://www.marketwatch.com/story/trump-endorses-diesel-export-ban-a-decision-is-coming-fast-one-way-or-the-other-a49055bc?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 19:30:00 GMT",
-      "ts": 1790105400
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin overbought at $86,550 with RSI 75 divergence: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
@@ -169,13 +183,6 @@
       "link": "https://www.fxstreet.com/news/asia-fx-ai-driven-support-for-regional-currencies-mufg-202609221917",
       "published": "Tue, 22 Sep 2026 19:17:00 GMT",
       "ts": 1790104620
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
-      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 19:00:00 GMT",
-      "ts": 1790103600
     },
     {
       "source": "FXStreet",
@@ -325,13 +332,6 @@
       "ts": 1790074743
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains",
-      "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
-      "published": "Tue, 22 Sep 2026 10:20:12 +0000",
-      "ts": 1790072412
-    },
-    {
       "source": "Investing Crypto",
       "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
       "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Interactive Brokers Stock Outperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-stock-outperforming-p-124733322.html",
-      "published": "2026-09-21T12:47:33Z",
-      "ts": 1789994853
+      "title": "Should You Be Bullish on Fastly (FSLY)?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bullish-fastly-fsly-131746101.html",
+      "published": "2026-09-21T13:17:46Z",
+      "ts": 1789996666
     }
   ]
 }
