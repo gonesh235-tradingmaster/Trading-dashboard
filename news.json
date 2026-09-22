@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T01:51:23.359674Z",
+  "updated": "2026-09-22T02:10:24.770711Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen weakens on BoJ's lack of hawkish guidance, eyes on potential intervention",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-on-bojs-lack-of-hawkish-guidance-eyes-on-potential-intervention-202609220205",
+      "published": "Tue, 22 Sep 2026 02:05:20 GMT",
+      "ts": 1790042720
+    },
     {
       "source": "FXStreet",
       "title": "WTI rises to near $92.50 despite Middle East diplomacy, resuming flows",
@@ -64,13 +71,6 @@
       "link": "https://www.fxstreet.com/news/houthis-push-for-control-of-yemen-highlands-202609212353",
       "published": "Mon, 21 Sep 2026 23:53:35 GMT",
       "ts": 1790034815
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB’s Lane says energy shock could delay inflation’s return to 2%",
-      "link": "https://www.fxstreet.com/news/ecbs-lane-says-energy-shock-could-delay-inflations-return-to-2-202609212347",
-      "published": "Mon, 21 Sep 2026 23:47:09 GMT",
-      "ts": 1790034429
     },
     {
       "source": "Investing Crypto",
