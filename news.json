@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-22T05:25:40.791480Z",
+  "updated": "2026-09-22T05:39:47.927111Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Australian 40-year economic outlook recognizes ‘AI revolution’, omits crypto",
+      "link": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 05:29:31 +0000",
+      "ts": 1790054971
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+      "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
+      "published": "Tue, 22 Sep 2026 05:26:00 +0000",
+      "ts": 1790054760
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD holds losses near $66.00 amid Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-losses-near-6600-amid-fed-rate-hike-bets-202609220525",
+      "published": "Tue, 22 Sep 2026 05:25:10 GMT",
+      "ts": 1790054710
+    },
     {
       "source": "FXStreet",
       "title": "WTI Price Forecast: Looks to reclaim $93.00 after defending 38.2% Fibo. support",
@@ -53,7 +74,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold struggles to lure buyers amid hawkish Fed counters sliding US bond yields",
+      "title": "Gold struggles below $4,350 as hawkish Fed offsets sliding bond yields, softer USD",
       "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-hawkish-fed-counters-sliding-us-bond-yields-202609220419",
       "published": "Tue, 22 Sep 2026 04:19:16 GMT",
       "ts": 1790050756
@@ -106,13 +127,6 @@
       "link": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 03:13:22 +0000",
       "ts": 1790046802
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Remains above 180.50 amid subdued upside momentum",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-remains-above-18050-amid-subdued-upside-momentum-202609220258",
-      "published": "Tue, 22 Sep 2026 02:58:02 GMT",
-      "ts": 1790045882
     },
     {
       "source": "FXStreet",
@@ -311,13 +325,6 @@
       "ts": 1790004638
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
-      "link": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 15:08:17 +0000",
-      "ts": 1790003297
-    },
-    {
       "source": "CoinDesk",
       "title": "ECB plans to buy tokenized bonds with its own funds",
       "link": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
@@ -372,13 +379,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-a-green-day-4908996",
       "published": "2026-09-21 12:26:02",
       "ts": 1789993562
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
-      "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
-      "published": "Mon, 21 Sep 2026 12:17:48 +0000",
-      "ts": 1789993068
     },
     {
       "source": "Investing Forex",
