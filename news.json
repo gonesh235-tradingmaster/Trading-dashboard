@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-22T18:53:34.314622Z",
+  "updated": "2026-09-22T19:09:05.632378Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 19:00:00 GMT",
+      "ts": 1790103600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The bond market is flashing a warning for stocks. These sectors are already wobbling.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-flashing-a-warning-for-stocks-these-sectors-are-already-wobbling-015dc707?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 19:00:00 GMT",
+      "ts": 1790103600
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: Advanced PMIs in the limelight, but what about the UN General Assembly?",
+      "link": "https://www.fxstreet.com/news/forex-today-advanced-pmis-in-the-limelight-but-what-about-the-un-general-assembly-202609221854",
+      "published": "Tue, 22 Sep 2026 18:54:38 GMT",
+      "ts": 1790103278
+    },
     {
       "source": "FXStreet",
       "title": "Chinese Yuan: Gradual decline within tight bands – UOB",
@@ -157,20 +178,6 @@
       "ts": 1790092537
     },
     {
-      "source": "MarketWatch",
-      "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
-      "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 15:48:00 GMT",
-      "ts": 1790092080
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This GLP-1 drug helped people maintain their weight loss in a clinical trial — even for those taking it once a month",
-      "link": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 15:46:00 GMT",
-      "ts": 1790091960
-    },
-    {
       "source": "CoinTelegraph",
       "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
       "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -267,13 +274,6 @@
       "link": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 11:29:35 +0000",
       "ts": 1790076575
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold consolidates as Iran diplomacy hopes clash with hawkish Fed expectations",
-      "link": "https://www.fxstreet.com/news/gold-steadies-on-iran-diplomacy-hopes-fed-outlook-caps-upside-202609221120",
-      "published": "Tue, 22 Sep 2026 11:20:21 GMT",
-      "ts": 1790076021
     },
     {
       "source": "CoinDesk",
