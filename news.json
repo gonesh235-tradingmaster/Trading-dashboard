@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T23:23:35.840816Z",
+  "updated": "2026-09-22T23:37:33.657624Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Explosion heard near Iran’s Qeshm Island",
+      "link": "https://www.fxstreet.com/news/explosion-heard-near-irans-qeshm-island-202609222337",
+      "published": "Tue, 22 Sep 2026 23:37:11 GMT",
+      "ts": 1790120231
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold recovers above $4,350 on US–Iran diplomacy hopes",
+      "link": "https://www.fxstreet.com/news/gold-recovers-above-4-350-on-us-iran-diplomacy-hopes-202609222322",
+      "published": "Tue, 22 Sep 2026 23:22:59 GMT",
+      "ts": 1790119379
+    },
     {
       "source": "FXStreet",
       "title": "49.3: Australia’s S&P Global Manufacturing PMI declines in September",
@@ -129,25 +143,11 @@
       "ts": 1790110440
     },
     {
-      "source": "FXStreet",
-      "title": "Banxico expected to stay put as inflation risks block easing – Reuters",
-      "link": "https://www.fxstreet.com/news/banxico-expected-to-stay-put-as-inflation-risks-block-easing-reuters-202609222051",
-      "published": "Tue, 22 Sep 2026 20:51:36 GMT",
-      "ts": 1790110296
-    },
-    {
       "source": "MarketWatch",
       "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
       "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 20:46:00 GMT",
       "ts": 1790109960
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB’s Nagel says restrictive policy cannot be ruled out",
-      "link": "https://www.fxstreet.com/news/ecbs-nagel-says-restrictive-policy-cannot-be-ruled-out-202609222037",
-      "published": "Tue, 22 Sep 2026 20:37:39 GMT",
-      "ts": 1790109459
     },
     {
       "source": "CoinDesk",
@@ -402,25 +402,25 @@
       "ts": 1790006437
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
+      "link": "https://www.investors.com/news/critical-metals-crml-stock-rare-earth-us-denmark-greenland-trump-xi/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T15:33:32Z",
+      "ts": 1790004812
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Novo’s Big 2030 Pitch Gets a Small Reception",
+      "link": "https://finance.yahoo.com/healthcare/articles/novo-big-2030-pitch-gets-153100786.html",
+      "published": "2026-09-21T15:31:00Z",
+      "ts": 1790004660
+    },
+    {
       "source": "Investing Crypto",
       "title": "CryptoPawn Launches Protocol Integration Allowing Authorized AI Agents to Participate in Crypto-Backed Loan Transactions",
       "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
       "published": "2026-09-21 15:30:38",
       "ts": 1790004638
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Super Ego’s Mimic notches win in court case; settlement coming?",
-      "link": "https://finance.yahoo.com/small-business/articles/super-ego-mimic-notches-win-152948515.html",
-      "published": "2026-09-21T15:29:48Z",
-      "ts": 1790004588
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stocks and Bonds Climb as Slumping Crude Prices Ease Inflation Risks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-bonds-climb-slumping-crude-151325897.html",
-      "published": "2026-09-21T15:13:25Z",
-      "ts": 1790003605
     }
   ]
 }
