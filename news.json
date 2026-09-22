@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T08:28:10.002306Z",
+  "updated": "2026-09-22T08:44:14.839437Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI remains above $92.00 due to market caution ahead of UN diplomatic talks",
+      "link": "https://www.fxstreet.com/news/wti-remains-above-9200-due-to-market-caution-ahead-of-un-diplomatic-talks-202609220839",
+      "published": "Tue, 22 Sep 2026 08:39:16 GMT",
+      "ts": 1790066356
+    },
+    {
+      "source": "FXStreet",
+      "title": "Federal Reserve: Hiking path constrained by supply shocks – BNY",
+      "link": "https://www.fxstreet.com/news/federal-reserve-hiking-path-constrained-by-supply-shocks-bny-202609220832",
+      "published": "Tue, 22 Sep 2026 08:32:52 GMT",
+      "ts": 1790065972
+    },
     {
       "source": "FXStreet",
       "title": "USD/JPY Price Forecast: Rises to near 158.00 near 50-day EMA",
@@ -73,25 +87,11 @@
       "ts": 1790063678
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Range bias holds below resistance against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-range-bias-holds-below-resistance-against-us-dollar-uob-202609220748",
-      "published": "Tue, 22 Sep 2026 07:48:34 GMT",
-      "ts": 1790063314
-    },
-    {
       "source": "CoinDesk",
       "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
       "link": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
       "published": "Tue, 22 Sep 2026 07:40:41 +0000",
       "ts": 1790062841
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro rises against Japanese Yen as latter underperforms across board",
-      "link": "https://www.fxstreet.com/news/euro-rises-against-japanese-yen-as-latter-underperforms-across-board-202609220739",
-      "published": "Tue, 22 Sep 2026 07:39:19 GMT",
-      "ts": 1790062759
     },
     {
       "source": "CoinTelegraph",
