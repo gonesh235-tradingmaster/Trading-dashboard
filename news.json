@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-22T07:55:08.234617Z",
+  "updated": "2026-09-22T08:10:40.312915Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Euro area debt bourses face risk drag from Paris debt trajectory",
+      "link": "https://www.investing.com/news/forex-news/euro-area-debt-bourses-face-risk-drag-from-paris-debt-trajectory-4910015",
+      "published": "2026-09-22 08:04:44",
+      "ts": 1790064284
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound reverses earlier gains as UK Public Sector Net Borrowing surges",
+      "link": "https://www.fxstreet.com/news/british-pound-reverses-earlier-gains-as-uk-public-sector-net-borrowing-surges-202609220802",
+      "published": "Tue, 22 Sep 2026 08:02:04 GMT",
+      "ts": 1790064124
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: Fresh optimism lifts S&P 500 near highs – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-fresh-optimism-lifts-sp-500-near-highs-deutsche-bank-202609220756",
+      "published": "Tue, 22 Sep 2026 07:56:59 GMT",
+      "ts": 1790063819
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar firms, yen weakens on intervention risks",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
+      "published": "2026-09-22 07:54:58",
+      "ts": 1790063698
+    },
     {
       "source": "FXStreet",
       "title": "Dow Jones futures hold steady as traders await US-Iran diplomatic developments",
@@ -73,25 +101,11 @@
       "ts": 1790061340
     },
     {
-      "source": "FXStreet",
-      "title": "Euro weakens against Canadian Dollar amid German political turmoil, higher oil prices",
-      "link": "https://www.fxstreet.com/news/euro-weakens-against-canadian-dollar-amid-german-political-turmoil-higher-oil-prices-202609220713",
-      "published": "Tue, 22 Sep 2026 07:13:51 GMT",
-      "ts": 1790061231
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin overbought at $87K high, mean-reversion risk: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-22 07:11:43",
       "ts": 1790061103
-    },
-    {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: Upside attempts likely to be tested at 0.5800",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-upside-attempts-likely-to-be-tested-at-05800-202609220711",
-      "published": "Tue, 22 Sep 2026 07:11:20 GMT",
-      "ts": 1790061080
     },
     {
       "source": "CoinTelegraph",
@@ -169,13 +183,6 @@
       "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 04:02:00 GMT",
       "ts": 1790049720
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar steadies, yen pressured by policy gap",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
-      "published": "2026-09-22 04:01:54",
-      "ts": 1790049714
     },
     {
       "source": "CoinTelegraph",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/goldman-sees-hungary-inflation-target-cut-as-positive-for-forint-93CH-4908570",
       "published": "2026-09-21 10:09:50",
       "ts": 1789985390
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges lower as oil, Fed hike bets underpin dollar",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-lower-as-oil-fed-hike-bets-underpin-dollar-4908483",
-      "published": "2026-09-21 09:22:18",
-      "ts": 1789982538
     }
   ]
 }
