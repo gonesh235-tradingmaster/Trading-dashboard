@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T03:53:26.933032Z",
+  "updated": "2026-09-22T04:09:59.611845Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
+      "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 04:02:00 GMT",
+      "ts": 1790049720
+    },
     {
       "source": "FXStreet",
       "title": "RBA’s Bullock: Supply shocks are difficult for monetary policy to deal with",
@@ -190,13 +197,6 @@
       "link": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 20:22:00 GMT",
       "ts": 1790022120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AMD hits a major milestone as AI stocks blaze higher",
-      "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 20:19:00 GMT",
-      "ts": 1790021940
     },
     {
       "source": "CoinTelegraph",
