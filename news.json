@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T01:39:05.733502Z",
+  "updated": "2026-09-22T01:51:23.359674Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI rises to near $92.50 despite Middle East diplomacy, resuming flows",
+      "link": "https://www.fxstreet.com/news/wti-rises-to-near-9250-despite-middle-east-diplomacy-resuming-flows-202609220143",
+      "published": "Tue, 22 Sep 2026 01:43:26 GMT",
+      "ts": 1790041406
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar hits fresh low since August 5, seems vulnerable vs bullish USD",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-hits-fresh-low-since-august-5-seems-vulnerable-vs-bullish-usd-202609220140",
+      "published": "Tue, 22 Sep 2026 01:40:20 GMT",
+      "ts": 1790041220
+    },
     {
       "source": "FXStreet",
       "title": "PBOC sets USD/CNY reference rate at 6.7459 vs. 6.7487 previous",
@@ -57,20 +71,6 @@
       "link": "https://www.fxstreet.com/news/ecbs-lane-says-energy-shock-could-delay-inflations-return-to-2-202609212347",
       "published": "Mon, 21 Sep 2026 23:47:09 GMT",
       "ts": 1790034429
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar holds its nerve as Fed hawks meet RBA hike bets",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-its-nerve-as-fed-hawks-meet-rba-hike-bets-202609212339",
-      "published": "Mon, 21 Sep 2026 23:39:52 GMT",
-      "ts": 1790033992
-    },
-    {
-      "source": "FXStreet",
-      "title": "Iranian President will head to New York for UN meeting",
-      "link": "https://www.fxstreet.com/news/iranian-president-will-head-to-new-york-for-un-meeting-202609212332",
-      "published": "Mon, 21 Sep 2026 23:32:32 GMT",
-      "ts": 1790033552
     },
     {
       "source": "Investing Crypto",
