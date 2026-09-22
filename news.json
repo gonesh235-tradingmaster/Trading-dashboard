@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T20:40:03.132024Z",
+  "updated": "2026-09-22T20:52:11.661360Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
+      "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 20:46:00 GMT",
+      "ts": 1790109960
+    },
     {
       "source": "FXStreet",
       "title": "ECB’s Nagel says restrictive policy cannot be ruled out",
@@ -148,13 +155,6 @@
       "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-decline-within-tight-bands-uob-202609221839",
       "published": "Tue, 22 Sep 2026 18:39:00 GMT",
       "ts": 1790102340
-    },
-    {
-      "source": "MarketWatch",
-      "title": "She was ready to buy her dream home — but discovered the condo HOA had just 1% in cash reserves",
-      "link": "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 18:33:00 GMT",
-      "ts": 1790101980
     },
     {
       "source": "FXStreet",
@@ -416,11 +416,11 @@
       "ts": 1790001420
     },
     {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury yields ease on crude pull-back ;  rate hike bets stay",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
-      "published": "2026-09-21 12:07:57",
-      "ts": 1789992477
+      "source": "Yahoo Finance",
+      "title": "Fenimore Bets on NASDAQ’s (NDAQ) Non-Transactional Revenue Streams",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fenimore-bets-nasdaq-ndaq-non-121955576.html",
+      "published": "2026-09-21T12:19:55Z",
+      "ts": 1789993195
     }
   ]
 }
