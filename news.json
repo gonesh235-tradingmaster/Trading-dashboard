@@ -1,10 +1,31 @@
 {
-  "updated": "2026-09-22T05:39:47.927111Z",
+  "updated": "2026-09-22T05:52:29.616661Z",
   "count": 60,
   "items": [
     {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Turns flat after breakdown below 1.3400",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-turns-flat-after-breakdown-below-13400-202609220550",
+      "published": "Tue, 22 Sep 2026 05:50:18 GMT",
+      "ts": 1790056218
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee gains as oil prices remain broadly in corrective phase",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544",
+      "published": "Tue, 22 Sep 2026 05:44:10 GMT",
+      "ts": 1790055850
+    },
+    {
       "source": "CoinTelegraph",
-      "title": "Australian 40-year economic outlook recognizes ‘AI revolution’, omits crypto",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 05:40:46 +0000",
+      "ts": 1790055646
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto",
       "link": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 05:29:31 +0000",
       "ts": 1790054971
@@ -106,20 +127,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
       "published": "2026-09-22 04:01:54",
       "ts": 1790049714
-    },
-    {
-      "source": "FXStreet",
-      "title": "RBA’s Bullock: Supply shocks are difficult for monetary policy to deal with",
-      "link": "https://www.fxstreet.com/news/rbas-bullock-supply-shocks-are-difficult-for-monetary-policy-to-deal-with-202609220321",
-      "published": "Tue, 22 Sep 2026 03:21:14 GMT",
-      "ts": 1790047274
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: Needs a decisive move above 100.56 for fresh upside leg",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-needs-a-decisive-move-above-10056-for-fresh-upside-leg-202609220317",
-      "published": "Tue, 22 Sep 2026 03:17:10 GMT",
-      "ts": 1790047030
     },
     {
       "source": "CoinTelegraph",
@@ -246,13 +253,6 @@
       "link": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 20:22:00 GMT",
       "ts": 1790022120
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 19:53:04 +0000",
-      "ts": 1790020384
     },
     {
       "source": "Investing Crypto",
