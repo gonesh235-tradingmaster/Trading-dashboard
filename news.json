@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T07:42:47.751573Z",
+  "updated": "2026-09-22T07:55:08.234617Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures hold steady as traders await US-Iran diplomatic developments",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-hold-steady-as-traders-await-us-iran-diplomatic-developments-202609220754",
+      "published": "Tue, 22 Sep 2026 07:54:38 GMT",
+      "ts": 1790063678
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: Range bias holds below resistance against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-range-bias-holds-below-resistance-against-us-dollar-uob-202609220748",
+      "published": "Tue, 22 Sep 2026 07:48:34 GMT",
+      "ts": 1790063314
+    },
     {
       "source": "CoinDesk",
       "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
@@ -80,13 +94,6 @@
       "ts": 1790061080
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound: Oversold slide nears 1.3335 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-oversold-slide-nears-13335-against-us-dollar-uob-202609220659",
-      "published": "Tue, 22 Sep 2026 06:59:07 GMT",
-      "ts": 1790060347
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
       "link": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -106,13 +113,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
       "published": "2026-09-22 06:17:42",
       "ts": 1790057862
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee gives back early gains, UN General Assembly is key event",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544",
-      "published": "Tue, 22 Sep 2026 05:44:10 GMT",
-      "ts": 1790055850
     },
     {
       "source": "CoinTelegraph",
