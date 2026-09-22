@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-21T23:50:35.380326Z",
+  "updated": "2026-09-22T00:13:11.948201Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "RBA’s Hunter backs more hikes as inflation risks entrench",
+      "link": "https://www.fxstreet.com/news/rbas-hunter-backs-more-hikes-as-inflation-risks-entrench-202609212357",
+      "published": "Mon, 21 Sep 2026 23:57:53 GMT",
+      "ts": 1790035073
+    },
+    {
+      "source": "FXStreet",
+      "title": "Houthis push for control of Yemen highlands",
+      "link": "https://www.fxstreet.com/news/houthis-push-for-control-of-yemen-highlands-202609212353",
+      "published": "Mon, 21 Sep 2026 23:53:35 GMT",
+      "ts": 1790034815
+    },
     {
       "source": "FXStreet",
       "title": "ECB’s Lane says energy shock could delay inflation’s return to 2%",
@@ -136,13 +150,6 @@
       "ts": 1790024400
     },
     {
-      "source": "FXStreet",
-      "title": "Fed’s Collins eyes another hike as energy risks linger",
-      "link": "https://www.fxstreet.com/news/feds-collins-eyes-another-hike-as-energy-risks-linger-202609212044",
-      "published": "Mon, 21 Sep 2026 20:44:17 GMT",
-      "ts": 1790023457
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
@@ -176,13 +183,6 @@
       "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 20:19:00 GMT",
       "ts": 1790021940
-    },
-    {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Labour slack limits MAS tightening risk – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-labour-slack-limits-mas-tightening-risk-uob-202609212018",
-      "published": "Mon, 21 Sep 2026 20:18:00 GMT",
-      "ts": 1790021880
     },
     {
       "source": "CoinTelegraph",
