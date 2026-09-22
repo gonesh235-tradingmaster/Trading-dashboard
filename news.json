@@ -1,13 +1,55 @@
 {
-  "updated": "2026-09-22T09:54:31.425262Z",
+  "updated": "2026-09-22T10:11:15.723875Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
+      "link": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
+      "published": "Tue, 22 Sep 2026 10:07:52 +0000",
+      "ts": 1790071672
+    },
+    {
+      "source": "FXStreet",
+      "title": "South African Rand: SARB hike and hawkish tone – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-african-rand-sarb-hike-and-hawkish-tone-commerzbank-202609221007",
+      "published": "Tue, 22 Sep 2026 10:07:00 GMT",
+      "ts": 1790071620
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mortgage and refinance interest rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html",
+      "published": "2026-09-22T10:00:00Z",
+      "ts": 1790071200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Best CD rates today, Tuesday, September 22, 2026: Lock in up to 4.40% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-22-2026-lock-in-up-to-440-apy-100000744.html",
+      "published": "2026-09-22T10:00:00Z",
+      "ts": 1790071200
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
+      "link": "https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 09:58:26 +0000",
+      "ts": 1790071106
+    },
     {
       "source": "FXStreet",
       "title": "Gold Price Forecast: XAU/USD approaches $4,300 after rejection at the $4,400 area",
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-approaches-4-300-after-rejection-at-the-4-400-area-202609220950",
       "published": "Tue, 22 Sep 2026 09:50:09 GMT",
       "ts": 1790070609
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Muse really just added billions to Meta's market cap and to Mark Zuckerberg's net worth",
+      "link": "https://finance.yahoo.com/markets/stocks/article/why-muse-really-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
+      "published": "2026-09-22T09:48:53Z",
+      "ts": 1790070533
     },
     {
       "source": "FXStreet",
@@ -22,6 +64,13 @@
       "link": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
       "published": "Tue, 22 Sep 2026 09:47:15 +0000",
       "ts": 1790070435
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar holds on hawkish Fed pricing while yen languishes despite Tokyo support",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
+      "published": "2026-09-22 09:38:24",
+      "ts": 1790069904
     },
     {
       "source": "Yahoo Finance",
@@ -129,32 +178,11 @@
       "ts": 1790067468
     },
     {
-      "source": "Yahoo Finance",
-      "title": "As Trump and Xi meet, investors play both sides of AI divide",
-      "link": "https://finance.yahoo.com/technology/ai/articles/trump-xi-meet-investors-play-085656582.html",
-      "published": "2026-09-22T08:56:56Z",
-      "ts": 1790067416
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro hits fresh seven-week lows as German political uncertainty offsets risk-on mood",
-      "link": "https://www.fxstreet.com/news/euro-hits-fresh-seven-week-lows-as-german-political-uncertainty-offsets-risk-on-mood-202609220849",
-      "published": "Tue, 22 Sep 2026 08:49:51 GMT",
-      "ts": 1790066991
-    },
-    {
       "source": "FXStreet",
       "title": "WTI falls to near $90.00 after news of Iran proposing reopening Hormuz",
       "link": "https://www.fxstreet.com/news/wti-remains-above-9200-due-to-market-caution-ahead-of-un-diplomatic-talks-202609220839",
       "published": "Tue, 22 Sep 2026 08:39:16 GMT",
       "ts": 1790066356
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oil prices climb ahead of potential US-Iran talks",
-      "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
-      "published": "2026-09-22T08:26:53Z",
-      "ts": 1790065613
     },
     {
       "source": "Yahoo Finance",
@@ -178,20 +206,6 @@
       "ts": 1790064284
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Soaring Oil and Gas Prices Push Europe’s Inflation Fight Into 2027",
-      "link": "https://finance.yahoo.com/energy/articles/soaring-oil-gas-prices-push-080000656.html",
-      "published": "2026-09-22T08:00:00Z",
-      "ts": 1790064000
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar firms, yen weakens on intervention risks",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
-      "published": "2026-09-22 07:54:58",
-      "ts": 1790063698
-    },
-    {
       "source": "CoinDesk",
       "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
       "link": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
@@ -204,20 +218,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 07:33:37 +0000",
       "ts": 1790062417
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Warren Buffett Just Stepped Down. These 2 AI Stocks Still Define Berkshire’s Portfolio",
-      "link": "https://finance.yahoo.com/technology/ai/articles/warren-buffett-just-stepped-down-073051631.html",
-      "published": "2026-09-22T07:30:51Z",
-      "ts": 1790062251
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Clean Harbors (CLH): $600 Million in New Debt Raises the Stakes on Acquisition Execution",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/clean-harbors-clh-600-million-071611487.html",
-      "published": "2026-09-22T07:16:11Z",
-      "ts": 1790061371
     },
     {
       "source": "Investing Crypto",
@@ -388,13 +388,6 @@
       "ts": 1790023179
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
-      "link": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 20:37:15 +0000",
-      "ts": 1790023035
-    },
-    {
       "source": "CoinDesk",
       "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
       "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
@@ -421,6 +414,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/nowpayments-releases-crosschain-payout-data-revealing-key-performance-benchmarks-across-tron-bnb-chain-and-solana-4909411",
       "published": "2026-09-21 16:00:37",
       "ts": 1790006437
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "CryptoPawn Launches Protocol Integration Allowing Authorized AI Agents to Participate in Crypto-Backed Loan Transactions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
+      "published": "2026-09-21 15:30:38",
+      "ts": 1790004638
     }
   ]
 }
