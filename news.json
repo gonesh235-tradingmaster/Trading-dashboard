@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-22T12:12:35.563628Z",
+  "updated": "2026-09-22T12:33:39.236047Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US ADP Employment Change 4-week average increases to 20K",
+      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-increases-to-20k-202609221232",
+      "published": "Tue, 22 Sep 2026 12:32:38 GMT",
+      "ts": 1790080358
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
+      "published": "Tue, 22 Sep 2026 12:32:15 +0000",
+      "ts": 1790080335
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Wall Street and AI ruined your ‘diversified’ portfolio",
+      "link": "https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 12:24:00 GMT",
+      "ts": 1790079840
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
+      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T12:20:29Z",
+      "ts": 1790079629
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Fiscal squeeze risks dovish BoE – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-fiscal-squeeze-risks-dovish-boe-bbh-202609221220",
+      "published": "Tue, 22 Sep 2026 12:20:03 GMT",
+      "ts": 1790079603
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
+      "link": "https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 12:18:41 +0000",
+      "ts": 1790079521
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "5 really bad reasons to file for Social Security at 70 — are you waiting way too long to get your checks?",
+      "link": "https://finance.yahoo.com/small-business/articles/5-really-bad-reasons-file-121500906.html",
+      "published": "2026-09-22T12:15:00Z",
+      "ts": 1790079300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Praises OKTA for Tackling AI Security Threats",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-praises-okta-tackling-121305938.html",
+      "published": "2026-09-22T12:13:05Z",
+      "ts": 1790079185
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Netskope (NTSK): Eight Analysts Raised Targets on the AI Security Opportunity, But the Cash Burn Is Real",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-eight-analysts-raised-120822344.html",
+      "published": "2026-09-22T12:08:22Z",
+      "ts": 1790078902
+    },
     {
       "source": "CoinDesk",
       "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
@@ -17,6 +80,13 @@
       "ts": 1790078716
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Favorable Supply/Demand Backdrop Positions Essex Property Trust (ESS) For Growth",
+      "link": "https://finance.yahoo.com/real-estate/articles/favorable-supply-demand-backdrop-positions-120256791.html",
+      "published": "2026-09-22T12:02:56Z",
+      "ts": 1790078576
+    },
+    {
       "source": "MarketWatch",
       "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
       "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
@@ -25,17 +95,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "VS&Co (VSXY): Wall Street Debates Whether the Turnaround Is Already Priced In",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vs-co-vsxy-wall-street-115740561.html",
-      "published": "2026-09-22T11:57:40Z",
-      "ts": 1790078260
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MiniMed (MMED): Nine Analysts Raised Targets, But Cash Flow Still Has a Catch",
-      "link": "https://finance.yahoo.com/healthcare/articles/minimed-mmed-nine-analysts-raised-115543360.html",
-      "published": "2026-09-22T11:55:43Z",
-      "ts": 1790078143
+      "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Oil Prices, Treasury Yields Extend Losses (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T12:01:55Z",
+      "ts": 1790078515
     },
     {
       "source": "MarketWatch",
@@ -52,25 +115,11 @@
       "ts": 1790077738
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
-      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T11:48:01Z",
-      "ts": 1790077681
-    },
-    {
       "source": "MarketWatch",
       "title": "Financial conditions are tightening. Here’s why stock investors should pay attention.",
       "link": "https://www.marketwatch.com/story/financial-conditions-are-tightening-heres-why-stock-investors-should-pay-attention-a7d12134?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 11:48:00 GMT",
       "ts": 1790077680
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Prefers Brinker (EAT) Over Darden (DRI) Ahead of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-brinker-eat-114756062.html",
-      "published": "2026-09-22T11:47:56Z",
-      "ts": 1790077676
     },
     {
       "source": "FXStreet",
@@ -80,13 +129,6 @@
       "ts": 1790077674
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin and ethereum prices today, Tuesday, September 22, 2026: Crypto prices continue to surge to prices last seen in January",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724449.html",
-      "published": "2026-09-22T11:47:24Z",
-      "ts": 1790077644
-    },
-    {
       "source": "FXStreet",
       "title": "US Dollar: Modestly stronger into year-end – OCBC",
       "link": "https://www.fxstreet.com/news/us-dollar-modestly-stronger-into-year-end-ocbc-202609221145",
@@ -94,32 +136,11 @@
       "ts": 1790077537
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Oil and gas PE deals tumble as new platform buyouts dry up",
-      "link": "https://finance.yahoo.com/energy/articles/oil-gas-pe-deals-tumble-113950178.html",
-      "published": "2026-09-22T11:39:50Z",
-      "ts": 1790077190
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Saudi Arabia restarts East-West oil pipeline, sources say",
-      "link": "https://finance.yahoo.com/news/saudi-arabia-restarts-east-west-100845429.html",
-      "published": "2026-09-22T11:39:10Z",
-      "ts": 1790077150
-    },
-    {
       "source": "CoinDesk",
       "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
       "link": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
       "published": "Tue, 22 Sep 2026 11:35:43 +0000",
       "ts": 1790076943
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AARP: Social Security proposal could ‘erode’ checks for 80% of recipients. 3 moves to protect your retirement income now",
-      "link": "https://finance.yahoo.com/economy/policy/articles/aarp-social-security-proposal-could-113000944.html",
-      "published": "2026-09-22T11:30:00Z",
-      "ts": 1790076600
     },
     {
       "source": "CoinTelegraph",
@@ -185,25 +206,11 @@
       "ts": 1790074743
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen recovers against US Dollar as oil prices correct sharply",
-      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-against-us-dollar-on-hopes-of-us-iran-diplomacy-202609221052",
-      "published": "Tue, 22 Sep 2026 10:52:16 GMT",
-      "ts": 1790074336
-    },
-    {
       "source": "MarketWatch",
       "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
       "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 10:51:00 GMT",
       "ts": 1790074260
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar hesitates as Oil falls amid Hormuz reopening talks",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-hesitates-as-oil-falls-amid-hormuz-reopening-talks-202609221044",
-      "published": "Tue, 22 Sep 2026 10:44:36 GMT",
-      "ts": 1790073876
     },
     {
       "source": "CoinDesk",
@@ -255,6 +262,13 @@
       "ts": 1790069904
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Why AMD's new $1 trillion valuation makes perfect sense",
+      "link": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
+      "published": "2026-09-22T09:34:53Z",
+      "ts": 1790069693
+    },
+    {
       "source": "Investing Crypto",
       "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
       "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
@@ -290,18 +304,18 @@
       "ts": 1790068019
     },
     {
-      "source": "MarketWatch",
-      "title": "Amanda Seyfried splits with husband Thomas Sadoski, weeks after listing L.A. home for $3.2 million",
-      "link": "https://www.marketwatch.com/story/amanda-seyfried-splits-with-husband-thomas-sadoski-weeks-after-listing-l-a-home-for-3-2-million-2ed9b8ab?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 09:02:00 GMT",
-      "ts": 1790067720
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as hawkish Fed talk lifts dollar broadly",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-talk-lifts-dollar-broadly-4910096",
       "published": "2026-09-22 09:01:07",
       "ts": 1790067667
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+      "published": "2026-09-22T08:06:25Z",
+      "ts": 1790064385
     },
     {
       "source": "CoinTelegraph",
@@ -365,20 +379,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 05:40:46 +0000",
       "ts": 1790055646
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto",
-      "link": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 05:29:31 +0000",
-      "ts": 1790054971
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
-      "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
-      "published": "Tue, 22 Sep 2026 05:26:00 +0000",
-      "ts": 1790054760
     },
     {
       "source": "Investing Forex",
