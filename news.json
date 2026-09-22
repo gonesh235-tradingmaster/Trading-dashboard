@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T22:50:51.134563Z",
+  "updated": "2026-09-22T23:08:49.221646Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "49.3: Australia’s S&P Global Manufacturing PMI declines in September",
+      "link": "https://www.fxstreet.com/news/493-australias-sp-global-manufacturing-pmi-declines-in-september-202609222301",
+      "published": "Tue, 22 Sep 2026 23:01:34 GMT",
+      "ts": 1790118094
+    },
+    {
+      "source": "FXStreet",
+      "title": "The New Zealand Dollar dips to a new low and bounces as Crude Oil gets cheaper",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-dips-to-a-new-low-and-bounces-as-crude-oil-gets-cheaper-202609222254",
+      "published": "Tue, 22 Sep 2026 22:54:38 GMT",
+      "ts": 1790117678
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar remains subdued as Fed and RBA hawks collide",
@@ -155,20 +169,6 @@
       "link": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 20:27:00 GMT",
       "ts": 1790108820
-    },
-    {
-      "source": "FXStreet",
-      "title": "South Korean Won: Export surge supports BoK stance – Commerzbank",
-      "link": "https://www.fxstreet.com/news/south-korean-won-export-surge-supports-bok-stance-commerzbank-202609222026",
-      "published": "Tue, 22 Sep 2026 20:26:00 GMT",
-      "ts": 1790108760
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso carry cushion thins as USD/MXN breaks 100-day SMA",
-      "link": "https://www.fxstreet.com/news/mexican-peso-carry-cushion-thins-as-usd-mxn-breaks-100-day-sma-202609222024",
-      "published": "Tue, 22 Sep 2026 20:24:47 GMT",
-      "ts": 1790108687
     },
     {
       "source": "CoinTelegraph",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bank of America says buy tumbling shares of aviation giant",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
-      "published": "2026-09-21T14:37:00Z",
-      "ts": 1790001420
+      "title": "What Makes Curbline Properties (CURB) an Attractive Bet?",
+      "link": "https://finance.yahoo.com/real-estate/articles/makes-curbline-properties-curb-attractive-144558288.html",
+      "published": "2026-09-21T14:45:58Z",
+      "ts": 1790001958
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Fed Just Raised Rates for the First Time Since 2023. CoreWeave’s CEO Sees an ‘Inflection Point,’ But Its $51 Billion Debt Problem Just Got Worse.",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-just-raised-rates-first-143638934.html",
-      "published": "2026-09-21T14:36:38Z",
-      "ts": 1790001398
+      "title": "How Is Domino's Pizza’s Stock Performance Compared to Other Consumer Discretionary Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dominos-pizza-stock-performance-compared-144515849.html",
+      "published": "2026-09-21T14:45:15Z",
+      "ts": 1790001915
     }
   ]
 }
