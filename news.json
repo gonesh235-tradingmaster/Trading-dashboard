@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T22:08:46.037549Z",
+  "updated": "2026-09-22T22:24:51.181717Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Euro drops to its lowest since July as the Dollar keeps climbing",
+      "link": "https://www.fxstreet.com/news/the-euro-drops-to-its-lowest-since-july-as-the-dollar-keeps-climbing-202609222219",
+      "published": "Tue, 22 Sep 2026 22:19:16 GMT",
+      "ts": 1790115556
+    },
     {
       "source": "FXStreet",
       "title": "The British Pound sets a new September low as Fed officials argue for more",
@@ -190,13 +197,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-22 19:18:57",
       "ts": 1790104737
-    },
-    {
-      "source": "FXStreet",
-      "title": "Asia FX: AI-driven support for regional currencies – MUFG",
-      "link": "https://www.fxstreet.com/news/asia-fx-ai-driven-support-for-regional-currencies-mufg-202609221917",
-      "published": "Tue, 22 Sep 2026 19:17:00 GMT",
-      "ts": 1790104620
     },
     {
       "source": "Investing Crypto",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nike gets hit with yet another bearish Wall Street hot take",
-      "link": "https://finance.yahoo.com/markets/stocks/article/nike-gets-hit-with-yet-another-bearish-wall-street-hot-take-135125963.html",
-      "published": "2026-09-21T13:51:25Z",
-      "ts": 1789998685
+      "title": "SiTime Corporation (SITM) Surged on Strong AI data center demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sitime-corporation-sitm-surged-strong-141359726.html",
+      "published": "2026-09-21T14:13:59Z",
+      "ts": 1790000039
     }
   ]
 }
