@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T21:51:44.876507Z",
+  "updated": "2026-09-22T22:08:46.037549Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The British Pound sets a new September low as Fed officials argue for more",
+      "link": "https://www.fxstreet.com/news/the-british-pound-sets-a-new-september-low-as-fed-officials-argue-for-more-202609222204",
+      "published": "Tue, 22 Sep 2026 22:04:34 GMT",
+      "ts": 1790114674
+    },
+    {
+      "source": "FXStreet",
+      "title": "Chinese Yuan: RMB gains hinge on PBoC fix – OCBC",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-rmb-gains-hinge-on-pboc-fix-ocbc-202609222154",
+      "published": "Tue, 22 Sep 2026 21:54:00 GMT",
+      "ts": 1790114040
+    },
     {
       "source": "MarketWatch",
       "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
@@ -183,20 +197,6 @@
       "link": "https://www.fxstreet.com/news/asia-fx-ai-driven-support-for-regional-currencies-mufg-202609221917",
       "published": "Tue, 22 Sep 2026 19:17:00 GMT",
       "ts": 1790104620
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: Advanced PMIs in the limelight, but what about the UN General Assembly?",
-      "link": "https://www.fxstreet.com/news/forex-today-advanced-pmis-in-the-limelight-but-what-about-the-un-general-assembly-202609221854",
-      "published": "Tue, 22 Sep 2026 18:54:38 GMT",
-      "ts": 1790103278
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Gradual decline within tight bands – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-decline-within-tight-bands-uob-202609221839",
-      "published": "Tue, 22 Sep 2026 18:39:00 GMT",
-      "ts": 1790102340
     },
     {
       "source": "Investing Crypto",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Short Seller Reports Drag Ensign Group (ENSG) Down",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/short-seller-reports-drag-ensign-131917317.html",
-      "published": "2026-09-21T13:19:17Z",
-      "ts": 1789996757
+      "title": "Nike gets hit with yet another bearish Wall Street hot take",
+      "link": "https://finance.yahoo.com/markets/stocks/article/nike-gets-hit-with-yet-another-bearish-wall-street-hot-take-135125963.html",
+      "published": "2026-09-21T13:51:25Z",
+      "ts": 1789998685
     }
   ]
 }
