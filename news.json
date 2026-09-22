@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-22T07:27:55.851512Z",
+  "updated": "2026-09-22T07:42:47.751573Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
+      "link": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
+      "published": "Tue, 22 Sep 2026 07:40:41 +0000",
+      "ts": 1790062841
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro rises against Japanese Yen as latter underperforms across board",
+      "link": "https://www.fxstreet.com/news/euro-rises-against-japanese-yen-as-latter-underperforms-across-board-202609220739",
+      "published": "Tue, 22 Sep 2026 07:39:19 GMT",
+      "ts": 1790062759
+    },
+    {
+      "source": "FXStreet",
+      "title": "Hungarian Forint: MNB pause supports HUF – Commerzbank",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-mnb-pause-supports-huf-commerzbank-202609220737",
+      "published": "Tue, 22 Sep 2026 07:37:19 GMT",
+      "ts": 1790062639
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound remains on the front foot amid BoJ-inspired Yen weakness",
+      "link": "https://www.fxstreet.com/news/british-pound-remains-on-the-front-foot-amid-boj-inspired-yen-weakness-202609220733",
+      "published": "Tue, 22 Sep 2026 07:33:38 GMT",
+      "ts": 1790062418
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 07:33:37 +0000",
+      "ts": 1790062417
+    },
     {
       "source": "FXStreet",
       "title": "Euro declines as US Dollar recovers recent losses amid hawkish Fed tone",
@@ -52,25 +87,11 @@
       "ts": 1790060347
     },
     {
-      "source": "FXStreet",
-      "title": "United States Dollar Index gathers strength to near 100.50 on hawkish Fed signals",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gathers-strength-to-near-10050-on-hawkish-fed-signals-202609220652",
-      "published": "Tue, 22 Sep 2026 06:52:31 GMT",
-      "ts": 1790059951
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
       "link": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 06:48:20 +0000",
       "ts": 1790059700
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brent: Diplomatic hopes support pullback – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/brent-diplomatic-hopes-support-pullback-deutsche-bank-202609220648",
-      "published": "Tue, 22 Sep 2026 06:48:07 GMT",
-      "ts": 1790059687
     },
     {
       "source": "CoinDesk",
@@ -127,13 +148,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
       "published": "Tue, 22 Sep 2026 04:33:11 +0000",
       "ts": 1790051591
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold drops to three-day low, eyes $4,300 as hawkish Fed and Iran risks underpin USD",
-      "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-hawkish-fed-counters-sliding-us-bond-yields-202609220419",
-      "published": "Tue, 22 Sep 2026 04:19:16 GMT",
-      "ts": 1790050756
     },
     {
       "source": "CoinDesk",
@@ -311,13 +325,6 @@
       "ts": 1790010969
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
-      "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 16:56:53 +0000",
-      "ts": 1790009813
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
       "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
@@ -365,13 +372,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4909333",
       "published": "2026-09-21 14:31:45",
       "ts": 1790001105
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
-      "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
-      "published": "Mon, 21 Sep 2026 13:11:15 +0000",
-      "ts": 1789996275
     },
     {
       "source": "Investing Crypto",
