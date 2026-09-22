@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T08:44:14.839437Z",
+  "updated": "2026-09-22T08:56:44.225420Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro hits fresh seven-week lows as German political uncertainty offsets risk-on mood",
+      "link": "https://www.fxstreet.com/news/euro-hits-fresh-seven-week-lows-as-german-political-uncertainty-offsets-risk-on-mood-202609220849",
+      "published": "Tue, 22 Sep 2026 08:49:51 GMT",
+      "ts": 1790066991
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD plummets below $65 on higher-for-longer Fed interest rates narrative",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plummets-below-65-on-higher-for-longer-fed-interest-rates-narrative-202609220844",
+      "published": "Tue, 22 Sep 2026 08:44:34 GMT",
+      "ts": 1790066674
+    },
     {
       "source": "FXStreet",
       "title": "WTI remains above $92.00 due to market caution ahead of UN diplomatic talks",
@@ -59,32 +73,11 @@
       "ts": 1790064284
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound reverses earlier gains as UK Public Sector Net Borrowing surges",
-      "link": "https://www.fxstreet.com/news/british-pound-reverses-earlier-gains-as-uk-public-sector-net-borrowing-surges-202609220802",
-      "published": "Tue, 22 Sep 2026 08:02:04 GMT",
-      "ts": 1790064124
-    },
-    {
-      "source": "FXStreet",
-      "title": "Equities: Fresh optimism lifts S&P 500 near highs – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-fresh-optimism-lifts-sp-500-near-highs-deutsche-bank-202609220756",
-      "published": "Tue, 22 Sep 2026 07:56:59 GMT",
-      "ts": 1790063819
-    },
-    {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar firms, yen weakens on intervention risks",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
       "published": "2026-09-22 07:54:58",
       "ts": 1790063698
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures hold steady as traders await US-Iran diplomatic developments",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-hold-steady-as-traders-await-us-iran-diplomatic-developments-202609220754",
-      "published": "Tue, 22 Sep 2026 07:54:38 GMT",
-      "ts": 1790063678
     },
     {
       "source": "CoinDesk",
@@ -127,6 +120,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
       "published": "2026-09-22 06:17:42",
       "ts": 1790057862
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee surrenders early gains, UN General Assembly awaited",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544",
+      "published": "Tue, 22 Sep 2026 05:44:10 GMT",
+      "ts": 1790055850
     },
     {
       "source": "CoinTelegraph",
