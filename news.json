@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T00:54:39.100755Z",
+  "updated": "2026-09-22T01:08:30.978213Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD sticks to gains near mid-$66.00s; 23.6% Fibo. holds the key",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-sticks-to-gains-near-mid-6600s-236-fibo-holds-the-key-202609220056",
+      "published": "Tue, 22 Sep 2026 00:56:57 GMT",
+      "ts": 1790038617
+    },
     {
       "source": "FXStreet",
       "title": "Euro edges higher above 1.1450 despite German political risks, hawkish Fed rhetoric",
@@ -25,7 +32,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Houthis push for control of Yemen highlands",
+      "title": "Yemeni forces says Houthis drone, fighters targeted",
       "link": "https://www.fxstreet.com/news/houthis-push-for-control-of-yemen-highlands-202609212353",
       "published": "Mon, 21 Sep 2026 23:53:35 GMT",
       "ts": 1790034815
@@ -57,13 +64,6 @@
       "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-350-on-rising-odds-of-fed-rate-hike-202609212317",
       "published": "Mon, 21 Sep 2026 23:17:19 GMT",
       "ts": 1790032639
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Japanese Yen keeps sliding after the Bank of Japan's split vote",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-keeps-sliding-after-the-bank-of-japans-split-vote-202609212301",
-      "published": "Mon, 21 Sep 2026 23:01:01 GMT",
-      "ts": 1790031661
     },
     {
       "source": "FXStreet",
