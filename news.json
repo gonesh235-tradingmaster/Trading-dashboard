@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T00:34:58.557697Z",
+  "updated": "2026-09-22T00:54:39.100755Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro edges higher above 1.1450 despite German political risks, hawkish Fed rhetoric",
+      "link": "https://www.fxstreet.com/news/euro-edges-higher-above-11450-despite-german-political-risks-hawkish-fed-rhetoric-202609220053",
+      "published": "Tue, 22 Sep 2026 00:53:45 GMT",
+      "ts": 1790038425
+    },
     {
       "source": "FXStreet",
       "title": "Donald Trump administration plans $5 billion Middle East reconstruction fund for Iran war",
@@ -57,13 +64,6 @@
       "link": "https://www.fxstreet.com/news/the-japanese-yen-keeps-sliding-after-the-bank-of-japans-split-vote-202609212301",
       "published": "Mon, 21 Sep 2026 23:01:01 GMT",
       "ts": 1790031661
-    },
-    {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: Bears lean on 0.5700 as RSI sinks",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-lean-on-05700-as-rsi-sinks-202609212252",
-      "published": "Mon, 21 Sep 2026 22:52:24 GMT",
-      "ts": 1790031144
     },
     {
       "source": "FXStreet",
