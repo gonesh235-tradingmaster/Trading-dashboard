@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T13:45:03.232230Z",
+  "updated": "2026-09-22T13:56:51.678410Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
+      "link": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
+      "published": "2026-09-22 13:38:01",
+      "ts": 1790084281
+    },
     {
       "source": "FXStreet",
       "title": "India: Growth, liquidity and policy response – DBS",
@@ -270,7 +277,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Oil falls as Iran signals possible Hormuz reopening, bitcoin holds near $86,000",
+      "title": "Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains",
       "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
       "published": "Tue, 22 Sep 2026 10:20:12 +0000",
       "ts": 1790072412
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
       "published": "2026-09-21 21:37:00",
       "ts": 1790026620
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
-      "published": "2026-09-21 21:01:45",
-      "ts": 1790024505
     }
   ]
 }
