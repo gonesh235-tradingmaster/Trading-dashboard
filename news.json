@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T20:09:41.426046Z",
+  "updated": "2026-09-22T20:25:29.360103Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso carry cushion thins as USD/MXN breaks 100-day SMA",
+      "link": "https://www.fxstreet.com/news/mexican-peso-carry-cushion-thins-as-usd-mxn-breaks-100-day-sma-202609222024",
+      "published": "Tue, 22 Sep 2026 20:24:47 GMT",
+      "ts": 1790108687
+    },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
@@ -162,13 +169,6 @@
       "link": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
       "published": "Tue, 22 Sep 2026 17:34:03 +0000",
       "ts": 1790098443
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Barkin backs rate hike, stays unsure on more increases",
-      "link": "https://www.fxstreet.com/news/feds-barkin-backs-rate-hike-stays-unsure-on-more-increases-202609221715",
-      "published": "Tue, 22 Sep 2026 17:15:42 GMT",
-      "ts": 1790097342
     },
     {
       "source": "MarketWatch",
