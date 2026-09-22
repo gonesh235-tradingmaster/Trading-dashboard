@@ -1,13 +1,48 @@
 {
-  "updated": "2026-09-22T19:37:50.494743Z",
+  "updated": "2026-09-22T19:51:33.470672Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Taiwan Dollar: Equity inflows support TWD againt US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-equity-inflows-support-twd-againt-us-dollar-ocbc-202609221951",
+      "published": "Tue, 22 Sep 2026 19:51:00 GMT",
+      "ts": 1790106660
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
+      "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 19:48:00 GMT",
+      "ts": 1790106480
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 19:45:00 GMT",
+      "ts": 1790106300
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold losses altitude as peace hopes meet hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/gold-losses-altitude-as-peace-hopes-meet-hawkish-fed-bets-202609221936",
+      "published": "Tue, 22 Sep 2026 19:36:49 GMT",
+      "ts": 1790105809
+    },
     {
       "source": "MarketWatch",
       "title": "Trump endorses diesel export ban. A decision is coming ‘fast, one way or the other.’",
       "link": "https://www.marketwatch.com/story/trump-endorses-diesel-export-ban-a-decision-is-coming-fast-one-way-or-the-other-a49055bc?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 19:30:00 GMT",
       "ts": 1790105400
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin overbought at $86,550 with RSI 75 divergence: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-22 19:18:57",
+      "ts": 1790104737
     },
     {
       "source": "FXStreet",
@@ -46,7 +81,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "She was ready to buy her dream condo — but discovered the HOA had just 1% in cash reserves",
+      "title": "She was ready to buy her dream home — but discovered the condo HOA had just 1% in cash reserves",
       "link": "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 18:33:00 GMT",
       "ts": 1790101980
@@ -129,39 +164,11 @@
       "ts": 1790096400
     },
     {
-      "source": "MarketWatch",
-      "title": "Want to retire with more money? Leave the country for work early in your career.",
-      "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 16:40:00 GMT",
-      "ts": 1790095200
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound sinks as USD shrugs off Hormuz reopening hopes",
-      "link": "https://www.fxstreet.com/news/british-pound-sinks-as-usd-shrugs-off-hormuz-reopening-hopes-202609221639",
-      "published": "Tue, 22 Sep 2026 16:39:12 GMT",
-      "ts": 1790095152
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
-      "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 16:24:00 GMT",
-      "ts": 1790094240
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Zcash gets first European ETP following US ETF launch",
       "link": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 16:21:44 +0000",
       "ts": 1790094104
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average drops from a weekly high as bank shares slide",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-drops-from-a-weekly-high-as-bank-shares-slide-202609221609",
-      "published": "Tue, 22 Sep 2026 16:09:13 GMT",
-      "ts": 1790093353
     },
     {
       "source": "CoinTelegraph",
@@ -337,13 +344,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-talk-lifts-dollar-broadly-4910096",
       "published": "2026-09-22 09:01:07",
       "ts": 1790067667
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin overbought at $87K high, mean-reversion risk: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-22 07:11:43",
-      "ts": 1790061103
     },
     {
       "source": "Investing Forex",
