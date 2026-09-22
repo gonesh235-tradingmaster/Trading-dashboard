@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-22T03:10:07.354248Z",
+  "updated": "2026-09-22T03:27:19.632553Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "RBA’s Bullock: Supply shocks are difficult for monetary policy to deal with",
+      "link": "https://www.fxstreet.com/news/rbas-bullock-supply-shocks-are-difficult-for-monetary-policy-to-deal-with-202609220321",
+      "published": "Tue, 22 Sep 2026 03:21:14 GMT",
+      "ts": 1790047274
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: Needs a decisive move above 100.56 for fresh upside leg",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-needs-a-decisive-move-above-10056-for-fresh-upside-leg-202609220317",
+      "published": "Tue, 22 Sep 2026 03:17:10 GMT",
+      "ts": 1790047030
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
+      "link": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 03:13:22 +0000",
+      "ts": 1790046802
+    },
     {
       "source": "FXStreet",
       "title": "EUR/JPY Price Forecast: Remains above 180.50 amid subdued upside momentum",
@@ -64,20 +85,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-hits-fresh-low-since-august-5-seems-vulnerable-vs-bullish-usd-202609220140",
       "published": "Tue, 22 Sep 2026 01:40:20 GMT",
       "ts": 1790041220
-    },
-    {
-      "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7459 vs. 6.7487 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67459-vs-67487-previous-202609220115",
-      "published": "Tue, 22 Sep 2026 01:15:32 GMT",
-      "ts": 1790039732
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Treasury Secretary Bessent says all Iranian airlines to shut down worldwide by September 23",
-      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-says-all-iranian-airlines-to-shut-down-worldwide-by-september-23-202609220112",
-      "published": "Tue, 22 Sep 2026 01:12:34 GMT",
-      "ts": 1790039554
     },
     {
       "source": "Investing Crypto",
@@ -309,13 +316,6 @@
       "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
       "published": "Mon, 21 Sep 2026 13:11:15 +0000",
       "ts": 1789996275
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
-      "link": "https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 12:48:21 +0000",
-      "ts": 1789994901
     },
     {
       "source": "CoinDesk",
