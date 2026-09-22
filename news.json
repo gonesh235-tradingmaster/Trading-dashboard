@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-22T10:55:17.241649Z",
+  "updated": "2026-09-22T11:09:55.907638Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+      "link": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+      "published": "Tue, 22 Sep 2026 11:07:23 +0000",
+      "ts": 1790075243
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
+      "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
+      "published": "Tue, 22 Sep 2026 10:59:03 +0000",
+      "ts": 1790074743
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How this market-beating fund is constantly shifting to keep up with the AI trade",
+      "link": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 10:59:00 GMT",
+      "ts": 1790074740
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen recovers against US Dollar as oil prices correct sharply",
@@ -17,6 +38,13 @@
       "ts": 1790074260
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Home Depot CFO issues chilling alarm over ‘frozen’ US housing market — crucial metric plunges to historic low",
+      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
+      "published": "2026-09-22T10:45:00Z",
+      "ts": 1790073900
+    },
+    {
       "source": "FXStreet",
       "title": "Canadian Dollar hesitates as Oil falls amid Hormuz reopening talks",
       "link": "https://www.fxstreet.com/news/canadian-dollar-hesitates-as-oil-falls-amid-hormuz-reopening-talks-202609221044",
@@ -25,10 +53,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "BWX Technologies (BWXT) Wins $4 Million Y-12 Design Contract. Could Construction Follow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-wins-4-104356882.html",
+      "published": "2026-09-22T10:43:56Z",
+      "ts": 1790073836
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Gold price today, Tuesday, September 22, 2026: Gold prices holding as Chinese gold imports set record",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-september-22-2026-gold-prices-holding-as-chinese-gold-imports-set-record-104326063.html",
       "published": "2026-09-22T10:43:26Z",
       "ts": 1790073806
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Morning Bid: As oil swoons, AI recharges",
+      "link": "https://finance.yahoo.com/news/morning-bid-oil-swoons-ai-103925671.html",
+      "published": "2026-09-22T10:39:25Z",
+      "ts": 1790073565
     },
     {
       "source": "Yahoo Finance",
@@ -59,13 +101,6 @@
       "ts": 1790072331
     },
     {
-      "source": "Yahoo Finance",
-      "title": "1 in 5 Americans thinks sports betting is an ‘investment’ — but the data says something different",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-5-americans-thinks-sports-101500032.html",
-      "published": "2026-09-22T10:15:00Z",
-      "ts": 1790072100
-    },
-    {
       "source": "MarketWatch",
       "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
       "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
@@ -73,32 +108,11 @@
       "ts": 1790072100
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
-      "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
-      "published": "2026-09-22T10:08:50Z",
-      "ts": 1790071730
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "As Trump and Xi meet, investors play both sides of AI divide",
-      "link": "https://finance.yahoo.com/technology/ai/articles/trump-xi-meet-investors-play-085656582.html",
-      "published": "2026-09-22T10:08:40Z",
-      "ts": 1790071720
-    },
-    {
       "source": "CoinDesk",
       "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
       "link": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
       "published": "Tue, 22 Sep 2026 10:07:52 +0000",
       "ts": 1790071672
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Corporate bond buyers get picky with flood of AI debt",
-      "link": "https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html",
-      "published": "2026-09-22T10:07:40Z",
-      "ts": 1790071660
     },
     {
       "source": "FXStreet",
@@ -239,6 +253,13 @@
       "link": "https://www.fxstreet.com/news/wti-remains-above-9200-due-to-market-caution-ahead-of-un-diplomatic-talks-202609220839",
       "published": "Tue, 22 Sep 2026 08:39:16 GMT",
       "ts": 1790066356
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+      "published": "2026-09-22T08:06:25Z",
+      "ts": 1790064385
     },
     {
       "source": "CoinTelegraph",
@@ -388,13 +409,6 @@
       "ts": 1790026620
     },
     {
-      "source": "MarketWatch",
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 21:30:00 GMT",
-      "ts": 1790026200
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
@@ -402,25 +416,11 @@
       "ts": 1790024505
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
-      "published": "Mon, 21 Sep 2026 20:39:39 +0000",
-      "ts": 1790023179
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
-      "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
-      "published": "Mon, 21 Sep 2026 19:08:40 +0000",
-      "ts": 1790017720
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
-      "published": "2026-09-21 17:16:09",
-      "ts": 1790010969
+      "source": "Yahoo Finance",
+      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
+      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
+      "published": "2026-09-21T18:17:21Z",
+      "ts": 1790014641
     }
   ]
 }
