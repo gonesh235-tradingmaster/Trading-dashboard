@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-22T09:42:51.194739Z",
+  "updated": "2026-09-22T09:54:31.425262Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold Price Forecast: XAU/USD approaches $4,300 after rejection at the $4,400 area",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-approaches-4-300-after-rejection-at-the-4-400-area-202609220950",
+      "published": "Tue, 22 Sep 2026 09:50:09 GMT",
+      "ts": 1790070609
+    },
+    {
+      "source": "FXStreet",
+      "title": "Hungarian Forint: NBH stance supports carry appeal – ING",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-nbh-stance-supports-carry-appeal-ing-202609220947",
+      "published": "Tue, 22 Sep 2026 09:47:43 GMT",
+      "ts": 1790070463
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
+      "link": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
+      "published": "Tue, 22 Sep 2026 09:47:15 +0000",
+      "ts": 1790070435
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why AMD's new $1 trillion valuation makes perfect sense",
+      "link": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
+      "published": "2026-09-22T09:34:53Z",
+      "ts": 1790069693
+    },
     {
       "source": "Investing Crypto",
       "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
@@ -116,24 +144,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD plummets below $65 on higher-for-longer Fed interest rates narrative",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plummets-below-65-on-higher-for-longer-fed-interest-rates-narrative-202609220844",
-      "published": "Tue, 22 Sep 2026 08:44:34 GMT",
-      "ts": 1790066674
-    },
-    {
-      "source": "FXStreet",
       "title": "WTI falls to near $90.00 after news of Iran proposing reopening Hormuz",
       "link": "https://www.fxstreet.com/news/wti-remains-above-9200-due-to-market-caution-ahead-of-un-diplomatic-talks-202609220839",
       "published": "Tue, 22 Sep 2026 08:39:16 GMT",
       "ts": 1790066356
-    },
-    {
-      "source": "FXStreet",
-      "title": "Federal Reserve: Hiking path constrained by supply shocks – BNY",
-      "link": "https://www.fxstreet.com/news/federal-reserve-hiking-path-constrained-by-supply-shocks-bny-202609220832",
-      "published": "Tue, 22 Sep 2026 08:32:52 GMT",
-      "ts": 1790065972
     },
     {
       "source": "Yahoo Finance",
@@ -218,13 +232,6 @@
       "link": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 06:48:20 +0000",
       "ts": 1790059700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Generac Holdings Inc. (GNRC) Stock a Top AI Infrastructure Play After $2.4 Billion Amazon Deal?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/generac-holdings-inc-gnrc-stock-064555046.html",
-      "published": "2026-09-22T06:45:55Z",
-      "ts": 1790059555
     },
     {
       "source": "CoinDesk",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/nowpayments-releases-crosschain-payout-data-revealing-key-performance-benchmarks-across-tron-bnb-chain-and-solana-4909411",
       "published": "2026-09-21 16:00:37",
       "ts": 1790006437
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "CryptoPawn Launches Protocol Integration Allowing Authorized AI Agents to Participate in Crypto-Backed Loan Transactions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
-      "published": "2026-09-21 15:30:38",
-      "ts": 1790004638
     }
   ]
 }
