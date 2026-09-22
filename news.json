@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T06:56:06.974872Z",
+  "updated": "2026-09-22T07:11:58.244661Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "NZD/USD Price Forecast: Upside attempts likely to be tested at 0.5800",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-upside-attempts-likely-to-be-tested-at-05800-202609220711",
+      "published": "Tue, 22 Sep 2026 07:11:20 GMT",
+      "ts": 1790061080
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Oversold slide nears 1.3335 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-oversold-slide-nears-13335-against-us-dollar-uob-202609220659",
+      "published": "Tue, 22 Sep 2026 06:59:07 GMT",
+      "ts": 1790060347
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index gathers strength to near 100.50 on hawkish Fed signals",
@@ -67,24 +81,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Euro: Downtrend eyes 1.1400 support against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-downtrend-eyes-11400-support-against-us-dollar-uob-202609220604",
-      "published": "Tue, 22 Sep 2026 06:04:20 GMT",
-      "ts": 1790057060
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar strengthens on rising oil prices ahead of potential US-Iran talks",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-on-rising-oil-prices-ahead-of-potential-us-iran-talks-202609220552",
-      "published": "Tue, 22 Sep 2026 05:52:50 GMT",
-      "ts": 1790056370
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Turns flat after breakdown below 1.3400",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-turns-flat-after-breakdown-below-13400-202609220550",
-      "published": "Tue, 22 Sep 2026 05:50:18 GMT",
-      "ts": 1790056218
+      "title": "Indian Rupee gives back early gains, UN General Assembly is key event",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544",
+      "published": "Tue, 22 Sep 2026 05:44:10 GMT",
+      "ts": 1790055850
     },
     {
       "source": "CoinTelegraph",
