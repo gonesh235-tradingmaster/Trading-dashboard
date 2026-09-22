@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T22:24:51.181717Z",
+  "updated": "2026-09-22T22:38:32.617790Z",
   "count": 60,
   "items": [
     {
@@ -8,6 +8,13 @@
       "link": "https://www.fxstreet.com/news/the-euro-drops-to-its-lowest-since-july-as-the-dollar-keeps-climbing-202609222219",
       "published": "Tue, 22 Sep 2026 22:19:16 GMT",
       "ts": 1790115556
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin takes a breather, halting a big rally that briefly took it above $87k",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
+      "published": "2026-09-22 22:16:25",
+      "ts": 1790115385
     },
     {
       "source": "FXStreet",
@@ -241,13 +248,6 @@
       "ts": 1790091437
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin climbs above $86k as Strategy buys more coins",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
-      "published": "2026-09-22 15:27:04",
-      "ts": 1790090824
-    },
-    {
       "source": "CoinDesk",
       "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
       "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "SiTime Corporation (SITM) Surged on Strong AI data center demand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sitime-corporation-sitm-surged-strong-141359726.html",
-      "published": "2026-09-21T14:13:59Z",
-      "ts": 1790000039
+      "title": "Bloom Energy (BE) Surges as AI Hyperscalers Adopt Solid Oxide Fuel Cells",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-surges-ai-hyperscalers-141646925.html",
+      "published": "2026-09-21T14:16:46Z",
+      "ts": 1790000206
     }
   ]
 }
