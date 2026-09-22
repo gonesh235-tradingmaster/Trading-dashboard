@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-22T21:09:06.870104Z",
+  "updated": "2026-09-22T21:24:06.376032Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Sideways bias holds above support against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-sideways-bias-holds-above-support-against-us-dollar-uob-202609222112",
+      "published": "Tue, 22 Sep 2026 21:12:00 GMT",
+      "ts": 1790111520
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Arch Lending eyes tokenized stocks as next collateral market",
+      "link": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 21:06:52 +0000",
+      "ts": 1790111212
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar pinned at nearly 8-week high, euro slips while yen flat amid holiday volume",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
+      "published": "2026-09-22 20:59:43",
+      "ts": 1790110783
+    },
     {
       "source": "CoinTelegraph",
       "title": "Republican senator calls for probe into US presidents’ sons, citing crypto ventures",
@@ -171,13 +192,6 @@
       "ts": 1790102340
     },
     {
-      "source": "FXStreet",
-      "title": "WTI extends decline as Trump signals progress in talks with Iran",
-      "link": "https://www.fxstreet.com/news/wti-extends-decline-as-trump-signals-progress-in-talks-with-iran-202609221825",
-      "published": "Tue, 22 Sep 2026 18:25:01 GMT",
-      "ts": 1790101501
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Climbs 12% As Investors Gain Confidence",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
@@ -297,13 +311,6 @@
       "ts": 1790076943
     },
     {
-      "source": "CoinTelegraph",
-      "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
-      "link": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 11:29:35 +0000",
-      "ts": 1790076575
-    },
-    {
       "source": "CoinDesk",
       "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
       "link": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
@@ -323,13 +330,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
       "published": "Tue, 22 Sep 2026 10:20:12 +0000",
       "ts": 1790072412
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar holds on hawkish Fed pricing while yen languishes despite Tokyo support",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
-      "published": "2026-09-22 09:38:24",
-      "ts": 1790069904
     },
     {
       "source": "Investing Crypto",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tokenized-equities-ai-disruption-threaten-122633931.html",
-      "published": "2026-09-21T12:26:33Z",
-      "ts": 1789993593
+      "title": "Is Interactive Brokers Stock Outperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-stock-outperforming-p-124733322.html",
+      "published": "2026-09-21T12:47:33Z",
+      "ts": 1789994853
     }
   ]
 }
