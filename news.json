@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-22T20:52:11.661360Z",
+  "updated": "2026-09-22T21:09:06.870104Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Republican senator calls for probe into US presidents’ sons, citing crypto ventures",
+      "link": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 20:57:51 +0000",
+      "ts": 1790110671
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
+      "link": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 20:54:00 GMT",
+      "ts": 1790110440
+    },
+    {
+      "source": "FXStreet",
+      "title": "Banxico expected to stay put as inflation risks block easing – Reuters",
+      "link": "https://www.fxstreet.com/news/banxico-expected-to-stay-put-as-inflation-risks-block-easing-reuters-202609222051",
+      "published": "Tue, 22 Sep 2026 20:51:36 GMT",
+      "ts": 1790110296
+    },
     {
       "source": "MarketWatch",
       "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
@@ -136,13 +157,6 @@
       "ts": 1790103600
     },
     {
-      "source": "MarketWatch",
-      "title": "The bond market is flashing a warning for stocks. These sectors are already wobbling.",
-      "link": "https://www.marketwatch.com/story/the-bond-market-is-flashing-a-warning-for-stocks-these-sectors-are-already-wobbling-015dc707?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 19:00:00 GMT",
-      "ts": 1790103600
-    },
-    {
       "source": "FXStreet",
       "title": "Forex Today: Advanced PMIs in the limelight, but what about the UN General Assembly?",
       "link": "https://www.fxstreet.com/news/forex-today-advanced-pmis-in-the-limelight-but-what-about-the-un-general-assembly-202609221854",
@@ -162,13 +176,6 @@
       "link": "https://www.fxstreet.com/news/wti-extends-decline-as-trump-signals-progress-in-talks-with-iran-202609221825",
       "published": "Tue, 22 Sep 2026 18:25:01 GMT",
       "ts": 1790101501
-    },
-    {
-      "source": "FXStreet",
-      "title": "Trump signals diplomatic push on Ukraine and Iran as diesel ban looms",
-      "link": "https://www.fxstreet.com/news/trump-signals-diplomatic-push-on-ukraine-and-iran-as-diesel-ban-looms-202609221809",
-      "published": "Tue, 22 Sep 2026 18:09:07 GMT",
-      "ts": 1790100547
     },
     {
       "source": "Investing Crypto",
@@ -318,13 +325,6 @@
       "ts": 1790072412
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
-      "link": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 10:00:43 +0000",
-      "ts": 1790071243
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar holds on hawkish Fed pricing while yen languishes despite Tokyo support",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fenimore Bets on NASDAQ’s (NDAQ) Non-Transactional Revenue Streams",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fenimore-bets-nasdaq-ndaq-non-121955576.html",
-      "published": "2026-09-21T12:19:55Z",
-      "ts": 1789993195
+      "title": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tokenized-equities-ai-disruption-threaten-122633931.html",
+      "published": "2026-09-21T12:26:33Z",
+      "ts": 1789993593
     }
   ]
 }
