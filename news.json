@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T01:08:30.978213Z",
+  "updated": "2026-09-22T01:25:07.069594Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7459 vs. 6.7487 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67459-vs-67487-previous-202609220115",
+      "published": "Tue, 22 Sep 2026 01:15:32 GMT",
+      "ts": 1790039732
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Treasury Secretary Bessent says all Iranian airlines to shut down worldwide by September 23",
+      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-says-all-iranian-airlines-to-shut-down-worldwide-by-september-23-202609220112",
+      "published": "Tue, 22 Sep 2026 01:12:34 GMT",
+      "ts": 1790039554
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD sticks to gains near mid-$66.00s; 23.6% Fibo. holds the key",
@@ -57,20 +71,6 @@
       "link": "https://www.fxstreet.com/news/iranian-president-will-head-to-new-york-for-un-meeting-202609212332",
       "published": "Mon, 21 Sep 2026 23:32:32 GMT",
       "ts": 1790033552
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold declines to near $4,350 on rising odds of Fed rate hike",
-      "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-350-on-rising-odds-of-fed-rate-hike-202609212317",
-      "published": "Mon, 21 Sep 2026 23:17:19 GMT",
-      "ts": 1790032639
-    },
-    {
-      "source": "FXStreet",
-      "title": "The British Pound slips again as bets on an October Fed hike build",
-      "link": "https://www.fxstreet.com/news/the-british-pound-slips-again-as-bets-on-an-october-fed-hike-build-202609212242",
-      "published": "Mon, 21 Sep 2026 22:42:45 GMT",
-      "ts": 1790030565
     },
     {
       "source": "Investing Crypto",
