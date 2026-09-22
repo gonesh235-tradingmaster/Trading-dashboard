@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-22T16:43:00.385062Z",
+  "updated": "2026-09-22T16:54:51.082495Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "McDonald's has 1 shot to turn around its dreadful year",
+      "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-has-1-shot-to-turn-around-its-dreadful-year-164554149.html",
+      "published": "2026-09-22T16:45:54Z",
+      "ts": 1790095554
+    },
     {
       "source": "MarketWatch",
       "title": "Want to retire with more money? Leave the country for work early in your career.",
       "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 16:40:00 GMT",
       "ts": 1790095200
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound sinks as USD shrugs off Hormuz reopening hopes",
+      "link": "https://www.fxstreet.com/news/british-pound-sinks-as-usd-shrugs-off-hormuz-reopening-hopes-202609221639",
+      "published": "Tue, 22 Sep 2026 16:39:12 GMT",
+      "ts": 1790095152
     },
     {
       "source": "Yahoo Finance",
@@ -85,13 +99,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 16:01:55 +0000",
       "ts": 1790092915
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "As Amazon Stock Prospers, Traders Might Consider This Option Play",
-      "link": "https://www.investors.com/research/options/amazon-amzn-stock-bull-put-spread-options/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T15:57:55Z",
-      "ts": 1790092675
     },
     {
       "source": "FXStreet",
@@ -204,13 +211,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
       "published": "Tue, 22 Sep 2026 14:32:59 +0000",
       "ts": 1790087579
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar: USD strength keeps CAD weakness in focus - Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-usd-strength-keeps-cad-weakness-in-focus-scotiabank-202609221427",
-      "published": "Tue, 22 Sep 2026 14:27:11 GMT",
-      "ts": 1790087231
     },
     {
       "source": "MarketWatch",
