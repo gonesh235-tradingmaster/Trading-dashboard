@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-22T10:43:59.228628Z",
+  "updated": "2026-09-22T10:55:17.241649Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen recovers against US Dollar as oil prices correct sharply",
+      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-against-us-dollar-on-hopes-of-us-iran-diplomacy-202609221052",
+      "published": "Tue, 22 Sep 2026 10:52:16 GMT",
+      "ts": 1790074336
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+      "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 10:51:00 GMT",
+      "ts": 1790074260
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar hesitates as Oil falls amid Hormuz reopening talks",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-hesitates-as-oil-falls-amid-hormuz-reopening-talks-202609221044",
+      "published": "Tue, 22 Sep 2026 10:44:36 GMT",
+      "ts": 1790073876
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Gold price today, Tuesday, September 22, 2026: Gold prices holding as Chinese gold imports set record",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-september-22-2026-gold-prices-holding-as-chinese-gold-imports-set-record-104326063.html",
+      "published": "2026-09-22T10:43:26Z",
+      "ts": 1790073806
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Airlines are cutting capacity again amid $1B surge in Q4 fuel costs — here's what that means for travelers",
+      "link": "https://finance.yahoo.com/economy/articles/airlines-cutting-capacity-again-amid-103000279.html",
+      "published": "2026-09-22T10:30:00Z",
+      "ts": 1790073000
+    },
     {
       "source": "Yahoo Finance",
       "title": "Roivant (ROIV): $9 Billion Sales Potential Faces a Commercialization Test",
@@ -73,25 +108,11 @@
       "ts": 1790071620
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stellantis (STLA) Reportedly Eyes $1.16 Billion France Van Investment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-reportedly-eyes-1-100646836.html",
-      "published": "2026-09-22T10:06:46Z",
-      "ts": 1790071606
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
       "link": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 10:00:43 +0000",
       "ts": 1790071243
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html",
-      "published": "2026-09-22T10:00:00Z",
-      "ts": 1790071200
     },
     {
       "source": "CoinTelegraph",
@@ -214,13 +235,6 @@
     },
     {
       "source": "FXStreet",
-      "title": "Iran offers to reopen Hormuz Strait within 7 days – Kyodo News",
-      "link": "https://www.fxstreet.com/news/iran-offers-to-reopen-hormuz-strait-within-7-days-kyodo-news-202609220857",
-      "published": "Tue, 22 Sep 2026 08:57:48 GMT",
-      "ts": 1790067468
-    },
-    {
-      "source": "FXStreet",
       "title": "WTI falls to near $90.00 after news of Iran proposing reopening Hormuz",
       "link": "https://www.fxstreet.com/news/wti-remains-above-9200-due-to-market-caution-ahead-of-un-diplomatic-talks-202609220839",
       "published": "Tue, 22 Sep 2026 08:39:16 GMT",
@@ -274,13 +288,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
       "published": "Tue, 22 Sep 2026 06:27:28 +0000",
       "ts": 1790058448
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee surrenders early gains, UN General Assembly awaited",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544",
-      "published": "Tue, 22 Sep 2026 05:44:10 GMT",
-      "ts": 1790055850
     },
     {
       "source": "CoinTelegraph",
@@ -365,13 +372,6 @@
       "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 21:57:00 GMT",
       "ts": 1790027820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
-      "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 21:47:00 GMT",
-      "ts": 1790027220
     },
     {
       "source": "Investing Crypto",
