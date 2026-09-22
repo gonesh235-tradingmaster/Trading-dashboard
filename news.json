@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-22T12:33:39.236047Z",
+  "updated": "2026-09-22T12:56:13.235555Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar steadies as Middle East diplomacy takes focus",
+      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-as-middle-east-diplomacy-takes-focus-202609221255",
+      "published": "Tue, 22 Sep 2026 12:55:18 GMT",
+      "ts": 1790081718
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 12:53:00 GMT",
+      "ts": 1790081580
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Hawkish fedspeak backs upside risks – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fedspeak-backs-upside-risks-ing-202609221248",
+      "published": "Tue, 22 Sep 2026 12:48:04 GMT",
+      "ts": 1790081284
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Princeton’s 15-year run as the nation’s top-ranked university is over. MIT is now No. 1.",
+      "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 12:43:00 GMT",
+      "ts": 1790080980
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "'Crypto winter is over,' says analyst as bitcoin tops $86,000: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/crypto-winter-is-over-says-analyst-as-bitcoin-tops-86000-chart-of-the-day-124006079.html",
+      "published": "2026-09-22T12:40:06Z",
+      "ts": 1790080806
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Xpeng’s Tech-Licensing Expansion Meets a Core Auto Business Still Losing Money",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/xpeng-tech-licensing-expansion-meets-123610355.html",
+      "published": "2026-09-22T12:36:10Z",
+      "ts": 1790080570
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: RBA seen hiking as inflation risks build – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-seen-hiking-as-inflation-risks-build-standard-chartered-202609221234",
+      "published": "Tue, 22 Sep 2026 12:34:29 GMT",
+      "ts": 1790080469
+    },
     {
       "source": "FXStreet",
       "title": "US ADP Employment Change 4-week average increases to 20K",
@@ -17,6 +66,27 @@
       "ts": 1790080335
     },
     {
+      "source": "Yahoo Finance",
+      "title": "'SICK conspiracy': Trump dismisses calls to rein in AI as his sons cash in on AI-linked defence and tech investments",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sick-conspiracy-trump-dismisses-calls-123000393.html",
+      "published": "2026-09-22T12:30:00Z",
+      "ts": 1790080200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oil falls to two-week low as Gulf supply outlook improves",
+      "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
+      "published": "2026-09-22T12:28:03Z",
+      "ts": 1790080083
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "3M’s CEO Says the Turnaround Is Ahead of Schedule, But PFAS Litigation Keeps Resurfacing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3m-ceo-says-turnaround-ahead-122451020.html",
+      "published": "2026-09-22T12:24:51Z",
+      "ts": 1790079891
+    },
+    {
       "source": "MarketWatch",
       "title": "Wall Street and AI ruined your ‘diversified’ portfolio",
       "link": "https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories",
@@ -25,10 +95,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
-      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T12:20:29Z",
-      "ts": 1790079629
+      "title": "Multifamily REITs Are Finally Showing Signs of Recovery — Why Baron Increased UDR (UDR)",
+      "link": "https://finance.yahoo.com/real-estate/articles/multifamily-reits-finally-showing-signs-122342590.html",
+      "published": "2026-09-22T12:23:42Z",
+      "ts": 1790079822
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Saudi Arabia Reportedly Restarts East-West Pipeline",
+      "link": "https://finance.yahoo.com/energy/articles/saudi-arabia-reportedly-restarts-east-122302773.html",
+      "published": "2026-09-22T12:23:02Z",
+      "ts": 1790079782
     },
     {
       "source": "FXStreet",
@@ -45,25 +122,11 @@
       "ts": 1790079521
     },
     {
-      "source": "Yahoo Finance",
-      "title": "5 really bad reasons to file for Social Security at 70 — are you waiting way too long to get your checks?",
-      "link": "https://finance.yahoo.com/small-business/articles/5-really-bad-reasons-file-121500906.html",
-      "published": "2026-09-22T12:15:00Z",
-      "ts": 1790079300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Praises OKTA for Tackling AI Security Threats",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-praises-okta-tackling-121305938.html",
-      "published": "2026-09-22T12:13:05Z",
-      "ts": 1790079185
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Netskope (NTSK): Eight Analysts Raised Targets on the AI Security Opportunity, But the Cash Burn Is Real",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-eight-analysts-raised-120822344.html",
-      "published": "2026-09-22T12:08:22Z",
-      "ts": 1790078902
+      "source": "Investing Forex",
+      "title": "Treasury curve flattens as easing oil input costs and UN diplomacy offer respite",
+      "link": "https://www.investing.com/news/forex-news/euro-area-debt-bourses-face-risk-drag-from-paris-debt-trajectory-4910015",
+      "published": "2026-09-22 12:15:26",
+      "ts": 1790079326
     },
     {
       "source": "CoinDesk",
@@ -80,25 +143,11 @@
       "ts": 1790078716
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Favorable Supply/Demand Backdrop Positions Essex Property Trust (ESS) For Growth",
-      "link": "https://finance.yahoo.com/real-estate/articles/favorable-supply-demand-backdrop-positions-120256791.html",
-      "published": "2026-09-22T12:02:56Z",
-      "ts": 1790078576
-    },
-    {
       "source": "MarketWatch",
       "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
       "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 12:02:00 GMT",
       "ts": 1790078520
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Oil Prices, Treasury Yields Extend Losses (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T12:01:55Z",
-      "ts": 1790078515
     },
     {
       "source": "MarketWatch",
@@ -151,17 +200,10 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Oil could top $150 a barrel if supplies further tighten, Bank of America warns",
+      "title": "Oil could top $150 a barrel if supplies tighten further, Bank of America warns",
       "link": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 11:26:00 GMT",
       "ts": 1790076360
-    },
-    {
-      "source": "FXStreet",
-      "title": "Hungarian Forint: Key 360 area supports consolidation against Euro – Societe Generale",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-key-360-area-supports-consolidation-against-euro-societe-generale-202609221124",
-      "published": "Tue, 22 Sep 2026 11:24:08 GMT",
-      "ts": 1790076248
     },
     {
       "source": "CoinTelegraph",
@@ -169,20 +211,6 @@
       "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 11:22:00 +0000",
       "ts": 1790076120
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold steadies on Iran diplomacy hopes, Fed outlook caps upside",
-      "link": "https://www.fxstreet.com/news/gold-steadies-on-iran-diplomacy-hopes-fed-outlook-caps-upside-202609221120",
-      "published": "Tue, 22 Sep 2026 11:20:21 GMT",
-      "ts": 1790076021
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Overbought rally faces 158.40 cap – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-overbought-rally-faces-15840-cap-uob-202609221115",
-      "published": "Tue, 22 Sep 2026 11:15:41 GMT",
-      "ts": 1790075741
     },
     {
       "source": "MarketWatch",
@@ -276,25 +304,11 @@
       "ts": 1790069484
     },
     {
-      "source": "MarketWatch",
-      "title": "What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury",
-      "link": "https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 09:23:00 GMT",
-      "ts": 1790068980
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin climbs toward $86k as Strategy buys more coins",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
       "published": "2026-09-22 09:22:45",
       "ts": 1790068965
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
-      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 09:15:00 GMT",
-      "ts": 1790068500
     },
     {
       "source": "CoinTelegraph",
@@ -311,25 +325,11 @@
       "ts": 1790067667
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-      "published": "2026-09-22T08:06:25Z",
-      "ts": 1790064385
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
       "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 08:06:23 +0000",
       "ts": 1790064383
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro area debt bourses face risk drag from Paris debt trajectory",
-      "link": "https://www.investing.com/news/forex-news/euro-area-debt-bourses-face-risk-drag-from-paris-debt-trajectory-4910015",
-      "published": "2026-09-22 08:04:44",
-      "ts": 1790064284
     },
     {
       "source": "CoinDesk",
