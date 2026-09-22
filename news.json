@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T04:53:58.882954Z",
+  "updated": "2026-09-22T05:09:27.253798Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Holds gains above 1.1450, but remains technically bearish below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-gains-above-11450-but-remains-technically-bearish-below-100-day-sma-202609220505",
+      "published": "Tue, 22 Sep 2026 05:05:36 GMT",
+      "ts": 1790053536
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Chinese yuan hits 3-1/2 year high on strong PBOC fixing",
+      "link": "https://www.investing.com/news/forex-news/chinese-yuan-hits-312-year-high-on-strong-pboc-fixing-4909861",
+      "published": "2026-09-22 04:50:00",
+      "ts": 1790052600
+    },
     {
       "source": "FXStreet",
       "title": "India Gold price today: Gold falls, according to FXStreet data",
@@ -113,13 +127,6 @@
       "link": "https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 02:22:59 +0000",
       "ts": 1790043779
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound consolidates vs USD; bearish bias remains amid divergent Fed-BoE outlook",
-      "link": "https://www.fxstreet.com/news/british-pound-consolidates-vs-usd-bearish-bias-remains-amid-divergent-fed-boe-outlook-202609220220",
-      "published": "Tue, 22 Sep 2026 02:20:38 GMT",
-      "ts": 1790043638
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-lower-as-oil-fed-hike-bets-underpin-dollar-4908483",
       "published": "2026-09-21 09:22:18",
       "ts": 1789982538
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Deutsche Bank sees dollar decline continuing on FX outlook",
-      "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
-      "published": "2026-09-21 08:56:10",
-      "ts": 1789980970
     }
   ]
 }
