@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T00:13:11.948201Z",
+  "updated": "2026-09-22T00:34:58.557697Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Donald Trump administration plans $5 billion Middle East reconstruction fund for Iran war",
+      "link": "https://www.fxstreet.com/news/donald-trump-administration-plans-5-billion-middle-east-reconstruction-fund-for-iran-war-202609220024",
+      "published": "Tue, 22 Sep 2026 00:24:02 GMT",
+      "ts": 1790036642
+    },
     {
       "source": "FXStreet",
       "title": "RBA’s Hunter backs more hikes as inflation risks entrench",
@@ -99,13 +106,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
       "published": "2026-09-21 21:39:05",
       "ts": 1790026745
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: 100-day SMA caps bulls as range tightens",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-100-day-sma-caps-bulls-as-range-tightens-202609212137",
-      "published": "Mon, 21 Sep 2026 21:37:57 GMT",
-      "ts": 1790026677
     },
     {
       "source": "Investing Crypto",
