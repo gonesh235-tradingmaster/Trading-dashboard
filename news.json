@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T02:41:16.475019Z",
+  "updated": "2026-09-22T02:53:11.700583Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "RBNZ’s Breman: Higher oil prices point to firmer near-term inflation",
+      "link": "https://www.fxstreet.com/news/rbnzs-breman-higher-oil-prices-point-to-firmer-near-term-inflation-202609220249",
+      "published": "Tue, 22 Sep 2026 02:49:25 GMT",
+      "ts": 1790045365
+    },
     {
       "source": "CoinTelegraph",
       "title": "Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg",
@@ -71,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/euro-edges-higher-above-11450-despite-german-political-risks-hawkish-fed-rhetoric-202609220053",
       "published": "Tue, 22 Sep 2026 00:53:45 GMT",
       "ts": 1790038425
-    },
-    {
-      "source": "FXStreet",
-      "title": "Donald Trump administration plans $5 billion Middle East reconstruction fund for Iran war",
-      "link": "https://www.fxstreet.com/news/donald-trump-administration-plans-5-billion-middle-east-reconstruction-fund-for-iran-war-202609220024",
-      "published": "Tue, 22 Sep 2026 00:24:02 GMT",
-      "ts": 1790036642
     },
     {
       "source": "Investing Crypto",
