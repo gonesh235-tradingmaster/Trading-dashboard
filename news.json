@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-22T18:12:27.768733Z",
+  "updated": "2026-09-22T18:32:15.317823Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI extends decline as Trump signals progress in talks with Iran",
+      "link": "https://www.fxstreet.com/news/wti-extends-decline-as-trump-signals-progress-in-talks-with-iran-202609221825",
+      "published": "Tue, 22 Sep 2026 18:25:01 GMT",
+      "ts": 1790101501
+    },
     {
       "source": "FXStreet",
       "title": "Trump signals diplomatic push on Ukraine and Iran as diesel ban looms",
       "link": "https://www.fxstreet.com/news/trump-signals-diplomatic-push-on-ukraine-and-iran-as-diesel-ban-looms-202609221809",
       "published": "Tue, 22 Sep 2026 18:09:07 GMT",
       "ts": 1790100547
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 12% As Investors Gain Confidence",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
+      "published": "2026-09-22 18:03:00",
+      "ts": 1790100180
     },
     {
       "source": "FXStreet",
@@ -155,13 +169,6 @@
       "link": "https://www.fxstreet.com/news/oil-headlines-drive-vulnerability-td-securities-202609221543",
       "published": "Tue, 22 Sep 2026 15:43:00 GMT",
       "ts": 1790091780
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Recovery stalls below key moving averages",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-recovery-stalls-below-key-moving-averages-202609221538",
-      "published": "Tue, 22 Sep 2026 15:38:53 GMT",
-      "ts": 1790091533
     },
     {
       "source": "CoinTelegraph",
@@ -407,13 +414,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
       "published": "2026-09-21T14:37:00Z",
       "ts": 1790001420
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
-      "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4909333",
-      "published": "2026-09-21 14:31:45",
-      "ts": 1790001105
     },
     {
       "source": "Investing Forex",
