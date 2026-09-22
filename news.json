@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T05:52:29.616661Z",
+  "updated": "2026-09-22T06:13:01.608819Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Downtrend eyes 1.1400 support against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-downtrend-eyes-11400-support-against-us-dollar-uob-202609220604",
+      "published": "Tue, 22 Sep 2026 06:04:20 GMT",
+      "ts": 1790057060
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar strengthens on rising oil prices ahead of potential US-Iran talks",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-on-rising-oil-prices-ahead-of-potential-us-iran-talks-202609220552",
+      "published": "Tue, 22 Sep 2026 05:52:50 GMT",
+      "ts": 1790056370
+    },
     {
       "source": "FXStreet",
       "title": "GBP/USD Price Forecast: Turns flat after breakdown below 1.3400",
@@ -88,13 +102,6 @@
     },
     {
       "source": "FXStreet",
-      "title": "Swiss Franc gains as US Dollar declines on increased risk appetite",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-declines-on-increased-risk-appetite-202609220430",
-      "published": "Tue, 22 Sep 2026 04:30:21 GMT",
-      "ts": 1790051421
-    },
-    {
-      "source": "FXStreet",
       "title": "Gold struggles below $4,350 as hawkish Fed offsets sliding bond yields, softer USD",
       "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-hawkish-fed-counters-sliding-us-bond-yields-202609220419",
       "published": "Tue, 22 Sep 2026 04:19:16 GMT",
@@ -134,13 +141,6 @@
       "link": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 03:13:22 +0000",
       "ts": 1790046802
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar drifts higher above 0.7100 after RBA's Bullock speech",
-      "link": "https://www.fxstreet.com/news/australian-dollar-softens-on-hawkish-fed-outlook-202609220255",
-      "published": "Tue, 22 Sep 2026 02:55:23 GMT",
-      "ts": 1790045723
     },
     {
       "source": "CoinTelegraph",
