@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-22T09:13:13.032236Z",
+  "updated": "2026-09-22T09:28:19.491013Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury",
+      "link": "https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 09:23:00 GMT",
+      "ts": 1790068980
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar: Hawkish RBNZ pricing supports kiwi – MUFG",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-hawkish-rbnz-pricing-supports-kiwi-mufg-202609220915",
+      "published": "Tue, 22 Sep 2026 09:15:06 GMT",
+      "ts": 1790068506
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 09:15:00 GMT",
+      "ts": 1790068500
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
+      "link": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 09:06:59 +0000",
+      "ts": 1790068019
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index (DXY) eases from July 30 high as Iran offers to reopen Hormuz",
@@ -15,6 +43,13 @@
       "link": "https://www.marketwatch.com/story/amanda-seyfried-splits-with-husband-thomas-sadoski-weeks-after-listing-l-a-home-for-3-2-million-2ed9b8ab?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 09:02:00 GMT",
       "ts": 1790067720
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound slips as hawkish Fed talk lifts dollar broadly",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-talk-lifts-dollar-broadly-4910096",
+      "published": "2026-09-22 09:01:07",
+      "ts": 1790067667
     },
     {
       "source": "FXStreet",
@@ -234,13 +269,6 @@
       "ts": 1790051591
     },
     {
-      "source": "FXStreet",
-      "title": "Gold flirts with $4,300 as inflation fears reaffirm Fed bets and underpin bullish USD",
-      "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-hawkish-fed-counters-sliding-us-bond-yields-202609220419",
-      "published": "Tue, 22 Sep 2026 04:19:16 GMT",
-      "ts": 1790050756
-    },
-    {
       "source": "CoinDesk",
       "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
       "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
@@ -332,25 +360,11 @@
       "ts": 1790025420
     },
     {
-      "source": "MarketWatch",
-      "title": "These beaten-down stocks could bounce back in January, if history is any guide",
-      "link": "https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 21:06:00 GMT",
-      "ts": 1790024760
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
       "published": "2026-09-21 21:01:45",
       "ts": 1790024505
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 21:00:00 GMT",
-      "ts": 1790024400
     },
     {
       "source": "CoinDesk",
@@ -372,13 +386,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
       "published": "Mon, 21 Sep 2026 19:08:40 +0000",
       "ts": 1790017720
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Ondo lets institutions convert stocks directly into tokenized shares",
-      "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 18:35:43 +0000",
-      "ts": 1790015743
     },
     {
       "source": "Investing Forex",
@@ -414,13 +421,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
       "published": "Mon, 21 Sep 2026 15:00:47 +0000",
       "ts": 1790002847
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
-      "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
-      "published": "Mon, 21 Sep 2026 14:53:52 +0000",
-      "ts": 1790002432
     }
   ]
 }
