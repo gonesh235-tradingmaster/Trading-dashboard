@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-22T06:13:01.608819Z",
+  "updated": "2026-09-22T06:34:34.871933Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Holds key 38.2% Fibo retracement cushion around 0.7100",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-key-382-fibo-retracement-cushion-around-07100-202609220629",
+      "published": "Tue, 22 Sep 2026 06:29:25 GMT",
+      "ts": 1790058565
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust",
+      "link": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
+      "published": "Tue, 22 Sep 2026 06:27:28 +0000",
+      "ts": 1790058448
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin surges past $85k as Strategy buys more coins",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
+      "published": "2026-09-22 06:17:42",
+      "ts": 1790057862
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Fed support seen fading – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-support-seen-fading-commerzbank-202609220614",
+      "published": "Tue, 22 Sep 2026 06:14:45 GMT",
+      "ts": 1790057685
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Downtrend eyes 1.1400 support against US Dollar – UOB",
@@ -80,25 +108,11 @@
       "ts": 1790052600
     },
     {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609220435",
-      "published": "Tue, 22 Sep 2026 04:35:24 GMT",
-      "ts": 1790051724
-    },
-    {
       "source": "CoinDesk",
       "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
       "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
       "published": "Tue, 22 Sep 2026 04:33:11 +0000",
       "ts": 1790051591
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Sticks to gains above 112.00 as bulls await 50% Fibo. breakout",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-sticks-to-gains-above-11200-as-bulls-await-50-fibo-breakout-202609220431",
-      "published": "Tue, 22 Sep 2026 04:31:42 GMT",
-      "ts": 1790051502
     },
     {
       "source": "FXStreet",
@@ -360,13 +374,6 @@
       "ts": 1789996275
     },
     {
-      "source": "CoinDesk",
-      "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
-      "link": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
-      "published": "Mon, 21 Sep 2026 12:44:33 +0000",
-      "ts": 1789994673
-    },
-    {
       "source": "Investing Crypto",
       "title": "Litecoin Climbs 10% As Investors Gain Confidence",
       "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-as-investors-gain-confidence-4909060",
@@ -386,13 +393,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
       "published": "2026-09-21 12:07:57",
       "ts": 1789992477
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Strategy buys 950 bitcoin, repurchases STRC shares in weekly update",
-      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-950-bitcoin-repurchases-strc-shares-in-weekly-update-432SI-4908941",
-      "published": "2026-09-21 12:04:02",
-      "ts": 1789992242
     },
     {
       "source": "Investing Forex",
