@@ -1,13 +1,48 @@
 {
-  "updated": "2026-09-22T16:10:09.351947Z",
+  "updated": "2026-09-22T16:27:45.022188Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
+      "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 16:24:00 GMT",
+      "ts": 1790094240
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 16:15:00 GMT",
+      "ts": 1790093700
+    },
     {
       "source": "FXStreet",
       "title": "Dow Jones Industrial Average drops from a weekly high as bank shares slide",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-drops-from-a-weekly-high-as-bank-shares-slide-202609221609",
       "published": "Tue, 22 Sep 2026 16:09:13 GMT",
       "ts": 1790093353
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Microsoft Scores Positive Reviews On AI Momentum",
+      "link": "https://www.investors.com/news/technology/microsoft-stock-positive-reviews-ai-momentum/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T16:06:04Z",
+      "ts": 1790093164
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price seeks $86K as new support after oil dips below $90",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 16:01:55 +0000",
+      "ts": 1790092915
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "As Amazon Stock Prospers, Traders Might Consider This Option Play",
+      "link": "https://www.investors.com/research/options/amazon-amzn-stock-bull-put-spread-options/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T15:57:55Z",
+      "ts": 1790092675
     },
     {
       "source": "FXStreet",
@@ -122,20 +157,6 @@
       "ts": 1790090216
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Intel stock up 25% in last 5 days, on CPU demand as AI agents gain traction",
-      "link": "https://finance.yahoo.com/technology/article/intel-stock-up-25-in-last-5-days-on-cpu-demand-as-ai-agents-gain-traction-151217555.html",
-      "published": "2026-09-22T15:12:17Z",
-      "ts": 1790089937
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Saudi Arabia restarts East-West oil pipeline, sources say",
-      "link": "https://finance.yahoo.com/news/saudi-arabia-restarts-east-west-100845429.html",
-      "published": "2026-09-22T15:11:43Z",
-      "ts": 1790089903
-    },
-    {
       "source": "FXStreet",
       "title": "Bank of Canada: Slack delays hikes despite crude shock – NBC",
       "link": "https://www.fxstreet.com/news/bank-of-canada-slack-delays-hikes-despite-crude-shock-nbc-202609221506",
@@ -221,13 +242,6 @@
     },
     {
       "source": "MarketWatch",
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 12:53:00 GMT",
-      "ts": 1790081580
-    },
-    {
-      "source": "MarketWatch",
       "title": "Princeton’s 15-year run as the nation’s top college is over. This is the new No. 1 school.",
       "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 12:43:00 GMT",
@@ -239,13 +253,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
       "published": "Tue, 22 Sep 2026 12:32:15 +0000",
       "ts": 1790080335
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Wall Street and AI ruined your ‘diversified’ portfolio",
-      "link": "https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 12:24:00 GMT",
-      "ts": 1790079840
     },
     {
       "source": "CoinTelegraph",
@@ -372,13 +379,6 @@
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
       "published": "2026-09-22T08:06:25Z",
       "ts": 1790064385
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
-      "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 08:06:23 +0000",
-      "ts": 1790064383
     },
     {
       "source": "Investing Crypto",
