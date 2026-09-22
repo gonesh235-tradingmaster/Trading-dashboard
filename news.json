@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-22T07:11:58.244661Z",
+  "updated": "2026-09-22T07:27:55.851512Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro declines as US Dollar recovers recent losses amid hawkish Fed tone",
+      "link": "https://www.fxstreet.com/news/euro-declines-as-us-dollar-recovers-recent-losses-amid-hawkish-fed-tone-202609220727",
+      "published": "Tue, 22 Sep 2026 07:27:48 GMT",
+      "ts": 1790062068
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Stronger as Fed hike path extends – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-stronger-as-fed-hike-path-extends-mufg-202609220724",
+      "published": "Tue, 22 Sep 2026 07:24:24 GMT",
+      "ts": 1790061864
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Fair value drop points to downside against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-fair-value-drop-points-to-downside-against-us-dollar-ing-202609220715",
+      "published": "Tue, 22 Sep 2026 07:15:40 GMT",
+      "ts": 1790061340
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro weakens against Canadian Dollar amid German political turmoil, higher oil prices",
+      "link": "https://www.fxstreet.com/news/euro-weakens-against-canadian-dollar-amid-german-political-turmoil-higher-oil-prices-202609220713",
+      "published": "Tue, 22 Sep 2026 07:13:51 GMT",
+      "ts": 1790061231
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin overbought at $87K high, mean-reversion risk: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-22 07:11:43",
+      "ts": 1790061103
+    },
     {
       "source": "FXStreet",
       "title": "NZD/USD Price Forecast: Upside attempts likely to be tested at 0.5800",
@@ -38,27 +73,6 @@
       "ts": 1790059687
     },
     {
-      "source": "FXStreet",
-      "title": "Experts agree: Sustained Japanese Yen weakness is likely to trigger another intervention",
-      "link": "https://www.fxstreet.com/news/experts-agree-sustained-japanese-yen-weakness-is-likely-to-trigger-another-intervention-202609220647",
-      "published": "Tue, 22 Sep 2026 06:47:27 GMT",
-      "ts": 1790059647
-    },
-    {
-      "source": "FXStreet",
-      "title": "Equities: Energy relief drives risk-on cascade – Danske Bank",
-      "link": "https://www.fxstreet.com/news/equities-energy-relief-drives-risk-on-cascade-danske-bank-202609220636",
-      "published": "Tue, 22 Sep 2026 06:36:20 GMT",
-      "ts": 1790058980
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Holds key 38.2% Fibo retracement cushion around 0.7100",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-key-382-fibo-retracement-cushion-around-07100-202609220629",
-      "published": "Tue, 22 Sep 2026 06:29:25 GMT",
-      "ts": 1790058565
-    },
-    {
       "source": "CoinDesk",
       "title": "Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust",
       "link": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
@@ -71,13 +85,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
       "published": "2026-09-22 06:17:42",
       "ts": 1790057862
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Fed support seen fading – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-support-seen-fading-commerzbank-202609220614",
-      "published": "Tue, 22 Sep 2026 06:14:45 GMT",
-      "ts": 1790057685
     },
     {
       "source": "FXStreet",
@@ -274,13 +281,6 @@
       "link": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 20:22:00 GMT",
       "ts": 1790022120
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin parabolic at $86K with RSI at 83: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-21 19:19:36",
-      "ts": 1790018376
     },
     {
       "source": "CoinDesk",
