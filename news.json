@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T02:26:42.849486Z",
+  "updated": "2026-09-22T02:41:16.475019Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg",
+      "link": "https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 02:22:59 +0000",
+      "ts": 1790043779
+    },
     {
       "source": "FXStreet",
       "title": "British Pound consolidates vs USD; bearish bias remains amid divergent Fed-BoE outlook",
@@ -365,13 +372,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
       "published": "Mon, 21 Sep 2026 11:36:11 +0000",
       "ts": 1789990571
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
-      "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 11:27:00 +0000",
-      "ts": 1789990020
     },
     {
       "source": "Investing Forex",
