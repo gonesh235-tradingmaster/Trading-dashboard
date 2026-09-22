@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T22:38:32.617790Z",
+  "updated": "2026-09-22T22:50:51.134563Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar remains subdued as Fed and RBA hawks collide",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-subdued-as-fed-and-rba-hawks-collide-202609222249",
+      "published": "Tue, 22 Sep 2026 22:49:21 GMT",
+      "ts": 1790117361
+    },
+    {
+      "source": "FXStreet",
+      "title": "The Japanese Yen spikes and unwinds as Iran offers to reopen Hormuz",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-spikes-and-unwinds-as-iran-offers-to-reopen-hormuz-202609222245",
+      "published": "Tue, 22 Sep 2026 22:45:42 GMT",
+      "ts": 1790117142
+    },
     {
       "source": "FXStreet",
       "title": "The Euro drops to its lowest since July as the Dollar keeps climbing",
@@ -178,25 +192,11 @@
       "ts": 1790107008
     },
     {
-      "source": "FXStreet",
-      "title": "Taiwan Dollar: Equity inflows support TWD againt US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-equity-inflows-support-twd-againt-us-dollar-ocbc-202609221951",
-      "published": "Tue, 22 Sep 2026 19:51:00 GMT",
-      "ts": 1790106660
-    },
-    {
       "source": "MarketWatch",
       "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
       "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 19:48:00 GMT",
       "ts": 1790106480
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold losses altitude as peace hopes meet hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/gold-losses-altitude-as-peace-hopes-meet-hawkish-fed-bets-202609221936",
-      "published": "Tue, 22 Sep 2026 19:36:49 GMT",
-      "ts": 1790105809
     },
     {
       "source": "Investing Crypto",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bloom Energy (BE) Surges as AI Hyperscalers Adopt Solid Oxide Fuel Cells",
-      "link": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-surges-ai-hyperscalers-141646925.html",
-      "published": "2026-09-21T14:16:46Z",
-      "ts": 1790000206
+      "title": "The Fed Just Raised Rates for the First Time Since 2023. CoreWeave’s CEO Sees an ‘Inflection Point,’ But Its $51 Billion Debt Problem Just Got Worse.",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fed-just-raised-rates-first-143638934.html",
+      "published": "2026-09-21T14:36:38Z",
+      "ts": 1790001398
     }
   ]
 }
