@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-22T15:51:41.587780Z",
+  "updated": "2026-09-22T16:10:09.351947Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average drops from a weekly high as bank shares slide",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-drops-from-a-weekly-high-as-bank-shares-slide-202609221609",
+      "published": "Tue, 22 Sep 2026 16:09:13 GMT",
+      "ts": 1790093353
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD strength",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557",
+      "published": "Tue, 22 Sep 2026 15:57:22 GMT",
+      "ts": 1790092642
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CLARITY vote failure could stoke more crypto PAC spending in key races",
+      "link": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 15:55:37 +0000",
+      "ts": 1790092537
+    },
     {
       "source": "MarketWatch",
       "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
@@ -162,20 +183,6 @@
       "link": "https://www.marketwatch.com/story/my-plan-to-pay-off-7-500-in-credit-card-debt-can-work-for-you-2260de1d?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 14:25:00 GMT",
       "ts": 1790087100
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Collins: More restrictive policy should help inflation return to 2%",
-      "link": "https://www.fxstreet.com/news/feds-collins-more-restrictive-policy-should-help-inflation-return-to-2-202609221422",
-      "published": "Tue, 22 Sep 2026 14:22:30 GMT",
-      "ts": 1790086950
-    },
-    {
-      "source": "FXStreet",
-      "title": "Risk sentiment improved and Oil prices fell: Why the US Dollar is still holding firm",
-      "link": "https://www.fxstreet.com/news/risk-sentiment-improved-and-oil-prices-fell-why-the-us-dollar-is-still-holding-firm-202609221420",
-      "published": "Tue, 22 Sep 2026 14:20:07 GMT",
-      "ts": 1790086807
     },
     {
       "source": "MarketWatch",
@@ -372,13 +379,6 @@
       "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 08:06:23 +0000",
       "ts": 1790064383
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 07:33:37 +0000",
-      "ts": 1790062417
     },
     {
       "source": "Investing Crypto",
