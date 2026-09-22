@@ -1,13 +1,62 @@
 {
-  "updated": "2026-09-22T15:40:02.709126Z",
+  "updated": "2026-09-22T15:51:41.587780Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 15:48:00 GMT",
+      "ts": 1790092080
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This GLP-1 drug helped people maintain their weight loss in a clinical trial — even for those taking it once a month",
+      "link": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 15:46:00 GMT",
+      "ts": 1790091960
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 15:45:00 GMT",
+      "ts": 1790091900
+    },
+    {
+      "source": "FXStreet",
+      "title": "Oil: Headlines drive vulnerability – TD Securities",
+      "link": "https://www.fxstreet.com/news/oil-headlines-drive-vulnerability-td-securities-202609221543",
+      "published": "Tue, 22 Sep 2026 15:43:00 GMT",
+      "ts": 1790091780
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
+      "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 15:39:00 GMT",
+      "ts": 1790091540
+    },
     {
       "source": "FXStreet",
       "title": "USD/JPY Price Forecast: Recovery stalls below key moving averages",
       "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-recovery-stalls-below-key-moving-averages-202609221538",
       "published": "Tue, 22 Sep 2026 15:38:53 GMT",
       "ts": 1790091533
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
+      "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 15:37:17 +0000",
+      "ts": 1790091437
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Obama says AI flipped from 90% human-taught to 50/50 in under a year — the six-figure jobs he says go first",
+      "link": "https://finance.yahoo.com/technology/ai/articles/obama-says-ai-flipped-90-153000409.html",
+      "published": "2026-09-22T15:30:00Z",
+      "ts": 1790091000
     },
     {
       "source": "Investing Crypto",
@@ -64,13 +113,6 @@
       "link": "https://finance.yahoo.com/news/saudi-arabia-restarts-east-west-100845429.html",
       "published": "2026-09-22T15:11:43Z",
       "ts": 1790089903
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Makes Berkshire Hathaway (BRK-B) a Strong Investment?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-berkshire-hathaway-brk-b-151101032.html",
-      "published": "2026-09-22T15:11:01Z",
-      "ts": 1790089861
     },
     {
       "source": "FXStreet",
@@ -136,13 +178,6 @@
       "ts": 1790086807
     },
     {
-      "source": "FXStreet",
-      "title": "Euro remains cautious as Middle East headlines, Fed outlook drive sentiment",
-      "link": "https://www.fxstreet.com/news/euro-remains-cautious-as-middle-east-headlines-fed-outlook-drive-sentiment-202609221411",
-      "published": "Tue, 22 Sep 2026 14:11:27 GMT",
-      "ts": 1790086287
-    },
-    {
       "source": "MarketWatch",
       "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
       "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
@@ -162,13 +197,6 @@
       "link": "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 13:30:00 +0000",
       "ts": 1790083800
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-      "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 13:15:57 +0000",
-      "ts": 1790082957
     },
     {
       "source": "MarketWatch",
@@ -234,27 +262,6 @@
       "ts": 1790078755
     },
     {
-      "source": "MarketWatch",
-      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
-      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 12:02:00 GMT",
-      "ts": 1790078520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How this market-beating fund is constantly shifting to keep up with the AI trade",
-      "link": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 11:55:00 GMT",
-      "ts": 1790078100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Financial conditions are tightening. Here’s why stock investors should pay attention.",
-      "link": "https://www.marketwatch.com/story/financial-conditions-are-tightening-heres-why-stock-investors-should-pay-attention-a7d12134?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 11:48:00 GMT",
-      "ts": 1790077680
-    },
-    {
       "source": "CoinDesk",
       "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
       "link": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
@@ -267,13 +274,6 @@
       "link": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 11:29:35 +0000",
       "ts": 1790076575
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Oil could top $150 a barrel if supplies tighten further, Bank of America warns",
-      "link": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 11:26:00 GMT",
-      "ts": 1790076360
     },
     {
       "source": "FXStreet",
