@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T05:09:27.253798Z",
+  "updated": "2026-09-22T05:25:40.791480Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Looks to reclaim $93.00 after defending 38.2% Fibo. support",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-looks-to-reclaim-9300-after-defending-382-fibo-support-202609220513",
+      "published": "Tue, 22 Sep 2026 05:13:06 GMT",
+      "ts": 1790053986
+    },
     {
       "source": "FXStreet",
       "title": "EUR/USD Price Forecast: Holds gains above 1.1450, but remains technically bearish below 100-day SMA",
@@ -113,13 +120,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-softens-on-hawkish-fed-outlook-202609220255",
       "published": "Tue, 22 Sep 2026 02:55:23 GMT",
       "ts": 1790045723
-    },
-    {
-      "source": "FXStreet",
-      "title": "RBNZ’s Breman: Higher oil prices point to firmer near-term inflation",
-      "link": "https://www.fxstreet.com/news/rbnzs-breman-higher-oil-prices-point-to-firmer-near-term-inflation-202609220249",
-      "published": "Tue, 22 Sep 2026 02:49:25 GMT",
-      "ts": 1790045365
     },
     {
       "source": "CoinTelegraph",
