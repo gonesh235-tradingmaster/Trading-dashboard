@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-22T06:34:34.871933Z",
+  "updated": "2026-09-22T06:56:06.974872Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index gathers strength to near 100.50 on hawkish Fed signals",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gathers-strength-to-near-10050-on-hawkish-fed-signals-202609220652",
+      "published": "Tue, 22 Sep 2026 06:52:31 GMT",
+      "ts": 1790059951
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
+      "link": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 06:48:20 +0000",
+      "ts": 1790059700
+    },
+    {
+      "source": "FXStreet",
+      "title": "Brent: Diplomatic hopes support pullback – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/brent-diplomatic-hopes-support-pullback-deutsche-bank-202609220648",
+      "published": "Tue, 22 Sep 2026 06:48:07 GMT",
+      "ts": 1790059687
+    },
+    {
+      "source": "FXStreet",
+      "title": "Experts agree: Sustained Japanese Yen weakness is likely to trigger another intervention",
+      "link": "https://www.fxstreet.com/news/experts-agree-sustained-japanese-yen-weakness-is-likely-to-trigger-another-intervention-202609220647",
+      "published": "Tue, 22 Sep 2026 06:47:27 GMT",
+      "ts": 1790059647
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: Energy relief drives risk-on cascade – Danske Bank",
+      "link": "https://www.fxstreet.com/news/equities-energy-relief-drives-risk-on-cascade-danske-bank-202609220636",
+      "published": "Tue, 22 Sep 2026 06:36:20 GMT",
+      "ts": 1790058980
+    },
     {
       "source": "FXStreet",
       "title": "AUD/USD Price Forecast: Holds key 38.2% Fibo retracement cushion around 0.7100",
@@ -52,13 +87,6 @@
       "ts": 1790056218
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee gains as oil prices remain broadly in corrective phase",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544",
-      "published": "Tue, 22 Sep 2026 05:44:10 GMT",
-      "ts": 1790055850
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -80,27 +108,6 @@
       "ts": 1790054760
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD holds losses near $66.00 amid Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-losses-near-6600-amid-fed-rate-hike-bets-202609220525",
-      "published": "Tue, 22 Sep 2026 05:25:10 GMT",
-      "ts": 1790054710
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Looks to reclaim $93.00 after defending 38.2% Fibo. support",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-looks-to-reclaim-9300-after-defending-382-fibo-support-202609220513",
-      "published": "Tue, 22 Sep 2026 05:13:06 GMT",
-      "ts": 1790053986
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Holds gains above 1.1450, but remains technically bearish below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-gains-above-11450-but-remains-technically-bearish-below-100-day-sma-202609220505",
-      "published": "Tue, 22 Sep 2026 05:05:36 GMT",
-      "ts": 1790053536
-    },
-    {
       "source": "Investing Forex",
       "title": "Chinese yuan hits 3-1/2 year high on strong PBOC fixing",
       "link": "https://www.investing.com/news/forex-news/chinese-yuan-hits-312-year-high-on-strong-pboc-fixing-4909861",
@@ -116,7 +123,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold struggles below $4,350 as hawkish Fed offsets sliding bond yields, softer USD",
+      "title": "Gold drops to three-day low, eyes $4,300 as hawkish Fed and Iran risks underpin USD",
       "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-hawkish-fed-counters-sliding-us-bond-yields-202609220419",
       "published": "Tue, 22 Sep 2026 04:19:16 GMT",
       "ts": 1790050756
@@ -309,13 +316,6 @@
       "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 16:56:53 +0000",
       "ts": 1790009813
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 16:39:40 +0000",
-      "ts": 1790008780
     },
     {
       "source": "CoinDesk",
