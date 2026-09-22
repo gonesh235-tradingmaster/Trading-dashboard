@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T19:09:05.632378Z",
+  "updated": "2026-09-22T19:24:03.662878Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Asia FX: AI-driven support for regional currencies – MUFG",
+      "link": "https://www.fxstreet.com/news/asia-fx-ai-driven-support-for-regional-currencies-mufg-202609221917",
+      "published": "Tue, 22 Sep 2026 19:17:00 GMT",
+      "ts": 1790104620
+    },
     {
       "source": "MarketWatch",
       "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
@@ -162,13 +169,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 16:01:55 +0000",
       "ts": 1790092915
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557",
-      "published": "Tue, 22 Sep 2026 15:57:22 GMT",
-      "ts": 1790092642
     },
     {
       "source": "CoinTelegraph",
