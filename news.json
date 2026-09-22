@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T17:09:23.404330Z",
+  "updated": "2026-09-22T17:25:19.844572Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Barkin backs rate hike, stays unsure on more increases",
+      "link": "https://www.fxstreet.com/news/feds-barkin-backs-rate-hike-stays-unsure-on-more-increases-202609221715",
+      "published": "Tue, 22 Sep 2026 17:15:42 GMT",
+      "ts": 1790097342
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
+      "link": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 17:09:00 GMT",
+      "ts": 1790096940
+    },
     {
       "source": "MarketWatch",
       "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
@@ -116,7 +130,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD strength",
+      "title": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD",
       "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557",
       "published": "Tue, 22 Sep 2026 15:57:22 GMT",
       "ts": 1790092642
@@ -213,13 +227,6 @@
       "ts": 1790088966
     },
     {
-      "source": "FXStreet",
-      "title": "Natural gas: Price downside limited – Commerzbank",
-      "link": "https://www.fxstreet.com/news/natural-gas-price-downside-limited-commerzbank-202609221442",
-      "published": "Tue, 22 Sep 2026 14:42:29 GMT",
-      "ts": 1790088149
-    },
-    {
       "source": "CoinDesk",
       "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
       "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
@@ -232,13 +239,6 @@
       "link": "https://www.marketwatch.com/story/my-plan-to-pay-off-7-500-in-credit-card-debt-can-work-for-you-2260de1d?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 14:25:00 GMT",
       "ts": 1790087100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-      "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 14:00:00 GMT",
-      "ts": 1790085600
     },
     {
       "source": "Investing Crypto",
