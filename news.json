@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-22T09:28:19.491013Z",
+  "updated": "2026-09-22T09:42:51.194739Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
+      "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
+      "published": "2026-09-22 09:31:24",
+      "ts": 1790069484
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Fed tightening keeps upside risks – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-tightening-keeps-upside-risks-bbh-202609220929",
+      "published": "Tue, 22 Sep 2026 09:29:32 GMT",
+      "ts": 1790069372
+    },
     {
       "source": "MarketWatch",
       "title": "What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury",
@@ -10,11 +24,25 @@
       "ts": 1790068980
     },
     {
+      "source": "Investing Crypto",
+      "title": "Bitcoin climbs toward $86k as Strategy buys more coins",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
+      "published": "2026-09-22 09:22:45",
+      "ts": 1790068965
+    },
+    {
       "source": "FXStreet",
       "title": "New Zealand Dollar: Hawkish RBNZ pricing supports kiwi – MUFG",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-hawkish-rbnz-pricing-supports-kiwi-mufg-202609220915",
       "published": "Tue, 22 Sep 2026 09:15:06 GMT",
       "ts": 1790068506
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia CEO Jensen Huang says ‘nothing would give me more joy’ than to pay more taxes: ‘I'm just afraid of being poor’",
+      "link": "https://finance.yahoo.com/economy/policy/articles/nvidia-ceo-jensen-huang-says-091500918.html",
+      "published": "2026-09-22T09:15:00Z",
+      "ts": 1790068500
     },
     {
       "source": "MarketWatch",
@@ -108,13 +136,6 @@
       "ts": 1790065972
     },
     {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Rises to near 158.00 near 50-day EMA",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-rises-to-near-15800-near-50-day-ema-202609220827",
-      "published": "Tue, 22 Sep 2026 08:27:42 GMT",
-      "ts": 1790065662
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Oil prices climb ahead of potential US-Iran talks",
       "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
@@ -206,25 +227,11 @@
       "ts": 1790059555
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Tower Semiconductor (TSEM): $1.3 Billion in Silicon Photonics Contracts Puts AI Growth in Focus",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tower-semiconductor-tsem-1-3-064015139.html",
-      "published": "2026-09-22T06:40:15Z",
-      "ts": 1790059215
-    },
-    {
       "source": "CoinDesk",
       "title": "Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust",
       "link": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
       "published": "Tue, 22 Sep 2026 06:27:28 +0000",
       "ts": 1790058448
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin surges past $85k as Strategy buys more coins",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
-      "published": "2026-09-22 06:17:42",
-      "ts": 1790057862
     },
     {
       "source": "FXStreet",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
       "published": "2026-09-21 15:30:38",
       "ts": 1790004638
-    },
-    {
-      "source": "CoinDesk",
-      "title": "ECB plans to buy tokenized bonds with its own funds",
-      "link": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
-      "published": "Mon, 21 Sep 2026 15:00:47 +0000",
-      "ts": 1790002847
     }
   ]
 }
