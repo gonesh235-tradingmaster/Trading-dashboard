@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T01:39:19.174838Z",
+  "updated": "2026-09-23T01:50:50.089233Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar seems vulnerable as Iran diplomacy hopes weigh on oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-as-iran-diplomacy-hopes-weigh-on-oil-prices-202609230143",
+      "published": "Wed, 23 Sep 2026 01:43:58 GMT",
+      "ts": 1790127838
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar remains under pressure as PMI slows",
@@ -78,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/493-australias-sp-global-manufacturing-pmi-declines-in-september-202609222301",
       "published": "Tue, 22 Sep 2026 23:01:34 GMT",
       "ts": 1790118094
-    },
-    {
-      "source": "FXStreet",
-      "title": "The New Zealand Dollar dips to a new low and bounces as Crude Oil gets cheaper",
-      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-dips-to-a-new-low-and-bounces-as-crude-oil-gets-cheaper-202609222254",
-      "published": "Tue, 22 Sep 2026 22:54:38 GMT",
-      "ts": 1790117678
     },
     {
       "source": "Investing Crypto",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Centene Corp. (CNC) Soared 98.8% in Q2: What Drove the Massive Gain?",
-      "link": "https://finance.yahoo.com/healthcare/articles/centene-corp-cnc-soared-98-134615578.html",
-      "published": "2026-09-21T13:46:15Z",
-      "ts": 1789998375
+      "title": "Seabridge Gold Inc. (SA) Spun Off a Major Gold Asset: Why Kopernik Sees More Upside",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/seabridge-gold-inc-sa-spun-134720749.html",
+      "published": "2026-09-21T13:47:20Z",
+      "ts": 1789998440
     }
   ]
 }
