@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-23T11:26:21.425749Z",
+  "updated": "2026-09-23T11:41:10.461567Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro rallies against a weak British Pound as UK business activity disappoints",
+      "link": "https://www.fxstreet.com/news/euro-accelerates-against-a-weak-british-pound-as-uk-business-activity-disappoints-202609231136",
+      "published": "Wed, 23 Sep 2026 11:36:08 GMT",
+      "ts": 1790163368
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swedish Krona: Growth and future rate outlook favour SEK – Societe Generale",
+      "link": "https://www.fxstreet.com/news/swedish-krona-growth-and-future-rate-outlook-favour-sek-societe-generale-202609231133",
+      "published": "Wed, 23 Sep 2026 11:33:51 GMT",
+      "ts": 1790163231
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC",
+      "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
+      "published": "Wed, 23 Sep 2026 11:29:30 +0000",
+      "ts": 1790162970
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The S&P 500 has a 'breadth' problem. Crypto doesn’t.",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
+      "published": "Wed, 23 Sep 2026 11:28:50 +0000",
+      "ts": 1790162930
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CA ANZ backs GAA’s push to align sustainability and financial reporting",
+      "link": "https://finance.yahoo.com/economy/policy/articles/ca-anz-backs-gaa-push-112556531.html",
+      "published": "2026-09-23T11:25:56Z",
+      "ts": 1790162756
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Silver price today, Wednesday, September 23, 2026:  Silver prices settle ahead of key U.S.-China summit",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-23-2026-silver-prices-settle-ahead-of-key-us-china-summit-111845856.html",
+      "published": "2026-09-23T11:18:45Z",
+      "ts": 1790162325
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Elon Musk Is Teasing a Tesla-SpaceX Merger Again. Terafab Shows Why AI Could Be the Logic",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-teasing-tesla-spacex-111832696.html",
+      "published": "2026-09-23T11:18:32Z",
+      "ts": 1790162312
+    },
     {
       "source": "MarketWatch",
       "title": "Why CoreWeave’s beaten-down stock could be due for a major comeback",
@@ -11,10 +60,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "UK watchdog issues ABP, Dovecote Park autonomy notice",
-      "link": "https://finance.yahoo.com/economy/policy/articles/uk-watchdog-issues-abp-dovecote-111601558.html",
-      "published": "2026-09-23T11:16:01Z",
-      "ts": 1790162161
+      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T11:17:15Z",
+      "ts": 1790162235
     },
     {
       "source": "MarketWatch",
@@ -22,6 +71,20 @@
       "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 11:15:00 GMT",
       "ts": 1790162100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Breakout Watch: Aerospace Rival Leaves Boeing, Airbus In The Dust",
+      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/embraer-embj-stock-jets-past-boeing-airbus/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T11:14:48Z",
+      "ts": 1790162088
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Can Zenas BioPharma’s (ZBIO) Clinical Pipeline Justify Its Heavy Cash Burn?",
+      "link": "https://finance.yahoo.com/healthcare/articles/zenas-biopharma-zbio-clinical-pipeline-111448242.html",
+      "published": "2026-09-23T11:14:48Z",
+      "ts": 1790162088
     },
     {
       "source": "MarketWatch",
@@ -66,39 +129,11 @@
       "ts": 1790161508
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Vanguard says Gen Z is more retirement-ready than boomers — but only 40% are on track. Catch up before it’s too late",
-      "link": "https://finance.yahoo.com/markets/articles/vanguard-says-gen-z-more-110500982.html",
-      "published": "2026-09-23T11:05:00Z",
-      "ts": 1790161500
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This AI Memory Stock Is Up More Than 650% in 2026. Micron Investors Should Pay Attention",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-stock-more-650-110330434.html",
-      "published": "2026-09-23T11:03:30Z",
-      "ts": 1790161410
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is PENN Entertainment (PENN) Stock a Buy After Its Latest Multi-Million Dollar Bet?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/penn-entertainment-penn-stock-buy-110230549.html",
-      "published": "2026-09-23T11:01:43Z",
-      "ts": 1790161303
-    },
-    {
       "source": "FXStreet",
       "title": "Gold falls as Fed rate hike bets lift US Dollar to two-month high",
       "link": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
       "published": "Wed, 23 Sep 2026 11:00:35 GMT",
       "ts": 1790161235
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T10:58:08Z",
-      "ts": 1790161088
     },
     {
       "source": "FXStreet",
@@ -213,20 +248,6 @@
       "ts": 1790156559
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar: Bearish outlook retained below 0.7140 - UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-bearish-outlook-retained-below-07140-uob-202609230938",
-      "published": "Wed, 23 Sep 2026 09:38:38 GMT",
-      "ts": 1790156318
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609230930",
-      "published": "Wed, 23 Sep 2026 09:30:16 GMT",
-      "ts": 1790155816
-    },
-    {
       "source": "MarketWatch",
       "title": "Why analysts say a diesel export ban could backfire",
       "link": "https://www.marketwatch.com/story/why-analysts-say-a-diesel-export-ban-could-backfire-8b13cd51?mod=mw_rss_topstories",
@@ -281,13 +302,6 @@
       "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 08:07:10 +0000",
       "ts": 1790150830
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
-      "published": "2026-09-23T08:05:56Z",
-      "ts": 1790150756
     },
     {
       "source": "Investing Forex",
@@ -379,20 +393,6 @@
       "link": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 04:33:18 +0000",
       "ts": 1790137998
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
-      "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
-      "published": "Wed, 23 Sep 2026 04:10:08 +0000",
-      "ts": 1790136608
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
-      "link": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
-      "published": "Wed, 23 Sep 2026 00:00:45 +0000",
-      "ts": 1790121645
     },
     {
       "source": "Investing Crypto",
