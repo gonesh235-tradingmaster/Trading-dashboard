@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T02:26:56.821952Z",
+  "updated": "2026-09-23T02:41:46.567641Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD falls to near $66.50 as Fed signals further rate hikes",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6650-as-fed-signals-further-rate-hikes-202609230239",
+      "published": "Wed, 23 Sep 2026 02:39:43 GMT",
+      "ts": 1790131183
+    },
     {
       "source": "MarketWatch",
       "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
@@ -92,13 +99,6 @@
       "link": "https://www.fxstreet.com/news/explosion-heard-near-irans-qeshm-island-202609222337",
       "published": "Tue, 22 Sep 2026 23:37:11 GMT",
       "ts": 1790120231
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold recovers above $4,350 on US–Iran diplomacy hopes",
-      "link": "https://www.fxstreet.com/news/gold-recovers-above-4-350-on-us-iran-diplomacy-hopes-202609222322",
-      "published": "Tue, 22 Sep 2026 23:22:59 GMT",
-      "ts": 1790119379
     },
     {
       "source": "Investing Crypto",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Make This 1 Trade Now as U.S.-Canada Trade Friction Drags On",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/1-trade-now-u-canada-143711016.html",
-      "published": "2026-09-21T14:37:11Z",
-      "ts": 1790001431
+      "title": "Tim Cook warned of a ‘hundred-year flood’ striking tech giants — and now Apple is raising prices. What it means for you",
+      "link": "https://finance.yahoo.com/technology/articles/tim-cook-warned-hundred-flood-145500897.html",
+      "published": "2026-09-21T14:55:00Z",
+      "ts": 1790002500
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bank of America says buy tumbling shares of aviation giant",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
-      "published": "2026-09-21T14:37:00Z",
-      "ts": 1790001420
+      "title": "Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-oura-files-ipo-paperwork-nvidias-huang-pushes-back-on-ai-doomsday-talk-144918730.html",
+      "published": "2026-09-21T14:49:18Z",
+      "ts": 1790002158
     }
   ]
 }
