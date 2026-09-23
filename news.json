@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T20:51:38.042124Z",
+  "updated": "2026-09-23T21:09:55.386791Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Palantir’s stock sees its highest close of the year, sealing a dramatic comeback",
+      "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 21:08:00 GMT",
+      "ts": 1790197680
+    },
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso selloff deepens as Fed hawks drive USD/MXN toward 17.50",
+      "link": "https://www.fxstreet.com/news/mexican-peso-selloff-deepens-as-fed-hawks-drive-usd-mxn-toward-1750-202609232057",
+      "published": "Wed, 23 Sep 2026 20:57:32 GMT",
+      "ts": 1790197052
+    },
     {
       "source": "MarketWatch",
       "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
@@ -92,13 +106,6 @@
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-retake-control-eye-08300-break-202609231936",
       "published": "Wed, 23 Sep 2026 19:36:09 GMT",
       "ts": 1790192169
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The AI ‘scare trade’ is finally hitting banks. Bargain hunters should take note.",
-      "link": "https://www.marketwatch.com/story/the-ai-scare-trade-is-finally-hitting-banks-bargain-hunters-should-take-note-b2fc7410?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 19:35:00 GMT",
-      "ts": 1790192100
     },
     {
       "source": "Investing Crypto",
@@ -318,13 +325,6 @@
       "ts": 1790162930
     },
     {
-      "source": "FXStreet",
-      "title": "Gold slides as strong US PMI data gives Fed room to raise rates again",
-      "link": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
-      "published": "Wed, 23 Sep 2026 11:00:35 GMT",
-      "ts": 1790161235
-    },
-    {
       "source": "Investing Crypto",
       "title": "Analyst says Bitcoin bull market is underway and sets 2029 target",
       "link": "https://www.investing.com/news/cryptocurrency-news/analyst-says-bitcoin-bull-market-is-underway-and-sets-2029-target-4912571",
@@ -396,6 +396,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "David Einhorn says young Americans are too ‘impatient’ to buy homes. With mortgages near 7%, is he wildly out of touch?",
+      "link": "https://finance.yahoo.com/real-estate/articles/david-einhorn-says-young-americans-124500600.html",
+      "published": "2026-09-22T12:45:00Z",
+      "ts": 1790081100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BMW CEO sees risk of cheap Chinese cars in Europe but opposes tariffs",
+      "link": "https://finance.yahoo.com/news/bmw-ceo-sees-risk-cheap-124126317.html",
+      "published": "2026-09-22T12:41:26Z",
+      "ts": 1790080886
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
       "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
       "published": "2026-09-22T12:39:18Z",
@@ -403,24 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Multifamily REITs Are Finally Showing Signs of Recovery — Why Baron Increased UDR (UDR)",
-      "link": "https://finance.yahoo.com/real-estate/articles/multifamily-reits-finally-showing-signs-122342590.html",
-      "published": "2026-09-22T12:23:42Z",
-      "ts": 1790079822
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Saudi Arabia Reportedly Restarts East-West Pipeline",
-      "link": "https://finance.yahoo.com/energy/articles/saudi-arabia-reportedly-restarts-east-122302773.html",
-      "published": "2026-09-22T12:23:02Z",
-      "ts": 1790079782
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Fox Corporation Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fox-corporation-stock-underperforming-p-121812686.html",
-      "published": "2026-09-22T12:18:12Z",
-      "ts": 1790079492
+      "title": "Soybeans Fading Back After Monday’s Rally",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-fading-back-monday-rally-123810668.html",
+      "published": "2026-09-22T12:38:10Z",
+      "ts": 1790080690
     }
   ]
 }
