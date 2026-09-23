@@ -1,13 +1,48 @@
 {
-  "updated": "2026-09-23T09:26:57.327046Z",
+  "updated": "2026-09-23T09:42:02.254896Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: Bearish outlook retained below 0.7140 - UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-bearish-outlook-retained-below-07140-uob-202609230938",
+      "published": "Wed, 23 Sep 2026 09:38:38 GMT",
+      "ts": 1790156318
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609230930",
+      "published": "Wed, 23 Sep 2026 09:30:16 GMT",
+      "ts": 1790155816
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why analysts say a diesel export ban could backfire",
+      "link": "https://www.marketwatch.com/story/why-analysts-say-a-diesel-export-ban-could-backfire-8b13cd51?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 09:29:00 GMT",
+      "ts": 1790155740
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here are the hidden flaws in Warsh’s new way of tracking inflation",
+      "link": "https://www.marketwatch.com/story/here-are-the-hidden-flaws-in-warshs-new-way-of-tracking-inflation-fb7939de?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 09:28:00 GMT",
+      "ts": 1790155680
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar: Staying strong as Fed expectations hold – ING",
       "link": "https://www.fxstreet.com/news/us-dollar-staying-strong-as-fed-expectations-hold-ing-202609230926",
       "published": "Wed, 23 Sep 2026 09:26:16 GMT",
       "ts": 1790155576
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound slips as dollar resilience builds on hawkish Fed bets",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
+      "published": "2026-09-23 09:25:51",
+      "ts": 1790155551
     },
     {
       "source": "FXStreet",
@@ -85,20 +120,6 @@
       "link": "https://www.fxstreet.com/news/swiss-franc-snb-preview-signals-steady-policy-dbs-202609230852",
       "published": "Wed, 23 Sep 2026 08:52:04 GMT",
       "ts": 1790153524
-    },
-    {
-      "source": "FXStreet",
-      "title": "S&P Global PMIs expected to show resilient US economic growth in September",
-      "link": "https://www.fxstreet.com/news/sp-global-pmis-expected-to-show-resilient-us-economic-growth-in-september-202609230845",
-      "published": "Wed, 23 Sep 2026 08:45:00 GMT",
-      "ts": 1790153100
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures rise ahead of US PMI data",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-ahead-of-us-pmi-data-202609230834",
-      "published": "Wed, 23 Sep 2026 08:34:29 GMT",
-      "ts": 1790152469
     },
     {
       "source": "MarketWatch",
@@ -283,25 +304,11 @@
       "ts": 1790113440
     },
     {
-      "source": "MarketWatch",
-      "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
-      "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 21:30:00 GMT",
-      "ts": 1790112600
-    },
-    {
       "source": "CoinDesk",
       "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
       "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
       "published": "Tue, 22 Sep 2026 21:29:05 +0000",
       "ts": 1790112545
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
-      "link": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 21:27:00 GMT",
-      "ts": 1790112420
     },
     {
       "source": "CoinTelegraph",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/ouras-2-2b-ipo-mostly-230019467.html",
       "published": "2026-09-21T23:00:19Z",
       "ts": 1790031619
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "CloudTech Powers Institutional-Grade Digital Asset Trading for Australian Investors Through Integral Technology",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cloudtech-powers-institutionalgrade-digital-asset-trading-for-australian-investors-through-integral-technology-4909726",
-      "published": "2026-09-21 22:30:35",
-      "ts": 1790029835
     }
   ]
 }
