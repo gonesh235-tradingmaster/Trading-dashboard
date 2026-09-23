@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T05:52:29.325735Z",
+  "updated": "2026-09-23T06:12:51.662243Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound weakens to near 1.3300 as UK fiscal deficit exceeds market expectations",
+      "link": "https://www.fxstreet.com/news/british-pound-weakens-to-near-13300-as-uk-fiscal-deficit-exceeds-market-expectations-202609230606",
+      "published": "Wed, 23 Sep 2026 06:06:44 GMT",
+      "ts": 1790143604
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index gains support amid hawkish Fed policy stance",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gains-support-amid-hawkish-fed-policy-stance-202609230602",
+      "published": "Wed, 23 Sep 2026 06:02:44 GMT",
+      "ts": 1790143364
+    },
     {
       "source": "FXStreet",
       "title": "EUR/JPY Price Forecast: Tests 180.00 support near nine-day EMA",
@@ -85,20 +99,6 @@
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-hits-fresh-low-since-july-29-around-11425-as-usd-stays-firm-202609230459",
       "published": "Wed, 23 Sep 2026 04:59:25 GMT",
       "ts": 1790139565
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japan’s Takaichi and US President Donald Trump discuss cooperation in New York",
-      "link": "https://www.fxstreet.com/news/japans-takaichi-and-us-president-donald-trump-discuss-cooperation-in-new-york-202609230452",
-      "published": "Wed, 23 Sep 2026 04:52:23 GMT",
-      "ts": 1790139143
-    },
-    {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609230434",
-      "published": "Wed, 23 Sep 2026 04:34:58 GMT",
-      "ts": 1790138098
     },
     {
       "source": "CoinTelegraph",
