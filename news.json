@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-23T19:39:29.329421Z",
+  "updated": "2026-09-23T19:51:41.863563Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Record-breaking diesel prices look set to push grocery bills even higher — and Thanksgiving is getting closer",
+      "link": "https://www.marketwatch.com/story/record-breaking-diesel-prices-look-set-to-push-grocery-bills-even-higher-and-thanksgiving-is-getting-closer-178d3959?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 19:49:00 GMT",
+      "ts": 1790192940
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bond yields surge above 5% as Wall Street fears more Fed rate hikes",
+      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 19:48:00 GMT",
+      "ts": 1790192880
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The ingredients for a market crash are all in place",
+      "link": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 19:47:00 GMT",
+      "ts": 1790192820
+    },
+    {
+      "source": "MarketWatch",
+      "title": "McDonald’s is making a historic bet on chicken — and AI — to bring back customers",
+      "link": "https://www.marketwatch.com/story/mcdonalds-is-making-a-historic-bet-on-chicken-and-ai-to-bring-back-customers-43468a53?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 19:40:00 GMT",
+      "ts": 1790192400
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 19:39:24 +0000",
+      "ts": 1790192364
+    },
     {
       "source": "MarketWatch",
       "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
@@ -87,13 +122,6 @@
       "ts": 1790188260
     },
     {
-      "source": "MarketWatch",
-      "title": "The ingredients for a financial reckoning are all in place",
-      "link": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 18:24:00 GMT",
-      "ts": 1790187840
-    },
-    {
       "source": "FXStreet",
       "title": "Silver Price Forecast: Fed hawks knock XAG/USD toward $64 support",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-fed-hawks-knock-xag-usd-toward-64-support-202609231823",
@@ -129,32 +157,11 @@
       "ts": 1790186917
     },
     {
-      "source": "MarketWatch",
-      "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren’t stopping the U.S. economy.",
-      "link": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 18:06:00 GMT",
-      "ts": 1790186760
-    },
-    {
       "source": "CoinDesk",
       "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
       "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
       "published": "Wed, 23 Sep 2026 18:04:11 +0000",
       "ts": 1790186651
-    },
-    {
-      "source": "MarketWatch",
-      "title": "McDonald’s is making a historic bet on chicken — and AI — to bring back customers",
-      "link": "https://www.marketwatch.com/story/mcdonalds-is-making-a-historic-bet-on-chicken-and-ai-to-bring-back-customers-43468a53?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 18:02:00 GMT",
-      "ts": 1790186520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 18:00:00 GMT",
-      "ts": 1790186400
     },
     {
       "source": "Investing Crypto",
@@ -260,13 +267,6 @@
       "link": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 13:40:00 +0000",
       "ts": 1790170800
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 13:39:08 +0000",
-      "ts": 1790170748
     },
     {
       "source": "CoinTelegraph",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Home Depot CFO issues chilling alarm over ‘frozen’ US housing market — crucial metric plunges to historic low",
-      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
-      "published": "2026-09-22T10:45:00Z",
-      "ts": 1790073900
+      "title": "The Lever That Could Take Intel Stock to $165 Per Share, According to Wall Street",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lever-could-intel-stock-165-105515185.html",
+      "published": "2026-09-22T10:55:15Z",
+      "ts": 1790074515
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mastercard Is Letting AI Agents Spend Your Money. Its Partner Says ‘The Checkout Button Is Dying,’ and a Separate $1.8 Billion Bet Shows Why Mastercard Believes It.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/mastercard-letting-ai-agents-spend-103044038.html",
-      "published": "2026-09-22T10:30:44Z",
-      "ts": 1790073044
+      "title": "Cregis to Host Institutional Onchain Finance Summit 2026 in Singapore",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/cregis-host-institutional-onchain-finance-105205362.html",
+      "published": "2026-09-22T10:52:05Z",
+      "ts": 1790074325
     }
   ]
 }
