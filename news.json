@@ -1,7 +1,105 @@
 {
-  "updated": "2026-09-23T12:34:30.224728Z",
+  "updated": "2026-09-23T12:56:16.799561Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold: Next leg higher toward $5,000 – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-next-leg-higher-toward-5-000-td-securities-202609231253",
+      "published": "Wed, 23 Sep 2026 12:53:12 GMT",
+      "ts": 1790167992
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Madison Mid Cap Fund: Realizing Gains in High-Speed Switch Leader Arista Networks (ANET)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/madison-mid-cap-fund-realizing-124214587.html",
+      "published": "2026-09-23T12:42:14Z",
+      "ts": 1790167334
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AutoZone (AZO) Posts Strong Earnings, But Is the Stock Ready to Rebound?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/autozone-azo-posts-strong-earnings-124129297.html",
+      "published": "2026-09-23T12:41:29Z",
+      "ts": 1790167289
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "McDonald's pledges $8.5 billion for restaurant overhaul through 2036",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-pledges-8-5-billion-124054879.html",
+      "published": "2026-09-23T12:40:54Z",
+      "ts": 1790167254
+    },
+    {
+      "source": "MarketWatch",
+      "title": "FDA advisers are reviewing a multicancer-detection test. Medicare coverage could follow.",
+      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 12:39:00 GMT",
+      "ts": 1790167140
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Rocket Lab Readies For Mission, Cathie Wood Buys $25 Million In Shares",
+      "link": "https://www.investors.com/news/rocket-lab-stock-cathie-wood-ark-invest-25-million-electron-mission-neutron-outlook-rklb-stock/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T12:38:57Z",
+      "ts": 1790167137
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Analysis-There's a reason Trump is the only one talking about 1% interest rates",
+      "link": "https://finance.yahoo.com/economy/policy/articles/analysis-theres-reason-trump-only-110508485.html",
+      "published": "2026-09-23T12:37:33Z",
+      "ts": 1790167053
+    },
+    {
+      "source": "FXStreet",
+      "title": "Copper: Chinese tightness supports prices despite weak positioning – ING",
+      "link": "https://www.fxstreet.com/news/copper-chinese-tightness-supports-prices-despite-weak-positioning-ing-202609231235",
+      "published": "Wed, 23 Sep 2026 12:35:03 GMT",
+      "ts": 1790166903
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Chipotle (CMG) Is Piloting Palantir (PLTR) for Food Safety. Does It Matter for Investors?",
+      "link": "https://finance.yahoo.com/technology/articles/chipotle-cmg-piloting-palantir-pltr-123400398.html",
+      "published": "2026-09-23T12:34:00Z",
+      "ts": 1790166840
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. bonds consolidates as energy de-escalation signals balance hawkish bets",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
+      "published": "2026-09-23 12:33:44",
+      "ts": 1790166824
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ValueAct’s 2 Stock Picks You Shouldn’t Miss",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/valueact-2-stock-picks-shouldn-123304790.html",
+      "published": "2026-09-23T12:33:04Z",
+      "ts": 1790166784
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Travala Launches Permanent AVA Strategic Reserve, Doubles Monthly Open-Market Buybacks",
+      "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-permanent-ava-strategic-reserve-doubles-monthly-openmarket-buybacks-4912992",
+      "published": "2026-09-23 12:32:18",
+      "ts": 1790166738
+    },
+    {
+      "source": "MarketWatch",
+      "title": "HSBC addresses the concerns that are gripping the stock market — and dismisses most of them",
+      "link": "https://www.marketwatch.com/story/hsbc-addresses-the-concerns-that-are-gripping-the-stock-market-and-dismisses-most-of-them-f9b34a8d?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 12:32:00 GMT",
+      "ts": 1790166720
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Netflix stock is getting shredded — and Google's YouTube may be the reason",
+      "link": "https://finance.yahoo.com/markets/stocks/article/netflix-stock-is-getting-shredded--and-googles-youtube-may-be-the-reason-123041480.html",
+      "published": "2026-09-23T12:30:41Z",
+      "ts": 1790166641
+    },
     {
       "source": "MarketWatch",
       "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
@@ -38,74 +136,11 @@
       "ts": 1790165700
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Falls After Nasdaq's Record Highs; Micron, Sandisk Hit New Buy Points (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-record-high-micron-sandisk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T12:07:28Z",
-      "ts": 1790165248
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cracker Barrel Q4 fiscal 2026 earnings beat Wall Street estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-q4-fiscal-2026-120720287.html",
-      "published": "2026-09-23T12:07:20Z",
-      "ts": 1790165240
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Fall After Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T12:05:37Z",
-      "ts": 1790165137
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "McDonald's bets on hand-breaded chicken, AI drive-thrus to fend off Burger King",
-      "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-chicken-ai-drive-thrus-to-fend-off-burger-king-120418093.html",
-      "published": "2026-09-23T12:04:18Z",
-      "ts": 1790165058
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Verizon to invest $70 million in AI training effort",
-      "link": "https://finance.yahoo.com/news/verizon-invest-70-million-ai-120116227.html",
-      "published": "2026-09-23T12:01:16Z",
-      "ts": 1790164876
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Four AI Stars Rev Up As Analysts Raise Profit Targets; Micron Clears Early Buy Point",
-      "link": "https://www.investors.com/research/ai-micron-mu-stock/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T12:00:57Z",
-      "ts": 1790164857
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "America's Greatest Opportunities: How This Company Helped Build Silicon Valley",
-      "link": "https://www.investors.com/how-to-invest/stock-market-americas-greatest-opportunities-fairchild-camera-semiconductor/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T12:00:23Z",
-      "ts": 1790164823
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MKS (MKSI) Gains Momentum as Chipmakers Expand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mks-mksi-gains-momentum-chipmakers-120022688.html",
-      "published": "2026-09-23T12:00:22Z",
-      "ts": 1790164822
-    },
-    {
       "source": "MarketWatch",
       "title": "What the Trump-Xi meeting could do to strengthen the guardrails for AI",
       "link": "https://www.marketwatch.com/story/what-the-trump-xi-meeting-coulddo-to-strengthen-the-guardrails-for-ai-298a5432?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
       "ts": 1790164800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "America’s Rare Earth Bet Nears a Real Test: MP Materials Closes In on GM Deliveries",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/america-rare-earth-bet-nears-115845687.html",
-      "published": "2026-09-23T11:58:45Z",
-      "ts": 1790164725
     },
     {
       "source": "FXStreet",
@@ -172,17 +207,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Oil: Prices retreat on Saudi exports and US data – ING",
-      "link": "https://www.fxstreet.com/news/oil-prices-retreat-on-saudi-exports-and-us-data-ing-202609231113",
-      "published": "Wed, 23 Sep 2026 11:13:50 GMT",
-      "ts": 1790162030
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver price falls as Fed tightening bets, US-Iran talks curb safe-haven demand",
-      "link": "https://www.fxstreet.com/news/silver-price-falls-as-fed-tightening-bets-us-iran-talks-curb-safe-haven-demand-202609231105",
-      "published": "Wed, 23 Sep 2026 11:05:48 GMT",
-      "ts": 1790161548
+      "title": "Gold falls as Fed rate hike bets lift US Dollar to two-month high",
+      "link": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
+      "published": "Wed, 23 Sep 2026 11:00:35 GMT",
+      "ts": 1790161235
     },
     {
       "source": "Investing Crypto",
@@ -262,20 +290,6 @@
       "ts": 1790156559
     },
     {
-      "source": "MarketWatch",
-      "title": "Why analysts say a diesel export ban could backfire",
-      "link": "https://www.marketwatch.com/story/why-analysts-say-a-diesel-export-ban-could-backfire-8b13cd51?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 09:29:00 GMT",
-      "ts": 1790155740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here are the hidden flaws in Warsh’s new way of tracking inflation",
-      "link": "https://www.marketwatch.com/story/here-are-the-hidden-flaws-in-warshs-new-way-of-tracking-inflation-fb7939de?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 09:28:00 GMT",
-      "ts": 1790155680
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as dollar resilience builds on hawkish Fed bets",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
@@ -311,11 +325,11 @@
       "ts": 1790150830
     },
     {
-      "source": "Investing Forex",
-      "title": "Euro yields drop as crude, gas pull back on prospective US-Iran breakthrough",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
-      "published": "2026-09-23 07:55:33",
-      "ts": 1790150133
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as oil steadies, markets eye looming Trump-Xi meeting",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+      "published": "2026-09-23T08:05:56Z",
+      "ts": 1790150756
     },
     {
       "source": "CoinDesk",
@@ -367,13 +381,6 @@
       "ts": 1790141689
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee resumes decline as markets embrace hawkish Fed view",
-      "link": "https://www.fxstreet.com/news/indian-rupee-comes-under-pressure-amid-hawkish-fed-expectations-202609230526",
-      "published": "Wed, 23 Sep 2026 05:26:13 GMT",
-      "ts": 1790141173
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
       "link": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
       "published": "2026-09-22 18:03:00",
       "ts": 1790100180
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
-      "link": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
-      "published": "2026-09-22 13:38:01",
-      "ts": 1790084281
     }
   ]
 }
