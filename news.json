@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T03:54:36.505463Z",
+  "updated": "2026-09-23T04:10:39.103903Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
+      "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
+      "published": "Wed, 23 Sep 2026 04:10:08 +0000",
+      "ts": 1790136608
+    },
     {
       "source": "FXStreet",
       "title": "USD/IDR Price Forecast: Falls toward moving averages near 17,800 ahead of BI decision",
@@ -332,13 +339,6 @@
       "ts": 1790076943
     },
     {
-      "source": "CoinDesk",
-      "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
-      "link": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
-      "published": "Tue, 22 Sep 2026 11:07:23 +0000",
-      "ts": 1790075243
-    },
-    {
       "source": "Investing Crypto",
       "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
       "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Northern Trust Stock: Is NTRS Outperforming the Financial Sector?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/northern-trust-stock-ntrs-outperforming-160739477.html",
-      "published": "2026-09-21T16:07:39Z",
-      "ts": 1790006859
+      "title": "Lucid Just Struck a Partnership With Bolt on Mobility. What This Means for LCID Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-just-struck-partnership-bolt-162648488.html",
+      "published": "2026-09-21T16:26:48Z",
+      "ts": 1790008008
     },
     {
       "source": "Yahoo Finance",
-      "title": "Alphabet Pushes Deeper Into Voice AI With New Gemini Models",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-pushes-deeper-voice-ai-160354581.html",
-      "published": "2026-09-21T16:03:54Z",
-      "ts": 1790006634
+      "title": "AI Leader AMD Breaks Out Past New Buy Point With This Bullish Signal",
+      "link": "https://www.investors.com/research/amd-stock-advanced-micro-devices/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T16:26:46Z",
+      "ts": 1790008006
     },
     {
-      "source": "Investing Crypto",
-      "title": "NOWPayments Releases Cross-Chain Payout Data Revealing Key Performance Benchmarks Across TRON, BNB Chain, and Solana",
-      "link": "https://www.investing.com/news/cryptocurrency-news/nowpayments-releases-crosschain-payout-data-revealing-key-performance-benchmarks-across-tron-bnb-chain-and-solana-4909411",
-      "published": "2026-09-21 16:00:37",
-      "ts": 1790006437
+      "source": "Yahoo Finance",
+      "title": "This Bearish Netflix Stock Trade Can Cash In On Video Streaming Giant's Woes",
+      "link": "https://www.investors.com/research/options/netflix-nflx-stock-bear-put-spread-options/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T16:20:08Z",
+      "ts": 1790007608
     }
   ]
 }
