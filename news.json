@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-23T08:13:09.543928Z",
+  "updated": "2026-09-23T08:30:13.272201Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Oil: Geopolitics drive volatile price path – Rabobank",
+      "link": "https://www.fxstreet.com/news/oil-geopolitics-drive-volatile-price-path-rabobank-202609230824",
+      "published": "Wed, 23 Sep 2026 08:24:31 GMT",
+      "ts": 1790151871
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This oil giant has lagged its leading rivals through two energy crises. Now one Wall Street giant says it’s time to buy.",
+      "link": "https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 08:24:00 GMT",
+      "ts": 1790151840
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar slides to one-week low, below 0.7100 ahead of jobs data on Thursday",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slides-to-one-week-low-below-07100-ahead-of-jobs-data-on-thursday-202609230821",
+      "published": "Wed, 23 Sep 2026 08:21:17 GMT",
+      "ts": 1790151677
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BitMEX ends crypto trading, keeps withdrawals open after closure",
+      "link": "https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 08:18:38 +0000",
+      "ts": 1790151518
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen: Downside still favoured toward 158.40 against US Dollar – UOB",
@@ -73,13 +101,6 @@
       "ts": 1790148826
     },
     {
-      "source": "FXStreet",
-      "title": "Equities: Flat close with sector rotation – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-flat-close-with-sector-rotation-deutsche-bank-202609230730",
-      "published": "Wed, 23 Sep 2026 07:30:48 GMT",
-      "ts": 1790148648
-    },
-    {
       "source": "Investing Crypto",
       "title": "Cregis Marks Two Years of Middle East Growth as Traditional Financial Firms Drive Adoption",
       "link": "https://www.investing.com/news/cryptocurrency-news/cregis-marks-two-years-of-middle-east-growth-as-traditional-financial-firms-drive-adoption-4912208",
@@ -92,13 +113,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 07:25:05 +0000",
       "ts": 1790148305
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: Eyes 1.4100 as bulls retain control near July 29 highs",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-eyes-14100-as-bulls-retain-control-near-july-29-highs-202609230714",
-      "published": "Wed, 23 Sep 2026 07:14:02 GMT",
-      "ts": 1790147642
     },
     {
       "source": "Investing Crypto",
@@ -269,13 +283,6 @@
       "ts": 1790110783
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Republican senator calls for probe into US presidents’ sons, citing crypto ventures",
-      "link": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 20:57:51 +0000",
-      "ts": 1790110671
-    },
-    {
       "source": "MarketWatch",
       "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
       "link": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
@@ -302,13 +309,6 @@
       "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 20:31:00 GMT",
       "ts": 1790109060
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This GLP-1 drug helped people maintain their weight loss in a clinical trial — even for those taking it once a month",
-      "link": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 20:27:00 GMT",
-      "ts": 1790108820
     },
     {
       "source": "Investing Crypto",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stocks Settle Sharply Higher as Crude Prices Plunge and Chipmakers Soar",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-sharply-higher-crude-203423357.html",
-      "published": "2026-09-21T20:34:23Z",
-      "ts": 1790022863
+      "title": "Faraday Future (FFAI) Bets on Robotics Beyond EVs, but the Revenue Opportunity Still Needs Proof",
+      "link": "https://finance.yahoo.com/technology/ai/articles/faraday-future-ffai-bets-robotics-205412128.html",
+      "published": "2026-09-21T20:54:12Z",
+      "ts": 1790024052
     },
     {
       "source": "Yahoo Finance",
-      "title": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
-      "link": "https://www.investors.com/news/technology/chip-stocks-amd-stock-four-new-names-join-sox-index/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T20:33:28Z",
-      "ts": 1790022808
+      "title": "How to Play CrowdStrike Stock at All-Time Highs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/play-crowdstrike-stock-time-highs-205405169.html",
+      "published": "2026-09-21T20:54:05Z",
+      "ts": 1790024045
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T20:31:50Z",
-      "ts": 1790022710
+      "title": "Wells Fargo Cuts Netflix (NFLX) to Underweight as its 2026 Slide Deepens",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-cuts-netflix-nflx-205315969.html",
+      "published": "2026-09-21T20:53:15Z",
+      "ts": 1790023995
     }
   ]
 }
