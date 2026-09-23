@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T22:51:24.912492Z",
+  "updated": "2026-09-23T23:08:43.124612Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar tumbles amid soaring US yields, ahead of jobs data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-amid-soaring-us-yields-ahead-of-jobs-data-202609232306",
+      "published": "Wed, 23 Sep 2026 23:06:51 GMT",
+      "ts": 1790204811
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar slides toward its range floor as US yields climb",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slides-toward-its-range-floor-as-us-yields-climb-202609232300",
+      "published": "Wed, 23 Sep 2026 23:00:00 GMT",
+      "ts": 1790204400
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen gives back most of its rally as Fed hike talk grows",
@@ -206,25 +220,11 @@
       "ts": 1790188659
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: Fed hawks knock XAG/USD toward $64 support",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-fed-hawks-knock-xag-usd-toward-64-support-202609231823",
-      "published": "Wed, 23 Sep 2026 18:23:41 GMT",
-      "ts": 1790187821
-    },
-    {
       "source": "CoinTelegraph",
       "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
       "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 18:17:48 +0000",
       "ts": 1790187468
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: Australia’s jobs report comes to the fore",
-      "link": "https://www.fxstreet.com/news/forex-today-australias-jobs-report-comes-to-the-fore-202609231809",
-      "published": "Wed, 23 Sep 2026 18:09:32 GMT",
-      "ts": 1790186972
     },
     {
       "source": "CoinDesk",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "This Fund Trimmed Matson (MATX) on Strength",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-matson-matx-strength-145040552.html",
-      "published": "2026-09-22T14:50:40Z",
-      "ts": 1790088640
+      "title": "Maximus’ (MMS) Tech Capabilities and Beaten-Down Valuation Point to M&A Upside",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/maximus-mms-tech-capabilities-beaten-152142153.html",
+      "published": "2026-09-22T15:21:42Z",
+      "ts": 1790090502
     },
     {
       "source": "Yahoo Finance",
-      "title": "S&P 500 Nears a Fresh Record High as Tech Stocks Gain",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-092226/card/s-p-500-nears-a-fresh-record-high-as-tech-stocks-gain-1BX5rm8PNkzmELvv8DeQ?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-22T14:50:33Z",
-      "ts": 1790088633
+      "title": "The Case for Buying Netflix Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/case-buying-netflix-stock-151709602.html",
+      "published": "2026-09-22T15:17:09Z",
+      "ts": 1790090229
     },
     {
       "source": "Yahoo Finance",
-      "title": "Continued AI Disruption Concerns Weigh on CCC Intelligent Solutions Holdings (CCC)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/continued-ai-disruption-concerns-weigh-144822190.html",
-      "published": "2026-09-22T14:48:22Z",
-      "ts": 1790088502
+      "title": "What Makes CRA International (CRAI) an Investment Bet?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-cra-international-crai-investment-151656266.html",
+      "published": "2026-09-22T15:16:56Z",
+      "ts": 1790090216
     },
     {
       "source": "Yahoo Finance",
-      "title": "Resilient Cash Flows and Organic Drivers Position McGrath RentCorp (MGRC) for Long-Term Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/resilient-cash-flows-organic-drivers-144630290.html",
-      "published": "2026-09-22T14:46:30Z",
-      "ts": 1790088390
+      "title": "Homes or Stocks? US Households Now Lean on Stocks Like Never Before",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/homes-stocks-us-households-now-151605046.html",
+      "published": "2026-09-22T15:16:05Z",
+      "ts": 1790090165
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dollar Climbs on Hawkish Fed President Collins",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-hawkish-fed-president-144430362.html",
-      "published": "2026-09-22T14:44:30Z",
-      "ts": 1790088270
+      "title": "Intel stock up 25% in last 5 days on CPU demand as AI agents gain traction",
+      "link": "https://finance.yahoo.com/technology/article/intel-stock-up-25-in-last-5-days-on-cpu-demand-as-ai-agents-gain-traction-151217555.html",
+      "published": "2026-09-22T15:12:17Z",
+      "ts": 1790089937
     }
   ]
 }
