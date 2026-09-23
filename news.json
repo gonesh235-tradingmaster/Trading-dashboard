@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T01:09:35.489053Z",
+  "updated": "2026-09-23T01:26:06.675798Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro weakens below 1.1450 on hawkish Fed signals, German political risks",
+      "link": "https://www.fxstreet.com/news/euro-weakens-below-11450-on-hawkish-fed-signals-german-political-risks-202609230121",
+      "published": "Wed, 23 Sep 2026 01:21:29 GMT",
+      "ts": 1790126489
+    },
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7468 vs. 6.7459 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67468-vs-67459-previous-202609230115",
+      "published": "Wed, 23 Sep 2026 01:15:28 GMT",
+      "ts": 1790126128
+    },
     {
       "source": "FXStreet",
       "title": "British Pound hangs near late July lows vs USD; looks to UK/US PMIs for fresh impetus",
@@ -71,20 +85,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-remains-subdued-as-fed-and-rba-hawks-collide-202609222249",
       "published": "Tue, 22 Sep 2026 22:49:21 GMT",
       "ts": 1790117361
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Japanese Yen spikes and unwinds as Iran offers to reopen Hormuz",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-spikes-and-unwinds-as-iran-offers-to-reopen-hormuz-202609222245",
-      "published": "Tue, 22 Sep 2026 22:45:42 GMT",
-      "ts": 1790117142
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Euro drops to its lowest since July as the Dollar keeps climbing",
-      "link": "https://www.fxstreet.com/news/the-euro-drops-to-its-lowest-since-july-as-the-dollar-keeps-climbing-202609222219",
-      "published": "Tue, 22 Sep 2026 22:19:16 GMT",
-      "ts": 1790115556
     },
     {
       "source": "Investing Crypto",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Aggressive Store Additions Challenge Black Rock Coffee Bar’s (BRCB) Long-Term Expansion Thesis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aggressive-store-additions-challenge-black-132106435.html",
-      "published": "2026-09-21T13:21:06Z",
-      "ts": 1789996866
+      "title": "Michael Saylor's Strategy jumps as the company says it bought more bitcoin",
+      "link": "https://finance.yahoo.com/markets/article/michael-saylors-strategy-jumps-as-the-company-says-it-bought-more-bitcoin-133538866.html",
+      "published": "2026-09-21T13:35:38Z",
+      "ts": 1789997738
     }
   ]
 }
