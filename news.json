@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-23T08:45:55.430895Z",
+  "updated": "2026-09-23T09:10:02.981990Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The real estate portfolio of Zendaya and Tom Holland, plus her plans for a room just for her wedding dress",
+      "link": "https://www.marketwatch.com/story/the-real-estate-portfolio-of-zendaya-and-tom-holland-plus-her-plans-for-a-room-just-for-her-wedding-dress-daa9cc93?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 09:01:00 GMT",
+      "ts": 1790154060
+    },
+    {
+      "source": "MarketWatch",
+      "title": "TV host Maria Menounos lists a beautifully renovated Encino mansion for $7 million",
+      "link": "https://www.marketwatch.com/story/tv-host-maria-menounos-lists-a-beautifully-renovated-encino-mansion-for-7-million-2af120a2?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 08:58:00 GMT",
+      "ts": 1790153880
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro remains depressed as German politics, France's debt offset strong PMI figures",
+      "link": "https://www.fxstreet.com/news/euro-remains-depressed-as-german-politics-frances-debt-offset-strong-pmi-figures-202609230857",
+      "published": "Wed, 23 Sep 2026 08:57:48 GMT",
+      "ts": 1790153868
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro flat lines above 180.00 vs weak Yen as German political turmoil offsets upbeat PMIs",
+      "link": "https://www.fxstreet.com/news/euro-flat-lines-above-18000-vs-weak-yen-as-german-political-turmoil-offsets-upbeat-pmis-202609230857",
+      "published": "Wed, 23 Sep 2026 08:57:26 GMT",
+      "ts": 1790153846
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Softbank’s mega junk-bond deal shows capital for the AI race is getting more expensive",
+      "link": "https://www.marketwatch.com/story/softbanks-mega-junk-bond-deal-shows-capital-for-the-ai-race-is-getting-more-expensive-9eb3fa28?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 08:56:00 GMT",
+      "ts": 1790153760
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: SNB preview signals steady policy – DBS",
+      "link": "https://www.fxstreet.com/news/swiss-franc-snb-preview-signals-steady-policy-dbs-202609230852",
+      "published": "Wed, 23 Sep 2026 08:52:04 GMT",
+      "ts": 1790153524
+    },
     {
       "source": "FXStreet",
       "title": "S&P Global PMIs expected to show resilient US economic growth in September",
@@ -52,13 +94,6 @@
       "ts": 1790151518
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Downside still favoured toward 158.40 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-downside-still-favoured-toward-15840-against-us-dollar-uob-202609230809",
-      "published": "Wed, 23 Sep 2026 08:09:00 GMT",
-      "ts": 1790150940
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Zcash’s November upgrade could freeze funds in legacy Sprout pool",
       "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -66,32 +101,11 @@
       "ts": 1790150830
     },
     {
-      "source": "FXStreet",
-      "title": "Eurozone flash Manufacturing PMI remains steady at 52.7 in September",
-      "link": "https://www.fxstreet.com/news/eurozone-flash-manufacturing-pmi-remains-steady-at-527-in-september-202609230804",
-      "published": "Wed, 23 Sep 2026 08:04:05 GMT",
-      "ts": 1790150645
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro yields drop as crude, gas pull back on prospective US-Iran breakthrough",
       "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
       "published": "2026-09-23 07:55:33",
       "ts": 1790150133
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah holds losses following BI rate decision",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-losses-following-bi-rate-decision-202609230755",
-      "published": "Wed, 23 Sep 2026 07:55:10 GMT",
-      "ts": 1790150110
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro remains muted after mixed German flash PMI data",
-      "link": "https://www.fxstreet.com/news/euro-remains-muted-after-mixed-german-flash-pmi-data-202609230752",
-      "published": "Wed, 23 Sep 2026 07:52:07 GMT",
-      "ts": 1790149927
     },
     {
       "source": "CoinDesk",
@@ -148,6 +162,13 @@
       "link": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 05:34:49 +0000",
       "ts": 1790141689
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee declines after two-day gain as hawkish Fed narrative dominates",
+      "link": "https://www.fxstreet.com/news/indian-rupee-comes-under-pressure-amid-hawkish-fed-expectations-202609230526",
+      "published": "Wed, 23 Sep 2026 05:26:13 GMT",
+      "ts": 1790141173
     },
     {
       "source": "CoinTelegraph",
@@ -290,32 +311,11 @@
       "ts": 1790110783
     },
     {
-      "source": "MarketWatch",
-      "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
-      "link": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 20:54:00 GMT",
-      "ts": 1790110440
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
-      "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 20:46:00 GMT",
-      "ts": 1790109960
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
       "link": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
       "published": "Tue, 22 Sep 2026 20:31:02 +0000",
       "ts": 1790109062
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 20:31:00 GMT",
-      "ts": 1790109060
     },
     {
       "source": "Investing Crypto",
@@ -402,25 +402,25 @@
       "ts": 1790026620
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Apollo (APO) Nears a 16% Stake in the Yankees. Why Private Equity Wants a Piece of Baseball",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-apo-nears-16-stake-211617683.html",
+      "published": "2026-09-21T21:16:17Z",
+      "ts": 1790025377
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AMD Hits Milestone on Strong Day for Tech Stocks",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/amd-hits-milestone-on-strong-day-for-tech-stocks-o7UlcpMFFVjyALTAvLTX?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-21T21:06:41Z",
+      "ts": 1790024801
+    },
+    {
       "source": "Investing Forex",
       "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
       "published": "2026-09-21 21:01:45",
       "ts": 1790024505
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
-      "link": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-cowz-gobbles-210028745.html",
-      "published": "2026-09-21T21:00:28Z",
-      "ts": 1790024428
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A Record ETF Year Takes Shape as Inflows Near $1.5 Trillion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/record-etf-takes-shape-inflows-210017196.html",
-      "published": "2026-09-21T21:00:17Z",
-      "ts": 1790024417
     }
   ]
 }
