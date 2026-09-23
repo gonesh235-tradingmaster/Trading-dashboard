@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T00:13:13.624165Z",
+  "updated": "2026-09-23T00:33:52.941750Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC issues warning over risky prediction market ‘mention’ contracts",
+      "link": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 00:18:44 +0000",
+      "ts": 1790122724
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI slumps to near $89.00 as markets weigh Trump’s UN speech",
+      "link": "https://www.fxstreet.com/news/wti-slumps-to-near-8900-as-markets-weigh-trumps-un-speech-202609230012",
+      "published": "Wed, 23 Sep 2026 00:12:45 GMT",
+      "ts": 1790122365
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
@@ -113,13 +127,6 @@
       "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 21:26:00 GMT",
       "ts": 1790112360
-    },
-    {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Sideways bias holds above support against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-sideways-bias-holds-above-support-against-us-dollar-uob-202609222112",
-      "published": "Tue, 22 Sep 2026 21:12:00 GMT",
-      "ts": 1790111520
     },
     {
       "source": "CoinTelegraph",
@@ -297,13 +304,6 @@
       "ts": 1790080335
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
-      "link": "https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 12:18:41 +0000",
-      "ts": 1790079521
-    },
-    {
       "source": "Investing Forex",
       "title": "Treasury curve flattens as easing oil input costs and UN diplomacy offer respite",
       "link": "https://www.investing.com/news/forex-news/euro-area-debt-bourses-face-risk-drag-from-paris-debt-trajectory-4910015",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tokenized-equities-ai-disruption-threaten-122633931.html",
-      "published": "2026-09-21T12:26:33Z",
-      "ts": 1789993593
+      "title": "SanDisk Corp’s (SNDK) Impact on Small/Mid Cap Returns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corp-sndk-impact-small-123955859.html",
+      "published": "2026-09-21T12:39:55Z",
+      "ts": 1789994395
     }
   ]
 }
