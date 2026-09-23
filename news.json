@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T22:38:51.257893Z",
+  "updated": "2026-09-23T22:51:24.912492Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen gives back most of its rally as Fed hike talk grows",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gives-back-most-of-its-rally-as-fed-hike-talk-grows-202609232245",
+      "published": "Wed, 23 Sep 2026 22:45:00 GMT",
+      "ts": 1790203500
+    },
     {
       "source": "FXStreet",
       "title": "Euro extends its slide as US surveys top Europe's strong reading",
@@ -220,13 +227,6 @@
       "ts": 1790186972
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen declines as upbeat US PMI lifts the US Dollar and yields",
-      "link": "https://www.fxstreet.com/news/japanese-yen-declines-as-upbeat-us-pmi-lifts-the-us-dollar-yields-202609231808",
-      "published": "Wed, 23 Sep 2026 18:08:37 GMT",
-      "ts": 1790186917
-    },
-    {
       "source": "CoinDesk",
       "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
       "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nvidia Price Prediction: Wall Street and Our Model Finally Agree",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-price-prediction-wall-street-143044345.html",
-      "published": "2026-09-22T14:30:44Z",
-      "ts": 1790087444
+      "title": "This Fund Trimmed Matson (MATX) on Strength",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-matson-matx-strength-145040552.html",
+      "published": "2026-09-22T14:50:40Z",
+      "ts": 1790088640
     },
     {
       "source": "Yahoo Finance",
-      "title": "How SoFi Is Turning Its Consumer App Into A Stablecoin Proving Ground",
-      "link": "https://www.investors.com/news/technology/sofi-stock-mastercard-ma-stock-stablecoin-network/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T14:29:31Z",
-      "ts": 1790087371
+      "title": "S&P 500 Nears a Fresh Record High as Tech Stocks Gain",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-092226/card/s-p-500-nears-a-fresh-record-high-as-tech-stocks-gain-1BX5rm8PNkzmELvv8DeQ?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-22T14:50:33Z",
+      "ts": 1790088633
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is Gen Digital's Stock Performance Compared to Other Software - Infrastructure Stocks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gen-digitals-stock-performance-compared-142916396.html",
-      "published": "2026-09-22T14:29:16Z",
-      "ts": 1790087356
+      "title": "Continued AI Disruption Concerns Weigh on CCC Intelligent Solutions Holdings (CCC)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/continued-ai-disruption-concerns-weigh-144822190.html",
+      "published": "2026-09-22T14:48:22Z",
+      "ts": 1790088502
     },
     {
       "source": "Yahoo Finance",
-      "title": "GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares",
-      "link": "https://finance.yahoo.com/markets/article/gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html",
-      "published": "2026-09-22T14:28:27Z",
-      "ts": 1790087307
+      "title": "Resilient Cash Flows and Organic Drivers Position McGrath RentCorp (MGRC) for Long-Term Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/resilient-cash-flows-organic-drivers-144630290.html",
+      "published": "2026-09-22T14:46:30Z",
+      "ts": 1790088390
     },
     {
       "source": "Yahoo Finance",
-      "title": "This Fund Trimmed Murphy USA (MUSA) Amid Fuel Margin Strengths",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-murphy-usa-musa-142800363.html",
-      "published": "2026-09-22T14:28:00Z",
-      "ts": 1790087280
+      "title": "Dollar Climbs on Hawkish Fed President Collins",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-hawkish-fed-president-144430362.html",
+      "published": "2026-09-22T14:44:30Z",
+      "ts": 1790088270
     }
   ]
 }
