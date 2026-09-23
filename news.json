@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-23T19:25:13.963507Z",
+  "updated": "2026-09-23T19:39:29.329421Z",
   "count": 60,
   "items": [
     {
       "source": "MarketWatch",
-      "title": "The AI-scare trade is finally hitting banks. Bargain-hunters should take note.",
+      "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
+      "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 19:38:00 GMT",
+      "ts": 1790192280
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/CHF Price Forecast: Bulls retake control, eye 0.8300 break",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-retake-control-eye-08300-break-202609231936",
+      "published": "Wed, 23 Sep 2026 19:36:09 GMT",
+      "ts": 1790192169
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The AI ‘scare trade’ is finally hitting banks. Bargain hunters should take note.",
       "link": "https://www.marketwatch.com/story/the-ai-scare-trade-is-finally-hitting-banks-bargain-hunters-should-take-note-b2fc7410?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 19:19:00 GMT",
-      "ts": 1790191140
+      "published": "Wed, 23 Sep 2026 19:35:00 GMT",
+      "ts": 1790192100
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin pinned at $84,328 as bearish momentum builds: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-23 19:18:30",
+      "ts": 1790191110
     },
     {
       "source": "CoinTelegraph",
@@ -143,13 +164,6 @@
       "ts": 1790186028
     },
     {
-      "source": "MarketWatch",
-      "title": "Bond yields surge to 5.12% as Wall Street fears more Fed rate hikes",
-      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 17:52:00 GMT",
-      "ts": 1790185920
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
       "link": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -190,13 +204,6 @@
       "link": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 15:56:20 +0000",
       "ts": 1790178980
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI snaps five-day losing streak as US-Iran talks fall short of breakthrough",
-      "link": "https://www.fxstreet.com/news/wti-snaps-five-day-losing-streak-as-us-iran-talks-fall-short-of-breakthrough-202609231551",
-      "published": "Wed, 23 Sep 2026 15:51:35 GMT",
-      "ts": 1790178695
     },
     {
       "source": "CoinDesk",
@@ -347,13 +354,6 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin pulls back from overbought highs at $86,388: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-23 07:11:40",
-      "ts": 1790147500
-    },
-    {
-      "source": "Investing Crypto",
       "title": "Bitcoin takes a breather, halting a big rally that briefly took it above $87k",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
       "published": "2026-09-22 22:16:25",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Saudi Oil Lifeline May Reopen as Aramco Eyes Yanbu Restart",
-      "link": "https://finance.yahoo.com/energy/articles/saudi-oil-lifeline-may-reopen-103000476.html",
-      "published": "2026-09-22T10:30:00Z",
-      "ts": 1790073000
+      "title": "Home Depot CFO issues chilling alarm over ‘frozen’ US housing market — crucial metric plunges to historic low",
+      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
+      "published": "2026-09-22T10:45:00Z",
+      "ts": 1790073900
     },
     {
       "source": "Yahoo Finance",
-      "title": "Airlines are cutting capacity again amid $1B surge in Q4 fuel costs — here's what that means for travelers",
-      "link": "https://finance.yahoo.com/economy/articles/airlines-cutting-capacity-again-amid-103000279.html",
-      "published": "2026-09-22T10:30:00Z",
-      "ts": 1790073000
+      "title": "Mastercard Is Letting AI Agents Spend Your Money. Its Partner Says ‘The Checkout Button Is Dying,’ and a Separate $1.8 Billion Bet Shows Why Mastercard Believes It.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mastercard-letting-ai-agents-spend-103044038.html",
+      "published": "2026-09-22T10:30:44Z",
+      "ts": 1790073044
     }
   ]
 }
