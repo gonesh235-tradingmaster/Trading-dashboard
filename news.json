@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T00:54:45.128837Z",
+  "updated": "2026-09-23T01:09:35.489053Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound hangs near late July lows vs USD; looks to UK/US PMIs for fresh impetus",
+      "link": "https://www.fxstreet.com/news/british-pound-hangs-near-late-july-lows-vs-usd-looks-to-uk-us-pmis-for-fresh-impetus-202609230107",
+      "published": "Wed, 23 Sep 2026 01:07:10 GMT",
+      "ts": 1790125630
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Special Envoy Witkoff says mediators completed round of US-Iran talks",
+      "link": "https://www.fxstreet.com/news/us-special-envoy-witkoff-says-mediators-completed-round-of-us-iran-talks-202609230102",
+      "published": "Wed, 23 Sep 2026 01:02:56 GMT",
+      "ts": 1790125376
+    },
     {
       "source": "CoinTelegraph",
       "title": "CFTC issues warning over risky prediction market ‘mention’ contracts",
@@ -78,20 +92,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
       "published": "2026-09-22 22:16:25",
       "ts": 1790115385
-    },
-    {
-      "source": "FXStreet",
-      "title": "The British Pound sets a new September low as Fed officials argue for more",
-      "link": "https://www.fxstreet.com/news/the-british-pound-sets-a-new-september-low-as-fed-officials-argue-for-more-202609222204",
-      "published": "Tue, 22 Sep 2026 22:04:34 GMT",
-      "ts": 1790114674
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: RMB gains hinge on PBoC fix – OCBC",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-rmb-gains-hinge-on-pboc-fix-ocbc-202609222154",
-      "published": "Tue, 22 Sep 2026 21:54:00 GMT",
-      "ts": 1790114040
     },
     {
       "source": "MarketWatch",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Short Seller Reports Drag Ensign Group (ENSG) Down",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/short-seller-reports-drag-ensign-131917317.html",
-      "published": "2026-09-21T13:19:17Z",
-      "ts": 1789996757
+      "title": "Aggressive Store Additions Challenge Black Rock Coffee Bar’s (BRCB) Long-Term Expansion Thesis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aggressive-store-additions-challenge-black-132106435.html",
+      "published": "2026-09-21T13:21:06Z",
+      "ts": 1789996866
     }
   ]
 }
