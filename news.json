@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-23T04:42:51.055002Z",
+  "updated": "2026-09-23T04:54:59.808074Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japan’s Takaichi and US President Donald Trump discuss cooperation in New York",
+      "link": "https://www.fxstreet.com/news/japans-takaichi-and-us-president-donald-trump-discuss-cooperation-in-new-york-202609230452",
+      "published": "Wed, 23 Sep 2026 04:52:23 GMT",
+      "ts": 1790139143
+    },
     {
       "source": "FXStreet",
       "title": "India Gold price today: Gold falls, according to FXStreet data",
       "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609230434",
       "published": "Wed, 23 Sep 2026 04:34:58 GMT",
       "ts": 1790138098
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
+      "link": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 04:33:18 +0000",
+      "ts": 1790137998
     },
     {
       "source": "FXStreet",
@@ -99,13 +113,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-as-iran-diplomacy-hopes-weigh-on-oil-prices-202609230143",
       "published": "Wed, 23 Sep 2026 01:43:58 GMT",
       "ts": 1790127838
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar remains under pressure as PMI slows",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-under-pressure-as-pmi-slows-202609230133",
-      "published": "Wed, 23 Sep 2026 01:33:50 GMT",
-      "ts": 1790127230
     },
     {
       "source": "CoinTelegraph",
@@ -276,13 +283,6 @@
       "ts": 1790092537
     },
     {
-      "source": "CoinTelegraph",
-      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-      "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 15:37:17 +0000",
-      "ts": 1790091437
-    },
-    {
       "source": "CoinDesk",
       "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
       "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
@@ -403,10 +403,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Cotton Rallying at Monday’s Midday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/cotton-rallying-monday-midday-170901500.html",
-      "published": "2026-09-21T17:09:01Z",
-      "ts": 1790010541
+      "title": "SoftBank Borrows Even More Money for OpenAI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-borrows-even-more-money-170902930.html",
+      "published": "2026-09-21T17:09:02Z",
+      "ts": 1790010542
     },
     {
       "source": "Yahoo Finance",
