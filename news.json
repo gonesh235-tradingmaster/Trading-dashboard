@@ -1,13 +1,69 @@
 {
-  "updated": "2026-09-23T13:52:36.765023Z",
+  "updated": "2026-09-23T14:10:37.512145Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "India: Russian dependence and security focus – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/india-russian-dependence-and-security-focus-standard-chartered-202609231409",
+      "published": "Wed, 23 Sep 2026 14:09:10 GMT",
+      "ts": 1790172550
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These stocks are the ‘four horsemen of AI’ — and they’re not the ones you’d think",
+      "link": "https://www.marketwatch.com/story/these-stocks-are-the-four-horsemen-of-ai-and-theyre-not-the-ones-youd-think-bd4072ae?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 13:58:00 GMT",
+      "ts": 1790171880
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "DataSnipper launches Alwin platform for audit and finance workflows",
+      "link": "https://finance.yahoo.com/technology/ai/articles/datasnipper-launches-alwin-platform-audit-135453480.html",
+      "published": "2026-09-23T13:54:53Z",
+      "ts": 1790171693
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/tech-retreats-as-treasury-yields-and-oil-climb-alphacheck-135323303.html",
+      "published": "2026-09-23T13:53:23Z",
+      "ts": 1790171603
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
+      "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 13:51:00 GMT",
+      "ts": 1790171460
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Can Flywire’s (FLYW) Hotel Payment Deals Justify Its Growth Story?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flywire-flyw-hotel-payment-deals-134746487.html",
+      "published": "2026-09-23T13:47:46Z",
+      "ts": 1790171266
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar: Bearish trend targets 1.4125 – Scotiabank",
       "link": "https://www.fxstreet.com/news/canadian-dollar-bearish-trend-targets-14125-scotiabank-202609231346",
       "published": "Wed, 23 Sep 2026 13:46:57 GMT",
       "ts": 1790171217
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-record-high-micron-sandisk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T13:44:22Z",
+      "ts": 1790171062
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steadies below $86k as ETF inflows soar; Trump-Xi summit in focus",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
+      "published": "2026-09-23 13:43:59",
+      "ts": 1790171039
     },
     {
       "source": "MarketWatch",
@@ -43,13 +99,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/protolabs-prlb-next-chapter-hinged-133431215.html",
       "published": "2026-09-23T13:34:31Z",
       "ts": 1790170471
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "KPOT selects Deliverect to manage third-party orders",
-      "link": "https://finance.yahoo.com/small-business/articles/kpot-selects-deliverect-manage-third-133118729.html",
-      "published": "2026-09-23T13:31:18Z",
-      "ts": 1790170278
     },
     {
       "source": "CoinTelegraph",
@@ -94,32 +143,11 @@
       "ts": 1790169685
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Is Sharplink’s (SBET) Staking Strategy Enough to Offset Its Volatility?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/sharplink-sbet-staking-strategy-enough-131921315.html",
-      "published": "2026-09-23T13:19:21Z",
-      "ts": 1790169561
-    },
-    {
       "source": "FXStreet",
       "title": "Oil rebounds above $90: Why is the Canadian Dollar still falling?",
       "link": "https://www.fxstreet.com/news/oil-rebounds-above-90-why-is-the-canadian-dollar-still-falling-202609231317",
       "published": "Wed, 23 Sep 2026 13:17:52 GMT",
       "ts": 1790169472
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Canada's Banks To Accept Tokenized Deposits",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/canadas-banks-accept-tokenized-deposits-131500175.html",
-      "published": "2026-09-23T13:15:00Z",
-      "ts": 1790169300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "IREN Has Microsoft and $14 Billion of Funding. Execution Is the Real Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iren-microsoft-14-billion-funding-131403251.html",
-      "published": "2026-09-23T13:14:03Z",
-      "ts": 1790169243
     },
     {
       "source": "FXStreet",
@@ -213,13 +241,6 @@
       "ts": 1790166176
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: Daily range holds, but 4-hour chart turns bearish",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-daily-range-holds-but-4-hour-chart-turns-bearish-202609231219",
-      "published": "Wed, 23 Sep 2026 12:19:04 GMT",
-      "ts": 1790165944
-    },
-    {
       "source": "MarketWatch",
       "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
       "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
@@ -235,7 +256,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC",
+      "title": "Live updates: Bitcoin slips as higher rates and dollar pressure markets",
       "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
       "published": "Wed, 23 Sep 2026 11:29:30 +0000",
       "ts": 1790162970
@@ -255,22 +276,8 @@
       "ts": 1790162280
     },
     {
-      "source": "MarketWatch",
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 11:15:00 GMT",
-      "ts": 1790162100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Financial stocks are falling as rates rise. Why that’s a problem for the broader market.",
-      "link": "https://www.marketwatch.com/story/financial-stocks-are-falling-as-rates-rise-why-thats-a-problem-for-the-broader-market-70bd9b04?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 11:14:00 GMT",
-      "ts": 1790162040
-    },
-    {
       "source": "FXStreet",
-      "title": "Gold falls as Fed rate hike bets lift US Dollar to two-month high",
+      "title": "Gold falls as strong US PMI data gives Fed room to raise rates again",
       "link": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
       "published": "Wed, 23 Sep 2026 11:00:35 GMT",
       "ts": 1790161235
@@ -309,13 +316,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 10:05:10 +0000",
       "ts": 1790157910
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin firms near $86k as ETF inflows soar; Trump-Xi summit in focus",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
-      "published": "2026-09-23 10:02:36",
-      "ts": 1790157756
     },
     {
       "source": "CoinDesk",
