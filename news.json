@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T09:42:02.254896Z",
+  "updated": "2026-09-23T09:54:51.501522Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold Price Forecast: XAU/USD drifts toward $4.300 with bears gaining traction",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-drifts-toward-4300-with-bears-gaining-traction-202609230954",
+      "published": "Wed, 23 Sep 2026 09:54:16 GMT",
+      "ts": 1790157256
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+      "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 09:42:39 +0000",
+      "ts": 1790156559
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar: Bearish outlook retained below 0.7140 - UOB",
@@ -113,13 +127,6 @@
       "link": "https://www.marketwatch.com/story/softbanks-mega-junk-bond-deal-shows-capital-for-the-ai-race-is-getting-more-expensive-9eb3fa28?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 08:56:00 GMT",
       "ts": 1790153760
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc: SNB preview signals steady policy – DBS",
-      "link": "https://www.fxstreet.com/news/swiss-franc-snb-preview-signals-steady-policy-dbs-202609230852",
-      "published": "Wed, 23 Sep 2026 08:52:04 GMT",
-      "ts": 1790153524
     },
     {
       "source": "MarketWatch",
@@ -311,13 +318,6 @@
       "ts": 1790112545
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Arch Lending eyes tokenized stocks as next collateral market",
-      "link": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 21:06:52 +0000",
-      "ts": 1790111212
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar pinned at nearly 8-week high, euro slips while yen flat amid holiday volume",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
@@ -389,6 +389,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Bitcoin surges to $87,000 on Yom Kippur",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-87-000-yom-234726432.html",
+      "published": "2026-09-21T23:47:26Z",
+      "ts": 1790034446
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Microsoft Just Hiked Its Dividend by 8%. How to Play the Stock Here.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-hiked-dividend-8-233002125.html",
       "published": "2026-09-21T23:30:02Z",
@@ -403,24 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Celsius Insiders Just Bought $1.8M of Stock Near Multi-Year Lows. Is the Worst Priced In?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-insiders-just-bought-1-232118652.html",
-      "published": "2026-09-21T23:21:18Z",
-      "ts": 1790032878
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Silver Lake sues Carl Icahn and hedge funds over Endeavor buyout",
       "link": "https://finance.yahoo.com/markets/stocks/articles/silver-lake-sues-carl-icahn-231025693.html",
       "published": "2026-09-21T23:13:53Z",
       "ts": 1790032433
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Oura's $2.2B IPO is a major payday for three VCs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ouras-2-2b-ipo-mostly-230019467.html",
-      "published": "2026-09-21T23:00:19Z",
-      "ts": 1790031619
+      "source": "Investing Crypto",
+      "title": "CloudTech Powers Institutional-Grade Digital Asset Trading for Australian Investors Through Integral Technology",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cloudtech-powers-institutionalgrade-digital-asset-trading-for-australian-investors-through-integral-technology-4909726",
+      "published": "2026-09-21 22:30:35",
+      "ts": 1790029835
     }
   ]
 }
