@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-23T07:28:47.632713Z",
+  "updated": "2026-09-23T07:44:53.035156Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger retries upgrade that lets banks split payment and compliance duties",
+      "link": "https://www.coindesk.com/tech/2026/09/23/xrp-ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
+      "published": "Wed, 23 Sep 2026 07:37:46 +0000",
+      "ts": 1790149066
+    },
+    {
+      "source": "FXStreet",
+      "title": "Germany’s flash Manufacturing PMI unexpectedly drops to 53.8 in September",
+      "link": "https://www.fxstreet.com/news/germanys-flash-manufacturing-pmi-unexpectedly-drops-to-538-in-september-202609230733",
+      "published": "Wed, 23 Sep 2026 07:33:46 GMT",
+      "ts": 1790148826
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: Flat close with sector rotation – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-flat-close-with-sector-rotation-deutsche-bank-202609230730",
+      "published": "Wed, 23 Sep 2026 07:30:48 GMT",
+      "ts": 1790148648
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 07:25:05 +0000",
+      "ts": 1790148305
+    },
     {
       "source": "FXStreet",
       "title": "USD/CAD Price Forecast: Eyes 1.4100 as bulls retain control near July 29 highs",
@@ -50,20 +78,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-weakens-further-against-us-dollar-as-hawkish-fed-bets-dominate-202609230631",
       "published": "Wed, 23 Sep 2026 06:31:34 GMT",
       "ts": 1790145094
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: US Dollar continues to gather strength ahead of PMI data",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-continues-to-gather-strength-ahead-of-pmi-data-202609230629",
-      "published": "Wed, 23 Sep 2026 06:29:36 GMT",
-      "ts": 1790144976
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: De-escalation risk weighs on EUR against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-de-escalation-risk-weighs-on-eur-against-us-dollar-commerzbank-202609230629",
-      "published": "Wed, 23 Sep 2026 06:29:33 GMT",
-      "ts": 1790144973
     },
     {
       "source": "Investing Crypto",
@@ -297,13 +311,6 @@
       "ts": 1790098443
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Zcash gets first European ETP following US ETF launch",
-      "link": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 16:21:44 +0000",
-      "ts": 1790094104
-    },
-    {
       "source": "CoinDesk",
       "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
       "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
@@ -330,13 +337,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
       "published": "2026-09-22T12:39:18Z",
       "ts": 1790080758
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
-      "published": "Tue, 22 Sep 2026 12:32:15 +0000",
-      "ts": 1790080335
     },
     {
       "source": "Investing Forex",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "HP Stock Drops After PC Maker Forecasts Industry Sales Decline",
+      "link": "https://www.investors.com/news/technology/hpq-stock-hp-forecasts-pc-industry-sales-decline/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T20:24:33Z",
+      "ts": 1790022273
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Former LPL Employee Sues Firm, Alleging Age Discrimination",
+      "link": "https://finance.yahoo.com/small-business/articles/former-lpl-employee-sues-firm-201832165.html",
+      "published": "2026-09-21T20:18:32Z",
+      "ts": 1790021912
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Evercore Just Upgraded Ciena Stock. Here's Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-just-upgraded-ciena-stock-201045130.html",
+      "published": "2026-09-21T20:10:45Z",
+      "ts": 1790021445
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Summer's Hottest Stocks: These Winners Rose 50% Or More In A Lackluster Stock Market",
       "link": "https://www.investors.com/news/stock-market-autumn-equinox-summer-sp-500/?src=A00220&yptr=yahoo",
       "published": "2026-09-21T20:04:59Z",
       "ts": 1790021099
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AXT Inc. (AXTI) Climbs 16% on S&P 600 Addition",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-climbs-16-200025106.html",
-      "published": "2026-09-21T20:00:25Z",
-      "ts": 1790020825
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI-Fueled Precision Oncology Firm Guardant Health Is In Focus. Here's Why.",
-      "link": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/guardant-health-gh-stock-diagnoses-breakout/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T20:00:12Z",
-      "ts": 1790020812
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening",
-      "link": "https://finance.yahoo.com/energy/articles/where-opec-riyadh-moscow-silence-200000768.html",
-      "published": "2026-09-21T20:00:00Z",
-      "ts": 1790020800
     }
   ]
 }
