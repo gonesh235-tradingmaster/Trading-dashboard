@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T03:09:58.140188Z",
+  "updated": "2026-09-23T03:26:56.673151Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index jumps to near 100.70 as Fed maintains hawkish rhetoric",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-jumps-to-near-10070-as-fed-maintains-hawkish-rhetoric-202609230323",
+      "published": "Wed, 23 Sep 2026 03:23:53 GMT",
+      "ts": 1790133833
+    },
     {
       "source": "Investing Forex",
       "title": "Asia FX flat, dollar creeps higher ahead of U.S.-China summit",
@@ -92,13 +99,6 @@
       "link": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 00:18:44 +0000",
       "ts": 1790122724
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI slumps to near $89.00 as markets weigh Trump’s UN speech",
-      "link": "https://www.fxstreet.com/news/wti-slumps-to-near-8900-as-markets-weigh-trumps-un-speech-202609230012",
-      "published": "Wed, 23 Sep 2026 00:12:45 GMT",
-      "ts": 1790122365
     },
     {
       "source": "CoinDesk",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz",
-      "link": "https://finance.yahoo.com/energy/articles/crude-prices-sink-larger-flows-153518210.html",
-      "published": "2026-09-21T15:35:18Z",
-      "ts": 1790004918
+      "title": "Red Cat CEO Just Sold $1.6 Million of Stock. Wall Street Sees 144% Rally Ahead.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-ceo-just-sold-154335964.html",
+      "published": "2026-09-21T15:43:35Z",
+      "ts": 1790005415
     },
     {
       "source": "Yahoo Finance",
-      "title": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
-      "link": "https://www.investors.com/news/critical-metals-crml-stock-rare-earth-us-denmark-greenland-trump-xi/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T15:33:32Z",
-      "ts": 1790004812
+      "title": "DIS Stock Alert: What to Know as Disney Creates First-Ever Chief Technology Officer Role",
+      "link": "https://finance.yahoo.com/technology/articles/dis-stock-alert-know-disney-154302404.html",
+      "published": "2026-09-21T15:43:02Z",
+      "ts": 1790005382
     }
   ]
 }
