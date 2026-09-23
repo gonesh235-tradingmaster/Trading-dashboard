@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-23T08:30:13.272201Z",
+  "updated": "2026-09-23T08:45:55.430895Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "S&P Global PMIs expected to show resilient US economic growth in September",
+      "link": "https://www.fxstreet.com/news/sp-global-pmis-expected-to-show-resilient-us-economic-growth-in-september-202609230845",
+      "published": "Wed, 23 Sep 2026 08:45:00 GMT",
+      "ts": 1790153100
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures rise ahead of US PMI data",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-ahead-of-us-pmi-data-202609230834",
+      "published": "Wed, 23 Sep 2026 08:34:29 GMT",
+      "ts": 1790152469
+    },
+    {
+      "source": "FXStreet",
+      "title": "United Kingdom flash Services PMI expands slower-than-expected to 51.7 in September",
+      "link": "https://www.fxstreet.com/news/united-kingdom-flash-services-pmi-expands-slower-than-expected-to-517-in-september-202609230834",
+      "published": "Wed, 23 Sep 2026 08:34:27 GMT",
+      "ts": 1790152467
+    },
     {
       "source": "FXStreet",
       "title": "Oil: Geopolitics drive volatile price path – Rabobank",
@@ -52,6 +73,13 @@
       "ts": 1790150645
     },
     {
+      "source": "Investing Forex",
+      "title": "Euro yields drop as crude, gas pull back on prospective US-Iran breakthrough",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
+      "published": "2026-09-23 07:55:33",
+      "ts": 1790150133
+    },
+    {
       "source": "FXStreet",
       "title": "Indonesian Rupiah holds losses following BI rate decision",
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-losses-following-bi-rate-decision-202609230755",
@@ -66,13 +94,6 @@
       "ts": 1790149927
     },
     {
-      "source": "FXStreet",
-      "title": "WTI Oil hovers at two-week lows near $89.00 awaiting Middle East developments",
-      "link": "https://www.fxstreet.com/news/wti-oil-hovers-at-two-week-lows-near-8900-awaiting-middle-east-developments-202609230751",
-      "published": "Wed, 23 Sep 2026 07:51:06 GMT",
-      "ts": 1790149866
-    },
-    {
       "source": "CoinDesk",
       "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
       "link": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
@@ -80,25 +101,11 @@
       "ts": 1790149763
     },
     {
-      "source": "FXStreet",
-      "title": "Hungarian Forint: HUF outlook mixed after NBH pause – ING",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-huf-outlook-mixed-after-nbh-pause-ing-202609230747",
-      "published": "Wed, 23 Sep 2026 07:47:06 GMT",
-      "ts": 1790149626
-    },
-    {
       "source": "CoinDesk",
       "title": "XRP Ledger retries upgrade that lets banks split payment and compliance duties",
       "link": "https://www.coindesk.com/tech/2026/09/23/xrp-ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
       "published": "Wed, 23 Sep 2026 07:37:46 +0000",
       "ts": 1790149066
-    },
-    {
-      "source": "FXStreet",
-      "title": "Germany’s flash Manufacturing PMI unexpectedly drops to 53.8 in September",
-      "link": "https://www.fxstreet.com/news/germanys-flash-manufacturing-pmi-unexpectedly-drops-to-538-in-september-202609230733",
-      "published": "Wed, 23 Sep 2026 07:33:46 GMT",
-      "ts": 1790148826
     },
     {
       "source": "Investing Crypto",
@@ -403,24 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Faraday Future (FFAI) Bets on Robotics Beyond EVs, but the Revenue Opportunity Still Needs Proof",
-      "link": "https://finance.yahoo.com/technology/ai/articles/faraday-future-ffai-bets-robotics-205412128.html",
-      "published": "2026-09-21T20:54:12Z",
-      "ts": 1790024052
+      "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
+      "link": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-cowz-gobbles-210028745.html",
+      "published": "2026-09-21T21:00:28Z",
+      "ts": 1790024428
     },
     {
       "source": "Yahoo Finance",
-      "title": "How to Play CrowdStrike Stock at All-Time Highs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/play-crowdstrike-stock-time-highs-205405169.html",
-      "published": "2026-09-21T20:54:05Z",
-      "ts": 1790024045
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wells Fargo Cuts Netflix (NFLX) to Underweight as its 2026 Slide Deepens",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-cuts-netflix-nflx-205315969.html",
-      "published": "2026-09-21T20:53:15Z",
-      "ts": 1790023995
+      "title": "A Record ETF Year Takes Shape as Inflows Near $1.5 Trillion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/record-etf-takes-shape-inflows-210017196.html",
+      "published": "2026-09-21T21:00:17Z",
+      "ts": 1790024417
     }
   ]
 }
