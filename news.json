@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T22:10:11.390481Z",
+  "updated": "2026-09-23T22:25:14.974615Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound sells off hard as US surveys outpace the UK's",
+      "link": "https://www.fxstreet.com/news/british-pound-sells-off-hard-as-us-surveys-outpace-the-uks-202609232224",
+      "published": "Wed, 23 Sep 2026 22:24:19 GMT",
+      "ts": 1790202259
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 22:15:00 GMT",
+      "ts": 1790201700
+    },
     {
       "source": "MarketWatch",
       "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
@@ -115,13 +129,6 @@
       "ts": 1790195314
     },
     {
-      "source": "MarketWatch",
-      "title": "What’s behind Royal Caribbean’s ‘highly surprising’ push into Sandals vacation resorts",
-      "link": "https://www.marketwatch.com/story/whats-behind-royal-caribbeans-highly-surprising-push-into-sandals-vacation-resorts-4835acc9?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 20:24:00 GMT",
-      "ts": 1790195040
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -232,13 +239,6 @@
       "link": "https://www.fxstreet.com/news/us-10-year-yield-hits-a-19-year-high-as-fed-governor-barr-backs-hikes-202609231619",
       "published": "Wed, 23 Sep 2026 16:19:52 GMT",
       "ts": 1790180392
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average keeps sliding as yields climb on a strong PMI",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-keeps-sliding-as-yields-climb-on-a-strong-pmi-202609231606",
-      "published": "Wed, 23 Sep 2026 16:06:55 GMT",
-      "ts": 1790179615
     },
     {
       "source": "CoinTelegraph",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is International Paper Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/news/international-paper-stock-underperforming-dow-135035800.html",
-      "published": "2026-09-22T13:50:35Z",
-      "ts": 1790085035
+      "title": "This Blue-Chip ‘Loser’ Just Might Offer Contrarians a Pleasant Surprise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-chip-loser-just-might-142146058.html",
+      "published": "2026-09-22T14:21:46Z",
+      "ts": 1790086906
     },
     {
       "source": "Yahoo Finance",
-      "title": "Elon Musk’s X Offers Crypto Trading To Users",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-x-offers-crypto-134900718.html",
-      "published": "2026-09-22T13:49:00Z",
-      "ts": 1790084940
+      "title": "Benchmark diesel sets new record; futures signaling relief?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/benchmark-diesel-sets-record-futures-142020903.html",
+      "published": "2026-09-22T14:20:20Z",
+      "ts": 1790086820
     },
     {
       "source": "Yahoo Finance",
-      "title": "Walmart, Target and Costco Forecast: Retail Stocks Face Key Tests",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-costco-forecast-retail-134747501.html",
-      "published": "2026-09-22T13:47:47Z",
-      "ts": 1790084867
+      "title": "Can Apple Overtake NVIDIA as the World's Most Valuable Company?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-overtake-nvidia-worlds-most-142000889.html",
+      "published": "2026-09-22T14:20:00Z",
+      "ts": 1790086800
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mid-America Apartment Communities Stock: Is MAA Underperforming the Real Estate Sector?",
-      "link": "https://finance.yahoo.com/news/mid-america-apartment-communities-stock-134620864.html",
-      "published": "2026-09-22T13:46:20Z",
-      "ts": 1790084780
+      "title": "AI infrastructure Boom Fuels Texas Instruments’ (TXN) Rally",
+      "link": "https://finance.yahoo.com/technology/articles/ai-infrastructure-boom-fuels-texas-141812824.html",
+      "published": "2026-09-22T14:18:12Z",
+      "ts": 1790086692
     },
     {
       "source": "Yahoo Finance",
-      "title": "UFlex secures Indian patent for aseptic liquid packaging machine",
-      "link": "https://finance.yahoo.com/technology/articles/uflex-secures-indian-patent-aseptic-134612996.html",
-      "published": "2026-09-22T13:46:12Z",
-      "ts": 1790084772
+      "title": "Warren Buffett Just Left the Chairman Role at Berkshire Hathaway. How His Departure Will Impact BRK.B Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-just-left-chairman-141730011.html",
+      "published": "2026-09-22T14:17:30Z",
+      "ts": 1790086650
     }
   ]
 }
