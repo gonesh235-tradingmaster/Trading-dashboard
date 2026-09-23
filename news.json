@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T04:27:32.093032Z",
+  "updated": "2026-09-23T04:42:51.055002Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609230434",
+      "published": "Wed, 23 Sep 2026 04:34:58 GMT",
+      "ts": 1790138098
+    },
     {
       "source": "FXStreet",
       "title": "WTI Price Forecast: Eyes further losses near $88.50, two-week low amid easing supply risk",
@@ -99,13 +106,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-remains-under-pressure-as-pmi-slows-202609230133",
       "published": "Wed, 23 Sep 2026 01:33:50 GMT",
       "ts": 1790127230
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro weakens below 1.1450 on hawkish Fed signals, German political risks",
-      "link": "https://www.fxstreet.com/news/euro-weakens-below-11450-on-hawkish-fed-signals-german-political-risks-202609230121",
-      "published": "Wed, 23 Sep 2026 01:21:29 GMT",
-      "ts": 1790126489
     },
     {
       "source": "CoinTelegraph",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bitcoin Clears 50-Week Hurdle as Traders Eye New Bull Market: Analyst",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-clears-50-week-hurdle-164400579.html",
-      "published": "2026-09-21T16:44:00Z",
-      "ts": 1790009040
+      "title": "Cotton Rallying at Monday’s Midday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/cotton-rallying-monday-midday-170901500.html",
+      "published": "2026-09-21T17:09:01Z",
+      "ts": 1790010541
     },
     {
       "source": "Yahoo Finance",
-      "title": "Lucid Just Struck a Partnership With Bolt on Mobility. What This Means for LCID Stock.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-just-struck-partnership-bolt-162648488.html",
-      "published": "2026-09-21T16:26:48Z",
-      "ts": 1790008008
+      "title": "Soybean Bulls Rallying on Monday Ahead of US/China Meeting",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/soybean-bulls-rallying-monday-ahead-170900763.html",
+      "published": "2026-09-21T17:09:00Z",
+      "ts": 1790010540
     },
     {
       "source": "Yahoo Finance",
-      "title": "AI Leader AMD Breaks Out Past New Buy Point With This Bullish Signal",
-      "link": "https://www.investors.com/research/amd-stock-advanced-micro-devices/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T16:26:46Z",
-      "ts": 1790008006
+      "title": "Corn Bulls Putting Risk Back at Monday’s Midday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-bulls-putting-risk-back-170900863.html",
+      "published": "2026-09-21T17:09:00Z",
+      "ts": 1790010540
     }
   ]
 }
