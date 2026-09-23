@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T02:10:28.818345Z",
+  "updated": "2026-09-23T02:26:56.821952Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 02:15:00 GMT",
+      "ts": 1790129700
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen softens on BoJ's lack of hawkish guidance, potential intervention eyed",
@@ -197,13 +204,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 20:03:30 +0000",
       "ts": 1790107410
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Jet fuel is following diesel’s price jump as the Hormuz supply shock hits the skies",
-      "link": "https://www.marketwatch.com/story/jet-fuel-is-following-diesels-price-jump-as-the-hormuz-supply-shock-hits-the-skies-6fc21238?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 19:59:00 GMT",
-      "ts": 1790107140
     },
     {
       "source": "CoinTelegraph",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Make This 1 Trade Now as U.S.-Canada Trade Friction Drags On",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/1-trade-now-u-canada-143711016.html",
+      "published": "2026-09-21T14:37:11Z",
+      "ts": 1790001431
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Bank of America says buy tumbling shares of aviation giant",
       "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
       "published": "2026-09-21T14:37:00Z",
       "ts": 1790001420
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SEC Gives a Nod to Nocturnal Traders",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/sec-gives-nod-nocturnal-traders-141252657.html",
-      "published": "2026-09-21T14:12:52Z",
-      "ts": 1789999972
     }
   ]
 }
