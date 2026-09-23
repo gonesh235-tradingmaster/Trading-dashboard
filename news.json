@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T05:25:42.570482Z",
+  "updated": "2026-09-23T05:39:50.201525Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee comes under pressure amid hawkish Fed expectations",
+      "link": "https://www.fxstreet.com/news/indian-rupee-comes-under-pressure-amid-hawkish-fed-expectations-202609230526",
+      "published": "Wed, 23 Sep 2026 05:26:13 GMT",
+      "ts": 1790141173
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
+      "link": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 05:22:21 +0000",
+      "ts": 1790140941
+    },
     {
       "source": "CoinDesk",
       "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
@@ -99,13 +113,6 @@
       "link": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 03:33:15 +0000",
       "ts": 1790134395
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index jumps to near 100.70 as Fed maintains hawkish rhetoric",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-jumps-to-near-10070-as-fed-maintains-hawkish-rhetoric-202609230323",
-      "published": "Wed, 23 Sep 2026 03:23:53 GMT",
-      "ts": 1790133833
     },
     {
       "source": "Investing Forex",
@@ -290,13 +297,6 @@
       "ts": 1790092915
     },
     {
-      "source": "CoinTelegraph",
-      "title": "CLARITY vote failure could stoke more crypto PAC spending in key races",
-      "link": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 15:55:37 +0000",
-      "ts": 1790092537
-    },
-    {
       "source": "CoinDesk",
       "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
       "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Loren Finegold, Ed Comber Join Vinson & Elkins NY Practice, Finance & Infrastructure Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/loren-finegold-ed-comber-join-173054582.html",
-      "published": "2026-09-21T17:30:54Z",
-      "ts": 1790011854
+      "title": "Priced By the People: inDrive CFO on Scaling Affordable Mobility",
+      "link": "https://finance.yahoo.com/small-business/articles/priced-people-indrive-cfo-scaling-180025160.html",
+      "published": "2026-09-21T18:00:25Z",
+      "ts": 1790013625
     },
     {
       "source": "Yahoo Finance",
-      "title": "SpaceX Has Huge, Unusual Put Options Volume - Is SPCX Set to Fall or Rise From Here?",
-      "link": "https://finance.yahoo.com/markets/options/articles/spacex-huge-unusual-put-options-173002150.html",
-      "published": "2026-09-21T17:30:02Z",
-      "ts": 1790011802
+      "title": "Why General Motors Is Now in the Missile Manufacturing Business and What It Means for GM Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-general-motors-now-missile-175953953.html",
+      "published": "2026-09-21T17:59:53Z",
+      "ts": 1790013593
     },
     {
       "source": "Yahoo Finance",
-      "title": "Halliburton Signs Deals to Expand Venezuela Energy Presence",
-      "link": "https://finance.yahoo.com/energy/articles/halliburton-signs-deals-expand-venezuela-172503667.html",
-      "published": "2026-09-21T17:25:03Z",
-      "ts": 1790011503
+      "title": "USAR Stock Alert: USA Rare Earths Jumps on Trump's Greenland Deal Announcement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/usar-stock-alert-usa-rare-175912959.html",
+      "published": "2026-09-21T17:59:12Z",
+      "ts": 1790013552
     },
     {
-      "source": "Investing Forex",
-      "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
-      "published": "2026-09-21 17:16:09",
-      "ts": 1790010969
+      "source": "Yahoo Finance",
+      "title": "Uranium Stocks Are Rallying. Why NXE Got Initiated At Overweight.",
+      "link": "https://www.investors.com/news/nuclear-smr-stocks-rally-nexgen-energy-nxe-initiated-overweight/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T17:44:11Z",
+      "ts": 1790012651
     }
   ]
 }
