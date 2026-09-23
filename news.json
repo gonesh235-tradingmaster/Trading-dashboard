@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-23T09:10:02.981990Z",
+  "updated": "2026-09-23T09:26:57.327046Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Staying strong as Fed expectations hold – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-staying-strong-as-fed-expectations-hold-ing-202609230926",
+      "published": "Wed, 23 Sep 2026 09:26:16 GMT",
+      "ts": 1790155576
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound holds steady against Japanese Yen after mixed UK PMIs",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-against-japanese-yen-after-mixed-uk-pmis-202609230921",
+      "published": "Wed, 23 Sep 2026 09:21:18 GMT",
+      "ts": 1790155278
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
+      "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
+      "published": "Wed, 23 Sep 2026 09:17:53 +0000",
+      "ts": 1790155073
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 09:15:00 GMT",
+      "ts": 1790154900
+    },
+    {
+      "source": "FXStreet",
+      "title": "Hungarian Forint: Cautious MNB stance supports HUF – Commerzbank",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-cautious-mnb-stance-supports-huf-commerzbank-202609230911",
+      "published": "Wed, 23 Sep 2026 09:11:42 GMT",
+      "ts": 1790154702
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro dips against Canadian Dollar following HCOB PMI data release",
+      "link": "https://www.fxstreet.com/news/euro-dips-against-canadian-dollar-following-hcob-pmi-data-release-202609230911",
+      "published": "Wed, 23 Sep 2026 09:11:39 GMT",
+      "ts": 1790154699
+    },
     {
       "source": "MarketWatch",
       "title": "The real estate portfolio of Zendaya and Tom Holland, plus her plans for a room just for her wedding dress",
@@ -59,32 +101,11 @@
       "ts": 1790152469
     },
     {
-      "source": "FXStreet",
-      "title": "United Kingdom flash Services PMI expands slower-than-expected to 51.7 in September",
-      "link": "https://www.fxstreet.com/news/united-kingdom-flash-services-pmi-expands-slower-than-expected-to-517-in-september-202609230834",
-      "published": "Wed, 23 Sep 2026 08:34:27 GMT",
-      "ts": 1790152467
-    },
-    {
-      "source": "FXStreet",
-      "title": "Oil: Geopolitics drive volatile price path – Rabobank",
-      "link": "https://www.fxstreet.com/news/oil-geopolitics-drive-volatile-price-path-rabobank-202609230824",
-      "published": "Wed, 23 Sep 2026 08:24:31 GMT",
-      "ts": 1790151871
-    },
-    {
       "source": "MarketWatch",
       "title": "This oil giant has lagged its leading rivals through two energy crises. Now one Wall Street giant says it’s time to buy.",
       "link": "https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 08:24:00 GMT",
       "ts": 1790151840
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar slides to one-week low, below 0.7100 ahead of jobs data on Thursday",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slides-to-one-week-low-below-07100-ahead-of-jobs-data-on-thursday-202609230821",
-      "published": "Wed, 23 Sep 2026 08:21:17 GMT",
-      "ts": 1790151677
     },
     {
       "source": "CoinTelegraph",
@@ -206,13 +227,6 @@
       "ts": 1790136608
     },
     {
-      "source": "FXStreet",
-      "title": "Gold approaches $4,300 as Fed hike bets boost USD to fresh high since late July",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-on-fed-driven-usd-strength-as-markets-await-trump-xi-meeting-202609230343",
-      "published": "Wed, 23 Sep 2026 03:43:06 GMT",
-      "ts": 1790134986
-    },
-    {
       "source": "CoinTelegraph",
       "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
       "link": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -290,13 +304,6 @@
       "ts": 1790112420
     },
     {
-      "source": "MarketWatch",
-      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
-      "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 21:26:00 GMT",
-      "ts": 1790112360
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Arch Lending eyes tokenized stocks as next collateral market",
       "link": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -330,13 +337,6 @@
       "link": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
       "published": "Tue, 22 Sep 2026 17:34:03 +0000",
       "ts": 1790098443
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
-      "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
-      "published": "Tue, 22 Sep 2026 15:21:28 +0000",
-      "ts": 1790090488
     },
     {
       "source": "Investing Crypto",
@@ -381,46 +381,46 @@
       "ts": 1790052600
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Microsoft Just Hiked Its Dividend by 8%. How to Play the Stock Here.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-hiked-dividend-8-233002125.html",
+      "published": "2026-09-21T23:30:02Z",
+      "ts": 1790033402
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Vicor (VICR) Licenses its Power Patents to Another AI System Maker. Shares Jump 18%",
+      "link": "https://finance.yahoo.com/technology/ai/articles/vicor-vicr-licenses-power-patents-232418002.html",
+      "published": "2026-09-21T23:24:18Z",
+      "ts": 1790033058
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Celsius Insiders Just Bought $1.8M of Stock Near Multi-Year Lows. Is the Worst Priced In?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-insiders-just-bought-1-232118652.html",
+      "published": "2026-09-21T23:21:18Z",
+      "ts": 1790032878
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Silver Lake sues Carl Icahn and hedge funds over Endeavor buyout",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/silver-lake-sues-carl-icahn-231025693.html",
+      "published": "2026-09-21T23:13:53Z",
+      "ts": 1790032433
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oura's $2.2B IPO is a major payday for three VCs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ouras-2-2b-ipo-mostly-230019467.html",
+      "published": "2026-09-21T23:00:19Z",
+      "ts": 1790031619
+    },
+    {
       "source": "Investing Crypto",
       "title": "CloudTech Powers Institutional-Grade Digital Asset Trading for Australian Investors Through Integral Technology",
       "link": "https://www.investing.com/news/cryptocurrency-news/cloudtech-powers-institutionalgrade-digital-asset-trading-for-australian-investors-through-integral-technology-4909726",
       "published": "2026-09-21 22:30:35",
       "ts": 1790029835
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "XRP Climbs 10% In a Green Day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
-      "published": "2026-09-21 21:39:05",
-      "ts": 1790026745
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin surges to over 7-month high as tokenized-stock move lifts crypto sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
-      "published": "2026-09-21 21:37:00",
-      "ts": 1790026620
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Apollo (APO) Nears a 16% Stake in the Yankees. Why Private Equity Wants a Piece of Baseball",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-apo-nears-16-stake-211617683.html",
-      "published": "2026-09-21T21:16:17Z",
-      "ts": 1790025377
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AMD Hits Milestone on Strong Day for Tech Stocks",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/amd-hits-milestone-on-strong-day-for-tech-stocks-o7UlcpMFFVjyALTAvLTX?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-21T21:06:41Z",
-      "ts": 1790024801
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
-      "published": "2026-09-21 21:01:45",
-      "ts": 1790024505
     }
   ]
 }
