@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T02:53:35.539379Z",
+  "updated": "2026-09-23T03:09:58.140188Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX flat, dollar creeps higher ahead of U.S.-China summit",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
+      "published": "2026-09-23 02:59:22",
+      "ts": 1790132362
+    },
+    {
+      "source": "FXStreet",
+      "title": "Asian stocks trade mixed, Taiwan’s Taiex leads on tech boost",
+      "link": "https://www.fxstreet.com/news/asian-stocks-trade-mixed-taiwans-taiex-leads-on-tech-boost-202609230258",
+      "published": "Wed, 23 Sep 2026 02:58:48 GMT",
+      "ts": 1790132328
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD falls to near $66.50 as Fed signals further rate hikes",
@@ -92,13 +106,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
       "published": "Wed, 23 Sep 2026 00:00:45 +0000",
       "ts": 1790121645
-    },
-    {
-      "source": "FXStreet",
-      "title": "Explosion heard near Iran’s Qeshm Island",
-      "link": "https://www.fxstreet.com/news/explosion-heard-near-irans-qeshm-island-202609222337",
-      "published": "Tue, 22 Sep 2026 23:37:11 GMT",
-      "ts": 1790120231
     },
     {
       "source": "Investing Crypto",
@@ -402,25 +409,18 @@
       "ts": 1790006437
     },
     {
-      "source": "Investing Crypto",
-      "title": "CryptoPawn Launches Protocol Integration Allowing Authorized AI Agents to Participate in Crypto-Backed Loan Transactions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
-      "published": "2026-09-21 15:30:38",
-      "ts": 1790004638
+      "source": "Yahoo Finance",
+      "title": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz",
+      "link": "https://finance.yahoo.com/energy/articles/crude-prices-sink-larger-flows-153518210.html",
+      "published": "2026-09-21T15:35:18Z",
+      "ts": 1790004918
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stocks and Bonds Climb as Slumping Crude Prices Ease Inflation Risks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-bonds-climb-slumping-crude-151325897.html",
-      "published": "2026-09-21T15:13:25Z",
-      "ts": 1790003605
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cipher Digital Just Scored a Huge AI Infrastructure Breakthrough. What It Will Take for the Stock to Reclaim $30.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-just-scored-huge-151220507.html",
-      "published": "2026-09-21T15:12:20Z",
-      "ts": 1790003540
+      "title": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
+      "link": "https://www.investors.com/news/critical-metals-crml-stock-rare-earth-us-denmark-greenland-trump-xi/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T15:33:32Z",
+      "ts": 1790004812
     }
   ]
 }
