@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T23:22:05.018300Z",
+  "updated": "2026-09-23T23:37:00.208946Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar cools off against the New Zealand Dollar before jobs data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-cools-off-against-the-new-zealand-dollar-before-jobs-data-202609232330",
+      "published": "Wed, 23 Sep 2026 23:30:00 GMT",
+      "ts": 1790206200
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold falls below $4,300 on Fed hawkish signals",
+      "link": "https://www.fxstreet.com/news/gold-falls-below-4-300-on-fed-hawkish-signals-202609232321",
+      "published": "Wed, 23 Sep 2026 23:21:32 GMT",
+      "ts": 1790205692
+    },
     {
       "source": "MarketWatch",
       "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
@@ -171,13 +185,6 @@
       "ts": 1790192364
     },
     {
-      "source": "FXStreet",
-      "title": "USD/CHF Price Forecast: Bulls retake control, eye 0.8300 break",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-retake-control-eye-08300-break-202609231936",
-      "published": "Wed, 23 Sep 2026 19:36:09 GMT",
-      "ts": 1790192169
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin pinned at $84,328 as bearish momentum builds: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
@@ -211,13 +218,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
       "published": "2026-09-23 18:41:49",
       "ts": 1790188909
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold buckles as 5% yields and Fed hawks take control",
-      "link": "https://www.fxstreet.com/news/gold-buckles-as-5-yields-and-fed-hawks-take-control-202609231837",
-      "published": "Wed, 23 Sep 2026 18:37:39 GMT",
-      "ts": 1790188659
     },
     {
       "source": "CoinTelegraph",
@@ -389,6 +389,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Crude Oil Prices Pressured by Diplomatic Hopes in the Middle East",
+      "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-pressured-diplomatic-154210848.html",
+      "published": "2026-09-22T15:42:10Z",
+      "ts": 1790091730
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia Just Gave Einride Stock a Big Boost. How to Play ENRD Here.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-gave-einride-stock-154207385.html",
+      "published": "2026-09-22T15:42:07Z",
+      "ts": 1790091727
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Analyst Says Sandisk to Hit $2,400 as NAND Flash Becomes Critical AI Infrastructure",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-says-sandisk-hit-2-154111288.html",
+      "published": "2026-09-22T15:41:11Z",
+      "ts": 1790091671
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Obama says AI flipped from 90% human-taught to 50/50 in under a year — the six-figure jobs he says go first",
       "link": "https://finance.yahoo.com/technology/ai/articles/obama-says-ai-flipped-90-153000409.html",
       "published": "2026-09-22T15:30:00Z",
@@ -396,31 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Inside an award-winning Wendy’s operator’s bankruptcy crisis",
-      "link": "https://finance.yahoo.com/small-business/articles/inside-award-winning-wendy-operator-152701503.html",
-      "published": "2026-09-22T15:27:01Z",
-      "ts": 1790090821
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Circle Stock Spikes As Binance Takes $100 Million Slice",
       "link": "https://www.investors.com/news/circle-stock-spikes-as-binance-takes-100-million-slice/?src=A00220&yptr=yahoo",
       "published": "2026-09-22T15:26:27Z",
       "ts": 1790090787
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stocks Mixed as Crude Oil Prices and Financial Stocks Fall",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mixed-crude-oil-prices-152253159.html",
-      "published": "2026-09-22T15:22:53Z",
-      "ts": 1790090573
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is News Corporation Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/news-corporation-stock-underperforming-p-152219343.html",
-      "published": "2026-09-22T15:22:19Z",
-      "ts": 1790090539
     }
   ]
 }
