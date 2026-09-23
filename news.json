@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-23T17:51:16.971190Z",
+  "updated": "2026-09-23T18:12:44.697459Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: Australia’s jobs report comes to the fore",
+      "link": "https://www.fxstreet.com/news/forex-today-australias-jobs-report-comes-to-the-fore-202609231809",
+      "published": "Wed, 23 Sep 2026 18:09:32 GMT",
+      "ts": 1790186972
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen declines as upbeat US PMI lifts the US Dollar, yields",
+      "link": "https://www.fxstreet.com/news/japanese-yen-declines-as-upbeat-us-pmi-lifts-the-us-dollar-yields-202609231808",
+      "published": "Wed, 23 Sep 2026 18:08:37 GMT",
+      "ts": 1790186917
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren’t slowing the U.S. economy down.",
+      "link": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 18:06:00 GMT",
+      "ts": 1790186760
+    },
+    {
+      "source": "CoinDesk",
+      "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
+      "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
+      "published": "Wed, 23 Sep 2026 18:04:11 +0000",
+      "ts": 1790186651
+    },
+    {
+      "source": "MarketWatch",
+      "title": "McDonald’s is making a historic bet on chicken — and AI — to bring back customers",
+      "link": "https://www.marketwatch.com/story/mcdonalds-is-making-a-historic-bet-on-chicken-and-ai-to-bring-back-customers-43468a53?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 18:02:00 GMT",
+      "ts": 1790186520
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 18:00:00 GMT",
+      "ts": 1790186400
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "BitGo says asset servicing is the real barrier to tokenized securities",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitgo-says-asset-servicing-is-the-real-barrier-to-tokenized-securities-4913704",
+      "published": "2026-09-23 17:53:48",
+      "ts": 1790186028
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bond yields surge to 5.12% as Wall Street fears more Fed rate hikes",
+      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 17:52:00 GMT",
+      "ts": 1790185920
+    },
     {
       "source": "MarketWatch",
       "title": "Fuel prices keep rising — and so do Democrats’ chances of winning both the House and Senate",
@@ -10,30 +66,9 @@
       "ts": 1790185740
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Canaan (CAN) Sold Crypto to Buy Back Stock. Can It Offset Weak Mining-Equipment Demand?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/canaan-sold-crypto-buy-back-173457168.html",
-      "published": "2026-09-23T17:34:57Z",
-      "ts": 1790184897
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Twin Bridge targets up to $600M for debut secondaries fund",
-      "link": "https://finance.yahoo.com/small-business/articles/twin-bridge-targets-600m-debut-171733055.html",
-      "published": "2026-09-23T17:17:33Z",
-      "ts": 1790183853
-    },
-    {
       "source": "MarketWatch",
       "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
       "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 17:16:00 GMT",
-      "ts": 1790183760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
-      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 17:16:00 GMT",
       "ts": 1790183760
     },
@@ -52,13 +87,6 @@
       "ts": 1790182938
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus",
-      "link": "https://www.investors.com/research/nvidia-nvda-stock-trump-china-ai-chip/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T17:00:17Z",
-      "ts": 1790182817
-    },
-    {
       "source": "MarketWatch",
       "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
       "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
@@ -71,34 +99,6 @@
       "link": "https://www.marketwatch.com/story/microsoft-has-clearly-turned-the-corner-how-its-stock-can-chart-more-gains-b6156467?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 16:58:00 GMT",
       "ts": 1790182680
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Freight Operators Should Actually Be Watching",
-      "link": "https://finance.yahoo.com/markets/articles/freight-operators-actually-watching-165557089.html",
-      "published": "2026-09-23T16:55:57Z",
-      "ts": 1790182557
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Diesel Export Ban? Why It Could Backfire Fast",
-      "link": "https://finance.yahoo.com/energy/articles/diesel-export-ban-why-could-165445740.html",
-      "published": "2026-09-23T16:54:45Z",
-      "ts": 1790182485
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Diesel Prices Could Push More Capacity Out in Q4",
-      "link": "https://finance.yahoo.com/economy/articles/diesel-prices-could-push-more-165351809.html",
-      "published": "2026-09-23T16:53:51Z",
-      "ts": 1790182431
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Trucking Insurance Fraud: Is Your Fleet Really Covered?",
-      "link": "https://finance.yahoo.com/small-business/articles/trucking-insurance-fraud-fleet-really-165233917.html",
-      "published": "2026-09-23T16:52:33Z",
-      "ts": 1790182353
     },
     {
       "source": "MarketWatch",
@@ -115,25 +115,11 @@
       "ts": 1790181267
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I don’t consider him our responsibility,’ but my wife wants to give money to a relative starting college. Please help.",
-      "link": "https://www.marketwatch.com/story/my-wife-wants-to-send-money-to-our-grand-nephew-in-college-how-can-i-push-back-without-starting-a-fight-9284311a?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 16:33:00 GMT",
-      "ts": 1790181180
-    },
-    {
       "source": "FXStreet",
       "title": "US 10-year yield hits a 19-year high as Fed Governor Barr backs hikes",
       "link": "https://www.fxstreet.com/news/us-10-year-yield-hits-a-19-year-high-as-fed-governor-barr-backs-hikes-202609231619",
       "published": "Wed, 23 Sep 2026 16:19:52 GMT",
       "ts": 1790180392
-    },
-    {
-      "source": "MarketWatch",
-      "title": "3 questions to ask your parents about their estate plan — other than ‘How much money do you have?’",
-      "link": "https://www.marketwatch.com/story/3-questions-to-ask-your-parents-about-their-estate-plan-other-than-how-much-money-do-you-have-4000199a?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 16:18:00 GMT",
-      "ts": 1790180280
     },
     {
       "source": "FXStreet",
@@ -148,13 +134,6 @@
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-tumbles-as-strong-us-pmi-data-lifts-usd-202609231604",
       "published": "Wed, 23 Sep 2026 16:04:37 GMT",
       "ts": 1790179477
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
-      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 16:01:00 GMT",
-      "ts": 1790179260
     },
     {
       "source": "FXStreet",
@@ -213,25 +192,11 @@
       "ts": 1790175639
     },
     {
-      "source": "FXStreet",
-      "title": "Brazil: Growth outlook and inflation risks – Societe Generale",
-      "link": "https://www.fxstreet.com/news/brazil-growth-outlook-and-inflation-risks-societe-generale-202609231454",
-      "published": "Wed, 23 Sep 2026 14:54:25 GMT",
-      "ts": 1790175265
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
       "link": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 14:52:11 +0000",
       "ts": 1790175131
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed's Barr: Further rate hikes needed for timely return to 2% inflation",
-      "link": "https://www.fxstreet.com/news/feds-barr-further-rate-hikes-needed-for-timely-return-to-2-inflation-202609231443",
-      "published": "Wed, 23 Sep 2026 14:43:16 GMT",
-      "ts": 1790174596
     },
     {
       "source": "Investing Forex",
@@ -374,20 +339,6 @@
       "ts": 1790155551
     },
     {
-      "source": "CoinDesk",
-      "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
-      "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
-      "published": "Wed, 23 Sep 2026 09:17:53 +0000",
-      "ts": 1790155073
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges to 2007 high ahead of Trump-Xi meeting",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
-      "published": "2026-09-23T08:05:56Z",
-      "ts": 1790150756
-    },
-    {
       "source": "Investing Crypto",
       "title": "Cregis Marks Two Years of Middle East Growth as Traditional Financial Firms Drive Adoption",
       "link": "https://www.investing.com/news/cryptocurrency-news/cregis-marks-two-years-of-middle-east-growth-as-traditional-financial-firms-drive-adoption-4912208",
@@ -421,6 +372,55 @@
       "link": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html",
       "published": "2026-09-22T19:47:00Z",
       "ts": 1790106420
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 12% As Investors Gain Confidence",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
+      "published": "2026-09-22 18:03:00",
+      "ts": 1790100180
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
+      "link": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
+      "published": "2026-09-22 13:38:01",
+      "ts": 1790084281
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
+      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
+      "published": "2026-09-22T12:39:18Z",
+      "ts": 1790080758
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Treasury curve flattens as easing oil input costs and UN diplomacy offer respite",
+      "link": "https://www.investing.com/news/forex-news/euro-area-debt-bourses-face-risk-drag-from-paris-debt-trajectory-4910015",
+      "published": "2026-09-22 12:15:26",
+      "ts": 1790079326
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Is News Corporation's Stock Performance Compared to Other Communication Services Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/news-corporations-stock-performance-compared-094348036.html",
+      "published": "2026-09-22T09:43:48Z",
+      "ts": 1790070228
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Is AES Corporation's Stock Performance Compared to Other Utility Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aes-corporations-stock-performance-compared-094200159.html",
+      "published": "2026-09-22T09:42:00Z",
+      "ts": 1790070120
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Expedia Group Stock: Is EXPE Outperforming the Consumer Cyclical Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-stock-expe-outperforming-092050152.html",
+      "published": "2026-09-22T09:20:50Z",
+      "ts": 1790068850
     }
   ]
 }
