@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T23:50:12.543093Z",
+  "updated": "2026-09-23T00:13:13.624165Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
+      "link": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
+      "published": "Wed, 23 Sep 2026 00:00:45 +0000",
+      "ts": 1790121645
+    },
     {
       "source": "FXStreet",
       "title": "Explosion heard near Iran’s Qeshm Island",
@@ -325,13 +332,6 @@
       "ts": 1790075243
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
-      "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
-      "published": "Tue, 22 Sep 2026 10:59:03 +0000",
-      "ts": 1790074743
-    },
-    {
       "source": "Investing Crypto",
       "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
       "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
@@ -402,25 +402,25 @@
       "ts": 1790006437
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Red Cat CEO Just Sold $1.6 Million of Stock. Wall Street Sees 144% Rally Ahead.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-ceo-just-sold-154335964.html",
-      "published": "2026-09-21T15:43:35Z",
-      "ts": 1790005415
+      "source": "Investing Crypto",
+      "title": "CryptoPawn Launches Protocol Integration Allowing Authorized AI Agents to Participate in Crypto-Backed Loan Transactions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
+      "published": "2026-09-21 15:30:38",
+      "ts": 1790004638
     },
     {
       "source": "Yahoo Finance",
-      "title": "DIS Stock Alert: What to Know as Disney Creates First-Ever Chief Technology Officer Role",
-      "link": "https://finance.yahoo.com/technology/articles/dis-stock-alert-know-disney-154302404.html",
-      "published": "2026-09-21T15:43:02Z",
-      "ts": 1790005382
+      "title": "Bank of America says buy tumbling shares of aviation giant",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+      "published": "2026-09-21T14:37:00Z",
+      "ts": 1790001420
     },
     {
       "source": "Yahoo Finance",
-      "title": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz",
-      "link": "https://finance.yahoo.com/energy/articles/crude-prices-sink-larger-flows-153518210.html",
-      "published": "2026-09-21T15:35:18Z",
-      "ts": 1790004918
+      "title": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tokenized-equities-ai-disruption-threaten-122633931.html",
+      "published": "2026-09-21T12:26:33Z",
+      "ts": 1789993593
     }
   ]
 }
