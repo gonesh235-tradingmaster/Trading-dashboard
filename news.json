@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T04:10:39.103903Z",
+  "updated": "2026-09-23T04:27:32.093032Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Eyes further losses near $88.50, two-week low amid easing supply risk",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-eyes-further-losses-near-8850-two-week-low-amid-easing-supply-risk-202609230419",
+      "published": "Wed, 23 Sep 2026 04:19:31 GMT",
+      "ts": 1790137171
+    },
     {
       "source": "CoinDesk",
       "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
@@ -99,13 +106,6 @@
       "link": "https://www.fxstreet.com/news/euro-weakens-below-11450-on-hawkish-fed-signals-german-political-risks-202609230121",
       "published": "Wed, 23 Sep 2026 01:21:29 GMT",
       "ts": 1790126489
-    },
-    {
-      "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7468 vs. 6.7459 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67468-vs-67459-previous-202609230115",
-      "published": "Wed, 23 Sep 2026 01:15:28 GMT",
-      "ts": 1790126128
     },
     {
       "source": "CoinTelegraph",
@@ -403,6 +403,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Bitcoin Clears 50-Week Hurdle as Traders Eye New Bull Market: Analyst",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-clears-50-week-hurdle-164400579.html",
+      "published": "2026-09-21T16:44:00Z",
+      "ts": 1790009040
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Lucid Just Struck a Partnership With Bolt on Mobility. What This Means for LCID Stock.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-just-struck-partnership-bolt-162648488.html",
       "published": "2026-09-21T16:26:48Z",
@@ -414,13 +421,6 @@
       "link": "https://www.investors.com/research/amd-stock-advanced-micro-devices/?src=A00220&yptr=yahoo",
       "published": "2026-09-21T16:26:46Z",
       "ts": 1790008006
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Bearish Netflix Stock Trade Can Cash In On Video Streaming Giant's Woes",
-      "link": "https://www.investors.com/research/options/netflix-nflx-stock-bear-put-spread-options/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T16:20:08Z",
-      "ts": 1790007608
     }
   ]
 }
