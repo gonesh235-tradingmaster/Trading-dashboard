@@ -1,13 +1,76 @@
 {
-  "updated": "2026-09-23T14:28:14.623508Z",
+  "updated": "2026-09-23T14:45:06.524462Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed's Barr: Further rate hikes needed for timely return to 2% inflation",
+      "link": "https://www.fxstreet.com/news/feds-barr-further-rate-hikes-needed-for-timely-return-to-2-inflation-202609231443",
+      "published": "Wed, 23 Sep 2026 14:43:16 GMT",
+      "ts": 1790174596
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar tumbles amid stronger US PMIs, softer Australian data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-amid-stronger-us-pmis-softer-australian-data-202609231440",
+      "published": "Wed, 23 Sep 2026 14:40:12 GMT",
+      "ts": 1790174412
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar marches higher as trade and diplomatic cues take center stage",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
+      "published": "2026-09-23 14:32:39",
+      "ts": 1790173959
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI: Headline risk rises as positioning stays elevated - TD Securities",
+      "link": "https://www.fxstreet.com/news/wti-headline-risk-rises-as-positioning-stays-elevated-td-securities-202609231432",
+      "published": "Wed, 23 Sep 2026 14:32:26 GMT",
+      "ts": 1790173946
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+      "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 14:28:50 +0000",
+      "ts": 1790173730
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Crosta Mollica merges with Nestlé pizza spin-off in Europe",
+      "link": "https://finance.yahoo.com/small-business/articles/crosta-mollica-merges-nestl-pizza-105731740.html",
+      "published": "2026-09-23T14:21:14Z",
+      "ts": 1790173274
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Stagwell’s (STGW) AI Bet Enough To Change The Story?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/stagwell-stgw-ai-bet-enough-141910426.html",
+      "published": "2026-09-23T14:19:10Z",
+      "ts": 1790173150
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nasdaq rally hasn't stopped these tech stocks from flashing warning signs",
+      "link": "https://finance.yahoo.com/markets/article/nasdaq-rally-hasnt-stopped-these-tech-stocks-from-flashing-warning-signs-141710781.html",
+      "published": "2026-09-23T14:17:10Z",
+      "ts": 1790173030
+    },
     {
       "source": "MarketWatch",
       "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
       "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 14:15:00 GMT",
       "ts": 1790172900
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Strong Earnings, FDA Approval, and Takeover Interest Drive Lantheus Holdings’ (LNTH) Rally",
+      "link": "https://finance.yahoo.com/healthcare/articles/strong-earnings-fda-approval-takeover-141416688.html",
+      "published": "2026-09-23T14:14:16Z",
+      "ts": 1790172856
     },
     {
       "source": "FXStreet",
@@ -18,17 +81,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Proposed distribution tax reforms risk harming growth, ICAEW warns",
-      "link": "https://finance.yahoo.com/economy/policy/articles/proposed-distribution-tax-reforms-risk-140013422.html",
-      "published": "2026-09-23T14:00:13Z",
-      "ts": 1790172013
+      "title": "Fed's Barr says further rate hikes will likely be needed",
+      "link": "https://finance.yahoo.com/economy/policy/articles/feds-barr-says-further-rate-140746063.html",
+      "published": "2026-09-23T14:07:46Z",
+      "ts": 1790172466
     },
     {
       "source": "Yahoo Finance",
-      "title": "Can DoubleVerify’s (DV) AI Push Still Matter With A Buyout Pending?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/doubleverify-dv-ai-push-still-140003995.html",
-      "published": "2026-09-23T14:00:03Z",
-      "ts": 1790172003
+      "title": "Why Hewlett Packard Enterprise Company (HPE) Was a Top Contributor for Gabelli",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-hewlett-packard-enterprise-company-140621501.html",
+      "published": "2026-09-23T14:06:21Z",
+      "ts": 1790172381
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Gabelli Holds Berkshire Hathaway Inc. (BRK.B)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-holds-berkshire-hathaway-140609506.html",
+      "published": "2026-09-23T14:06:09Z",
+      "ts": 1790172369
     },
     {
       "source": "MarketWatch",
@@ -38,27 +108,6 @@
       "ts": 1790171880
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Why Polaris Capital Continues Watching Alibaba (BABA) Amid AI Opportunity and China Market Challenges",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-polaris-capital-continues-watching-135738757.html",
-      "published": "2026-09-23T13:57:38Z",
-      "ts": 1790171858
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/tech-retreats-as-treasury-yields-and-oil-climb-alphacheck-135323303.html",
-      "published": "2026-09-23T13:53:23Z",
-      "ts": 1790171603
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Can Sonic (SAH) Automotive’s Luxury Bet Outrun Margin Pressure?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sonic-sah-automotive-luxury-bet-135202332.html",
-      "published": "2026-09-23T13:52:02Z",
-      "ts": 1790171522
-    },
-    {
       "source": "MarketWatch",
       "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
       "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
@@ -66,32 +115,11 @@
       "ts": 1790171460
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Booking Holdings (BKNG) is Positioned to Benefit From Long-Term Travel Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-bkng-positioned-benefit-134947263.html",
-      "published": "2026-09-23T13:49:47Z",
-      "ts": 1790171387
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Can Flywire’s (FLYW) Hotel Payment Deals Justify Its Growth Story?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/flywire-flyw-hotel-payment-deals-134746487.html",
-      "published": "2026-09-23T13:47:46Z",
-      "ts": 1790171266
-    },
-    {
       "source": "FXStreet",
       "title": "Canadian Dollar: Bearish trend targets 1.4125 – Scotiabank",
       "link": "https://www.fxstreet.com/news/canadian-dollar-bearish-trend-targets-14125-scotiabank-202609231346",
       "published": "Wed, 23 Sep 2026 13:46:57 GMT",
       "ts": 1790171217
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-record-high-micron-sandisk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T13:44:22Z",
-      "ts": 1790171062
     },
     {
       "source": "Investing Crypto",
@@ -157,13 +185,6 @@
       "ts": 1790169472
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Downside bias toward 1.1400 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-downside-bias-toward-11400-against-us-dollar-uob-202609231309",
-      "published": "Wed, 23 Sep 2026 13:09:28 GMT",
-      "ts": 1790168968
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
       "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
@@ -204,20 +225,6 @@
       "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 12:58:00 GMT",
       "ts": 1790168280
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold: Next leg higher toward $5,000 – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-next-leg-higher-toward-5-000-td-securities-202609231253",
-      "published": "Wed, 23 Sep 2026 12:53:12 GMT",
-      "ts": 1790167992
-    },
-    {
-      "source": "FXStreet",
-      "title": "Copper: Chinese tightness supports prices despite weak positioning – ING",
-      "link": "https://www.fxstreet.com/news/copper-chinese-tightness-supports-prices-despite-weak-positioning-ing-202609231235",
-      "published": "Wed, 23 Sep 2026 12:35:03 GMT",
-      "ts": 1790166903
     },
     {
       "source": "Investing Forex",
@@ -326,20 +333,6 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Dollar marches higher as trade and diplomatic cues take center stage",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
-      "published": "2026-09-23 09:44:18",
-      "ts": 1790156658
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-      "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 09:42:39 +0000",
-      "ts": 1790156559
-    },
-    {
-      "source": "Investing Forex",
       "title": "Sterling today: Pound slips as dollar resilience builds on hawkish Fed bets",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
       "published": "2026-09-23 09:25:51",
@@ -368,7 +361,7 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq slip as oil steadies, markets eye looming Trump-Xi meeting",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges, markets eye looming Trump-Xi meeting",
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
       "published": "2026-09-23T08:05:56Z",
       "ts": 1790150756
@@ -421,6 +414,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
       "published": "2026-09-22 18:03:00",
       "ts": 1790100180
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
+      "link": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
+      "published": "2026-09-22 13:38:01",
+      "ts": 1790084281
     }
   ]
 }
