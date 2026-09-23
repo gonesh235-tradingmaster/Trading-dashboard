@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-23T20:10:52.542438Z",
+  "updated": "2026-09-23T20:27:29.767318Z",
   "count": 60,
   "items": [
     {
       "source": "MarketWatch",
-      "title": "Record-breaking diesel prices look set to push grocery bills even higher — and Thanksgiving is getting closer",
+      "title": "What’s behind Royal Caribbean’s ‘highly surprising’ push into Sandals vacation resorts",
+      "link": "https://www.marketwatch.com/story/whats-behind-royal-caribbeans-highly-surprising-push-into-sandals-vacation-resorts-4835acc9?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 20:24:00 GMT",
+      "ts": 1790195040
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Record-breaking diesel prices are poised to hit grocery prices, with fruits, vegetables and meat first on the list",
       "link": "https://www.marketwatch.com/story/record-breaking-diesel-prices-look-set-to-push-grocery-bills-even-higher-and-thanksgiving-is-getting-closer-178d3959?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 19:49:00 GMT",
-      "ts": 1790192940
+      "published": "Wed, 23 Sep 2026 20:22:00 GMT",
+      "ts": 1790194920
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 20:15:00 GMT",
+      "ts": 1790194500
     },
     {
       "source": "MarketWatch",
@@ -115,13 +129,6 @@
       "ts": 1790188659
     },
     {
-      "source": "MarketWatch",
-      "title": "Palantir’s stock is heading for its highest close of the year, in a dramatic comeback",
-      "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 18:31:00 GMT",
-      "ts": 1790188260
-    },
-    {
       "source": "FXStreet",
       "title": "Silver Price Forecast: Fed hawks knock XAG/USD toward $64 support",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-fed-hawks-knock-xag-usd-toward-64-support-202609231823",
@@ -134,13 +141,6 @@
       "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 18:17:48 +0000",
       "ts": 1790187468
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
-      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 18:15:00 GMT",
-      "ts": 1790187300
     },
     {
       "source": "FXStreet",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Credo Technology (CRDO) Just Cleared a Key PCIe 6.0 Milestone. What Comes Next?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/credo-technology-crdo-just-cleared-112133583.html",
-      "published": "2026-09-22T11:21:33Z",
-      "ts": 1790076093
+      "title": "Okta Stock Rides AI Security Boom Ahead Of Investor Day",
+      "link": "https://www.investors.com/news/technology/okta-stock-rides-ai-security-boom-ahead-of-investor-day/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T12:00:20Z",
+      "ts": 1790078420
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Does This F-35A Rollout Strengthen NATO Deterrence for Lockheed Martin (LMT)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-f-35a-rollout-strengthen-111322313.html",
-      "published": "2026-09-22T11:13:22Z",
-      "ts": 1790075602
+      "title": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge",
+      "link": "https://www.investors.com/news/technology/google-stock-tpu-blackstone-cloud-growth-nvidia/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T12:00:20Z",
+      "ts": 1790078420
     }
   ]
 }
