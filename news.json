@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-23T17:09:59.272142Z",
+  "updated": "2026-09-23T17:26:13.460636Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 17:16:00 GMT",
+      "ts": 1790183760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
+      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 17:16:00 GMT",
+      "ts": 1790183760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 17:15:00 GMT",
+      "ts": 1790183700
+    },
     {
       "source": "Investing Forex",
       "title": "Treasury yields soar, 10-yr at highest since July 2007 on hot U.S. data, Fedspeak",
       "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
       "published": "2026-09-23 17:02:18",
       "ts": 1790182938
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus",
+      "link": "https://www.investors.com/research/nvidia-nvda-stock-trump-china-ai-chip/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T17:00:17Z",
+      "ts": 1790182817
     },
     {
       "source": "MarketWatch",
@@ -25,6 +53,34 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "What Freight Operators Should Actually Be Watching",
+      "link": "https://finance.yahoo.com/markets/articles/freight-operators-actually-watching-165557089.html",
+      "published": "2026-09-23T16:55:57Z",
+      "ts": 1790182557
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Diesel Export Ban? Why It Could Backfire Fast",
+      "link": "https://finance.yahoo.com/energy/articles/diesel-export-ban-why-could-165445740.html",
+      "published": "2026-09-23T16:54:45Z",
+      "ts": 1790182485
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Diesel Prices Could Push More Capacity Out in Q4",
+      "link": "https://finance.yahoo.com/economy/articles/diesel-prices-could-push-more-165351809.html",
+      "published": "2026-09-23T16:53:51Z",
+      "ts": 1790182431
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Trucking Insurance Fraud: Is Your Fleet Really Covered?",
+      "link": "https://finance.yahoo.com/small-business/articles/trucking-insurance-fraud-fleet-really-165233917.html",
+      "published": "2026-09-23T16:52:33Z",
+      "ts": 1790182353
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-record-high-micron-sandisk/?src=A00220&yptr=yahoo",
       "published": "2026-09-23T16:51:56Z",
@@ -39,10 +95,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "10-Year Treasury Yield Jumps As Markets Bet On Two Fed Rate Hikes. Bessent Won't Fight It.",
-      "link": "https://www.investors.com/news/10-year-treasury-yield-federal-reserve-bessent-buybacks-sp-500-pmi/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T16:35:02Z",
-      "ts": 1790181302
+      "title": "Biotech Stocks Dive As Top 2% Names Take Hardest Hit",
+      "link": "https://www.investors.com/news/technology/biotech-stocks-oruka-ionis-rapport-climb-cullinan/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T16:49:51Z",
+      "ts": 1790182191
     },
     {
       "source": "CoinTelegraph",
@@ -59,13 +115,6 @@
       "ts": 1790181180
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Brookfield’s GGP scores $800M CMBS refi for Oakbrook Center",
-      "link": "https://finance.yahoo.com/real-estate/articles/brookfield-ggp-scores-800m-cmbs-163000079.html",
-      "published": "2026-09-23T16:30:00Z",
-      "ts": 1790181000
-    },
-    {
       "source": "FXStreet",
       "title": "US 10-year yield hits a 19-year high as Fed Governor Barr backs hikes",
       "link": "https://www.fxstreet.com/news/us-10-year-yield-hits-a-19-year-high-as-fed-governor-barr-backs-hikes-202609231619",
@@ -73,39 +122,11 @@
       "ts": 1790180392
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Renishaw Rides the AI Chip Boom to Record Results",
-      "link": "https://finance.yahoo.com/technology/ai/articles/renishaw-rides-ai-chip-boom-161849385.html",
-      "published": "2026-09-23T16:18:49Z",
-      "ts": 1790180329
-    },
-    {
       "source": "MarketWatch",
       "title": "3 questions to ask your parents about their estate plan — other than ‘How much money do you have?’",
       "link": "https://www.marketwatch.com/story/3-questions-to-ask-your-parents-about-their-estate-plan-other-than-how-much-money-do-you-have-4000199a?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 16:18:00 GMT",
       "ts": 1790180280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
-      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 16:12:00 GMT",
-      "ts": 1790179920
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here's A Way To Cut Risk On This Top-Performing Stock",
-      "link": "https://www.investors.com/research/options/micron-mu-stock-bull-call-spread-options/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T16:11:44Z",
-      "ts": 1790179904
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oil up almost 2% as Iran's president vows to never surrender",
-      "link": "https://finance.yahoo.com/news/oil-falls-increased-gulf-supply-014402051.html",
-      "published": "2026-09-23T16:10:26Z",
-      "ts": 1790179826
     },
     {
       "source": "FXStreet",
@@ -157,25 +178,11 @@
       "ts": 1790178695
     },
     {
-      "source": "MarketWatch",
-      "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
-      "link": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 15:34:00 GMT",
-      "ts": 1790177640
-    },
-    {
       "source": "CoinDesk",
       "title": "Inside the FBI’s little-known annual crypto crime gathering",
       "link": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
       "published": "Wed, 23 Sep 2026 15:26:35 +0000",
       "ts": 1790177195
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A celebrity-endorsed cryptocurrency is almost five times as likely to be a scam",
-      "link": "https://www.marketwatch.com/story/a-celebrity-endorsed-cryptocurrency-is-almost-five-times-as-likely-to-be-a-scam-eaf25977?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 15:23:00 GMT",
-      "ts": 1790176980
     },
     {
       "source": "FXStreet",
@@ -309,13 +316,6 @@
       "link": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 12:22:56 +0000",
       "ts": 1790166176
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "McDonald's bets on hand-breaded chicken, AI drive-throughs to fend off Burger King",
-      "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-chicken-ai-drive-throughs-to-fend-off-burger-king-120418093.html",
-      "published": "2026-09-23T12:04:18Z",
-      "ts": 1790165058
     },
     {
       "source": "CoinDesk",
