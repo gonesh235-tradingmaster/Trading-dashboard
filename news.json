@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-23T21:27:02.424521Z",
+  "updated": "2026-09-23T21:39:42.161083Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Bears press 209.00 as downtrend deepens",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bears-press-20900-as-downtrend-deepens-202609232135",
+      "published": "Wed, 23 Sep 2026 21:35:39 GMT",
+      "ts": 1790199339
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australia unemployment rate expected to remain unchanged at 4.5% in August",
+      "link": "https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-remain-unchanged-at-45-in-august-202609232130",
+      "published": "Wed, 23 Sep 2026 21:30:00 GMT",
+      "ts": 1790199000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl",
+      "link": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 21:27:00 GMT",
+      "ts": 1790198820
+    },
     {
       "source": "MarketWatch",
       "title": "Inflation could cost Republicans the Senate — this chart shows how",
@@ -87,13 +108,6 @@
       "ts": 1790192820
     },
     {
-      "source": "MarketWatch",
-      "title": "McDonald’s is making a historic bet on chicken — and AI — to bring back customers",
-      "link": "https://www.marketwatch.com/story/mcdonalds-is-making-a-historic-bet-on-chicken-and-ai-to-bring-back-customers-43468a53?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 19:40:00 GMT",
-      "ts": 1790192400
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -106,6 +120,13 @@
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-retake-control-eye-08300-break-202609231936",
       "published": "Wed, 23 Sep 2026 19:36:09 GMT",
       "ts": 1790192169
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin pinned at $84,328 as bearish momentum builds: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-23 19:18:30",
+      "ts": 1790191110
     },
     {
       "source": "CoinTelegraph",
@@ -178,6 +199,13 @@
       "ts": 1790186651
     },
     {
+      "source": "Investing Crypto",
+      "title": "BitGo says asset servicing is the real barrier to tokenized securities",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitgo-says-asset-servicing-is-the-real-barrier-to-tokenized-securities-4913704",
+      "published": "2026-09-23 17:53:48",
+      "ts": 1790186028
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
       "link": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -197,20 +225,6 @@
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-keeps-sliding-as-yields-climb-on-a-strong-pmi-202609231606",
       "published": "Wed, 23 Sep 2026 16:06:55 GMT",
       "ts": 1790179615
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar tumbles as strong US PMI data lifts USD",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-tumbles-as-strong-us-pmi-data-lifts-usd-202609231604",
-      "published": "Wed, 23 Sep 2026 16:04:37 GMT",
-      "ts": 1790179477
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound cracks as US growth burst boosts USD",
-      "link": "https://www.fxstreet.com/news/british-pound-cracks-as-us-growth-burst-sends-us-dollar-higher-202609231600",
-      "published": "Wed, 23 Sep 2026 16:00:07 GMT",
-      "ts": 1790179207
     },
     {
       "source": "CoinTelegraph",
@@ -234,6 +248,13 @@
       "ts": 1790176041
     },
     {
+      "source": "Investing Crypto",
+      "title": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
+      "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-and-marketscom-announce-promotional-collaboration-ahead-of-token2049-singapore-4913473",
+      "published": "2026-09-23 15:00:39",
+      "ts": 1790175639
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
       "link": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -253,6 +274,13 @@
       "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 14:28:50 +0000",
       "ts": 1790173730
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steadies below $86k as ETF inflows soar; Trump-Xi summit in focus",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
+      "published": "2026-09-23 13:43:59",
+      "ts": 1790171039
     },
     {
       "source": "CoinTelegraph",
@@ -276,6 +304,13 @@
       "ts": 1790168400
     },
     {
+      "source": "Investing Crypto",
+      "title": "Travala Launches Permanent AVA Strategic Reserve, Doubles Monthly Open-Market Buybacks",
+      "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-permanent-ava-strategic-reserve-doubles-monthly-openmarket-buybacks-4912992",
+      "published": "2026-09-23 12:32:18",
+      "ts": 1790166738
+    },
+    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
       "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
@@ -290,6 +325,13 @@
       "ts": 1790162930
     },
     {
+      "source": "Investing Crypto",
+      "title": "Analyst says Bitcoin bull market is underway and sets 2029 target",
+      "link": "https://www.investing.com/news/cryptocurrency-news/analyst-says-bitcoin-bull-market-is-underway-and-sets-2029-target-4912571",
+      "published": "2026-09-23 10:42:44",
+      "ts": 1790160164
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
       "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-consolidates-near-usd86-000-as-rally-narrows-and-brent-slips-below-usd100",
@@ -302,6 +344,20 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
       "published": "2026-09-23 09:25:51",
       "ts": 1790155551
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Cregis Marks Two Years of Middle East Growth as Traditional Financial Firms Drive Adoption",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cregis-marks-two-years-of-middle-east-growth-as-traditional-financial-firms-drive-adoption-4912208",
+      "published": "2026-09-23 07:30:34",
+      "ts": 1790148634
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin takes a breather, halting a big rally that briefly took it above $87k",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
+      "published": "2026-09-22 22:16:25",
+      "ts": 1790115385
     },
     {
       "source": "Investing Forex",
@@ -325,102 +381,46 @@
       "ts": 1790106420
     },
     {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 12% As Investors Gain Confidence",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
+      "published": "2026-09-22 18:03:00",
+      "ts": 1790100180
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
+      "link": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
+      "published": "2026-09-22 13:38:01",
+      "ts": 1790084281
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Goldman Sachs says 'lower happiness' — not the economy — explains why consumer confidence hit its second-lowest level",
+      "link": "https://finance.yahoo.com/economy/articles/goldman-sachs-says-lower-happiness-133000625.html",
+      "published": "2026-09-22T13:30:00Z",
+      "ts": 1790083800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Binance Investigated By U.S. For Potential Sanctions Violations",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-investigated-u-potential-sanctions-132500534.html",
+      "published": "2026-09-22T13:25:00Z",
+      "ts": 1790083500
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Müller in talks to acquire dairy peer Vogtlandmilch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/m-ller-talks-acquire-dairy-132031889.html",
+      "published": "2026-09-22T13:20:31Z",
+      "ts": 1790083231
+    },
+    {
       "source": "Yahoo Finance",
       "title": "16 trucking companies hit bankruptcy court in less than a month",
       "link": "https://finance.yahoo.com/small-business/articles/16-trucking-companies-hit-bankruptcy-131909533.html",
       "published": "2026-09-22T13:19:09Z",
       "ts": 1790083149
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Citizens Financial Stock: Is CFG Outperforming the Financial Sector?",
-      "link": "https://finance.yahoo.com/news/citizens-financial-stock-cfg-outperforming-131514658.html",
-      "published": "2026-09-22T13:15:14Z",
-      "ts": 1790082914
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Carnival Corp Stock Looks Cheap to Value Investors Ahead of Earnings Next Week",
-      "link": "https://finance.yahoo.com/news/carnival-corp-stock-looks-cheap-131502788.html",
-      "published": "2026-09-22T13:15:02Z",
-      "ts": 1790082902
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Kalshi Seeks To Offer Margin Trading On Its Platform",
-      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-seeks-offer-margin-trading-131500335.html",
-      "published": "2026-09-22T13:15:00Z",
-      "ts": 1790082900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tax rises ‘virtually inevitable’ after £8bn borrowing blow",
-      "link": "https://finance.yahoo.com/economy/policy/articles/tax-rises-virtually-inevitable-8bn-131248871.html",
-      "published": "2026-09-22T13:12:48Z",
-      "ts": 1790082768
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Self-Storage Could Be Entering a New Growth Cycle — Baron Capital Re-Initiated Public Storage (PSA)",
-      "link": "https://finance.yahoo.com/real-estate/articles/self-storage-could-entering-growth-131101680.html",
-      "published": "2026-09-22T13:11:01Z",
-      "ts": 1790082661
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Makes Prologis (PLD) a Strong Investment?",
-      "link": "https://finance.yahoo.com/real-estate/articles/makes-prologis-pld-strong-investment-130353173.html",
-      "published": "2026-09-22T13:03:53Z",
-      "ts": 1790082233
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
-      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
-      "published": "2026-09-22T12:39:18Z",
-      "ts": 1790080758
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Treasury curve flattens as easing oil input costs and UN diplomacy offer respite",
-      "link": "https://www.investing.com/news/forex-news/euro-area-debt-bourses-face-risk-drag-from-paris-debt-trajectory-4910015",
-      "published": "2026-09-22 12:15:26",
-      "ts": 1790079326
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as hawkish Fed talk lifts dollar broadly",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-talk-lifts-dollar-broadly-4910096",
-      "published": "2026-09-22 09:01:07",
-      "ts": 1790067667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Chinese yuan hits 3-1/2 year high on strong PBOC fixing",
-      "link": "https://www.investing.com/news/forex-news/chinese-yuan-hits-312-year-high-on-strong-pboc-fixing-4909861",
-      "published": "2026-09-22 04:50:00",
-      "ts": 1790052600
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
-      "published": "2026-09-21 21:01:45",
-      "ts": 1790024505
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
-      "published": "2026-09-21 17:16:09",
-      "ts": 1790010969
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury yields ease on crude pull-back ;  rate hike bets stay",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
-      "published": "2026-09-21 12:07:57",
-      "ts": 1789992477
     }
   ]
 }
