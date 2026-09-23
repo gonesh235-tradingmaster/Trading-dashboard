@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-23T05:09:13.773750Z",
+  "updated": "2026-09-23T05:25:42.570482Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
+      "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
+      "published": "Wed, 23 Sep 2026 05:16:22 +0000",
+      "ts": 1790140582
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Holds losses below 112.00, retaining bearish outlook beneath 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-holds-losses-below-11200-retaining-bearish-outlook-beneath-100-day-sma-202609230513",
+      "published": "Wed, 23 Sep 2026 05:13:04 GMT",
+      "ts": 1790140384
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's on a streak it hasn't hit since 2012",
+      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
+      "published": "Wed, 23 Sep 2026 05:12:42 +0000",
+      "ts": 1790140362
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc weakens as US Dollar rises on hawkish Fed sentiment",
@@ -67,7 +88,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold edges lower on Fed-driven USD strength as markets await Trump-Xi meeting",
+      "title": "Gold sticks to losses below $4,350 as USD buying remains unabated amid hawkish Fed",
       "link": "https://www.fxstreet.com/news/gold-edges-lower-on-fed-driven-usd-strength-as-markets-await-trump-xi-meeting-202609230343",
       "published": "Wed, 23 Sep 2026 03:43:06 GMT",
       "ts": 1790134986
@@ -92,13 +113,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
       "published": "2026-09-23 02:59:22",
       "ts": 1790132362
-    },
-    {
-      "source": "FXStreet",
-      "title": "Asian stocks trade mixed, Taiwan’s Taiex leads on tech boost",
-      "link": "https://www.fxstreet.com/news/asian-stocks-trade-mixed-taiwans-taiex-leads-on-tech-boost-202609230258",
-      "published": "Wed, 23 Sep 2026 02:58:48 GMT",
-      "ts": 1790132328
     },
     {
       "source": "MarketWatch",
@@ -323,20 +337,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-area-debt-bourses-face-risk-drag-from-paris-debt-trajectory-4910015",
       "published": "2026-09-22 12:15:26",
       "ts": 1790079326
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
-      "link": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
-      "published": "Tue, 22 Sep 2026 12:05:55 +0000",
-      "ts": 1790078755
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
-      "published": "Tue, 22 Sep 2026 11:35:43 +0000",
-      "ts": 1790076943
     },
     {
       "source": "Investing Crypto",
