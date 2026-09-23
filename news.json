@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-23T20:41:09.935305Z",
+  "updated": "2026-09-23T20:51:38.042124Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
+      "link": "https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 20:45:00 GMT",
+      "ts": 1790196300
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+      "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 20:43:56 +0000",
+      "ts": 1790196236
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 20:40:00 GMT",
+      "ts": 1790196000
+    },
     {
       "source": "CoinTelegraph",
       "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
@@ -101,25 +122,11 @@
       "ts": 1790190292
     },
     {
-      "source": "MarketWatch",
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 19:00:00 GMT",
-      "ts": 1790190000
-    },
-    {
       "source": "CoinDesk",
       "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
       "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
       "published": "Wed, 23 Sep 2026 18:59:36 +0000",
       "ts": 1790189976
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s where thousands of homeowners face higher insurance bills after FEMA updated its flood maps",
-      "link": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 18:55:00 GMT",
-      "ts": 1790189700
     },
     {
       "source": "Investing Forex",
@@ -276,13 +283,6 @@
       "ts": 1790170800
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Winners and losers of the SEC’s new tokenized stocks rules",
-      "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 13:30:00 +0000",
-      "ts": 1790170200
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
       "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Multifamily REITs Are Finally Showing Signs of Recovery — Why Baron Increased UDR (UDR)",
+      "link": "https://finance.yahoo.com/real-estate/articles/multifamily-reits-finally-showing-signs-122342590.html",
+      "published": "2026-09-22T12:23:42Z",
+      "ts": 1790079822
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Saudi Arabia Reportedly Restarts East-West Pipeline",
+      "link": "https://finance.yahoo.com/energy/articles/saudi-arabia-reportedly-restarts-east-122302773.html",
+      "published": "2026-09-22T12:23:02Z",
+      "ts": 1790079782
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Fox Corporation Stock Underperforming the S&P 500?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/fox-corporation-stock-underperforming-p-121812686.html",
       "published": "2026-09-22T12:18:12Z",
       "ts": 1790079492
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Treasury curve flattens as easing oil input costs and UN diplomacy offer respite",
-      "link": "https://www.investing.com/news/forex-news/euro-area-debt-bourses-face-risk-drag-from-paris-debt-trajectory-4910015",
-      "published": "2026-09-22 12:15:26",
-      "ts": 1790079326
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "5 really bad reasons to file for Social Security at 70 — are you waiting way too long to get your checks?",
-      "link": "https://finance.yahoo.com/small-business/articles/5-really-bad-reasons-file-121500906.html",
-      "published": "2026-09-22T12:15:00Z",
-      "ts": 1790079300
     }
   ]
 }
