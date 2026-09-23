@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-23T22:25:14.974615Z",
+  "updated": "2026-09-23T22:38:51.257893Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro extends its slide as US surveys top Europe's strong reading",
+      "link": "https://www.fxstreet.com/news/euro-extends-its-slide-as-us-surveys-top-europes-strong-reading-202609232230",
+      "published": "Wed, 23 Sep 2026 22:30:47 GMT",
+      "ts": 1790202647
+    },
     {
       "source": "FXStreet",
       "title": "British Pound sells off hard as US surveys outpace the UK's",
       "link": "https://www.fxstreet.com/news/british-pound-sells-off-hard-as-us-surveys-outpace-the-uks-202609232224",
       "published": "Wed, 23 Sep 2026 22:24:19 GMT",
       "ts": 1790202259
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
+      "published": "2026-09-23 22:15:55",
+      "ts": 1790201755
     },
     {
       "source": "MarketWatch",
@@ -234,13 +248,6 @@
       "ts": 1790181267
     },
     {
-      "source": "FXStreet",
-      "title": "US 10-year yield hits a 19-year high as Fed Governor Barr backs hikes",
-      "link": "https://www.fxstreet.com/news/us-10-year-yield-hits-a-19-year-high-as-fed-governor-barr-backs-hikes-202609231619",
-      "published": "Wed, 23 Sep 2026 16:19:52 GMT",
-      "ts": 1790180392
-    },
-    {
       "source": "CoinTelegraph",
       "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
       "link": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -281,13 +288,6 @@
       "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 14:28:50 +0000",
       "ts": 1790173730
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steadies below $86k as ETF inflows soar; Trump-Xi summit in focus",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
-      "published": "2026-09-23 13:43:59",
-      "ts": 1790171039
     },
     {
       "source": "CoinDesk",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "This Blue-Chip ‘Loser’ Just Might Offer Contrarians a Pleasant Surprise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-chip-loser-just-might-142146058.html",
-      "published": "2026-09-22T14:21:46Z",
-      "ts": 1790086906
+      "title": "Nvidia Price Prediction: Wall Street and Our Model Finally Agree",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-price-prediction-wall-street-143044345.html",
+      "published": "2026-09-22T14:30:44Z",
+      "ts": 1790087444
     },
     {
       "source": "Yahoo Finance",
-      "title": "Benchmark diesel sets new record; futures signaling relief?",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/benchmark-diesel-sets-record-futures-142020903.html",
-      "published": "2026-09-22T14:20:20Z",
-      "ts": 1790086820
+      "title": "How SoFi Is Turning Its Consumer App Into A Stablecoin Proving Ground",
+      "link": "https://www.investors.com/news/technology/sofi-stock-mastercard-ma-stock-stablecoin-network/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T14:29:31Z",
+      "ts": 1790087371
     },
     {
       "source": "Yahoo Finance",
-      "title": "Can Apple Overtake NVIDIA as the World's Most Valuable Company?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-overtake-nvidia-worlds-most-142000889.html",
-      "published": "2026-09-22T14:20:00Z",
-      "ts": 1790086800
+      "title": "How Is Gen Digital's Stock Performance Compared to Other Software - Infrastructure Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gen-digitals-stock-performance-compared-142916396.html",
+      "published": "2026-09-22T14:29:16Z",
+      "ts": 1790087356
     },
     {
       "source": "Yahoo Finance",
-      "title": "AI infrastructure Boom Fuels Texas Instruments’ (TXN) Rally",
-      "link": "https://finance.yahoo.com/technology/articles/ai-infrastructure-boom-fuels-texas-141812824.html",
-      "published": "2026-09-22T14:18:12Z",
-      "ts": 1790086692
+      "title": "GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares",
+      "link": "https://finance.yahoo.com/markets/article/gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html",
+      "published": "2026-09-22T14:28:27Z",
+      "ts": 1790087307
     },
     {
       "source": "Yahoo Finance",
-      "title": "Warren Buffett Just Left the Chairman Role at Berkshire Hathaway. How His Departure Will Impact BRK.B Stock.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-just-left-chairman-141730011.html",
-      "published": "2026-09-22T14:17:30Z",
-      "ts": 1790086650
+      "title": "This Fund Trimmed Murphy USA (MUSA) Amid Fuel Margin Strengths",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-murphy-usa-musa-142800363.html",
+      "published": "2026-09-22T14:28:00Z",
+      "ts": 1790087280
     }
   ]
 }
