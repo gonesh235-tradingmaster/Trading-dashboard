@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T01:26:06.675798Z",
+  "updated": "2026-09-23T01:39:19.174838Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar remains under pressure as PMI slows",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-under-pressure-as-pmi-slows-202609230133",
+      "published": "Wed, 23 Sep 2026 01:33:50 GMT",
+      "ts": 1790127230
+    },
     {
       "source": "FXStreet",
       "title": "Euro weakens below 1.1450 on hawkish Fed signals, German political risks",
@@ -78,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-dips-to-a-new-low-and-bounces-as-crude-oil-gets-cheaper-202609222254",
       "published": "Tue, 22 Sep 2026 22:54:38 GMT",
       "ts": 1790117678
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar remains subdued as Fed and RBA hawks collide",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-subdued-as-fed-and-rba-hawks-collide-202609222249",
-      "published": "Tue, 22 Sep 2026 22:49:21 GMT",
-      "ts": 1790117361
     },
     {
       "source": "Investing Crypto",
@@ -417,10 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Michael Saylor's Strategy jumps as the company says it bought more bitcoin",
-      "link": "https://finance.yahoo.com/markets/article/michael-saylors-strategy-jumps-as-the-company-says-it-bought-more-bitcoin-133538866.html",
-      "published": "2026-09-21T13:35:38Z",
-      "ts": 1789997738
+      "title": "Centene Corp. (CNC) Soared 98.8% in Q2: What Drove the Massive Gain?",
+      "link": "https://finance.yahoo.com/healthcare/articles/centene-corp-cnc-soared-98-134615578.html",
+      "published": "2026-09-21T13:46:15Z",
+      "ts": 1789998375
     }
   ]
 }
