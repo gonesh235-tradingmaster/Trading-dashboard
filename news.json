@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-23T10:54:48.771857Z",
+  "updated": "2026-09-23T11:09:56.137744Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver price falls as Fed tightening bets, US-Iran talks curb safe-haven demand",
+      "link": "https://www.fxstreet.com/news/silver-price-falls-as-fed-tightening-bets-us-iran-talks-curb-safe-haven-demand-202609231105",
+      "published": "Wed, 23 Sep 2026 11:05:48 GMT",
+      "ts": 1790161548
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold falls as Fed rate hike bets lift US Dollar to two-month high",
+      "link": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
+      "published": "Wed, 23 Sep 2026 11:00:35 GMT",
+      "ts": 1790161235
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen exposes to two-week low against US Dollar, US PMI eyed",
+      "link": "https://www.fxstreet.com/news/japanese-yen-exposes-to-two-week-low-against-us-dollar-us-pmi-eyed-202609231056",
+      "published": "Wed, 23 Sep 2026 10:56:16 GMT",
+      "ts": 1790160976
+    },
     {
       "source": "MarketWatch",
       "title": "The AI infrastructure trade is still not over, says this top-performing fund manager. Where he’s investing.",
@@ -11,17 +32,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T10:38:27Z",
-      "ts": 1790159907
+      "title": "Is Medical Properties Trust (MPT) Finally Fixing Its Balance Sheet?",
+      "link": "https://finance.yahoo.com/real-estate/articles/medical-properties-trust-mpt-finally-104924335.html",
+      "published": "2026-09-23T10:49:24Z",
+      "ts": 1790160564
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bitcoin Is Down Just 1.2% for 2026 After Clearing $86,000. Can It End the Year Green?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-just-1-2-103714385.html",
-      "published": "2026-09-23T10:37:14Z",
-      "ts": 1790159834
+      "title": "Where Will Cardano (ADA) Be in 3 Years?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/where-cardano-ada-3-years-104600874.html",
+      "published": "2026-09-23T10:46:00Z",
+      "ts": 1790160360
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T10:45:17Z",
+      "ts": 1790160317
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Can Applied Aerospace (AADX) Turn Record Backlog Into Real Profit?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-aerospace-aadx-turn-record-104421317.html",
+      "published": "2026-09-23T10:44:21Z",
+      "ts": 1790160261
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Analyst says Bitcoin bull market is underway and sets 2029 target",
+      "link": "https://www.investing.com/news/cryptocurrency-news/analyst-says-bitcoin-bull-market-is-underway-and-sets-2029-target-4912571",
+      "published": "2026-09-23 10:42:44",
+      "ts": 1790160164
     },
     {
       "source": "Yahoo Finance",
@@ -80,13 +122,6 @@
       "ts": 1790159029
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Why Is Northwest Bancshares (NWBI) Betting Big On A New Home?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-northwest-bancshares-nwbi-betting-101926444.html",
-      "published": "2026-09-23T10:19:26Z",
-      "ts": 1790158766
-    },
-    {
       "source": "MarketWatch",
       "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
       "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
@@ -99,13 +134,6 @@
       "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 10:15:00 GMT",
       "ts": 1790158500
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Can Kennametal (KMT) Maintain Its Momentum?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kennametal-kmt-maintain-momentum-101027152.html",
-      "published": "2026-09-23T10:10:27Z",
-      "ts": 1790158227
     },
     {
       "source": "CoinTelegraph",
@@ -206,13 +234,6 @@
       "ts": 1790155551
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound holds steady against Japanese Yen after mixed UK PMIs",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-against-japanese-yen-after-mixed-uk-pmis-202609230921",
-      "published": "Wed, 23 Sep 2026 09:21:18 GMT",
-      "ts": 1790155278
-    },
-    {
       "source": "CoinDesk",
       "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
       "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
@@ -227,20 +248,6 @@
       "ts": 1790154900
     },
     {
-      "source": "FXStreet",
-      "title": "Hungarian Forint: Cautious MNB stance supports HUF – Commerzbank",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-cautious-mnb-stance-supports-huf-commerzbank-202609230911",
-      "published": "Wed, 23 Sep 2026 09:11:42 GMT",
-      "ts": 1790154702
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro dips against Canadian Dollar following HCOB PMI data release",
-      "link": "https://www.fxstreet.com/news/euro-dips-against-canadian-dollar-following-hcob-pmi-data-release-202609230911",
-      "published": "Wed, 23 Sep 2026 09:11:39 GMT",
-      "ts": 1790154699
-    },
-    {
       "source": "MarketWatch",
       "title": "The real estate portfolio of Zendaya and Tom Holland, plus her plans for a room just for her wedding dress",
       "link": "https://www.marketwatch.com/story/the-real-estate-portfolio-of-zendaya-and-tom-holland-plus-her-plans-for-a-room-just-for-her-wedding-dress-daa9cc93?mod=mw_rss_topstories",
@@ -253,13 +260,6 @@
       "link": "https://www.marketwatch.com/story/tv-host-maria-menounos-lists-a-beautifully-renovated-encino-mansion-for-7-million-2af120a2?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 08:58:00 GMT",
       "ts": 1790153880
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro remains depressed as German politics, France's debt offset strong PMI figures",
-      "link": "https://www.fxstreet.com/news/euro-remains-depressed-as-german-politics-frances-debt-offset-strong-pmi-figures-202609230857",
-      "published": "Wed, 23 Sep 2026 08:57:48 GMT",
-      "ts": 1790153868
     },
     {
       "source": "MarketWatch",
@@ -346,6 +346,13 @@
       "ts": 1790141689
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee resumes decline as markets embrace hawkish Fed view",
+      "link": "https://www.fxstreet.com/news/indian-rupee-comes-under-pressure-amid-hawkish-fed-expectations-202609230526",
+      "published": "Wed, 23 Sep 2026 05:26:13 GMT",
+      "ts": 1790141173
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
       "link": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
       "published": "2026-09-22 13:38:01",
       "ts": 1790084281
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
-      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
-      "published": "2026-09-22T12:39:18Z",
-      "ts": 1790080758
     }
   ]
 }
