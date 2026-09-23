@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T07:11:40.135001Z",
+  "updated": "2026-09-23T07:28:47.632713Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "USD/CAD Price Forecast: Eyes 1.4100 as bulls retain control near July 29 highs",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-eyes-14100-as-bulls-retain-control-near-july-29-highs-202609230714",
+      "published": "Wed, 23 Sep 2026 07:14:02 GMT",
+      "ts": 1790147642
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin pulls back from overbought highs at $86,388: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-23 07:11:40",
+      "ts": 1790147500
+    },
     {
       "source": "FXStreet",
       "title": "Euro nudges up against British Pound with Eurozone and UK PMIs in focus",
@@ -57,13 +71,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
       "published": "2026-09-23 06:23:57",
       "ts": 1790144637
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecasts: XAG/USD holds within range with bulls capped below $68.00 area",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-holds-within-range-with-bulls-capped-below-6800-area-202609230617",
-      "published": "Wed, 23 Sep 2026 06:17:55 GMT",
-      "ts": 1790144275
     },
     {
       "source": "CoinTelegraph",
@@ -277,13 +284,6 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin overbought at $86,550 with RSI 75 divergence: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-22 19:18:57",
-      "ts": 1790104737
-    },
-    {
-      "source": "Investing Crypto",
       "title": "EOS Climbs 12% As Investors Gain Confidence",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
       "published": "2026-09-22 18:03:00",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer on Credo (CRDO): “I Think You Can Buy the Stock”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-credo-crdo-think-193721036.html",
-      "published": "2026-09-21T19:37:21Z",
-      "ts": 1790019441
+      "title": "Summer's Hottest Stocks: These Winners Rose 50% Or More In A Lackluster Stock Market",
+      "link": "https://www.investors.com/news/stock-market-autumn-equinox-summer-sp-500/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T20:04:59Z",
+      "ts": 1790021099
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hawkish Fed Comments Boost the Dollar",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/hawkish-fed-comments-boost-dollar-193511123.html",
-      "published": "2026-09-21T19:35:11Z",
-      "ts": 1790019311
+      "title": "AXT Inc. (AXTI) Climbs 16% on S&P 600 Addition",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-climbs-16-200025106.html",
+      "published": "2026-09-21T20:00:25Z",
+      "ts": 1790020825
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer on GameStop (GME): “I’m Willing to Say That That Stock Is a Buy”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-gamestop-gme-m-193001444.html",
-      "published": "2026-09-21T19:30:01Z",
-      "ts": 1790019001
+      "title": "AI-Fueled Precision Oncology Firm Guardant Health Is In Focus. Here's Why.",
+      "link": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/guardant-health-gh-stock-diagnoses-breakout/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T20:00:12Z",
+      "ts": 1790020812
     },
     {
       "source": "Yahoo Finance",
-      "title": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
-      "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
-      "published": "2026-09-21T19:25:47Z",
-      "ts": 1790018747
+      "title": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening",
+      "link": "https://finance.yahoo.com/energy/articles/where-opec-riyadh-moscow-silence-200000768.html",
+      "published": "2026-09-21T20:00:00Z",
+      "ts": 1790020800
     }
   ]
 }
