@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-23T11:41:10.461567Z",
+  "updated": "2026-09-23T11:53:11.624269Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index: Rally extend to near 101.00 as hawkish Fed narrative takes hold",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-rally-extend-to-near-10100-as-hawkish-fed-narrative-takes-hold-202609231147",
+      "published": "Wed, 23 Sep 2026 11:47:22 GMT",
+      "ts": 1790164042
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
+      "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 11:40:00 GMT",
+      "ts": 1790163600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Canada’s TD Bank pledges C$25m for AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/canada-td-bank-pledges-c-113918570.html",
+      "published": "2026-09-23T11:39:18Z",
+      "ts": 1790163558
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitcoin and ethereum prices today, Wednesday, September 23, 2026: Crypto prices open near 8-month highs. Is the crypto winter over?",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-23-2026-crypto-prices-open-near-8-month-highs-is-the-crypto-winter-over-113908671.html",
+      "published": "2026-09-23T11:39:08Z",
+      "ts": 1790163548
+    },
     {
       "source": "FXStreet",
       "title": "Euro rallies against a weak British Pound as UK business activity disappoints",
@@ -10,11 +38,25 @@
       "ts": 1790163368
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T11:34:00Z",
+      "ts": 1790163240
+    },
+    {
       "source": "FXStreet",
       "title": "Swedish Krona: Growth and future rate outlook favour SEK – Societe Generale",
       "link": "https://www.fxstreet.com/news/swedish-krona-growth-and-future-rate-outlook-favour-sek-societe-generale-202609231133",
       "published": "Wed, 23 Sep 2026 11:33:51 GMT",
       "ts": 1790163231
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A 70-year-old owes $200,000 in parent student loans for his kids — experts warn against draining retirement to pay it",
+      "link": "https://finance.yahoo.com/small-business/articles/70-old-owes-200-000-113000217.html",
+      "published": "2026-09-23T11:30:00Z",
+      "ts": 1790163000
     },
     {
       "source": "CoinDesk",
@@ -29,13 +71,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
       "published": "Wed, 23 Sep 2026 11:28:50 +0000",
       "ts": 1790162930
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CA ANZ backs GAA’s push to align sustainability and financial reporting",
-      "link": "https://finance.yahoo.com/economy/policy/articles/ca-anz-backs-gaa-push-112556531.html",
-      "published": "2026-09-23T11:25:56Z",
-      "ts": 1790162756
     },
     {
       "source": "Yahoo Finance",
@@ -59,13 +94,6 @@
       "ts": 1790162280
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T11:17:15Z",
-      "ts": 1790162235
-    },
-    {
       "source": "MarketWatch",
       "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
       "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
@@ -74,15 +102,15 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Breakout Watch: Aerospace Rival Leaves Boeing, Airbus In The Dust",
-      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/embraer-embj-stock-jets-past-boeing-airbus/?src=A00220&yptr=yahoo",
+      "title": "Can Zenas BioPharma’s (ZBIO) Clinical Pipeline Justify Its Heavy Cash Burn?",
+      "link": "https://finance.yahoo.com/healthcare/articles/zenas-biopharma-zbio-clinical-pipeline-111448242.html",
       "published": "2026-09-23T11:14:48Z",
       "ts": 1790162088
     },
     {
       "source": "Yahoo Finance",
-      "title": "Can Zenas BioPharma’s (ZBIO) Clinical Pipeline Justify Its Heavy Cash Burn?",
-      "link": "https://finance.yahoo.com/healthcare/articles/zenas-biopharma-zbio-clinical-pipeline-111448242.html",
+      "title": "Breakout Watch: Aerospace Rival Leaves Boeing, Airbus In The Dust",
+      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/embraer-embj-stock-jets-past-boeing-airbus/?src=A00220&yptr=yahoo",
       "published": "2026-09-23T11:14:48Z",
       "ts": 1790162088
     },
@@ -108,25 +136,11 @@
       "ts": 1790161698
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Gold price today, Wednesday, September 23, 2026: Gold holds as investors weigh China, Iran relations",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-23-2026-gold-holds-as-investors-weigh-china-iran-relations-110649042.html",
-      "published": "2026-09-23T11:06:49Z",
-      "ts": 1790161609
-    },
-    {
       "source": "FXStreet",
       "title": "Silver price falls as Fed tightening bets, US-Iran talks curb safe-haven demand",
       "link": "https://www.fxstreet.com/news/silver-price-falls-as-fed-tightening-bets-us-iran-talks-curb-safe-haven-demand-202609231105",
       "published": "Wed, 23 Sep 2026 11:05:48 GMT",
       "ts": 1790161548
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Analysis-There's a reason Trump is the only one talking about 1% rates",
-      "link": "https://finance.yahoo.com/economy/policy/articles/analysis-theres-reason-trump-only-110508485.html",
-      "published": "2026-09-23T11:05:08Z",
-      "ts": 1790161508
     },
     {
       "source": "FXStreet",
@@ -141,13 +155,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-exposes-to-two-week-low-against-us-dollar-us-pmi-eyed-202609231056",
       "published": "Wed, 23 Sep 2026 10:56:16 GMT",
       "ts": 1790160976
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
-      "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 10:51:00 GMT",
-      "ts": 1790160660
     },
     {
       "source": "Investing Crypto",
@@ -225,13 +232,6 @@
       "link": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
       "published": "Wed, 23 Sep 2026 09:57:24 +0000",
       "ts": 1790157444
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold Price Forecast: XAU/USD drifts toward $4.300 with bears gaining traction",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-drifts-toward-4300-with-bears-gaining-traction-202609230954",
-      "published": "Wed, 23 Sep 2026 09:54:16 GMT",
-      "ts": 1790157256
     },
     {
       "source": "Investing Forex",
