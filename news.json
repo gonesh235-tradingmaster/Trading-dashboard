@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-23T14:10:37.512145Z",
+  "updated": "2026-09-23T14:28:14.623508Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 14:15:00 GMT",
+      "ts": 1790172900
+    },
     {
       "source": "FXStreet",
       "title": "India: Russian dependence and security focus – Standard Chartered",
       "link": "https://www.fxstreet.com/news/india-russian-dependence-and-security-focus-standard-chartered-202609231409",
       "published": "Wed, 23 Sep 2026 14:09:10 GMT",
       "ts": 1790172550
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Proposed distribution tax reforms risk harming growth, ICAEW warns",
+      "link": "https://finance.yahoo.com/economy/policy/articles/proposed-distribution-tax-reforms-risk-140013422.html",
+      "published": "2026-09-23T14:00:13Z",
+      "ts": 1790172013
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Can DoubleVerify’s (DV) AI Push Still Matter With A Buyout Pending?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/doubleverify-dv-ai-push-still-140003995.html",
+      "published": "2026-09-23T14:00:03Z",
+      "ts": 1790172003
     },
     {
       "source": "MarketWatch",
@@ -18,10 +39,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "DataSnipper launches Alwin platform for audit and finance workflows",
-      "link": "https://finance.yahoo.com/technology/ai/articles/datasnipper-launches-alwin-platform-audit-135453480.html",
-      "published": "2026-09-23T13:54:53Z",
-      "ts": 1790171693
+      "title": "Why Polaris Capital Continues Watching Alibaba (BABA) Amid AI Opportunity and China Market Challenges",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-polaris-capital-continues-watching-135738757.html",
+      "published": "2026-09-23T13:57:38Z",
+      "ts": 1790171858
     },
     {
       "source": "Yahoo Finance",
@@ -31,11 +52,25 @@
       "ts": 1790171603
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Can Sonic (SAH) Automotive’s Luxury Bet Outrun Margin Pressure?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sonic-sah-automotive-luxury-bet-135202332.html",
+      "published": "2026-09-23T13:52:02Z",
+      "ts": 1790171522
+    },
+    {
       "source": "MarketWatch",
       "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
       "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 13:51:00 GMT",
       "ts": 1790171460
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Booking Holdings (BKNG) is Positioned to Benefit From Long-Term Travel Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-bkng-positioned-benefit-134947263.html",
+      "published": "2026-09-23T13:49:47Z",
+      "ts": 1790171387
     },
     {
       "source": "Yahoo Finance",
@@ -94,13 +129,6 @@
       "ts": 1790170519
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Is Protolabs’ (PRLB) Next Chapter Hinged on an Unseen Gamble?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/protolabs-prlb-next-chapter-hinged-133431215.html",
-      "published": "2026-09-23T13:34:31Z",
-      "ts": 1790170471
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Winners and losers of the SEC’s new tokenized stocks rules",
       "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -115,32 +143,11 @@
       "ts": 1790170200
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Is Sharon AI (SHAZ) Sitting on a Multi-Billion Dollar Trapdoor or a Masterpiece?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sharon-ai-shaz-sitting-multi-132622996.html",
-      "published": "2026-09-23T13:26:22Z",
-      "ts": 1790169982
-    },
-    {
       "source": "FXStreet",
       "title": "British Pound: BoE repricing risk keeps Pound vulnerable – BBH",
       "link": "https://www.fxstreet.com/news/british-pound-boe-repricing-risk-keeps-pound-vulnerable-bbh-202609231324",
       "published": "Wed, 23 Sep 2026 13:24:36 GMT",
       "ts": 1790169876
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "European Central Banks Call For Ban On Stablecoin Yield",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/european-central-banks-call-ban-132400795.html",
-      "published": "2026-09-23T13:24:00Z",
-      "ts": 1790169840
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cytokinetics (CYTK): Can Myqorzo Growth Create a New Biopharma Success Story?",
-      "link": "https://finance.yahoo.com/healthcare/articles/cytokinetics-cytk-myqorzo-growth-create-132125710.html",
-      "published": "2026-09-23T13:21:25Z",
-      "ts": 1790169685
     },
     {
       "source": "FXStreet",
@@ -267,13 +274,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
       "published": "Wed, 23 Sep 2026 11:28:50 +0000",
       "ts": 1790162930
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why CoreWeave’s beaten-down stock could be due for a major comeback",
-      "link": "https://www.marketwatch.com/story/why-coreweaves-beaten-down-stock-could-be-due-for-a-major-comeback-46068534?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 11:18:00 GMT",
-      "ts": 1790162280
     },
     {
       "source": "FXStreet",
