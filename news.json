@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-23T21:39:42.161083Z",
+  "updated": "2026-09-23T21:50:49.719818Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Is gridlock in Washington actually good for stocks? Here’s what historical market data says.",
+      "link": "https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 21:44:00 GMT",
+      "ts": 1790199840
+    },
     {
       "source": "FXStreet",
       "title": "GBP/JPY Price Forecast: Bears press 209.00 as downtrend deepens",
       "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bears-press-20900-as-downtrend-deepens-202609232135",
       "published": "Wed, 23 Sep 2026 21:35:39 GMT",
       "ts": 1790199339
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar rises to nearly two-month high on firmer Fed rate hike bets, rout in bonds",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
+      "published": "2026-09-23 21:31:55",
+      "ts": 1790199115
     },
     {
       "source": "FXStreet",
@@ -99,13 +113,6 @@
       "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 19:48:00 GMT",
       "ts": 1790192880
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The ingredients for a market crash are all in place",
-      "link": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 19:47:00 GMT",
-      "ts": 1790192820
     },
     {
       "source": "CoinTelegraph",
@@ -262,13 +269,6 @@
       "ts": 1790175131
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar marches higher as trade and diplomatic cues take center stage",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
-      "published": "2026-09-23 14:32:39",
-      "ts": 1790173959
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
       "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -388,6 +388,13 @@
       "ts": 1790100180
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
+      "published": "2026-09-22T13:41:37Z",
+      "ts": 1790084497
+    },
+    {
       "source": "Investing Crypto",
       "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
       "link": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
@@ -396,31 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-unveils-ai-133647470.html",
+      "published": "2026-09-22T13:36:47Z",
+      "ts": 1790084207
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Prediction: Oracle Could Have 50% Upside From Here",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-oracle-could-50-upside-133045805.html",
+      "published": "2026-09-22T13:30:45Z",
+      "ts": 1790083845
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Goldman Sachs says 'lower happiness' — not the economy — explains why consumer confidence hit its second-lowest level",
       "link": "https://finance.yahoo.com/economy/articles/goldman-sachs-says-lower-happiness-133000625.html",
       "published": "2026-09-22T13:30:00Z",
       "ts": 1790083800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Binance Investigated By U.S. For Potential Sanctions Violations",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-investigated-u-potential-sanctions-132500534.html",
-      "published": "2026-09-22T13:25:00Z",
-      "ts": 1790083500
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Müller in talks to acquire dairy peer Vogtlandmilch",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/m-ller-talks-acquire-dairy-132031889.html",
-      "published": "2026-09-22T13:20:31Z",
-      "ts": 1790083231
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "16 trucking companies hit bankruptcy court in less than a month",
-      "link": "https://finance.yahoo.com/small-business/articles/16-trucking-companies-hit-bankruptcy-131909533.html",
-      "published": "2026-09-22T13:19:09Z",
-      "ts": 1790083149
     }
   ]
 }
