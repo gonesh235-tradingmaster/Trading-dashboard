@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-23T17:39:42.638234Z",
+  "updated": "2026-09-23T17:51:16.971190Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Fuel prices keep rising — and so do Democrats’ chances of winning both the House and Senate",
+      "link": "https://www.marketwatch.com/story/fuel-prices-keep-rising-and-so-do-democrats-chances-for-winning-both-the-house-and-senate-c4541380?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 17:49:00 GMT",
+      "ts": 1790185740
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Canaan (CAN) Sold Crypto to Buy Back Stock. Can It Offset Weak Mining-Equipment Demand?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/canaan-sold-crypto-buy-back-173457168.html",
+      "published": "2026-09-23T17:34:57Z",
+      "ts": 1790184897
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Twin Bridge targets up to $600M for debut secondaries fund",
+      "link": "https://finance.yahoo.com/small-business/articles/twin-bridge-targets-600m-debut-171733055.html",
+      "published": "2026-09-23T17:17:33Z",
+      "ts": 1790183853
+    },
     {
       "source": "MarketWatch",
       "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
@@ -80,25 +101,11 @@
       "ts": 1790182353
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-record-high-micron-sandisk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T16:51:56Z",
-      "ts": 1790182316
-    },
-    {
       "source": "MarketWatch",
       "title": "10 places where thousands of homeowners face higher insurance bills after FEMA updated its flood maps",
       "link": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 16:50:00 GMT",
       "ts": 1790182200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Biotech Stocks Dive As Top 2% Names Take Hardest Hit",
-      "link": "https://www.investors.com/news/technology/biotech-stocks-oruka-ionis-rapport-climb-cullinan/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T16:49:51Z",
-      "ts": 1790182191
     },
     {
       "source": "CoinTelegraph",
@@ -162,13 +169,6 @@
       "link": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 15:56:20 +0000",
       "ts": 1790178980
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Social Security stopped our checks due to a hacked bank account. We’re relying on our church for help. What can we do?",
-      "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 15:53:00 GMT",
-      "ts": 1790178780
     },
     {
       "source": "FXStreet",
