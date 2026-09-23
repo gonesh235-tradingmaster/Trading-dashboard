@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T06:55:38.605505Z",
+  "updated": "2026-09-23T07:11:40.135001Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro nudges up against British Pound with Eurozone and UK PMIs in focus",
+      "link": "https://www.fxstreet.com/news/euro-nudges-up-against-british-pound-with-eurozone-and-uk-pmis-in-focus-202609230710",
+      "published": "Wed, 23 Sep 2026 07:10:47 GMT",
+      "ts": 1790147447
+    },
+    {
+      "source": "FXStreet",
+      "title": "Brent: Price slide extends on pipeline restart – Danske Bank",
+      "link": "https://www.fxstreet.com/news/brent-price-slide-extends-on-pipeline-restart-danske-bank-202609230702",
+      "published": "Wed, 23 Sep 2026 07:02:46 GMT",
+      "ts": 1790146966
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar declines to near 0.5700 on hawkish Fed remarks ahead US PMI data",
@@ -50,20 +64,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-holds-within-range-with-bulls-capped-below-6800-area-202609230617",
       "published": "Wed, 23 Sep 2026 06:17:55 GMT",
       "ts": 1790144275
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound weakens to near 1.3300 as UK fiscal deficit exceeds market expectations",
-      "link": "https://www.fxstreet.com/news/british-pound-weakens-to-near-13300-as-uk-fiscal-deficit-exceeds-market-expectations-202609230606",
-      "published": "Wed, 23 Sep 2026 06:06:44 GMT",
-      "ts": 1790143604
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index gains support amid hawkish Fed policy stance",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gains-support-amid-hawkish-fed-policy-stance-202609230602",
-      "published": "Wed, 23 Sep 2026 06:02:44 GMT",
-      "ts": 1790143364
     },
     {
       "source": "CoinTelegraph",
@@ -396,6 +396,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Jim Cramer on Credo (CRDO): “I Think You Can Buy the Stock”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-credo-crdo-think-193721036.html",
+      "published": "2026-09-21T19:37:21Z",
+      "ts": 1790019441
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Hawkish Fed Comments Boost the Dollar",
       "link": "https://finance.yahoo.com/markets/currencies/articles/hawkish-fed-comments-boost-dollar-193511123.html",
       "published": "2026-09-21T19:35:11Z",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
       "published": "2026-09-21T19:25:47Z",
       "ts": 1790018747
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says KB Home (KBH) Could Report Weaker Numbers Like Lennar (LEN)",
-      "link": "https://finance.yahoo.com/real-estate/articles/jim-cramer-says-kb-home-192344492.html",
-      "published": "2026-09-21T19:23:44Z",
-      "ts": 1790018624
     }
   ]
 }
