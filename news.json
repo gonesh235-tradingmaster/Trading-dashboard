@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T06:35:12.951439Z",
+  "updated": "2026-09-23T06:55:38.605505Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar declines to near 0.5700 on hawkish Fed remarks ahead US PMI data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-to-near-05700-on-hawkish-fed-remarks-ahead-us-pmi-data-202609230654",
+      "published": "Wed, 23 Sep 2026 06:54:36 GMT",
+      "ts": 1790146476
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Testing support near 1.3300 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-testing-support-near-13300-against-us-dollar-uob-202609230643",
+      "published": "Wed, 23 Sep 2026 06:43:09 GMT",
+      "ts": 1790145789
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen weakens further against US Dollar as hawkish Fed bets dominate",
@@ -22,6 +36,13 @@
       "link": "https://www.fxstreet.com/news/euro-de-escalation-risk-weighs-on-eur-against-us-dollar-commerzbank-202609230629",
       "published": "Wed, 23 Sep 2026 06:29:33 GMT",
       "ts": 1790144973
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steady near $87k as ETF inflows soar; Trump-Xi summit in focus",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
+      "published": "2026-09-23 06:23:57",
+      "ts": 1790144637
     },
     {
       "source": "FXStreet",
@@ -45,25 +66,11 @@
       "ts": 1790143364
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Tests 180.00 support near nine-day EMA",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-18000-support-near-nine-day-ema-202609230550",
-      "published": "Wed, 23 Sep 2026 05:50:22 GMT",
-      "ts": 1790142622
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 05:43:01 +0000",
       "ts": 1790142181
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: 20-day EMA remains key barrier amid firm US Dollar",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-20-day-ema-remains-key-barrier-amid-firm-us-dollar-202609230542",
-      "published": "Wed, 23 Sep 2026 05:42:45 GMT",
-      "ts": 1790142165
     },
     {
       "source": "CoinTelegraph",
@@ -74,7 +81,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Indian Rupee comes under pressure amid hawkish Fed expectations",
+      "title": "Indian Rupee resumes decline amid hawkish Fed expectations",
       "link": "https://www.fxstreet.com/news/indian-rupee-comes-under-pressure-amid-hawkish-fed-expectations-202609230526",
       "published": "Wed, 23 Sep 2026 05:26:13 GMT",
       "ts": 1790141173
@@ -116,7 +123,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold sticks to losses below $4,350 as USD buying remains unabated amid hawkish Fed",
+      "title": "Gold retains intraday bearish bias as hawkish Fed lifts USD to fresh high since July 30",
       "link": "https://www.fxstreet.com/news/gold-edges-lower-on-fed-driven-usd-strength-as-markets-await-trump-xi-meeting-202609230343",
       "published": "Wed, 23 Sep 2026 03:43:06 GMT",
       "ts": 1790134986
@@ -130,7 +137,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Asia FX flat, dollar creeps higher ahead of U.S.-China summit",
+      "title": "Dollar creeps higher ahead of U.S.-China summit",
       "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
       "published": "2026-09-23 02:59:22",
       "ts": 1790132362
@@ -389,38 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "‘Substantially Higher Than a Car’: XPeng’s CEO on What Each Robot Could Earn. First It Has to Survive a Brutal Price War.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/substantially-higher-car-xpeng-ceo-190125193.html",
-      "published": "2026-09-21T19:01:25Z",
-      "ts": 1790017285
+      "title": "Hawkish Fed Comments Boost the Dollar",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/hawkish-fed-comments-boost-dollar-193511123.html",
+      "published": "2026-09-21T19:35:11Z",
+      "ts": 1790019311
     },
     {
       "source": "Yahoo Finance",
-      "title": "Needham Just Upped Its Price Target on OKTA Stock. Here's Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/needham-just-upped-price-target-185554859.html",
-      "published": "2026-09-21T18:55:54Z",
-      "ts": 1790016954
+      "title": "Jim Cramer on GameStop (GME): “I’m Willing to Say That That Stock Is a Buy”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-gamestop-gme-m-193001444.html",
+      "published": "2026-09-21T19:30:01Z",
+      "ts": 1790019001
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Nano Nuclear Energy Stock Is Powering Higher Today",
-      "link": "https://finance.yahoo.com/energy/articles/why-nano-nuclear-energy-stock-185059384.html",
-      "published": "2026-09-21T18:50:59Z",
-      "ts": 1790016659
+      "title": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
+      "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
+      "published": "2026-09-21T19:25:47Z",
+      "ts": 1790018747
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why It’s Time to Load Up on Meta Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-time-load-meta-stock-184857569.html",
-      "published": "2026-09-21T18:48:57Z",
-      "ts": 1790016537
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Arm Holdings (ARM) Soars 17% on Ambitious $2B Revenue Goal; Hedge Funds Bullish",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-soars-17-184855651.html",
-      "published": "2026-09-21T18:48:55Z",
-      "ts": 1790016535
+      "title": "Jim Cramer Says KB Home (KBH) Could Report Weaker Numbers Like Lennar (LEN)",
+      "link": "https://finance.yahoo.com/real-estate/articles/jim-cramer-says-kb-home-192344492.html",
+      "published": "2026-09-21T19:23:44Z",
+      "ts": 1790018624
     }
   ]
 }
