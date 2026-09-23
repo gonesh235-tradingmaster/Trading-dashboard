@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-23T18:12:44.697459Z",
+  "updated": "2026-09-23T18:31:49.029428Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The ingredients for a financial reckoning are all in place",
+      "link": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 18:24:00 GMT",
+      "ts": 1790187840
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: Fed hawks knock XAG/USD toward $64 support",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-fed-hawks-knock-xag-usd-toward-64-support-202609231823",
+      "published": "Wed, 23 Sep 2026 18:23:41 GMT",
+      "ts": 1790187821
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+      "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 18:17:48 +0000",
+      "ts": 1790187468
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
+      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 18:15:00 GMT",
+      "ts": 1790187300
+    },
     {
       "source": "FXStreet",
       "title": "Forex Today: Australia’s jobs report comes to the fore",
@@ -94,20 +122,6 @@
       "ts": 1790182800
     },
     {
-      "source": "MarketWatch",
-      "title": "Microsoft has ‘clearly turned the corner.’ How its stock can chart more gains.",
-      "link": "https://www.marketwatch.com/story/microsoft-has-clearly-turned-the-corner-how-its-stock-can-chart-more-gains-b6156467?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 16:58:00 GMT",
-      "ts": 1790182680
-    },
-    {
-      "source": "MarketWatch",
-      "title": "10 places where thousands of homeowners face higher insurance bills after FEMA updated its flood maps",
-      "link": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 16:50:00 GMT",
-      "ts": 1790182200
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
       "link": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -176,13 +190,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
       "published": "Wed, 23 Sep 2026 15:07:21 +0000",
       "ts": 1790176041
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro slides as strong US PMI data lifts Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/euro-slides-as-strong-us-pmi-data-lifts-fed-rate-hike-bets-202609231500",
-      "published": "Wed, 23 Sep 2026 15:00:57 GMT",
-      "ts": 1790175657
     },
     {
       "source": "Investing Crypto",
@@ -274,13 +281,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-permanent-ava-strategic-reserve-doubles-monthly-openmarket-buybacks-4912992",
       "published": "2026-09-23 12:32:18",
       "ts": 1790166738
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "EU watchdogs warn quantum computers could pick crypto’s locks",
-      "link": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 12:22:56 +0000",
-      "ts": 1790166176
     },
     {
       "source": "CoinDesk",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Dogecoin Targets 30% Surge Following $12.66M Short Squeeze",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-targets-30-surge-following-100106959.html",
+      "published": "2026-09-22T10:01:06Z",
+      "ts": 1790071266
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mark Cuban says healthcare companies are sued daily, usually lose and are 'too big to care.' He has a better solution",
+      "link": "https://finance.yahoo.com/healthcare/articles/mark-cuban-says-healthcare-companies-100000881.html",
+      "published": "2026-09-22T10:00:00Z",
+      "ts": 1790071200
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "How Is News Corporation's Stock Performance Compared to Other Communication Services Stocks?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/news-corporations-stock-performance-compared-094348036.html",
       "published": "2026-09-22T09:43:48Z",
       "ts": 1790070228
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Is AES Corporation's Stock Performance Compared to Other Utility Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aes-corporations-stock-performance-compared-094200159.html",
-      "published": "2026-09-22T09:42:00Z",
-      "ts": 1790070120
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Expedia Group Stock: Is EXPE Outperforming the Consumer Cyclical Sector?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-stock-expe-outperforming-092050152.html",
-      "published": "2026-09-22T09:20:50Z",
-      "ts": 1790068850
     }
   ]
 }
