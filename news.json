@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-23T15:53:47.095061Z",
+  "updated": "2026-09-23T16:10:53.255926Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average keeps sliding as yields climb on a strong PMI",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-keeps-sliding-as-yields-climb-on-a-strong-pmi-202609231606",
+      "published": "Wed, 23 Sep 2026 16:06:55 GMT",
+      "ts": 1790179615
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar tumbles as strong US PMI data lifts USD",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-tumbles-as-strong-us-pmi-data-lifts-usd-202609231604",
+      "published": "Wed, 23 Sep 2026 16:04:37 GMT",
+      "ts": 1790179477
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
+      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 16:01:00 GMT",
+      "ts": 1790179260
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound cracks as US growth burst sends US Dollar higher",
+      "link": "https://www.fxstreet.com/news/british-pound-cracks-as-us-growth-burst-sends-us-dollar-higher-202609231600",
+      "published": "Wed, 23 Sep 2026 16:00:07 GMT",
+      "ts": 1790179207
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+      "link": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 15:56:20 +0000",
+      "ts": 1790178980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Social Security stopped our checks due to a hacked bank account. We’re relying on our church for help. What can we do?",
+      "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 15:53:00 GMT",
+      "ts": 1790178780
+    },
     {
       "source": "FXStreet",
       "title": "WTI snaps five-day losing streak as US-Iran talks fall short of breakthrough",
@@ -10,18 +52,18 @@
       "ts": 1790178695
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Chip Stocks Drop After Six-Day Climb For SOX Index",
+      "link": "https://www.investors.com/news/technology/chip-stocks-drop-after-six-day-climb-for-sox-index/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T15:47:26Z",
+      "ts": 1790178446
+    },
+    {
       "source": "MarketWatch",
       "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
       "link": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 15:34:00 GMT",
       "ts": 1790177640
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Eli Lilly Vs. Pfizer in 2027: One Is a Much Better Place to Park Your Pharmaceutical Capital Next Year",
-      "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-vs-pfizer-2027-153235734.html",
-      "published": "2026-09-23T15:32:35Z",
-      "ts": 1790177555
     },
     {
       "source": "Yahoo Finance",
@@ -60,6 +102,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "MoonPay to Acquire North Capital in $60M Deal to Expand Tokenization",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/moonpay-acquire-north-capital-60m-152100012.html",
+      "published": "2026-09-23T15:21:00Z",
+      "ts": 1790176860
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Michael Burry Shorts Micron, Palantir; Famed Investor Expects Chip 'Down Cycle'",
       "link": "https://www.investors.com/news/micron-technology-michael-burry-palantir-semiconductors-ai-stocks-nebius/?src=A00220&yptr=yahoo",
       "published": "2026-09-23T15:18:48Z",
@@ -92,13 +141,6 @@
       "link": "https://www.marketwatch.com/story/why-analysts-say-a-diesel-export-ban-could-backfire-8b13cd51?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 15:14:00 GMT",
       "ts": 1790176440
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Palantir, IBD Stock Of The Day, Flashes Buy Signal Amid Earnings, AI Momentum",
-      "link": "https://www.investors.com/research/ibd-stock-of-the-day/palantir-stock-buy-signal-earnings-ai-momentum/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T15:13:36Z",
-      "ts": 1790176416
     },
     {
       "source": "FXStreet",
@@ -192,39 +234,11 @@
       "ts": 1790173959
     },
     {
-      "source": "FXStreet",
-      "title": "WTI: Headline risk rises as positioning stays elevated - TD Securities",
-      "link": "https://www.fxstreet.com/news/wti-headline-risk-rises-as-positioning-stays-elevated-td-securities-202609231432",
-      "published": "Wed, 23 Sep 2026 14:32:26 GMT",
-      "ts": 1790173946
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
       "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 14:28:50 +0000",
       "ts": 1790173730
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 14:15:00 GMT",
-      "ts": 1790172900
-    },
-    {
-      "source": "FXStreet",
-      "title": "India: Russian dependence and security focus – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/india-russian-dependence-and-security-focus-standard-chartered-202609231409",
-      "published": "Wed, 23 Sep 2026 14:09:10 GMT",
-      "ts": 1790172550
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These stocks are the ‘four horsemen of AI’ — and they’re not the ones you’d think",
-      "link": "https://www.marketwatch.com/story/these-stocks-are-the-four-horsemen-of-ai-and-theyre-not-the-ones-youd-think-bd4072ae?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 13:58:00 GMT",
-      "ts": 1790171880
     },
     {
       "source": "Investing Crypto",
@@ -319,7 +333,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold falls as strong US PMI data gives Fed room to raise rates again",
+      "title": "Gold slides as strong US PMI data gives Fed room to raise rates again",
       "link": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
       "published": "Wed, 23 Sep 2026 11:00:35 GMT",
       "ts": 1790161235
@@ -353,13 +367,6 @@
       "ts": 1790158015
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis",
-      "link": "https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 10:05:10 +0000",
-      "ts": 1790157910
-    },
-    {
       "source": "CoinDesk",
       "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
       "link": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
@@ -379,13 +386,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
       "published": "Wed, 23 Sep 2026 09:17:53 +0000",
       "ts": 1790155073
-    },
-    {
-      "source": "FXStreet",
-      "title": "Breaking: US S&P Global Composite PMI came in at 58.4 in September",
-      "link": "https://www.fxstreet.com/news/sp-global-pmis-expected-to-show-resilient-us-economic-growth-in-september-202609230845",
-      "published": "Wed, 23 Sep 2026 08:45:00 GMT",
-      "ts": 1790153100
     },
     {
       "source": "Yahoo Finance",
