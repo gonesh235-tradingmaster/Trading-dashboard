@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T20:27:29.767318Z",
+  "updated": "2026-09-23T20:41:09.935305Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
+      "link": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 20:28:34 +0000",
+      "ts": 1790195314
+    },
     {
       "source": "MarketWatch",
       "title": "What’s behind Royal Caribbean’s ‘highly surprising’ push into Sandals vacation resorts",
@@ -290,13 +297,6 @@
       "ts": 1790168400
     },
     {
-      "source": "CoinTelegraph",
-      "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
-      "link": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
-      "ts": 1790168400
-    },
-    {
       "source": "Investing Crypto",
       "title": "Travala Launches Permanent AVA Strategic Reserve, Doubles Monthly Open-Market Buybacks",
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-permanent-ava-strategic-reserve-doubles-monthly-openmarket-buybacks-4912992",
@@ -402,6 +402,13 @@
       "ts": 1790080758
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Is Fox Corporation Stock Underperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fox-corporation-stock-underperforming-p-121812686.html",
+      "published": "2026-09-22T12:18:12Z",
+      "ts": 1790079492
+    },
+    {
       "source": "Investing Forex",
       "title": "Treasury curve flattens as easing oil input costs and UN diplomacy offer respite",
       "link": "https://www.investing.com/news/forex-news/euro-area-debt-bourses-face-risk-drag-from-paris-debt-trajectory-4910015",
@@ -410,17 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Okta Stock Rides AI Security Boom Ahead Of Investor Day",
-      "link": "https://www.investors.com/news/technology/okta-stock-rides-ai-security-boom-ahead-of-investor-day/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T12:00:20Z",
-      "ts": 1790078420
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge",
-      "link": "https://www.investors.com/news/technology/google-stock-tpu-blackstone-cloud-growth-nvidia/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T12:00:20Z",
-      "ts": 1790078420
+      "title": "5 really bad reasons to file for Social Security at 70 — are you waiting way too long to get your checks?",
+      "link": "https://finance.yahoo.com/small-business/articles/5-really-bad-reasons-file-121500906.html",
+      "published": "2026-09-22T12:15:00Z",
+      "ts": 1790079300
     }
   ]
 }
