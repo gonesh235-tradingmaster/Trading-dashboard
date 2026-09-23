@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-23T12:56:16.799561Z",
+  "updated": "2026-09-23T13:13:17.137467Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Downside bias toward 1.1400 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-downside-bias-toward-11400-against-us-dollar-uob-202609231309",
+      "published": "Wed, 23 Sep 2026 13:09:28 GMT",
+      "ts": 1790168968
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "González Byass promotes Murillo to top job",
+      "link": "https://finance.yahoo.com/small-business/articles/gonz-lez-byass-promotes-murillo-130610661.html",
+      "published": "2026-09-23T13:06:10Z",
+      "ts": 1790168770
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oil hovers near $100 as analysts warn Trump diesel ban would 'tighten global supply'",
+      "link": "https://finance.yahoo.com/markets/article/oil-hovers-near-100-as-analysts-warn-trump-diesel-ban-would-tighten-global-supply-130359301.html",
+      "published": "2026-09-23T13:03:59Z",
+      "ts": 1790168639
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
+      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
+      "published": "Wed, 23 Sep 2026 13:02:43 +0000",
+      "ts": 1790168563
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia Just Qualified Tesla and Vertiv Products for Its New AI-Factory Standard",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-just-qualified-tesla-vertiv-130144385.html",
+      "published": "2026-09-23T13:01:44Z",
+      "ts": 1790168504
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+      "link": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
+      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "ts": 1790168400
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
+      "link": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "ts": 1790168400
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
+      "link": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "ts": 1790168400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
+      "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 13:00:00 GMT",
+      "ts": 1790168400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
+      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 12:58:00 GMT",
+      "ts": 1790168280
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Is Driven Brands (DRVN) Suddenly Ready To Buy Back Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-driven-brands-drvn-suddenly-125750826.html",
+      "published": "2026-09-23T12:57:50Z",
+      "ts": 1790168270
+    },
     {
       "source": "FXStreet",
       "title": "Gold: Next leg higher toward $5,000 – TD Securities",
@@ -11,45 +88,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Madison Mid Cap Fund: Realizing Gains in High-Speed Switch Leader Arista Networks (ANET)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/madison-mid-cap-fund-realizing-124214587.html",
-      "published": "2026-09-23T12:42:14Z",
-      "ts": 1790167334
+      "title": "Verisk Analytics (VRSK) Positions Well for Long-Term Expansion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verisk-analytics-vrsk-positions-well-125301959.html",
+      "published": "2026-09-23T12:53:01Z",
+      "ts": 1790167981
     },
     {
       "source": "Yahoo Finance",
-      "title": "AutoZone (AZO) Posts Strong Earnings, But Is the Stock Ready to Rebound?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/autozone-azo-posts-strong-earnings-124129297.html",
-      "published": "2026-09-23T12:41:29Z",
-      "ts": 1790167289
+      "title": "GM’s CarPlay U-Turn: A Three-Year Bet Against Buyer Preference Finally Reverses",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gm-carplay-u-turn-three-125119218.html",
+      "published": "2026-09-23T12:51:19Z",
+      "ts": 1790167879
     },
     {
       "source": "Yahoo Finance",
-      "title": "McDonald's pledges $8.5 billion for restaurant overhaul through 2036",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-pledges-8-5-billion-124054879.html",
-      "published": "2026-09-23T12:40:54Z",
-      "ts": 1790167254
-    },
-    {
-      "source": "MarketWatch",
-      "title": "FDA advisers are reviewing a multicancer-detection test. Medicare coverage could follow.",
-      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 12:39:00 GMT",
-      "ts": 1790167140
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Rocket Lab Readies For Mission, Cathie Wood Buys $25 Million In Shares",
-      "link": "https://www.investors.com/news/rocket-lab-stock-cathie-wood-ark-invest-25-million-electron-mission-neutron-outlook-rklb-stock/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T12:38:57Z",
-      "ts": 1790167137
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Analysis-There's a reason Trump is the only one talking about 1% interest rates",
-      "link": "https://finance.yahoo.com/economy/policy/articles/analysis-theres-reason-trump-only-110508485.html",
-      "published": "2026-09-23T12:37:33Z",
-      "ts": 1790167053
+      "title": "Here’s Why The Fund Trimmed Ross Stores (ROST) in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-fund-trimmed-ross-stores-125105870.html",
+      "published": "2026-09-23T12:51:05Z",
+      "ts": 1790167865
     },
     {
       "source": "FXStreet",
@@ -59,25 +115,11 @@
       "ts": 1790166903
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Chipotle (CMG) Is Piloting Palantir (PLTR) for Food Safety. Does It Matter for Investors?",
-      "link": "https://finance.yahoo.com/technology/articles/chipotle-cmg-piloting-palantir-pltr-123400398.html",
-      "published": "2026-09-23T12:34:00Z",
-      "ts": 1790166840
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. bonds consolidates as energy de-escalation signals balance hawkish bets",
       "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
       "published": "2026-09-23 12:33:44",
       "ts": 1790166824
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ValueAct’s 2 Stock Picks You Shouldn’t Miss",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/valueact-2-stock-picks-shouldn-123304790.html",
-      "published": "2026-09-23T12:33:04Z",
-      "ts": 1790166784
     },
     {
       "source": "Investing Crypto",
@@ -92,20 +134,6 @@
       "link": "https://www.marketwatch.com/story/hsbc-addresses-the-concerns-that-are-gripping-the-stock-market-and-dismisses-most-of-them-f9b34a8d?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 12:32:00 GMT",
       "ts": 1790166720
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Netflix stock is getting shredded — and Google's YouTube may be the reason",
-      "link": "https://finance.yahoo.com/markets/stocks/article/netflix-stock-is-getting-shredded--and-googles-youtube-may-be-the-reason-123041480.html",
-      "published": "2026-09-23T12:30:41Z",
-      "ts": 1790166641
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
-      "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 12:30:00 GMT",
-      "ts": 1790166600
     },
     {
       "source": "CoinTelegraph",
@@ -162,13 +190,6 @@
       "link": "https://www.fxstreet.com/news/euro-accelerates-against-a-weak-british-pound-as-uk-business-activity-disappoints-202609231136",
       "published": "Wed, 23 Sep 2026 11:36:08 GMT",
       "ts": 1790163368
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swedish Krona: Growth and future rate outlook favour SEK – Societe Generale",
-      "link": "https://www.fxstreet.com/news/swedish-krona-growth-and-future-rate-outlook-favour-sek-societe-generale-202609231133",
-      "published": "Wed, 23 Sep 2026 11:33:51 GMT",
-      "ts": 1790163231
     },
     {
       "source": "CoinDesk",
@@ -374,32 +395,11 @@
       "ts": 1790142181
     },
     {
-      "source": "CoinTelegraph",
-      "title": "US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report",
-      "link": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 05:34:49 +0000",
-      "ts": 1790141689
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
-      "link": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 05:22:21 +0000",
-      "ts": 1790140941
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
-      "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
-      "published": "Wed, 23 Sep 2026 05:16:22 +0000",
-      "ts": 1790140582
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's on a streak it hasn't hit since 2012",
-      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
-      "published": "Wed, 23 Sep 2026 05:12:42 +0000",
-      "ts": 1790140362
+      "source": "Yahoo Finance",
+      "title": "OpenAI, Anthropic, and SpaceX valuations could dwarf 45 years of IPOs",
+      "link": "https://finance.yahoo.com/technology/article/openai-anthropic-and-spacex-valuations-could-dwarf-45-years-of-ipos-223724805.html",
+      "published": "2026-09-22T22:37:24Z",
+      "ts": 1790116644
     },
     {
       "source": "Investing Crypto",
