@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-23T07:44:53.035156Z",
+  "updated": "2026-09-23T08:13:09.543928Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Downside still favoured toward 158.40 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-downside-still-favoured-toward-15840-against-us-dollar-uob-202609230809",
+      "published": "Wed, 23 Sep 2026 08:09:00 GMT",
+      "ts": 1790150940
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Zcash’s November upgrade could freeze funds in legacy Sprout pool",
+      "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 08:07:10 +0000",
+      "ts": 1790150830
+    },
+    {
+      "source": "FXStreet",
+      "title": "Eurozone flash Manufacturing PMI remains steady at 52.7 in September",
+      "link": "https://www.fxstreet.com/news/eurozone-flash-manufacturing-pmi-remains-steady-at-527-in-september-202609230804",
+      "published": "Wed, 23 Sep 2026 08:04:05 GMT",
+      "ts": 1790150645
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah holds losses following BI rate decision",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-losses-following-bi-rate-decision-202609230755",
+      "published": "Wed, 23 Sep 2026 07:55:10 GMT",
+      "ts": 1790150110
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro remains muted after mixed German flash PMI data",
+      "link": "https://www.fxstreet.com/news/euro-remains-muted-after-mixed-german-flash-pmi-data-202609230752",
+      "published": "Wed, 23 Sep 2026 07:52:07 GMT",
+      "ts": 1790149927
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI Oil hovers at two-week lows near $89.00 awaiting Middle East developments",
+      "link": "https://www.fxstreet.com/news/wti-oil-hovers-at-two-week-lows-near-8900-awaiting-middle-east-developments-202609230751",
+      "published": "Wed, 23 Sep 2026 07:51:06 GMT",
+      "ts": 1790149866
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
+      "link": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
+      "published": "Wed, 23 Sep 2026 07:49:23 +0000",
+      "ts": 1790149763
+    },
+    {
+      "source": "FXStreet",
+      "title": "Hungarian Forint: HUF outlook mixed after NBH pause – ING",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-huf-outlook-mixed-after-nbh-pause-ing-202609230747",
+      "published": "Wed, 23 Sep 2026 07:47:06 GMT",
+      "ts": 1790149626
+    },
     {
       "source": "CoinDesk",
       "title": "XRP Ledger retries upgrade that lets banks split payment and compliance duties",
@@ -22,6 +78,13 @@
       "link": "https://www.fxstreet.com/news/equities-flat-close-with-sector-rotation-deutsche-bank-202609230730",
       "published": "Wed, 23 Sep 2026 07:30:48 GMT",
       "ts": 1790148648
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Cregis Marks Two Years of Middle East Growth as Traditional Financial Firms Drive Adoption",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cregis-marks-two-years-of-middle-east-growth-as-traditional-financial-firms-drive-adoption-4912208",
+      "published": "2026-09-23 07:30:34",
+      "ts": 1790148634
     },
     {
       "source": "CoinTelegraph",
@@ -45,41 +108,6 @@
       "ts": 1790147500
     },
     {
-      "source": "FXStreet",
-      "title": "Euro nudges up against British Pound with Eurozone and UK PMIs in focus",
-      "link": "https://www.fxstreet.com/news/euro-nudges-up-against-british-pound-with-eurozone-and-uk-pmis-in-focus-202609230710",
-      "published": "Wed, 23 Sep 2026 07:10:47 GMT",
-      "ts": 1790147447
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brent: Price slide extends on pipeline restart – Danske Bank",
-      "link": "https://www.fxstreet.com/news/brent-price-slide-extends-on-pipeline-restart-danske-bank-202609230702",
-      "published": "Wed, 23 Sep 2026 07:02:46 GMT",
-      "ts": 1790146966
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar declines to near 0.5700 on hawkish Fed remarks ahead US PMI data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-to-near-05700-on-hawkish-fed-remarks-ahead-us-pmi-data-202609230654",
-      "published": "Wed, 23 Sep 2026 06:54:36 GMT",
-      "ts": 1790146476
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Testing support near 1.3300 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-testing-support-near-13300-against-us-dollar-uob-202609230643",
-      "published": "Wed, 23 Sep 2026 06:43:09 GMT",
-      "ts": 1790145789
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen weakens further against US Dollar as hawkish Fed bets dominate",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-further-against-us-dollar-as-hawkish-fed-bets-dominate-202609230631",
-      "published": "Wed, 23 Sep 2026 06:31:34 GMT",
-      "ts": 1790145094
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin steady near $87k as ETF inflows soar; Trump-Xi summit in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
@@ -99,13 +127,6 @@
       "link": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 05:34:49 +0000",
       "ts": 1790141689
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee resumes decline amid hawkish Fed expectations",
-      "link": "https://www.fxstreet.com/news/indian-rupee-comes-under-pressure-amid-hawkish-fed-expectations-202609230526",
-      "published": "Wed, 23 Sep 2026 05:26:13 GMT",
-      "ts": 1790141173
     },
     {
       "source": "CoinTelegraph",
@@ -144,7 +165,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold retains intraday bearish bias as hawkish Fed lifts USD to fresh high since July 30",
+      "title": "Gold approaches $4,300 as Fed hike bets boost USD to fresh high since late July",
       "link": "https://www.fxstreet.com/news/gold-edges-lower-on-fed-driven-usd-strength-as-markets-await-trump-xi-meeting-202609230343",
       "published": "Wed, 23 Sep 2026 03:43:06 GMT",
       "ts": 1790134986
@@ -290,13 +311,6 @@
       "ts": 1790108820
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
-      "link": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 19:56:48 +0000",
-      "ts": 1790107008
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Climbs 12% As Investors Gain Confidence",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
@@ -316,13 +330,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
       "published": "Tue, 22 Sep 2026 15:21:28 +0000",
       "ts": 1790090488
-    },
-    {
-      "source": "CoinDesk",
-      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
-      "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
-      "published": "Tue, 22 Sep 2026 14:32:59 +0000",
-      "ts": 1790087579
     },
     {
       "source": "Investing Crypto",
@@ -396,31 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "HP Stock Drops After PC Maker Forecasts Industry Sales Decline",
-      "link": "https://www.investors.com/news/technology/hpq-stock-hp-forecasts-pc-industry-sales-decline/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T20:24:33Z",
-      "ts": 1790022273
+      "title": "Stocks Settle Sharply Higher as Crude Prices Plunge and Chipmakers Soar",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-sharply-higher-crude-203423357.html",
+      "published": "2026-09-21T20:34:23Z",
+      "ts": 1790022863
     },
     {
       "source": "Yahoo Finance",
-      "title": "Former LPL Employee Sues Firm, Alleging Age Discrimination",
-      "link": "https://finance.yahoo.com/small-business/articles/former-lpl-employee-sues-firm-201832165.html",
-      "published": "2026-09-21T20:18:32Z",
-      "ts": 1790021912
+      "title": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
+      "link": "https://www.investors.com/news/technology/chip-stocks-amd-stock-four-new-names-join-sox-index/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T20:33:28Z",
+      "ts": 1790022808
     },
     {
       "source": "Yahoo Finance",
-      "title": "Evercore Just Upgraded Ciena Stock. Here's Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-just-upgraded-ciena-stock-201045130.html",
-      "published": "2026-09-21T20:10:45Z",
-      "ts": 1790021445
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Summer's Hottest Stocks: These Winners Rose 50% Or More In A Lackluster Stock Market",
-      "link": "https://www.investors.com/news/stock-market-autumn-equinox-summer-sp-500/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T20:04:59Z",
-      "ts": 1790021099
+      "title": "Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T20:31:50Z",
+      "ts": 1790022710
     }
   ]
 }
