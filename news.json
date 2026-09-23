@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T03:42:23.802176Z",
+  "updated": "2026-09-23T03:54:36.505463Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "USD/IDR Price Forecast: Falls toward moving averages near 17,800 ahead of BI decision",
+      "link": "https://www.fxstreet.com/news/usd-idr-price-forecast-falls-toward-moving-averages-near-17-800-ahead-of-bi-decision-202609230344",
+      "published": "Wed, 23 Sep 2026 03:44:38 GMT",
+      "ts": 1790135078
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold edges lower on Fed-driven USD strength as markets await Trump-Xi meeting",
+      "link": "https://www.fxstreet.com/news/gold-edges-lower-on-fed-driven-usd-strength-as-markets-await-trump-xi-meeting-202609230343",
+      "published": "Wed, 23 Sep 2026 03:43:06 GMT",
+      "ts": 1790134986
+    },
     {
       "source": "CoinTelegraph",
       "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
@@ -85,20 +99,6 @@
       "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67468-vs-67459-previous-202609230115",
       "published": "Wed, 23 Sep 2026 01:15:28 GMT",
       "ts": 1790126128
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound hangs near late July lows vs USD; looks to UK/US PMIs for fresh impetus",
-      "link": "https://www.fxstreet.com/news/british-pound-hangs-near-late-july-lows-vs-usd-looks-to-uk-us-pmis-for-fresh-impetus-202609230107",
-      "published": "Wed, 23 Sep 2026 01:07:10 GMT",
-      "ts": 1790125630
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Special Envoy Witkoff says mediators completed round of US-Iran talks",
-      "link": "https://www.fxstreet.com/news/us-special-envoy-witkoff-says-mediators-completed-round-of-us-iran-talks-202609230102",
-      "published": "Wed, 23 Sep 2026 01:02:56 GMT",
-      "ts": 1790125376
     },
     {
       "source": "CoinTelegraph",
@@ -402,25 +402,25 @@
       "ts": 1790010969
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Northern Trust Stock: Is NTRS Outperforming the Financial Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/northern-trust-stock-ntrs-outperforming-160739477.html",
+      "published": "2026-09-21T16:07:39Z",
+      "ts": 1790006859
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Alphabet Pushes Deeper Into Voice AI With New Gemini Models",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-pushes-deeper-voice-ai-160354581.html",
+      "published": "2026-09-21T16:03:54Z",
+      "ts": 1790006634
+    },
+    {
       "source": "Investing Crypto",
       "title": "NOWPayments Releases Cross-Chain Payout Data Revealing Key Performance Benchmarks Across TRON, BNB Chain, and Solana",
       "link": "https://www.investing.com/news/cryptocurrency-news/nowpayments-releases-crosschain-payout-data-revealing-key-performance-benchmarks-across-tron-bnb-chain-and-solana-4909411",
       "published": "2026-09-21 16:00:37",
       "ts": 1790006437
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Old Dominion pulls forward 4.9% GRI as LTL carriers accelerate rate hikes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/old-dominion-pulls-forward-4-155854438.html",
-      "published": "2026-09-21T15:58:54Z",
-      "ts": 1790006334
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Loews Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/loews-stock-underperforming-nasdaq-155629158.html",
-      "published": "2026-09-21T15:56:29Z",
-      "ts": 1790006189
     }
   ]
 }
