@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-23T05:39:50.201525Z",
+  "updated": "2026-09-23T05:52:29.325735Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Tests 180.00 support near nine-day EMA",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-18000-support-near-nine-day-ema-202609230550",
+      "published": "Wed, 23 Sep 2026 05:50:22 GMT",
+      "ts": 1790142622
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 05:43:01 +0000",
+      "ts": 1790142181
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: 20-day EMA remains key barrier amid firm US Dollar",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-20-day-ema-remains-key-barrier-amid-firm-us-dollar-202609230542",
+      "published": "Wed, 23 Sep 2026 05:42:45 GMT",
+      "ts": 1790142165
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report",
+      "link": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 05:34:49 +0000",
+      "ts": 1790141689
+    },
     {
       "source": "FXStreet",
       "title": "Indian Rupee comes under pressure amid hawkish Fed expectations",
@@ -80,25 +108,11 @@
       "ts": 1790137998
     },
     {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Eyes further losses near $88.50, two-week low amid easing supply risk",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-eyes-further-losses-near-8850-two-week-low-amid-easing-supply-risk-202609230419",
-      "published": "Wed, 23 Sep 2026 04:19:31 GMT",
-      "ts": 1790137171
-    },
-    {
       "source": "CoinDesk",
       "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
       "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
       "published": "Wed, 23 Sep 2026 04:10:08 +0000",
       "ts": 1790136608
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/IDR Price Forecast: Falls toward moving averages near 17,800 ahead of BI decision",
-      "link": "https://www.fxstreet.com/news/usd-idr-price-forecast-falls-toward-moving-averages-near-17-800-ahead-of-bi-decision-202609230344",
-      "published": "Wed, 23 Sep 2026 03:44:38 GMT",
-      "ts": 1790135078
     },
     {
       "source": "FXStreet",
@@ -249,13 +263,6 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 20:03:30 +0000",
-      "ts": 1790107410
-    },
-    {
-      "source": "CoinTelegraph",
       "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
       "link": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 19:56:48 +0000",
@@ -288,13 +295,6 @@
       "link": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 16:21:44 +0000",
       "ts": 1790094104
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin price seeks $86K as new support after oil dips below $90",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 16:01:55 +0000",
-      "ts": 1790092915
     },
     {
       "source": "CoinDesk",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Bitcoin Surges To 8-Month High, Trips Stock Of The Day Breakout",
+      "link": "https://www.investors.com/research/ibd-stock-of-the-day/bitcoin-surges-to-8-month-high-trips-stock-of-the-day-breakout/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T18:27:07Z",
+      "ts": 1790015227
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Wall Street Analysts Love Generac Stock After a New Amazon Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-analysts-love-182530204.html",
+      "published": "2026-09-21T18:25:30Z",
+      "ts": 1790015130
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The dominance of credit megafunds has only grown in 2026",
+      "link": "https://finance.yahoo.com/markets/options/articles/dominance-credit-megafunds-only-grew-182215507.html",
+      "published": "2026-09-21T18:22:15Z",
+      "ts": 1790014935
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Notes He Is Buying The Pullback In TJX",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-buying-pullback-182048493.html",
+      "published": "2026-09-21T18:20:48Z",
+      "ts": 1790014848
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
       "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
       "published": "2026-09-21T18:17:21Z",
       "ts": 1790014641
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Priced By the People: inDrive CFO on Scaling Affordable Mobility",
-      "link": "https://finance.yahoo.com/small-business/articles/priced-people-indrive-cfo-scaling-180025160.html",
-      "published": "2026-09-21T18:00:25Z",
-      "ts": 1790013625
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why General Motors Is Now in the Missile Manufacturing Business and What It Means for GM Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-general-motors-now-missile-175953953.html",
-      "published": "2026-09-21T17:59:53Z",
-      "ts": 1790013593
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "USAR Stock Alert: USA Rare Earths Jumps on Trump's Greenland Deal Announcement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/usar-stock-alert-usa-rare-175912959.html",
-      "published": "2026-09-21T17:59:12Z",
-      "ts": 1790013552
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Uranium Stocks Are Rallying. Why NXE Got Initiated At Overweight.",
-      "link": "https://www.investors.com/news/nuclear-smr-stocks-rally-nexgen-energy-nxe-initiated-overweight/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T17:44:11Z",
-      "ts": 1790012651
     }
   ]
 }
