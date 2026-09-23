@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-23T13:13:17.137467Z",
+  "updated": "2026-09-23T13:30:30.292498Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound: BoE repricing risk keeps Pound vulnerable – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-repricing-risk-keeps-pound-vulnerable-bbh-202609231324",
+      "published": "Wed, 23 Sep 2026 13:24:36 GMT",
+      "ts": 1790169876
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Five9 President Andy Dignan Sells Shares for $244,510",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/five9-president-andy-dignan-sells-132201422.html",
+      "published": "2026-09-23T13:22:01Z",
+      "ts": 1790169721
+    },
+    {
+      "source": "FXStreet",
+      "title": "Oil rebounds above $90: Why is the Canadian Dollar still falling?",
+      "link": "https://www.fxstreet.com/news/oil-rebounds-above-90-why-is-the-canadian-dollar-still-falling-202609231317",
+      "published": "Wed, 23 Sep 2026 13:17:52 GMT",
+      "ts": 1790169472
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "IREN Has Microsoft and $14 Billion of Funding. Execution Is the Real Test",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-microsoft-14-billion-funding-131403251.html",
+      "published": "2026-09-23T13:14:03Z",
+      "ts": 1790169243
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is UroGen’s (URGN) Commercial Engine Strong Enough To Fund Its Pipeline Ambitions?",
+      "link": "https://finance.yahoo.com/healthcare/articles/urogen-urgn-commercial-engine-strong-131353171.html",
+      "published": "2026-09-23T13:13:53Z",
+      "ts": 1790169233
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oil holds near two-week lows while diesel cracks hit record",
+      "link": "https://finance.yahoo.com/news/oil-falls-increased-gulf-supply-014402051.html",
+      "published": "2026-09-23T13:10:06Z",
+      "ts": 1790169006
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Morgan Stanley Just Put a $54 Target on This AI-Pivoting Bitcoin Miner. Amazon Is Already a Customer",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-just-put-54-130939928.html",
+      "published": "2026-09-23T13:09:39Z",
+      "ts": 1790168979
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Downside bias toward 1.1400 against US Dollar – UOB",
@@ -11,15 +60,22 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "González Byass promotes Murillo to top job",
-      "link": "https://finance.yahoo.com/small-business/articles/gonz-lez-byass-promotes-murillo-130610661.html",
-      "published": "2026-09-23T13:06:10Z",
-      "ts": 1790168770
+      "title": "Space investment more than doubled to $23 billion in year to June, report says",
+      "link": "https://finance.yahoo.com/technology/articles/space-investment-more-doubled-23-130604634.html",
+      "published": "2026-09-23T13:06:04Z",
+      "ts": 1790168764
     },
     {
       "source": "Yahoo Finance",
-      "title": "Oil hovers near $100 as analysts warn Trump diesel ban would 'tighten global supply'",
-      "link": "https://finance.yahoo.com/markets/article/oil-hovers-near-100-as-analysts-warn-trump-diesel-ban-would-tighten-global-supply-130359301.html",
+      "title": "Why Sunrun’s (RUN) Virtual Power Plant Strategy Changes Everything For Its Valuation",
+      "link": "https://finance.yahoo.com/energy/articles/why-sunrun-run-virtual-power-130550763.html",
+      "published": "2026-09-23T13:05:50Z",
+      "ts": 1790168750
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oil hovers near $100 as analysts warn Trump diesel export ban would 'tighten global supply'",
+      "link": "https://finance.yahoo.com/markets/article/oil-hovers-near-100-as-analysts-warn-trump-diesel-export-ban-would-tighten-global-supply-130359301.html",
       "published": "2026-09-23T13:03:59Z",
       "ts": 1790168639
     },
@@ -29,13 +85,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
       "published": "Wed, 23 Sep 2026 13:02:43 +0000",
       "ts": 1790168563
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nvidia Just Qualified Tesla and Vertiv Products for Its New AI-Factory Standard",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-just-qualified-tesla-vertiv-130144385.html",
-      "published": "2026-09-23T13:01:44Z",
-      "ts": 1790168504
     },
     {
       "source": "CoinDesk",
@@ -73,39 +122,11 @@
       "ts": 1790168280
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Why Is Driven Brands (DRVN) Suddenly Ready To Buy Back Stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-driven-brands-drvn-suddenly-125750826.html",
-      "published": "2026-09-23T12:57:50Z",
-      "ts": 1790168270
-    },
-    {
       "source": "FXStreet",
       "title": "Gold: Next leg higher toward $5,000 – TD Securities",
       "link": "https://www.fxstreet.com/news/gold-next-leg-higher-toward-5-000-td-securities-202609231253",
       "published": "Wed, 23 Sep 2026 12:53:12 GMT",
       "ts": 1790167992
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Verisk Analytics (VRSK) Positions Well for Long-Term Expansion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/verisk-analytics-vrsk-positions-well-125301959.html",
-      "published": "2026-09-23T12:53:01Z",
-      "ts": 1790167981
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "GM’s CarPlay U-Turn: A Three-Year Bet Against Buyer Preference Finally Reverses",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gm-carplay-u-turn-three-125119218.html",
-      "published": "2026-09-23T12:51:19Z",
-      "ts": 1790167879
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here’s Why The Fund Trimmed Ross Stores (ROST) in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-fund-trimmed-ross-stores-125105870.html",
-      "published": "2026-09-23T12:51:05Z",
-      "ts": 1790167865
     },
     {
       "source": "FXStreet",
@@ -176,20 +197,6 @@
       "link": "https://www.fxstreet.com/news/swiss-franc-range-bound-trading-outlook-against-us-dollar-uob-202609231152",
       "published": "Wed, 23 Sep 2026 11:52:40 GMT",
       "ts": 1790164360
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index: Rally extend to near 101.00 as hawkish Fed narrative takes hold",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-rally-extend-to-near-10100-as-hawkish-fed-narrative-takes-hold-202609231147",
-      "published": "Wed, 23 Sep 2026 11:47:22 GMT",
-      "ts": 1790164042
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro rallies against a weak British Pound as UK business activity disappoints",
-      "link": "https://www.fxstreet.com/news/euro-accelerates-against-a-weak-british-pound-as-uk-business-activity-disappoints-202609231136",
-      "published": "Wed, 23 Sep 2026 11:36:08 GMT",
-      "ts": 1790163368
     },
     {
       "source": "CoinDesk",
@@ -393,13 +400,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 05:43:01 +0000",
       "ts": 1790142181
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "OpenAI, Anthropic, and SpaceX valuations could dwarf 45 years of IPOs",
-      "link": "https://finance.yahoo.com/technology/article/openai-anthropic-and-spacex-valuations-could-dwarf-45-years-of-ipos-223724805.html",
-      "published": "2026-09-22T22:37:24Z",
-      "ts": 1790116644
     },
     {
       "source": "Investing Crypto",
