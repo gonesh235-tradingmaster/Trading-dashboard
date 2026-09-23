@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-23T18:53:26.771834Z",
+  "updated": "2026-09-23T19:09:06.976459Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
+      "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
+      "published": "Wed, 23 Sep 2026 19:04:52 +0000",
+      "ts": 1790190292
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 19:00:00 GMT",
+      "ts": 1790190000
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
+      "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
+      "published": "Wed, 23 Sep 2026 18:59:36 +0000",
+      "ts": 1790189976
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s where thousands of homeowners face higher insurance bills after FEMA updated its flood maps",
+      "link": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 18:55:00 GMT",
+      "ts": 1790189700
+    },
     {
       "source": "Investing Forex",
       "title": "Treasury yields soar, 10-yr at highest since July 2007 on hot U.S. data, Fedspeak",
@@ -67,7 +95,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren’t slowing the U.S. economy down.",
+      "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren’t stopping the U.S. economy.",
       "link": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 18:06:00 GMT",
       "ts": 1790186760
@@ -113,20 +141,6 @@
       "link": "https://www.marketwatch.com/story/fuel-prices-keep-rising-and-so-do-democrats-chances-for-winning-both-the-house-and-senate-c4541380?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 17:49:00 GMT",
       "ts": 1790185740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 17:16:00 GMT",
-      "ts": 1790183760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 17:15:00 GMT",
-      "ts": 1790183700
     },
     {
       "source": "CoinTelegraph",
@@ -318,20 +332,6 @@
       "ts": 1790159291
     },
     {
-      "source": "CoinDesk",
-      "title": "BitMEX shuts down: perpetuals pioneer officially closes it doors after 11 years",
-      "link": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open",
-      "published": "Wed, 23 Sep 2026 10:24:44 +0000",
-      "ts": 1790159084
-    },
-    {
-      "source": "CoinDesk",
-      "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
-      "link": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
-      "published": "Wed, 23 Sep 2026 09:57:24 +0000",
-      "ts": 1790157444
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as dollar resilience builds on hawkish Fed bets",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
@@ -365,6 +365,13 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
       "published": "2026-09-22 20:59:43",
       "ts": 1790110783
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html",
+      "published": "2026-09-22T20:15:19Z",
+      "ts": 1790108119
     },
     {
       "source": "Yahoo Finance",
@@ -403,24 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dogecoin Targets 30% Surge Following $12.66M Short Squeeze",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-targets-30-surge-following-100106959.html",
-      "published": "2026-09-22T10:01:06Z",
-      "ts": 1790071266
+      "title": "FDA Approves Fayuvi. What Does It Mean for Ultragenyx (RARE)’s 2027 Profitability Target?",
+      "link": "https://finance.yahoo.com/healthcare/articles/fda-approves-fayuvi-does-mean-101851628.html",
+      "published": "2026-09-22T10:18:51Z",
+      "ts": 1790072331
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mark Cuban says healthcare companies are sued daily, usually lose and are 'too big to care.' He has a better solution",
-      "link": "https://finance.yahoo.com/healthcare/articles/mark-cuban-says-healthcare-companies-100000881.html",
-      "published": "2026-09-22T10:00:00Z",
-      "ts": 1790071200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Is News Corporation's Stock Performance Compared to Other Communication Services Stocks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/news-corporations-stock-performance-compared-094348036.html",
-      "published": "2026-09-22T09:43:48Z",
-      "ts": 1790070228
+      "title": "1 in 5 Americans thinks sports betting is an ‘investment’ — but the data says something different",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-5-americans-thinks-sports-101500032.html",
+      "published": "2026-09-22T10:15:00Z",
+      "ts": 1790072100
     }
   ]
 }
