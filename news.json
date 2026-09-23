@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T03:26:56.673151Z",
+  "updated": "2026-09-23T03:42:23.802176Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
+      "link": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 03:33:15 +0000",
+      "ts": 1790134395
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index jumps to near 100.70 as Fed maintains hawkish rhetoric",
@@ -290,13 +297,6 @@
       "ts": 1790084281
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Big Questions: Does Satoshi actually own 1.1 million Bitcoin?",
-      "link": "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 13:30:00 +0000",
-      "ts": 1790083800
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
       "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Red Cat CEO Just Sold $1.6 Million of Stock. Wall Street Sees 144% Rally Ahead.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-ceo-just-sold-154335964.html",
-      "published": "2026-09-21T15:43:35Z",
-      "ts": 1790005415
+      "title": "Old Dominion pulls forward 4.9% GRI as LTL carriers accelerate rate hikes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/old-dominion-pulls-forward-4-155854438.html",
+      "published": "2026-09-21T15:58:54Z",
+      "ts": 1790006334
     },
     {
       "source": "Yahoo Finance",
-      "title": "DIS Stock Alert: What to Know as Disney Creates First-Ever Chief Technology Officer Role",
-      "link": "https://finance.yahoo.com/technology/articles/dis-stock-alert-know-disney-154302404.html",
-      "published": "2026-09-21T15:43:02Z",
-      "ts": 1790005382
+      "title": "Is Loews Stock Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/loews-stock-underperforming-nasdaq-155629158.html",
+      "published": "2026-09-21T15:56:29Z",
+      "ts": 1790006189
     }
   ]
 }
