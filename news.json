@@ -1,13 +1,76 @@
 {
-  "updated": "2026-09-23T11:53:11.624269Z",
+  "updated": "2026-09-23T12:13:01.513313Z",
   "count": 60,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "McDonald's bets on hand-breaded chicken, AI drive-thrus to fend off Burger King",
+      "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-chicken-ai-drive-thrus-to-fend-off-burger-king-120418093.html",
+      "published": "2026-09-23T12:04:18Z",
+      "ts": 1790165058
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "3 Dividend Stocks Trading Cheap Enough to Buy Meaningful Stakes for Under $1,000",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-trading-cheap-120049524.html",
+      "published": "2026-09-23T12:00:49Z",
+      "ts": 1790164849
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What the Trump-Xi meeting could do to strengthen the guardrails for AI",
+      "link": "https://www.marketwatch.com/story/what-the-trump-xi-meeting-coulddo-to-strengthen-the-guardrails-for-ai-298a5432?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "ts": 1790164800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Fall After Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T11:57:01Z",
+      "ts": 1790164621
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: Range-bound trading outlook against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-range-bound-trading-outlook-against-us-dollar-uob-202609231152",
+      "published": "Wed, 23 Sep 2026 11:52:40 GMT",
+      "ts": 1790164360
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oil holds near two-week lows while diesel cracks hit record peak",
+      "link": "https://finance.yahoo.com/news/oil-falls-increased-gulf-supply-014402051.html",
+      "published": "2026-09-23T11:51:34Z",
+      "ts": 1790164294
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Casey’s General Stores (CASY) Beat Estimates, So Why Did Wall Street Cut Its Targets?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/casey-general-stores-casy-beat-115123835.html",
+      "published": "2026-09-23T11:51:23Z",
+      "ts": 1790164283
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar Index: Rally extend to near 101.00 as hawkish Fed narrative takes hold",
       "link": "https://www.fxstreet.com/news/us-dollar-index-rally-extend-to-near-10100-as-hawkish-fed-narrative-takes-hold-202609231147",
       "published": "Wed, 23 Sep 2026 11:47:22 GMT",
       "ts": 1790164042
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Reddit (RDDT) Has Strong Financials. Are User Trends the Bigger Risk?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-strong-financials-user-114554112.html",
+      "published": "2026-09-23T11:45:54Z",
+      "ts": 1790163954
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Analysts Think 6 S&P 500 Stocks Are Grossly Overvalued",
+      "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-analysts-think-stocks-are-grossly-overvalued/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T11:42:58Z",
+      "ts": 1790163778
     },
     {
       "source": "MarketWatch",
@@ -18,17 +81,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Canada’s TD Bank pledges C$25m for AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/canada-td-bank-pledges-c-113918570.html",
-      "published": "2026-09-23T11:39:18Z",
-      "ts": 1790163558
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Bitcoin and ethereum prices today, Wednesday, September 23, 2026: Crypto prices open near 8-month highs. Is the crypto winter over?",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-23-2026-crypto-prices-open-near-8-month-highs-is-the-crypto-winter-over-113908671.html",
       "published": "2026-09-23T11:39:08Z",
       "ts": 1790163548
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says Costco (COST) “Stock’s Acting Poorly”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-costco-cost-113643371.html",
+      "published": "2026-09-23T11:36:43Z",
+      "ts": 1790163403
     },
     {
       "source": "FXStreet",
@@ -38,25 +101,11 @@
       "ts": 1790163368
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T11:34:00Z",
-      "ts": 1790163240
-    },
-    {
       "source": "FXStreet",
       "title": "Swedish Krona: Growth and future rate outlook favour SEK – Societe Generale",
       "link": "https://www.fxstreet.com/news/swedish-krona-growth-and-future-rate-outlook-favour-sek-societe-generale-202609231133",
       "published": "Wed, 23 Sep 2026 11:33:51 GMT",
       "ts": 1790163231
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A 70-year-old owes $200,000 in parent student loans for his kids — experts warn against draining retirement to pay it",
-      "link": "https://finance.yahoo.com/small-business/articles/70-old-owes-200-000-113000217.html",
-      "published": "2026-09-23T11:30:00Z",
-      "ts": 1790163000
     },
     {
       "source": "CoinDesk",
@@ -73,20 +122,6 @@
       "ts": 1790162930
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Silver price today, Wednesday, September 23, 2026:  Silver prices settle ahead of key U.S.-China summit",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-23-2026-silver-prices-settle-ahead-of-key-us-china-summit-111845856.html",
-      "published": "2026-09-23T11:18:45Z",
-      "ts": 1790162325
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Elon Musk Is Teasing a Tesla-SpaceX Merger Again. Terafab Shows Why AI Could Be the Logic",
-      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-teasing-tesla-spacex-111832696.html",
-      "published": "2026-09-23T11:18:32Z",
-      "ts": 1790162312
-    },
-    {
       "source": "MarketWatch",
       "title": "Why CoreWeave’s beaten-down stock could be due for a major comeback",
       "link": "https://www.marketwatch.com/story/why-coreweaves-beaten-down-stock-could-be-due-for-a-major-comeback-46068534?mod=mw_rss_topstories",
@@ -101,20 +136,6 @@
       "ts": 1790162100
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Can Zenas BioPharma’s (ZBIO) Clinical Pipeline Justify Its Heavy Cash Burn?",
-      "link": "https://finance.yahoo.com/healthcare/articles/zenas-biopharma-zbio-clinical-pipeline-111448242.html",
-      "published": "2026-09-23T11:14:48Z",
-      "ts": 1790162088
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Breakout Watch: Aerospace Rival Leaves Boeing, Airbus In The Dust",
-      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/embraer-embj-stock-jets-past-boeing-airbus/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T11:14:48Z",
-      "ts": 1790162088
-    },
-    {
       "source": "MarketWatch",
       "title": "Financial stocks are falling as rates rise. Why that’s a problem for the broader market.",
       "link": "https://www.marketwatch.com/story/financial-stocks-are-falling-as-rates-rise-why-thats-a-problem-for-the-broader-market-70bd9b04?mod=mw_rss_topstories",
@@ -127,13 +148,6 @@
       "link": "https://www.fxstreet.com/news/oil-prices-retreat-on-saudi-exports-and-us-data-ing-202609231113",
       "published": "Wed, 23 Sep 2026 11:13:50 GMT",
       "ts": 1790162030
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Can Addus HomeCare (ADUS) Compound Wealth at Scale?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/addus-homecare-adus-compound-wealth-110818352.html",
-      "published": "2026-09-23T11:08:18Z",
-      "ts": 1790161698
     },
     {
       "source": "FXStreet",
@@ -220,13 +234,6 @@
       "ts": 1790157756
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: PMI strength limits downside against US Dollar – BBH",
-      "link": "https://www.fxstreet.com/news/euro-pmi-strength-limits-downside-against-us-dollar-bbh-202609230958",
-      "published": "Wed, 23 Sep 2026 09:58:03 GMT",
-      "ts": 1790157483
-    },
-    {
       "source": "CoinDesk",
       "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
       "link": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
@@ -281,13 +288,6 @@
       "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 09:15:00 GMT",
       "ts": 1790154900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The real estate portfolio of Zendaya and Tom Holland, plus her plans for a room just for her wedding dress",
-      "link": "https://www.marketwatch.com/story/the-real-estate-portfolio-of-zendaya-and-tom-holland-plus-her-plans-for-a-room-just-for-her-wedding-dress-daa9cc93?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 09:01:00 GMT",
-      "ts": 1790154060
     },
     {
       "source": "CoinTelegraph",
