@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-23T06:12:51.662243Z",
+  "updated": "2026-09-23T06:35:12.951439Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen weakens further against US Dollar as hawkish Fed bets dominate",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-further-against-us-dollar-as-hawkish-fed-bets-dominate-202609230631",
+      "published": "Wed, 23 Sep 2026 06:31:34 GMT",
+      "ts": 1790145094
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar continues to gather strength ahead of PMI data",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-continues-to-gather-strength-ahead-of-pmi-data-202609230629",
+      "published": "Wed, 23 Sep 2026 06:29:36 GMT",
+      "ts": 1790144976
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: De-escalation risk weighs on EUR against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-de-escalation-risk-weighs-on-eur-against-us-dollar-commerzbank-202609230629",
+      "published": "Wed, 23 Sep 2026 06:29:33 GMT",
+      "ts": 1790144973
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecasts: XAG/USD holds within range with bulls capped below $68.00 area",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-holds-within-range-with-bulls-capped-below-6800-area-202609230617",
+      "published": "Wed, 23 Sep 2026 06:17:55 GMT",
+      "ts": 1790144275
+    },
     {
       "source": "FXStreet",
       "title": "British Pound weakens to near 1.3300 as UK fiscal deficit exceeds market expectations",
@@ -66,39 +94,11 @@
       "ts": 1790140582
     },
     {
-      "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Holds losses below 112.00, retaining bearish outlook beneath 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-holds-losses-below-11200-retaining-bearish-outlook-beneath-100-day-sma-202609230513",
-      "published": "Wed, 23 Sep 2026 05:13:04 GMT",
-      "ts": 1790140384
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's on a streak it hasn't hit since 2012",
       "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
       "published": "Wed, 23 Sep 2026 05:12:42 +0000",
       "ts": 1790140362
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc weakens as US Dollar rises on hawkish Fed sentiment",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-rises-on-hawkish-fed-sentiment-202609230504",
-      "published": "Wed, 23 Sep 2026 05:04:09 GMT",
-      "ts": 1790139849
-    },
-    {
-      "source": "FXStreet",
-      "title": "India's HSBC Manufacturing PMI climbs to 55.7 in September",
-      "link": "https://www.fxstreet.com/news/indias-hsbc-manufacturing-pmi-climbs-to-557-in-september-202609230501",
-      "published": "Wed, 23 Sep 2026 05:01:35 GMT",
-      "ts": 1790139695
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Hits fresh low since July 29, around 1.1425 as USD stays firm",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-hits-fresh-low-since-july-29-around-11425-as-usd-stays-firm-202609230459",
-      "published": "Wed, 23 Sep 2026 04:59:25 GMT",
-      "ts": 1790139565
     },
     {
       "source": "CoinTelegraph",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bitcoin Surges To 8-Month High, Trips Stock Of The Day Breakout",
-      "link": "https://www.investors.com/research/ibd-stock-of-the-day/bitcoin-surges-to-8-month-high-trips-stock-of-the-day-breakout/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T18:27:07Z",
-      "ts": 1790015227
+      "title": "‘Substantially Higher Than a Car’: XPeng’s CEO on What Each Robot Could Earn. First It Has to Survive a Brutal Price War.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/substantially-higher-car-xpeng-ceo-190125193.html",
+      "published": "2026-09-21T19:01:25Z",
+      "ts": 1790017285
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Wall Street Analysts Love Generac Stock After a New Amazon Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-analysts-love-182530204.html",
-      "published": "2026-09-21T18:25:30Z",
-      "ts": 1790015130
+      "title": "Needham Just Upped Its Price Target on OKTA Stock. Here's Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/needham-just-upped-price-target-185554859.html",
+      "published": "2026-09-21T18:55:54Z",
+      "ts": 1790016954
     },
     {
       "source": "Yahoo Finance",
-      "title": "The dominance of credit megafunds has only grown in 2026",
-      "link": "https://finance.yahoo.com/markets/options/articles/dominance-credit-megafunds-only-grew-182215507.html",
-      "published": "2026-09-21T18:22:15Z",
-      "ts": 1790014935
+      "title": "Why Nano Nuclear Energy Stock Is Powering Higher Today",
+      "link": "https://finance.yahoo.com/energy/articles/why-nano-nuclear-energy-stock-185059384.html",
+      "published": "2026-09-21T18:50:59Z",
+      "ts": 1790016659
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Notes He Is Buying The Pullback In TJX",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-buying-pullback-182048493.html",
-      "published": "2026-09-21T18:20:48Z",
-      "ts": 1790014848
+      "title": "Why It’s Time to Load Up on Meta Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-time-load-meta-stock-184857569.html",
+      "published": "2026-09-21T18:48:57Z",
+      "ts": 1790016537
     },
     {
       "source": "Yahoo Finance",
-      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
-      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
-      "published": "2026-09-21T18:17:21Z",
-      "ts": 1790014641
+      "title": "Arm Holdings (ARM) Soars 17% on Ambitious $2B Revenue Goal; Hedge Funds Bullish",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-soars-17-184855651.html",
+      "published": "2026-09-21T18:48:55Z",
+      "ts": 1790016535
     }
   ]
 }
