@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T05:52:58.201475Z",
+  "updated": "2026-09-24T06:13:12.145570Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "ECB's Kocher says must prevent too high inflation, becoming entrenched",
+      "link": "https://www.fxstreet.com/news/ecbs-kocher-says-must-prevent-too-high-inflation-becoming-entrenched-202609240608",
+      "published": "Thu, 24 Sep 2026 06:08:19 GMT",
+      "ts": 1790230099
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI falls below $91.50 amid hope for US-Iran diplomatic progress",
+      "link": "https://www.fxstreet.com/news/wti-falls-below-9150-amid-hope-for-us-iran-diplomatic-progress-202609240607",
+      "published": "Thu, 24 Sep 2026 06:07:36 GMT",
+      "ts": 1790230056
+    },
     {
       "source": "FXStreet",
       "title": "British Pound holds gains despite stronger US PMI, hawkish Fed stance",
@@ -85,20 +99,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
       "published": "Thu, 24 Sep 2026 04:13:01 +0000",
       "ts": 1790223181
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar consolidates around 0.5675 vs USD as bears await Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-consolidates-around-05675-vs-usd-as-bears-await-trump-xi-summit-202609240408",
-      "published": "Thu, 24 Sep 2026 04:08:14 GMT",
-      "ts": 1790222894
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Softens below 180.00, bearish bias persists below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-softens-below-18000-bearish-bias-persists-below-100-day-sma-202609240407",
-      "published": "Thu, 24 Sep 2026 04:07:33 GMT",
-      "ts": 1790222853
     },
     {
       "source": "FXStreet",
@@ -389,10 +389,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corporate bond buyers get picky with flood of AI debt",
-      "link": "https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html",
-      "published": "2026-09-22T18:20:50Z",
-      "ts": 1790101250
+      "title": "SanDisk Just Scored a New 'Buy' Rating. Here's Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-just-scored-buy-rating-184617334.html",
+      "published": "2026-09-22T18:46:17Z",
+      "ts": 1790102777
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "NetApp (NTAP) Just Deepened Its VMware Cloud Integration. How Much Does It Matter?",
+      "link": "https://finance.yahoo.com/technology/articles/netapp-ntap-just-deepened-vmware-183727937.html",
+      "published": "2026-09-22T18:37:27Z",
+      "ts": 1790102247
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "This High-Growth Energy Stock Continues to Plunge. Don’t Rush to Buy the Dip.",
+      "link": "https://finance.yahoo.com/energy/articles/high-growth-energy-stock-continues-183638227.html",
+      "published": "2026-09-22T18:36:38Z",
+      "ts": 1790102198
     },
     {
       "source": "Yahoo Finance",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
       "published": "2026-09-22T18:09:01Z",
       "ts": 1790100541
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Climbs 12% As Investors Gain Confidence",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
-      "published": "2026-09-22 18:03:00",
-      "ts": 1790100180
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Caris Life Sciences Coasts Past A Buy Point; Why This Texas Biotech Researcher Deserves A Look",
-      "link": "https://www.investors.com/research/caris-life-sciences-cai-stock-biotech-texas/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T18:01:22Z",
-      "ts": 1790100082
     }
   ]
 }
