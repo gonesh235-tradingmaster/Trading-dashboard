@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-24T17:09:18.305277Z",
+  "updated": "2026-09-24T17:25:31.689629Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Decline nears support zone against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-decline-nears-support-zone-against-us-dollar-scotiabank-202609241721",
+      "published": "Thu, 24 Sep 2026 17:21:48 GMT",
+      "ts": 1790270508
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
+      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 17:15:00 GMT",
+      "ts": 1790270100
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
+      "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 17:14:35 +0000",
+      "ts": 1790270075
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+      "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 17:13:38 +0000",
+      "ts": 1790270018
+    },
     {
       "source": "FXStreet",
       "title": "US-Iran talks eye phased Hormuz deal, but leverage stalls progress – Reuters",
@@ -150,25 +178,11 @@
       "ts": 1790262983
     },
     {
-      "source": "MarketWatch",
-      "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
-      "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 15:08:00 GMT",
-      "ts": 1790262480
-    },
-    {
       "source": "CoinDesk",
       "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
       "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
       "published": "Thu, 24 Sep 2026 15:07:18 +0000",
       "ts": 1790262438
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States: Bifurcated revival with advanced sectors – ING",
-      "link": "https://www.fxstreet.com/news/united-states-bifurcated-revival-with-advanced-sectors-ing-202609241505",
-      "published": "Thu, 24 Sep 2026 15:05:31 GMT",
-      "ts": 1790262331
     },
     {
       "source": "CoinDesk",
@@ -311,25 +325,11 @@
       "ts": 1790244909
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high",
-      "link": "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 10:15:03 +0000",
-      "ts": 1790244903
-    },
-    {
       "source": "Investing Forex",
       "title": "Greenback notched fourth daily gain as hot data reignite interest rate repricing",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
       "published": "2026-09-24 10:03:24",
       "ts": 1790244204
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 09:32:44 +0000",
-      "ts": 1790242364
     },
     {
       "source": "Investing Crypto",
