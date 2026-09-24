@@ -1,7 +1,77 @@
 {
-  "updated": "2026-09-24T14:46:31.893023Z",
+  "updated": "2026-09-24T15:10:41.816491Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
+      "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 15:08:00 GMT",
+      "ts": 1790262480
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
+      "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
+      "published": "Thu, 24 Sep 2026 15:07:18 +0000",
+      "ts": 1790262438
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States: Bifurcated revival with advanced sectors – ING",
+      "link": "https://www.fxstreet.com/news/united-states-bifurcated-revival-with-advanced-sectors-ing-202609241505",
+      "published": "Thu, 24 Sep 2026 15:05:31 GMT",
+      "ts": 1790262331
+    },
+    {
+      "source": "MarketWatch",
+      "title": "3 things Micron investors need to watch as the stakes get higher",
+      "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 14:57:00 GMT",
+      "ts": 1790261820
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
+      "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 14:50:00 GMT",
+      "ts": 1790261400
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
+      "published": "Thu, 24 Sep 2026 14:49:28 +0000",
+      "ts": 1790261368
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Fed resilience supports gains – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-resilience-supports-gains-bbh-202609241448",
+      "published": "Thu, 24 Sep 2026 14:48:02 GMT",
+      "ts": 1790261282
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed's Paulson warns more hikes possible as inflation fight hardens",
+      "link": "https://www.fxstreet.com/news/feds-paulson-warns-more-hikes-possible-as-inflation-fight-hardens-202609241447",
+      "published": "Thu, 24 Sep 2026 14:47:10 GMT",
+      "ts": 1790261230
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Meta wants to put its Muse AI assistant on your face — but will consumers buy in?",
+      "link": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 14:44:00 GMT",
+      "ts": 1790261040
+    },
+    {
+      "source": "CoinDesk",
+      "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
+      "link": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
+      "published": "Thu, 24 Sep 2026 14:41:05 +0000",
+      "ts": 1790260865
+    },
     {
       "source": "MarketWatch",
       "title": "Inflation could cost Republicans the Senate — this chart shows how",
@@ -87,20 +157,6 @@
       "ts": 1790258130
     },
     {
-      "source": "MarketWatch",
-      "title": "With the stock market ‘priced for perfection,’ the S&P 500 is in danger of a 20% slump next year",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 13:40:00 GMT",
-      "ts": 1790257200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Oracle’s stock is falling as investors fear a data-center setback",
-      "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 13:39:00 GMT",
-      "ts": 1790257140
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -122,13 +178,6 @@
       "ts": 1790256224
     },
     {
-      "source": "FXStreet",
-      "title": "Germany: Cyclical resilience versus structural risks – ING",
-      "link": "https://www.fxstreet.com/news/germany-cyclical-resilience-versus-structural-risks-ing-202609241322",
-      "published": "Thu, 24 Sep 2026 13:22:58 GMT",
-      "ts": 1790256178
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin retreats to $83.6k as yields, oil spike spook risk",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
@@ -136,32 +185,11 @@
       "ts": 1790255915
     },
     {
-      "source": "MarketWatch",
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 13:15:00 GMT",
-      "ts": 1790255700
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. 30 year yield hits 2004-high as bond rout deepens",
       "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
       "published": "2026-09-24 13:07:15",
       "ts": 1790255235
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CHF Price Forecast: RSI nears overbought territory as bulls remain in control",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rsi-nears-overbought-territory-as-bulls-remain-in-control-202609241302",
-      "published": "Thu, 24 Sep 2026 13:02:14 GMT",
-      "ts": 1790254934
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My wife wants to buy her late mother’s home, but her siblings won’t let her. Should I get involved?",
-      "link": "https://www.marketwatch.com/story/my-wife-wants-to-buy-her-late-mothers-home-but-her-siblings-wont-let-her-should-i-get-involved-1146fbb2?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 13:01:00 GMT",
-      "ts": 1790254860
     },
     {
       "source": "CoinDesk",
@@ -183,13 +211,6 @@
       "link": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 13:00:00 +0000",
       "ts": 1790254800
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Downside risks for EUR against US Dollar – Rabobank",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-for-eur-against-us-dollar-rabobank-202609241255",
-      "published": "Thu, 24 Sep 2026 12:55:58 GMT",
-      "ts": 1790254558
     },
     {
       "source": "Investing Forex",
@@ -255,13 +276,6 @@
       "ts": 1790247268
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
-      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
-      "published": "Thu, 24 Sep 2026 10:30:28 +0000",
-      "ts": 1790245828
-    },
-    {
       "source": "CoinTelegraph",
       "title": "EU banking watchdog calls for crypto lending rules under MiCA",
       "link": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -290,25 +304,11 @@
       "ts": 1790244903
     },
     {
-      "source": "CoinDesk",
-      "title": "Traders price in 4 Fed rate hikes by June 2027 as bitcoin slides below $83,000",
-      "link": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000",
-      "published": "Thu, 24 Sep 2026 10:11:51 +0000",
-      "ts": 1790244711
-    },
-    {
       "source": "Investing Forex",
       "title": "Greenback notched fourth daily gain as hot data reignite interest rate repricing",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
       "published": "2026-09-24 10:03:24",
       "ts": 1790244204
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
-      "link": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
-      "published": "Thu, 24 Sep 2026 09:48:09 +0000",
-      "ts": 1790243289
     },
     {
       "source": "CoinTelegraph",
