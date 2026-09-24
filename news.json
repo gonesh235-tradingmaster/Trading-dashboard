@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T10:10:19.784081Z",
+  "updated": "2026-09-24T10:27:25.689168Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high",
+      "link": "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 10:15:03 +0000",
+      "ts": 1790244903
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Traders price in 4 Fed rate hikes by June 2027 as bitcoin slides below $83,000",
+      "link": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000",
+      "published": "Thu, 24 Sep 2026 10:11:51 +0000",
+      "ts": 1790244711
+    },
     {
       "source": "FXStreet",
       "title": "BoE’s Dhingra says financial conditions have already done much of the tightening",
@@ -304,13 +318,6 @@
       "ts": 1790196236
     },
     {
-      "source": "CoinTelegraph",
-      "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
-      "link": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 20:28:34 +0000",
-      "ts": 1790195314
-    },
-    {
       "source": "CoinDesk",
       "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
       "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
@@ -353,13 +360,6 @@
       "ts": 1790177195
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
-      "published": "Wed, 23 Sep 2026 15:07:21 +0000",
-      "ts": 1790176041
-    },
-    {
       "source": "Investing Crypto",
       "title": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
       "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-and-marketscom-announce-promotional-collaboration-ahead-of-token2049-singapore-4913473",
@@ -396,6 +396,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Telix (TLX) to Buy Germany’s ITM for up to $2.35 Billion to Lock in its Cancer Isotope Supply",
+      "link": "https://finance.yahoo.com/healthcare/articles/telix-tlx-buy-germany-itm-225243351.html",
+      "published": "2026-09-22T22:52:43Z",
+      "ts": 1790117563
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Viking Therapeutics (VKTX) Rockets 35.7% After Weight Loss Drug Trial — What’s The Selling Point?",
       "link": "https://finance.yahoo.com/healthcare/articles/viking-therapeutics-vktx-rockets-35-223731784.html",
       "published": "2026-09-22T22:37:31Z",
@@ -410,17 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Broadcom Just Named Its Next AI Customer. It Isn’t Google.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-just-named-next-ai-222044865.html",
-      "published": "2026-09-22T22:20:44Z",
-      "ts": 1790115644
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nvidia Backed SB Energy’s $50 Billion Valuation Push. Wall Street Just Hit the Brakes",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-sb-energy-50-221736610.html",
-      "published": "2026-09-22T22:17:36Z",
-      "ts": 1790115456
+      "title": "Detroit Automakers Turn Back the Clock on the Arsenal of Democracy -- Investors Should Cheer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/detroit-automakers-turn-back-clock-222500213.html",
+      "published": "2026-09-22T22:25:00Z",
+      "ts": 1790115900
     }
   ]
 }
