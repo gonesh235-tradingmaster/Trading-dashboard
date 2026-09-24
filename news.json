@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T01:09:34.276592Z",
+  "updated": "2026-09-24T01:25:34.261046Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound bears retain control near July lows amid Fed-BoE divergence",
+      "link": "https://www.fxstreet.com/news/british-pound-bears-retain-control-near-july-lows-amid-fed-boe-divergence-202609240118",
+      "published": "Thu, 24 Sep 2026 01:18:46 GMT",
+      "ts": 1790212726
+    },
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7489 vs. 6.7468 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67489-vs-67468-previous-202609240115",
+      "published": "Thu, 24 Sep 2026 01:15:38 GMT",
+      "ts": 1790212538
+    },
     {
       "source": "FXStreet",
       "title": "Euro weakens below 1.1400 as Fed rate hike expectations reinforce US Dollar strength",
@@ -64,20 +78,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-amid-soaring-us-yields-ahead-of-jobs-data-202609232306",
       "published": "Wed, 23 Sep 2026 23:06:51 GMT",
       "ts": 1790204811
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar slides toward its range floor as US yields climb",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slides-toward-its-range-floor-as-us-yields-climb-202609232300",
-      "published": "Wed, 23 Sep 2026 23:00:00 GMT",
-      "ts": 1790204400
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen gives back most of its rally as Fed hike talk grows",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gives-back-most-of-its-rally-as-fed-hike-talk-grows-202609232245",
-      "published": "Wed, 23 Sep 2026 22:45:00 GMT",
-      "ts": 1790203500
     },
     {
       "source": "Investing Crypto",
@@ -388,39 +388,39 @@
       "ts": 1790100180
     },
     {
-      "source": "Investing Crypto",
-      "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
-      "link": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
-      "published": "2026-09-22 13:38:01",
-      "ts": 1790084281
+      "source": "Yahoo Finance",
+      "title": "Kingfisher Screws Its Profit Guidance Higher",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kingfisher-screws-profit-guidance-higher-135904080.html",
+      "published": "2026-09-22T13:59:04Z",
+      "ts": 1790085544
     },
     {
       "source": "Yahoo Finance",
-      "title": "Goldman Sachs says 'lower happiness' — not the economy — explains why consumer confidence hit its second-lowest level",
-      "link": "https://finance.yahoo.com/economy/articles/goldman-sachs-says-lower-happiness-133000625.html",
-      "published": "2026-09-22T13:30:00Z",
-      "ts": 1790083800
+      "title": "5 Questions With: Boston Questrom’s Leadership Team",
+      "link": "https://finance.yahoo.com/small-business/articles/5-questions-boston-questrom-leadership-135859908.html",
+      "published": "2026-09-22T13:58:59Z",
+      "ts": 1790085539
     },
     {
       "source": "Yahoo Finance",
-      "title": "US Apartment Landlords Face a $1.8 Trillion Debt Wall — Nearly $300 Billion Comes Due This Year as Refinancing Costs Soar",
-      "link": "https://finance.yahoo.com/real-estate/articles/us-apartment-landlords-face-1-132654449.html",
-      "published": "2026-09-22T13:26:54Z",
-      "ts": 1790083614
+      "title": "US Legislators Are Debating a Diesel Export Ban Ahead of Midterms — Here's Why",
+      "link": "https://finance.yahoo.com/news/us-legislators-debating-diesel-export-135702135.html",
+      "published": "2026-09-22T13:57:02Z",
+      "ts": 1790085422
     },
     {
       "source": "Yahoo Finance",
-      "title": "Binance Investigated By U.S. For Potential Sanctions Violations",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-investigated-u-potential-sanctions-132500534.html",
-      "published": "2026-09-22T13:25:00Z",
-      "ts": 1790083500
+      "title": "Is International Paper Stock Underperforming the Dow?",
+      "link": "https://finance.yahoo.com/news/international-paper-stock-underperforming-dow-135035800.html",
+      "published": "2026-09-22T13:50:35Z",
+      "ts": 1790085035
     },
     {
       "source": "Yahoo Finance",
-      "title": "16 trucking companies hit bankruptcy court in less than a month",
-      "link": "https://finance.yahoo.com/small-business/articles/16-trucking-companies-hit-bankruptcy-131909533.html",
-      "published": "2026-09-22T13:19:09Z",
-      "ts": 1790083149
+      "title": "Elon Musk’s X Offers Crypto Trading To Users",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-x-offers-crypto-134900718.html",
+      "published": "2026-09-22T13:49:00Z",
+      "ts": 1790084940
     }
   ]
 }
