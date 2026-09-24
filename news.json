@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T04:10:06.882265Z",
+  "updated": "2026-09-24T04:27:09.424516Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
+      "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
+      "published": "Thu, 24 Sep 2026 04:13:01 +0000",
+      "ts": 1790223181
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar consolidates around 0.5675 vs USD as bears await Trump-Xi summit",
@@ -339,13 +346,6 @@
       "ts": 1790160164
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
-      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-consolidates-near-usd86-000-as-rally-narrows-and-brent-slips-below-usd100",
-      "published": "Wed, 23 Sep 2026 10:28:11 +0000",
-      "ts": 1790159291
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as dollar resilience builds on hawkish Fed bets",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
@@ -396,6 +396,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Why Graco (GGG) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-graco-ggg-q2-detractor-163529754.html",
+      "published": "2026-09-22T16:35:29Z",
+      "ts": 1790094929
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Myers Industries (MYE) Was a Top Performer for Gabelli in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-myers-industries-mye-top-163520531.html",
+      "published": "2026-09-22T16:35:20Z",
+      "ts": 1790094920
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Why Crane Co. (CR) Was Among Gabelli’s Top Q2 Performers",
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-crane-co-cr-among-163509000.html",
       "published": "2026-09-22T16:35:09Z",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-gorman-rupp-co-grc-163458570.html",
       "published": "2026-09-22T16:34:58Z",
       "ts": 1790094898
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Shopify Stock, Twilio Are Rising On Meta's Muse Rollout",
-      "link": "https://www.investors.com/news/technology/shopify-stock-shop-twilio-stock-twlo-meta-muse/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T16:31:20Z",
-      "ts": 1790094680
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Berkshire Hathaway Raises Stake In This Ramshackle Homebuilder",
-      "link": "https://www.investors.com/news/berkshire-hathaway-lennar-homebuilders/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T16:30:09Z",
-      "ts": 1790094609
     }
   ]
 }
