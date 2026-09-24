@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T00:54:49.679755Z",
+  "updated": "2026-09-24T01:09:34.276592Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro weakens below 1.1400 as Fed rate hike expectations reinforce US Dollar strength",
+      "link": "https://www.fxstreet.com/news/euro-weakens-below-11400-as-fed-rate-hike-expectations-reinforce-us-dollar-strength-202609240057",
+      "published": "Thu, 24 Sep 2026 00:57:23 GMT",
+      "ts": 1790211443
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
+      "link": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 00:53:09 +0000",
+      "ts": 1790211189
+    },
     {
       "source": "FXStreet",
       "title": "US Treasury Secretary Bessent says US-China trade truce extended through January 10",
@@ -64,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-gives-back-most-of-its-rally-as-fed-hike-talk-grows-202609232245",
       "published": "Wed, 23 Sep 2026 22:45:00 GMT",
       "ts": 1790203500
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro extends its slide as US surveys top Europe's strong reading",
-      "link": "https://www.fxstreet.com/news/euro-extends-its-slide-as-us-surveys-top-europes-strong-reading-202609232230",
-      "published": "Wed, 23 Sep 2026 22:30:47 GMT",
-      "ts": 1790202647
     },
     {
       "source": "Investing Crypto",
@@ -283,13 +290,6 @@
       "ts": 1790175131
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-      "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 14:28:50 +0000",
-      "ts": 1790173730
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
       "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Goldman Sachs says 'lower happiness' — not the economy — explains why consumer confidence hit its second-lowest level",
+      "link": "https://finance.yahoo.com/economy/articles/goldman-sachs-says-lower-happiness-133000625.html",
+      "published": "2026-09-22T13:30:00Z",
+      "ts": 1790083800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "US Apartment Landlords Face a $1.8 Trillion Debt Wall — Nearly $300 Billion Comes Due This Year as Refinancing Costs Soar",
+      "link": "https://finance.yahoo.com/real-estate/articles/us-apartment-landlords-face-1-132654449.html",
+      "published": "2026-09-22T13:26:54Z",
+      "ts": 1790083614
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Binance Investigated By U.S. For Potential Sanctions Violations",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-investigated-u-potential-sanctions-132500534.html",
+      "published": "2026-09-22T13:25:00Z",
+      "ts": 1790083500
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "16 trucking companies hit bankruptcy court in less than a month",
       "link": "https://finance.yahoo.com/small-business/articles/16-trucking-companies-hit-bankruptcy-131909533.html",
       "published": "2026-09-22T13:19:09Z",
       "ts": 1790083149
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Sazerac to buy German spirits producer Berentzen",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sazerac-buy-german-spirits-producer-131700836.html",
-      "published": "2026-09-22T13:17:00Z",
-      "ts": 1790083020
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Citizens Financial Stock: Is CFG Outperforming the Financial Sector?",
-      "link": "https://finance.yahoo.com/news/citizens-financial-stock-cfg-outperforming-131514658.html",
-      "published": "2026-09-22T13:15:14Z",
-      "ts": 1790082914
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Carnival Corp Stock Looks Cheap to Value Investors Ahead of Earnings Next Week",
-      "link": "https://finance.yahoo.com/news/carnival-corp-stock-looks-cheap-131502788.html",
-      "published": "2026-09-22T13:15:02Z",
-      "ts": 1790082902
     }
   ]
 }
