@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T04:55:04.535792Z",
+  "updated": "2026-09-24T05:09:16.847966Z",
   "count": 60,
   "items": [
     {
@@ -8,6 +8,13 @@
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-trades-below-11400-near-two-month-low-ahead-of-trump-xi-summit-202609240453",
       "published": "Thu, 24 Sep 2026 04:53:19 GMT",
       "ts": 1790225599
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
+      "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 04:52:40 +0000",
+      "ts": 1790225560
     },
     {
       "source": "FXStreet",
@@ -276,13 +283,6 @@
       "ts": 1790181267
     },
     {
-      "source": "CoinTelegraph",
-      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
-      "link": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 15:56:20 +0000",
-      "ts": 1790178980
-    },
-    {
       "source": "CoinDesk",
       "title": "Inside the FBI’s little-known annual crypto crime gathering",
       "link": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "A CEO Shakeup Just Tanked This Stock. How to Play It Here.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ceo-shakeup-just-tanked-stock-171351644.html",
-      "published": "2026-09-22T17:13:51Z",
-      "ts": 1790097231
+      "title": "Soybean Bulls Pushing Higher at Midday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/soybean-bulls-pushing-higher-midday-172246256.html",
+      "published": "2026-09-22T17:22:46Z",
+      "ts": 1790097766
     },
     {
       "source": "Yahoo Finance",
-      "title": "Rocket Lab Stock Breaks Above Key Trendline",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-breaks-above-165728910.html",
-      "published": "2026-09-22T16:57:28Z",
-      "ts": 1790096248
+      "title": "Corn Slipping Back on Tuesday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-slipping-back-tuesday-172246595.html",
+      "published": "2026-09-22T17:22:46Z",
+      "ts": 1790097766
     },
     {
       "source": "Yahoo Finance",
-      "title": "What credit score do you need for a balance transfer credit card?",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-score-needed-for-balance-transfer-card-165714139.html",
-      "published": "2026-09-22T16:57:14Z",
-      "ts": 1790096234
+      "title": "Piston raises $15M to expand cardless fuel payments network",
+      "link": "https://finance.yahoo.com/small-business/articles/piston-raises-15m-expand-cardless-172134521.html",
+      "published": "2026-09-22T17:21:34Z",
+      "ts": 1790097694
     },
     {
       "source": "Yahoo Finance",
-      "title": "Think buying a car in cash is a flex? Why millions of boomers are quietly wasting thousands in savings",
-      "link": "https://finance.yahoo.com/markets/articles/think-buying-car-cash-flex-165500324.html",
-      "published": "2026-09-22T16:55:00Z",
-      "ts": 1790096100
+      "title": "Private markets dealmaking is starting to mirror Greater China's K-shaped economy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/private-markets-dealmaking-starting-mirror-172112209.html",
+      "published": "2026-09-22T17:21:12Z",
+      "ts": 1790097672
     }
   ]
 }
