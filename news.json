@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-24T06:35:12.790459Z",
+  "updated": "2026-09-24T06:56:10.519376Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: Franc weakness seen slowing near 0.95 against Euro – Commerzbank",
+      "link": "https://www.fxstreet.com/news/swiss-franc-franc-weakness-seen-slowing-near-095-against-euro-commerzbank-202609240651",
+      "published": "Thu, 24 Sep 2026 06:51:02 GMT",
+      "ts": 1790232662
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Testing 200-day SMA amid strong US data, higher yields",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-testing-200-day-sma-amid-strong-us-data-higher-yields-202609240642",
+      "published": "Thu, 24 Sep 2026 06:42:39 GMT",
+      "ts": 1790232159
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Dollar strengthens against EUR after hot US PMIs – Danske Bank",
+      "link": "https://www.fxstreet.com/news/euro-dollar-strengthens-against-eur-after-hot-us-pmis-danske-bank-202609240640",
+      "published": "Thu, 24 Sep 2026 06:40:42 GMT",
+      "ts": 1790232042
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips to $84k as yields, oil spike spook risk",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
+      "published": "2026-09-24 06:34:25",
+      "ts": 1790231665
+    },
     {
       "source": "CoinDesk",
       "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
@@ -52,13 +80,6 @@
       "ts": 1790228325
     },
     {
-      "source": "FXStreet",
-      "title": "Asian stock markets trade mixed ahead of Trump-Xi meeting",
-      "link": "https://www.fxstreet.com/news/asian-stock-markets-trade-mixed-ahead-of-trump-xi-meeting-202609240537",
-      "published": "Thu, 24 Sep 2026 05:37:14 GMT",
-      "ts": 1790228234
-    },
-    {
       "source": "CoinDesk",
       "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
       "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
@@ -73,25 +94,11 @@
       "ts": 1790227414
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Trades below 1.1400, near two-month low ahead of Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-trades-below-11400-near-two-month-low-ahead-of-trump-xi-summit-202609240453",
-      "published": "Thu, 24 Sep 2026 04:53:19 GMT",
-      "ts": 1790225599
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
       "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 04:52:40 +0000",
       "ts": 1790225560
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc strengthens ahead of SNB policy decision",
-      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-ahead-of-snb-policy-decision-202609240446",
-      "published": "Thu, 24 Sep 2026 04:46:39 GMT",
-      "ts": 1790225199
     },
     {
       "source": "CoinTelegraph",
@@ -109,7 +116,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold flat lines below $4,300 as Fed hike bets cap upside ahead of Trump-Xi meet",
+      "title": "Gold sticks to negative bias below $4,300 amid Fed hike bets, ahead of Trump-Xi summit",
       "link": "https://www.fxstreet.com/news/gold-struggles-below-4-300-one-week-low-as-fed-hike-bets-and-iran-risks-underpin-usd-202609240351",
       "published": "Thu, 24 Sep 2026 03:51:01 GMT",
       "ts": 1790221861
@@ -389,38 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Best Practices in Sports Investing: 2nd LA CorpGov Forum",
-      "link": "https://finance.yahoo.com/media-advertising/articles/best-practices-sports-investing-2nd-191154115.html",
-      "published": "2026-09-22T19:11:54Z",
-      "ts": 1790104314
+      "title": "Dollar Supported by Hawkish Fed Comments",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-supported-hawkish-fed-comments-193221734.html",
+      "published": "2026-09-22T19:32:21Z",
+      "ts": 1790105541
     },
     {
       "source": "Yahoo Finance",
-      "title": "A $20 Million Reason Why Fervo Energy Stock Is in Focus Today",
-      "link": "https://finance.yahoo.com/energy/articles/20-million-reason-why-fervo-190931422.html",
-      "published": "2026-09-22T19:09:31Z",
-      "ts": 1790104171
+      "title": "“Pattern of misconduct”: Bialostozky faces another Chicago foreclosure as alleged mortgage fraud widens across multiple states",
+      "link": "https://finance.yahoo.com/real-estate/articles/pattern-misconduct-bialostozky-faces-another-193000936.html",
+      "published": "2026-09-22T19:30:00Z",
+      "ts": 1790105400
     },
     {
       "source": "Yahoo Finance",
-      "title": "J.Jill (JILL): Four Analysts Raise Targets, But a $13.3 Million Refund Flatters the Profit Surge",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/j-jill-jill-four-analysts-190634876.html",
-      "published": "2026-09-22T19:06:34Z",
-      "ts": 1790103994
+      "title": "CRCL Stock Alert: What to Know as Circle Lands $100 Billion Deal With Binance",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/crcl-stock-alert-know-circle-192527429.html",
+      "published": "2026-09-22T19:25:27Z",
+      "ts": 1790105127
     },
     {
       "source": "Yahoo Finance",
-      "title": "NetApp (NTAP) Just Deepened Its VMware Cloud Integration. How Much Does It Matter?",
-      "link": "https://finance.yahoo.com/technology/articles/netapp-ntap-just-deepened-vmware-183727937.html",
-      "published": "2026-09-22T18:37:27Z",
-      "ts": 1790102247
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This High-Growth Energy Stock Continues to Plunge. Don’t Rush to Buy the Dip.",
-      "link": "https://finance.yahoo.com/energy/articles/high-growth-energy-stock-continues-183638227.html",
-      "published": "2026-09-22T18:36:38Z",
-      "ts": 1790102198
+      "title": "Why Has the U.S. Long Bond  Futures Broken Out of the Multiyear Consolidation Range in 2026?",
+      "link": "https://finance.yahoo.com/markets/options/articles/why-u-long-bond-futures-190002388.html",
+      "published": "2026-09-22T19:00:02Z",
+      "ts": 1790103602
     }
   ]
 }
