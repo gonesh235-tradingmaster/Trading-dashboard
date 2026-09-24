@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-24T07:29:36.269289Z",
+  "updated": "2026-09-24T07:45:10.648869Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar stands tall as focus remains on central bank commentary",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-stands-tall-as-focus-remains-on-central-bank-commentary-202609240742",
+      "published": "Thu, 24 Sep 2026 07:42:23 GMT",
+      "ts": 1790235743
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar gains as US Dollar declines despite hawkish Fed tone",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-us-dollar-declines-despite-hawkish-fed-tone-202609240739",
+      "published": "Thu, 24 Sep 2026 07:39:21 GMT",
+      "ts": 1790235561
+    },
+    {
+      "source": "FXStreet",
+      "title": "SNB leaves interest rates unchanged at 0%",
+      "link": "https://www.fxstreet.com/news/snb-leaves-interest-rates-unchanged-at-0-202609240732",
+      "published": "Thu, 24 Sep 2026 07:32:36 GMT",
+      "ts": 1790235156
+    },
+    {
+      "source": "FXStreet",
+      "title": "CEE FX: Global headwinds pressure currencies – ING",
+      "link": "https://www.fxstreet.com/news/cee-fx-global-headwinds-pressure-currencies-ing-202609240732",
+      "published": "Thu, 24 Sep 2026 07:32:35 GMT",
+      "ts": 1790235155
+    },
     {
       "source": "FXStreet",
       "title": "Euro remains depressed amid strong US macroeconomic data and higher Oil prices",
@@ -45,20 +73,6 @@
       "ts": 1790232662
     },
     {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Testing 200-day SMA amid strong US data, higher yields",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-testing-200-day-sma-amid-strong-us-data-higher-yields-202609240642",
-      "published": "Thu, 24 Sep 2026 06:42:39 GMT",
-      "ts": 1790232159
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Dollar strengthens against EUR after hot US PMIs – Danske Bank",
-      "link": "https://www.fxstreet.com/news/euro-dollar-strengthens-against-eur-after-hot-us-pmis-danske-bank-202609240640",
-      "published": "Thu, 24 Sep 2026 06:40:42 GMT",
-      "ts": 1790232042
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips to $84k as yields, oil spike spook risk",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
@@ -71,13 +85,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
       "published": "Thu, 24 Sep 2026 06:33:23 +0000",
       "ts": 1790231603
-    },
-    {
-      "source": "FXStreet",
-      "title": "Oil: Geopolitics tighten physical markets – Commerzbank",
-      "link": "https://www.fxstreet.com/news/oil-geopolitics-tighten-physical-markets-commerzbank-202609240615",
-      "published": "Thu, 24 Sep 2026 06:15:54 GMT",
-      "ts": 1790230554
     },
     {
       "source": "FXStreet",
@@ -120,13 +127,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
       "published": "Thu, 24 Sep 2026 04:13:01 +0000",
       "ts": 1790223181
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold sticks to negative bias below $4,300 amid Fed hike bets, ahead of Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/gold-struggles-below-4-300-one-week-low-as-fed-hike-bets-and-iran-risks-underpin-usd-202609240351",
-      "published": "Thu, 24 Sep 2026 03:51:01 GMT",
-      "ts": 1790221861
     },
     {
       "source": "Investing Forex",
@@ -382,6 +382,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Lilly Rises, But Novo Falls.",
+      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T20:21:01Z",
+      "ts": 1790108461
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A $26 Million Reason Why GameStop Stock Is Up Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/26-million-reason-why-gamestop-201630953.html",
+      "published": "2026-09-22T20:16:30Z",
+      "ts": 1790108190
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
       "link": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html",
       "published": "2026-09-22T20:15:19Z",
@@ -389,38 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "SHOP Stock Jumps as Meta Expands Shopify Partnership",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/shop-stock-jumps-meta-expands-200743785.html",
+      "published": "2026-09-22T20:07:43Z",
+      "ts": 1790107663
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
+      "link": "https://finance.yahoo.com/technology/article/qualcomm-reveals-2-new-smartphone-chips-focusing-on-agentic-ai-200000608.html",
+      "published": "2026-09-22T20:00:00Z",
+      "ts": 1790107200
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Bessent just picked the one wage measure still rising",
       "link": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html",
       "published": "2026-09-22T19:47:00Z",
       "ts": 1790106420
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nebius Stock Spikes 4% on Higher Computer Prices. How to Play NBIS Stock Here.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-spikes-4-higher-194050887.html",
-      "published": "2026-09-22T19:40:50Z",
-      "ts": 1790106050
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oil prices settle lower as crude flows from Middle East improve",
-      "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
-      "published": "2026-09-22T19:34:51Z",
-      "ts": 1790105691
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dollar Supported by Hawkish Fed Comments",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-supported-hawkish-fed-comments-193221734.html",
-      "published": "2026-09-22T19:32:21Z",
-      "ts": 1790105541
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "“Pattern of misconduct”: Bialostozky faces another Chicago foreclosure as alleged mortgage fraud widens across multiple states",
-      "link": "https://finance.yahoo.com/real-estate/articles/pattern-misconduct-bialostozky-faces-another-193000936.html",
-      "published": "2026-09-22T19:30:00Z",
-      "ts": 1790105400
     }
   ]
 }
