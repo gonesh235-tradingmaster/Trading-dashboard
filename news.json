@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-24T09:55:22.293297Z",
+  "updated": "2026-09-24T10:10:19.784081Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "BoE’s Dhingra says financial conditions have already done much of the tightening",
+      "link": "https://www.fxstreet.com/news/boes-dhingra-says-financial-conditions-have-already-done-much-of-the-tightening-202609241005",
+      "published": "Thu, 24 Sep 2026 10:05:56 GMT",
+      "ts": 1790244356
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Greenback notched fourth daily gain as hot data reignite interest rate repricing",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
+      "published": "2026-09-24 10:03:24",
+      "ts": 1790244204
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Black Monday’s stock-market warning signal came from the bond market, and it’s back, says Wall Street veteran",
+      "link": "https://www.marketwatch.com/story/black-mondays-stock-market-warning-signal-came-from-the-bond-market-and-its-back-says-wall-street-veteran-52f12e39?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 10:01:00 GMT",
+      "ts": 1790244060
+    },
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso: Downward momentum returns after 200-DMA break – Societe Generale",
+      "link": "https://www.fxstreet.com/news/mexican-peso-downward-momentum-returns-after-200-dma-break-societe-generale-202609240957",
+      "published": "Thu, 24 Sep 2026 09:57:14 GMT",
+      "ts": 1790243834
+    },
     {
       "source": "CoinDesk",
       "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
@@ -101,20 +129,6 @@
       "ts": 1790241120
     },
     {
-      "source": "FXStreet",
-      "title": "Euro holds form against British Pound amid strong Eurozone data, hawkish BoE comments",
-      "link": "https://www.fxstreet.com/news/euro-holds-form-against-british-pound-amid-strong-eurozone-data-hawkish-boe-comments-202609240909",
-      "published": "Thu, 24 Sep 2026 09:09:05 GMT",
-      "ts": 1790240945
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD comes under pressure as Fed’s Williams warns of more interest rate hikes",
-      "link": "https://www.fxstreet.com/news/eur-usd-comes-under-pressure-as-feds-williams-warns-of-more-interest-rate-hikes-202609240908",
-      "published": "Thu, 24 Sep 2026 09:08:33 GMT",
-      "ts": 1790240913
-    },
-    {
       "source": "MarketWatch",
       "title": "8 grassroots porchfests for experiencing free live music and neighborhood culture",
       "link": "https://www.marketwatch.com/story/8-grassroots-porchfests-for-experiencing-free-live-music-and-neighborhood-culture-34a2dc81?mod=mw_rss_topstories",
@@ -137,7 +151,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "U.S. yields surge past 5% as hot PMI data and failed auctions spark sharp sell-off",
+      "title": "U.S. 30 year yield hits 2004-high as bond rout deepens",
       "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
       "published": "2026-09-24 08:38:51",
       "ts": 1790239131
@@ -148,13 +162,6 @@
       "link": "https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 08:29:11 +0000",
       "ts": 1790238551
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
-      "published": "2026-09-24 08:22:59",
-      "ts": 1790238179
     },
     {
       "source": "Investing Crypto",
@@ -276,13 +283,6 @@
       "ts": 1790200740
     },
     {
-      "source": "MarketWatch",
-      "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
-      "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 21:51:00 GMT",
-      "ts": 1790200260
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
       "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Alibaba Just Unveiled an AI Chip 3x Faster Than Its Predecessor. Nvidia Has a China Problem to Watch",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-just-unveiled-ai-chip-221410155.html",
-      "published": "2026-09-22T22:14:10Z",
-      "ts": 1790115250
+      "title": "Viking Therapeutics (VKTX) Rockets 35.7% After Weight Loss Drug Trial — What’s The Selling Point?",
+      "link": "https://finance.yahoo.com/healthcare/articles/viking-therapeutics-vktx-rockets-35-223731784.html",
+      "published": "2026-09-22T22:37:31Z",
+      "ts": 1790116651
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is China’s Secret Power Advantage About To Trigger An 89% Crash In US AI Stocks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/china-secret-power-advantage-trigger-220000479.html",
-      "published": "2026-09-22T22:00:00Z",
-      "ts": 1790114400
+      "title": "On Holding (ONON) Approves a $1 Billion Buyback Alongside its 2029 Targets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-approves-1-billion-223549769.html",
+      "published": "2026-09-22T22:35:49Z",
+      "ts": 1790116549
     },
     {
       "source": "Yahoo Finance",
-      "title": "Retailer that closed all its stores is making a major comeback",
-      "link": "https://finance.yahoo.com/small-business/articles/retailer-closed-stores-making-major-214700564.html",
-      "published": "2026-09-22T21:47:00Z",
-      "ts": 1790113620
+      "title": "Broadcom Just Named Its Next AI Customer. It Isn’t Google.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-just-named-next-ai-222044865.html",
+      "published": "2026-09-22T22:20:44Z",
+      "ts": 1790115644
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar pinned at nearly 8-week high, euro slips while yen flat amid holiday volume",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
-      "published": "2026-09-22 20:59:43",
-      "ts": 1790110783
+      "source": "Yahoo Finance",
+      "title": "Nvidia Backed SB Energy’s $50 Billion Valuation Push. Wall Street Just Hit the Brakes",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-sb-energy-50-221736610.html",
+      "published": "2026-09-22T22:17:36Z",
+      "ts": 1790115456
     }
   ]
 }
