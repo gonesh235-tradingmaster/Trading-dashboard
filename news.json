@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-24T12:12:38.918827Z",
+  "updated": "2026-09-24T12:35:07.476197Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
+      "link": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
+      "published": "Thu, 24 Sep 2026 12:31:53 +0000",
+      "ts": 1790253113
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU's financial regulator to make AI and tokenization a supervisory priority in 2027",
+      "link": "https://www.coindesk.com/policy/2026/09/24/eu-s-financial-regulator-to-make-ai-and-tokenization-a-supervisory-priority-in-2027",
+      "published": "Thu, 24 Sep 2026 12:26:43 +0000",
+      "ts": 1790252803
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen weakness lifts British Pound as wide interest-rate gap bites",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakness-lifts-british-pound-as-wide-interest-rate-gap-bites-202609241225",
+      "published": "Thu, 24 Sep 2026 12:25:20 GMT",
+      "ts": 1790252720
+    },
+    {
+      "source": "FXStreet",
+      "title": "Reserve Bank of Australia: September hike case and path – TD Securities",
+      "link": "https://www.fxstreet.com/news/reserve-bank-of-australia-september-hike-case-and-path-td-securities-202609241220",
+      "published": "Thu, 24 Sep 2026 12:20:57 GMT",
+      "ts": 1790252457
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 12:15:00 GMT",
+      "ts": 1790252100
+    },
     {
       "source": "MarketWatch",
       "title": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
@@ -88,7 +123,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin continues lower as bond yields take center stage",
+      "title": "Live updates: Bitcoin falls to $83,000 as bond yields take center stage",
       "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
       "published": "Thu, 24 Sep 2026 11:20:12 +0000",
       "ts": 1790248812
@@ -113,20 +148,6 @@
       "link": "https://www.marketwatch.com/story/as-the-trump-xi-meetings-unfold-investors-should-watch-for-this-hidden-ai-trade-7abf11b9?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 11:01:00 GMT",
       "ts": 1790247660
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold bears tighten their grip as Fed rate hike bets rise",
-      "link": "https://www.fxstreet.com/news/gold-bears-tighten-their-grip-as-fed-rate-hike-bets-rise-202609241054",
-      "published": "Thu, 24 Sep 2026 10:54:28 GMT",
-      "ts": 1790247268
-    },
-    {
-      "source": "FXStreet",
-      "title": "US yields jump to multi-year highs on Fed tightening bets, bond market turmoil",
-      "link": "https://www.fxstreet.com/news/us-yields-jump-to-multi-year-highs-on-fed-tightening-bets-bond-market-turmoil-202609241037",
-      "published": "Thu, 24 Sep 2026 10:37:49 GMT",
-      "ts": 1790246269
     },
     {
       "source": "CoinDesk",
@@ -248,13 +269,6 @@
       "ts": 1790240340
     },
     {
-      "source": "MarketWatch",
-      "title": "The market is pricing in too many Fed hikes, says one former Dallas Fed chief",
-      "link": "https://www.marketwatch.com/story/the-market-is-pricing-in-too-many-fed-hikes-says-the-former-dallas-fed-chief-5de8cc3c?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 08:42:00 GMT",
-      "ts": 1790239320
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. 30 year yield hits 2004-high as bond rout deepens",
       "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
@@ -283,13 +297,6 @@
       "ts": 1790236229
     },
     {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound steadies as stretched dollar rally meets Treasury yield peak",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-stretched-dollar-rally-meets-treasury-yield-peak-4914548",
-      "published": "2026-09-24 07:45:39",
-      "ts": 1790235939
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips below 20 SMA at $84,076: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
@@ -311,13 +318,6 @@
       "ts": 1790228325
     },
     {
-      "source": "CoinDesk",
-      "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
-      "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
-      "published": "Thu, 24 Sep 2026 05:24:56 +0000",
-      "ts": 1790227496
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -337,13 +337,6 @@
       "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 04:44:12 +0000",
       "ts": 1790225052
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
-      "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
-      "published": "Thu, 24 Sep 2026 04:13:01 +0000",
-      "ts": 1790223181
     },
     {
       "source": "Investing Crypto",
@@ -410,17 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
-      "published": "2026-09-23T04:17:10Z",
-      "ts": 1790137030
+      "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+      "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
+      "published": "2026-09-23T04:33:16Z",
+      "ts": 1790137996
     },
     {
       "source": "Yahoo Finance",
-      "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
-      "published": "2026-09-23T01:52:26Z",
-      "ts": 1790128346
+      "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+      "link": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
+      "published": "2026-09-23T04:29:16Z",
+      "ts": 1790137756
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+      "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
+      "published": "2026-09-23T04:24:33Z",
+      "ts": 1790137473
     }
   ]
 }
