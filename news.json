@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-24T12:56:07.661368Z",
+  "updated": "2026-09-24T13:13:11.843775Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "U.S. 30 year yield hits 2004-high as bond rout deepens",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
+      "published": "2026-09-24 13:07:15",
+      "ts": 1790255235
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/CHF Price Forecast: RSI nears overbought territory as bulls remain in control",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rsi-nears-overbought-territory-as-bulls-remain-in-control-202609241302",
+      "published": "Thu, 24 Sep 2026 13:02:14 GMT",
+      "ts": 1790254934
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oracle’s stock is falling as investors fear a data-center setback",
+      "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 13:02:00 GMT",
+      "ts": 1790254920
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife wants to buy her late mother’s home, but her siblings won’t let her. Should I get involved?",
+      "link": "https://www.marketwatch.com/story/my-wife-wants-to-buy-her-late-mothers-home-but-her-siblings-wont-let-her-should-i-get-involved-1146fbb2?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 13:01:00 GMT",
+      "ts": 1790254860
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
+      "link": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
+      "published": "Thu, 24 Sep 2026 13:00:00 +0000",
+      "ts": 1790254800
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
+      "link": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
+      "published": "Thu, 24 Sep 2026 13:00:00 +0000",
+      "ts": 1790254800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+      "link": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 13:00:00 +0000",
+      "ts": 1790254800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Three reasons to stick with stocks despite rising yields, according to Barclays",
+      "link": "https://www.marketwatch.com/story/three-reasons-to-stick-with-stocks-despite-rising-yields-according-to-barclays-9b8ea2c3?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 12:58:00 GMT",
+      "ts": 1790254680
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Downside risks for EUR against US Dollar – Rabobank",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-for-eur-against-us-dollar-rabobank-202609241255",
+      "published": "Thu, 24 Sep 2026 12:55:58 GMT",
+      "ts": 1790254558
+    },
     {
       "source": "MarketWatch",
       "title": "Here’s where thousands of homeowners face higher insurance bills after FEMA updated its flood maps",
@@ -115,13 +178,6 @@
       "ts": 1790250431
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar dips to fresh two-month lows amid higher US yields, Fed hiking bets",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-to-fresh-two-month-lows-amid-higher-us-yields-fed-hiking-bets-202609241143",
-      "published": "Thu, 24 Sep 2026 11:43:16 GMT",
-      "ts": 1790250196
-    },
-    {
       "source": "CoinDesk",
       "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
       "link": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
@@ -220,25 +276,11 @@
       "ts": 1790244204
     },
     {
-      "source": "MarketWatch",
-      "title": "Black Monday’s stock-market warning signal came from the bond market — and it’s back, says Wall Street veteran",
-      "link": "https://www.marketwatch.com/story/black-mondays-stock-market-warning-signal-came-from-the-bond-market-and-its-back-says-wall-street-veteran-52f12e39?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 10:01:00 GMT",
-      "ts": 1790244060
-    },
-    {
       "source": "CoinDesk",
       "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
       "link": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
       "published": "Thu, 24 Sep 2026 09:48:09 +0000",
       "ts": 1790243289
-    },
-    {
-      "source": "CoinDesk",
-      "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
-      "link": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
-      "published": "Thu, 24 Sep 2026 09:32:48 +0000",
-      "ts": 1790242368
     },
     {
       "source": "CoinTelegraph",
@@ -260,27 +302,6 @@
       "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 09:18:16 +0000",
       "ts": 1790241496
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
-      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 09:15:00 GMT",
-      "ts": 1790241300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meta sees a price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
-      "link": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 09:12:00 GMT",
-      "ts": 1790241120
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. 30 year yield hits 2004-high as bond rout deepens",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
-      "published": "2026-09-24 08:38:51",
-      "ts": 1790239131
     },
     {
       "source": "CoinTelegraph",
@@ -311,20 +332,6 @@
       "ts": 1790233854
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
-      "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
-      "published": "Thu, 24 Sep 2026 06:33:23 +0000",
-      "ts": 1790231603
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee declines significantly due to oil price recovery, surging US yields",
-      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-regain-ground-202609240538",
-      "published": "Thu, 24 Sep 2026 05:38:45 GMT",
-      "ts": 1790228325
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -337,13 +344,6 @@
       "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 04:52:40 +0000",
       "ts": 1790225560
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
-      "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 04:44:12 +0000",
-      "ts": 1790225052
     },
     {
       "source": "Investing Crypto",
