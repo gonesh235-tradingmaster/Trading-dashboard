@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-24T11:09:38.269521Z",
+  "updated": "2026-09-24T11:26:38.282565Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: Labor data underpins RBA hike view – BBH",
+      "link": "https://www.fxstreet.com/news/australian-dollar-labor-data-underpins-rba-hike-view-bbh-202609241123",
+      "published": "Thu, 24 Sep 2026 11:23:32 GMT",
+      "ts": 1790249012
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin continues lower as bond yields take center stage",
+      "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
+      "published": "Thu, 24 Sep 2026 11:20:12 +0000",
+      "ts": 1790248812
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound sees more downside as US Yields rally further",
+      "link": "https://www.fxstreet.com/news/british-pound-sees-more-downside-as-us-yields-rally-further-202609241119",
+      "published": "Thu, 24 Sep 2026 11:19:56 GMT",
+      "ts": 1790248796
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 11:17:00 GMT",
+      "ts": 1790248620
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
+      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 11:15:00 GMT",
+      "ts": 1790248500
+    },
     {
       "source": "MarketWatch",
       "title": "As the Trump-Xi meetings unfold, investors should watch for this hidden AI trade",
@@ -143,13 +178,6 @@
       "ts": 1790242113
     },
     {
-      "source": "FXStreet",
-      "title": "Euro jumps vs Swiss Franc after SNB decision, German IFO data supports",
-      "link": "https://www.fxstreet.com/news/euro-jumps-vs-swiss-franc-after-snb-decision-german-ifo-data-supports-202609240928",
-      "published": "Thu, 24 Sep 2026 09:28:01 GMT",
-      "ts": 1790242081
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin drops to $83.3k as yields, oil spike spook risk",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
@@ -172,7 +200,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Meta gets price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
+      "title": "Meta sees a price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
       "link": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 09:12:00 GMT",
       "ts": 1790241120
@@ -248,13 +276,6 @@
       "ts": 1790231603
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee declines significantly due to oil price recovery, surging US yields",
-      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-regain-ground-202609240538",
-      "published": "Thu, 24 Sep 2026 05:38:45 GMT",
-      "ts": 1790228325
-    },
-    {
       "source": "CoinDesk",
       "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
       "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
@@ -311,20 +332,6 @@
       "ts": 1790201755
     },
     {
-      "source": "MarketWatch",
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 22:15:00 GMT",
-      "ts": 1790201700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
-      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 22:00:00 GMT",
-      "ts": 1790200800
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
       "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -358,13 +365,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
       "published": "2026-09-23 18:41:49",
       "ts": 1790188909
-    },
-    {
-      "source": "CoinDesk",
-      "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
-      "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
-      "published": "Wed, 23 Sep 2026 18:04:11 +0000",
-      "ts": 1790186651
     },
     {
       "source": "Investing Crypto",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Crypto ETFs Are Surging, but Bitcoin  Ether Aren’t the Big Winners",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-etfs-surging-bitcoin-ether-232240681.html",
-      "published": "2026-09-22T23:22:40Z",
-      "ts": 1790119360
+      "title": "Greif (GEF) Plans Coated Recycled Paperboard Exit. Can a Smaller Portfolio Earn Better Returns?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/greif-gef-plans-coated-recycled-233847283.html",
+      "published": "2026-09-22T23:38:47Z",
+      "ts": 1790120327
     },
     {
       "source": "Yahoo Finance",
-      "title": "Sandisk (SNDK) Has Signed Away Two Thirds of Next Year’s Output. Can the AI Storage Boom Keep Paying?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-signed-away-two-231834920.html",
-      "published": "2026-09-22T23:18:34Z",
-      "ts": 1790119114
+      "title": "Flutter (FLUT), The World’s Biggest Betting Company Has Lost Two-Thirds of Its Value. Is the Bottom In?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flutter-flut-world-biggest-betting-233329385.html",
+      "published": "2026-09-22T23:33:29Z",
+      "ts": 1790120009
     }
   ]
 }
