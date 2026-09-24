@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T10:54:53.852703Z",
+  "updated": "2026-09-24T11:09:38.269521Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "As the Trump-Xi meetings unfold, investors should watch for this hidden AI trade",
+      "link": "https://www.marketwatch.com/story/as-the-trump-xi-meetings-unfold-investors-should-watch-for-this-hidden-ai-trade-7abf11b9?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 11:01:00 GMT",
+      "ts": 1790247660
+    },
     {
       "source": "FXStreet",
       "title": "Gold bears tighten their grip as Fed rate hike bets rise",
@@ -186,7 +193,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The market is pricing in too many Fed hikes, says the former Dallas Fed chief",
+      "title": "The market is pricing in too many Fed hikes, says one former Dallas Fed chief",
       "link": "https://www.marketwatch.com/story/the-market-is-pricing-in-too-many-fed-hikes-says-the-former-dallas-fed-chief-5de8cc3c?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 08:42:00 GMT",
       "ts": 1790239320
@@ -318,13 +325,6 @@
       "ts": 1790200800
     },
     {
-      "source": "MarketWatch",
-      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
-      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 21:59:00 GMT",
-      "ts": 1790200740
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
       "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Crypto ETFs Are Surging, but Bitcoin  Ether Aren’t the Big Winners",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-etfs-surging-bitcoin-ether-232240681.html",
+      "published": "2026-09-22T23:22:40Z",
+      "ts": 1790119360
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Sandisk (SNDK) Has Signed Away Two Thirds of Next Year’s Output. Can the AI Storage Boom Keep Paying?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-signed-away-two-231834920.html",
       "published": "2026-09-22T23:18:34Z",
       "ts": 1790119114
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Butterfly Network (BFLY) Gets New ‘Buy’ Reco, Climbs 22%; Hedge Fund Holdings More-Than-Double",
-      "link": "https://finance.yahoo.com/healthcare/articles/butterfly-network-bfly-gets-buy-231418577.html",
-      "published": "2026-09-22T23:14:18Z",
-      "ts": 1790118858
     }
   ]
 }
