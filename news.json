@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T22:10:03.319533Z",
+  "updated": "2026-09-24T22:26:20.449185Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average falls a third day as bond yields climb",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-falls-a-third-day-as-bond-yields-climb-202609242211",
+      "published": "Thu, 24 Sep 2026 22:11:04 GMT",
+      "ts": 1790287864
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+      "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 22:10:09 +0000",
+      "ts": 1790287809
+    },
     {
       "source": "FXStreet",
       "title": "Pound Sterling slides again as Fed speakers go full hawkish",
@@ -15,6 +29,13 @@
       "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 22:03:00 GMT",
       "ts": 1790287380
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin cuts losses, remains muted amid rising oil and yields, hawkish Fed signals",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
+      "published": "2026-09-24 22:01:14",
+      "ts": 1790287274
     },
     {
       "source": "CoinDesk",
@@ -241,13 +262,6 @@
       "ts": 1790274756
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen struggles as Fed rate hike bets drive US yields higher",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-fed-rate-hike-bets-drive-us-yields-higher-202609241803",
-      "published": "Thu, 24 Sep 2026 18:03:14 GMT",
-      "ts": 1790272994
-    },
-    {
       "source": "Investing Crypto",
       "title": "moomoo sees 50% jump in crypto buyers as retail demand broadens",
       "link": "https://www.investing.com/news/cryptocurrency-news/moomoo-sees-50-jump-in-crypto-buyers-as-retail-demand-broadens-4915966",
@@ -316,20 +330,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/buy-usdt-gift-card-usdt-gift-card-announces-digital-gifting-service-with-free-redemption-4915636",
       "published": "2026-09-24 14:00:38",
       "ts": 1790258438
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
-      "link": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 13:29:06 +0000",
-      "ts": 1790256546
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin retreats to $83.6k as yields, oil spike spook risk",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
-      "published": "2026-09-24 13:18:35",
-      "ts": 1790255915
     },
     {
       "source": "Investing Forex",
