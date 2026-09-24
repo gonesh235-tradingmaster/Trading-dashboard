@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-24T04:42:29.192710Z",
+  "updated": "2026-09-24T04:55:04.535792Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Trades below 1.1400, near two-month low ahead of Trump-Xi summit",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-trades-below-11400-near-two-month-low-ahead-of-trump-xi-summit-202609240453",
+      "published": "Thu, 24 Sep 2026 04:53:19 GMT",
+      "ts": 1790225599
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc strengthens ahead of SNB policy decision",
+      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-ahead-of-snb-policy-decision-202609240446",
+      "published": "Thu, 24 Sep 2026 04:46:39 GMT",
+      "ts": 1790225199
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
+      "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 04:44:12 +0000",
+      "ts": 1790225052
+    },
     {
       "source": "FXStreet",
       "title": "India Gold price today: Gold steadies, according to FXStreet data",
@@ -73,13 +94,6 @@
       "ts": 1790216172
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar declines against Japanese Yen following mixed jobs data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-against-japanese-yen-following-mixed-jobs-data-202609240204",
-      "published": "Thu, 24 Sep 2026 02:04:41 GMT",
-      "ts": 1790215481
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
       "link": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -148,13 +162,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
       "published": "2026-09-23 21:31:55",
       "ts": 1790199115
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australia’s Unemployment Rate rises to 4.6% in August, vs 4.5% expected",
-      "link": "https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-remain-unchanged-at-45-in-august-202609232130",
-      "published": "Wed, 23 Sep 2026 21:30:00 GMT",
-      "ts": 1790199000
     },
     {
       "source": "MarketWatch",
@@ -297,13 +304,6 @@
       "ts": 1790175639
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
-      "link": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 14:52:11 +0000",
-      "ts": 1790175131
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
       "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Gabelli Global Growth Fund Added Advanced Micro Devices (AMD) in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-growth-fund-141047976.html",
-      "published": "2026-09-22T16:39:47Z",
-      "ts": 1790095187
+      "title": "A CEO Shakeup Just Tanked This Stock. How to Play It Here.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ceo-shakeup-just-tanked-stock-171351644.html",
+      "published": "2026-09-22T17:13:51Z",
+      "ts": 1790097231
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Gabelli Global Growth Fund Added Micron Technology (MU) in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-growth-fund-141037360.html",
-      "published": "2026-09-22T16:39:37Z",
-      "ts": 1790095177
+      "title": "Rocket Lab Stock Breaks Above Key Trendline",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-breaks-above-165728910.html",
+      "published": "2026-09-22T16:57:28Z",
+      "ts": 1790096248
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why RPC (RES) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-rpc-res-q2-detractor-163646235.html",
-      "published": "2026-09-22T16:36:46Z",
-      "ts": 1790095006
+      "title": "What credit score do you need for a balance transfer credit card?",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-score-needed-for-balance-transfer-card-165714139.html",
+      "published": "2026-09-22T16:57:14Z",
+      "ts": 1790096234
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Graco (GGG) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-graco-ggg-q2-detractor-163529754.html",
-      "published": "2026-09-22T16:35:29Z",
-      "ts": 1790094929
+      "title": "Think buying a car in cash is a flex? Why millions of boomers are quietly wasting thousands in savings",
+      "link": "https://finance.yahoo.com/markets/articles/think-buying-car-cash-flex-165500324.html",
+      "published": "2026-09-22T16:55:00Z",
+      "ts": 1790096100
     }
   ]
 }
