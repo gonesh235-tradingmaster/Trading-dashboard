@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T05:40:34.969611Z",
+  "updated": "2026-09-24T05:52:58.201475Z",
   "count": 60,
   "items": [
     {
@@ -388,6 +388,27 @@
       "ts": 1790106420
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Corporate bond buyers get picky with flood of AI debt",
+      "link": "https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html",
+      "published": "2026-09-22T18:20:50Z",
+      "ts": 1790101250
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A $200 Billion Reason to Buy GE Vernova Stock",
+      "link": "https://finance.yahoo.com/energy/articles/200-billion-reason-buy-ge-181346344.html",
+      "published": "2026-09-22T18:13:46Z",
+      "ts": 1790100826
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ETF Zoo: 6 Pundits Walk Into a Bar",
+      "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
+      "published": "2026-09-22T18:09:01Z",
+      "ts": 1790100541
+    },
+    {
       "source": "Investing Crypto",
       "title": "EOS Climbs 12% As Investors Gain Confidence",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
@@ -400,27 +421,6 @@
       "link": "https://www.investors.com/research/caris-life-sciences-cai-stock-biotech-texas/?src=A00220&yptr=yahoo",
       "published": "2026-09-22T18:01:22Z",
       "ts": 1790100082
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Leveraged loan fund assets rise as Fed turns hawkish",
-      "link": "https://finance.yahoo.com/economy/policy/articles/leveraged-loan-fund-assets-rise-175112734.html",
-      "published": "2026-09-22T17:51:12Z",
-      "ts": 1790099472
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Stock Is Trading at New All-Time Highs and Looks Like a Great Long-Term Winner",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-trading-time-highs-looks-175002793.html",
-      "published": "2026-09-22T17:50:02Z",
-      "ts": 1790099402
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tabi Connect, Kleinschmidt partner to automate freight quoting",
-      "link": "https://finance.yahoo.com/technology/articles/tabi-connect-kleinschmidt-partner-automate-174105793.html",
-      "published": "2026-09-22T17:41:05Z",
-      "ts": 1790098865
     }
   ]
 }
