@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-24T15:55:53.132539Z",
+  "updated": "2026-09-24T16:12:21.904688Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar remains under pressure, RBNZ rate hike bets cushion losses",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-under-pressure-rbnz-rate-hike-bets-cushion-losses-202609241608",
+      "published": "Thu, 24 Sep 2026 16:08:29 GMT",
+      "ts": 1790266109
+    },
+    {
+      "source": "MarketWatch",
+      "title": "3 questions to ask your parents about their estate plan — other than ‘How much money do you have?’",
+      "link": "https://www.marketwatch.com/story/3-questions-to-ask-your-parents-about-their-estate-plan-other-than-how-much-money-do-you-have-4000199a?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 16:01:00 GMT",
+      "ts": 1790265660
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
+      "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 16:00:00 GMT",
+      "ts": 1790265600
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
+      "link": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 15:54:46 +0000",
+      "ts": 1790265286
+    },
     {
       "source": "MarketWatch",
       "title": "As diesel prices surge, Tesla makes its big play for the trucking market",
@@ -157,32 +185,11 @@
       "ts": 1790259876
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar remains under pressure despite stronger-than-expected jobs data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-under-pressure-despite-stronger-than-expected-jobs-data-202609241422",
-      "published": "Thu, 24 Sep 2026 14:22:24 GMT",
-      "ts": 1790259744
-    },
-    {
       "source": "Investing Crypto",
       "title": "Buy USDT Gift Card: USDT Gift Card Announces Digital Gifting Service With Free Redemption",
       "link": "https://www.investing.com/news/cryptocurrency-news/buy-usdt-gift-card-usdt-gift-card-announces-digital-gifting-service-with-free-redemption-4915636",
       "published": "2026-09-24 14:00:38",
       "ts": 1790258438
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How is Gen Z investing their money? Over a dozen share their strategies for today’s market.",
-      "link": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 14:00:00 GMT",
-      "ts": 1790258400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Do this one thing to help prevent your parents from being scammed",
-      "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 14:00:00 GMT",
-      "ts": 1790258400
     },
     {
       "source": "CoinTelegraph",
@@ -323,13 +330,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 09:32:44 +0000",
       "ts": 1790242364
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
-      "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 09:18:16 +0000",
-      "ts": 1790241496
     },
     {
       "source": "Investing Crypto",
