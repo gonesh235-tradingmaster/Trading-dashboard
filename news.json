@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-24T21:13:02.947284Z",
+  "updated": "2026-09-24T21:27:33.656935Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
+      "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 21:23:00 GMT",
+      "ts": 1790284980
+    },
     {
       "source": "FXStreet",
       "title": "Banxico: Flexible stance with upside risks – Rabobank",
       "link": "https://www.fxstreet.com/news/banxico-flexible-stance-with-upside-risks-rabobank-202609242108",
       "published": "Thu, 24 Sep 2026 21:08:11 GMT",
       "ts": 1790284091
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar pinned at nearly two-month high amid resurgent oil prices, bond rout",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
+      "published": "2026-09-24 21:04:09",
+      "ts": 1790283849
     },
     {
       "source": "MarketWatch",
@@ -185,13 +199,6 @@
       "ts": 1790274660
     },
     {
-      "source": "MarketWatch",
-      "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
-      "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 18:29:00 GMT",
-      "ts": 1790274540
-    },
-    {
       "source": "FXStreet",
       "title": "Japanese Yen struggles as Fed rate hike bets drive US yields higher",
       "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-fed-rate-hike-bets-drive-us-yields-higher-202609241803",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/bank-of-america-sees-eurusd-at-115-by-yearend-93CH-4914859",
       "published": "2026-09-24 10:15:09",
       "ts": 1790244909
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Greenback notched fourth daily gain as hot data reignite interest rate repricing",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
-      "published": "2026-09-24 10:03:24",
-      "ts": 1790244204
     },
     {
       "source": "Investing Crypto",
