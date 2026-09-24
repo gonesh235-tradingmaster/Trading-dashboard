@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T23:50:08.967095Z",
+  "updated": "2026-09-24T00:13:05.566380Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Treasury Secretary Bessent says US-China trade truce extended through January 10",
+      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-says-us-china-trade-truce-extended-through-january-10-202609240003",
+      "published": "Thu, 24 Sep 2026 00:03:32 GMT",
+      "ts": 1790208212
+    },
+    {
+      "source": "FXStreet",
+      "title": "Ukraine's President Zelenskyy says ready for energy ceasefire with Russia",
+      "link": "https://www.fxstreet.com/news/ukraines-president-zelenskyy-says-ready-for-energy-ceasefire-with-russia-202609232351",
+      "published": "Wed, 23 Sep 2026 23:51:53 GMT",
+      "ts": 1790207513
+    },
     {
       "source": "FXStreet",
       "title": "Iran President sends defiant message to US over potential talks",
@@ -115,25 +129,11 @@
       "ts": 1790199840
     },
     {
-      "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Bears press 209.00 as downtrend deepens",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bears-press-20900-as-downtrend-deepens-202609232135",
-      "published": "Wed, 23 Sep 2026 21:35:39 GMT",
-      "ts": 1790199339
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar rises to nearly two-month high on firmer Fed rate hike bets, rout in bonds",
       "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
       "published": "2026-09-23 21:31:55",
       "ts": 1790199115
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australia unemployment rate expected to remain unchanged at 4.5% in August",
-      "link": "https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-remain-unchanged-at-45-in-august-202609232130",
-      "published": "Wed, 23 Sep 2026 21:30:00 GMT",
-      "ts": 1790199000
     },
     {
       "source": "MarketWatch",
@@ -388,39 +388,39 @@
       "ts": 1790100180
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Saudi Pipeline Restart Fails to End Oil Market Tightness",
-      "link": "https://finance.yahoo.com/energy/articles/saudi-pipeline-restart-fails-end-161000625.html",
-      "published": "2026-09-22T16:10:00Z",
-      "ts": 1790093400
+      "source": "Investing Crypto",
+      "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
+      "link": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
+      "published": "2026-09-22 13:38:01",
+      "ts": 1790084281
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is FactSet Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/factset-stock-underperforming-nasdaq-160607471.html",
-      "published": "2026-09-22T16:06:07Z",
-      "ts": 1790093167
+      "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
+      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
+      "published": "2026-09-22T12:39:18Z",
+      "ts": 1790080758
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nvidia Stock is Historically Cheap. The Decade-Low Multiple Reflects Risks, But This Looks Like a Can't-Miss Buy Opportunity for NVDA.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-historically-cheap-decade-160406626.html",
-      "published": "2026-09-22T16:04:06Z",
-      "ts": 1790093046
+      "title": "How Is CF Industries Stock Performance Compared to Other Agricultural Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cf-industries-stock-performance-compared-123532860.html",
+      "published": "2026-09-22T12:35:32Z",
+      "ts": 1790080532
     },
     {
       "source": "Yahoo Finance",
-      "title": "As Amazon Stock Prospers, Traders Might Consider This Option Play",
-      "link": "https://www.investors.com/research/options/amazon-amzn-stock-bull-put-spread-options/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T15:57:55Z",
-      "ts": 1790092675
+      "title": "Is IDEX Corporation Stock Outperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/idex-corporation-stock-outperforming-p-123232001.html",
+      "published": "2026-09-22T12:32:32Z",
+      "ts": 1790080352
     },
     {
       "source": "Yahoo Finance",
-      "title": "Financial winter ahead? Stocks to buy and trim now",
-      "link": "https://finance.yahoo.com/video/financial-winter-ahead-stocks-buy-155702500.html",
-      "published": "2026-09-22T15:57:02Z",
-      "ts": 1790092622
+      "title": "'SICK conspiracy': Trump dismisses calls to rein in AI as his sons cash in on AI-linked defence and tech investments",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sick-conspiracy-trump-dismisses-calls-123000393.html",
+      "published": "2026-09-22T12:30:00Z",
+      "ts": 1790080200
     }
   ]
 }
