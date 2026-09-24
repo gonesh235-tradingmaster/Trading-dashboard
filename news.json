@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T06:13:12.145570Z",
+  "updated": "2026-09-24T06:35:12.790459Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
+      "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+      "published": "Thu, 24 Sep 2026 06:33:23 +0000",
+      "ts": 1790231603
+    },
+    {
+      "source": "FXStreet",
+      "title": "Oil: Geopolitics tighten physical markets – Commerzbank",
+      "link": "https://www.fxstreet.com/news/oil-geopolitics-tighten-physical-markets-commerzbank-202609240615",
+      "published": "Thu, 24 Sep 2026 06:15:54 GMT",
+      "ts": 1790230554
+    },
     {
       "source": "FXStreet",
       "title": "ECB's Kocher says must prevent too high inflation, becoming entrenched",
@@ -85,13 +99,6 @@
       "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 04:44:12 +0000",
       "ts": 1790225052
-    },
-    {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold steadies, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202609240435",
-      "published": "Thu, 24 Sep 2026 04:35:06 GMT",
-      "ts": 1790224506
     },
     {
       "source": "CoinDesk",
@@ -332,13 +339,6 @@
       "ts": 1790166738
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
-      "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
-      "published": "Wed, 23 Sep 2026 11:29:30 +0000",
-      "ts": 1790162970
-    },
-    {
       "source": "Investing Crypto",
       "title": "Analyst says Bitcoin bull market is underway and sets 2029 target",
       "link": "https://www.investing.com/news/cryptocurrency-news/analyst-says-bitcoin-bull-market-is-underway-and-sets-2029-target-4912571",
@@ -389,10 +389,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "SanDisk Just Scored a New 'Buy' Rating. Here's Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-just-scored-buy-rating-184617334.html",
-      "published": "2026-09-22T18:46:17Z",
-      "ts": 1790102777
+      "title": "Best Practices in Sports Investing: 2nd LA CorpGov Forum",
+      "link": "https://finance.yahoo.com/media-advertising/articles/best-practices-sports-investing-2nd-191154115.html",
+      "published": "2026-09-22T19:11:54Z",
+      "ts": 1790104314
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A $20 Million Reason Why Fervo Energy Stock Is in Focus Today",
+      "link": "https://finance.yahoo.com/energy/articles/20-million-reason-why-fervo-190931422.html",
+      "published": "2026-09-22T19:09:31Z",
+      "ts": 1790104171
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "J.Jill (JILL): Four Analysts Raise Targets, But a $13.3 Million Refund Flatters the Profit Surge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/j-jill-jill-four-analysts-190634876.html",
+      "published": "2026-09-22T19:06:34Z",
+      "ts": 1790103994
     },
     {
       "source": "Yahoo Finance",
@@ -407,20 +421,6 @@
       "link": "https://finance.yahoo.com/energy/articles/high-growth-energy-stock-continues-183638227.html",
       "published": "2026-09-22T18:36:38Z",
       "ts": 1790102198
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A $200 Billion Reason to Buy GE Vernova Stock",
-      "link": "https://finance.yahoo.com/energy/articles/200-billion-reason-buy-ge-181346344.html",
-      "published": "2026-09-22T18:13:46Z",
-      "ts": 1790100826
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ETF Zoo: 6 Pundits Walk Into a Bar",
-      "link": "https://finance.yahoo.com/markets/options/articles/etf-zoo-6-pundits-walk-180901573.html",
-      "published": "2026-09-22T18:09:01Z",
-      "ts": 1790100541
     }
   ]
 }
