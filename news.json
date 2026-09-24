@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-24T11:53:49.874551Z",
+  "updated": "2026-09-24T12:12:38.918827Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 12:10:00 GMT",
+      "ts": 1790251800
+    },
+    {
+      "source": "FXStreet",
+      "title": "Norges Bank: Policy rate seen elevated for longer – Nordea",
+      "link": "https://www.fxstreet.com/news/norges-bank-policy-rate-seen-elevated-for-longer-nordea-202609241205",
+      "published": "Thu, 24 Sep 2026 12:05:06 GMT",
+      "ts": 1790251506
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
+      "link": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 12:00:00 +0000",
+      "ts": 1790251200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The next phase of AI is here. Pay attention to this profound technological shift.",
+      "link": "https://www.marketwatch.com/story/the-next-phase-of-ai-is-here-pay-attention-to-this-profound-technological-shift-219cda30?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 12:00:00 GMT",
+      "ts": 1790251200
+    },
     {
       "source": "FXStreet",
       "title": "Bank of Canada: Energy risks complicate October decision - RBC",
@@ -74,13 +102,6 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 11:17:00 GMT",
-      "ts": 1790248620
-    },
-    {
-      "source": "MarketWatch",
       "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
       "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 11:15:00 GMT",
@@ -148,13 +169,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000",
       "published": "Thu, 24 Sep 2026 10:11:51 +0000",
       "ts": 1790244711
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoE’s Dhingra says financial conditions have already done much of the tightening",
-      "link": "https://www.fxstreet.com/news/boes-dhingra-says-financial-conditions-have-already-done-much-of-the-tightening-202609241005",
-      "published": "Thu, 24 Sep 2026 10:05:56 GMT",
-      "ts": 1790244356
     },
     {
       "source": "Investing Forex",
@@ -332,20 +346,6 @@
       "ts": 1790223181
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
-      "link": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 00:53:09 +0000",
-      "ts": 1790211189
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 23:15:00 GMT",
-      "ts": 1790205300
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Interparfums (IPAR) Extends Cavalli Fragrance Deal Through 2046. Can it Boost Profits?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/interparfums-ipar-extends-cavalli-fragrance-011630256.html",
-      "published": "2026-09-23T01:16:30Z",
-      "ts": 1790126190
+      "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
+      "published": "2026-09-23T04:17:10Z",
+      "ts": 1790137030
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hudson Technologies (HDSN) Signs Icorium Deal. Can Better Refrigerant Recycling Lift Margins?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hudson-technologies-hdsn-signs-icorium-010854703.html",
-      "published": "2026-09-23T01:08:54Z",
-      "ts": 1790125734
+      "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
+      "published": "2026-09-23T01:52:26Z",
+      "ts": 1790128346
     }
   ]
 }
