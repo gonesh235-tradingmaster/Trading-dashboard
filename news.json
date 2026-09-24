@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-24T09:10:25.449057Z",
+  "updated": "2026-09-24T09:27:58.749567Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index gains ahead of weekly Initial Jobless Claims data",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gains-ahead-of-weekly-initial-jobless-claims-data-202609240919",
+      "published": "Thu, 24 Sep 2026 09:19:07 GMT",
+      "ts": 1790241547
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
+      "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 09:18:16 +0000",
+      "ts": 1790241496
+    },
+    {
+      "source": "FXStreet",
+      "title": "Brazilian Real: Exchange rate seen weaker into year-end – Rabobank",
+      "link": "https://www.fxstreet.com/news/brazilian-real-exchange-rate-seen-weaker-into-year-end-rabobank-202609240915",
+      "published": "Thu, 24 Sep 2026 09:15:20 GMT",
+      "ts": 1790241320
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
+      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 09:15:00 GMT",
+      "ts": 1790241300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Meta gets price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
+      "link": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 09:12:00 GMT",
+      "ts": 1790241120
+    },
     {
       "source": "FXStreet",
       "title": "Euro holds form against British Pound amid strong Eurozone data, hawkish BoE comments",
@@ -94,27 +129,6 @@
       "ts": 1790238179
     },
     {
-      "source": "FXStreet",
-      "title": "Fed’s Williams: Big challenge is on inflation",
-      "link": "https://www.fxstreet.com/news/feds-williams-big-challenge-is-on-inflation-202609240821",
-      "published": "Thu, 24 Sep 2026 08:21:19 GMT",
-      "ts": 1790238079
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Rally starting to look stretched – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-rally-starting-to-look-stretched-ing-202609240819",
-      "published": "Thu, 24 Sep 2026 08:19:33 GMT",
-      "ts": 1790237973
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc dips to fresh four-month lows as SNB leaves interest rates at 0%",
-      "link": "https://www.fxstreet.com/news/swiss-franc-dips-to-fresh-four-month-lows-as-snb-leaves-interest-rates-at-0-202609240818",
-      "published": "Thu, 24 Sep 2026 08:18:55 GMT",
-      "ts": 1790237935
-    },
-    {
       "source": "Investing Crypto",
       "title": "Litecoin Climbs 10% In a Green Day",
       "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4914566",
@@ -155,6 +169,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
       "published": "Thu, 24 Sep 2026 06:33:23 +0000",
       "ts": 1790231603
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee declines significantly due to oil price recovery, surging US yields",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-regain-ground-202609240538",
+      "published": "Thu, 24 Sep 2026 05:38:45 GMT",
+      "ts": 1790228325
     },
     {
       "source": "CoinDesk",
@@ -248,25 +269,11 @@
       "ts": 1790200072
     },
     {
-      "source": "MarketWatch",
-      "title": "Is gridlock in Washington actually good for stocks? Here’s what historical market data says.",
-      "link": "https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 21:44:00 GMT",
-      "ts": 1790199840
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar rises to nearly two-month high on firmer Fed rate hike bets, rout in bonds",
       "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
       "published": "2026-09-23 21:31:55",
       "ts": 1790199115
-    },
-    {
-      "source": "MarketWatch",
-      "title": "OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl",
-      "link": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 21:27:00 GMT",
-      "ts": 1790198820
     },
     {
       "source": "CoinTelegraph",
@@ -309,13 +316,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
       "published": "2026-09-23 18:41:49",
       "ts": 1790188909
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
-      "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 18:17:48 +0000",
-      "ts": 1790187468
     },
     {
       "source": "CoinDesk",
@@ -396,6 +396,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Jim Cramer Calls Cintas (CTAS) a “Pretty Good Business”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-cintas-ctas-212518154.html",
+      "published": "2026-09-22T21:25:18Z",
+      "ts": 1790112318
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer Says Paychex (PAYX) is Entering Earnings With a “Full Head of Steam”",
       "link": "https://finance.yahoo.com/small-business/articles/jim-cramer-says-paychex-payx-212246691.html",
       "published": "2026-09-22T21:22:46Z",
@@ -410,17 +417,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Kraft Heinz’s Bull Case Runs Into Its Own Recent Reversal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-bull-case-runs-210901221.html",
-      "published": "2026-09-22T21:09:01Z",
-      "ts": 1790111341
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-2f40e335?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-22T21:02:00Z",
-      "ts": 1790110920
+      "title": "Coinbase's IPO move sends stock to four month high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coinbases-ipo-move-sends-stock-211331084.html",
+      "published": "2026-09-22T21:13:31Z",
+      "ts": 1790111611
     }
   ]
 }
