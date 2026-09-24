@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T20:44:56.672232Z",
+  "updated": "2026-09-24T20:56:51.435365Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Costco earnings beat expectations, thanks to tariff refunds",
+      "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 20:54:00 GMT",
+      "ts": 1790283240
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
+      "link": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 20:50:00 GMT",
+      "ts": 1790283000
+    },
     {
       "source": "CoinTelegraph",
       "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
@@ -169,20 +183,6 @@
       "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 18:29:00 GMT",
       "ts": 1790274540
-    },
-    {
-      "source": "MarketWatch",
-      "title": "It’s no secret that Social Security and Medicare are on the ropes. Here’s what to do instead of panicking.",
-      "link": "https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 18:24:00 GMT",
-      "ts": 1790274240
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here are 3 alternatives for investors looking to dodge the bond-market beatdown",
-      "link": "https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 18:07:00 GMT",
-      "ts": 1790273220
     },
     {
       "source": "FXStreet",
