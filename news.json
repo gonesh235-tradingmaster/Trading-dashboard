@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-24T22:26:20.449185Z",
+  "updated": "2026-09-24T22:39:33.222687Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso : Range view with downside risks against US Dollar – Rabobank",
+      "link": "https://www.fxstreet.com/news/mexican-peso-range-view-with-downside-risks-against-us-dollar-rabobank-202609242239",
+      "published": "Thu, 24 Sep 2026 22:39:00 GMT",
+      "ts": 1790289540
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar grinds lower as US bond yields climb to new highs",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-grinds-lower-as-us-bond-yields-climb-to-new-highs-202609242230",
+      "published": "Thu, 24 Sep 2026 22:30:00 GMT",
+      "ts": 1790289000
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+      "published": "Thu, 24 Sep 2026 22:28:49 +0000",
+      "ts": 1790288929
+    },
     {
       "source": "FXStreet",
       "title": "Dow Jones Industrial Average falls a third day as bond yields climb",
@@ -248,20 +269,6 @@
       "ts": 1790275618
     },
     {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Inflation keeps MAS cautious – Commerzbank",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-inflation-keeps-mas-cautious-commerzbank-202609241838",
-      "published": "Thu, 24 Sep 2026 18:38:29 GMT",
-      "ts": 1790275109
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: Fedspeak takes centre stage",
-      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-takes-centre-stage-202609241832",
-      "published": "Thu, 24 Sep 2026 18:32:36 GMT",
-      "ts": 1790274756
-    },
-    {
       "source": "Investing Crypto",
       "title": "moomoo sees 50% jump in crypto buyers as retail demand broadens",
       "link": "https://www.investing.com/news/cryptocurrency-news/moomoo-sees-50-jump-in-crypto-buyers-as-retail-demand-broadens-4915966",
@@ -316,13 +323,6 @@
       "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
       "published": "Thu, 24 Sep 2026 15:07:18 +0000",
       "ts": 1790262438
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
-      "published": "Thu, 24 Sep 2026 14:49:28 +0000",
-      "ts": 1790261368
     },
     {
       "source": "Investing Crypto",
