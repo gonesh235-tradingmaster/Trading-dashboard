@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T10:42:45.792684Z",
+  "updated": "2026-09-24T10:54:53.852703Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold bears tighten their grip as Fed rate hike bets rise",
+      "link": "https://www.fxstreet.com/news/gold-bears-tighten-their-grip-as-fed-rate-hike-bets-rise-202609241054",
+      "published": "Thu, 24 Sep 2026 10:54:28 GMT",
+      "ts": 1790247268
+    },
     {
       "source": "FXStreet",
       "title": "US yields jump to multi-year highs on Fed tightening bets, bond market turmoil",
@@ -141,13 +148,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
       "published": "2026-09-24 09:26:52",
       "ts": 1790242012
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index gains ahead of weekly Initial Jobless Claims data",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gains-ahead-of-weekly-initial-jobless-claims-data-202609240919",
-      "published": "Thu, 24 Sep 2026 09:19:07 GMT",
-      "ts": 1790241547
     },
     {
       "source": "CoinTelegraph",
