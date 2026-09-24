@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-24T22:52:38.645248Z",
+  "updated": "2026-09-24T23:09:30.043088Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen keeps sliding as Tokyo repeats its warning and holds fire",
+      "link": "https://www.fxstreet.com/news/japanese-yen-keeps-sliding-as-tokyo-repeats-its-warning-and-holds-fire-202609242300",
+      "published": "Thu, 24 Sep 2026 23:00:00 GMT",
+      "ts": 1790290800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
+      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 23:00:00 GMT",
+      "ts": 1790290800
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar tests 200-day SMA amid soaring US yields",
+      "link": "https://www.fxstreet.com/news/australian-dollar-tests-200-day-sma-amid-soaring-us-yields-202609242255",
+      "published": "Thu, 24 Sep 2026 22:55:44 GMT",
+      "ts": 1790290544
+    },
     {
       "source": "CoinDesk",
       "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
@@ -246,27 +267,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-24 19:18:41",
       "ts": 1790277521
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The case against buying and holding stocks for the long term",
-      "link": "https://www.marketwatch.com/story/the-case-against-buying-and-holding-stocks-for-the-long-term-a7fd79bb?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 19:06:00 GMT",
-      "ts": 1790276760
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index extends its winning streak as Fed speakers line up behind hikes",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-extends-its-winning-streak-as-fed-speakers-line-up-behind-hikes-202609241904",
-      "published": "Thu, 24 Sep 2026 19:04:21 GMT",
-      "ts": 1790276661
-    },
-    {
-      "source": "FXStreet",
-      "title": "Banxico unanimously holds benchmark rate at 6.50%",
-      "link": "https://www.fxstreet.com/news/banxico-holds-rates-unchanged-at-650-unanimously-202609241901",
-      "published": "Thu, 24 Sep 2026 19:01:58 GMT",
-      "ts": 1790276518
     },
     {
       "source": "CoinDesk",
