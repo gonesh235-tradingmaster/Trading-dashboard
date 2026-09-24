@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-24T08:11:08.404137Z",
+  "updated": "2026-09-24T08:29:40.356558Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
+      "published": "2026-09-24 08:22:59",
+      "ts": 1790238179
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Williams: Big challenge is on inflation",
+      "link": "https://www.fxstreet.com/news/feds-williams-big-challenge-is-on-inflation-202609240821",
+      "published": "Thu, 24 Sep 2026 08:21:19 GMT",
+      "ts": 1790238079
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Rally starting to look stretched – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-rally-starting-to-look-stretched-ing-202609240819",
+      "published": "Thu, 24 Sep 2026 08:19:33 GMT",
+      "ts": 1790237973
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc dips to fresh four-month lows as SNB leaves interest rates at 0%",
+      "link": "https://www.fxstreet.com/news/swiss-franc-dips-to-fresh-four-month-lows-as-snb-leaves-interest-rates-at-0-202609240818",
+      "published": "Thu, 24 Sep 2026 08:18:55 GMT",
+      "ts": 1790237935
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss National Bank's Martin: Inflation likely to remain elevated for some time",
+      "link": "https://www.fxstreet.com/news/swiss-national-banks-martin-inflation-likely-to-remain-elevated-for-some-time-202609240816",
+      "published": "Thu, 24 Sep 2026 08:16:27 GMT",
+      "ts": 1790237787
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss National Bank's Tschudin: GDP growth exceptionally strong in Q2",
+      "link": "https://www.fxstreet.com/news/swiss-national-banks-tschudin-gdp-growth-exceptionally-strong-in-q2-202609240814",
+      "published": "Thu, 24 Sep 2026 08:14:17 GMT",
+      "ts": 1790237657
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss National Bank's Schlegel: Will continue to monitor situation and adjust policy if necessary",
+      "link": "https://www.fxstreet.com/news/swiss-national-banks-schlegel-will-continue-to-monitor-situation-and-adjust-policy-if-necessary-202609240811",
+      "published": "Thu, 24 Sep 2026 08:11:08 GMT",
+      "ts": 1790237468
+    },
     {
       "source": "FXStreet",
       "title": "Dow Jones futures drop as Fed rate hike expectations surge",
@@ -24,13 +73,6 @@
       "ts": 1790237154
     },
     {
-      "source": "FXStreet",
-      "title": "Germany’s IFO Business Climate Index arrives higher at 89.9, beats 89.0 estimates",
-      "link": "https://www.fxstreet.com/news/germanys-ifo-business-climate-index-arrives-higher-at-899-beats-890-estimates-202609240802",
-      "published": "Thu, 24 Sep 2026 08:02:14 GMT",
-      "ts": 1790236934
-    },
-    {
       "source": "Investing Crypto",
       "title": "Litecoin Climbs 10% In a Green Day",
       "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4914566",
@@ -45,13 +87,6 @@
       "ts": 1790236229
     },
     {
-      "source": "FXStreet",
-      "title": "0.7000: Key support zone for Australian Dollar ahead of Trump-Xi meeting",
-      "link": "https://www.fxstreet.com/news/07000-key-support-zone-for-australian-dollar-ahead-of-trump-xi-meeting-202609240750",
-      "published": "Thu, 24 Sep 2026 07:50:28 GMT",
-      "ts": 1790236228
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro yields jump as robust PMI prints strengthen case for further ECB hikes",
       "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
@@ -59,39 +94,11 @@
       "ts": 1790236185
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Volatility watch over autumn holidays – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-volatility-watch-over-autumn-holidays-mufg-202609240748",
-      "published": "Thu, 24 Sep 2026 07:48:48 GMT",
-      "ts": 1790236128
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound steadies as stretched dollar rally meets Treasury yield peak",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-stretched-dollar-rally-meets-treasury-yield-peak-4914548",
       "published": "2026-09-24 07:45:39",
       "ts": 1790235939
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: US Dollar stands tall as focus remains on central bank commentary",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-stands-tall-as-focus-remains-on-central-bank-commentary-202609240742",
-      "published": "Thu, 24 Sep 2026 07:42:23 GMT",
-      "ts": 1790235743
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar gains as US Dollar declines despite hawkish Fed tone",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-us-dollar-declines-despite-hawkish-fed-tone-202609240739",
-      "published": "Thu, 24 Sep 2026 07:39:21 GMT",
-      "ts": 1790235561
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss National Bank leaves interest rates unchanged at 0%",
-      "link": "https://www.fxstreet.com/news/snb-leaves-interest-rates-unchanged-at-0-202609240732",
-      "published": "Thu, 24 Sep 2026 07:32:36 GMT",
-      "ts": 1790235156
     },
     {
       "source": "Investing Crypto",
@@ -155,13 +162,6 @@
       "link": "https://www.fxstreet.com/news/gold-struggles-below-4-300-one-week-low-as-fed-hike-bets-and-iran-risks-underpin-usd-202609240351",
       "published": "Thu, 24 Sep 2026 03:51:01 GMT",
       "ts": 1790221861
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
-      "published": "2026-09-24 03:42:22",
-      "ts": 1790221342
     },
     {
       "source": "CoinTelegraph",
@@ -403,24 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "NY Fed's Perli says monetary policy toolkit working very well",
+      "link": "https://finance.yahoo.com/economy/policy/articles/ny-feds-perli-says-monetary-202729503.html",
+      "published": "2026-09-22T20:27:29Z",
+      "ts": 1790108849
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Netflix Stock Downgraded As YouTube Swipes Viewers",
+      "link": "https://www.investors.com/news/technology/netflix-stock-downgraded-as-youtube-swipes-viewers/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T20:23:27Z",
+      "ts": 1790108607
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "ABM Industries (ABM) Is Scaling in Semiconductors and Data Centers. What Is Holding the Stock Back?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/abm-industries-abm-scaling-semiconductors-202200179.html",
       "published": "2026-09-22T20:22:00Z",
       "ts": 1790108520
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Micron, IBD Stock Of The Day, Surges Past Early Buy Point With Earnings Ahead",
-      "link": "https://www.investors.com/research/ibd-stock-of-the-day/micron-stock-mu-buy-point-earnings/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T20:21:33Z",
-      "ts": 1790108493
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Lilly Rises, But Novo Falls.",
-      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T20:21:01Z",
-      "ts": 1790108461
     }
   ]
 }
