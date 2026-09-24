@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T11:41:29.406291Z",
+  "updated": "2026-09-24T11:53:49.874551Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Bank of Canada: Energy risks complicate October decision - RBC",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-energy-risks-complicate-october-decision-rbc-202609241147",
+      "published": "Thu, 24 Sep 2026 11:47:11 GMT",
+      "ts": 1790250431
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar dips to fresh two-month lows amid higher US yields, Fed hiking bets",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-to-fresh-two-month-lows-amid-higher-us-yields-fed-hiking-bets-202609241143",
+      "published": "Thu, 24 Sep 2026 11:43:16 GMT",
+      "ts": 1790250196
+    },
     {
       "source": "CoinDesk",
       "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
@@ -157,32 +171,11 @@
       "ts": 1790244060
     },
     {
-      "source": "FXStreet",
-      "title": "Mexican Peso: Downward momentum returns after 200-DMA break – Societe Generale",
-      "link": "https://www.fxstreet.com/news/mexican-peso-downward-momentum-returns-after-200-dma-break-societe-generale-202609240957",
-      "published": "Thu, 24 Sep 2026 09:57:14 GMT",
-      "ts": 1790243834
-    },
-    {
       "source": "CoinDesk",
       "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
       "link": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
       "published": "Thu, 24 Sep 2026 09:48:09 +0000",
       "ts": 1790243289
-    },
-    {
-      "source": "FXStreet",
-      "title": "PBoC vows to maintain loose monetary policy, keep Chinese Yuan stable",
-      "link": "https://www.fxstreet.com/news/pboc-vows-to-maintain-loose-monetary-policy-keep-chinese-yuan-stable-202609240946",
-      "published": "Thu, 24 Sep 2026 09:46:20 GMT",
-      "ts": 1790243180
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Downside risks start to shrink against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-start-to-shrink-against-us-dollar-ing-202609240942",
-      "published": "Thu, 24 Sep 2026 09:42:21 GMT",
-      "ts": 1790242941
     },
     {
       "source": "CoinDesk",
@@ -295,6 +288,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
       "published": "Thu, 24 Sep 2026 06:33:23 +0000",
       "ts": 1790231603
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee declines significantly due to oil price recovery, surging US yields",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-regain-ground-202609240538",
+      "published": "Thu, 24 Sep 2026 05:38:45 GMT",
+      "ts": 1790228325
     },
     {
       "source": "CoinDesk",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Churchill Downs (CHDN) Prices $500 Million Loan. Could Interest Costs Rise?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/churchill-downs-chdn-prices-500-005951580.html",
-      "published": "2026-09-23T00:59:51Z",
-      "ts": 1790125191
+      "title": "Interparfums (IPAR) Extends Cavalli Fragrance Deal Through 2046. Can it Boost Profits?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/interparfums-ipar-extends-cavalli-fragrance-011630256.html",
+      "published": "2026-09-23T01:16:30Z",
+      "ts": 1790126190
     },
     {
       "source": "Yahoo Finance",
-      "title": "Atlanticus Holdings (ATLC) Sells Auto Finance Unit. Can it Replace Lost Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/atlanticus-holdings-atlc-sells-auto-005703318.html",
-      "published": "2026-09-23T00:57:03Z",
-      "ts": 1790125023
+      "title": "Hudson Technologies (HDSN) Signs Icorium Deal. Can Better Refrigerant Recycling Lift Margins?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hudson-technologies-hdsn-signs-icorium-010854703.html",
+      "published": "2026-09-23T01:08:54Z",
+      "ts": 1790125734
     }
   ]
 }
