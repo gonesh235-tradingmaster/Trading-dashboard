@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-24T12:35:07.476197Z",
+  "updated": "2026-09-24T12:56:07.661368Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Here’s where thousands of homeowners face higher insurance bills after FEMA updated its flood maps",
+      "link": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 12:51:00 GMT",
+      "ts": 1790254260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "With the stock market ‘priced for perfection,’ the S&P 500 is in danger of a 20% slump next year",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 12:48:00 GMT",
+      "ts": 1790254080
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price falls as Fed hawkish outlook drives US yields higher",
+      "link": "https://www.fxstreet.com/news/silver-price-falls-as-fed-hawkish-outlook-drives-us-yields-higher-202609241245",
+      "published": "Thu, 24 Sep 2026 12:45:36 GMT",
+      "ts": 1790253936
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Record-breaking diesel prices are poised to hit grocery bills — and your Thanksgiving turkey",
+      "link": "https://www.marketwatch.com/story/record-breaking-diesel-prices-look-set-to-push-grocery-bills-even-higher-and-thanksgiving-is-getting-closer-178d3959?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 12:45:00 GMT",
+      "ts": 1790253900
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swedish Krona: Riksbank hawkish hold backs currency – BBH",
+      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-hawkish-hold-backs-currency-bbh-202609241237",
+      "published": "Thu, 24 Sep 2026 12:37:12 GMT",
+      "ts": 1790253432
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Initial Jobless Claims dropped to 197K last week",
+      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-197k-last-week-202609241235",
+      "published": "Thu, 24 Sep 2026 12:35:42 GMT",
+      "ts": 1790253342
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound heads for lowest close since June as dollar rally holds",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-stretched-dollar-rally-meets-treasury-yield-peak-4914548",
+      "published": "2026-09-24 12:34:27",
+      "ts": 1790253267
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
@@ -36,13 +85,6 @@
       "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 12:15:00 GMT",
       "ts": 1790252100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 12:10:00 GMT",
-      "ts": 1790251800
     },
     {
       "source": "FXStreet",
@@ -87,20 +129,6 @@
       "ts": 1790249637
     },
     {
-      "source": "FXStreet",
-      "title": "US President Trump: Super Intelligence will be a big topic of discussion",
-      "link": "https://www.fxstreet.com/news/us-president-trump-super-intelligence-will-be-a-big-topic-of-discussion-202609241132",
-      "published": "Thu, 24 Sep 2026 11:32:42 GMT",
-      "ts": 1790249562
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro advances as strong German IFO, cautious BoJ outlook weigh on Japanese Yen",
-      "link": "https://www.fxstreet.com/news/euro-advances-as-strong-german-ifo-cautious-boj-outlook-weigh-on-japanese-yen-202609241127",
-      "published": "Thu, 24 Sep 2026 11:27:48 GMT",
-      "ts": 1790249268
-    },
-    {
       "source": "CoinDesk",
       "title": "Litecoin token has its moment as network activity booms",
       "link": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
@@ -115,25 +143,11 @@
       "ts": 1790249047
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar: Labor data underpins RBA hike view – BBH",
-      "link": "https://www.fxstreet.com/news/australian-dollar-labor-data-underpins-rba-hike-view-bbh-202609241123",
-      "published": "Thu, 24 Sep 2026 11:23:32 GMT",
-      "ts": 1790249012
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin falls to $83,000 as bond yields take center stage",
       "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
       "published": "Thu, 24 Sep 2026 11:20:12 +0000",
       "ts": 1790248812
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound sees more downside as US Yields rally further",
-      "link": "https://www.fxstreet.com/news/british-pound-sees-more-downside-as-us-yields-rally-further-202609241119",
-      "published": "Thu, 24 Sep 2026 11:19:56 GMT",
-      "ts": 1790248796
     },
     {
       "source": "MarketWatch",
@@ -148,6 +162,13 @@
       "link": "https://www.marketwatch.com/story/as-the-trump-xi-meetings-unfold-investors-should-watch-for-this-hidden-ai-trade-7abf11b9?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 11:01:00 GMT",
       "ts": 1790247660
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold bears tighten their grip as Fed rate hike bets rise",
+      "link": "https://www.fxstreet.com/news/gold-bears-tighten-their-grip-as-fed-rate-hike-bets-rise-202609241054",
+      "published": "Thu, 24 Sep 2026 10:54:28 GMT",
+      "ts": 1790247268
     },
     {
       "source": "CoinDesk",
@@ -253,20 +274,6 @@
       "link": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 09:12:00 GMT",
       "ts": 1790241120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "8 grassroots porchfests for experiencing free live music and neighborhood culture",
-      "link": "https://www.marketwatch.com/story/8-grassroots-porchfests-for-experiencing-free-live-music-and-neighborhood-culture-34a2dc81?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 09:02:00 GMT",
-      "ts": 1790240520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Selena Gomez sells her Encino mansion, once owned by Tom Petty, for $5.4 million",
-      "link": "https://www.marketwatch.com/story/selena-gomez-sells-her-encino-mansion-once-owned-by-tom-petty-for-5-4-million-47a87d65?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 08:59:00 GMT",
-      "ts": 1790240340
     },
     {
       "source": "Investing Forex",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
       "published": "2026-09-23T04:29:16Z",
       "ts": 1790137756
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-      "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
-      "published": "2026-09-23T04:24:33Z",
-      "ts": 1790137473
     }
   ]
 }
