@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T01:25:34.261046Z",
+  "updated": "2026-09-24T01:39:55.489123Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI slips below $91.00 despite rising US-Iran friction",
+      "link": "https://www.fxstreet.com/news/wti-slips-below-9100-despite-rising-us-iran-friction-202609240129",
+      "published": "Thu, 24 Sep 2026 01:29:20 GMT",
+      "ts": 1790213360
+    },
     {
       "source": "FXStreet",
       "title": "British Pound bears retain control near July lows amid Fed-BoE divergence",
@@ -73,13 +80,6 @@
       "ts": 1790205300
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar tumbles amid soaring US yields, ahead of jobs data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-amid-soaring-us-yields-ahead-of-jobs-data-202609232306",
-      "published": "Wed, 23 Sep 2026 23:06:51 GMT",
-      "ts": 1790204811
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
@@ -137,7 +137,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Australia unemployment rate forecast to remain steady at 4.5% in August",
+      "title": "Breaking: Australia’s Unemployment Rate jumps to 4.6% in August, vs 4.5% expected",
       "link": "https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-remain-unchanged-at-45-in-august-202609232130",
       "published": "Wed, 23 Sep 2026 21:30:00 GMT",
       "ts": 1790199000
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Kingfisher Screws Its Profit Guidance Higher",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kingfisher-screws-profit-guidance-higher-135904080.html",
-      "published": "2026-09-22T13:59:04Z",
-      "ts": 1790085544
+      "title": "Sonida Senior Living (SNDA) Poised for Strong Performance Over the Next Several Years",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sonida-senior-living-snda-poised-141451416.html",
+      "published": "2026-09-22T14:14:51Z",
+      "ts": 1790086491
     },
     {
       "source": "Yahoo Finance",
-      "title": "5 Questions With: Boston Questrom’s Leadership Team",
-      "link": "https://finance.yahoo.com/small-business/articles/5-questions-boston-questrom-leadership-135859908.html",
-      "published": "2026-09-22T13:58:59Z",
-      "ts": 1790085539
+      "title": "Fed's Williams says rate-control toolkit is working well",
+      "link": "https://finance.yahoo.com/economy/policy/articles/feds-williams-says-rate-control-140742644.html",
+      "published": "2026-09-22T14:07:42Z",
+      "ts": 1790086062
     },
     {
       "source": "Yahoo Finance",
-      "title": "US Legislators Are Debating a Diesel Export Ban Ahead of Midterms — Here's Why",
-      "link": "https://finance.yahoo.com/news/us-legislators-debating-diesel-export-135702135.html",
-      "published": "2026-09-22T13:57:02Z",
-      "ts": 1790085422
+      "title": "Binance invests $100 million in Circle, signs 5-year USDC deal",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-invests-100-million-circle-140628659.html",
+      "published": "2026-09-22T14:06:28Z",
+      "ts": 1790085988
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is International Paper Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/news/international-paper-stock-underperforming-dow-135035800.html",
-      "published": "2026-09-22T13:50:35Z",
-      "ts": 1790085035
+      "title": "Minot Light’s Bullish Stance on Rockwell Medical (RMTI)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/minot-light-bullish-stance-rockwell-140627170.html",
+      "published": "2026-09-22T14:06:27Z",
+      "ts": 1790085987
     },
     {
       "source": "Yahoo Finance",
-      "title": "Elon Musk’s X Offers Crypto Trading To Users",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-x-offers-crypto-134900718.html",
-      "published": "2026-09-22T13:49:00Z",
-      "ts": 1790084940
+      "title": "Prosus Puts AI in the Executive Suite",
+      "link": "https://finance.yahoo.com/technology/ai/articles/prosus-puts-ai-executive-suite-140509559.html",
+      "published": "2026-09-22T14:05:09Z",
+      "ts": 1790085909
     }
   ]
 }
