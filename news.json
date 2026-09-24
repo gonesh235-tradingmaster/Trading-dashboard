@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-24T08:29:40.356558Z",
+  "updated": "2026-09-24T08:46:10.454768Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "South African Rand: SARB hikes again but environment stays tough – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-african-rand-sarb-hikes-again-but-environment-stays-tough-commerzbank-202609240844",
+      "published": "Thu, 24 Sep 2026 08:44:34 GMT",
+      "ts": 1790239474
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The market is pricing in too many Fed hikes, says the former Dallas Fed chief",
+      "link": "https://www.marketwatch.com/story/the-market-is-pricing-in-too-many-fed-hikes-says-the-former-dallas-fed-chief-5de8cc3c?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 08:42:00 GMT",
+      "ts": 1790239320
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Fiscal risks point lower against US Dollar - MUFG",
+      "link": "https://www.fxstreet.com/news/euro-fiscal-risks-point-lower-against-us-dollar-mufg-202609240833",
+      "published": "Thu, 24 Sep 2026 08:33:59 GMT",
+      "ts": 1790238839
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Australia says OpenAI agent hacked government site before Altman warning",
+      "link": "https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 08:29:11 +0000",
+      "ts": 1790238551
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows",
@@ -57,20 +85,6 @@
       "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-fed-rate-hike-expectations-surge-202609240809",
       "published": "Thu, 24 Sep 2026 08:09:18 GMT",
       "ts": 1790237358
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar: RBA may follow hawkish market pricing – Commerzbank",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-may-follow-hawkish-market-pricing-commerzbank-202609240807",
-      "published": "Thu, 24 Sep 2026 08:07:29 GMT",
-      "ts": 1790237249
-    },
-    {
-      "source": "FXStreet",
-      "title": "Bank of England’s Lombardelli: Policy likely to need to tighten if energy risks persist",
-      "link": "https://www.fxstreet.com/news/bank-of-englands-lombardelli-policy-likely-to-need-to-tighten-if-energy-risks-persist-202609240805",
-      "published": "Thu, 24 Sep 2026 08:05:54 GMT",
-      "ts": 1790237154
     },
     {
       "source": "Investing Crypto",
@@ -255,13 +269,6 @@
       "ts": 1790197680
     },
     {
-      "source": "MarketWatch",
-      "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
-      "link": "https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 20:45:00 GMT",
-      "ts": 1790196300
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
       "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitgo-says-asset-servicing-is-the-real-barrier-to-tokenized-securities-4913704",
       "published": "2026-09-23 17:53:48",
       "ts": 1790186028
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
-      "link": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 16:34:27 +0000",
-      "ts": 1790181267
     },
     {
       "source": "CoinDesk",
@@ -395,32 +395,32 @@
       "ts": 1790148634
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Here Group Limited Q4 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/group-limited-q4-2026-earnings-210044929.html",
+      "published": "2026-09-22T21:00:44Z",
+      "ts": 1790110844
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ETF League Tables: Schwab Sheds Almost $15B",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-schwab-sheds-210033913.html",
+      "published": "2026-09-22T21:00:33Z",
+      "ts": 1790110833
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Daily ETF Flows: ARKK Enters Top 10",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/daily-etf-flows-arkk-enters-210004371.html",
+      "published": "2026-09-22T21:00:04Z",
+      "ts": 1790110804
+    },
+    {
       "source": "Investing Forex",
       "title": "Dollar pinned at nearly 8-week high, euro slips while yen flat amid holiday volume",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
       "published": "2026-09-22 20:59:43",
       "ts": 1790110783
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "NY Fed's Perli says monetary policy toolkit working very well",
-      "link": "https://finance.yahoo.com/economy/policy/articles/ny-feds-perli-says-monetary-202729503.html",
-      "published": "2026-09-22T20:27:29Z",
-      "ts": 1790108849
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Netflix Stock Downgraded As YouTube Swipes Viewers",
-      "link": "https://www.investors.com/news/technology/netflix-stock-downgraded-as-youtube-swipes-viewers/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T20:23:27Z",
-      "ts": 1790108607
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ABM Industries (ABM) Is Scaling in Semiconductors and Data Centers. What Is Holding the Stock Back?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/abm-industries-abm-scaling-semiconductors-202200179.html",
-      "published": "2026-09-22T20:22:00Z",
-      "ts": 1790108520
     }
   ]
 }
