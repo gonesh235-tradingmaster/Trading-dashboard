@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T05:09:16.847966Z",
+  "updated": "2026-09-24T05:25:37.336183Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
+      "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
+      "published": "Thu, 24 Sep 2026 05:24:56 +0000",
+      "ts": 1790227496
+    },
     {
       "source": "FXStreet",
       "title": "EUR/USD Price Forecast: Trades below 1.1400, near two-month low ahead of Trump-Xi summit",
@@ -60,7 +67,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold struggles below $4,300, one-week low as Fed hike bets and Iran risks underpin USD",
+      "title": "Gold flat lines below $4,300 as Fed hike bets cap upside ahead of Trump-Xi meet",
       "link": "https://www.fxstreet.com/news/gold-struggles-below-4-300-one-week-low-as-fed-hike-bets-and-iran-risks-underpin-usd-202609240351",
       "published": "Thu, 24 Sep 2026 03:51:01 GMT",
       "ts": 1790221861
@@ -332,13 +339,6 @@
       "ts": 1790162970
     },
     {
-      "source": "CoinDesk",
-      "title": "The S&P 500 has a 'breadth' problem. Crypto doesn’t.",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
-      "published": "Wed, 23 Sep 2026 11:28:50 +0000",
-      "ts": 1790162930
-    },
-    {
       "source": "Investing Crypto",
       "title": "Analyst says Bitcoin bull market is underway and sets 2029 target",
       "link": "https://www.investing.com/news/cryptocurrency-news/analyst-says-bitcoin-bull-market-is-underway-and-sets-2029-target-4912571",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Soybean Bulls Pushing Higher at Midday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/soybean-bulls-pushing-higher-midday-172246256.html",
-      "published": "2026-09-22T17:22:46Z",
-      "ts": 1790097766
+      "title": "Herc Holdings Inc. (HRI) Was Gabelli Focused Growth and Income Fund’s Top Q2 Contributor",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/herc-holdings-inc-hri-gabelli-173214130.html",
+      "published": "2026-09-22T17:32:14Z",
+      "ts": 1790098334
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corn Slipping Back on Tuesday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-slipping-back-tuesday-172246595.html",
-      "published": "2026-09-22T17:22:46Z",
-      "ts": 1790097766
+      "title": "Will Lowe's Stock Keep Falling? Unusually Heavy LOW Put Options Activity May Imply This - Or Does It?",
+      "link": "https://finance.yahoo.com/markets/options/articles/lowes-stock-keep-falling-unusually-173002768.html",
+      "published": "2026-09-22T17:30:02Z",
+      "ts": 1790098202
     },
     {
       "source": "Yahoo Finance",
-      "title": "Piston raises $15M to expand cardless fuel payments network",
-      "link": "https://finance.yahoo.com/small-business/articles/piston-raises-15m-expand-cardless-172134521.html",
-      "published": "2026-09-22T17:21:34Z",
-      "ts": 1790097694
+      "title": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
+      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-stock-amzn-key-level/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T17:26:43Z",
+      "ts": 1790098003
     },
     {
       "source": "Yahoo Finance",
-      "title": "Private markets dealmaking is starting to mirror Greater China's K-shaped economy",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/private-markets-dealmaking-starting-mirror-172112209.html",
-      "published": "2026-09-22T17:21:12Z",
-      "ts": 1790097672
+      "title": "3 High-Yielding Dividend Stocks That Are No-Brainer Buys for Retirees and Risk-Averse Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-high-yielding-dividend-stocks-172330076.html",
+      "published": "2026-09-22T17:23:30Z",
+      "ts": 1790097810
     }
   ]
 }
