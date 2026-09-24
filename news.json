@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T19:09:39.288076Z",
+  "updated": "2026-09-24T19:24:58.098628Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The government canceled her student loans due to a scam — but $72,000 is still on her credit report",
+      "link": "https://www.marketwatch.com/story/the-government-canceled-her-student-loans-due-to-a-scam-but-72-000-is-still-on-her-credit-report-4889733b?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 19:19:00 GMT",
+      "ts": 1790277540
+    },
     {
       "source": "MarketWatch",
       "title": "The case against buying and holding stocks for the long term",
@@ -18,7 +25,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Banxico holds rates unchanged at 6.50% unanimously",
+      "title": "Banxico unanimously holds benchmark rate at 6.50%",
       "link": "https://www.fxstreet.com/news/banxico-holds-rates-unchanged-at-650-unanimously-202609241901",
       "published": "Thu, 24 Sep 2026 19:01:58 GMT",
       "ts": 1790276518
@@ -148,13 +155,6 @@
       "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 16:45:00 GMT",
       "ts": 1790268300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Oracle’s stock is falling as investors fear a data-center setback",
-      "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 16:42:00 GMT",
-      "ts": 1790268120
     },
     {
       "source": "FXStreet",
