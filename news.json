@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-24T06:56:10.519376Z",
+  "updated": "2026-09-24T07:12:42.784658Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Swedish Krona: Riksbank seen holding but keeping hike option – Commerzbank",
+      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-seen-holding-but-keeping-hike-option-commerzbank-202609240707",
+      "published": "Thu, 24 Sep 2026 07:07:42 GMT",
+      "ts": 1790233662
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/CAD Price Forecast: Gains ground to near 1.4100, holding bullish bias above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-gains-ground-to-near-14100-holding-bullish-bias-above-100-day-sma-202609240659",
+      "published": "Thu, 24 Sep 2026 06:59:15 GMT",
+      "ts": 1790233155
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: global indices under pressure – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-global-indices-under-pressure-deutsche-bank-202609240657",
+      "published": "Thu, 24 Sep 2026 06:57:44 GMT",
+      "ts": 1790233064
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc: Franc weakness seen slowing near 0.95 against Euro – Commerzbank",
@@ -53,28 +74,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "WTI falls below $91.50 amid hope for US-Iran diplomatic progress",
-      "link": "https://www.fxstreet.com/news/wti-falls-below-9150-amid-hope-for-us-iran-diplomatic-progress-202609240607",
-      "published": "Thu, 24 Sep 2026 06:07:36 GMT",
-      "ts": 1790230056
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound holds gains despite stronger US PMI, hawkish Fed stance",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-gains-despite-stronger-us-pmi-hawkish-fed-stance-202609240539",
-      "published": "Thu, 24 Sep 2026 05:39:59 GMT",
-      "ts": 1790228399
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah faces pressure amid fiscal concerns",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-faces-pressure-amid-fiscal-concerns-202609240539",
-      "published": "Thu, 24 Sep 2026 05:39:30 GMT",
-      "ts": 1790228370
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee falls further as oil prices regain ground",
+      "title": "Indian Rupee extends decline as Iran vows not to surrender to US",
       "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-regain-ground-202609240538",
       "published": "Thu, 24 Sep 2026 05:38:45 GMT",
       "ts": 1790228325
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dollar Supported by Hawkish Fed Comments",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-supported-hawkish-fed-comments-193221734.html",
-      "published": "2026-09-22T19:32:21Z",
-      "ts": 1790105541
+      "title": "VKTX Stock Soars as Viking Therapeutics Announces Positive GLP-1 Trial Results",
+      "link": "https://finance.yahoo.com/healthcare/articles/vktx-stock-soars-viking-therapeutics-191823501.html",
+      "published": "2026-09-22T19:18:23Z",
+      "ts": 1790104703
     },
     {
       "source": "Yahoo Finance",
-      "title": "“Pattern of misconduct”: Bialostozky faces another Chicago foreclosure as alleged mortgage fraud widens across multiple states",
-      "link": "https://finance.yahoo.com/real-estate/articles/pattern-misconduct-bialostozky-faces-another-193000936.html",
-      "published": "2026-09-22T19:30:00Z",
-      "ts": 1790105400
+      "title": "Diplomatic Hopes in the Middle East Knock Crude Prices Lower",
+      "link": "https://finance.yahoo.com/energy/articles/diplomatic-hopes-middle-east-knock-191435224.html",
+      "published": "2026-09-22T19:14:35Z",
+      "ts": 1790104475
     },
     {
       "source": "Yahoo Finance",
-      "title": "CRCL Stock Alert: What to Know as Circle Lands $100 Billion Deal With Binance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/crcl-stock-alert-know-circle-192527429.html",
-      "published": "2026-09-22T19:25:27Z",
-      "ts": 1790105127
+      "title": "Integra ready to deploy $250M after closing multifamily fund",
+      "link": "https://finance.yahoo.com/real-estate/articles/integra-ready-deploy-250m-closing-191212523.html",
+      "published": "2026-09-22T19:12:12Z",
+      "ts": 1790104332
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Has the U.S. Long Bond  Futures Broken Out of the Multiyear Consolidation Range in 2026?",
-      "link": "https://finance.yahoo.com/markets/options/articles/why-u-long-bond-futures-190002388.html",
-      "published": "2026-09-22T19:00:02Z",
-      "ts": 1790103602
+      "title": "Best Practices in Sports Investing: 2nd LA CorpGov Forum",
+      "link": "https://finance.yahoo.com/media-advertising/articles/best-practices-sports-investing-2nd-191154115.html",
+      "published": "2026-09-22T19:11:54Z",
+      "ts": 1790104314
     }
   ]
 }
