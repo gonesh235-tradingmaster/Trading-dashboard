@@ -1,13 +1,48 @@
 {
-  "updated": "2026-09-24T23:24:37.943204Z",
+  "updated": "2026-09-24T23:38:20.922572Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 23:35:00 GMT",
+      "ts": 1790292900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "3 things Micron investors need to watch as the stakes get higher",
+      "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 23:28:00 GMT",
+      "ts": 1790292480
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
+      "link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 23:27:17 +0000",
+      "ts": 1790292437
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The S&P 500’s newest tech stock is now its best performer",
+      "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 23:26:00 GMT",
+      "ts": 1790292360
+    },
     {
       "source": "FXStreet",
       "title": "Gold declines below $4,300 as rising oil prices and hawkish Fed stance dampen appeal",
       "link": "https://www.fxstreet.com/news/gold-declines-below-4-300-as-rising-oil-prices-and-hawkish-fed-stance-dampen-appeal-202609242323",
       "published": "Thu, 24 Sep 2026 23:23:27 GMT",
       "ts": 1790292207
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Costco’s results beat expectations. Here’s why investors are still cautious.",
+      "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 23:23:00 GMT",
+      "ts": 1790292180
     },
     {
       "source": "MarketWatch",
@@ -158,13 +193,6 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Costco earnings beat expectations, thanks to tariff refunds",
-      "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 20:54:00 GMT",
-      "ts": 1790283240
-    },
-    {
-      "source": "MarketWatch",
       "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
       "link": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 20:50:00 GMT",
@@ -197,13 +225,6 @@
       "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
       "published": "Thu, 24 Sep 2026 20:13:25 +0000",
       "ts": 1790280805
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Oracle’s stock is falling as investors fear a data-center setback",
-      "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 20:12:00 GMT",
-      "ts": 1790280720
     },
     {
       "source": "CoinDesk",
@@ -239,20 +260,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 19:50:39 +0000",
       "ts": 1790279439
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Companies keep raising prices. The Fed is trying to get them to reconsider.",
-      "link": "https://www.marketwatch.com/story/companies-keep-raising-prices-the-fed-is-trying-to-get-them-to-reconsider-a57b9af7?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 19:42:00 GMT",
-      "ts": 1790278920
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m afraid of ‘starving to death.’ Social Security stopped our checks due to a hacked bank account. What can we do?",
-      "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 19:40:00 GMT",
-      "ts": 1790278800
     },
     {
       "source": "Investing Crypto",
@@ -309,13 +316,6 @@
       "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
       "published": "Thu, 24 Sep 2026 15:48:20 +0000",
       "ts": 1790264900
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "New York sues Polymarket over alleged illegal gambling business",
-      "link": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 15:27:29 +0000",
-      "ts": 1790263649
     },
     {
       "source": "CoinDesk",
