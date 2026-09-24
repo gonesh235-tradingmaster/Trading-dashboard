@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T17:38:56.790426Z",
+  "updated": "2026-09-24T17:51:22.122724Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
+      "link": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 17:47:00 GMT",
+      "ts": 1790272020
+    },
     {
       "source": "Investing Crypto",
       "title": "moomoo sees 50% jump in crypto buyers as retail demand broadens",
@@ -127,13 +134,6 @@
       "link": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 15:57:00 +0000",
       "ts": 1790265420
-    },
-    {
-      "source": "MarketWatch",
-      "title": "As diesel prices surge, Tesla makes its big play for the trucking market",
-      "link": "https://www.marketwatch.com/story/as-diesel-prices-surge-tesla-makes-its-big-play-for-the-trucking-market-b6e2b6f7?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 15:54:00 GMT",
-      "ts": 1790265240
     },
     {
       "source": "CoinDesk",
