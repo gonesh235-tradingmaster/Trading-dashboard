@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T03:54:34.887093Z",
+  "updated": "2026-09-24T04:10:06.882265Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar consolidates around 0.5675 vs USD as bears await Trump-Xi summit",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-consolidates-around-05675-vs-usd-as-bears-await-trump-xi-summit-202609240408",
+      "published": "Thu, 24 Sep 2026 04:08:14 GMT",
+      "ts": 1790222894
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Softens below 180.00, bearish bias persists below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-softens-below-18000-bearish-bias-persists-below-100-day-sma-202609240407",
+      "published": "Thu, 24 Sep 2026 04:07:33 GMT",
+      "ts": 1790222853
+    },
     {
       "source": "FXStreet",
       "title": "Gold struggles below $4,300, one-week low as Fed hike bets and Iran risks underpin USD",
@@ -57,20 +71,6 @@
       "link": "https://www.fxstreet.com/news/japans-katayama-principles-on-fx-established-since-coordinated-intervention-remain-in-effect-202609240153",
       "published": "Thu, 24 Sep 2026 01:53:50 GMT",
       "ts": 1790214830
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar hangs near August 7 low after weak jobs data, ahead of Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/australian-dollar-hangs-near-august-7-low-after-weak-jobs-data-ahead-of-trump-xi-summit-202609240145",
-      "published": "Thu, 24 Sep 2026 01:45:38 GMT",
-      "ts": 1790214338
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI slips below $91.00 despite rising US-Iran friction",
-      "link": "https://www.fxstreet.com/news/wti-slips-below-9100-despite-rising-us-iran-friction-202609240129",
-      "published": "Thu, 24 Sep 2026 01:29:20 GMT",
-      "ts": 1790213360
     },
     {
       "source": "CoinTelegraph",
