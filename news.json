@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-24T09:27:58.749567Z",
+  "updated": "2026-09-24T09:43:34.362347Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Downside risks start to shrink against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-start-to-shrink-against-us-dollar-ing-202609240942",
+      "published": "Thu, 24 Sep 2026 09:42:21 GMT",
+      "ts": 1790242941
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
+      "link": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
+      "published": "Thu, 24 Sep 2026 09:32:48 +0000",
+      "ts": 1790242368
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 09:32:44 +0000",
+      "ts": 1790242364
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609240930",
+      "published": "Thu, 24 Sep 2026 09:30:18 GMT",
+      "ts": 1790242218
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Higher yields support currency – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-support-currency-mufg-202609240928",
+      "published": "Thu, 24 Sep 2026 09:28:33 GMT",
+      "ts": 1790242113
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro jumps vs Swiss Franc after SNB decision, German IFO data supports",
+      "link": "https://www.fxstreet.com/news/euro-jumps-vs-swiss-franc-after-snb-decision-german-ifo-data-supports-202609240928",
+      "published": "Thu, 24 Sep 2026 09:28:01 GMT",
+      "ts": 1790242081
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index gains ahead of weekly Initial Jobless Claims data",
@@ -73,27 +115,6 @@
       "ts": 1790240340
     },
     {
-      "source": "FXStreet",
-      "title": "Euro gains against Canadian Dollar on upbeat German IFO Business Index",
-      "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-on-upbeat-german-ifo-business-index-202609240846",
-      "published": "Thu, 24 Sep 2026 08:46:59 GMT",
-      "ts": 1790239619
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD plummets to near $63.60 after Fed Williams’ hawkish remarks",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plummets-to-near-6360-after-fed-williams-hawkish-remarks-202609240846",
-      "published": "Thu, 24 Sep 2026 08:46:56 GMT",
-      "ts": 1790239616
-    },
-    {
-      "source": "FXStreet",
-      "title": "South African Rand: SARB hikes again but environment stays tough – Commerzbank",
-      "link": "https://www.fxstreet.com/news/south-african-rand-sarb-hikes-again-but-environment-stays-tough-commerzbank-202609240844",
-      "published": "Thu, 24 Sep 2026 08:44:34 GMT",
-      "ts": 1790239474
-    },
-    {
       "source": "MarketWatch",
       "title": "The market is pricing in too many Fed hikes, says the former Dallas Fed chief",
       "link": "https://www.marketwatch.com/story/the-market-is-pricing-in-too-many-fed-hikes-says-the-former-dallas-fed-chief-5de8cc3c?mod=mw_rss_topstories",
@@ -106,13 +127,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
       "published": "2026-09-24 08:38:51",
       "ts": 1790239131
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Fiscal risks point lower against US Dollar - MUFG",
-      "link": "https://www.fxstreet.com/news/euro-fiscal-risks-point-lower-against-us-dollar-mufg-202609240833",
-      "published": "Thu, 24 Sep 2026 08:33:59 GMT",
-      "ts": 1790238839
     },
     {
       "source": "CoinTelegraph",
@@ -290,13 +304,6 @@
       "ts": 1790195314
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
-      "link": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 19:05:14 +0000",
-      "ts": 1790190314
-    },
-    {
       "source": "CoinDesk",
       "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
       "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
@@ -360,13 +367,6 @@
       "ts": 1790168563
     },
     {
-      "source": "CoinDesk",
-      "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
-      "link": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
-      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
-      "ts": 1790168400
-    },
-    {
       "source": "Investing Crypto",
       "title": "Travala Launches Permanent AVA Strategic Reserve, Doubles Monthly Open-Market Buybacks",
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-permanent-ava-strategic-reserve-doubles-monthly-openmarket-buybacks-4912992",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Calls Cintas (CTAS) a “Pretty Good Business”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-cintas-ctas-212518154.html",
-      "published": "2026-09-22T21:25:18Z",
-      "ts": 1790112318
+      "title": "CrowdStrike Stock Rallies as AI Security Fears Create a Major Opportunity. How to Play CRWD Here.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-rallies-ai-security-213438176.html",
+      "published": "2026-09-22T21:34:38Z",
+      "ts": 1790112878
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Says Paychex (PAYX) is Entering Earnings With a “Full Head of Steam”",
-      "link": "https://finance.yahoo.com/small-business/articles/jim-cramer-says-paychex-payx-212246691.html",
-      "published": "2026-09-22T21:22:46Z",
-      "ts": 1790112166
+      "title": "5-star analyst sets jaw-dropping price target on SanDisk stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-sets-jaw-213300289.html",
+      "published": "2026-09-22T21:33:00Z",
+      "ts": 1790112780
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer on General Mills (GIS): “I Can’t Recommend It”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-general-mills-gis-211416404.html",
-      "published": "2026-09-22T21:14:16Z",
-      "ts": 1790111656
+      "title": "AWS Is Growing at Its Fastest Rate in 18 Quarters. Is Amazon Stock Still a Buy at $255?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aws-growing-fastest-rate-18-213130585.html",
+      "published": "2026-09-22T21:31:30Z",
+      "ts": 1790112690
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Coinbase's IPO move sends stock to four month high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coinbases-ipo-move-sends-stock-211331084.html",
-      "published": "2026-09-22T21:13:31Z",
-      "ts": 1790111611
+      "source": "Investing Forex",
+      "title": "Dollar pinned at nearly 8-week high, euro slips while yen flat amid holiday volume",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
+      "published": "2026-09-22 20:59:43",
+      "ts": 1790110783
     }
   ]
 }
