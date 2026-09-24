@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-24T11:26:38.282565Z",
+  "updated": "2026-09-24T11:41:29.406291Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+      "link": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
+      "published": "Thu, 24 Sep 2026 11:33:57 +0000",
+      "ts": 1790249637
+    },
+    {
+      "source": "FXStreet",
+      "title": "US President Trump: Super Intelligence will be a big topic of discussion",
+      "link": "https://www.fxstreet.com/news/us-president-trump-super-intelligence-will-be-a-big-topic-of-discussion-202609241132",
+      "published": "Thu, 24 Sep 2026 11:32:42 GMT",
+      "ts": 1790249562
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro advances as strong German IFO, cautious BoJ outlook weigh on Japanese Yen",
+      "link": "https://www.fxstreet.com/news/euro-advances-as-strong-german-ifo-cautious-boj-outlook-weigh-on-japanese-yen-202609241127",
+      "published": "Thu, 24 Sep 2026 11:27:48 GMT",
+      "ts": 1790249268
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Litecoin token has its moment as network activity booms",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
+      "published": "Thu, 24 Sep 2026 11:26:18 +0000",
+      "ts": 1790249178
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Era of pure crypto exchanges is ending, Bybit CEO says",
+      "link": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 11:24:07 +0000",
+      "ts": 1790249047
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar: Labor data underpins RBA hike view – BBH",
@@ -116,7 +151,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Black Monday’s stock-market warning signal came from the bond market, and it’s back, says Wall Street veteran",
+      "title": "Black Monday’s stock-market warning signal came from the bond market — and it’s back, says Wall Street veteran",
       "link": "https://www.marketwatch.com/story/black-mondays-stock-market-warning-signal-came-from-the-bond-market-and-its-back-says-wall-street-veteran-52f12e39?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 10:01:00 GMT",
       "ts": 1790244060
@@ -162,20 +197,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 09:32:44 +0000",
       "ts": 1790242364
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609240930",
-      "published": "Thu, 24 Sep 2026 09:30:18 GMT",
-      "ts": 1790242218
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Higher yields support currency – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-support-currency-mufg-202609240928",
-      "published": "Thu, 24 Sep 2026 09:28:33 GMT",
-      "ts": 1790242113
     },
     {
       "source": "Investing Crypto",
@@ -332,32 +353,11 @@
       "ts": 1790201755
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
-      "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 21:47:52 +0000",
-      "ts": 1790200072
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar rises to nearly two-month high on firmer Fed rate hike bets, rout in bonds",
       "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
       "published": "2026-09-23 21:31:55",
       "ts": 1790199115
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
-      "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
-      "published": "Wed, 23 Sep 2026 19:04:52 +0000",
-      "ts": 1790190292
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
-      "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
-      "published": "Wed, 23 Sep 2026 18:59:36 +0000",
-      "ts": 1790189976
     },
     {
       "source": "Investing Forex",
@@ -410,17 +410,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Greif (GEF) Plans Coated Recycled Paperboard Exit. Can a Smaller Portfolio Earn Better Returns?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/greif-gef-plans-coated-recycled-233847283.html",
-      "published": "2026-09-22T23:38:47Z",
-      "ts": 1790120327
+      "title": "Churchill Downs (CHDN) Prices $500 Million Loan. Could Interest Costs Rise?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/churchill-downs-chdn-prices-500-005951580.html",
+      "published": "2026-09-23T00:59:51Z",
+      "ts": 1790125191
     },
     {
       "source": "Yahoo Finance",
-      "title": "Flutter (FLUT), The World’s Biggest Betting Company Has Lost Two-Thirds of Its Value. Is the Bottom In?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/flutter-flut-world-biggest-betting-233329385.html",
-      "published": "2026-09-22T23:33:29Z",
-      "ts": 1790120009
+      "title": "Atlanticus Holdings (ATLC) Sells Auto Finance Unit. Can it Replace Lost Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/atlanticus-holdings-atlc-sells-auto-005703318.html",
+      "published": "2026-09-23T00:57:03Z",
+      "ts": 1790125023
     }
   ]
 }
