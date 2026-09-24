@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-24T18:31:35.332287Z",
+  "updated": "2026-09-24T18:54:36.650101Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
+      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
+      "published": "Thu, 24 Sep 2026 18:46:58 +0000",
+      "ts": 1790275618
+    },
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Inflation keeps MAS cautious – Commerzbank",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-inflation-keeps-mas-cautious-commerzbank-202609241838",
+      "published": "Thu, 24 Sep 2026 18:38:29 GMT",
+      "ts": 1790275109
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: Fedspeak takes centre stage",
+      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-takes-centre-stage-202609241832",
+      "published": "Thu, 24 Sep 2026 18:32:36 GMT",
+      "ts": 1790274756
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
+      "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 18:31:00 GMT",
+      "ts": 1790274660
+    },
     {
       "source": "MarketWatch",
       "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
@@ -129,13 +157,6 @@
       "ts": 1790267760
     },
     {
-      "source": "MarketWatch",
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 16:30:00 GMT",
-      "ts": 1790267400
-    },
-    {
       "source": "FXStreet",
       "title": "New Zealand Dollar remains under pressure, RBNZ rate hike bets cushion losses",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-under-pressure-rbnz-rate-hike-bets-cushion-losses-202609241608",
@@ -155,20 +176,6 @@
       "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
       "published": "Thu, 24 Sep 2026 15:48:20 +0000",
       "ts": 1790264900
-    },
-    {
-      "source": "FXStreet",
-      "title": "Europe: Rightward risks build – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/europe-rightward-risks-build-standard-chartered-202609241528",
-      "published": "Thu, 24 Sep 2026 15:28:44 GMT",
-      "ts": 1790263724
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar falls to two-month low as higher US yields outweigh Oil support",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-two-month-low-as-higher-us-yields-outweigh-oil-support-202609241528",
-      "published": "Thu, 24 Sep 2026 15:28:16 GMT",
-      "ts": 1790263696
     },
     {
       "source": "CoinTelegraph",
@@ -288,13 +295,6 @@
       "link": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 12:00:00 +0000",
       "ts": 1790251200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
-      "link": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
-      "published": "Thu, 24 Sep 2026 11:33:57 +0000",
-      "ts": 1790249637
     },
     {
       "source": "CoinTelegraph",
