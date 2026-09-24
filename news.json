@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-24T19:37:56.212495Z",
+  "updated": "2026-09-24T19:51:47.101038Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Companies keep raising prices. The Fed is trying to get them to reconsider.",
+      "link": "https://www.marketwatch.com/story/companies-keep-raising-prices-the-fed-is-trying-to-get-them-to-reconsider-a57b9af7?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 19:42:00 GMT",
+      "ts": 1790278920
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m afraid of ‘starving to death.’ Social Security stopped our checks due to a hacked bank account. What can we do?",
+      "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 19:40:00 GMT",
+      "ts": 1790278800
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Federal Reserve unveils proposed framework for stablecoin issuers",
+      "link": "https://www.investing.com/news/cryptocurrency-news/federal-reserve-unveils-proposed-framework-for-stablecoin-issuers-4916070",
+      "published": "2026-09-24 19:38:37",
+      "ts": 1790278717
+    },
     {
       "source": "MarketWatch",
       "title": "The government canceled her student loans due to a scam — but $72,000 is still on her credit report",
       "link": "https://www.marketwatch.com/story/the-government-canceled-her-student-loans-due-to-a-scam-but-72-000-is-still-on-her-credit-report-4889733b?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 19:19:00 GMT",
       "ts": 1790277540
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin double top risk at $87,363 after rebound: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-24 19:18:41",
+      "ts": 1790277521
     },
     {
       "source": "MarketWatch",
@@ -71,13 +99,6 @@
       "link": "https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 18:24:00 GMT",
       "ts": 1790274240
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Social Security stopped our checks due to a hacked bank account. We’re relying on our church for help. What can we do?",
-      "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 18:17:00 GMT",
-      "ts": 1790273820
     },
     {
       "source": "MarketWatch",
@@ -148,13 +169,6 @@
       "link": "https://www.fxstreet.com/news/us-iran-talks-eye-phased-hormuz-deal-but-leverage-stalls-progress-202609241651",
       "published": "Thu, 24 Sep 2026 16:51:53 GMT",
       "ts": 1790268713
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 16:45:00 GMT",
-      "ts": 1790268300
     },
     {
       "source": "FXStreet",
@@ -354,13 +368,6 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin slips below 20 SMA at $84,076: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-24 07:10:54",
-      "ts": 1790233854
-    },
-    {
-      "source": "Investing Crypto",
       "title": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
       "published": "2026-09-23 22:15:55",
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-and-marketscom-announce-promotional-collaboration-ahead-of-token2049-singapore-4913473",
       "published": "2026-09-23 15:00:39",
       "ts": 1790175639
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Travala Launches Permanent AVA Strategic Reserve, Doubles Monthly Open-Market Buybacks",
-      "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-permanent-ava-strategic-reserve-doubles-monthly-openmarket-buybacks-4912992",
-      "published": "2026-09-23 12:32:18",
-      "ts": 1790166738
     },
     {
       "source": "Investing Forex",
