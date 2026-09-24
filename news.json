@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T09:43:34.362347Z",
+  "updated": "2026-09-24T09:55:22.293297Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
+      "link": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
+      "published": "Thu, 24 Sep 2026 09:48:09 +0000",
+      "ts": 1790243289
+    },
+    {
+      "source": "FXStreet",
+      "title": "PBoC vows to maintain loose monetary policy, keep Chinese Yuan stable",
+      "link": "https://www.fxstreet.com/news/pboc-vows-to-maintain-loose-monetary-policy-keep-chinese-yuan-stable-202609240946",
+      "published": "Thu, 24 Sep 2026 09:46:20 GMT",
+      "ts": 1790243180
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Downside risks start to shrink against US Dollar – ING",
@@ -43,6 +57,13 @@
       "link": "https://www.fxstreet.com/news/euro-jumps-vs-swiss-franc-after-snb-decision-german-ifo-data-supports-202609240928",
       "published": "Thu, 24 Sep 2026 09:28:01 GMT",
       "ts": 1790242081
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin drops to $83.3k as yields, oil spike spook risk",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
+      "published": "2026-09-24 09:26:52",
+      "ts": 1790242012
     },
     {
       "source": "FXStreet",
@@ -92,13 +113,6 @@
       "link": "https://www.fxstreet.com/news/eur-usd-comes-under-pressure-as-feds-williams-warns-of-more-interest-rate-hikes-202609240908",
       "published": "Thu, 24 Sep 2026 09:08:33 GMT",
       "ts": 1790240913
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc: SNB intervention bias dialed down – Societe Generale",
-      "link": "https://www.fxstreet.com/news/swiss-franc-snb-intervention-bias-dialed-down-societe-generale-202609240902",
-      "published": "Thu, 24 Sep 2026 09:02:33 GMT",
-      "ts": 1790240553
     },
     {
       "source": "MarketWatch",
@@ -169,13 +183,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-24 07:10:54",
       "ts": 1790233854
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips to $84k as yields, oil spike spook risk",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
-      "published": "2026-09-24 06:34:25",
-      "ts": 1790231665
     },
     {
       "source": "CoinDesk",
@@ -360,13 +367,6 @@
       "ts": 1790175639
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
-      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
-      "published": "Wed, 23 Sep 2026 13:02:43 +0000",
-      "ts": 1790168563
-    },
-    {
       "source": "Investing Crypto",
       "title": "Travala Launches Permanent AVA Strategic Reserve, Doubles Monthly Open-Market Buybacks",
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-permanent-ava-strategic-reserve-doubles-monthly-openmarket-buybacks-4912992",
@@ -396,24 +396,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "CrowdStrike Stock Rallies as AI Security Fears Create a Major Opportunity. How to Play CRWD Here.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-rallies-ai-security-213438176.html",
-      "published": "2026-09-22T21:34:38Z",
-      "ts": 1790112878
+      "title": "Alibaba Just Unveiled an AI Chip 3x Faster Than Its Predecessor. Nvidia Has a China Problem to Watch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-just-unveiled-ai-chip-221410155.html",
+      "published": "2026-09-22T22:14:10Z",
+      "ts": 1790115250
     },
     {
       "source": "Yahoo Finance",
-      "title": "5-star analyst sets jaw-dropping price target on SanDisk stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-sets-jaw-213300289.html",
-      "published": "2026-09-22T21:33:00Z",
-      "ts": 1790112780
+      "title": "Is China’s Secret Power Advantage About To Trigger An 89% Crash In US AI Stocks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/china-secret-power-advantage-trigger-220000479.html",
+      "published": "2026-09-22T22:00:00Z",
+      "ts": 1790114400
     },
     {
       "source": "Yahoo Finance",
-      "title": "AWS Is Growing at Its Fastest Rate in 18 Quarters. Is Amazon Stock Still a Buy at $255?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aws-growing-fastest-rate-18-213130585.html",
-      "published": "2026-09-22T21:31:30Z",
-      "ts": 1790112690
+      "title": "Retailer that closed all its stores is making a major comeback",
+      "link": "https://finance.yahoo.com/small-business/articles/retailer-closed-stores-making-major-214700564.html",
+      "published": "2026-09-22T21:47:00Z",
+      "ts": 1790113620
     },
     {
       "source": "Investing Forex",
