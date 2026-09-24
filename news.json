@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-24T15:10:41.816491Z",
+  "updated": "2026-09-24T15:28:31.294809Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar falls to two-month low as higher US yields outweigh Oil support",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-two-month-low-as-higher-us-yields-outweigh-oil-support-202609241528",
+      "published": "Thu, 24 Sep 2026 15:28:16 GMT",
+      "ts": 1790263696
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
+      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
+      "published": "Thu, 24 Sep 2026 15:26:34 +0000",
+      "ts": 1790263594
+    },
+    {
+      "source": "FXStreet",
+      "title": "Germany: Resilient but modest recovery – Commerzbank",
+      "link": "https://www.fxstreet.com/news/germany-resilient-but-modest-recovery-commerzbank-202609241519",
+      "published": "Thu, 24 Sep 2026 15:19:09 GMT",
+      "ts": 1790263149
+    },
+    {
+      "source": "FXStreet",
+      "title": "Xi pitches cooperation, friendship, and fairness amid overhanging trade war truce",
+      "link": "https://www.fxstreet.com/news/xi-pitches-cooperation-friendship-and-fairness-amid-overhanging-trade-war-truce-202609241516",
+      "published": "Thu, 24 Sep 2026 15:16:23 GMT",
+      "ts": 1790262983
+    },
     {
       "source": "MarketWatch",
       "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
@@ -115,13 +143,6 @@
       "ts": 1790259481
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Weak as Fed credibility supports Dollar near term – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-weak-as-fed-credibility-supports-dollar-near-term-commerzbank-202609241415",
-      "published": "Thu, 24 Sep 2026 14:15:02 GMT",
-      "ts": 1790259302
-    },
-    {
       "source": "Investing Crypto",
       "title": "Buy USDT Gift Card: USDT Gift Card Announces Digital Gifting Service With Free Redemption",
       "link": "https://www.investing.com/news/cryptocurrency-news/buy-usdt-gift-card-usdt-gift-card-announces-digital-gifting-service-with-free-redemption-4915636",
@@ -150,13 +171,6 @@
       "ts": 1790258160
     },
     {
-      "source": "FXStreet",
-      "title": "Canada: Revised demographics reshape growth view – RBC",
-      "link": "https://www.fxstreet.com/news/canada-revised-demographics-reshape-growth-view-rbc-202609241355",
-      "published": "Thu, 24 Sep 2026 13:55:30 GMT",
-      "ts": 1790258130
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -169,13 +183,6 @@
       "link": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 13:29:06 +0000",
       "ts": 1790256546
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Hammack warns persistent inflation could make return to target harder",
-      "link": "https://www.fxstreet.com/news/feds-hammack-warns-persistent-inflation-could-make-return-to-target-harder-202609241323",
-      "published": "Thu, 24 Sep 2026 13:23:44 GMT",
-      "ts": 1790256224
     },
     {
       "source": "Investing Crypto",
@@ -260,13 +267,6 @@
       "link": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 11:24:07 +0000",
       "ts": 1790249047
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin climbs from session lows as interest rates ease",
-      "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
-      "published": "Thu, 24 Sep 2026 11:20:12 +0000",
-      "ts": 1790248812
     },
     {
       "source": "FXStreet",
