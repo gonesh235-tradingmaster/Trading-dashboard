@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T04:27:09.424516Z",
+  "updated": "2026-09-24T04:42:29.192710Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold steadies, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202609240435",
+      "published": "Thu, 24 Sep 2026 04:35:06 GMT",
+      "ts": 1790224506
+    },
     {
       "source": "CoinDesk",
       "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
@@ -71,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-declines-against-japanese-yen-following-mixed-jobs-data-202609240204",
       "published": "Thu, 24 Sep 2026 02:04:41 GMT",
       "ts": 1790215481
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japan’s Katayama: Principles on FX established since coordinated intervention remain in effect",
-      "link": "https://www.fxstreet.com/news/japans-katayama-principles-on-fx-established-since-coordinated-intervention-remain-in-effect-202609240153",
-      "published": "Thu, 24 Sep 2026 01:53:50 GMT",
-      "ts": 1790214830
     },
     {
       "source": "CoinTelegraph",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Why Gabelli Global Growth Fund Added Advanced Micro Devices (AMD) in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-growth-fund-141047976.html",
+      "published": "2026-09-22T16:39:47Z",
+      "ts": 1790095187
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Gabelli Global Growth Fund Added Micron Technology (MU) in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-growth-fund-141037360.html",
+      "published": "2026-09-22T16:39:37Z",
+      "ts": 1790095177
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why RPC (RES) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-rpc-res-q2-detractor-163646235.html",
+      "published": "2026-09-22T16:36:46Z",
+      "ts": 1790095006
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Why Graco (GGG) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-graco-ggg-q2-detractor-163529754.html",
       "published": "2026-09-22T16:35:29Z",
       "ts": 1790094929
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Myers Industries (MYE) Was a Top Performer for Gabelli in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-myers-industries-mye-top-163520531.html",
-      "published": "2026-09-22T16:35:20Z",
-      "ts": 1790094920
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Crane Co. (CR) Was Among Gabelli’s Top Q2 Performers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-crane-co-cr-among-163509000.html",
-      "published": "2026-09-22T16:35:09Z",
-      "ts": 1790094909
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Gorman-Rupp Co. (GRC) Was a Top Performer for Gabelli in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gorman-rupp-co-grc-163458570.html",
-      "published": "2026-09-22T16:34:58Z",
-      "ts": 1790094898
     }
   ]
 }
