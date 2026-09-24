@@ -1,10 +1,59 @@
 {
-  "updated": "2026-09-24T16:30:19.123244Z",
+  "updated": "2026-09-24T16:53:30.350276Z",
   "count": 60,
   "items": [
     {
+      "source": "FXStreet",
+      "title": "US-Iran talks eye phased Hormuz deal, but leverage stalls progress",
+      "link": "https://www.fxstreet.com/news/us-iran-talks-eye-phased-hormuz-deal-but-leverage-stalls-progress-202609241651",
+      "published": "Thu, 24 Sep 2026 16:51:53 GMT",
+      "ts": 1790268713
+    },
+    {
       "source": "MarketWatch",
-      "title": "These Gen Zers are choosing ETFs over sports bets. How younger investors told us they’re building wealth.",
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 16:45:00 GMT",
+      "ts": 1790268300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oracle’s stock is falling as investors fear a data-center setback",
+      "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 16:42:00 GMT",
+      "ts": 1790268120
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound four-day slide deepens as US yields fuel US Dollar rally",
+      "link": "https://www.fxstreet.com/news/british-pound-four-day-slide-deepens-as-us-yields-fuel-us-dollar-rally-202609241639",
+      "published": "Thu, 24 Sep 2026 16:39:19 GMT",
+      "ts": 1790267959
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average tests fresh lows as long bond yields climb",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-tests-fresh-lows-as-long-bond-yields-climb-202609241638",
+      "published": "Thu, 24 Sep 2026 16:38:17 GMT",
+      "ts": 1790267897
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Do this one thing to help prevent your parents from being scammed",
+      "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 16:36:00 GMT",
+      "ts": 1790267760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 16:30:00 GMT",
+      "ts": 1790267400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These Gen Z-ers are choosing ETFs over sports bets. How younger investors told us they’re building wealth.",
       "link": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 16:27:00 GMT",
       "ts": 1790267220
@@ -122,20 +171,6 @@
       "ts": 1790262331
     },
     {
-      "source": "MarketWatch",
-      "title": "3 things Micron investors need to watch as the stakes get higher",
-      "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 14:57:00 GMT",
-      "ts": 1790261820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-      "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 14:50:00 GMT",
-      "ts": 1790261400
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
@@ -143,46 +178,11 @@
       "ts": 1790261368
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Fed resilience supports gains – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-resilience-supports-gains-bbh-202609241448",
-      "published": "Thu, 24 Sep 2026 14:48:02 GMT",
-      "ts": 1790261282
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed's Paulson warns more hikes possible as inflation fight hardens",
-      "link": "https://www.fxstreet.com/news/feds-paulson-warns-more-hikes-possible-as-inflation-fight-hardens-202609241447",
-      "published": "Thu, 24 Sep 2026 14:47:10 GMT",
-      "ts": 1790261230
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meta wants to put its Muse AI assistant on your face — but will consumers buy in?",
-      "link": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 14:44:00 GMT",
-      "ts": 1790261040
-    },
-    {
       "source": "CoinDesk",
       "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
       "link": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
       "published": "Thu, 24 Sep 2026 14:41:05 +0000",
       "ts": 1790260865
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Inflation could cost Republicans the Senate — this chart shows how",
-      "link": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 14:40:00 GMT",
-      "ts": 1790260800
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro hovers near two-month low as hawkish Fed outlook weighs",
-      "link": "https://www.fxstreet.com/news/euro-hovers-near-two-month-low-as-hawkish-fed-outlook-weighs-202609241424",
-      "published": "Thu, 24 Sep 2026 14:24:36 GMT",
-      "ts": 1790259876
     },
     {
       "source": "Investing Crypto",
