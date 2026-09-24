@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-24T13:13:11.843775Z",
+  "updated": "2026-09-24T13:31:06.198716Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Hammack warns persistent inflation could make return to target harder",
+      "link": "https://www.fxstreet.com/news/feds-hammack-warns-persistent-inflation-could-make-return-to-target-harder-202609241323",
+      "published": "Thu, 24 Sep 2026 13:23:44 GMT",
+      "ts": 1790256224
+    },
+    {
+      "source": "FXStreet",
+      "title": "Germany: Cyclical resilience versus structural risks – ING",
+      "link": "https://www.fxstreet.com/news/germany-cyclical-resilience-versus-structural-risks-ing-202609241322",
+      "published": "Thu, 24 Sep 2026 13:22:58 GMT",
+      "ts": 1790256178
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 13:15:00 GMT",
+      "ts": 1790255700
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
+      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 13:15:00 GMT",
+      "ts": 1790255700
+    },
     {
       "source": "Investing Forex",
       "title": "U.S. 30 year yield hits 2004-high as bond rout deepens",
@@ -150,13 +178,6 @@
       "ts": 1790252100
     },
     {
-      "source": "FXStreet",
-      "title": "Norges Bank: Policy rate seen elevated for longer – Nordea",
-      "link": "https://www.fxstreet.com/news/norges-bank-policy-rate-seen-elevated-for-longer-nordea-202609241205",
-      "published": "Thu, 24 Sep 2026 12:05:06 GMT",
-      "ts": 1790251506
-    },
-    {
       "source": "CoinTelegraph",
       "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
       "link": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -169,13 +190,6 @@
       "link": "https://www.marketwatch.com/story/the-next-phase-of-ai-is-here-pay-attention-to-this-profound-technological-shift-219cda30?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 12:00:00 GMT",
       "ts": 1790251200
-    },
-    {
-      "source": "FXStreet",
-      "title": "Bank of Canada: Energy risks complicate October decision - RBC",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-energy-risks-complicate-october-decision-rbc-202609241147",
-      "published": "Thu, 24 Sep 2026 11:47:11 GMT",
-      "ts": 1790250431
     },
     {
       "source": "CoinDesk",
@@ -204,20 +218,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
       "published": "Thu, 24 Sep 2026 11:20:12 +0000",
       "ts": 1790248812
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
-      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 11:15:00 GMT",
-      "ts": 1790248500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "As the Trump-Xi meetings unfold, investors should watch for this hidden AI trade",
-      "link": "https://www.marketwatch.com/story/as-the-trump-xi-meetings-unfold-investors-should-watch-for-this-hidden-ai-trade-7abf11b9?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 11:01:00 GMT",
-      "ts": 1790247660
     },
     {
       "source": "FXStreet",
