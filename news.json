@@ -1,13 +1,48 @@
 {
-  "updated": "2026-09-24T05:25:37.336183Z",
+  "updated": "2026-09-24T05:40:34.969611Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound holds gains despite stronger US PMI, hawkish Fed stance",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-gains-despite-stronger-us-pmi-hawkish-fed-stance-202609240539",
+      "published": "Thu, 24 Sep 2026 05:39:59 GMT",
+      "ts": 1790228399
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah faces pressure amid fiscal concerns",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-faces-pressure-amid-fiscal-concerns-202609240539",
+      "published": "Thu, 24 Sep 2026 05:39:30 GMT",
+      "ts": 1790228370
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee falls further as oil prices regain ground",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-regain-ground-202609240538",
+      "published": "Thu, 24 Sep 2026 05:38:45 GMT",
+      "ts": 1790228325
+    },
+    {
+      "source": "FXStreet",
+      "title": "Asian stock markets trade mixed ahead of Trump-Xi meeting",
+      "link": "https://www.fxstreet.com/news/asian-stock-markets-trade-mixed-ahead-of-trump-xi-meeting-202609240537",
+      "published": "Thu, 24 Sep 2026 05:37:14 GMT",
+      "ts": 1790228234
+    },
     {
       "source": "CoinDesk",
       "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
       "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
       "published": "Thu, 24 Sep 2026 05:24:56 +0000",
       "ts": 1790227496
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 05:23:34 +0000",
+      "ts": 1790227414
     },
     {
       "source": "FXStreet",
@@ -78,34 +113,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
       "published": "2026-09-24 03:42:22",
       "ts": 1790221342
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar holds steady amid oil uncertainties, hawkish Fed sentiment",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-steady-amid-oil-uncertainties-hawkish-fed-sentiment-202609240324",
-      "published": "Thu, 24 Sep 2026 03:24:50 GMT",
-      "ts": 1790220290
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index holds gains slightly above 101 amid strong US growth prospects",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-gains-slightly-above-101-amid-strong-us-growth-prospects-202609240324",
-      "published": "Thu, 24 Sep 2026 03:24:01 GMT",
-      "ts": 1790220241
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD falls to near $64.00 amid rising Fed rate hike odds",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6400-amid-rising-fed-rate-hike-odds-202609240305",
-      "published": "Thu, 24 Sep 2026 03:05:12 GMT",
-      "ts": 1790219112
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen gathers strength amid surging 10-year JGB yields",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gathers-strength-amid-surging-10-year-jgb-yields-202609240216",
-      "published": "Thu, 24 Sep 2026 02:16:12 GMT",
-      "ts": 1790216172
     },
     {
       "source": "CoinTelegraph",
@@ -218,13 +225,6 @@
       "link": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 20:28:34 +0000",
       "ts": 1790195314
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 19:39:24 +0000",
-      "ts": 1790192364
     },
     {
       "source": "Investing Crypto",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Herc Holdings Inc. (HRI) Was Gabelli Focused Growth and Income Fund’s Top Q2 Contributor",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/herc-holdings-inc-hri-gabelli-173214130.html",
-      "published": "2026-09-22T17:32:14Z",
-      "ts": 1790098334
+      "title": "Caris Life Sciences Coasts Past A Buy Point; Why This Texas Biotech Researcher Deserves A Look",
+      "link": "https://www.investors.com/research/caris-life-sciences-cai-stock-biotech-texas/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T18:01:22Z",
+      "ts": 1790100082
     },
     {
       "source": "Yahoo Finance",
-      "title": "Will Lowe's Stock Keep Falling? Unusually Heavy LOW Put Options Activity May Imply This - Or Does It?",
-      "link": "https://finance.yahoo.com/markets/options/articles/lowes-stock-keep-falling-unusually-173002768.html",
-      "published": "2026-09-22T17:30:02Z",
-      "ts": 1790098202
+      "title": "Leveraged loan fund assets rise as Fed turns hawkish",
+      "link": "https://finance.yahoo.com/economy/policy/articles/leveraged-loan-fund-assets-rise-175112734.html",
+      "published": "2026-09-22T17:51:12Z",
+      "ts": 1790099472
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-stock-amzn-key-level/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T17:26:43Z",
-      "ts": 1790098003
+      "title": "This Stock Is Trading at New All-Time Highs and Looks Like a Great Long-Term Winner",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-trading-time-highs-looks-175002793.html",
+      "published": "2026-09-22T17:50:02Z",
+      "ts": 1790099402
     },
     {
       "source": "Yahoo Finance",
-      "title": "3 High-Yielding Dividend Stocks That Are No-Brainer Buys for Retirees and Risk-Averse Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-high-yielding-dividend-stocks-172330076.html",
-      "published": "2026-09-22T17:23:30Z",
-      "ts": 1790097810
+      "title": "Tabi Connect, Kleinschmidt partner to automate freight quoting",
+      "link": "https://finance.yahoo.com/technology/articles/tabi-connect-kleinschmidt-partner-automate-174105793.html",
+      "published": "2026-09-22T17:41:05Z",
+      "ts": 1790098865
     }
   ]
 }
