@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T21:40:48.450890Z",
+  "updated": "2026-09-24T21:50:54.760729Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
+      "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 21:42:51 +0000",
+      "ts": 1790286171
+    },
     {
       "source": "MarketWatch",
       "title": "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
@@ -330,13 +337,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-stretched-dollar-rally-meets-treasury-yield-peak-4914548",
       "published": "2026-09-24 12:34:27",
       "ts": 1790253267
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
-      "link": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 12:00:00 +0000",
-      "ts": 1790251200
     },
     {
       "source": "Investing Forex",
