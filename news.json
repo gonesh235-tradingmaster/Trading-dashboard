@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T01:39:55.489123Z",
+  "updated": "2026-09-24T01:52:56.661924Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar hangs near August 7 low after weak jobs data, ahead of Trump-Xi summit",
+      "link": "https://www.fxstreet.com/news/australian-dollar-hangs-near-august-7-low-after-weak-jobs-data-ahead-of-trump-xi-summit-202609240145",
+      "published": "Thu, 24 Sep 2026 01:45:38 GMT",
+      "ts": 1790214338
+    },
     {
       "source": "FXStreet",
       "title": "WTI slips below $91.00 despite rising US-Iran friction",
@@ -64,13 +71,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-cools-off-against-the-new-zealand-dollar-before-jobs-data-202609232330",
       "published": "Wed, 23 Sep 2026 23:30:00 GMT",
       "ts": 1790206200
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold falls below $4,300 on Fed hawkish signals",
-      "link": "https://www.fxstreet.com/news/gold-falls-below-4-300-on-fed-hawkish-signals-202609232321",
-      "published": "Wed, 23 Sep 2026 23:21:32 GMT",
-      "ts": 1790205692
     },
     {
       "source": "MarketWatch",
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Sonida Senior Living (SNDA) Poised for Strong Performance Over the Next Several Years",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sonida-senior-living-snda-poised-141451416.html",
-      "published": "2026-09-22T14:14:51Z",
-      "ts": 1790086491
+      "title": "This Blue-Chip ‘Loser’ Just Might Offer Contrarians a Pleasant Surprise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-chip-loser-just-might-142146058.html",
+      "published": "2026-09-22T14:21:46Z",
+      "ts": 1790086906
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fed's Williams says rate-control toolkit is working well",
-      "link": "https://finance.yahoo.com/economy/policy/articles/feds-williams-says-rate-control-140742644.html",
-      "published": "2026-09-22T14:07:42Z",
-      "ts": 1790086062
+      "title": "Benchmark diesel sets new record; futures signaling relief?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/benchmark-diesel-sets-record-futures-142020903.html",
+      "published": "2026-09-22T14:20:20Z",
+      "ts": 1790086820
     },
     {
       "source": "Yahoo Finance",
-      "title": "Binance invests $100 million in Circle, signs 5-year USDC deal",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-invests-100-million-circle-140628659.html",
-      "published": "2026-09-22T14:06:28Z",
-      "ts": 1790085988
+      "title": "Can Apple Overtake NVIDIA as the World's Most Valuable Company?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-overtake-nvidia-worlds-most-142000889.html",
+      "published": "2026-09-22T14:20:00Z",
+      "ts": 1790086800
     },
     {
       "source": "Yahoo Finance",
-      "title": "Minot Light’s Bullish Stance on Rockwell Medical (RMTI)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/minot-light-bullish-stance-rockwell-140627170.html",
-      "published": "2026-09-22T14:06:27Z",
-      "ts": 1790085987
+      "title": "AI infrastructure Boom Fuels Texas Instruments’ (TXN) Rally",
+      "link": "https://finance.yahoo.com/technology/articles/ai-infrastructure-boom-fuels-texas-141812824.html",
+      "published": "2026-09-22T14:18:12Z",
+      "ts": 1790086692
     },
     {
       "source": "Yahoo Finance",
-      "title": "Prosus Puts AI in the Executive Suite",
-      "link": "https://finance.yahoo.com/technology/ai/articles/prosus-puts-ai-executive-suite-140509559.html",
-      "published": "2026-09-22T14:05:09Z",
-      "ts": 1790085909
+      "title": "Warren Buffett Just Left the Chairman Role at Berkshire Hathaway. How His Departure Will Impact BRK.B Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-just-left-chairman-141730011.html",
+      "published": "2026-09-22T14:17:30Z",
+      "ts": 1790086650
     }
   ]
 }
