@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T22:39:33.222687Z",
+  "updated": "2026-09-24T22:52:38.645248Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+      "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
+      "published": "Thu, 24 Sep 2026 22:41:44 +0000",
+      "ts": 1790289704
+    },
     {
       "source": "FXStreet",
       "title": "Mexican Peso : Range view with downside risks against US Dollar – Rabobank",
@@ -316,13 +323,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
       "published": "Thu, 24 Sep 2026 15:26:34 +0000",
       "ts": 1790263594
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
-      "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
-      "published": "Thu, 24 Sep 2026 15:07:18 +0000",
-      "ts": 1790262438
     },
     {
       "source": "Investing Crypto",
