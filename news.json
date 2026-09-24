@@ -1,7 +1,77 @@
 {
-  "updated": "2026-09-24T07:45:10.648869Z",
+  "updated": "2026-09-24T08:11:08.404137Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures drop as Fed rate hike expectations surge",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-fed-rate-hike-expectations-surge-202609240809",
+      "published": "Thu, 24 Sep 2026 08:09:18 GMT",
+      "ts": 1790237358
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: RBA may follow hawkish market pricing – Commerzbank",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-may-follow-hawkish-market-pricing-commerzbank-202609240807",
+      "published": "Thu, 24 Sep 2026 08:07:29 GMT",
+      "ts": 1790237249
+    },
+    {
+      "source": "FXStreet",
+      "title": "Bank of England’s Lombardelli: Policy likely to need to tighten if energy risks persist",
+      "link": "https://www.fxstreet.com/news/bank-of-englands-lombardelli-policy-likely-to-need-to-tighten-if-energy-risks-persist-202609240805",
+      "published": "Thu, 24 Sep 2026 08:05:54 GMT",
+      "ts": 1790237154
+    },
+    {
+      "source": "FXStreet",
+      "title": "Germany’s IFO Business Climate Index arrives higher at 89.9, beats 89.0 estimates",
+      "link": "https://www.fxstreet.com/news/germanys-ifo-business-climate-index-arrives-higher-at-899-beats-890-estimates-202609240802",
+      "published": "Thu, 24 Sep 2026 08:02:14 GMT",
+      "ts": 1790236934
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Litecoin Climbs 10% In a Green Day",
+      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4914566",
+      "published": "2026-09-24 08:01:00",
+      "ts": 1790236860
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Exclusive: Bitget adopts Sygnum’s off-exchange bank custody model",
+      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-adopts-sygnums-offexchange-bank-custody-model-4914553",
+      "published": "2026-09-24 07:50:29",
+      "ts": 1790236229
+    },
+    {
+      "source": "FXStreet",
+      "title": "0.7000: Key support zone for Australian Dollar ahead of Trump-Xi meeting",
+      "link": "https://www.fxstreet.com/news/07000-key-support-zone-for-australian-dollar-ahead-of-trump-xi-meeting-202609240750",
+      "published": "Thu, 24 Sep 2026 07:50:28 GMT",
+      "ts": 1790236228
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro yields jump as robust PMI prints strengthen case for further ECB hikes",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
+      "published": "2026-09-24 07:49:45",
+      "ts": 1790236185
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Volatility watch over autumn holidays – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-volatility-watch-over-autumn-holidays-mufg-202609240748",
+      "published": "Thu, 24 Sep 2026 07:48:48 GMT",
+      "ts": 1790236128
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound steadies as stretched dollar rally meets Treasury yield peak",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-stretched-dollar-rally-meets-treasury-yield-peak-4914548",
+      "published": "2026-09-24 07:45:39",
+      "ts": 1790235939
+    },
     {
       "source": "FXStreet",
       "title": "Forex Today: US Dollar stands tall as focus remains on central bank commentary",
@@ -18,24 +88,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "SNB leaves interest rates unchanged at 0%",
+      "title": "Swiss National Bank leaves interest rates unchanged at 0%",
       "link": "https://www.fxstreet.com/news/snb-leaves-interest-rates-unchanged-at-0-202609240732",
       "published": "Thu, 24 Sep 2026 07:32:36 GMT",
       "ts": 1790235156
-    },
-    {
-      "source": "FXStreet",
-      "title": "CEE FX: Global headwinds pressure currencies – ING",
-      "link": "https://www.fxstreet.com/news/cee-fx-global-headwinds-pressure-currencies-ing-202609240732",
-      "published": "Thu, 24 Sep 2026 07:32:35 GMT",
-      "ts": 1790235155
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro remains depressed amid strong US macroeconomic data and higher Oil prices",
-      "link": "https://www.fxstreet.com/news/euro-remains-depressed-amid-strong-us-macroeconomic-data-and-higher-oil-prices-202609240728",
-      "published": "Thu, 24 Sep 2026 07:28:54 GMT",
-      "ts": 1790234934
     },
     {
       "source": "Investing Crypto",
@@ -43,34 +99,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-24 07:10:54",
       "ts": 1790233854
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swedish Krona: Riksbank seen holding but keeping hike option – Commerzbank",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-seen-holding-but-keeping-hike-option-commerzbank-202609240707",
-      "published": "Thu, 24 Sep 2026 07:07:42 GMT",
-      "ts": 1790233662
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: Gains ground to near 1.4100, holding bullish bias above 100-day SMA",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-gains-ground-to-near-14100-holding-bullish-bias-above-100-day-sma-202609240659",
-      "published": "Thu, 24 Sep 2026 06:59:15 GMT",
-      "ts": 1790233155
-    },
-    {
-      "source": "FXStreet",
-      "title": "Equities: global indices under pressure – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-global-indices-under-pressure-deutsche-bank-202609240657",
-      "published": "Thu, 24 Sep 2026 06:57:44 GMT",
-      "ts": 1790233064
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Franc weakness seen slowing near 0.95 against Euro – Commerzbank",
-      "link": "https://www.fxstreet.com/news/swiss-franc-franc-weakness-seen-slowing-near-095-against-euro-commerzbank-202609240651",
-      "published": "Thu, 24 Sep 2026 06:51:02 GMT",
-      "ts": 1790232662
     },
     {
       "source": "Investing Crypto",
@@ -85,13 +113,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
       "published": "Thu, 24 Sep 2026 06:33:23 +0000",
       "ts": 1790231603
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee extends decline as Iran vows not to surrender to US",
-      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-regain-ground-202609240538",
-      "published": "Thu, 24 Sep 2026 05:38:45 GMT",
-      "ts": 1790228325
     },
     {
       "source": "CoinDesk",
@@ -127,6 +148,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
       "published": "Thu, 24 Sep 2026 04:13:01 +0000",
       "ts": 1790223181
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold struggles near one-week low as traders await Trump-Xi meeting amid Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-struggles-below-4-300-one-week-low-as-fed-hike-bets-and-iran-risks-underpin-usd-202609240351",
+      "published": "Thu, 24 Sep 2026 03:51:01 GMT",
+      "ts": 1790221861
     },
     {
       "source": "Investing Forex",
@@ -367,13 +395,6 @@
       "ts": 1790148634
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin takes a breather, halting a big rally that briefly took it above $87k",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
-      "published": "2026-09-22 22:16:25",
-      "ts": 1790115385
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar pinned at nearly 8-week high, euro slips while yen flat amid holiday volume",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
@@ -382,45 +403,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "ABM Industries (ABM) Is Scaling in Semiconductors and Data Centers. What Is Holding the Stock Back?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/abm-industries-abm-scaling-semiconductors-202200179.html",
+      "published": "2026-09-22T20:22:00Z",
+      "ts": 1790108520
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Micron, IBD Stock Of The Day, Surges Past Early Buy Point With Earnings Ahead",
+      "link": "https://www.investors.com/research/ibd-stock-of-the-day/micron-stock-mu-buy-point-earnings/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T20:21:33Z",
+      "ts": 1790108493
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Lilly Rises, But Novo Falls.",
       "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
       "published": "2026-09-22T20:21:01Z",
       "ts": 1790108461
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A $26 Million Reason Why GameStop Stock Is Up Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/26-million-reason-why-gamestop-201630953.html",
-      "published": "2026-09-22T20:16:30Z",
-      "ts": 1790108190
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html",
-      "published": "2026-09-22T20:15:19Z",
-      "ts": 1790108119
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SHOP Stock Jumps as Meta Expands Shopify Partnership",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/shop-stock-jumps-meta-expands-200743785.html",
-      "published": "2026-09-22T20:07:43Z",
-      "ts": 1790107663
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
-      "link": "https://finance.yahoo.com/technology/article/qualcomm-reveals-2-new-smartphone-chips-focusing-on-agentic-ai-200000608.html",
-      "published": "2026-09-22T20:00:00Z",
-      "ts": 1790107200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bessent just picked the one wage measure still rising",
-      "link": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html",
-      "published": "2026-09-22T19:47:00Z",
-      "ts": 1790106420
     }
   ]
 }
