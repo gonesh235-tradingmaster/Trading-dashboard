@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-24T08:46:10.454768Z",
+  "updated": "2026-09-24T09:10:25.449057Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro holds form against British Pound amid strong Eurozone data, hawkish BoE comments",
+      "link": "https://www.fxstreet.com/news/euro-holds-form-against-british-pound-amid-strong-eurozone-data-hawkish-boe-comments-202609240909",
+      "published": "Thu, 24 Sep 2026 09:09:05 GMT",
+      "ts": 1790240945
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD comes under pressure as Fed’s Williams warns of more interest rate hikes",
+      "link": "https://www.fxstreet.com/news/eur-usd-comes-under-pressure-as-feds-williams-warns-of-more-interest-rate-hikes-202609240908",
+      "published": "Thu, 24 Sep 2026 09:08:33 GMT",
+      "ts": 1790240913
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: SNB intervention bias dialed down – Societe Generale",
+      "link": "https://www.fxstreet.com/news/swiss-franc-snb-intervention-bias-dialed-down-societe-generale-202609240902",
+      "published": "Thu, 24 Sep 2026 09:02:33 GMT",
+      "ts": 1790240553
+    },
+    {
+      "source": "MarketWatch",
+      "title": "8 grassroots porchfests for experiencing free live music and neighborhood culture",
+      "link": "https://www.marketwatch.com/story/8-grassroots-porchfests-for-experiencing-free-live-music-and-neighborhood-culture-34a2dc81?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 09:02:00 GMT",
+      "ts": 1790240520
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Selena Gomez sells her Encino mansion, once owned by Tom Petty, for $5.4 million",
+      "link": "https://www.marketwatch.com/story/selena-gomez-sells-her-encino-mansion-once-owned-by-tom-petty-for-5-4-million-47a87d65?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 08:59:00 GMT",
+      "ts": 1790240340
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro gains against Canadian Dollar on upbeat German IFO Business Index",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-on-upbeat-german-ifo-business-index-202609240846",
+      "published": "Thu, 24 Sep 2026 08:46:59 GMT",
+      "ts": 1790239619
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD plummets to near $63.60 after Fed Williams’ hawkish remarks",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plummets-to-near-6360-after-fed-williams-hawkish-remarks-202609240846",
+      "published": "Thu, 24 Sep 2026 08:46:56 GMT",
+      "ts": 1790239616
+    },
     {
       "source": "FXStreet",
       "title": "South African Rand: SARB hikes again but environment stays tough – Commerzbank",
@@ -15,6 +64,13 @@
       "link": "https://www.marketwatch.com/story/the-market-is-pricing-in-too-many-fed-hikes-says-the-former-dallas-fed-chief-5de8cc3c?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 08:42:00 GMT",
       "ts": 1790239320
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. yields surge past 5% as hot PMI data and failed auctions spark sharp sell-off",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
+      "published": "2026-09-24 08:38:51",
+      "ts": 1790239131
     },
     {
       "source": "FXStreet",
@@ -59,34 +115,6 @@
       "ts": 1790237935
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss National Bank's Martin: Inflation likely to remain elevated for some time",
-      "link": "https://www.fxstreet.com/news/swiss-national-banks-martin-inflation-likely-to-remain-elevated-for-some-time-202609240816",
-      "published": "Thu, 24 Sep 2026 08:16:27 GMT",
-      "ts": 1790237787
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss National Bank's Tschudin: GDP growth exceptionally strong in Q2",
-      "link": "https://www.fxstreet.com/news/swiss-national-banks-tschudin-gdp-growth-exceptionally-strong-in-q2-202609240814",
-      "published": "Thu, 24 Sep 2026 08:14:17 GMT",
-      "ts": 1790237657
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss National Bank's Schlegel: Will continue to monitor situation and adjust policy if necessary",
-      "link": "https://www.fxstreet.com/news/swiss-national-banks-schlegel-will-continue-to-monitor-situation-and-adjust-policy-if-necessary-202609240811",
-      "published": "Thu, 24 Sep 2026 08:11:08 GMT",
-      "ts": 1790237468
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures drop as Fed rate hike expectations surge",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-fed-rate-hike-expectations-surge-202609240809",
-      "published": "Thu, 24 Sep 2026 08:09:18 GMT",
-      "ts": 1790237358
-    },
-    {
       "source": "Investing Crypto",
       "title": "Litecoin Climbs 10% In a Green Day",
       "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4914566",
@@ -99,13 +127,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-adopts-sygnums-offexchange-bank-custody-model-4914553",
       "published": "2026-09-24 07:50:29",
       "ts": 1790236229
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro yields jump as robust PMI prints strengthen case for further ECB hikes",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
-      "published": "2026-09-24 07:49:45",
-      "ts": 1790236185
     },
     {
       "source": "Investing Forex",
@@ -169,13 +190,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
       "published": "Thu, 24 Sep 2026 04:13:01 +0000",
       "ts": 1790223181
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold struggles near one-week low as traders await Trump-Xi meeting amid Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-struggles-below-4-300-one-week-low-as-fed-hike-bets-and-iran-risks-underpin-usd-202609240351",
-      "published": "Thu, 24 Sep 2026 03:51:01 GMT",
-      "ts": 1790221861
     },
     {
       "source": "CoinTelegraph",
@@ -253,20 +267,6 @@
       "link": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 21:27:00 GMT",
       "ts": 1790198820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Inflation could cost Republicans the Senate — this chart shows how",
-      "link": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 21:13:00 GMT",
-      "ts": 1790197980
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Palantir’s stock sees its highest close of the year, sealing a dramatic comeback",
-      "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 21:08:00 GMT",
-      "ts": 1790197680
     },
     {
       "source": "CoinTelegraph",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Here Group Limited Q4 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/group-limited-q4-2026-earnings-210044929.html",
-      "published": "2026-09-22T21:00:44Z",
-      "ts": 1790110844
+      "title": "Jim Cramer Says Paychex (PAYX) is Entering Earnings With a “Full Head of Steam”",
+      "link": "https://finance.yahoo.com/small-business/articles/jim-cramer-says-paychex-payx-212246691.html",
+      "published": "2026-09-22T21:22:46Z",
+      "ts": 1790112166
     },
     {
       "source": "Yahoo Finance",
-      "title": "ETF League Tables: Schwab Sheds Almost $15B",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-schwab-sheds-210033913.html",
-      "published": "2026-09-22T21:00:33Z",
-      "ts": 1790110833
+      "title": "Jim Cramer on General Mills (GIS): “I Can’t Recommend It”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-general-mills-gis-211416404.html",
+      "published": "2026-09-22T21:14:16Z",
+      "ts": 1790111656
     },
     {
       "source": "Yahoo Finance",
-      "title": "Daily ETF Flows: ARKK Enters Top 10",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/daily-etf-flows-arkk-enters-210004371.html",
-      "published": "2026-09-22T21:00:04Z",
-      "ts": 1790110804
+      "title": "Kraft Heinz’s Bull Case Runs Into Its Own Recent Reversal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-bull-case-runs-210901221.html",
+      "published": "2026-09-22T21:09:01Z",
+      "ts": 1790111341
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar pinned at nearly 8-week high, euro slips while yen flat amid holiday volume",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
-      "published": "2026-09-22 20:59:43",
-      "ts": 1790110783
+      "source": "Yahoo Finance",
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-2f40e335?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-22T21:02:00Z",
+      "ts": 1790110920
     }
   ]
 }
