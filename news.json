@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-24T13:31:06.198716Z",
+  "updated": "2026-09-24T13:54:28.189558Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "With the stock market ‘priced for perfection,’ the S&P 500 is in danger of a 20% slump next year",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 13:40:00 GMT",
+      "ts": 1790257200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oracle’s stock is falling as investors fear a data-center setback",
+      "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 13:39:00 GMT",
+      "ts": 1790257140
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 13:29:50 +0000",
+      "ts": 1790256590
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
+      "link": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 13:29:06 +0000",
+      "ts": 1790256546
+    },
     {
       "source": "FXStreet",
       "title": "Fed’s Hammack warns persistent inflation could make return to target harder",
@@ -15,6 +43,13 @@
       "link": "https://www.fxstreet.com/news/germany-cyclical-resilience-versus-structural-risks-ing-202609241322",
       "published": "Thu, 24 Sep 2026 13:22:58 GMT",
       "ts": 1790256178
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin retreats to $83.6k as yields, oil spike spook risk",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
+      "published": "2026-09-24 13:18:35",
+      "ts": 1790255915
     },
     {
       "source": "MarketWatch",
@@ -43,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rsi-nears-overbought-territory-as-bulls-remain-in-control-202609241302",
       "published": "Thu, 24 Sep 2026 13:02:14 GMT",
       "ts": 1790254934
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Oracle’s stock is falling as investors fear a data-center setback",
-      "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 13:02:00 GMT",
-      "ts": 1790254920
     },
     {
       "source": "MarketWatch",
@@ -99,13 +127,6 @@
       "link": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 12:51:00 GMT",
       "ts": 1790254260
-    },
-    {
-      "source": "MarketWatch",
-      "title": "With the stock market ‘priced for perfection,’ the S&P 500 is in danger of a 20% slump next year",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 12:48:00 GMT",
-      "ts": 1790254080
     },
     {
       "source": "FXStreet",
@@ -290,13 +311,6 @@
       "ts": 1790242364
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin drops to $83.3k as yields, oil spike spook risk",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
-      "published": "2026-09-24 09:26:52",
-      "ts": 1790242012
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
       "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -330,20 +344,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-24 07:10:54",
       "ts": 1790233854
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 05:23:34 +0000",
-      "ts": 1790227414
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
-      "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 04:52:40 +0000",
-      "ts": 1790225560
     },
     {
       "source": "Investing Crypto",
