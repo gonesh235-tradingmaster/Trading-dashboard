@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T01:52:56.661924Z",
+  "updated": "2026-09-24T02:09:58.363960Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar declines against Japanese Yen following mixed jobs data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-against-japanese-yen-following-mixed-jobs-data-202609240204",
+      "published": "Thu, 24 Sep 2026 02:04:41 GMT",
+      "ts": 1790215481
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japan’s Katayama: Principles on FX established since coordinated intervention remain in effect",
+      "link": "https://www.fxstreet.com/news/japans-katayama-principles-on-fx-established-since-coordinated-intervention-remain-in-effect-202609240153",
+      "published": "Thu, 24 Sep 2026 01:53:50 GMT",
+      "ts": 1790214830
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar hangs near August 7 low after weak jobs data, ahead of Trump-Xi summit",
@@ -57,20 +71,6 @@
       "link": "https://www.fxstreet.com/news/ukraines-president-zelenskyy-says-ready-for-energy-ceasefire-with-russia-202609232351",
       "published": "Wed, 23 Sep 2026 23:51:53 GMT",
       "ts": 1790207513
-    },
-    {
-      "source": "FXStreet",
-      "title": "Iran President sends defiant message to US over potential talks",
-      "link": "https://www.fxstreet.com/news/iran-president-sends-defiant-message-to-us-over-potential-talks-202609232337",
-      "published": "Wed, 23 Sep 2026 23:37:48 GMT",
-      "ts": 1790206668
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar cools off against the New Zealand Dollar before jobs data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-cools-off-against-the-new-zealand-dollar-before-jobs-data-202609232330",
-      "published": "Wed, 23 Sep 2026 23:30:00 GMT",
-      "ts": 1790206200
     },
     {
       "source": "MarketWatch",
@@ -137,7 +137,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Breaking: Australia’s Unemployment Rate jumps to 4.6% in August, vs 4.5% expected",
+      "title": "Australia’s Unemployment Rate rises to 4.6% in August, vs 4.5% expected",
       "link": "https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-remain-unchanged-at-45-in-august-202609232130",
       "published": "Wed, 23 Sep 2026 21:30:00 GMT",
       "ts": 1790199000
@@ -389,38 +389,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "This Blue-Chip ‘Loser’ Just Might Offer Contrarians a Pleasant Surprise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-chip-loser-just-might-142146058.html",
-      "published": "2026-09-22T14:21:46Z",
-      "ts": 1790086906
+      "title": "How SoFi Is Turning Its Consumer App Into A Stablecoin Proving Ground",
+      "link": "https://www.investors.com/news/technology/sofi-stock-mastercard-ma-stock-stablecoin-network/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T14:29:31Z",
+      "ts": 1790087371
     },
     {
       "source": "Yahoo Finance",
-      "title": "Benchmark diesel sets new record; futures signaling relief?",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/benchmark-diesel-sets-record-futures-142020903.html",
-      "published": "2026-09-22T14:20:20Z",
-      "ts": 1790086820
+      "title": "How Is Gen Digital's Stock Performance Compared to Other Software - Infrastructure Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gen-digitals-stock-performance-compared-142916396.html",
+      "published": "2026-09-22T14:29:16Z",
+      "ts": 1790087356
     },
     {
       "source": "Yahoo Finance",
-      "title": "Can Apple Overtake NVIDIA as the World's Most Valuable Company?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-overtake-nvidia-worlds-most-142000889.html",
-      "published": "2026-09-22T14:20:00Z",
-      "ts": 1790086800
+      "title": "This Fund Trimmed Murphy USA (MUSA) Amid Fuel Margin Strengths",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-murphy-usa-musa-142800363.html",
+      "published": "2026-09-22T14:28:00Z",
+      "ts": 1790087280
     },
     {
       "source": "Yahoo Finance",
-      "title": "AI infrastructure Boom Fuels Texas Instruments’ (TXN) Rally",
-      "link": "https://finance.yahoo.com/technology/articles/ai-infrastructure-boom-fuels-texas-141812824.html",
-      "published": "2026-09-22T14:18:12Z",
-      "ts": 1790086692
+      "title": "Strong Results Lifted CTS Corporation (CTS) in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-results-lifted-cts-corporation-142559440.html",
+      "published": "2026-09-22T14:25:59Z",
+      "ts": 1790087159
     },
     {
       "source": "Yahoo Finance",
-      "title": "Warren Buffett Just Left the Chairman Role at Berkshire Hathaway. How His Departure Will Impact BRK.B Stock.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-just-left-chairman-141730011.html",
-      "published": "2026-09-22T14:17:30Z",
-      "ts": 1790086650
+      "title": "Sabert sells to private equity",
+      "link": "https://finance.yahoo.com/small-business/articles/sabert-sells-private-equity-142500584.html",
+      "published": "2026-09-22T14:25:00Z",
+      "ts": 1790087100
     }
   ]
 }
