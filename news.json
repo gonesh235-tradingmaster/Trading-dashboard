@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-24T14:10:25.735759Z",
+  "updated": "2026-09-24T14:28:37.681049Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro hovers near two-month low as hawkish Fed outlook weighs",
+      "link": "https://www.fxstreet.com/news/euro-hovers-near-two-month-low-as-hawkish-fed-outlook-weighs-202609241424",
+      "published": "Thu, 24 Sep 2026 14:24:36 GMT",
+      "ts": 1790259876
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar remains under pressure despite stronger-than-expected jobs data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-under-pressure-despite-stronger-than-expected-jobs-data-202609241422",
+      "published": "Thu, 24 Sep 2026 14:22:24 GMT",
+      "ts": 1790259744
+    },
+    {
+      "source": "FXStreet",
+      "title": "“You can’t wait too long”: BoE’s Breeden warns on rate hikes amid energy shock",
+      "link": "https://www.fxstreet.com/news/you-cant-wait-too-long-boes-breeden-warns-on-rate-hikes-amid-energy-shock-202609241418",
+      "published": "Thu, 24 Sep 2026 14:18:01 GMT",
+      "ts": 1790259481
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Weak as Fed credibility supports Dollar near term – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-weak-as-fed-credibility-supports-dollar-near-term-commerzbank-202609241415",
+      "published": "Thu, 24 Sep 2026 14:15:02 GMT",
+      "ts": 1790259302
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Buy USDT Gift Card: USDT Gift Card Announces Digital Gifting Service With Free Redemption",
+      "link": "https://www.investing.com/news/cryptocurrency-news/buy-usdt-gift-card-usdt-gift-card-announces-digital-gifting-service-with-free-redemption-4915636",
+      "published": "2026-09-24 14:00:38",
+      "ts": 1790258438
+    },
     {
       "source": "MarketWatch",
       "title": "How is Gen Z investing their money? Over a dozen share their strategies for today’s market.",
@@ -157,27 +192,6 @@
       "ts": 1790254260
     },
     {
-      "source": "FXStreet",
-      "title": "Silver price falls as Fed hawkish outlook drives US yields higher",
-      "link": "https://www.fxstreet.com/news/silver-price-falls-as-fed-hawkish-outlook-drives-us-yields-higher-202609241245",
-      "published": "Thu, 24 Sep 2026 12:45:36 GMT",
-      "ts": 1790253936
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swedish Krona: Riksbank hawkish hold backs currency – BBH",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-hawkish-hold-backs-currency-bbh-202609241237",
-      "published": "Thu, 24 Sep 2026 12:37:12 GMT",
-      "ts": 1790253432
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Initial Jobless Claims dropped to 197K last week",
-      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-197k-last-week-202609241235",
-      "published": "Thu, 24 Sep 2026 12:35:42 GMT",
-      "ts": 1790253342
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound heads for lowest close since June as dollar rally holds",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-stretched-dollar-rally-meets-treasury-yield-peak-4914548",
@@ -197,13 +211,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/24/eu-s-financial-regulator-to-make-ai-and-tokenization-a-supervisory-priority-in-2027",
       "published": "Thu, 24 Sep 2026 12:26:43 +0000",
       "ts": 1790252803
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen weakness lifts British Pound as wide interest-rate gap bites",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakness-lifts-british-pound-as-wide-interest-rate-gap-bites-202609241225",
-      "published": "Thu, 24 Sep 2026 12:25:20 GMT",
-      "ts": 1790252720
     },
     {
       "source": "CoinTelegraph",
@@ -400,13 +407,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
       "published": "2026-09-23 09:25:51",
       "ts": 1790155551
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Cregis Marks Two Years of Middle East Growth as Traditional Financial Firms Drive Adoption",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cregis-marks-two-years-of-middle-east-growth-as-traditional-financial-firms-drive-adoption-4912208",
-      "published": "2026-09-23 07:30:34",
-      "ts": 1790148634
     },
     {
       "source": "Yahoo Finance",
