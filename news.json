@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T00:13:05.566380Z",
+  "updated": "2026-09-24T00:36:09.013054Z",
   "count": 60,
   "items": [
     {
@@ -73,13 +73,6 @@
       "ts": 1790202647
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound sells off hard as US surveys outpace the UK's",
-      "link": "https://www.fxstreet.com/news/british-pound-sells-off-hard-as-us-surveys-outpace-the-uks-202609232224",
-      "published": "Wed, 23 Sep 2026 22:24:19 GMT",
-      "ts": 1790202259
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
@@ -134,6 +127,13 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
       "published": "2026-09-23 21:31:55",
       "ts": 1790199115
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australia unemployment rate forecast to remain steady at 4.5% in August",
+      "link": "https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-remain-unchanged-at-45-in-august-202609232130",
+      "published": "Wed, 23 Sep 2026 21:30:00 GMT",
+      "ts": 1790199000
     },
     {
       "source": "MarketWatch",
@@ -396,31 +396,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
-      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
-      "published": "2026-09-22T12:39:18Z",
-      "ts": 1790080758
+      "title": "Dear ON Semiconductor Stock Fans, Here’s What You Need to Know About ON’s Financial Analyst Day",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-semiconductor-stock-fans-know-130002440.html",
+      "published": "2026-09-22T13:00:02Z",
+      "ts": 1790082002
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is CF Industries Stock Performance Compared to Other Agricultural Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cf-industries-stock-performance-compared-123532860.html",
-      "published": "2026-09-22T12:35:32Z",
-      "ts": 1790080532
+      "title": "Why Cathie Wood Says SpaceX Stock Could Be a Deep-Value Buy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-cathie-wood-says-spacex-130002913.html",
+      "published": "2026-09-22T13:00:02Z",
+      "ts": 1790082002
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is IDEX Corporation Stock Outperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/idex-corporation-stock-outperforming-p-123232001.html",
-      "published": "2026-09-22T12:32:32Z",
-      "ts": 1790080352
+      "title": "Ramit Sethi warns couple earning $112K with no mortgage they'll go broke if they keep spending 108% of their income",
+      "link": "https://finance.yahoo.com/markets/articles/ramit-sethi-warns-couple-earning-130000343.html",
+      "published": "2026-09-22T13:00:00Z",
+      "ts": 1790082000
     },
     {
       "source": "Yahoo Finance",
-      "title": "'SICK conspiracy': Trump dismisses calls to rein in AI as his sons cash in on AI-linked defence and tech investments",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sick-conspiracy-trump-dismisses-calls-123000393.html",
-      "published": "2026-09-22T12:30:00Z",
-      "ts": 1790080200
+      "title": "Equinix (EQIX) Positions to Benefit from Exponential Data Growth and Early-Stage Enterprise AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/equinix-eqix-positions-benefit-exponential-125701911.html",
+      "published": "2026-09-22T12:57:01Z",
+      "ts": 1790081821
     }
   ]
 }
