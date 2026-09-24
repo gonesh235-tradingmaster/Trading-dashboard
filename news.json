@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T15:44:51.012940Z",
+  "updated": "2026-09-24T15:55:53.132539Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "As diesel prices surge, Tesla makes its big play for the trucking market",
+      "link": "https://www.marketwatch.com/story/as-diesel-prices-surge-tesla-makes-its-big-play-for-the-trucking-market-b6e2b6f7?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 15:54:00 GMT",
+      "ts": 1790265240
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
+      "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
+      "published": "Thu, 24 Sep 2026 15:48:20 +0000",
+      "ts": 1790264900
+    },
     {
       "source": "FXStreet",
       "title": "Europe: Rightward risks build – Standard Chartered",
@@ -171,13 +185,6 @@
       "ts": 1790258400
     },
     {
-      "source": "MarketWatch",
-      "title": "Social Security checks are projected to be cut by $540 a month in just six years",
-      "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 13:56:00 GMT",
-      "ts": 1790258160
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -260,13 +267,6 @@
       "link": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
       "published": "Thu, 24 Sep 2026 11:33:57 +0000",
       "ts": 1790249637
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Litecoin token has its moment as network activity booms",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
-      "published": "Thu, 24 Sep 2026 11:26:18 +0000",
-      "ts": 1790249178
     },
     {
       "source": "CoinTelegraph",
