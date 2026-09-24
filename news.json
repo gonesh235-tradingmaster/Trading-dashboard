@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-24T18:54:36.650101Z",
+  "updated": "2026-09-24T19:09:39.288076Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The case against buying and holding stocks for the long term",
+      "link": "https://www.marketwatch.com/story/the-case-against-buying-and-holding-stocks-for-the-long-term-a7fd79bb?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 19:06:00 GMT",
+      "ts": 1790276760
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index extends its winning streak as Fed speakers line up behind hikes",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-extends-its-winning-streak-as-fed-speakers-line-up-behind-hikes-202609241904",
+      "published": "Thu, 24 Sep 2026 19:04:21 GMT",
+      "ts": 1790276661
+    },
+    {
+      "source": "FXStreet",
+      "title": "Banxico holds rates unchanged at 6.50% unanimously",
+      "link": "https://www.fxstreet.com/news/banxico-holds-rates-unchanged-at-650-unanimously-202609241901",
+      "published": "Thu, 24 Sep 2026 19:01:58 GMT",
+      "ts": 1790276518
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
@@ -150,20 +171,6 @@
       "ts": 1790267897
     },
     {
-      "source": "MarketWatch",
-      "title": "Do this one thing to help prevent your parents from being scammed",
-      "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 16:36:00 GMT",
-      "ts": 1790267760
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar remains under pressure, RBNZ rate hike bets cushion losses",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-under-pressure-rbnz-rate-hike-bets-cushion-losses-202609241608",
-      "published": "Thu, 24 Sep 2026 16:08:29 GMT",
-      "ts": 1790266109
-    },
-    {
       "source": "CoinTelegraph",
       "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
       "link": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -302,13 +309,6 @@
       "link": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 11:24:07 +0000",
       "ts": 1790249047
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold hits one-week low as hawkish Fed outlook drives yields to multi-year highs",
-      "link": "https://www.fxstreet.com/news/gold-bears-tighten-their-grip-as-fed-rate-hike-bets-rise-202609241054",
-      "published": "Thu, 24 Sep 2026 10:54:28 GMT",
-      "ts": 1790247268
     },
     {
       "source": "CoinTelegraph",
