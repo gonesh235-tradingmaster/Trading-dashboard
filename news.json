@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T17:41:23.168601Z",
+  "updated": "2026-09-25T17:54:23.928259Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
+      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 17:45:00 GMT",
+      "ts": 1790358300
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc remains under pressure as Fed-SNB interest rate gap widens",
+      "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-as-fed-snb-interest-rate-gap-widens-202609251743",
+      "published": "Fri, 25 Sep 2026 17:43:15 GMT",
+      "ts": 1790358195
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc: Further losses seem capped against US Dollar – UOB",
@@ -143,13 +157,6 @@
       "ts": 1790347313
     },
     {
-      "source": "MarketWatch",
-      "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
-      "link": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 14:39:00 GMT",
-      "ts": 1790347140
-    },
-    {
       "source": "CoinDesk",
       "title": "Tokenization is moving faster than Washington",
       "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
@@ -183,13 +190,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
       "published": "Fri, 25 Sep 2026 14:22:07 +0000",
       "ts": 1790346127
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Yields support Greenback strength – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-yields-support-greenback-strength-ocbc-202609251417",
-      "published": "Fri, 25 Sep 2026 14:17:35 GMT",
-      "ts": 1790345855
     },
     {
       "source": "Investing Forex",
