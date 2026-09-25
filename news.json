@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-25T07:13:14.875586Z",
+  "updated": "2026-09-25T07:30:19.127103Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Equities: Rising yields weigh on stocks despite tech support - Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-rising-yields-weigh-on-stocks-despite-tech-support-deutsche-bank-202609250719",
+      "published": "Fri, 25 Sep 2026 07:19:31 GMT",
+      "ts": 1790320771
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro hovers near three-month highs against British Pound despite weak German data",
+      "link": "https://www.fxstreet.com/news/euro-hovers-near-three-month-highs-against-british-pound-despite-weak-german-data-202609250716",
+      "published": "Fri, 25 Sep 2026 07:16:07 GMT",
+      "ts": 1790320567
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin stuck in $83K-$85K chop zone: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-25 07:12:05",
+      "ts": 1790320325
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
@@ -66,13 +87,6 @@
       "ts": 1790317676
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar declines amid hawkish Fed outlook, US–Iran deal hopes",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-declines-amid-hawkish-fed-outlook-us-iran-deal-hopes-202609250615",
-      "published": "Fri, 25 Sep 2026 06:15:34 GMT",
-      "ts": 1790316934
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar hits two-month high as Asian currencies weaken, yen nears 160",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
@@ -113,13 +127,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
       "published": "Fri, 25 Sep 2026 04:29:34 +0000",
       "ts": 1790310574
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold consolidates below $4,300 as hawkish Fed, higher bond yields and bullish USD weigh",
-      "link": "https://www.fxstreet.com/news/gold-remains-capped-as-hawkish-fed-higher-bond-yields-and-iran-risks-support-usd-202609250419",
-      "published": "Fri, 25 Sep 2026 04:19:54 GMT",
-      "ts": 1790309994
     },
     {
       "source": "CoinTelegraph",
@@ -316,13 +323,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/federal-reserve-unveils-proposed-framework-for-stablecoin-issuers-4916070",
       "published": "2026-09-24 19:38:37",
       "ts": 1790278717
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin double top risk at $87,363 after rebound: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-24 19:18:41",
-      "ts": 1790277521
     },
     {
       "source": "CoinDesk",
