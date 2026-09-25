@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-25T20:25:48.126839Z",
+  "updated": "2026-09-25T20:41:18.398161Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Apple’s expensive new iPhones could be a double-edged sword for the company",
+      "link": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 20:37:00 GMT",
+      "ts": 1790368620
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron investors should get ready for a seesaw ride, analyst says",
+      "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 20:36:00 GMT",
+      "ts": 1790368560
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 20:34:00 GMT",
+      "ts": 1790368440
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A 10% risk-free yield? For some, yes.",
+      "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 20:32:00 GMT",
+      "ts": 1790368320
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+      "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 20:26:40 +0000",
+      "ts": 1790368000
+    },
     {
       "source": "FXStreet",
       "title": "US Treasury yields rise as 30-Year yield hits 22-year high",
@@ -136,13 +171,6 @@
       "ts": 1790361229
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
-      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 18:30:00 GMT",
-      "ts": 1790361000
-    },
-    {
       "source": "FXStreet",
       "title": "Asian FX: Higher yields and Oil weigh – OCBC",
       "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
@@ -150,32 +178,11 @@
       "ts": 1790360571
     },
     {
-      "source": "MarketWatch",
-      "title": "A 10% risk-free yield? For some, yes.",
-      "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 18:21:00 GMT",
-      "ts": 1790360460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
-      "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 18:16:00 GMT",
-      "ts": 1790360160
-    },
-    {
       "source": "FXStreet",
       "title": "Fed’s Hammack warns inflation mindset is the biggest risk",
       "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
       "published": "Fri, 25 Sep 2026 18:15:03 GMT",
       "ts": 1790360103
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 18:15:00 GMT",
-      "ts": 1790360100
     },
     {
       "source": "FXStreet",
@@ -302,13 +309,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
       "published": "Fri, 25 Sep 2026 11:29:04 +0000",
       "ts": 1790335744
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "IBIT options price trading more calmly after Bitcoin rebound",
-      "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 11:11:33 +0000",
-      "ts": 1790334693
     },
     {
       "source": "CoinDesk",
