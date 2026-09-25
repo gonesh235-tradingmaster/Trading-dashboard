@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T13:13:54.956944Z",
+  "updated": "2026-09-25T13:31:26.719558Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: RBI interventions cap losses against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-interventions-cap-losses-against-us-dollar-societe-generale-202609251316",
+      "published": "Fri, 25 Sep 2026 13:16:17 GMT",
+      "ts": 1790342177
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen pulls back from 160 threshold on Katayama’s comments;  dollar steady",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
+      "published": "2026-09-25 13:08:36",
+      "ts": 1790341716
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar: Back-end yields support USD consolidation – ING",
@@ -129,13 +143,6 @@
       "ts": 1790336957
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Rate differentials support but upside constrained – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-rate-differentials-support-but-upside-constrained-bbh-202609251139",
-      "published": "Fri, 25 Sep 2026 11:39:53 GMT",
-      "ts": 1790336393
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
       "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
@@ -176,13 +183,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
       "published": "Fri, 25 Sep 2026 09:59:45 +0000",
       "ts": 1790330385
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Yen pulls back from 160 threshold on Katayama’s comments;  dollar steady",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
-      "published": "2026-09-25 09:57:04",
-      "ts": 1790330224
     },
     {
       "source": "CoinTelegraph",
