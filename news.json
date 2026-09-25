@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T01:51:06.546010Z",
+  "updated": "2026-09-25T02:09:34.889798Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
+      "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 02:00:54 +0000",
+      "ts": 1790301654
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar weakens amid falling oil prices, stronger US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-amid-falling-oil-prices-stronger-us-dollar-202609250200",
+      "published": "Fri, 25 Sep 2026 02:00:45 GMT",
+      "ts": 1790301645
+    },
     {
       "source": "FXStreet",
       "title": "British Pound consolidates above 1.3200, its lowest since late June against a bullish USD",
@@ -127,13 +141,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
       "published": "Thu, 24 Sep 2026 22:41:44 +0000",
       "ts": 1790289704
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso : Range view with downside risks against US Dollar – Rabobank",
-      "link": "https://www.fxstreet.com/news/mexican-peso-range-view-with-downside-risks-against-us-dollar-rabobank-202609242239",
-      "published": "Thu, 24 Sep 2026 22:39:00 GMT",
-      "ts": 1790289540
     },
     {
       "source": "CoinDesk",
@@ -302,13 +309,6 @@
       "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 17:14:35 +0000",
       "ts": 1790270075
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
-      "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 17:13:38 +0000",
-      "ts": 1790270018
     },
     {
       "source": "CoinDesk",
