@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T15:10:46.245083Z",
+  "updated": "2026-09-25T15:28:13.081766Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar: Undervalued near 1.41 against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-undervalued-near-141-against-us-dollar-scotiabank-202609251514",
+      "published": "Fri, 25 Sep 2026 15:14:29 GMT",
+      "ts": 1790349269
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Correction seen near key averages against US Dollar – Societe Generale",
@@ -155,13 +162,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 13:32:49 +0000",
       "ts": 1790343169
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar set for third weekly decline despite pullback in US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-set-for-second-weekly-decline-despite-pullback-in-us-dollar-202609251331",
-      "published": "Fri, 25 Sep 2026 13:31:17 GMT",
-      "ts": 1790343077
     },
     {
       "source": "CoinTelegraph",
