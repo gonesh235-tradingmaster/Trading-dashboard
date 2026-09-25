@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T19:24:24.059552Z",
+  "updated": "2026-09-25T19:38:06.274502Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Chinese Yuan: PBoC keeps yuan broadly stable – Societe Generale",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-keeps-yuan-broadly-stable-societe-generale-202609251931",
+      "published": "Fri, 25 Sep 2026 19:31:00 GMT",
+      "ts": 1790364660
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 19:30:00 GMT",
+      "ts": 1790364600
+    },
     {
       "source": "MarketWatch",
       "title": "Microsoft’s stock has roared back to life and is now headed for its highest close of the year",
@@ -150,25 +164,11 @@
       "ts": 1790357400
     },
     {
-      "source": "MarketWatch",
-      "title": "This is why you might see 8% mortgage rates soon",
-      "link": "https://www.marketwatch.com/story/this-is-why-you-might-see-8-mortgage-rates-soon-6a2e24dd?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 17:20:00 GMT",
-      "ts": 1790356800
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitget clarifies $388M in assets affected by security breach",
       "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 17:17:45 +0000",
       "ts": 1790356665
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar holds steady as US Dollar retreats",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-as-us-dollar-retreats-202609251658",
-      "published": "Fri, 25 Sep 2026 16:58:06 GMT",
-      "ts": 1790355486
     },
     {
       "source": "CoinTelegraph",
