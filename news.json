@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T02:52:43.254129Z",
+  "updated": "2026-09-25T03:10:05.166216Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD remains steady near $94.00 as oil prices ease",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-steady-near-9400-as-oil-prices-ease-202609250300",
+      "published": "Fri, 25 Sep 2026 03:00:44 GMT",
+      "ts": 1790305244
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies weaken as dollar hits two-month high, yen nears 160",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
+      "published": "2026-09-25 02:38:23",
+      "ts": 1790303903
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen recovers from three-week low vs USD amid looming intervention risk",
@@ -78,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/saudi-civil-defence-issues-warning-over-possible-threat-in-jazan-202609250006",
       "published": "Fri, 25 Sep 2026 00:06:21 GMT",
       "ts": 1790294781
-    },
-    {
-      "source": "FXStreet",
-      "title": "Iran’s President says US ‘must choose’ whether to end war",
-      "link": "https://www.fxstreet.com/news/irans-president-says-us-must-choose-whether-to-end-war-202609242353",
-      "published": "Thu, 24 Sep 2026 23:53:26 GMT",
-      "ts": 1790294006
     },
     {
       "source": "MarketWatch",
@@ -414,13 +421,6 @@
       "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
       "published": "2026-09-23T04:33:16Z",
       "ts": 1790137996
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
-      "link": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
-      "published": "2026-09-23T04:29:16Z",
-      "ts": 1790137756
     }
   ]
 }
