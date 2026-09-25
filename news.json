@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-25T16:11:12.076939Z",
+  "updated": "2026-09-25T16:29:33.969370Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average bounces on Iran's latest Hormuz offer",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-bounces-on-irans-latest-hormuz-offer-202609251628",
+      "published": "Fri, 25 Sep 2026 16:28:49 GMT",
+      "ts": 1790353729
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron investors should get ready for a seesaw ride, analyst says",
+      "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 16:27:00 GMT",
+      "ts": 1790353620
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Apple’s expensive new iPhones could be a double-edged sword for the company",
+      "link": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 16:11:00 GMT",
+      "ts": 1790352660
+    },
     {
       "source": "MarketWatch",
       "title": "When is it the right time to ask someone out? I’m 21, and ‘my finances and identity still feel like works in progress.’",
@@ -164,25 +185,11 @@
       "ts": 1790344576
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Pressure persists toward 159.60 against US Dollar - UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-pressure-persists-toward-15960-against-us-dollar-uob-202609251347",
-      "published": "Fri, 25 Sep 2026 13:47:47 GMT",
-      "ts": 1790344067
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin flat at $84k as focus shifts to rate jitters, Bitget hack",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
       "published": "2026-09-25 13:44:06",
       "ts": 1790343846
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The options market is sending a contrarian signal about oil prices",
-      "link": "https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 13:43:00 GMT",
-      "ts": 1790343780
     },
     {
       "source": "CoinTelegraph",
@@ -196,13 +203,6 @@
       "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
       "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 13:30:00 +0000",
-      "ts": 1790343000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
-      "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 13:30:00 GMT",
       "ts": 1790343000
     },
     {
@@ -354,7 +354,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin reverses early gains; Saylor's Strategy moves toward daily dividends",
+      "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
       "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
       "published": "Fri, 25 Sep 2026 07:09:11 +0000",
       "ts": 1790320151
