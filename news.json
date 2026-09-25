@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T23:24:15.265577Z",
+  "updated": "2026-09-25T23:38:12.668213Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 23:30:00 GMT",
+      "ts": 1790379000
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
@@ -155,13 +162,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-faces-nearterm-pressure-as-rate-gap-and-trade-risks-widen-4918030",
       "published": "2026-09-25 19:52:08",
       "ts": 1790365928
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Trump’s ban on Canadian alcohol starts Tuesday, but these well-known brands will avoid it",
-      "link": "https://www.marketwatch.com/story/trumps-ban-on-canadian-alcohol-starts-tuesday-but-these-well-known-brands-will-avoid-it-89c2e5c5?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 19:45:00 GMT",
-      "ts": 1790365500
     },
     {
       "source": "FXStreet",
