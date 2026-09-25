@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T19:38:06.274502Z",
+  "updated": "2026-09-25T19:52:12.428624Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Trump’s ban on Canadian alcohol starts Tuesday, but these well-known brands will avoid it",
+      "link": "https://www.marketwatch.com/story/trumps-ban-on-canadian-alcohol-starts-tuesday-but-these-well-known-brands-will-avoid-it-89c2e5c5?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 19:45:00 GMT",
+      "ts": 1790365500
+    },
     {
       "source": "FXStreet",
       "title": "Chinese Yuan: PBoC keeps yuan broadly stable – Societe Generale",
@@ -15,6 +22,13 @@
       "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 19:30:00 GMT",
       "ts": 1790364600
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds $83,266 support as MACD turns bearish: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-25 19:18:22",
+      "ts": 1790363902
     },
     {
       "source": "MarketWatch",
@@ -155,13 +169,6 @@
       "link": "https://www.fxstreet.com/news/swiss-franc-further-losses-seem-capped-against-us-dollar-uob-202609251738",
       "published": "Fri, 25 Sep 2026 17:38:39 GMT",
       "ts": 1790357919
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
-      "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 17:30:00 GMT",
-      "ts": 1790357400
     },
     {
       "source": "CoinTelegraph",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-dollarfranc-support-from-yield-gap-after-snb-meeting-93CH-4916919",
       "published": "2026-09-25 08:51:49",
       "ts": 1790326309
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stuck in $83K-$85K chop zone: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-25 07:12:05",
-      "ts": 1790320325
     },
     {
       "source": "CoinDesk",
