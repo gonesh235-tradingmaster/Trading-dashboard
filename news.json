@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T11:44:00.758765Z",
+  "updated": "2026-09-25T11:55:41.062099Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
+      "published": "Fri, 25 Sep 2026 11:54:28 +0000",
+      "ts": 1790337268
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: France spreads weigh on EUR – ING",
+      "link": "https://www.fxstreet.com/news/euro-france-spreads-weigh-on-eur-ing-202609251149",
+      "published": "Fri, 25 Sep 2026 11:49:17 GMT",
+      "ts": 1790336957
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar: Rate differentials support but upside constrained – BBH",
@@ -92,13 +106,6 @@
       "link": "https://www.fxstreet.com/news/boes-bailey-warns-persistent-high-energy-prices-could-challenge-rate-stance-202609251005",
       "published": "Fri, 25 Sep 2026 10:05:17 GMT",
       "ts": 1790330717
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee: PMIs show growth and inflation risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/indian-rupee-pmis-show-growth-and-inflation-risks-commerzbank-202609251003",
-      "published": "Fri, 25 Sep 2026 10:03:14 GMT",
-      "ts": 1790330594
     },
     {
       "source": "CoinDesk",
@@ -358,13 +365,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
       "published": "2026-09-24 21:04:09",
       "ts": 1790283849
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
-      "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
-      "published": "Thu, 24 Sep 2026 20:13:25 +0000",
-      "ts": 1790280805
     },
     {
       "source": "Investing Crypto",
