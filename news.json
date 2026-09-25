@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T02:09:34.889798Z",
+  "updated": "2026-09-25T02:25:59.230854Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar flatlines near 0.7000 as traders assess Trump-Xi summit",
+      "link": "https://www.fxstreet.com/news/australian-dollar-flatlines-near-07000-as-traders-assess-trump-xi-summit-202609250224",
+      "published": "Fri, 25 Sep 2026 02:24:47 GMT",
+      "ts": 1790303087
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japan’s Katayama says BoJ's latest rate hike was done to achieve inflation target",
+      "link": "https://www.fxstreet.com/news/japans-katayama-says-bojs-latest-rate-hike-was-done-to-achieve-inflation-target-202609250217",
+      "published": "Fri, 25 Sep 2026 02:17:34 GMT",
+      "ts": 1790302654
+    },
     {
       "source": "CoinTelegraph",
       "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
@@ -115,25 +129,11 @@
       "ts": 1790291760
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen keeps sliding as Tokyo repeats its warning and holds fire",
-      "link": "https://www.fxstreet.com/news/japanese-yen-keeps-sliding-as-tokyo-repeats-its-warning-and-holds-fire-202609242300",
-      "published": "Thu, 24 Sep 2026 23:00:00 GMT",
-      "ts": 1790290800
-    },
-    {
       "source": "MarketWatch",
       "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
       "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 23:00:00 GMT",
       "ts": 1790290800
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar tests 200-day SMA amid soaring US yields",
-      "link": "https://www.fxstreet.com/news/australian-dollar-tests-200-day-sma-amid-soaring-us-yields-202609242255",
-      "published": "Thu, 24 Sep 2026 22:55:44 GMT",
-      "ts": 1790290544
     },
     {
       "source": "CoinDesk",
