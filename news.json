@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T02:25:59.230854Z",
+  "updated": "2026-09-25T02:40:21.428351Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen recovers from three-week low vs USD amid looming intervention risk",
+      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-from-three-week-low-vs-usd-amid-looming-intervention-risk-202609250226",
+      "published": "Fri, 25 Sep 2026 02:26:25 GMT",
+      "ts": 1790303185
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar flatlines near 0.7000 as traders assess Trump-Xi summit",
@@ -106,13 +113,6 @@
       "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 23:26:00 GMT",
       "ts": 1790292360
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold declines below $4,300 as rising oil prices and hawkish Fed stance dampen appeal",
-      "link": "https://www.fxstreet.com/news/gold-declines-below-4-300-as-rising-oil-prices-and-hawkish-fed-stance-dampen-appeal-202609242323",
-      "published": "Thu, 24 Sep 2026 23:23:27 GMT",
-      "ts": 1790292207
     },
     {
       "source": "MarketWatch",
