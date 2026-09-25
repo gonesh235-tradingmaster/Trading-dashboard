@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-25T06:14:41.439129Z",
+  "updated": "2026-09-25T06:37:30.623695Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen gains amid intervention watch as JGB 10-year yield hits 30-year highs",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gains-amid-intervention-watch-as-jgb-bond-yields-hit-30-year-highs-202609250630",
+      "published": "Fri, 25 Sep 2026 06:30:43 GMT",
+      "ts": 1790317843
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Key trigger is RBA’s policy on Tuesday",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-key-trigger-is-rbas-policy-on-tuesday-202609250629",
+      "published": "Fri, 25 Sep 2026 06:29:23 GMT",
+      "ts": 1790317763
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Volatility divergence points to future swings against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-volatility-divergence-points-to-future-swings-against-us-dollar-commerzbank-202609250628",
+      "published": "Fri, 25 Sep 2026 06:28:33 GMT",
+      "ts": 1790317713
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecasts: XAG/USD holds below $64.00 amid Fed hiking bets, higher yields",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-holds-below-6400-amid-fed-hiking-bets-higher-yields-202609250627",
+      "published": "Fri, 25 Sep 2026 06:27:56 GMT",
+      "ts": 1790317676
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar declines amid hawkish Fed outlook, US–Iran deal hopes",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-declines-amid-hawkish-fed-outlook-us-iran-deal-hopes-202609250615",
+      "published": "Fri, 25 Sep 2026 06:15:34 GMT",
+      "ts": 1790316934
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar hits two-month high as Asian currencies weaken, yen nears 160",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
+      "published": "2026-09-25 05:54:52",
+      "ts": 1790315692
+    },
     {
       "source": "FXStreet",
       "title": "EUR/USD Price Forecast: At make or a break near 1.1350",
@@ -38,32 +80,11 @@
       "ts": 1790314135
     },
     {
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Softens to near 1.3200, staying bearish under 100-day SMA",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-softens-to-near-13200-staying-bearish-under-100-day-sma-202609250513",
-      "published": "Fri, 25 Sep 2026 05:13:53 GMT",
-      "ts": 1790313233
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
       "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 05:06:22 +0000",
       "ts": 1790312782
-    },
-    {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609250451",
-      "published": "Fri, 25 Sep 2026 04:51:50 GMT",
-      "ts": 1790311910
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Slips below $92.00 amid Iran diplomacy hopes; bullish potential intact",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-slips-below-9200-amid-iran-diplomacy-hopes-bullish-potential-intact-202609250442",
-      "published": "Fri, 25 Sep 2026 04:42:41 GMT",
-      "ts": 1790311361
     },
     {
       "source": "CoinTelegraph",
@@ -85,27 +106,6 @@
       "link": "https://www.fxstreet.com/news/gold-remains-capped-as-hawkish-fed-higher-bond-yields-and-iran-risks-support-usd-202609250419",
       "published": "Fri, 25 Sep 2026 04:19:54 GMT",
       "ts": 1790309994
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Weakens to near 111.00 as bearish technical bias holds below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-weakens-to-near-11100-as-bearish-technical-bias-holds-below-100-day-sma-202609250419",
-      "published": "Fri, 25 Sep 2026 04:19:34 GMT",
-      "ts": 1790309974
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Tests nine-day EMA support near 180.00",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-nine-day-ema-support-near-18000-202609250343",
-      "published": "Fri, 25 Sep 2026 03:43:36 GMT",
-      "ts": 1790307816
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies weaken as dollar hits two-month high, yen nears 160",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
-      "published": "2026-09-25 02:38:23",
-      "ts": 1790303903
     },
     {
       "source": "CoinTelegraph",
