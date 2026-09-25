@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T01:38:46.334494Z",
+  "updated": "2026-09-25T01:51:06.546010Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound consolidates above 1.3200, its lowest since late June against a bullish USD",
+      "link": "https://www.fxstreet.com/news/british-pound-consolidates-above-13200-its-lowest-since-late-june-against-a-bullish-usd-202609250143",
+      "published": "Fri, 25 Sep 2026 01:43:35 GMT",
+      "ts": 1790300615
+    },
     {
       "source": "FXStreet",
       "title": "Euro posts modest lossess on rising Fed hike odds, Middle East tensions",
@@ -127,13 +134,6 @@
       "link": "https://www.fxstreet.com/news/mexican-peso-range-view-with-downside-risks-against-us-dollar-rabobank-202609242239",
       "published": "Thu, 24 Sep 2026 22:39:00 GMT",
       "ts": 1790289540
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar grinds lower as US bond yields climb to new highs",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-grinds-lower-as-us-bond-yields-climb-to-new-highs-202609242230",
-      "published": "Thu, 24 Sep 2026 22:30:00 GMT",
-      "ts": 1790289000
     },
     {
       "source": "CoinDesk",
