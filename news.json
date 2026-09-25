@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-25T13:54:01.175334Z",
+  "updated": "2026-09-25T14:11:02.179442Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso: Banxico stance keeps bar high for hikes – BBH",
+      "link": "https://www.fxstreet.com/news/mexican-peso-banxico-stance-keeps-bar-high-for-hikes-bbh-202609251356",
+      "published": "Fri, 25 Sep 2026 13:56:16 GMT",
+      "ts": 1790344576
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen: Pressure persists toward 159.60 against US Dollar - UOB",
       "link": "https://www.fxstreet.com/news/japanese-yen-pressure-persists-toward-15960-against-us-dollar-uob-202609251347",
       "published": "Fri, 25 Sep 2026 13:47:47 GMT",
       "ts": 1790344067
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin flat at $84k as focus shifts to rate jitters, Bitget hack",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
+      "published": "2026-09-25 13:44:06",
+      "ts": 1790343846
     },
     {
       "source": "MarketWatch",
@@ -32,7 +46,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Canadian Dollar set for second weekly decline despite pullback in US Dollar",
+      "title": "Canadian Dollar set for third weekly decline despite pullback in US Dollar",
       "link": "https://www.fxstreet.com/news/canadian-dollar-set-for-second-weekly-decline-despite-pullback-in-us-dollar-202609251331",
       "published": "Fri, 25 Sep 2026 13:31:17 GMT",
       "ts": 1790343077
@@ -113,13 +127,6 @@
       "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 12:19:34 +0000",
       "ts": 1790338774
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/GBP Price Forecast: Bulls challenge 0.8600 resistance after weeks of consolidation",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bulls-challenge-08600-resistance-after-weeks-of-consolidation-202609251216",
-      "published": "Fri, 25 Sep 2026 12:16:24 GMT",
-      "ts": 1790338584
     },
     {
       "source": "MarketWatch",
@@ -211,13 +218,6 @@
       "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 09:48:53 +0000",
       "ts": 1790329733
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rangebound near $85k with focus on rate jitters, Bitget hack",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
-      "published": "2026-09-25 09:33:50",
-      "ts": 1790328830
     },
     {
       "source": "CoinDesk",
