@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T00:38:12.789535Z",
+  "updated": "2026-09-25T00:55:06.686824Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+      "link": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 00:32:46 +0000",
+      "ts": 1790296366
+    },
     {
       "source": "FXStreet",
       "title": "China's President Xi says Beijing and US should seek new ways for major countries to coexist",
@@ -302,13 +309,6 @@
       "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 17:13:38 +0000",
       "ts": 1790270018
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
-      "link": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 15:57:00 +0000",
-      "ts": 1790265420
     },
     {
       "source": "CoinDesk",
