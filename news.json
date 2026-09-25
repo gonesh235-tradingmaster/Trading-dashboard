@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T16:46:59.275949Z",
+  "updated": "2026-09-25T17:09:04.583397Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar holds steady as US Dollar retreats",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-as-us-dollar-retreats-202609251658",
+      "published": "Fri, 25 Sep 2026 16:58:06 GMT",
+      "ts": 1790355486
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How do I know when to ask someone out? I’m 21 and I don’t want to waste my money or my time.",
+      "link": "https://www.marketwatch.com/story/when-is-it-the-right-time-to-ask-someone-out-im-21-and-my-finances-and-identity-still-feel-like-works-in-progress-4bce4fa5?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 16:48:00 GMT",
+      "ts": 1790354880
+    },
     {
       "source": "CoinTelegraph",
       "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
@@ -29,13 +43,6 @@
       "link": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 16:11:00 GMT",
       "ts": 1790352660
-    },
-    {
-      "source": "MarketWatch",
-      "title": "When is it the right time to ask someone out? I’m 21, and ‘my finances and identity still feel like works in progress.’",
-      "link": "https://www.marketwatch.com/story/when-is-it-the-right-time-to-ask-someone-out-im-21-and-my-finances-and-identity-still-feel-like-works-in-progress-4bce4fa5?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 16:03:00 GMT",
-      "ts": 1790352180
     },
     {
       "source": "MarketWatch",
@@ -183,13 +190,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-near-recent-lows-as-us-dollar-rally-keeps-pressure-4917705",
       "published": "2026-09-25 14:06:09",
       "ts": 1790345169
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso: Banxico stance keeps bar high for hikes – BBH",
-      "link": "https://www.fxstreet.com/news/mexican-peso-banxico-stance-keeps-bar-high-for-hikes-bbh-202609251356",
-      "published": "Fri, 25 Sep 2026 13:56:16 GMT",
-      "ts": 1790344576
     },
     {
       "source": "Investing Crypto",
