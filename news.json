@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T03:10:05.166216Z",
+  "updated": "2026-09-25T03:25:36.777995Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index approaches 101.80 as bond yields keep rallying",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-10180-as-bond-yields-keep-rallying-202609250322",
+      "published": "Fri, 25 Sep 2026 03:22:23 GMT",
+      "ts": 1790306543
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD remains steady near $94.00 as oil prices ease",
@@ -85,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/chinas-president-xi-says-beijing-and-us-should-seek-new-ways-for-major-countries-to-coexist-202609250023",
       "published": "Fri, 25 Sep 2026 00:23:58 GMT",
       "ts": 1790295838
-    },
-    {
-      "source": "FXStreet",
-      "title": "Saudi Civil Defence issues warning over possible threat in Jazan",
-      "link": "https://www.fxstreet.com/news/saudi-civil-defence-issues-warning-over-possible-threat-in-jazan-202609250006",
-      "published": "Fri, 25 Sep 2026 00:06:21 GMT",
-      "ts": 1790294781
     },
     {
       "source": "MarketWatch",
