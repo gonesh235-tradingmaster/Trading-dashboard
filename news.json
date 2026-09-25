@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T04:57:13.223185Z",
+  "updated": "2026-09-25T05:13:34.879346Z",
   "count": 60,
   "items": [
     {
@@ -22,6 +22,13 @@
       "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 04:41:06 +0000",
       "ts": 1790311266
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
+      "published": "Fri, 25 Sep 2026 04:29:34 +0000",
+      "ts": 1790310574
     },
     {
       "source": "FXStreet",
@@ -323,13 +330,6 @@
       "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
       "published": "Thu, 24 Sep 2026 15:48:20 +0000",
       "ts": 1790264900
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
-      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
-      "published": "Thu, 24 Sep 2026 15:26:34 +0000",
-      "ts": 1790263594
     },
     {
       "source": "Investing Crypto",
