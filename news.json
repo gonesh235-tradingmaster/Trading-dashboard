@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T03:41:01.138284Z",
+  "updated": "2026-09-25T03:53:39.380571Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Tests nine-day EMA support near 180.00",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-nine-day-ema-support-near-18000-202609250343",
+      "published": "Fri, 25 Sep 2026 03:43:36 GMT",
+      "ts": 1790307816
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index approaches 101.80 as bond yields keep rallying",
@@ -85,13 +92,6 @@
       "link": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 00:32:46 +0000",
       "ts": 1790296366
-    },
-    {
-      "source": "FXStreet",
-      "title": "China's President Xi says Beijing and US should seek new ways for major countries to coexist",
-      "link": "https://www.fxstreet.com/news/chinas-president-xi-says-beijing-and-us-should-seek-new-ways-for-major-countries-to-coexist-202609250023",
-      "published": "Fri, 25 Sep 2026 00:23:58 GMT",
-      "ts": 1790295838
     },
     {
       "source": "MarketWatch",
