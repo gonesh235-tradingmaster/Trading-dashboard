@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-25T09:55:53.519129Z",
+  "updated": "2026-09-25T10:11:31.493328Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "BoE’s Bailey warns persistent high energy prices could challenge rate stance",
+      "link": "https://www.fxstreet.com/news/boes-bailey-warns-persistent-high-energy-prices-could-challenge-rate-stance-202609251005",
+      "published": "Fri, 25 Sep 2026 10:05:17 GMT",
+      "ts": 1790330717
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: PMIs show growth and inflation risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indian-rupee-pmis-show-growth-and-inflation-risks-commerzbank-202609251003",
+      "published": "Fri, 25 Sep 2026 10:03:14 GMT",
+      "ts": 1790330594
+    },
     {
       "source": "FXStreet",
       "title": "Gold Price Forecast: XAU/USD struggles below $4,300 level with bears still in control",
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-struggles-below-4-300-level-with-bears-still-in-control-202609250952",
       "published": "Fri, 25 Sep 2026 09:52:06 GMT",
       "ts": 1790329926
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
+      "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 09:48:53 +0000",
+      "ts": 1790329733
     },
     {
       "source": "FXStreet",
@@ -136,25 +157,11 @@
       "ts": 1790326277
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar hovers just above 0.7000 with no news from the Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/australian-dollar-hovers-just-above-07000-with-no-news-from-the-trump-xi-summit-202609250849",
-      "published": "Fri, 25 Sep 2026 08:49:26 GMT",
-      "ts": 1790326166
-    },
-    {
       "source": "MarketWatch",
       "title": "Akamai stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.",
       "link": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 08:42:00 GMT",
       "ts": 1790325720
-    },
-    {
-      "source": "FXStreet",
-      "title": "Hungarian Forint: New inflation target demands hawkish MNB – Commerzbank",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-new-inflation-target-demands-hawkish-mnb-commerzbank-202609250839",
-      "published": "Fri, 25 Sep 2026 08:39:12 GMT",
-      "ts": 1790325552
     },
     {
       "source": "Investing Forex",
@@ -302,13 +309,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
       "published": "Thu, 24 Sep 2026 22:28:49 +0000",
       "ts": 1790288929
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
-      "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 22:10:09 +0000",
-      "ts": 1790287809
     },
     {
       "source": "MarketWatch",
