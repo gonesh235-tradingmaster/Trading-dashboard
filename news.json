@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-25T12:14:14.811094Z",
+  "updated": "2026-09-25T12:36:40.548859Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: Weakness may extend toward 0.6970 against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakness-may-extend-toward-06970-against-us-dollar-uob-202609251234",
+      "published": "Fri, 25 Sep 2026 12:34:05 GMT",
+      "ts": 1790339645
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swedish Krona: Riksbank facing delayed inflation rebound – Commerzbank",
+      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-facing-delayed-inflation-rebound-commerzbank-202609251223",
+      "published": "Fri, 25 Sep 2026 12:23:50 GMT",
+      "ts": 1790339030
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
+      "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 12:19:34 +0000",
+      "ts": 1790338774
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/GBP Price Forecast: Bulls challenge 0.8600 resistance after weeks of consolidation",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bulls-challenge-08600-resistance-after-weeks-of-consolidation-202609251216",
+      "published": "Fri, 25 Sep 2026 12:16:24 GMT",
+      "ts": 1790338584
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
+      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 12:15:00 GMT",
+      "ts": 1790338500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 12:15:00 GMT",
+      "ts": 1790338500
+    },
     {
       "source": "FXStreet",
       "title": "CEE FX: Regional currencies weaken against Euro on policy risks - Societe Generale",
@@ -73,13 +115,6 @@
       "ts": 1790335010
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound: Risk of test of 1.3140 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-risk-of-test-of-13140-against-us-dollar-uob-202609251115",
-      "published": "Fri, 25 Sep 2026 11:15:02 GMT",
-      "ts": 1790334902
-    },
-    {
       "source": "MarketWatch",
       "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
       "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
@@ -95,7 +130,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold gains as US Dollar and yields pause, but weekly loss remains in sight",
+      "title": "Gold finds support as US Dollar and yields ease, weekly loss still in sight",
       "link": "https://www.fxstreet.com/news/gold-gains-as-us-dollar-and-yields-pause-but-weekly-loss-remains-in-sight-202609251106",
       "published": "Fri, 25 Sep 2026 11:06:53 GMT",
       "ts": 1790334413
@@ -106,20 +141,6 @@
       "link": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 11:02:00 GMT",
       "ts": 1790334120
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Williams: Persistent supply shocks cannot be ignored",
-      "link": "https://www.fxstreet.com/news/feds-williams-persistent-supply-shocks-cannot-be-ignored-202609251051",
-      "published": "Fri, 25 Sep 2026 10:51:11 GMT",
-      "ts": 1790333471
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Oil reversal stalls above $91.00 as Middle East tensions outweigh supply increases",
-      "link": "https://www.fxstreet.com/news/wti-oil-reversal-stalls-above-9100-as-middle-east-tensions-outweigh-supply-increases-202609251049",
-      "published": "Fri, 25 Sep 2026 10:49:49 GMT",
-      "ts": 1790333389
     },
     {
       "source": "MarketWatch",
@@ -302,27 +323,6 @@
       "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 02:00:54 +0000",
       "ts": 1790301654
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
-      "link": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 00:32:46 +0000",
-      "ts": 1790296366
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 23:35:00 GMT",
-      "ts": 1790292900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "3 things Micron investors need to watch as the stakes get higher",
-      "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 23:28:00 GMT",
-      "ts": 1790292480
     },
     {
       "source": "CoinDesk",
