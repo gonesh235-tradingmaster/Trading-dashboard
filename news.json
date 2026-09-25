@@ -1,13 +1,48 @@
 {
-  "updated": "2026-09-25T11:55:41.062099Z",
+  "updated": "2026-09-25T12:14:14.811094Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "CEE FX: Regional currencies weaken against Euro on policy risks - Societe Generale",
+      "link": "https://www.fxstreet.com/news/cee-fx-regional-currencies-weaken-against-euro-on-policy-risks-societe-generale-202609251207",
+      "published": "Fri, 25 Sep 2026 12:07:31 GMT",
+      "ts": 1790338051
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How to keep profiting from AI while shielding your portfolio against the risk of a slowdown",
+      "link": "https://www.marketwatch.com/story/how-to-keep-profiting-from-ai-while-shielding-your-portfolio-against-the-risk-of-a-slowdown-a5801291?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 12:05:00 GMT",
+      "ts": 1790337900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+      "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 12:00:00 GMT",
+      "ts": 1790337600
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen extends recovery as Tokyo officials defend BoJ independence",
+      "link": "https://www.fxstreet.com/news/japanese-yen-extends-recovery-as-tokyo-officials-defend-boj-independence-202609251157",
+      "published": "Fri, 25 Sep 2026 11:57:13 GMT",
+      "ts": 1790337433
+    },
     {
       "source": "CoinDesk",
       "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
       "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
       "published": "Fri, 25 Sep 2026 11:54:28 +0000",
       "ts": 1790337268
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S 10-year yield climbs for 6 straight week as bond rout deepens",
+      "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
+      "published": "2026-09-25 11:52:28",
+      "ts": 1790337148
     },
     {
       "source": "FXStreet",
@@ -92,20 +127,6 @@
       "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 10:46:00 GMT",
       "ts": 1790333160
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japan’s Katayama: Takaichi very much respects the independence of the BoJ",
-      "link": "https://www.fxstreet.com/news/japans-katayama-takaichi-very-much-respects-the-independence-of-the-boj-202609251035",
-      "published": "Fri, 25 Sep 2026 10:35:31 GMT",
-      "ts": 1790332531
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoE’s Bailey warns persistent high energy prices could challenge rate stance",
-      "link": "https://www.fxstreet.com/news/boes-bailey-warns-persistent-high-energy-prices-could-challenge-rate-stance-202609251005",
-      "published": "Fri, 25 Sep 2026 10:05:17 GMT",
-      "ts": 1790330717
     },
     {
       "source": "CoinDesk",
@@ -213,13 +234,6 @@
       "ts": 1790325720
     },
     {
-      "source": "Investing Forex",
-      "title": "U.S 10-year yield climbs for 6 straight week as bond rout deepens",
-      "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
-      "published": "2026-09-25 08:16:55",
-      "ts": 1790324215
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -242,7 +256,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin steadies near $85,000 as the bond selloff pauses",
+      "title": "Live updates: Bitcoin steadies below $85,000 as bond selloff pauses",
       "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
       "published": "Fri, 25 Sep 2026 07:09:11 +0000",
       "ts": 1790320151
@@ -309,20 +323,6 @@
       "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 23:28:00 GMT",
       "ts": 1790292480
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The S&P 500’s newest tech stock is now its best performer",
-      "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 23:26:00 GMT",
-      "ts": 1790292360
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Costco’s results beat expectations. Here’s why investors are still cautious.",
-      "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 23:23:00 GMT",
-      "ts": 1790292180
     },
     {
       "source": "CoinDesk",
