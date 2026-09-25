@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T20:41:18.398161Z",
+  "updated": "2026-09-25T20:53:41.734424Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
+      "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 20:37:21 +0000",
+      "ts": 1790368641
+    },
     {
       "source": "MarketWatch",
       "title": "Apple’s expensive new iPhones could be a double-edged sword for the company",
@@ -39,7 +46,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "US Treasury yields rise as 30-Year yield hits 22-year high",
+      "title": "US Treasury yields rise as 30-year bond hits 22-year high",
       "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022",
       "published": "Fri, 25 Sep 2026 20:22:47 GMT",
       "ts": 1790367767
@@ -281,13 +288,6 @@
       "link": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 12:44:30 +0000",
       "ts": 1790340270
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
-      "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 12:19:34 +0000",
-      "ts": 1790338774
     },
     {
       "source": "CoinDesk",
