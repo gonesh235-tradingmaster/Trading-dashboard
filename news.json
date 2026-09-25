@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-25T09:10:06.462334Z",
+  "updated": "2026-09-25T09:27:51.905809Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs have erased a $5.8 billion hole",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+      "published": "Fri, 25 Sep 2026 09:13:01 +0000",
+      "ts": 1790327581
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Downside scope seen limited against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-downside-scope-seen-limited-against-us-dollar-uob-202609250912",
+      "published": "Fri, 25 Sep 2026 09:12:11 GMT",
+      "ts": 1790327531
+    },
+    {
+      "source": "MarketWatch",
+      "title": "After capital-markets day flop, Novo strikes licensing deal that sends a Swedish company’s stock soaring",
+      "link": "https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 09:11:00 GMT",
+      "ts": 1790327460
+    },
     {
       "source": "Investing Forex",
       "title": "Citi sees yen strengthening on reduced foreign investment",
@@ -120,13 +141,6 @@
       "link": "https://www.fxstreet.com/news/euro-consolidates-near-three-month-lows-amid-high-oil-prices-fed-hiking-bets-202609250802",
       "published": "Fri, 25 Sep 2026 08:02:46 GMT",
       "ts": 1790323366
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar inches higher as US Dollar declines on easing bond yields",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-inches-higher-as-us-dollar-declines-on-easing-bond-yields-202609250751",
-      "published": "Fri, 25 Sep 2026 07:51:57 GMT",
-      "ts": 1790322717
     },
     {
       "source": "CoinTelegraph",
@@ -325,13 +339,6 @@
       "ts": 1790286041
     },
     {
-      "source": "MarketWatch",
-      "title": "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
-      "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 21:23:00 GMT",
-      "ts": 1790284980
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar pinned at nearly two-month high amid resurgent oil prices, bond rout",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
@@ -358,13 +365,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
       "published": "Thu, 24 Sep 2026 20:04:46 +0000",
       "ts": 1790280286
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The stock token debate, and the gap nobody can close alone",
-      "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
-      "published": "Thu, 24 Sep 2026 20:03:21 +0000",
-      "ts": 1790280201
     },
     {
       "source": "Investing Crypto",
