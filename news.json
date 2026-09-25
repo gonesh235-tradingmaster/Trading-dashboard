@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T05:44:08.542393Z",
+  "updated": "2026-09-25T05:55:44.705758Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: At make or a break near 1.1350",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-at-make-or-a-break-near-11350-202609250549",
+      "published": "Fri, 25 Sep 2026 05:49:26 GMT",
+      "ts": 1790315366
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc trades near 16-month lows as US Dollar surges on hawkish Fed expectations",
@@ -74,7 +81,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold remains capped as hawkish Fed, higher bond yields and Iran risks support USD",
+      "title": "Gold consolidates below $4,300 as hawkish Fed, higher bond yields and bullish USD weigh",
       "link": "https://www.fxstreet.com/news/gold-remains-capped-as-hawkish-fed-higher-bond-yields-and-iran-risks-support-usd-202609250419",
       "published": "Fri, 25 Sep 2026 04:19:54 GMT",
       "ts": 1790309994
@@ -92,13 +99,6 @@
       "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-nine-day-ema-support-near-18000-202609250343",
       "published": "Fri, 25 Sep 2026 03:43:36 GMT",
       "ts": 1790307816
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index approaches 101.80 as bond yields keep rallying",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-10180-as-bond-yields-keep-rallying-202609250322",
-      "published": "Fri, 25 Sep 2026 03:22:23 GMT",
-      "ts": 1790306543
     },
     {
       "source": "Investing Forex",
