@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T10:11:31.493328Z",
+  "updated": "2026-09-25T10:28:24.351312Z",
   "count": 60,
   "items": [
     {
@@ -15,6 +15,13 @@
       "link": "https://www.fxstreet.com/news/indian-rupee-pmis-show-growth-and-inflation-risks-commerzbank-202609251003",
       "published": "Fri, 25 Sep 2026 10:03:14 GMT",
       "ts": 1790330594
+    },
+    {
+      "source": "Investing Forex",
+      "title": "eYen pulls back from 160 threshold on Katayama’s comments;  dollar steady",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
+      "published": "2026-09-25 09:57:04",
+      "ts": 1790330224
     },
     {
       "source": "FXStreet",
@@ -50,13 +57,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609250930",
       "published": "Fri, 25 Sep 2026 09:30:58 GMT",
       "ts": 1790328658
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar hits two-month high as Asian currencies weaken, yen nears 160",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
-      "published": "2026-09-25 09:30:22",
-      "ts": 1790328622
     },
     {
       "source": "FXStreet",
