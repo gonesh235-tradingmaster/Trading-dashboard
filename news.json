@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T15:43:33.889542Z",
+  "updated": "2026-09-25T15:55:07.535447Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Tesla’s stock falls as Semi truck launch fails to excite investors",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 15:45:00 GMT",
+      "ts": 1790351100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I just started dating someone I really like, but he’s moving to Mexico for six months. Should I spend the money to visit him?",
+      "link": "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 15:43:00 GMT",
+      "ts": 1790350980
+    },
     {
       "source": "FXStreet",
       "title": "British Pound finds relief as USD pauses, but inflation risks linger",
@@ -204,20 +218,6 @@
       "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 12:19:34 +0000",
       "ts": 1790338774
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
-      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 12:15:00 GMT",
-      "ts": 1790338500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 12:15:00 GMT",
-      "ts": 1790338500
     },
     {
       "source": "CoinDesk",
