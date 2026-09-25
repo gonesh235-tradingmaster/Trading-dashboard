@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-25T13:31:26.719558Z",
+  "updated": "2026-09-25T13:54:01.175334Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Pressure persists toward 159.60 against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-pressure-persists-toward-15960-against-us-dollar-uob-202609251347",
+      "published": "Fri, 25 Sep 2026 13:47:47 GMT",
+      "ts": 1790344067
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The options market is sending a contrarian signal about oil prices",
+      "link": "https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 13:43:00 GMT",
+      "ts": 1790343780
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Credibility restored supports Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-credibility-restored-supports-dollar-commerzbank-202609251336",
+      "published": "Fri, 25 Sep 2026 13:36:35 GMT",
+      "ts": 1790343395
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 13:32:49 +0000",
+      "ts": 1790343169
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar set for second weekly decline despite pullback in US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-set-for-second-weekly-decline-despite-pullback-in-us-dollar-202609251331",
+      "published": "Fri, 25 Sep 2026 13:31:17 GMT",
+      "ts": 1790343077
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
+      "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 13:30:00 +0000",
+      "ts": 1790343000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
+      "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 13:30:00 GMT",
+      "ts": 1790343000
+    },
     {
       "source": "FXStreet",
       "title": "Indian Rupee: RBI interventions cap losses against US Dollar – Societe Generale",
@@ -36,13 +85,6 @@
       "link": "https://www.marketwatch.com/story/these-two-market-gauges-may-signal-a-big-risk-off-event-for-the-market-says-bofa-0432250a?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 12:52:00 GMT",
       "ts": 1790340720
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
-      "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 12:46:00 GMT",
-      "ts": 1790340360
     },
     {
       "source": "CoinTelegraph",
@@ -94,13 +136,6 @@
       "ts": 1790338500
     },
     {
-      "source": "FXStreet",
-      "title": "CEE FX: Regional currencies weaken against Euro on policy risks - Societe Generale",
-      "link": "https://www.fxstreet.com/news/cee-fx-regional-currencies-weaken-against-euro-on-policy-risks-societe-generale-202609251207",
-      "published": "Fri, 25 Sep 2026 12:07:31 GMT",
-      "ts": 1790338051
-    },
-    {
       "source": "MarketWatch",
       "title": "How to keep profiting from AI while shielding your portfolio against the risk of a slowdown",
       "link": "https://www.marketwatch.com/story/how-to-keep-profiting-from-ai-while-shielding-your-portfolio-against-the-risk-of-a-slowdown-a5801291?mod=mw_rss_topstories",
@@ -115,13 +150,6 @@
       "ts": 1790337600
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen extends recovery as Tokyo officials defend BoJ independence",
-      "link": "https://www.fxstreet.com/news/japanese-yen-extends-recovery-as-tokyo-officials-defend-boj-independence-202609251157",
-      "published": "Fri, 25 Sep 2026 11:57:13 GMT",
-      "ts": 1790337433
-    },
-    {
       "source": "CoinDesk",
       "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
       "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
@@ -134,13 +162,6 @@
       "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
       "published": "2026-09-25 11:52:28",
       "ts": 1790337148
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: France spreads weigh on EUR – ING",
-      "link": "https://www.fxstreet.com/news/euro-france-spreads-weigh-on-eur-ing-202609251149",
-      "published": "Fri, 25 Sep 2026 11:49:17 GMT",
-      "ts": 1790336957
     },
     {
       "source": "CoinDesk",
@@ -227,13 +248,6 @@
       "ts": 1790326929
     },
     {
-      "source": "MarketWatch",
-      "title": "The low-key California property portfolio of ‘Wednesday’ star Jenna Ortega",
-      "link": "https://www.marketwatch.com/story/the-low-key-california-property-portfolio-of-wednesday-star-jenna-ortega-1e0c80cb?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 09:01:00 GMT",
-      "ts": 1790326860
-    },
-    {
       "source": "CoinDesk",
       "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
       "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
@@ -291,17 +305,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin steadies below $85,000 as bond selloff pauses",
+      "title": "Live updates: Bitcoin reverses early gains; Saylor's Strategy moves toward daily dividends",
       "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
       "published": "Fri, 25 Sep 2026 07:09:11 +0000",
       "ts": 1790320151
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 05:30:56 +0000",
-      "ts": 1790314256
     },
     {
       "source": "CoinTelegraph",
@@ -309,13 +316,6 @@
       "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 05:06:22 +0000",
       "ts": 1790312782
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-      "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 04:41:06 +0000",
-      "ts": 1790311266
     },
     {
       "source": "CoinDesk",
