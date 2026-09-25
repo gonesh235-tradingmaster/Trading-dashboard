@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T08:10:26.579714Z",
+  "updated": "2026-09-25T08:28:55.653630Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Bank of England: Policy convergence questions after Fed hike – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/bank-of-england-policy-convergence-questions-after-fed-hike-standard-chartered-202609250818",
+      "published": "Fri, 25 Sep 2026 08:18:57 GMT",
+      "ts": 1790324337
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S 10-year yield climbs for 6 straight week as bond rout deepens",
+      "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
+      "published": "2026-09-25 08:16:55",
+      "ts": 1790324215
+    },
     {
       "source": "FXStreet",
       "title": "British Pound underperforms this week as experts doubt BoE tightening prospects",
@@ -85,13 +99,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
       "published": "Fri, 25 Sep 2026 07:09:11 +0000",
       "ts": 1790320151
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro holds gains against Canadian Dollar following German GfK Consumer Confidence",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-against-canadian-dollar-following-german-gfk-consumer-confidence-202609250705",
-      "published": "Fri, 25 Sep 2026 07:05:34 GMT",
-      "ts": 1790319934
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
       "published": "2026-09-23 09:25:51",
       "ts": 1790155551
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-      "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
-      "published": "2026-09-23T04:33:16Z",
-      "ts": 1790137996
     }
   ]
 }
