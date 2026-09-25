@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T07:53:02.685055Z",
+  "updated": "2026-09-25T08:10:26.579714Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound underperforms this week as experts doubt BoE tightening prospects",
+      "link": "https://www.fxstreet.com/news/british-pound-underperforms-this-week-as-experts-doubt-boe-tightening-prospects-202609250806",
+      "published": "Fri, 25 Sep 2026 08:06:08 GMT",
+      "ts": 1790323568
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro consolidates near three-month lows amid high Oil prices, Fed hiking bets",
+      "link": "https://www.fxstreet.com/news/euro-consolidates-near-three-month-lows-amid-high-oil-prices-fed-hiking-bets-202609250802",
+      "published": "Fri, 25 Sep 2026 08:02:46 GMT",
+      "ts": 1790323366
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar inches higher as US Dollar declines on easing bond yields",
@@ -80,20 +94,6 @@
       "ts": 1790319934
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Dovish SNB keeps CHF under pressure against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/swiss-franc-dovish-snb-keeps-chf-under-pressure-against-us-dollar-ing-202609250703",
-      "published": "Fri, 25 Sep 2026 07:03:28 GMT",
-      "ts": 1790319808
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: Heads for second week of gain above 101.00, upside bias intact",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-heads-for-second-week-of-gain-above-10100-upside-bias-intact-202609250657",
-      "published": "Fri, 25 Sep 2026 06:57:58 GMT",
-      "ts": 1790319478
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin pauses near $84k with focus on rate jitters, Bitget hack",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
@@ -115,13 +115,6 @@
       "ts": 1790314256
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee draws temporary support from RBI’s likely intervention",
-      "link": "https://www.fxstreet.com/news/indian-rupee-cushioned-by-rbis-likely-intervention-outlook-remain-fragile-202609250528",
-      "published": "Fri, 25 Sep 2026 05:28:55 GMT",
-      "ts": 1790314135
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
       "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -137,10 +130,17 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
+      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
       "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
       "published": "Fri, 25 Sep 2026 04:29:34 +0000",
       "ts": 1790310574
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold extends the range play below $4,300 as Fed hike bets counter modest USD pullback",
+      "link": "https://www.fxstreet.com/news/gold-remains-capped-as-hawkish-fed-higher-bond-yields-and-iran-risks-support-usd-202609250419",
+      "published": "Fri, 25 Sep 2026 04:19:54 GMT",
+      "ts": 1790309994
     },
     {
       "source": "CoinTelegraph",
