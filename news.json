@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T14:46:12.429902Z",
+  "updated": "2026-09-25T15:10:46.245083Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Correction seen near key averages against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/euro-correction-seen-near-key-averages-against-us-dollar-societe-generale-202609251501",
+      "published": "Fri, 25 Sep 2026 15:01:59 GMT",
+      "ts": 1790348519
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro set for third weekly decline as hawkish Federal Reserve outlook weighs",
+      "link": "https://www.fxstreet.com/news/euro-set-for-third-weekly-decline-as-hawkish-federal-reserve-outlook-weighs-202609251451",
+      "published": "Fri, 25 Sep 2026 14:51:53 GMT",
+      "ts": 1790347913
+    },
     {
       "source": "MarketWatch",
       "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
@@ -164,32 +178,11 @@
       "ts": 1790343000
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee: RBI interventions cap losses against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-interventions-cap-losses-against-us-dollar-societe-generale-202609251316",
-      "published": "Fri, 25 Sep 2026 13:16:17 GMT",
-      "ts": 1790342177
-    },
-    {
       "source": "Investing Forex",
       "title": "Yen pulls back from 160 threshold on Katayama’s comments;  dollar steady",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
       "published": "2026-09-25 13:08:36",
       "ts": 1790341716
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Back-end yields support USD consolidation – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-back-end-yields-support-usd-consolidation-ing-202609251305",
-      "published": "Fri, 25 Sep 2026 13:05:35 GMT",
-      "ts": 1790341535
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Range-bound against US Dollar as intervention risk looms – BBH",
-      "link": "https://www.fxstreet.com/news/japanese-yen-range-bound-against-us-dollar-as-intervention-risk-looms-bbh-202609251252",
-      "published": "Fri, 25 Sep 2026 12:52:46 GMT",
-      "ts": 1790340766
     },
     {
       "source": "MarketWatch",
@@ -253,6 +246,13 @@
       "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 11:11:33 +0000",
       "ts": 1790334693
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold struggles below $4,300, heads for weekly decline on hawkish Fed outlook",
+      "link": "https://www.fxstreet.com/news/gold-gains-as-us-dollar-and-yields-pause-but-weekly-loss-remains-in-sight-202609251106",
+      "published": "Fri, 25 Sep 2026 11:06:53 GMT",
+      "ts": 1790334413
     },
     {
       "source": "CoinDesk",
