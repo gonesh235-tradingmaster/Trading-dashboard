@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T15:28:13.081766Z",
+  "updated": "2026-09-25T15:43:33.889542Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound finds relief as USD pauses, but inflation risks linger",
+      "link": "https://www.fxstreet.com/news/british-pound-finds-relief-as-usd-pauses-but-inflation-risks-linger-202609251536",
+      "published": "Fri, 25 Sep 2026 15:36:30 GMT",
+      "ts": 1790350590
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar: Undervalued near 1.41 against US Dollar – Scotiabank",
@@ -148,13 +155,6 @@
       "link": "https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 13:43:00 GMT",
       "ts": 1790343780
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Credibility restored supports Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-credibility-restored-supports-dollar-commerzbank-202609251336",
-      "published": "Fri, 25 Sep 2026 13:36:35 GMT",
-      "ts": 1790343395
     },
     {
       "source": "CoinTelegraph",
