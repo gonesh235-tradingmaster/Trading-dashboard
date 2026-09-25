@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-25T04:44:17.656739Z",
+  "updated": "2026-09-25T04:57:13.223185Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609250451",
+      "published": "Fri, 25 Sep 2026 04:51:50 GMT",
+      "ts": 1790311910
+    },
     {
       "source": "FXStreet",
       "title": "WTI Price Forecast: Slips below $92.00 amid Iran diplomacy hopes; bullish potential intact",
       "link": "https://www.fxstreet.com/news/wti-price-forecast-slips-below-9200-amid-iran-diplomacy-hopes-bullish-potential-intact-202609250442",
       "published": "Fri, 25 Sep 2026 04:42:41 GMT",
       "ts": 1790311361
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
+      "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 04:41:06 +0000",
+      "ts": 1790311266
     },
     {
       "source": "FXStreet",
@@ -78,13 +92,6 @@
       "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 02:00:54 +0000",
       "ts": 1790301654
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar weakens amid falling oil prices, stronger US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-amid-falling-oil-prices-stronger-us-dollar-202609250200",
-      "published": "Fri, 25 Sep 2026 02:00:45 GMT",
-      "ts": 1790301645
     },
     {
       "source": "CoinTelegraph",
@@ -309,13 +316,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/moomoo-sees-50-jump-in-crypto-buyers-as-retail-demand-broadens-4915966",
       "published": "2026-09-24 17:33:12",
       "ts": 1790271192
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
-      "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 17:14:35 +0000",
-      "ts": 1790270075
     },
     {
       "source": "CoinDesk",
