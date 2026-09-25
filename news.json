@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T04:27:35.188341Z",
+  "updated": "2026-09-25T04:44:17.656739Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Slips below $92.00 amid Iran diplomacy hopes; bullish potential intact",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-slips-below-9200-amid-iran-diplomacy-hopes-bullish-potential-intact-202609250442",
+      "published": "Fri, 25 Sep 2026 04:42:41 GMT",
+      "ts": 1790311361
+    },
     {
       "source": "FXStreet",
       "title": "Gold remains capped as hawkish Fed, higher bond yields and Iran risks support USD",
@@ -78,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-amid-falling-oil-prices-stronger-us-dollar-202609250200",
       "published": "Fri, 25 Sep 2026 02:00:45 GMT",
       "ts": 1790301645
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound consolidates above 1.3200, its lowest since late June against a bullish USD",
-      "link": "https://www.fxstreet.com/news/british-pound-consolidates-above-13200-its-lowest-since-late-june-against-a-bullish-usd-202609250143",
-      "published": "Fri, 25 Sep 2026 01:43:35 GMT",
-      "ts": 1790300615
     },
     {
       "source": "CoinTelegraph",
