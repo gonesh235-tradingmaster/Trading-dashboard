@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-25T17:09:04.583397Z",
+  "updated": "2026-09-25T17:26:19.751712Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "This is why you might see 8% mortgage rates soon",
+      "link": "https://www.marketwatch.com/story/this-is-why-you-might-see-8-mortgage-rates-soon-6a2e24dd?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 17:20:00 GMT",
+      "ts": 1790356800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitget clarifies $388M in assets affected by security breach",
+      "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 17:17:45 +0000",
+      "ts": 1790356665
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+      "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 17:11:00 GMT",
+      "ts": 1790356260
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar holds steady as US Dollar retreats",
@@ -171,20 +192,6 @@
       "ts": 1790345822
     },
     {
-      "source": "MarketWatch",
-      "title": "Why investors aren’t buying yet another attempt by the Treasury Department to calm the rattled bond market",
-      "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 14:17:00 GMT",
-      "ts": 1790345820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 14:15:00 GMT",
-      "ts": 1790345700
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar holds near recent lows as U.S. dollar rally keeps pressure",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-near-recent-lows-as-us-dollar-rally-keeps-pressure-4917705",
@@ -337,13 +344,6 @@
       "link": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 08:51:17 +0000",
       "ts": 1790326277
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 07:41:36 +0000",
-      "ts": 1790322096
     },
     {
       "source": "Investing Crypto",
