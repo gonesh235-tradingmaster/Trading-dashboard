@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-25T14:29:18.945137Z",
+  "updated": "2026-09-25T14:46:12.429902Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
+      "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 14:42:00 GMT",
+      "ts": 1790347320
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+      "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+      "published": "Fri, 25 Sep 2026 14:41:53 +0000",
+      "ts": 1790347313
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
+      "link": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 14:39:00 GMT",
+      "ts": 1790347140
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization is moving faster than Washington",
+      "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+      "published": "Fri, 25 Sep 2026 14:37:32 +0000",
+      "ts": 1790347052
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: RBA hike expectations shape outlook – ING",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-expectations-shape-outlook-ing-202609251433",
+      "published": "Fri, 25 Sep 2026 14:33:52 GMT",
+      "ts": 1790346832
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+      "link": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+      "published": "Fri, 25 Sep 2026 14:32:48 +0000",
+      "ts": 1790346768
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "ChangeNOW Unveils TOKEN2049 Singapore Lineup, Bit Digital Stage Address, and Fast Track Wallet Program",
+      "link": "https://www.investing.com/news/cryptocurrency-news/changenow-unveils-token2049-singapore-lineup-bit-digital-stage-address-and-fast-track-wallet-program-4917735",
+      "published": "2026-09-25 14:30:39",
+      "ts": 1790346639
+    },
     {
       "source": "MarketWatch",
       "title": "These Gen Z-ers are choosing ETFs over sports bets. How younger investors told us they’re building wealth.",
@@ -178,20 +227,6 @@
       "ts": 1790338500
     },
     {
-      "source": "MarketWatch",
-      "title": "How to keep profiting from AI while shielding your portfolio against the risk of a slowdown",
-      "link": "https://www.marketwatch.com/story/how-to-keep-profiting-from-ai-while-shielding-your-portfolio-against-the-risk-of-a-slowdown-a5801291?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 12:05:00 GMT",
-      "ts": 1790337900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
-      "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 12:00:00 GMT",
-      "ts": 1790337600
-    },
-    {
       "source": "CoinDesk",
       "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
       "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
@@ -218,13 +253,6 @@
       "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 11:11:33 +0000",
       "ts": 1790334693
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold finds support as US Dollar and yields ease, weekly loss still in sight",
-      "link": "https://www.fxstreet.com/news/gold-gains-as-us-dollar-and-yields-pause-but-weekly-loss-remains-in-sight-202609251106",
-      "published": "Fri, 25 Sep 2026 11:06:53 GMT",
-      "ts": 1790334413
     },
     {
       "source": "CoinDesk",
@@ -332,27 +360,6 @@
       "ts": 1790312782
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
-      "published": "Fri, 25 Sep 2026 04:29:34 +0000",
-      "ts": 1790310574
-    },
-    {
-      "source": "CoinDesk",
-      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
-      "published": "Thu, 24 Sep 2026 22:41:44 +0000",
-      "ts": 1790289704
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
-      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
-      "published": "Thu, 24 Sep 2026 22:28:49 +0000",
-      "ts": 1790288929
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin cuts losses, remains muted amid rising oil and yields, hawkish Fed signals",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
       "published": "2026-09-23 22:15:55",
       "ts": 1790201755
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BitGo says asset servicing is the real barrier to tokenized securities",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitgo-says-asset-servicing-is-the-real-barrier-to-tokenized-securities-4913704",
-      "published": "2026-09-23 17:53:48",
-      "ts": 1790186028
     }
   ]
 }
