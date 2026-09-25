@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T00:14:33.472801Z",
+  "updated": "2026-09-25T00:38:12.789535Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "China's President Xi says Beijing and US should seek new ways for major countries to coexist",
+      "link": "https://www.fxstreet.com/news/chinas-president-xi-says-beijing-and-us-should-seek-new-ways-for-major-countries-to-coexist-202609250023",
+      "published": "Fri, 25 Sep 2026 00:23:58 GMT",
+      "ts": 1790295838
+    },
     {
       "source": "FXStreet",
       "title": "Saudi Civil Defence issues warning over possible threat in Jazan",
@@ -155,13 +162,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
       "published": "Thu, 24 Sep 2026 21:59:32 +0000",
       "ts": 1790287172
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah: BI prioritizes IDR stability – Commerzbank",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-prioritizes-idr-stability-commerzbank-202609242151",
-      "published": "Thu, 24 Sep 2026 21:51:00 GMT",
-      "ts": 1790286660
     },
     {
       "source": "CoinTelegraph",
