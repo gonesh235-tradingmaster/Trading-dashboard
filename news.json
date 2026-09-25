@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T09:43:51.083645Z",
+  "updated": "2026-09-25T09:55:53.519129Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold Price Forecast: XAU/USD struggles below $4,300 level with bears still in control",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-struggles-below-4-300-level-with-bears-still-in-control-202609250952",
+      "published": "Fri, 25 Sep 2026 09:52:06 GMT",
+      "ts": 1790329926
+    },
     {
       "source": "FXStreet",
       "title": "Brent: conflict-driven gains face deal hopes – Deutsche Bank",
@@ -148,13 +155,6 @@
       "link": "https://www.fxstreet.com/news/hungarian-forint-new-inflation-target-demands-hawkish-mnb-commerzbank-202609250839",
       "published": "Fri, 25 Sep 2026 08:39:12 GMT",
       "ts": 1790325552
-    },
-    {
-      "source": "FXStreet",
-      "title": "Bank of England: Policy convergence questions after Fed hike – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/bank-of-england-policy-convergence-questions-after-fed-hike-standard-chartered-202609250818",
-      "published": "Fri, 25 Sep 2026 08:18:57 GMT",
-      "ts": 1790324337
     },
     {
       "source": "Investing Forex",
