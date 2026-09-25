@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T19:08:47.690693Z",
+  "updated": "2026-09-25T19:24:24.059552Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Microsoft’s stock has roared back to life and is now headed for its highest close of the year",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 19:14:00 GMT",
+      "ts": 1790363640
+    },
     {
       "source": "FXStreet",
       "title": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
@@ -155,13 +162,6 @@
       "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 17:17:45 +0000",
       "ts": 1790356665
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-      "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 17:11:00 GMT",
-      "ts": 1790356260
     },
     {
       "source": "FXStreet",
