@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T21:26:10.210320Z",
+  "updated": "2026-09-25T21:41:09.803905Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "South Korean Won: Export strength supports KRW – Societe Generale",
+      "link": "https://www.fxstreet.com/news/south-korean-won-export-strength-supports-krw-societe-generale-202609252141",
+      "published": "Fri, 25 Sep 2026 21:41:00 GMT",
+      "ts": 1790372460
+    },
     {
       "source": "CoinDesk",
       "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
@@ -211,13 +218,6 @@
       "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
       "published": "Fri, 25 Sep 2026 18:15:03 GMT",
       "ts": 1790360103
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-lacks-direction-as-rsi-adx-signal-weak-momentum-202609251805",
-      "published": "Fri, 25 Sep 2026 18:05:40 GMT",
-      "ts": 1790359540
     },
     {
       "source": "CoinTelegraph",
