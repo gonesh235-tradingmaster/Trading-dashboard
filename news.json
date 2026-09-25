@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-25T18:46:04.031170Z",
+  "updated": "2026-09-25T19:08:47.690693Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
+      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-still-isnt-restrictive-despite-high-inflation-202609251900",
+      "published": "Fri, 25 Sep 2026 19:00:32 GMT",
+      "ts": 1790362832
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+      "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 18:56:53 +0000",
+      "ts": 1790362613
+    },
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854",
+      "published": "Fri, 25 Sep 2026 18:54:44 GMT",
+      "ts": 1790362484
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nike’s stock is one of the worst in the S&P 500 — and BofA says it’s not done sliding",
+      "link": "https://www.marketwatch.com/story/nikes-stock-is-one-of-the-worst-in-the-s-p-500-and-bofa-says-its-not-done-sliding-c99a9107?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 18:54:00 GMT",
+      "ts": 1790362440
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 18:45:00 GMT",
+      "ts": 1790361900
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 18:42:59 +0000",
+      "ts": 1790361779
+    },
     {
       "source": "FXStreet",
       "title": "ECB’s Vujcic warns energy shock could keep inflation hot",
@@ -129,13 +171,6 @@
       "ts": 1790355486
     },
     {
-      "source": "MarketWatch",
-      "title": "How do I know when to ask someone out? I’m 21 and I don’t want to waste my money or my time.",
-      "link": "https://www.marketwatch.com/story/when-is-it-the-right-time-to-ask-someone-out-im-21-and-my-finances-and-identity-still-feel-like-works-in-progress-4bce4fa5?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 16:48:00 GMT",
-      "ts": 1790354880
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
       "link": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -143,32 +178,11 @@
       "ts": 1790354056
     },
     {
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average bounces on Iran's latest Hormuz offer",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-bounces-on-irans-latest-hormuz-offer-202609251628",
-      "published": "Fri, 25 Sep 2026 16:28:49 GMT",
-      "ts": 1790353729
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron investors should get ready for a seesaw ride, analyst says",
-      "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 16:27:00 GMT",
-      "ts": 1790353620
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
       "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 15:49:34 +0000",
       "ts": 1790351374
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound finds relief as USD pauses, but inflation risks linger",
-      "link": "https://www.fxstreet.com/news/british-pound-finds-relief-as-usd-pauses-but-inflation-risks-linger-202609251536",
-      "published": "Fri, 25 Sep 2026 15:36:30 GMT",
-      "ts": 1790350590
     },
     {
       "source": "CoinDesk",
@@ -218,13 +232,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
       "published": "2026-09-25 13:44:06",
       "ts": 1790343846
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 13:32:49 +0000",
-      "ts": 1790343169
     },
     {
       "source": "CoinTelegraph",
@@ -288,13 +295,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
       "published": "Fri, 25 Sep 2026 09:59:45 +0000",
       "ts": 1790330385
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
-      "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 09:48:53 +0000",
-      "ts": 1790329733
     },
     {
       "source": "CoinDesk",
