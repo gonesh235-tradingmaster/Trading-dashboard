@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T12:56:18.991952Z",
+  "updated": "2026-09-25T13:13:54.956944Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Back-end yields support USD consolidation – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-back-end-yields-support-usd-consolidation-ing-202609251305",
+      "published": "Fri, 25 Sep 2026 13:05:35 GMT",
+      "ts": 1790341535
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen: Range-bound against US Dollar as intervention risk looms – BBH",
@@ -11,7 +18,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "These two market gauges may signal a big risk-off event for the market, says BofA",
+      "title": "The stock market could be due for a nasty selloff, judging by these two signals",
       "link": "https://www.marketwatch.com/story/these-two-market-gauges-may-signal-a-big-risk-off-event-for-the-market-says-bofa-0432250a?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 12:52:00 GMT",
       "ts": 1790340720
@@ -295,13 +302,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 05:30:56 +0000",
       "ts": 1790314256
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee gets cushioned by RBI’s likely intervention on Friday",
-      "link": "https://www.fxstreet.com/news/indian-rupee-cushioned-by-rbis-likely-intervention-outlook-remain-fragile-202609250528",
-      "published": "Fri, 25 Sep 2026 05:28:55 GMT",
-      "ts": 1790314135
     },
     {
       "source": "CoinTelegraph",
