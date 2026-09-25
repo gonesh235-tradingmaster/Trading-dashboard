@@ -1,13 +1,48 @@
 {
-  "updated": "2026-09-25T20:09:27.901440Z",
+  "updated": "2026-09-25T20:25:48.126839Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Treasury yields rise as 30-Year yield hits 22-year high",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022",
+      "published": "Fri, 25 Sep 2026 20:22:47 GMT",
+      "ts": 1790367767
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These under-the-radar risk factors may explain why some older people are more vulnerable to scams",
+      "link": "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 20:19:00 GMT",
+      "ts": 1790367540
+    },
+    {
+      "source": "FXStreet",
+      "title": "South Korean Won: Trade surplus seen widening – ING",
+      "link": "https://www.fxstreet.com/news/south-korean-won-trade-surplus-seen-widening-ing-202609252012",
+      "published": "Fri, 25 Sep 2026 20:12:00 GMT",
+      "ts": 1790367120
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen jumps as Trump shows concern over its weakness, dollar halts daily win streak",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
+      "published": "2026-09-25 20:03:29",
+      "ts": 1790366609
+    },
     {
       "source": "CoinDesk",
       "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
       "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
       "published": "Fri, 25 Sep 2026 20:01:05 +0000",
       "ts": 1790366465
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar faces near-term pressure as rate gap and trade risks widen",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-faces-nearterm-pressure-as-rate-gap-and-trade-risks-widen-4918030",
+      "published": "2026-09-25 19:52:08",
+      "ts": 1790365928
     },
     {
       "source": "MarketWatch",
@@ -157,27 +192,6 @@
       "ts": 1790359113
     },
     {
-      "source": "MarketWatch",
-      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
-      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 17:45:00 GMT",
-      "ts": 1790358300
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc remains under pressure as Fed-SNB interest rate gap widens",
-      "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-as-fed-snb-interest-rate-gap-widens-202609251743",
-      "published": "Fri, 25 Sep 2026 17:43:15 GMT",
-      "ts": 1790358195
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Further losses seem capped against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-further-losses-seem-capped-against-us-dollar-uob-202609251738",
-      "published": "Fri, 25 Sep 2026 17:38:39 GMT",
-      "ts": 1790357919
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitget clarifies $388M in assets affected by security breach",
       "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -253,13 +267,6 @@
       "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 13:30:00 +0000",
       "ts": 1790343000
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Yen pulls back from 160 threshold on Katayama’s comments;  dollar steady",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
-      "published": "2026-09-25 13:08:36",
-      "ts": 1790341716
     },
     {
       "source": "CoinTelegraph",
@@ -372,13 +379,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
       "published": "2026-09-24 21:40:41",
       "ts": 1790286041
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar pinned at nearly two-month high amid resurgent oil prices, bond rout",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
-      "published": "2026-09-24 21:04:09",
-      "ts": 1790283849
     },
     {
       "source": "Investing Crypto",
