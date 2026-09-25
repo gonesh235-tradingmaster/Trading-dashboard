@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-25T18:11:27.118618Z",
+  "updated": "2026-09-25T18:29:38.664617Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Asian FX: Higher yields and Oil weigh – OCBC",
+      "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
+      "published": "Fri, 25 Sep 2026 18:22:51 GMT",
+      "ts": 1790360571
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A 10% risk-free yield? For some, yes.",
+      "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 18:21:00 GMT",
+      "ts": 1790360460
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
+      "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 18:16:00 GMT",
+      "ts": 1790360160
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Hammack warns inflation mindset is the biggest risk",
+      "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
+      "published": "Fri, 25 Sep 2026 18:15:03 GMT",
+      "ts": 1790360103
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 18:15:00 GMT",
+      "ts": 1790360100
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
@@ -108,25 +143,11 @@
       "ts": 1790352660
     },
     {
-      "source": "MarketWatch",
-      "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
-      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 15:53:00 GMT",
-      "ts": 1790351580
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
       "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 15:49:34 +0000",
       "ts": 1790351374
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I just started dating someone I really like, but he’s moving to Mexico for six months. Should I spend the money to visit him?",
-      "link": "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 15:43:00 GMT",
-      "ts": 1790350980
     },
     {
       "source": "FXStreet",
@@ -141,20 +162,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-undervalued-near-141-against-us-dollar-scotiabank-202609251514",
       "published": "Fri, 25 Sep 2026 15:14:29 GMT",
       "ts": 1790349269
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Correction seen near key averages against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/euro-correction-seen-near-key-averages-against-us-dollar-societe-generale-202609251501",
-      "published": "Fri, 25 Sep 2026 15:01:59 GMT",
-      "ts": 1790348519
-    },
-    {
-      "source": "MarketWatch",
-      "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
-      "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 14:42:00 GMT",
-      "ts": 1790347320
     },
     {
       "source": "CoinDesk",
@@ -267,13 +274,6 @@
       "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 11:11:33 +0000",
       "ts": 1790334693
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold struggles below $4,300, heads for weekly decline on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/gold-gains-as-us-dollar-and-yields-pause-but-weekly-loss-remains-in-sight-202609251106",
-      "published": "Fri, 25 Sep 2026 11:06:53 GMT",
-      "ts": 1790334413
     },
     {
       "source": "CoinDesk",
