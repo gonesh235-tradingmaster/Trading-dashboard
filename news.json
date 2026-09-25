@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-25T20:53:41.734424Z",
+  "updated": "2026-09-25T21:10:00.177669Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 21:04:00 GMT",
+      "ts": 1790370240
+    },
+    {
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Consolidation with downside risk toward 6.7330 – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-consolidation-with-downside-risk-toward-67330-uob-202609252056",
+      "published": "Fri, 25 Sep 2026 20:56:00 GMT",
+      "ts": 1790369760
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips, but set for weekly gain as regulatory cheer offsets surging yields",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
+      "published": "2026-09-25 20:52:20",
+      "ts": 1790369540
+    },
     {
       "source": "CoinTelegraph",
       "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
@@ -115,13 +136,6 @@
       "ts": 1790363902
     },
     {
-      "source": "MarketWatch",
-      "title": "Microsoft’s stock has roared back to life and is now headed for its highest close of the year",
-      "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 19:14:00 GMT",
-      "ts": 1790363640
-    },
-    {
       "source": "FXStreet",
       "title": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
       "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-still-isnt-restrictive-despite-high-inflation-202609251900",
@@ -199,13 +213,6 @@
       "ts": 1790359540
     },
     {
-      "source": "FXStreet",
-      "title": "Gold finds a pulse as WTI slump takes the edge off US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-finds-a-pulse-as-wti-slump-takes-the-edge-off-us-dollar-202609251758",
-      "published": "Fri, 25 Sep 2026 17:58:33 GMT",
-      "ts": 1790359113
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitget clarifies $388M in assets affected by security breach",
       "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -267,13 +274,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-near-recent-lows-as-us-dollar-rally-keeps-pressure-4917705",
       "published": "2026-09-25 14:06:09",
       "ts": 1790345169
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin flat at $84k as focus shifts to rate jitters, Bitget hack",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
-      "published": "2026-09-25 13:44:06",
-      "ts": 1790343846
     },
     {
       "source": "CoinTelegraph",
