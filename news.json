@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T22:09:44.209686Z",
+  "updated": "2026-09-25T22:26:03.229536Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+      "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+      "published": "Fri, 25 Sep 2026 22:17:38 +0000",
+      "ts": 1790374658
+    },
     {
       "source": "MarketWatch",
       "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
@@ -323,13 +330,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
       "published": "Fri, 25 Sep 2026 09:59:45 +0000",
       "ts": 1790330385
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-      "published": "Fri, 25 Sep 2026 09:13:01 +0000",
-      "ts": 1790327581
     },
     {
       "source": "Investing Forex",
