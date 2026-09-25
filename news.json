@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T19:52:12.428624Z",
+  "updated": "2026-09-25T20:09:27.901440Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+      "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
+      "published": "Fri, 25 Sep 2026 20:01:05 +0000",
+      "ts": 1790366465
+    },
     {
       "source": "MarketWatch",
       "title": "Trump’s ban on Canadian alcohol starts Tuesday, but these well-known brands will avoid it",
@@ -351,13 +358,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-dollarfranc-support-from-yield-gap-after-snb-meeting-93CH-4916919",
       "published": "2026-09-25 08:51:49",
       "ts": 1790326309
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
-      "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
-      "published": "Fri, 25 Sep 2026 07:09:11 +0000",
-      "ts": 1790320151
     },
     {
       "source": "Investing Crypto",
