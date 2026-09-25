@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-25T10:44:10.463768Z",
+  "updated": "2026-09-25T10:56:10.703684Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Williams: Persistent supply shocks cannot be ignored",
+      "link": "https://www.fxstreet.com/news/feds-williams-persistent-supply-shocks-cannot-be-ignored-202609251051",
+      "published": "Fri, 25 Sep 2026 10:51:11 GMT",
+      "ts": 1790333471
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI Oil reversal stalls above $91.00 as Middle East tensions outweigh supply increases",
+      "link": "https://www.fxstreet.com/news/wti-oil-reversal-stalls-above-9100-as-middle-east-tensions-outweigh-supply-increases-202609251049",
+      "published": "Fri, 25 Sep 2026 10:49:49 GMT",
+      "ts": 1790333389
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
+      "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 10:46:00 GMT",
+      "ts": 1790333160
+    },
     {
       "source": "FXStreet",
       "title": "Japan’s Katayama: Takaichi very much respects the independence of the BoJ",
@@ -32,7 +53,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "eYen pulls back from 160 threshold on Katayama’s comments;  dollar steady",
+      "title": "Yen pulls back from 160 threshold on Katayama’s comments;  dollar steady",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
       "published": "2026-09-25 09:57:04",
       "ts": 1790330224
@@ -108,13 +129,6 @@
       "ts": 1790327201
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound trades lower against Japanese Yen amid intervention fears",
-      "link": "https://www.fxstreet.com/news/british-pound-trades-lower-against-japanese-yen-amid-intervention-fears-202609250904",
-      "published": "Fri, 25 Sep 2026 09:04:54 GMT",
-      "ts": 1790327094
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound steadies as bond sell-off powers dollar gains",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-bond-selloff-powers-dollar-gains-4916939",
@@ -186,7 +200,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Samourai Wallet co-founder faces new transfer after 30-day ordeal",
+      "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
       "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 07:28:18 +0000",
       "ts": 1790321298
@@ -211,13 +225,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 05:30:56 +0000",
       "ts": 1790314256
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee finds support from RBI’s likely intervention, outlook remains weak",
-      "link": "https://www.fxstreet.com/news/indian-rupee-cushioned-by-rbis-likely-intervention-outlook-remain-fragile-202609250528",
-      "published": "Fri, 25 Sep 2026 05:28:55 GMT",
-      "ts": 1790314135
     },
     {
       "source": "CoinTelegraph",
@@ -316,13 +323,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
       "published": "Thu, 24 Sep 2026 22:28:49 +0000",
       "ts": 1790288929
-    },
-    {
-      "source": "MarketWatch",
-      "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
-      "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 22:03:00 GMT",
-      "ts": 1790287380
     },
     {
       "source": "Investing Crypto",
