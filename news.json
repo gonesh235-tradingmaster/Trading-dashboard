@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T17:54:23.928259Z",
+  "updated": "2026-09-25T18:11:27.118618Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-lacks-direction-as-rsi-adx-signal-weak-momentum-202609251805",
+      "published": "Fri, 25 Sep 2026 18:05:40 GMT",
+      "ts": 1790359540
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold finds a pulse as WTI slump takes the edge off US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-finds-a-pulse-as-wti-slump-takes-the-edge-off-us-dollar-202609251758",
+      "published": "Fri, 25 Sep 2026 17:58:33 GMT",
+      "ts": 1790359113
+    },
     {
       "source": "MarketWatch",
       "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
@@ -136,13 +150,6 @@
       "ts": 1790348519
     },
     {
-      "source": "FXStreet",
-      "title": "Euro set for third weekly decline as hawkish Federal Reserve outlook weighs",
-      "link": "https://www.fxstreet.com/news/euro-set-for-third-weekly-decline-as-hawkish-federal-reserve-outlook-weighs-202609251451",
-      "published": "Fri, 25 Sep 2026 14:51:53 GMT",
-      "ts": 1790347913
-    },
-    {
       "source": "MarketWatch",
       "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
       "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
@@ -162,13 +169,6 @@
       "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
       "published": "Fri, 25 Sep 2026 14:37:32 +0000",
       "ts": 1790347052
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar: RBA hike expectations shape outlook – ING",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-expectations-shape-outlook-ing-202609251433",
-      "published": "Fri, 25 Sep 2026 14:33:52 GMT",
-      "ts": 1790346832
     },
     {
       "source": "CoinDesk",
