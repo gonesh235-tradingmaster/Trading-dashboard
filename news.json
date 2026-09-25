@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T21:10:00.177669Z",
+  "updated": "2026-09-25T21:26:10.210320Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+      "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+      "published": "Fri, 25 Sep 2026 21:17:30 +0000",
+      "ts": 1790371050
+    },
     {
       "source": "MarketWatch",
       "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
@@ -337,13 +344,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-bond-selloff-powers-dollar-gains-4916939",
       "published": "2026-09-25 09:02:09",
       "ts": 1790326929
-    },
-    {
-      "source": "CoinDesk",
-      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-      "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
-      "published": "Fri, 25 Sep 2026 08:58:03 +0000",
-      "ts": 1790326683
     },
     {
       "source": "Investing Forex",
