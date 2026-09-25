@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-25T11:28:16.615440Z",
+  "updated": "2026-09-25T11:44:00.758765Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Rate differentials support but upside constrained – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-rate-differentials-support-but-upside-constrained-bbh-202609251139",
+      "published": "Fri, 25 Sep 2026 11:39:53 GMT",
+      "ts": 1790336393
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
+      "published": "Fri, 25 Sep 2026 11:29:04 +0000",
+      "ts": 1790335744
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD reclaims $65 as rally in bond yields, US Dollar hits pause",
@@ -39,7 +53,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why the alternative to the ‘clear and present’ danger from bond yields is this AI-fueled market that’s quietly outperformed",
+      "title": "Why the alternative to the ‘clear and present’ danger from bond yields is this AI-fueled market that has quietly outperformed",
       "link": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 11:02:00 GMT",
       "ts": 1790334120
@@ -101,25 +115,11 @@
       "ts": 1790330224
     },
     {
-      "source": "FXStreet",
-      "title": "Gold Price Forecast: XAU/USD struggles below $4,300 level with bears still in control",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-struggles-below-4-300-level-with-bears-still-in-control-202609250952",
-      "published": "Fri, 25 Sep 2026 09:52:06 GMT",
-      "ts": 1790329926
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
       "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 09:48:53 +0000",
       "ts": 1790329733
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brent: conflict-driven gains face deal hopes – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/brent-conflict-driven-gains-face-deal-hopes-deutsche-bank-202609250942",
-      "published": "Fri, 25 Sep 2026 09:42:25 GMT",
-      "ts": 1790329345
     },
     {
       "source": "Investing Crypto",
@@ -248,6 +248,13 @@
       "ts": 1790314256
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee gets cushioned by RBI’s likely intervention on Friday",
+      "link": "https://www.fxstreet.com/news/indian-rupee-cushioned-by-rbis-likely-intervention-outlook-remain-fragile-202609250528",
+      "published": "Fri, 25 Sep 2026 05:28:55 GMT",
+      "ts": 1790314135
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
       "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -358,13 +365,6 @@
       "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
       "published": "Thu, 24 Sep 2026 20:13:25 +0000",
       "ts": 1790280805
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
-      "link": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
-      "published": "Thu, 24 Sep 2026 20:05:00 +0000",
-      "ts": 1790280300
     },
     {
       "source": "Investing Crypto",
