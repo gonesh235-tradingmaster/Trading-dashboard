@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-25T07:30:19.127103Z",
+  "updated": "2026-09-25T07:53:02.685055Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar inches higher as US Dollar declines on easing bond yields",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-inches-higher-as-us-dollar-declines-on-easing-bond-yields-202609250751",
+      "published": "Fri, 25 Sep 2026 07:51:57 GMT",
+      "ts": 1790322717
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold: Bearish bias holds below 4300 resistance - OCBC",
+      "link": "https://www.fxstreet.com/news/gold-bearish-bias-holds-below-4300-resistance-ocbc-202609250741",
+      "published": "Fri, 25 Sep 2026 07:41:43 GMT",
+      "ts": 1790322103
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 07:41:36 +0000",
+      "ts": 1790322096
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar consolidates weekly gains ahead of mid-tier data",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-consolidates-weekly-gains-ahead-of-mid-tier-data-202609250732",
+      "published": "Fri, 25 Sep 2026 07:32:59 GMT",
+      "ts": 1790321579
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures rise as treasury yields, oil prices ease",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-treasury-yields-oil-prices-ease-202609250732",
+      "published": "Fri, 25 Sep 2026 07:32:16 GMT",
+      "ts": 1790321536
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Samourai Wallet co-founder faces new transfer after 30-day ordeal",
+      "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 07:28:18 +0000",
+      "ts": 1790321298
+    },
     {
       "source": "FXStreet",
       "title": "Equities: Rising yields weigh on stocks despite tech support - Deutsche Bank",
@@ -57,34 +99,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
       "published": "2026-09-25 06:57:26",
       "ts": 1790319446
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen gains amid intervention watch as JGB 10-year yield hits 30-year highs",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-amid-intervention-watch-as-jgb-bond-yields-hit-30-year-highs-202609250630",
-      "published": "Fri, 25 Sep 2026 06:30:43 GMT",
-      "ts": 1790317843
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Key trigger is RBA’s policy on Tuesday",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-key-trigger-is-rbas-policy-on-tuesday-202609250629",
-      "published": "Fri, 25 Sep 2026 06:29:23 GMT",
-      "ts": 1790317763
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Volatility divergence points to future swings against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-volatility-divergence-points-to-future-swings-against-us-dollar-commerzbank-202609250628",
-      "published": "Fri, 25 Sep 2026 06:28:33 GMT",
-      "ts": 1790317713
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecasts: XAG/USD holds below $64.00 amid Fed hiking bets, higher yields",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-holds-below-6400-amid-fed-hiking-bets-higher-yields-202609250627",
-      "published": "Fri, 25 Sep 2026 06:27:56 GMT",
-      "ts": 1790317676
     },
     {
       "source": "Investing Forex",
@@ -241,13 +255,6 @@
       "ts": 1790286437
     },
     {
-      "source": "CoinTelegraph",
-      "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-      "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 21:42:51 +0000",
-      "ts": 1790286171
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. 30-yr Treasury yield ends at highest level since 2004 as bond rout deepens",
       "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
@@ -274,13 +281,6 @@
       "link": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 20:50:00 GMT",
       "ts": 1790283000
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
-      "link": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 20:32:16 +0000",
-      "ts": 1790281936
     },
     {
       "source": "MarketWatch",
