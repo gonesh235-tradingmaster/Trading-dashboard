@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-25T06:56:29.393566Z",
+  "updated": "2026-09-25T07:13:14.875586Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+      "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
+      "published": "Fri, 25 Sep 2026 07:09:11 +0000",
+      "ts": 1790320151
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro holds gains against Canadian Dollar following German GfK Consumer Confidence",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-against-canadian-dollar-following-german-gfk-consumer-confidence-202609250705",
+      "published": "Fri, 25 Sep 2026 07:05:34 GMT",
+      "ts": 1790319934
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: Dovish SNB keeps CHF under pressure against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/swiss-franc-dovish-snb-keeps-chf-under-pressure-against-us-dollar-ing-202609250703",
+      "published": "Fri, 25 Sep 2026 07:03:28 GMT",
+      "ts": 1790319808
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: Heads for second week of gain above 101.00, upside bias intact",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-heads-for-second-week-of-gain-above-10100-upside-bias-intact-202609250657",
+      "published": "Fri, 25 Sep 2026 06:57:58 GMT",
+      "ts": 1790319478
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin pauses near $84k with focus on rate jitters, Bitget hack",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
+      "published": "2026-09-25 06:57:26",
+      "ts": 1790319446
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen gains amid intervention watch as JGB 10-year yield hits 30-year highs",
@@ -45,27 +80,6 @@
       "ts": 1790315692
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: At make or a break near 1.1350",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-at-make-or-a-break-near-11350-202609250549",
-      "published": "Fri, 25 Sep 2026 05:49:26 GMT",
-      "ts": 1790315366
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc trades near 16-month lows as US Dollar surges on hawkish Fed expectations",
-      "link": "https://www.fxstreet.com/news/swiss-franc-trades-near-16-month-lows-as-us-dollar-surges-on-hawkish-fed-expectations-202609250533",
-      "published": "Fri, 25 Sep 2026 05:33:16 GMT",
-      "ts": 1790314396
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar remains depressed around 0.5650, near June lows vs bullish USD",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-depressed-around-05650-near-june-lows-vs-bullish-usd-202609250533",
-      "published": "Fri, 25 Sep 2026 05:33:07 GMT",
-      "ts": 1790314387
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -74,7 +88,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Indian Rupee cushioned by RBI’s likely intervention, outlook remain fragile",
+      "title": "Indian Rupee draws temporary support from RBI’s likely intervention",
       "link": "https://www.fxstreet.com/news/indian-rupee-cushioned-by-rbis-likely-intervention-outlook-remain-fragile-202609250528",
       "published": "Fri, 25 Sep 2026 05:28:55 GMT",
       "ts": 1790314135
@@ -325,13 +339,6 @@
       "ts": 1790271192
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
-      "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
-      "published": "Thu, 24 Sep 2026 15:48:20 +0000",
-      "ts": 1790264900
-    },
-    {
       "source": "Investing Crypto",
       "title": "Buy USDT Gift Card: USDT Gift Card Announces Digital Gifting Service With Free Redemption",
       "link": "https://www.investing.com/news/cryptocurrency-news/buy-usdt-gift-card-usdt-gift-card-announces-digital-gifting-service-with-free-redemption-4915636",
@@ -400,13 +407,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitgo-says-asset-servicing-is-the-real-barrier-to-tokenized-securities-4913704",
       "published": "2026-09-23 17:53:48",
       "ts": 1790186028
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
-      "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-and-marketscom-announce-promotional-collaboration-ahead-of-token2049-singapore-4913473",
-      "published": "2026-09-23 15:00:39",
-      "ts": 1790175639
     },
     {
       "source": "Investing Forex",
