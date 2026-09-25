@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T00:55:06.686824Z",
+  "updated": "2026-09-25T01:09:44.077919Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI drops to near $92.50 on potential US-Iran deal",
+      "link": "https://www.fxstreet.com/news/wti-drops-to-near-9250-on-potential-us-iran-deal-202609250106",
+      "published": "Fri, 25 Sep 2026 01:06:30 GMT",
+      "ts": 1790298390
+    },
     {
       "source": "CoinTelegraph",
       "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
@@ -141,13 +148,6 @@
       "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 22:10:09 +0000",
       "ts": 1790287809
-    },
-    {
-      "source": "FXStreet",
-      "title": "Pound Sterling slides again as Fed speakers go full hawkish",
-      "link": "https://www.fxstreet.com/news/pound-sterling-slides-again-as-fed-speakers-line-up-behind-another-hike-202609242209",
-      "published": "Thu, 24 Sep 2026 22:09:42 GMT",
-      "ts": 1790287782
     },
     {
       "source": "MarketWatch",
