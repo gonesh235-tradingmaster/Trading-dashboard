@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-26T05:51:44.063001Z",
+  "updated": "2026-09-26T06:12:25.705574Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
+      "published": "2026-09-26 05:04:09",
+      "ts": 1790399049
+    },
     {
       "source": "CoinDesk",
       "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-adopts-sygnums-offexchange-bank-custody-model-4914553",
       "published": "2026-09-24 07:50:29",
       "ts": 1790236229
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
-      "published": "2026-09-23 22:15:55",
-      "ts": 1790201755
     }
   ]
 }
