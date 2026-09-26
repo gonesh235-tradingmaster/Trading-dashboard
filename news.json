@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-26T06:54:46.212305Z",
+  "updated": "2026-09-26T07:09:41.035663Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+      "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 26 Sep 2026 06:59:29 +0000",
+      "ts": 1790405969
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
@@ -330,13 +337,6 @@
       "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 13:30:00 +0000",
       "ts": 1790343000
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
-      "link": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 12:44:30 +0000",
-      "ts": 1790340270
     },
     {
       "source": "Investing Forex",
