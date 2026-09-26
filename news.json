@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-26T04:26:25.376273Z",
+  "updated": "2026-09-26T04:41:19.664507Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "published": "Sat, 26 Sep 2026 04:30:00 +0000",
+      "ts": 1790397000
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
@@ -323,13 +330,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
       "published": "Fri, 25 Sep 2026 11:54:28 +0000",
       "ts": 1790337268
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
-      "published": "Fri, 25 Sep 2026 11:29:04 +0000",
-      "ts": 1790335744
     },
     {
       "source": "Investing Forex",
