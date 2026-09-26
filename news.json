@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-26T12:11:45.675909Z",
+  "updated": "2026-09-26T12:32:25.561832Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "China is playing a different game when it comes to AI",
+      "link": "https://www.marketwatch.com/story/china-is-playing-a-different-game-when-it-comes-to-ai-c48791cd?mod=mw_rss_topstories",
+      "published": "Sat, 26 Sep 2026 12:30:00 GMT",
+      "ts": 1790425800
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
+      "published": "2026-09-26 12:27:32",
+      "ts": 1790425652
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 26 Sep 2026 12:17:00 +0000",
+      "ts": 1790425020
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
@@ -22,13 +43,6 @@
       "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
       "published": "Sat, 26 Sep 2026 12:00:00 GMT",
       "ts": 1790424000
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Fed requests comment on two proposals for stablecoin issuers under GENIUS Act",
-      "link": "https://cointelegraph.com/news/fed-requests-comment-on-two-proposals-for-stablecoin-issuers-under-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 26 Sep 2026 11:59:46 +0000",
-      "ts": 1790423986
     },
     {
       "source": "MarketWatch",
@@ -57,13 +71,6 @@
       "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 26 Sep 2026 06:59:29 +0000",
       "ts": 1790405969
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
-      "published": "2026-09-26 05:04:09",
-      "ts": 1790399049
     },
     {
       "source": "CoinDesk",
@@ -171,13 +178,6 @@
       "ts": 1790368641
     },
     {
-      "source": "MarketWatch",
-      "title": "Apple’s expensive new iPhones could be a double-edged sword for the company",
-      "link": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 20:37:00 GMT",
-      "ts": 1790368620
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
       "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -248,13 +248,6 @@
       "ts": 1790362484
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 18:42:59 +0000",
-      "ts": 1790361779
-    },
-    {
       "source": "FXStreet",
       "title": "ECB’s Vujcic warns energy shock could keep inflation hot",
       "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834",
@@ -295,6 +288,13 @@
       "link": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 16:34:16 +0000",
       "ts": 1790354056
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+      "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 15:49:34 +0000",
+      "ts": 1790351374
     },
     {
       "source": "CoinDesk",
