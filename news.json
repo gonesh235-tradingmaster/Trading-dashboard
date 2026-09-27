@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-27T12:55:05.828238Z",
+  "updated": "2026-09-27T13:09:13.260940Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Look closer, and Wall Street’s rally is showing cracks",
+      "link": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
+      "published": "Sun, 27 Sep 2026 13:00:00 GMT",
+      "ts": 1790514000
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on health-data hack: Report",
+      "link": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 27 Sep 2026 12:46:28 +0000",
+      "ts": 1790513188
+    },
     {
       "source": "CoinDesk",
       "title": "How months of work on the Clarity Act all fell apart",
@@ -97,13 +111,6 @@
       "source": "MarketWatch",
       "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
       "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "published": "Sat, 26 Sep 2026 15:30:00 GMT",
-      "ts": 1790436600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-      "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
       "published": "Sat, 26 Sep 2026 15:30:00 GMT",
       "ts": 1790436600
     },
@@ -309,13 +316,6 @@
       "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834",
       "published": "Fri, 25 Sep 2026 18:34:02 GMT",
       "ts": 1790361242
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
-      "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 18:33:49 +0000",
-      "ts": 1790361229
     },
     {
       "source": "FXStreet",
