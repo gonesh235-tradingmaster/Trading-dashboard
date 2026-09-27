@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-27T15:09:59.283282Z",
+  "updated": "2026-09-27T15:25:53.647418Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "published": "Sun, 27 Sep 2026 15:15:00 GMT",
+      "ts": 1790522100
+    },
     {
       "source": "MarketWatch",
       "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
@@ -113,13 +120,6 @@
       "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
       "published": "Sat, 26 Sep 2026 16:51:00 GMT",
       "ts": 1790441460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-      "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
-      "published": "Sat, 26 Sep 2026 16:22:00 GMT",
-      "ts": 1790439720
     },
     {
       "source": "CoinDesk",
