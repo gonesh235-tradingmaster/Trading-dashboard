@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-27T09:52:16.382606Z",
+  "updated": "2026-09-27T10:09:32.524773Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Riot Platforms repays $200M credit facility, releases collateral",
+      "link": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 27 Sep 2026 09:57:19 +0000",
+      "ts": 1790503039
+    },
     {
       "source": "CoinTelegraph",
       "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
@@ -316,13 +323,6 @@
       "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
       "published": "Fri, 25 Sep 2026 18:15:03 GMT",
       "ts": 1790360103
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitget clarifies $388M in assets affected by security breach",
-      "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 17:17:45 +0000",
-      "ts": 1790356665
     },
     {
       "source": "CoinDesk",
