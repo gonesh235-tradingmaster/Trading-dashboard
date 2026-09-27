@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-27T14:25:33.762050Z",
+  "updated": "2026-09-27T14:39:45.409130Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+      "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+      "published": "Sun, 27 Sep 2026 14:29:13 +0000",
+      "ts": 1790519353
+    },
     {
       "source": "MarketWatch",
       "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
@@ -267,13 +274,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
       "published": "2026-09-25 20:03:29",
       "ts": 1790366609
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-      "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
-      "published": "Fri, 25 Sep 2026 20:01:05 +0000",
-      "ts": 1790366465
     },
     {
       "source": "Investing Forex",
