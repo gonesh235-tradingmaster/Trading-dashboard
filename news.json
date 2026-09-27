@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-27T11:51:55.218785Z",
+  "updated": "2026-09-27T12:12:26.404219Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "How months of work on the Clarity Act all fell apart",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
+      "published": "Sun, 27 Sep 2026 12:00:00 +0000",
+      "ts": 1790510400
+    },
     {
       "source": "MarketWatch",
       "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
@@ -323,13 +330,6 @@
       "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
       "published": "Fri, 25 Sep 2026 18:15:03 GMT",
       "ts": 1790360103
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-      "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-      "published": "Fri, 25 Sep 2026 14:41:53 +0000",
-      "ts": 1790347313
     },
     {
       "source": "Investing Crypto",
