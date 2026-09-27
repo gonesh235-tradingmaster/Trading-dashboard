@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-27T05:52:07.456113Z",
+  "updated": "2026-09-27T06:12:54.555729Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steadies above $84,000 as historic Q3 rally nears its end",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-84000-as-historic-q3-rally-nears-its-end-4918823",
+      "published": "2026-09-27 05:48:39",
+      "ts": 1790488119
+    },
     {
       "source": "MarketWatch",
       "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4914566",
       "published": "2026-09-24 08:01:00",
       "ts": 1790236860
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Exclusive: Bitget adopts Sygnum’s off-exchange bank custody model",
-      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-adopts-sygnums-offexchange-bank-custody-model-4914553",
-      "published": "2026-09-24 07:50:29",
-      "ts": 1790236229
     }
   ]
 }
