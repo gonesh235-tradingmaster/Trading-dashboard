@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-27T22:26:27.597075Z",
+  "updated": "2026-09-27T22:41:14.020226Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Middle East War updates: Trump says he expects renewed Iran talks this week",
+      "link": "https://www.fxstreet.com/news/middle-east-war-updates-trump-says-he-expects-renewed-iran-talks-this-week-202609272231",
+      "published": "Sun, 27 Sep 2026 22:31:35 GMT",
+      "ts": 1790548295
+    },
     {
       "source": "MarketWatch",
       "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
@@ -323,13 +330,6 @@
       "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
       "published": "Fri, 25 Sep 2026 18:22:51 GMT",
       "ts": 1790360571
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Hammack warns inflation mindset is the biggest risk",
-      "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
-      "published": "Fri, 25 Sep 2026 18:15:03 GMT",
-      "ts": 1790360103
     },
     {
       "source": "Investing Crypto",
