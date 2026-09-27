@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-27T23:10:03.984486Z",
+  "updated": "2026-09-27T23:24:49.803192Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar softens to near 0.7000 on hawkish Fed signals, RBA rate decision looms",
+      "link": "https://www.fxstreet.com/news/australian-dollar-softens-to-near-07000-on-hawkish-fed-signals-rba-rate-decision-looms-202609272323",
+      "published": "Sun, 27 Sep 2026 23:23:33 GMT",
+      "ts": 1790551413
+    },
     {
       "source": "FXStreet",
       "title": "Middle East War updates: Trump says he expects renewed Iran talks this week",
@@ -323,13 +330,6 @@
       "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834",
       "published": "Fri, 25 Sep 2026 18:34:02 GMT",
       "ts": 1790361242
-    },
-    {
-      "source": "FXStreet",
-      "title": "Asian FX: Higher yields and Oil weigh – OCBC",
-      "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
-      "published": "Fri, 25 Sep 2026 18:22:51 GMT",
-      "ts": 1790360571
     },
     {
       "source": "Investing Crypto",
