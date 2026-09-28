@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-28T04:55:13.095110Z",
+  "updated": "2026-09-28T05:10:28.867978Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 04:57:00 +0000",
+      "ts": 1790571420
+    },
     {
       "source": "FXStreet",
       "title": "India Gold price today: Gold falls, according to FXStreet data",
       "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609280444",
       "published": "Mon, 28 Sep 2026 04:44:17 GMT",
       "ts": 1790570657
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
+      "link": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 04:44:15 +0000",
+      "ts": 1790570655
     },
     {
       "source": "FXStreet",
@@ -255,13 +269,6 @@
       "ts": 1790425652
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 26 Sep 2026 12:17:00 +0000",
-      "ts": 1790425020
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
       "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
@@ -274,13 +281,6 @@
       "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 26 Sep 2026 09:02:22 +0000",
       "ts": 1790413342
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-      "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 26 Sep 2026 06:59:29 +0000",
-      "ts": 1790405969
     },
     {
       "source": "CoinDesk",
