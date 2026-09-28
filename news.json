@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T18:57:03.378282Z",
+  "updated": "2026-09-28T19:13:36.781472Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 19:02:45 +0000",
+      "ts": 1790622165
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
+      "link": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 18:56:00 GMT",
+      "ts": 1790621760
+    },
     {
       "source": "MarketWatch",
       "title": "Spending $800 to see my family this Thanksgiving is a financial burden. How can I push for a cheaper flight?",
@@ -178,13 +192,6 @@
       "ts": 1790607636
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 15:00:00 GMT",
-      "ts": 1790607600
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
       "link": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -218,13 +225,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-as-wider-yield-gap-and-softer-oil-weigh-on-loonie-4920618",
       "published": "2026-09-28 13:58:08",
       "ts": 1790603888
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 13:32:34 +0000",
-      "ts": 1790602354
     },
     {
       "source": "CoinTelegraph",
