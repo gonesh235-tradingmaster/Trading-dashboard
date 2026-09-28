@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-28T11:31:14.210956Z",
+  "updated": "2026-09-28T11:55:06.666723Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+      "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 11:47:00 GMT",
+      "ts": 1790596020
+    },
+    {
+      "source": "FXStreet",
+      "title": "UK Chancellor Healey: We will maintain control of Britain's finances",
+      "link": "https://www.fxstreet.com/news/uk-chancellor-healey-we-will-maintain-control-of-britains-finances-202609281135",
+      "published": "Mon, 28 Sep 2026 11:35:20 GMT",
+      "ts": 1790595320
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Traders aren't panicking yet despite cooling crypto sentiment",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
+      "published": "Mon, 28 Sep 2026 11:32:33 +0000",
+      "ts": 1790595153
+    },
     {
       "source": "MarketWatch",
       "title": "The history of this market’s bad-breadth signal points to risks ahead",
@@ -80,6 +101,13 @@
       "ts": 1790593320
     },
     {
+      "source": "CoinDesk",
+      "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
+      "link": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
+      "published": "Mon, 28 Sep 2026 11:00:00 +0000",
+      "ts": 1790593200
+    },
+    {
       "source": "MarketWatch",
       "title": "How Muse and other AI agents  could spark a bank run, according to an economist",
       "link": "https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories",
@@ -99,13 +127,6 @@
       "link": "https://www.fxstreet.com/news/wti-oil-extends-gains-above-9450-as-trump-rejects-hormuz-reopening-plan-202609281032",
       "published": "Mon, 28 Sep 2026 10:32:12 GMT",
       "ts": 1790591532
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoE’s Ramsden warns upside inflation risks may spur rate hikes",
-      "link": "https://www.fxstreet.com/news/boes-ramsden-warns-upside-inflation-risks-may-spur-rate-hikes-202609281019",
-      "published": "Mon, 28 Sep 2026 10:19:23 GMT",
-      "ts": 1790590763
     },
     {
       "source": "Investing Forex",
@@ -141,13 +162,6 @@
       "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
       "published": "Mon, 28 Sep 2026 10:02:37 +0000",
       "ts": 1790589757
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY: Intervention risk caps upside – BBH",
-      "link": "https://www.fxstreet.com/news/usd-jpy-intervention-risk-caps-upside-bbh-202609281002",
-      "published": "Mon, 28 Sep 2026 10:02:23 GMT",
-      "ts": 1790589743
     },
     {
       "source": "CoinTelegraph",
@@ -213,13 +227,6 @@
       "ts": 1790586120
     },
     {
-      "source": "MarketWatch",
-      "title": "‘Sex and the City’ star Chris Noth is selling his ‘breathtaking’ Greenwich Village apartment for $1.5 million",
-      "link": "https://www.marketwatch.com/story/sex-and-the-city-star-chris-noth-is-selling-his-breathtaking-greenwich-village-apartment-for-1-5-million-e9685111?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 08:58:00 GMT",
-      "ts": 1790585880
-    },
-    {
       "source": "Investing Forex",
       "title": "German yields pause traders weigh sticky energy inflation in data packed week",
       "link": "https://www.investing.com/news/forex-news/german-yields-pause-traders-weigh-sticky-energy-inflation-in-data-packed-week-4919522",
@@ -276,6 +283,13 @@
       "ts": 1790574165
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee falls sharply as oil prices rally",
+      "link": "https://www.fxstreet.com/news/indian-rupee-starts-the-week-negatively-amid-higher-oil-prices-202609280540",
+      "published": "Mon, 28 Sep 2026 05:40:03 GMT",
+      "ts": 1790574003
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -316,20 +330,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-27 19:02:26",
       "ts": 1790535746
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
-      "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
-      "published": "Sun, 27 Sep 2026 14:29:13 +0000",
-      "ts": 1790519353
-    },
-    {
-      "source": "CoinDesk",
-      "title": "How months of work on the Clarity Act all fell apart",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
-      "published": "Sun, 27 Sep 2026 12:00:00 +0000",
-      "ts": 1790510400
     },
     {
       "source": "Investing Crypto",
