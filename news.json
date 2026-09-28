@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-28T08:42:33.952933Z",
+  "updated": "2026-09-28T08:56:58.201609Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro underperforms against Japanese Yen amid Japan’s intervention fears",
+      "link": "https://www.fxstreet.com/news/euro-underperforms-against-japanese-yen-amid-japans-intervention-fears-202609280847",
+      "published": "Mon, 28 Sep 2026 08:47:34 GMT",
+      "ts": 1790585254
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound hits two-week low vs firmer Yen amid BoJ rate hike bets, intervention risks",
+      "link": "https://www.fxstreet.com/news/british-pound-hits-two-week-low-vs-firmer-yen-amid-boj-rate-hike-bets-intervention-risks-202609280847",
+      "published": "Mon, 28 Sep 2026 08:47:01 GMT",
+      "ts": 1790585221
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold: Downtrend persists below 200dma – Societe Generale",
+      "link": "https://www.fxstreet.com/news/gold-downtrend-persists-below-200dma-societe-generale-202609280846",
+      "published": "Mon, 28 Sep 2026 08:46:36 GMT",
+      "ts": 1790585196
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index remains stronger as hawkish Fed signals drive rate hike bets",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-remains-stronger-as-hawkish-fed-signals-drive-rate-hike-bets-202609280846",
+      "published": "Mon, 28 Sep 2026 08:46:14 GMT",
+      "ts": 1790585174
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: RBA faces rates squeeze – Rabobank",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-faces-rates-squeeze-rabobank-202609280845",
+      "published": "Mon, 28 Sep 2026 08:45:45 GMT",
+      "ts": 1790585145
+    },
+    {
+      "source": "FXStreet",
+      "title": "US 10-year yields: New range highs with limited relief – Societe Generale",
+      "link": "https://www.fxstreet.com/news/us-10-year-yields-new-range-highs-with-limited-relief-societe-generale-202609280844",
+      "published": "Mon, 28 Sep 2026 08:44:56 GMT",
+      "ts": 1790585096
+    },
     {
       "source": "FXStreet",
       "title": "GBP/JPY Price Forecast: Pound dives below 208.00 following rejection at 209.00",
@@ -38,53 +80,11 @@
       "ts": 1790583880
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar outperforms as RBA looks set to hike interest rates on Tuesday",
-      "link": "https://www.fxstreet.com/news/australian-dollar-outperforms-as-rba-looks-set-to-hike-interest-rates-on-tuesday-202609280818",
-      "published": "Mon, 28 Sep 2026 08:18:51 GMT",
-      "ts": 1790583531
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures drop as rising oil, US Treasury yields fuel Fed rate hike fears",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-rising-oil-us-treasury-yields-fuel-fed-rate-hike-fears-202609280807",
-      "published": "Mon, 28 Sep 2026 08:07:41 GMT",
-      "ts": 1790582861
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Data-driven consolidation risks – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-data-driven-consolidation-risks-ing-202609280753",
-      "published": "Mon, 28 Sep 2026 07:53:09 GMT",
-      "ts": 1790581989
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc weakens as US Dollar gains on Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-gains-on-fed-rate-hike-bets-202609280751",
-      "published": "Mon, 28 Sep 2026 07:51:00 GMT",
-      "ts": 1790581860
-    },
-    {
       "source": "CoinDesk",
       "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
       "link": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
       "published": "Mon, 28 Sep 2026 07:50:00 +0000",
       "ts": 1790581800
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar gains despite hawkish Fed tone, Middle East tensions",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-despite-hawkish-fed-tone-middle-east-tensions-202609280741",
-      "published": "Mon, 28 Sep 2026 07:41:27 GMT",
-      "ts": 1790581287
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD: Inflation-driven stabilisation hopes – ING",
-      "link": "https://www.fxstreet.com/news/eur-usd-inflation-driven-stabilisation-hopes-ing-202609280729",
-      "published": "Mon, 28 Sep 2026 07:29:50 GMT",
-      "ts": 1790580590
     },
     {
       "source": "Investing Crypto",
@@ -151,7 +151,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold falls to $4,150 as oil-driven inflation fears lift Fed hike bets and US bond yields",
+      "title": "Gold slumps below $4,150, fresh low since August 5 amid oil-fueled Fed hike bets",
       "link": "https://www.fxstreet.com/news/breaking-gold-weakens-below-4-200-lowest-since-august-5-202609280310",
       "published": "Mon, 28 Sep 2026 03:10:33 GMT",
       "ts": 1790565033
