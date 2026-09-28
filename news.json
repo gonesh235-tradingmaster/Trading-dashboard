@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T06:59:20.603774Z",
+  "updated": "2026-09-28T07:20:35.896740Z",
   "count": 60,
   "items": [
     {
@@ -22,6 +22,13 @@
       "link": "https://www.fxstreet.com/news/forex-today-gold-slumps-below-4-200-on-hawkish-fed-outlook-mideast-tensions-202609280654",
       "published": "Mon, 28 Sep 2026 06:54:30 GMT",
       "ts": 1790578470
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls to $83k amid pressure from high yields, Iran tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
+      "published": "2026-09-28 06:53:49",
+      "ts": 1790578429
     },
     {
       "source": "FXStreet",
@@ -73,18 +80,18 @@
       "ts": 1790576351
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Cyclical support and energy resilience – HSBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-cyclical-support-and-energy-resilience-hsbc-202609280617",
-      "published": "Mon, 28 Sep 2026 06:17:30 GMT",
-      "ts": 1790576250
-    },
-    {
       "source": "CoinTelegraph",
       "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
       "link": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 05:42:45 +0000",
       "ts": 1790574165
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee declines as oil prices rise over weekend",
+      "link": "https://www.fxstreet.com/news/indian-rupee-starts-the-week-negatively-amid-higher-oil-prices-202609280540",
+      "published": "Mon, 28 Sep 2026 05:40:03 GMT",
+      "ts": 1790574003
     },
     {
       "source": "CoinTelegraph",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/buy-usdt-gift-card-usdt-gift-card-announces-digital-gifting-service-with-free-redemption-4915636",
       "published": "2026-09-24 14:00:38",
       "ts": 1790258438
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Litecoin Climbs 10% In a Green Day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4914566",
-      "published": "2026-09-24 08:01:00",
-      "ts": 1790236860
     }
   ]
 }
