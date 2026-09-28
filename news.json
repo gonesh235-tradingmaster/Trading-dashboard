@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-28T12:13:29.466903Z",
+  "updated": "2026-09-28T12:38:44.579812Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar struggles as US-Canada yield gap widens",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-as-us-canada-yield-gap-widens-202609281235",
+      "published": "Mon, 28 Sep 2026 12:35:23 GMT",
+      "ts": 1790598923
+    },
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX is moments away from monumental Starship launch",
+      "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 12:35:00 GMT",
+      "ts": 1790598900
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Chainlink updates its crypto bridge tech months after a $292 million hack at a rival exposed risks",
+      "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
+      "published": "Mon, 28 Sep 2026 12:30:00 +0000",
+      "ts": 1790598600
+    },
+    {
+      "source": "FXStreet",
+      "title": "US-Iran indirect talks to resume in US as mediators revisit seven-day proposal - Reuters",
+      "link": "https://www.fxstreet.com/news/us-iran-indirect-talks-to-resume-in-us-as-mediators-revisit-seven-day-proposal-reuters-202609281229",
+      "published": "Mon, 28 Sep 2026 12:29:55 GMT",
+      "ts": 1790598595
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 12:21:50 +0000",
+      "ts": 1790598110
+    },
     {
       "source": "CoinDesk",
       "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
@@ -108,13 +143,6 @@
       "ts": 1790593434
     },
     {
-      "source": "FXStreet",
-      "title": "Silver price plunges as elevated US yields, firm Dollar pressure XAG/USD",
-      "link": "https://www.fxstreet.com/news/silver-price-plunges-as-elevated-us-yields-firm-dollar-pressure-xag-usd-202609281103",
-      "published": "Mon, 28 Sep 2026 11:03:35 GMT",
-      "ts": 1790593415
-    },
-    {
       "source": "MarketWatch",
       "title": "A pullback is brewing, say these strategists who have examined every drawdown since 1956",
       "link": "https://www.marketwatch.com/story/a-pullback-is-brewing-say-these-strategists-who-have-examined-every-drawdown-since-1956-69e39d5f?mod=mw_rss_topstories",
@@ -134,13 +162,6 @@
       "link": "https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories",
       "published": "Mon, 28 Sep 2026 10:47:00 GMT",
       "ts": 1790592420
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Support from yields and growth – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-support-from-yields-and-growth-bbh-202609281032",
-      "published": "Mon, 28 Sep 2026 10:32:13 GMT",
-      "ts": 1790591533
     },
     {
       "source": "Investing Forex",
@@ -234,13 +255,6 @@
       "ts": 1790586200
     },
     {
-      "source": "MarketWatch",
-      "title": "Simone Biles and Jonathan Owens list  a $1.2 million Texas home near Houston",
-      "link": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-list-a-1-2-million-texas-home-near-houston-0c3a7700?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 09:02:00 GMT",
-      "ts": 1790586120
-    },
-    {
       "source": "Investing Forex",
       "title": "German yields pause traders weigh sticky energy inflation in data packed week",
       "link": "https://www.investing.com/news/forex-news/german-yields-pause-traders-weigh-sticky-energy-inflation-in-data-packed-week-4919522",
@@ -276,13 +290,6 @@
       "ts": 1790576512
     },
     {
-      "source": "CoinDesk",
-      "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
-      "link": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
-      "published": "Mon, 28 Sep 2026 06:21:06 +0000",
-      "ts": 1790576466
-    },
-    {
       "source": "CoinTelegraph",
       "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
       "link": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -316,13 +323,6 @@
       "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 02:23:42 +0000",
       "ts": 1790562222
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Zano rolls blockchain back a month after Gateway Address exploit",
-      "link": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 01:09:22 +0000",
-      "ts": 1790557762
     },
     {
       "source": "Investing Crypto",
