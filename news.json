@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-28T04:15:09.040947Z",
+  "updated": "2026-09-28T04:34:11.059773Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Eyes nine-day EMA barrier near 180.00",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-eyes-nine-day-ema-barrier-near-18000-202609280422",
+      "published": "Mon, 28 Sep 2026 04:22:14 GMT",
+      "ts": 1790569334
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
@@ -78,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/gold-tumbles-to-near-4-200-as-hawkish-fed-signals-and-stronger-us-dollar-pressure-bullion-202609280148",
       "published": "Mon, 28 Sep 2026 01:48:09 GMT",
       "ts": 1790560089
-    },
-    {
-      "source": "FXStreet",
-      "title": "China’s Commerce Ministry says trade ceasefire with US to be extended to January 2027",
-      "link": "https://www.fxstreet.com/news/chinas-commerce-ministry-says-trade-ceasefire-with-us-to-be-extended-to-january-2027-202609280133",
-      "published": "Mon, 28 Sep 2026 01:33:03 GMT",
-      "ts": 1790559183
     },
     {
       "source": "CoinTelegraph",
