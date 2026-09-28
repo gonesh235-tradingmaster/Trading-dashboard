@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-28T23:09:49.020239Z",
+  "updated": "2026-09-28T23:26:28.493860Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold tumbles below $4.150 as US bond yields, oil prices rise",
+      "link": "https://www.fxstreet.com/news/gold-tumbles-below-4150-as-us-bond-yields-oil-prices-rise-202609282322",
+      "published": "Mon, 28 Sep 2026 23:22:44 GMT",
+      "ts": 1790637764
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Trendline caps recovery as range holds",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-trendline-caps-recovery-as-range-holds-202609282320",
+      "published": "Mon, 28 Sep 2026 23:20:36 GMT",
+      "ts": 1790637636
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar holds above 0.70 as RBA hike becomes a done deal",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-above-070-as-rba-hike-becomes-a-done-deal-202609282311",
+      "published": "Mon, 28 Sep 2026 23:11:09 GMT",
+      "ts": 1790637069
+    },
     {
       "source": "FXStreet",
       "title": "Euro slips back to its summer low as ECB President Lagarde urges measured hikes",
@@ -171,13 +192,6 @@
       "ts": 1790618920
     },
     {
-      "source": "FXStreet",
-      "title": "US 10-year yield revisits 2007 heights as curve flirts with inversion",
-      "link": "https://www.fxstreet.com/news/us-10-year-yield-revisits-2007-heights-as-curve-flirts-with-inversion-202609281803",
-      "published": "Mon, 28 Sep 2026 18:03:33 GMT",
-      "ts": 1790618613
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
       "link": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -190,20 +204,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
       "published": "Mon, 28 Sep 2026 18:00:00 +0000",
       "ts": 1790618400
-    },
-    {
-      "source": "FXStreet",
-      "title": "Crude Oil round-trips between a rejected Iran plan and a sanctions offer",
-      "link": "https://www.fxstreet.com/news/crude-oil-round-trips-between-a-rejected-iran-plan-and-a-sanctions-offer-202609281737",
-      "published": "Mon, 28 Sep 2026 17:37:50 GMT",
-      "ts": 1790617070
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Cook: AI, Iran risks could keep inflation pressures high",
-      "link": "https://www.fxstreet.com/news/feds-cook-says-ai-iran-risks-could-keep-inflation-pressures-high-202609281733",
-      "published": "Mon, 28 Sep 2026 17:33:59 GMT",
-      "ts": 1790616839
     },
     {
       "source": "CoinTelegraph",
