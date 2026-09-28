@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-28T16:33:12.513662Z",
+  "updated": "2026-09-28T16:55:43.249366Z",
   "count": 60,
   "items": [
     {
+      "source": "CoinTelegraph",
+      "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
+      "link": "https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 16:48:00 +0000",
+      "ts": 1790614080
+    },
+    {
+      "source": "FXStreet",
+      "title": "US President Trump to ease sanctions on Iran over nuclear progress",
+      "link": "https://www.fxstreet.com/news/us-president-trump-to-ease-sanctions-on-iran-over-nuclear-progress-202609281640",
+      "published": "Mon, 28 Sep 2026 16:40:55 GMT",
+      "ts": 1790613655
+    },
+    {
       "source": "MarketWatch",
-      "title": "Nvidia is right: Its stock is a bargain",
+      "title": "Nvidia is right: Its stock is a bargain by this measure",
       "link": "https://www.marketwatch.com/story/nvidia-is-right-its-stock-is-a-bargain-95cee6ca?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 16:29:00 GMT",
-      "ts": 1790612940
+      "published": "Mon, 28 Sep 2026 16:33:00 GMT",
+      "ts": 1790613180
     },
     {
       "source": "FXStreet",
@@ -185,13 +199,6 @@
       "ts": 1790603888
     },
     {
-      "source": "FXStreet",
-      "title": "Lagarde: ECB sticks to “middle path” as inflation outlook worsens",
-      "link": "https://www.fxstreet.com/news/lagarde-ecb-sticks-to-middle-path-as-inflation-outlook-worsens-202609281339",
-      "published": "Mon, 28 Sep 2026 13:39:22 GMT",
-      "ts": 1790602762
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -337,13 +344,6 @@
       "link": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 09:19:50 +0000",
       "ts": 1790587190
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open",
-      "link": "https://cointelegraph.com/markets/bitcoin-drops-under-83k-as-liquidity-hunting-keeps-bulls-from-targeting-yearly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 09:03:20 +0000",
-      "ts": 1790586200
     },
     {
       "source": "Investing Crypto",
