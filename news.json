@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T04:34:11.059773Z",
+  "updated": "2026-09-28T04:55:13.095110Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609280444",
+      "published": "Mon, 28 Sep 2026 04:44:17 GMT",
+      "ts": 1790570657
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Recovers above 110.50, but technical outlook stays bearish",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-recovers-above-11050-but-technical-outlook-stays-bearish-202609280436",
+      "published": "Mon, 28 Sep 2026 04:36:18 GMT",
+      "ts": 1790570178
+    },
     {
       "source": "FXStreet",
       "title": "EUR/JPY Price Forecast: Eyes nine-day EMA barrier near 180.00",
@@ -71,20 +85,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-falls-as-us-canada-rate-gap-seen-widening-further-202609280216",
       "published": "Mon, 28 Sep 2026 02:16:57 GMT",
       "ts": 1790561817
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI sticks to modest gains above $92.00 amid Middle East jitters",
-      "link": "https://www.fxstreet.com/news/wti-sticks-to-modest-gains-above-9200-amid-middle-east-jitters-202609280156",
-      "published": "Mon, 28 Sep 2026 01:56:32 GMT",
-      "ts": 1790560592
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold tumbles to near $4,200 as hawkish Fed signals and stronger US Dollar pressure bullion",
-      "link": "https://www.fxstreet.com/news/gold-tumbles-to-near-4-200-as-hawkish-fed-signals-and-stronger-us-dollar-pressure-bullion-202609280148",
-      "published": "Mon, 28 Sep 2026 01:48:09 GMT",
-      "ts": 1790560089
     },
     {
       "source": "CoinTelegraph",
@@ -242,7 +242,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "title": "Bitget hacker moves $83 million in stolen XRP beyond reach of freeze controls",
       "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
       "published": "Sat, 26 Sep 2026 12:56:41 +0000",
       "ts": 1790427401
