@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T00:57:34.191441Z",
+  "updated": "2026-09-28T01:14:59.729383Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen drifts lower vs bullish USD after BoJ Minutes as intervention risks loom",
+      "link": "https://www.fxstreet.com/news/japanese-yen-drifts-lower-vs-bullish-usd-after-boj-minutes-as-intervention-risks-loom-202609280110",
+      "published": "Mon, 28 Sep 2026 01:10:43 GMT",
+      "ts": 1790557843
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Zano rolls blockchain back a month after Gateway Address exploit",
+      "link": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 01:09:22 +0000",
+      "ts": 1790557762
+    },
     {
       "source": "FXStreet",
       "title": "Euro declines below 1.1400 on hawkish Fed stance, ongoing Middle East tensions",
@@ -290,13 +304,6 @@
       "ts": 1790368641
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
-      "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 20:26:40 +0000",
-      "ts": 1790368000
-    },
-    {
       "source": "FXStreet",
       "title": "US Treasury yields rise as 30-year bond hits 22-year high",
       "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-faces-nearterm-pressure-as-rate-gap-and-trade-risks-widen-4918030",
       "published": "2026-09-25 19:52:08",
       "ts": 1790365928
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: PBoC keeps yuan broadly stable – Societe Generale",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-keeps-yuan-broadly-stable-societe-generale-202609251931",
-      "published": "Fri, 25 Sep 2026 19:31:00 GMT",
-      "ts": 1790364660
     },
     {
       "source": "Investing Crypto",
