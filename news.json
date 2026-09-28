@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T01:30:57.411465Z",
+  "updated": "2026-09-28T01:52:51.830378Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold tumbles to near $4,200 as hawkish Fed signals and stronger US Dollar pressure bullion",
+      "link": "https://www.fxstreet.com/news/gold-tumbles-to-near-4-200-as-hawkish-fed-signals-and-stronger-us-dollar-pressure-bullion-202609280148",
+      "published": "Mon, 28 Sep 2026 01:48:09 GMT",
+      "ts": 1790560089
+    },
+    {
+      "source": "FXStreet",
+      "title": "China’s Commerce Ministry says trade ceasefire with US to be extended to January 2027",
+      "link": "https://www.fxstreet.com/news/chinas-commerce-ministry-says-trade-ceasefire-with-us-to-be-extended-to-january-2027-202609280133",
+      "published": "Mon, 28 Sep 2026 01:33:03 GMT",
+      "ts": 1790559183
+    },
     {
       "source": "FXStreet",
       "title": "British Pound gains as US Dollar weakens despite hawkish Fed, geopolitical tensions",
@@ -276,13 +290,6 @@
       "ts": 1790374658
     },
     {
-      "source": "FXStreet",
-      "title": "South Korean Won: Export strength supports KRW – Societe Generale",
-      "link": "https://www.fxstreet.com/news/south-korean-won-export-strength-supports-krw-societe-generale-202609252141",
-      "published": "Fri, 25 Sep 2026 21:41:00 GMT",
-      "ts": 1790372460
-    },
-    {
       "source": "Investing Forex",
       "title": "Bond rout in shorter-term maturities eases up, but U.S. yields end week with gains",
       "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
@@ -295,13 +302,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
       "published": "Fri, 25 Sep 2026 21:17:30 +0000",
       "ts": 1790371050
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Consolidation with downside risk toward 6.7330 – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-consolidation-with-downside-risk-toward-67330-uob-202609252056",
-      "published": "Fri, 25 Sep 2026 20:56:00 GMT",
-      "ts": 1790369760
     },
     {
       "source": "Investing Crypto",
