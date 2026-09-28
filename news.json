@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-28T23:41:10.924399Z",
+  "updated": "2026-09-28T23:53:29.658312Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar steadies near its lows as RBNZ hike bets keep building",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-near-its-lows-as-rbnz-hike-bets-keep-building-202609282345",
+      "published": "Mon, 28 Sep 2026 23:45:00 GMT",
+      "ts": 1790639100
+    },
     {
       "source": "FXStreet",
       "title": "Iran’s Araghchi says if US wants deal or peace, Tehran has offered solution",
@@ -155,13 +162,6 @@
       "link": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 20:28:13 +0000",
       "ts": 1790627293
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold price crashes as 2007-era yields trigger brutal sell-off",
-      "link": "https://www.fxstreet.com/news/gold-price-crashes-as-2007-era-yields-trigger-brutal-sell-off-202609282019",
-      "published": "Mon, 28 Sep 2026 20:19:49 GMT",
-      "ts": 1790626789
     },
     {
       "source": "Investing Forex",
