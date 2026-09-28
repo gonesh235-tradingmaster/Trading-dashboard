@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-28T10:17:00.719703Z",
+  "updated": "2026-09-28T10:41:39.216106Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Support from yields and growth – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-support-from-yields-and-growth-bbh-202609281032",
+      "published": "Mon, 28 Sep 2026 10:32:13 GMT",
+      "ts": 1790591533
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI Oil extends gains nearing $95.00 as Trump rejects Hormuz reopening plan",
+      "link": "https://www.fxstreet.com/news/wti-oil-extends-gains-above-9450-as-trump-rejects-hormuz-reopening-plan-202609281032",
+      "published": "Mon, 28 Sep 2026 10:32:12 GMT",
+      "ts": 1790591532
+    },
+    {
+      "source": "FXStreet",
+      "title": "BoE’s Ramsden warns upside inflation risks may spur rate hikes",
+      "link": "https://www.fxstreet.com/news/boes-ramsden-warns-upside-inflation-risks-may-spur-rate-hikes-202609281019",
+      "published": "Mon, 28 Sep 2026 10:19:23 GMT",
+      "ts": 1790590763
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees Japan yen intervention likely near 160 per dollar",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-japan-yen-intervention-likely-near-160-per-dollar-93CH-4919746",
+      "published": "2026-09-28 10:18:17",
+      "ts": 1790590697
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-falls-to-usd83-000-while-altcoins-unwind-friday-s-rally",
+      "published": "Mon, 28 Sep 2026 10:15:04 +0000",
+      "ts": 1790590504
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 10:15:00 GMT",
+      "ts": 1790590500
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar firm as rising oil prices and heavy data alate keep Fed hawkish",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
+      "published": "2026-09-28 10:12:02",
+      "ts": 1790590322
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs",
@@ -80,20 +129,6 @@
       "ts": 1790588048
     },
     {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609280933",
-      "published": "Mon, 28 Sep 2026 09:33:44 GMT",
-      "ts": 1790588024
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Breakout risks versus fading outlook – Societe Generale",
-      "link": "https://www.fxstreet.com/news/us-dollar-breakout-risks-versus-fading-outlook-societe-generale-202609280932",
-      "published": "Mon, 28 Sep 2026 09:32:41 GMT",
-      "ts": 1790587961
-    },
-    {
       "source": "MarketWatch",
       "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
       "link": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories",
@@ -106,13 +141,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
       "published": "Mon, 28 Sep 2026 09:29:34 +0000",
       "ts": 1790587774
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD: Key support test as RBA looms – Societe Generale",
-      "link": "https://www.fxstreet.com/news/aud-usd-key-support-test-as-rba-looms-societe-generale-202609280929",
-      "published": "Mon, 28 Sep 2026 09:29:29 GMT",
-      "ts": 1790587769
     },
     {
       "source": "CoinTelegraph",
@@ -176,13 +204,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
       "published": "2026-09-28 07:12:40",
       "ts": 1790579560
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies weaken as dollar holds near two-month high, yen slips",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
-      "published": "2026-09-28 07:11:02",
-      "ts": 1790579462
     },
     {
       "source": "Investing Crypto",
@@ -263,13 +284,6 @@
     },
     {
       "source": "MarketWatch",
-      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "published": "Sun, 27 Sep 2026 21:45:00 GMT",
-      "ts": 1790545500
-    },
-    {
-      "source": "MarketWatch",
       "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
       "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
       "published": "Sun, 27 Sep 2026 19:21:00 GMT",
@@ -323,13 +337,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-84000-as-historic-q3-rally-nears-its-end-4918823",
       "published": "2026-09-27 05:48:39",
       "ts": 1790488119
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
-      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
-      "published": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "ts": 1790431200
     },
     {
       "source": "Investing Crypto",
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-bond-selloff-powers-dollar-gains-4916939",
       "published": "2026-09-25 09:02:09",
       "ts": 1790326929
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees higher global rates weighing on Swedish krona",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-higher-global-rates-weighing-on-swedish-krona-93CH-4916923",
-      "published": "2026-09-25 08:56:30",
-      "ts": 1790326590
     },
     {
       "source": "Investing Crypto",
