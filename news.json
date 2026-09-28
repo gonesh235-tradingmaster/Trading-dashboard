@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-28T03:57:05.208445Z",
+  "updated": "2026-09-28T04:15:09.040947Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
+      "published": "Mon, 28 Sep 2026 03:58:52 +0000",
+      "ts": 1790567932
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc hits fresh low since May 2025, near 0.8300 vs USD amid Fed-SNB divergence",
@@ -302,13 +309,6 @@
       "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
       "published": "2026-09-25 21:26:50",
       "ts": 1790371610
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-      "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-      "published": "Fri, 25 Sep 2026 21:17:30 +0000",
-      "ts": 1790371050
     },
     {
       "source": "Investing Crypto",
