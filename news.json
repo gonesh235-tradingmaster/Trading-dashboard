@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T18:12:42.262508Z",
+  "updated": "2026-09-28T18:34:21.956365Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen trades cautiously as intervention risk clashes with Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/japanese-yen-trades-cautiously-as-intervention-risk-clashes-with-fed-rate-hike-bets-202609281816",
+      "published": "Mon, 28 Sep 2026 18:16:59 GMT",
+      "ts": 1790619419
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The U.S. and China agree to $60 billion in tariff cuts on products like dolls and fireworks. Rare earths remain a sticking point.",
+      "link": "https://www.marketwatch.com/story/the-u-s-and-china-agree-to-60-billion-in-tariff-cuts-on-products-like-dolls-and-fireworks-rare-earths-remain-a-sticking-point-e4667872?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 18:15:00 GMT",
+      "ts": 1790619300
+    },
     {
       "source": "FXStreet",
       "title": "Forex Today: The RBA and Fedspeak grab all the attention",
@@ -136,13 +150,6 @@
       "ts": 1790609949
     },
     {
-      "source": "FXStreet",
-      "title": "GBP: Shorts at highs as Pound tracks Oil-led USD rally – Rabobank",
-      "link": "https://www.fxstreet.com/news/gbp-shorts-at-highs-as-pound-tracks-oil-led-usd-rally-rabobank-202609281530",
-      "published": "Mon, 28 Sep 2026 15:30:33 GMT",
-      "ts": 1790609433
-    },
-    {
       "source": "MarketWatch",
       "title": "These Gen Z-ers are choosing ETFs over sports bets. How younger investors told us they’re building wealth.",
       "link": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
@@ -169,13 +176,6 @@
       "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
       "published": "Mon, 28 Sep 2026 14:57:00 GMT",
       "ts": 1790607420
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-      "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 14:55:00 GMT",
-      "ts": 1790607300
     },
     {
       "source": "CoinTelegraph",
