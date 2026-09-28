@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-28T05:45:55.351757Z",
+  "updated": "2026-09-28T06:14:03.578013Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI rises above $93.00 after Trump rejects Iran peace deal",
+      "link": "https://www.fxstreet.com/news/wti-rises-above-9300-after-trump-rejects-iran-peace-deal-202609280611",
+      "published": "Mon, 28 Sep 2026 06:11:30 GMT",
+      "ts": 1790575890
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Holds ground near 1.3200, near-term bias remains bearish",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-holds-ground-near-13200-near-term-bias-remains-bearish-202609280552",
+      "published": "Mon, 28 Sep 2026 05:52:12 GMT",
+      "ts": 1790574732
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
+      "link": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 05:42:45 +0000",
+      "ts": 1790574165
+    },
     {
       "source": "FXStreet",
       "title": "Indian Rupee starts the week negatively amid higher oil prices",
@@ -78,20 +99,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
       "published": "Mon, 28 Sep 2026 03:58:52 +0000",
       "ts": 1790567932
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc hits fresh low since May 2025, near 0.8300 vs USD amid Fed-SNB divergence",
-      "link": "https://www.fxstreet.com/news/swiss-franc-hits-fresh-low-since-may-2025-near-08300-vs-usd-amid-fed-snb-divergence-202609280329",
-      "published": "Mon, 28 Sep 2026 03:29:55 GMT",
-      "ts": 1790566195
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD falls to near $62.00 amid Fed rate hike odds",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6200-amid-fed-rate-hike-odds-202609280322",
-      "published": "Mon, 28 Sep 2026 03:22:09 GMT",
-      "ts": 1790565729
     },
     {
       "source": "FXStreet",
@@ -281,13 +288,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
       "published": "Sat, 26 Sep 2026 12:00:00 +0000",
       "ts": 1790424000
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-      "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 26 Sep 2026 09:02:22 +0000",
-      "ts": 1790413342
     },
     {
       "source": "CoinDesk",
