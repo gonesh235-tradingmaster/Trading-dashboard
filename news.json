@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-28T02:09:47.814385Z",
+  "updated": "2026-09-28T02:27:58.703070Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar falls as US-Canada rate gap seen widening further",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-as-us-canada-rate-gap-seen-widening-further-202609280216",
+      "published": "Mon, 28 Sep 2026 02:16:57 GMT",
+      "ts": 1790561817
+    },
     {
       "source": "FXStreet",
       "title": "WTI sticks to modest gains above $92.00 amid Middle East jitters",
@@ -78,13 +85,6 @@
       "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 27 Sep 2026 23:43:18 +0000",
       "ts": 1790552598
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar softens to near 0.7000 on hawkish Fed signals, RBA rate decision looms",
-      "link": "https://www.fxstreet.com/news/australian-dollar-softens-to-near-07000-on-hawkish-fed-signals-rba-rate-decision-looms-202609272323",
-      "published": "Sun, 27 Sep 2026 23:23:33 GMT",
-      "ts": 1790551413
     },
     {
       "source": "MarketWatch",
