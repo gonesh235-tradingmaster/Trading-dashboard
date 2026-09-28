@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-28T02:57:59.170840Z",
+  "updated": "2026-09-28T03:17:20.659548Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Breaking: Gold weakens below $4,200, lowest since August 5",
+      "link": "https://www.fxstreet.com/news/breaking-gold-weakens-below-4-200-lowest-since-august-5-202609280310",
+      "published": "Mon, 28 Sep 2026 03:10:33 GMT",
+      "ts": 1790565033
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar strengthens above 0.5650 on US-China truce extension",
@@ -78,13 +85,6 @@
       "link": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 01:09:22 +0000",
       "ts": 1790557762
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro declines below 1.1400 on hawkish Fed stance, ongoing Middle East tensions",
-      "link": "https://www.fxstreet.com/news/euro-declines-below-11400-on-hawkish-fed-stance-ongoing-middle-east-tensions-202609280053",
-      "published": "Mon, 28 Sep 2026 00:53:33 GMT",
-      "ts": 1790556813
     },
     {
       "source": "CoinTelegraph",
