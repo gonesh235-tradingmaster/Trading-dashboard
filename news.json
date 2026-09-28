@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T09:42:42.666926Z",
+  "updated": "2026-09-28T09:57:44.395374Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-rally-takes-a-breather-ahead-of-key-u-s-employment-data-crypto-week-ahead",
+      "published": "Mon, 28 Sep 2026 09:45:55 +0000",
+      "ts": 1790588755
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD: Consensus shifts lower on Dollar resilience – Societe Generale",
+      "link": "https://www.fxstreet.com/news/eur-usd-consensus-shifts-lower-on-dollar-resilience-societe-generale-202609280943",
+      "published": "Mon, 28 Sep 2026 09:43:54 GMT",
+      "ts": 1790588634
+    },
     {
       "source": "FXStreet",
       "title": "S&P 500: Equities resilient despite rates selloff – Deutsche Bank",
@@ -29,6 +43,13 @@
       "link": "https://www.fxstreet.com/news/brent-oil-climbs-on-middle-east-tensions-deutsche-bank-202609280936",
       "published": "Mon, 28 Sep 2026 09:36:26 GMT",
       "ts": 1790588186
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges higher as U.S. data tests dollar rally",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-us-data-tests-dollar-rally-4919636",
+      "published": "2026-09-28 09:34:08",
+      "ts": 1790588048
     },
     {
       "source": "FXStreet",
@@ -178,13 +199,6 @@
       "ts": 1790574165
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee slumps as oil prices rise vertically",
-      "link": "https://www.fxstreet.com/news/indian-rupee-starts-the-week-negatively-amid-higher-oil-prices-202609280540",
-      "published": "Mon, 28 Sep 2026 05:40:03 GMT",
-      "ts": 1790574003
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -318,13 +332,6 @@
       "ts": 1790427600
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitget hacker moves $83 million in stolen XRP beyond reach of freeze controls",
-      "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
-      "published": "Sat, 26 Sep 2026 12:56:41 +0000",
-      "ts": 1790427401
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-higher-global-rates-weighing-on-swedish-krona-93CH-4916923",
       "published": "2026-09-25 08:56:30",
       "ts": 1790326590
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees Norwegian krone carry trade staying attractive",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-norwegian-krone-carry-trade-staying-attractive-93CH-4916921",
-      "published": "2026-09-25 08:54:10",
-      "ts": 1790326450
     },
     {
       "source": "Investing Crypto",
