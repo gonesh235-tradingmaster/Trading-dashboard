@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-28T12:38:44.579812Z",
+  "updated": "2026-09-28T12:58:01.962475Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar holds steady as RBA rate hike expectations balance elevated US yields",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-steady-as-rba-rate-hike-expectations-balance-elevated-us-yields-202609281248",
+      "published": "Mon, 28 Sep 2026 12:48:53 GMT",
+      "ts": 1790599733
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. debt sell-off extends on $106 crude oil and hawkish central bank outlooks",
+      "link": "https://www.investing.com/news/forex-news/german-yields-pause-traders-weigh-sticky-energy-inflation-in-data-packed-week-4919522",
+      "published": "2026-09-28 12:45:46",
+      "ts": 1790599546
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 12:45:00 GMT",
+      "ts": 1790599500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Taking Ozempic? A routine eye exam could help you understand your risk for vision loss.",
+      "link": "https://www.marketwatch.com/story/taking-ozempic-a-routine-eye-exam-could-help-you-understand-your-risk-for-vision-loss-3392c1a0?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 12:42:00 GMT",
+      "ts": 1790599320
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
+      "link": "https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 12:38:01 +0000",
+      "ts": 1790599081
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar struggles as US-Canada yield gap widens",
@@ -43,6 +78,13 @@
       "link": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin",
       "published": "Mon, 28 Sep 2026 12:13:09 +0000",
       "ts": 1790597589
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Strategy purchases 1,665 bitcoin",
+      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-purchases-1665-bitcoin-432SI-4920202",
+      "published": "2026-09-28 12:13:03",
+      "ts": 1790597583
     },
     {
       "source": "FXStreet",
@@ -122,13 +164,6 @@
       "ts": 1790593994
     },
     {
-      "source": "FXStreet",
-      "title": "US Treasuries: Yields hit multi-year highs – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/us-treasuries-yields-hit-multi-year-highs-deutsche-bank-202609281113",
-      "published": "Mon, 28 Sep 2026 11:13:07 GMT",
-      "ts": 1790593987
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
       "link": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -137,7 +172,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold slides 3% as Fed rate hike bets, rising Treasury yields weigh",
+      "title": "Gold slides 3% as traders weigh Fed outlook, latest US-Iran developments",
       "link": "https://www.fxstreet.com/news/gold-slides-nearly-3-as-fed-hike-bets-rising-treasury-yields-weigh-202609281103",
       "published": "Mon, 28 Sep 2026 11:03:54 GMT",
       "ts": 1790593434
@@ -193,7 +228,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs",
+      "title": "Live updates: Bitcoin trims losses as oil eases on hopes of U.S. and Iran talks",
       "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
       "published": "Mon, 28 Sep 2026 10:02:37 +0000",
       "ts": 1790589757
@@ -220,13 +255,6 @@
       "ts": 1790588048
     },
     {
-      "source": "MarketWatch",
-      "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
-      "link": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 09:32:00 GMT",
-      "ts": 1790587920
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin bears pay to bet on further declines as futures positions near yearly lows",
       "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
@@ -241,25 +269,11 @@
       "ts": 1790587190
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I feel like he’s holding me back’: I have $8 million. My husband resents my success. Should I pay for more things?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 09:15:00 GMT",
-      "ts": 1790586900
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open",
       "link": "https://cointelegraph.com/markets/bitcoin-drops-under-83k-as-liquidity-hunting-keeps-bulls-from-targeting-yearly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 09:03:20 +0000",
       "ts": 1790586200
-    },
-    {
-      "source": "Investing Forex",
-      "title": "German yields pause traders weigh sticky energy inflation in data packed week",
-      "link": "https://www.investing.com/news/forex-news/german-yields-pause-traders-weigh-sticky-energy-inflation-in-data-packed-week-4919522",
-      "published": "2026-09-28 08:26:09",
-      "ts": 1790583969
     },
     {
       "source": "CoinTelegraph",
@@ -316,13 +330,6 @@
       "link": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 04:44:15 +0000",
       "ts": 1790570655
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Newsom signs California ban on public officials issuing memecoins",
-      "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 02:23:42 +0000",
-      "ts": 1790562222
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/federal-reserve-unveils-proposed-framework-for-stablecoin-issuers-4916070",
       "published": "2026-09-24 19:38:37",
       "ts": 1790278717
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "moomoo sees 50% jump in crypto buyers as retail demand broadens",
-      "link": "https://www.investing.com/news/cryptocurrency-news/moomoo-sees-50-jump-in-crypto-buyers-as-retail-demand-broadens-4915966",
-      "published": "2026-09-24 17:33:12",
-      "ts": 1790271192
     }
   ]
 }
