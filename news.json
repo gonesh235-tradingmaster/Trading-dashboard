@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-28T09:57:44.395374Z",
+  "updated": "2026-09-28T10:17:00.719703Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs",
+      "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
+      "published": "Mon, 28 Sep 2026 10:02:37 +0000",
+      "ts": 1790589757
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY: Intervention risk caps upside – BBH",
+      "link": "https://www.fxstreet.com/news/usd-jpy-intervention-risk-caps-upside-bbh-202609281002",
+      "published": "Mon, 28 Sep 2026 10:02:23 GMT",
+      "ts": 1790589743
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index: Strongest G10 currency performance – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-strongest-g10-currency-performance-deutsche-bank-202609280958",
+      "published": "Mon, 28 Sep 2026 09:58:48 GMT",
+      "ts": 1790589528
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hong Kong regulators expand financial reporting oversight to licensed crypto firms",
+      "link": "https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 09:58:31 +0000",
+      "ts": 1790589511
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
@@ -87,25 +115,11 @@
       "ts": 1790587769
     },
     {
-      "source": "FXStreet",
-      "title": "Gold Price Forecast: XAU/USD remains vulnerable as sellers target $4,000",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-remains-vulnerable-as-sellers-target-4-000-202609280926",
-      "published": "Mon, 28 Sep 2026 09:26:52 GMT",
-      "ts": 1790587612
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
       "link": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 09:19:50 +0000",
       "ts": 1790587190
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Slips below nine-day EMA, 157.00",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-slips-below-nine-day-ema-15700-202609280918",
-      "published": "Mon, 28 Sep 2026 09:18:30 GMT",
-      "ts": 1790587110
     },
     {
       "source": "MarketWatch",
@@ -297,13 +311,6 @@
       "ts": 1790519353
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
-      "link": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 27 Sep 2026 12:46:28 +0000",
-      "ts": 1790513188
-    },
-    {
       "source": "CoinDesk",
       "title": "How months of work on the Clarity Act all fell apart",
       "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
@@ -323,13 +330,6 @@
       "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
       "published": "Sat, 26 Sep 2026 14:00:00 +0000",
       "ts": 1790431200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
-      "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
-      "published": "Sat, 26 Sep 2026 13:00:00 +0000",
-      "ts": 1790427600
     },
     {
       "source": "Investing Crypto",
