@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T22:40:18.567098Z",
+  "updated": "2026-09-28T22:53:04.738605Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso plunges as US-Mexico interest rate differential reduces",
+      "link": "https://www.fxstreet.com/news/mexican-peso-plunges-as-us-mexico-interest-rate-differential-reduces-202609282252",
+      "published": "Mon, 28 Sep 2026 22:52:06 GMT",
+      "ts": 1790635926
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 22:45:00 GMT",
+      "ts": 1790635500
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
@@ -108,13 +122,6 @@
       "ts": 1790625840
     },
     {
-      "source": "MarketWatch",
-      "title": "October is historically the most volatile month for stocks. But why? These 4 popular theories fail to hold up.",
-      "link": "https://www.marketwatch.com/story/october-is-historically-the-most-volatile-month-for-stocks-but-why-these-4-popular-theories-fail-to-hold-up-a47a1830?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 20:02:00 GMT",
-      "ts": 1790625720
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin consolidates above $82,650 support: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
@@ -218,13 +225,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
       "published": "Mon, 28 Sep 2026 16:16:40 +0000",
       "ts": 1790612200
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound defies US yields surge as BoE hike bets build",
-      "link": "https://www.fxstreet.com/news/british-pound-defies-us-yields-surge-as-boe-hike-bets-build-202609281551",
-      "published": "Mon, 28 Sep 2026 15:51:19 GMT",
-      "ts": 1790610679
     },
     {
       "source": "Investing Crypto",
