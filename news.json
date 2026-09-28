@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-28T05:10:28.867978Z",
+  "updated": "2026-09-28T05:28:40.935034Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Asian stocks slip as oil prices rise, India's NIFTY falls below 23,000",
+      "link": "https://www.fxstreet.com/news/asian-stocks-slip-as-oil-prices-rise-indias-nifty-falls-below-23-000-202609280524",
+      "published": "Mon, 28 Sep 2026 05:24:07 GMT",
+      "ts": 1790573047
+    },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 04:57:00 +0000",
       "ts": 1790571420
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies weaken as dollar holds near two-month high, yen slips",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
+      "published": "2026-09-28 04:49:36",
+      "ts": 1790570976
     },
     {
       "source": "FXStreet",
@@ -67,7 +81,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Breaking: Gold weakens below $4,200, lowest since August 5",
+      "title": "Gold seems vulnerable below $4,200, lowest since August 5 as Fed hike bets rise",
       "link": "https://www.fxstreet.com/news/breaking-gold-weakens-below-4-200-lowest-since-august-5-202609280310",
       "published": "Mon, 28 Sep 2026 03:10:33 GMT",
       "ts": 1790565033
@@ -92,13 +106,6 @@
       "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 02:23:42 +0000",
       "ts": 1790562222
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar falls as US-Canada rate gap seen widening further",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-as-us-canada-rate-gap-seen-widening-further-202609280216",
-      "published": "Mon, 28 Sep 2026 02:16:57 GMT",
-      "ts": 1790561817
     },
     {
       "source": "CoinTelegraph",
@@ -386,13 +393,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
       "published": "2026-09-24 22:01:14",
       "ts": 1790287274
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. 30-yr Treasury yield ends at highest level since 2004 as bond rout deepens",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
-      "published": "2026-09-24 21:40:41",
-      "ts": 1790286041
     },
     {
       "source": "Investing Crypto",
