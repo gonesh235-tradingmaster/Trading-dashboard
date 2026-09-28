@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T20:26:42.547867Z",
+  "updated": "2026-09-28T20:43:30.718867Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average gives back Friday's rally on a Boeing delay",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-gives-back-fridays-rally-on-a-boeing-delay-202609282039",
+      "published": "Mon, 28 Sep 2026 20:39:46 GMT",
+      "ts": 1790627986
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
+      "link": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 20:28:13 +0000",
+      "ts": 1790627293
+    },
     {
       "source": "FXStreet",
       "title": "Gold price crashes as 2007-era yields trigger brutal sell-off",
@@ -302,20 +316,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
       "published": "Mon, 28 Sep 2026 11:32:33 +0000",
       "ts": 1790595153
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
-      "link": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 11:05:24 +0000",
-      "ts": 1790593524
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold tumbles over 3.5% as Fed rate-hike bets, surging US Treasury yields weigh",
-      "link": "https://www.fxstreet.com/news/gold-slides-nearly-3-as-fed-hike-bets-rising-treasury-yields-weigh-202609281103",
-      "published": "Mon, 28 Sep 2026 11:03:54 GMT",
-      "ts": 1790593434
     },
     {
       "source": "CoinDesk",
