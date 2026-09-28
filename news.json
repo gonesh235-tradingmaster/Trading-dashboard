@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-28T07:20:35.896740Z",
+  "updated": "2026-09-28T07:42:53.950404Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar gains despite hawkish Fed tone, Middle East tensions",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-despite-hawkish-fed-tone-middle-east-tensions-202609280741",
+      "published": "Mon, 28 Sep 2026 07:41:27 GMT",
+      "ts": 1790581287
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD: Inflation-driven stabilisation hopes – ING",
+      "link": "https://www.fxstreet.com/news/eur-usd-inflation-driven-stabilisation-hopes-ing-202609280729",
+      "published": "Mon, 28 Sep 2026 07:29:50 GMT",
+      "ts": 1790580590
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/GBP Price Forecast: Fails at 0.8610 amid higher Oil prices, BoE hawkishness",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-fails-at-08610-amid-higher-oil-prices-boe-hawkishness-202609280728",
+      "published": "Mon, 28 Sep 2026 07:28:00 GMT",
+      "ts": 1790580480
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: Hawkish RBA hike expectations – ING",
+      "link": "https://www.fxstreet.com/news/australian-dollar-hawkish-rba-hike-expectations-ing-202609280727",
+      "published": "Mon, 28 Sep 2026 07:27:31 GMT",
+      "ts": 1790580451
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips to $83,119, bears eye $81,194: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+      "published": "2026-09-28 07:12:40",
+      "ts": 1790579560
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies weaken as dollar holds near two-month high, yen slips",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
+      "published": "2026-09-28 07:11:02",
+      "ts": 1790579462
+    },
     {
       "source": "FXStreet",
       "title": "USD/CAD Price Forecast: Holds gains above 1.4150, while technicals flag overbought risk",
@@ -38,20 +80,6 @@
       "ts": 1790577889
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Rate uncertainty and energy costs weigh – HSBC",
-      "link": "https://www.fxstreet.com/news/euro-rate-uncertainty-and-energy-costs-weigh-hsbc-202609280639",
-      "published": "Mon, 28 Sep 2026 06:39:35 GMT",
-      "ts": 1790577575
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen nudges lower despite a hawkish BoJ, intervention warnings",
-      "link": "https://www.fxstreet.com/news/japanese-yen-nudges-lower-despite-a-hawkish-boj-intervention-warnings-202609280633",
-      "published": "Mon, 28 Sep 2026 06:33:24 GMT",
-      "ts": 1790577204
-    },
-    {
       "source": "CoinDesk",
       "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
       "link": "https://www.coindesk.com/markets/2026/09/28/california-s-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump",
@@ -64,20 +92,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
       "published": "Mon, 28 Sep 2026 06:21:06 +0000",
       "ts": 1790576466
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY: Weekly review highlights Dollar strength – MUFG",
-      "link": "https://www.fxstreet.com/news/usd-jpy-weekly-review-highlights-dollar-strength-mufg-202609280620",
-      "published": "Mon, 28 Sep 2026 06:20:34 GMT",
-      "ts": 1790576434
-    },
-    {
-      "source": "FXStreet",
-      "title": "India rates: Spreads seen narrowing further – DBS",
-      "link": "https://www.fxstreet.com/news/india-rates-spreads-seen-narrowing-further-dbs-202609280619",
-      "published": "Mon, 28 Sep 2026 06:19:11 GMT",
-      "ts": 1790576351
     },
     {
       "source": "CoinTelegraph",
@@ -99,13 +113,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 04:57:00 +0000",
       "ts": 1790571420
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies weaken as dollar holds near two-month high, yen slips",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
-      "published": "2026-09-28 04:49:36",
-      "ts": 1790570976
     },
     {
       "source": "CoinTelegraph",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/moomoo-sees-50-jump-in-crypto-buyers-as-retail-demand-broadens-4915966",
       "published": "2026-09-24 17:33:12",
       "ts": 1790271192
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Buy USDT Gift Card: USDT Gift Card Announces Digital Gifting Service With Free Redemption",
-      "link": "https://www.investing.com/news/cryptocurrency-news/buy-usdt-gift-card-usdt-gift-card-announces-digital-gifting-service-with-free-redemption-4915636",
-      "published": "2026-09-24 14:00:38",
-      "ts": 1790258438
     }
   ]
 }
