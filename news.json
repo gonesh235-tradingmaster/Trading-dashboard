@@ -1,7 +1,98 @@
 {
-  "updated": "2026-09-28T09:16:46.664284Z",
+  "updated": "2026-09-28T09:42:42.666926Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "S&P 500: Equities resilient despite rates selloff – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/sp-500-equities-resilient-despite-rates-selloff-deutsche-bank-202609280942",
+      "published": "Mon, 28 Sep 2026 09:42:30 GMT",
+      "ts": 1790588550
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro consolidates losses below 1.1400 amid higher Oil prices, risk-off markets",
+      "link": "https://www.fxstreet.com/news/euro-consolidates-losses-below-11400-amid-higher-oil-prices-risk-off-markets-202609280941",
+      "published": "Mon, 28 Sep 2026 09:41:39 GMT",
+      "ts": 1790588499
+    },
+    {
+      "source": "FXStreet",
+      "title": "Global markets: War and peace risk narrative – Rabobank",
+      "link": "https://www.fxstreet.com/news/global-markets-war-and-peace-risk-narrative-rabobank-202609280937",
+      "published": "Mon, 28 Sep 2026 09:37:34 GMT",
+      "ts": 1790588254
+    },
+    {
+      "source": "FXStreet",
+      "title": "Brent: Oil climbs on Middle East tensions – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/brent-oil-climbs-on-middle-east-tensions-deutsche-bank-202609280936",
+      "published": "Mon, 28 Sep 2026 09:36:26 GMT",
+      "ts": 1790588186
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609280933",
+      "published": "Mon, 28 Sep 2026 09:33:44 GMT",
+      "ts": 1790588024
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Breakout risks versus fading outlook – Societe Generale",
+      "link": "https://www.fxstreet.com/news/us-dollar-breakout-risks-versus-fading-outlook-societe-generale-202609280932",
+      "published": "Mon, 28 Sep 2026 09:32:41 GMT",
+      "ts": 1790587961
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
+      "link": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 09:32:00 GMT",
+      "ts": 1790587920
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin bears pay to bet on further declines as futures positions near yearly lows",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
+      "published": "Mon, 28 Sep 2026 09:29:34 +0000",
+      "ts": 1790587774
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD: Key support test as RBA looms – Societe Generale",
+      "link": "https://www.fxstreet.com/news/aud-usd-key-support-test-as-rba-looms-societe-generale-202609280929",
+      "published": "Mon, 28 Sep 2026 09:29:29 GMT",
+      "ts": 1790587769
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold Price Forecast: XAU/USD remains vulnerable as sellers target $4,000",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-remains-vulnerable-as-sellers-target-4-000-202609280926",
+      "published": "Mon, 28 Sep 2026 09:26:52 GMT",
+      "ts": 1790587612
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
+      "link": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 09:19:50 +0000",
+      "ts": 1790587190
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Slips below nine-day EMA, 157.00",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-slips-below-nine-day-ema-15700-202609280918",
+      "published": "Mon, 28 Sep 2026 09:18:30 GMT",
+      "ts": 1790587110
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I feel like he’s holding me back’: I have $8 million. My husband resents my success. Should I pay for more things?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 09:15:00 GMT",
+      "ts": 1790586900
+    },
     {
       "source": "CoinTelegraph",
       "title": "Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open",
@@ -17,67 +108,11 @@
       "ts": 1790586120
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: BOJ back-to-back hike risk – Rabobank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-back-to-back-hike-risk-rabobank-202609280900",
-      "published": "Mon, 28 Sep 2026 09:00:25 GMT",
-      "ts": 1790586025
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japan’s Mimura reiterates fears US-Japan joint intervention",
-      "link": "https://www.fxstreet.com/news/japans-mimura-reiterates-fears-us-japan-joint-intervention-202609280900",
-      "published": "Mon, 28 Sep 2026 09:00:15 GMT",
-      "ts": 1790586015
-    },
-    {
       "source": "MarketWatch",
       "title": "‘Sex and the City’ star Chris Noth is selling his ‘breathtaking’ Greenwich Village apartment for $1.5 million",
       "link": "https://www.marketwatch.com/story/sex-and-the-city-star-chris-noth-is-selling-his-breathtaking-greenwich-village-apartment-for-1-5-million-e9685111?mod=mw_rss_topstories",
       "published": "Mon, 28 Sep 2026 08:58:00 GMT",
       "ts": 1790585880
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro underperforms against Japanese Yen amid Japan’s intervention fears",
-      "link": "https://www.fxstreet.com/news/euro-underperforms-against-japanese-yen-amid-japans-intervention-fears-202609280847",
-      "published": "Mon, 28 Sep 2026 08:47:34 GMT",
-      "ts": 1790585254
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound hits two-week low vs firmer Yen amid BoJ rate hike bets, intervention risks",
-      "link": "https://www.fxstreet.com/news/british-pound-hits-two-week-low-vs-firmer-yen-amid-boj-rate-hike-bets-intervention-risks-202609280847",
-      "published": "Mon, 28 Sep 2026 08:47:01 GMT",
-      "ts": 1790585221
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold: Downtrend persists below 200dma – Societe Generale",
-      "link": "https://www.fxstreet.com/news/gold-downtrend-persists-below-200dma-societe-generale-202609280846",
-      "published": "Mon, 28 Sep 2026 08:46:36 GMT",
-      "ts": 1790585196
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index remains stronger as hawkish Fed signals drive rate hike bets",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-remains-stronger-as-hawkish-fed-signals-drive-rate-hike-bets-202609280846",
-      "published": "Mon, 28 Sep 2026 08:46:14 GMT",
-      "ts": 1790585174
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar: RBA faces rates squeeze – Rabobank",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-faces-rates-squeeze-rabobank-202609280845",
-      "published": "Mon, 28 Sep 2026 08:45:45 GMT",
-      "ts": 1790585145
-    },
-    {
-      "source": "FXStreet",
-      "title": "US 10-year yields: New range highs with limited relief – Societe Generale",
-      "link": "https://www.fxstreet.com/news/us-10-year-yields-new-range-highs-with-limited-relief-societe-generale-202609280844",
-      "published": "Mon, 28 Sep 2026 08:44:56 GMT",
-      "ts": 1790585096
     },
     {
       "source": "Investing Forex",
@@ -171,13 +206,6 @@
       "ts": 1790567932
     },
     {
-      "source": "FXStreet",
-      "title": "Gold slumps below $4,150, fresh low since August 5 amid oil-fueled Fed hike bets",
-      "link": "https://www.fxstreet.com/news/breaking-gold-weakens-below-4-200-lowest-since-august-5-202609280310",
-      "published": "Mon, 28 Sep 2026 03:10:33 GMT",
-      "ts": 1790565033
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Newsom signs California ban on public officials issuing memecoins",
       "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -248,20 +276,6 @@
       "ts": 1790524800
     },
     {
-      "source": "MarketWatch",
-      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-      "published": "Sun, 27 Sep 2026 15:15:00 GMT",
-      "ts": 1790522100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "published": "Sun, 27 Sep 2026 15:00:00 GMT",
-      "ts": 1790521200
-    },
-    {
       "source": "CoinDesk",
       "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
       "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
@@ -281,13 +295,6 @@
       "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
       "published": "Sun, 27 Sep 2026 12:00:00 +0000",
       "ts": 1790510400
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Riot Platforms repays $200M credit facility, releases collateral",
-      "link": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 27 Sep 2026 09:57:19 +0000",
-      "ts": 1790503039
     },
     {
       "source": "Investing Crypto",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
       "published": "2026-09-26 12:27:32",
       "ts": 1790425652
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-      "published": "Sat, 26 Sep 2026 12:00:00 +0000",
-      "ts": 1790424000
     },
     {
       "source": "Investing Forex",
