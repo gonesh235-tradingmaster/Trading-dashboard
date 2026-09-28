@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T18:34:21.956365Z",
+  "updated": "2026-09-28T18:57:03.378282Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Spending $800 to see my family this Thanksgiving is a financial burden. How can I push for a cheaper flight?",
+      "link": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 18:40:00 GMT",
+      "ts": 1790620800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US SEC follows CFTC in staff guidance for crypto",
+      "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 18:39:09 +0000",
+      "ts": 1790620749
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen trades cautiously as intervention risk clashes with Fed rate hike bets",
@@ -171,13 +185,6 @@
       "ts": 1790607600
     },
     {
-      "source": "MarketWatch",
-      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
-      "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 14:57:00 GMT",
-      "ts": 1790607420
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
       "link": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -330,13 +337,6 @@
       "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
       "published": "Mon, 28 Sep 2026 10:02:37 +0000",
       "ts": 1790589757
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Hong Kong regulators expand financial reporting oversight to licensed crypto firms",
-      "link": "https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 09:58:31 +0000",
-      "ts": 1790589511
     },
     {
       "source": "Investing Forex",
