@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-28T17:45:55.238442Z",
+  "updated": "2026-09-28T18:12:42.262508Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: The RBA and Fedspeak grab all the attention",
+      "link": "https://www.fxstreet.com/news/forex-today-the-rba-and-fedspeak-grab-all-the-attention-202609281808",
+      "published": "Mon, 28 Sep 2026 18:08:40 GMT",
+      "ts": 1790618920
+    },
+    {
+      "source": "FXStreet",
+      "title": "US 10-year yield revisits 2007 heights as curve flirts with inversion",
+      "link": "https://www.fxstreet.com/news/us-10-year-yield-revisits-2007-heights-as-curve-flirts-with-inversion-202609281803",
+      "published": "Mon, 28 Sep 2026 18:03:33 GMT",
+      "ts": 1790618613
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+      "link": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 18:02:54 +0000",
+      "ts": 1790618574
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
+      "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
+      "published": "Mon, 28 Sep 2026 18:00:00 +0000",
+      "ts": 1790618400
+    },
     {
       "source": "FXStreet",
       "title": "Crude Oil round-trips between a rejected Iran plan and a sanctions offer",
@@ -115,13 +143,6 @@
       "ts": 1790609433
     },
     {
-      "source": "FXStreet",
-      "title": "Euro struggles as Fed rate-hike bets overshadow ECB tightening expectations",
-      "link": "https://www.fxstreet.com/news/euro-struggles-as-fed-rate-hike-bets-overshadow-ecb-tightening-expectations-202609281522",
-      "published": "Mon, 28 Sep 2026 15:22:31 GMT",
-      "ts": 1790608951
-    },
-    {
       "source": "MarketWatch",
       "title": "These Gen Z-ers are choosing ETFs over sports bets. How younger investors told us they’re building wealth.",
       "link": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
@@ -148,13 +169,6 @@
       "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
       "published": "Mon, 28 Sep 2026 14:57:00 GMT",
       "ts": 1790607420
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD: Speculative shorts rise as gains versus Dollar fade – Rabobank",
-      "link": "https://www.fxstreet.com/news/aud-speculative-shorts-rise-as-gains-versus-dollar-fade-rabobank-202609281455",
-      "published": "Mon, 28 Sep 2026 14:55:56 GMT",
-      "ts": 1790607356
     },
     {
       "source": "MarketWatch",
@@ -312,7 +326,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips back to $83,000 as bond yields surge to new cycle highs",
+      "title": "Live updates: Bitcoin pulls off worst levels as oil dips on Iran deal hopes",
       "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
       "published": "Mon, 28 Sep 2026 10:02:37 +0000",
       "ts": 1790589757
@@ -325,25 +339,11 @@
       "ts": 1790589511
     },
     {
-      "source": "CoinDesk",
-      "title": "Eyes on key U.S. employment data as crypto bulls take a breather: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-rally-takes-a-breather-ahead-of-key-u-s-employment-data-crypto-week-ahead",
-      "published": "Mon, 28 Sep 2026 09:45:55 +0000",
-      "ts": 1790588755
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound edges higher as U.S. data tests dollar rally",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-us-data-tests-dollar-rally-4919636",
       "published": "2026-09-28 09:34:08",
       "ts": 1790588048
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
-      "link": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 09:19:50 +0000",
-      "ts": 1790587190
     },
     {
       "source": "Investing Crypto",
