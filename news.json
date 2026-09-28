@@ -1,7 +1,77 @@
 {
-  "updated": "2026-09-28T13:17:57.315259Z",
+  "updated": "2026-09-28T13:44:08.783158Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Lagarde: ECB sticks to “middle path” as inflation outlook worsens",
+      "link": "https://www.fxstreet.com/news/lagarde-ecb-sticks-to-middle-path-as-inflation-outlook-worsens-202609281339",
+      "published": "Mon, 28 Sep 2026 13:39:22 GMT",
+      "ts": 1790602762
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Taking Ozempic and worried about vision loss? This test can help you understand your risk.",
+      "link": "https://www.marketwatch.com/story/taking-ozempic-a-routine-eye-exam-could-help-you-understand-your-risk-for-vision-loss-3392c1a0?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 13:36:00 GMT",
+      "ts": 1790602560
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 13:32:34 +0000",
+      "ts": 1790602354
+    },
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX sends its Starship rocket to orbit for the first time",
+      "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 13:32:00 GMT",
+      "ts": 1790602320
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Altseason is coming — and traders are more discerning this time",
+      "link": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 13:30:00 +0000",
+      "ts": 1790602200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The history of this market’s bad-breadth signal points to risks ahead",
+      "link": "https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 13:30:00 GMT",
+      "ts": 1790602200
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips to $83k amid pressure from high yields, Iran tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
+      "published": "2026-09-28 13:27:14",
+      "ts": 1790602034
+    },
+    {
+      "source": "FXStreet",
+      "title": "Bonds: Yields challenge equity valuations – BBH",
+      "link": "https://www.fxstreet.com/news/bonds-yields-challenge-equity-valuations-bbh-202609281324",
+      "published": "Mon, 28 Sep 2026 13:24:59 GMT",
+      "ts": 1790601899
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Fed hiking path and data risks – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-hiking-path-and-data-risks-td-securities-202609281320",
+      "published": "Mon, 28 Sep 2026 13:20:54 GMT",
+      "ts": 1790601654
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
+      "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 13:20:00 GMT",
+      "ts": 1790601600
+    },
     {
       "source": "CoinDesk",
       "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
@@ -31,13 +101,6 @@
       "ts": 1790599500
     },
     {
-      "source": "MarketWatch",
-      "title": "Taking Ozempic? A routine eye exam could help you understand your risk for vision loss.",
-      "link": "https://www.marketwatch.com/story/taking-ozempic-a-routine-eye-exam-could-help-you-understand-your-risk-for-vision-loss-3392c1a0?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 12:42:00 GMT",
-      "ts": 1790599320
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
       "link": "https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -50,13 +113,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-as-us-canada-yield-gap-widens-202609281235",
       "published": "Mon, 28 Sep 2026 12:35:23 GMT",
       "ts": 1790598923
-    },
-    {
-      "source": "MarketWatch",
-      "title": "SpaceX is moments away from monumental Starship launch",
-      "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 12:35:00 GMT",
-      "ts": 1790598900
     },
     {
       "source": "CoinDesk",
@@ -101,13 +157,6 @@
       "ts": 1790597159
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin falls to $83k amid pressure from high yields, Iran tensions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
-      "published": "2026-09-28 11:55:00",
-      "ts": 1790596500
-    },
-    {
       "source": "MarketWatch",
       "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
       "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
@@ -130,45 +179,10 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The history of this market’s bad-breadth signal points to risks ahead",
-      "link": "https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 11:26:00 GMT",
-      "ts": 1790594760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
-      "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 11:21:00 GMT",
-      "ts": 1790594460
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound gains as several BoE members warn of upside inflation risks",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-as-several-boe-members-warn-of-upside-inflation-risks-202609281120",
-      "published": "Mon, 28 Sep 2026 11:20:23 GMT",
-      "ts": 1790594423
-    },
-    {
-      "source": "FXStreet",
-      "title": "Oil: Higher prices drive yields and Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/oil-higher-prices-drive-yields-and-dollar-mufg-202609281117",
-      "published": "Mon, 28 Sep 2026 11:17:24 GMT",
-      "ts": 1790594244
-    },
-    {
-      "source": "MarketWatch",
       "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
       "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
       "published": "Mon, 28 Sep 2026 11:15:00 GMT",
       "ts": 1790594100
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/GBP Price Forecast: Euro tests support at 0.8570 as Oil prices rally",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-euro-tests-support-at-08570-hurt-by-rallying-oil-prices-202609281113",
-      "published": "Mon, 28 Sep 2026 11:13:14 GMT",
-      "ts": 1790593994
     },
     {
       "source": "CoinTelegraph",
@@ -316,20 +330,6 @@
       "link": "https://www.fxstreet.com/news/indian-rupee-starts-the-week-negatively-amid-higher-oil-prices-202609280540",
       "published": "Mon, 28 Sep 2026 05:40:03 GMT",
       "ts": 1790574003
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 04:57:00 +0000",
-      "ts": 1790571420
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
-      "link": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 04:44:15 +0000",
-      "ts": 1790570655
     },
     {
       "source": "Investing Crypto",
