@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T16:55:43.249366Z",
+  "updated": "2026-09-28T17:12:02.783425Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
+      "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 17:10:00 GMT",
+      "ts": 1790615400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron has a chance to set the record straight with its earnings report",
+      "link": "https://www.marketwatch.com/story/micron-has-a-chance-to-set-the-record-straight-with-its-earnings-report-a98fb935?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 16:58:00 GMT",
+      "ts": 1790614680
+    },
     {
       "source": "CoinTelegraph",
       "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
@@ -155,20 +169,6 @@
       "link": "https://www.fxstreet.com/news/usd-cad-overbought-but-seen-sideways-into-year-end-rabobank-202609281427",
       "published": "Mon, 28 Sep 2026 14:27:54 GMT",
       "ts": 1790605674
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These surprising risk factors may explain why some older people are more vulnerable to scams",
-      "link": "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 14:12:00 GMT",
-      "ts": 1790604720
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 14:11:00 GMT",
-      "ts": 1790604660
     },
     {
       "source": "FXStreet",
