@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-27T23:50:47.780260Z",
+  "updated": "2026-09-28T00:15:06.416050Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "BoJ Minutes: Members agree financial conditions remain accommodative",
+      "link": "https://www.fxstreet.com/news/boj-minutes-members-agree-financial-conditions-remain-accommodative-202609272353",
+      "published": "Sun, 27 Sep 2026 23:53:51 GMT",
+      "ts": 1790553231
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 27 Sep 2026 23:43:18 +0000",
+      "ts": 1790552598
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar softens to near 0.7000 on hawkish Fed signals, RBA rate decision looms",
@@ -311,25 +325,11 @@
       "ts": 1790362832
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-      "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 18:56:53 +0000",
-      "ts": 1790362613
-    },
-    {
       "source": "FXStreet",
       "title": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854",
       "published": "Fri, 25 Sep 2026 18:54:44 GMT",
       "ts": 1790362484
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB’s Vujcic warns energy shock could keep inflation hot",
-      "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834",
-      "published": "Fri, 25 Sep 2026 18:34:02 GMT",
-      "ts": 1790361242
     },
     {
       "source": "Investing Crypto",
