@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T20:09:08.594651Z",
+  "updated": "2026-09-28T20:26:42.547867Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold price crashes as 2007-era yields trigger brutal sell-off",
+      "link": "https://www.fxstreet.com/news/gold-price-crashes-as-2007-era-yields-trigger-brutal-sell-off-202609282019",
+      "published": "Mon, 28 Sep 2026 20:19:49 GMT",
+      "ts": 1790626789
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar pinned at two-month high as bond rout extends, Fed rate hike bets rise",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
+      "published": "2026-09-28 20:07:07",
+      "ts": 1790626027
+    },
     {
       "source": "MarketWatch",
       "title": "Before you invest in the Oura IPO, understand what you’re buying",
@@ -185,13 +199,6 @@
       "ts": 1790610679
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD plunges 5% as momentum indicators turn bearish",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plunges-5-as-momentum-indicators-turn-bearish-202609281539",
-      "published": "Mon, 28 Sep 2026 15:39:09 GMT",
-      "ts": 1790609949
-    },
-    {
       "source": "Investing Crypto",
       "title": "AlgoQuant Asset Management Selects Liquid Mercury to Enhance Digital Asset Trading Infrastructure",
       "link": "https://www.investing.com/news/cryptocurrency-news/algoquant-asset-management-selects-liquid-mercury-to-enhance-digital-asset-trading-infrastructure-4920777",
@@ -211,13 +218,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/aster-launches-perpetual-grid-trading-20-with-up-to-140000-aster-liquidity-mining-campaign-4920719",
       "published": "2026-09-28 14:30:35",
       "ts": 1790605835
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar holds near two-month high as oil, data bolster Fed rate bets",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
-      "published": "2026-09-28 14:06:49",
-      "ts": 1790604409
     },
     {
       "source": "CoinTelegraph",
