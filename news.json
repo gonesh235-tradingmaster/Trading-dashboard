@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-28T08:18:54.596622Z",
+  "updated": "2026-09-28T08:42:33.952933Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Pound dives below 208.00 following rejection at 209.00",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-pound-dives-below-20800-following-rejection-at-20900-202609280837",
+      "published": "Mon, 28 Sep 2026 08:37:14 GMT",
+      "ts": 1790584634
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP: Inflation risks and weak growth outlook – HSBC",
+      "link": "https://www.fxstreet.com/news/gbp-inflation-risks-and-weak-growth-outlook-hsbc-202609280836",
+      "published": "Mon, 28 Sep 2026 08:36:52 GMT",
+      "ts": 1790584612
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro gains against Canadian Dollar as ECB-BoC rate gap widens",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-as-ecb-boc-rate-gap-widens-202609280830",
+      "published": "Mon, 28 Sep 2026 08:30:47 GMT",
+      "ts": 1790584247
+    },
+    {
+      "source": "Investing Forex",
+      "title": "German yields pause traders weigh sticky energy inflation in data packed week",
+      "link": "https://www.investing.com/news/forex-news/german-yields-pause-traders-weigh-sticky-energy-inflation-in-data-packed-week-4919522",
+      "published": "2026-09-28 08:26:09",
+      "ts": 1790583969
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 08:24:40 +0000",
+      "ts": 1790583880
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar outperforms as RBA looks set to hike interest rates on Tuesday",
+      "link": "https://www.fxstreet.com/news/australian-dollar-outperforms-as-rba-looks-set-to-hike-interest-rates-on-tuesday-202609280818",
+      "published": "Mon, 28 Sep 2026 08:18:51 GMT",
+      "ts": 1790583531
+    },
     {
       "source": "FXStreet",
       "title": "Dow Jones futures drop as rising oil, US Treasury yields fuel Fed rate hike fears",
@@ -45,20 +87,6 @@
       "ts": 1790580590
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/GBP Price Forecast: Fails at 0.8610 amid higher Oil prices, BoE hawkishness",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-fails-at-08610-amid-higher-oil-prices-boe-hawkishness-202609280728",
-      "published": "Mon, 28 Sep 2026 07:28:00 GMT",
-      "ts": 1790580480
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar: Hawkish RBA hike expectations – ING",
-      "link": "https://www.fxstreet.com/news/australian-dollar-hawkish-rba-hike-expectations-ing-202609280727",
-      "published": "Mon, 28 Sep 2026 07:27:31 GMT",
-      "ts": 1790580451
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips to $83,119, bears eye $81,194: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
@@ -71,20 +99,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
       "published": "2026-09-28 07:11:02",
       "ts": 1790579462
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: Holds gains above 1.4150, while technicals flag overbought risk",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-holds-gains-above-14150-while-technicals-flag-overbought-risk-202609280658",
-      "published": "Mon, 28 Sep 2026 06:58:29 GMT",
-      "ts": 1790578709
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah: Rate support erodes as outflows resume – MUFG",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-rate-support-erodes-as-outflows-resume-mufg-202609280657",
-      "published": "Mon, 28 Sep 2026 06:57:17 GMT",
-      "ts": 1790578637
     },
     {
       "source": "Investing Crypto",
@@ -115,13 +129,6 @@
       "ts": 1790574165
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee declines as oil prices rise over weekend",
-      "link": "https://www.fxstreet.com/news/indian-rupee-starts-the-week-negatively-amid-higher-oil-prices-202609280540",
-      "published": "Mon, 28 Sep 2026 05:40:03 GMT",
-      "ts": 1790574003
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -141,6 +148,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
       "published": "Mon, 28 Sep 2026 03:58:52 +0000",
       "ts": 1790567932
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold falls to $4,150 as oil-driven inflation fears lift Fed hike bets and US bond yields",
+      "link": "https://www.fxstreet.com/news/breaking-gold-weakens-below-4-200-lowest-since-august-5-202609280310",
+      "published": "Mon, 28 Sep 2026 03:10:33 GMT",
+      "ts": 1790565033
     },
     {
       "source": "CoinTelegraph",
@@ -290,13 +304,6 @@
       "ts": 1790431200
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Kalshi loses appeal, setting up potential Supreme Court case",
-      "link": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 26 Sep 2026 13:21:12 +0000",
-      "ts": 1790428872
-    },
-    {
       "source": "CoinDesk",
       "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
       "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-norwegian-krone-carry-trade-staying-attractive-93CH-4916921",
       "published": "2026-09-25 08:54:10",
       "ts": 1790326450
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees dollar-franc support from yield gap after SNB meeting",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-dollarfranc-support-from-yield-gap-after-snb-meeting-93CH-4916919",
-      "published": "2026-09-25 08:51:49",
-      "ts": 1790326309
     },
     {
       "source": "Investing Crypto",
