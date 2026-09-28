@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T20:43:30.718867Z",
+  "updated": "2026-09-28T20:58:05.312118Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take",
+      "link": "https://www.marketwatch.com/story/bond-yields-move-relentlessly-higher-as-wall-street-wonders-how-much-more-tech-stocks-can-take-dd050c39?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 20:43:00 GMT",
+      "ts": 1790628180
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
+      "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 20:41:44 +0000",
+      "ts": 1790628104
+    },
     {
       "source": "FXStreet",
       "title": "Dow Jones Industrial Average gives back Friday's rally on a Boeing delay",
@@ -164,13 +178,6 @@
       "ts": 1790616600
     },
     {
-      "source": "MarketWatch",
-      "title": "SpaceX sends its Starship rocket to orbit for the first time — but not without some hiccups",
-      "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 17:21:00 GMT",
-      "ts": 1790616060
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
       "link": "https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -288,13 +295,6 @@
       "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
       "published": "Mon, 28 Sep 2026 12:30:00 +0000",
       "ts": 1790598600
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 12:21:50 +0000",
-      "ts": 1790598110
     },
     {
       "source": "CoinDesk",
