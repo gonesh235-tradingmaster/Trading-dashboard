@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-28T02:27:58.703070Z",
+  "updated": "2026-09-28T02:44:40.900160Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar strengthens above 0.5650 on US-China truce extension",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-strengthens-above-05650-on-us-china-truce-extension-202609280243",
+      "published": "Mon, 28 Sep 2026 02:43:34 GMT",
+      "ts": 1790563414
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Bears await break below 0.7000 ahead of RBA on Tuesday",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bears-await-break-below-07000-ahead-of-rba-on-tuesday-202609280234",
+      "published": "Mon, 28 Sep 2026 02:34:53 GMT",
+      "ts": 1790562893
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Newsom signs California ban on public officials issuing memecoins",
+      "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 02:23:42 +0000",
+      "ts": 1790562222
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar falls as US-Canada rate gap seen widening further",
@@ -64,20 +85,6 @@
       "link": "https://www.fxstreet.com/news/euro-declines-below-11400-on-hawkish-fed-stance-ongoing-middle-east-tensions-202609280053",
       "published": "Mon, 28 Sep 2026 00:53:33 GMT",
       "ts": 1790556813
-    },
-    {
-      "source": "FXStreet",
-      "title": "US President Donald Trump says he will not rule out more Iran strikes",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-he-will-not-rule-out-more-iran-strikes-202609280019",
-      "published": "Mon, 28 Sep 2026 00:19:49 GMT",
-      "ts": 1790554789
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoJ Minutes: Members agree financial conditions remain accommodative",
-      "link": "https://www.fxstreet.com/news/boj-minutes-members-agree-financial-conditions-remain-accommodative-202609272353",
-      "published": "Sun, 27 Sep 2026 23:53:51 GMT",
-      "ts": 1790553231
     },
     {
       "source": "CoinTelegraph",
@@ -309,13 +316,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
       "published": "2026-09-25 20:52:20",
       "ts": 1790369540
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
-      "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 20:37:21 +0000",
-      "ts": 1790368641
     },
     {
       "source": "Investing Forex",
