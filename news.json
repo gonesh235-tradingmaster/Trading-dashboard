@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-28T16:13:25.720157Z",
+  "updated": "2026-09-28T16:33:12.513662Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia is right: Its stock is a bargain",
+      "link": "https://www.marketwatch.com/story/nvidia-is-right-its-stock-is-a-bargain-95cee6ca?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 16:29:00 GMT",
+      "ts": 1790612940
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD: Speculative longs steady as Fed hikes – Rabobank",
+      "link": "https://www.fxstreet.com/news/usd-speculative-longs-steady-as-fed-hikes-rabobank-202609281627",
+      "published": "Mon, 28 Sep 2026 16:27:11 GMT",
+      "ts": 1790612831
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+      "link": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
+      "published": "Mon, 28 Sep 2026 16:24:51 +0000",
+      "ts": 1790612691
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
+      "link": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
+      "published": "Mon, 28 Sep 2026 16:16:40 +0000",
+      "ts": 1790612200
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
@@ -129,13 +157,6 @@
       "ts": 1790604660
     },
     {
-      "source": "MarketWatch",
-      "title": "SpaceX sends its Starship rocket to orbit for the first time",
-      "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 14:11:00 GMT",
-      "ts": 1790604660
-    },
-    {
       "source": "FXStreet",
       "title": "British Pound gains against the Euro as traders assess central bank signals",
       "link": "https://www.fxstreet.com/news/british-pound-gains-against-the-euro-as-traders-assess-central-bank-signals-202609281410",
@@ -190,13 +211,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
       "published": "2026-09-28 13:27:14",
       "ts": 1790602034
-    },
-    {
-      "source": "FXStreet",
-      "title": "Bonds: Yields challenge equity valuations – BBH",
-      "link": "https://www.fxstreet.com/news/bonds-yields-challenge-equity-valuations-bbh-202609281324",
-      "published": "Mon, 28 Sep 2026 13:24:59 GMT",
-      "ts": 1790601899
     },
     {
       "source": "CoinDesk",
@@ -318,13 +332,6 @@
       "ts": 1790588048
     },
     {
-      "source": "CoinDesk",
-      "title": "Caution builds in the bitcoin market even as prices stay well above summer lows",
-      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
-      "published": "Mon, 28 Sep 2026 09:29:34 +0000",
-      "ts": 1790587774
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
       "link": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -337,13 +344,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-drops-under-83k-as-liquidity-hunting-keeps-bulls-from-targeting-yearly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 09:03:20 +0000",
       "ts": 1790586200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
-      "link": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
-      "published": "Mon, 28 Sep 2026 07:50:00 +0000",
-      "ts": 1790581800
     },
     {
       "source": "Investing Crypto",
