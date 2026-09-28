@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-28T05:28:40.935034Z",
+  "updated": "2026-09-28T05:45:55.351757Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee starts the week negatively amid higher oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-starts-the-week-negatively-amid-higher-oil-prices-202609280540",
+      "published": "Mon, 28 Sep 2026 05:40:03 GMT",
+      "ts": 1790574003
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Consolidates above 1.1350 pivotal support as bearish bias persists",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-consolidates-above-11350-pivotal-support-as-bearish-bias-persists-202609280539",
+      "published": "Mon, 28 Sep 2026 05:39:03 GMT",
+      "ts": 1790573943
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah struggles amid foreign-exchange demand, portfolio outflows",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-struggles-amid-foreign-exchange-demand-portfolio-outflows-202609280536",
+      "published": "Mon, 28 Sep 2026 05:36:00 GMT",
+      "ts": 1790573760
+    },
     {
       "source": "FXStreet",
       "title": "Asian stocks slip as oil prices rise, India's NIFTY falls below 23,000",
@@ -74,31 +95,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "United States Dollar Index trades flat at the start of the US NFP week",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-flat-at-the-start-of-the-us-nfp-week-202609280321",
-      "published": "Mon, 28 Sep 2026 03:21:16 GMT",
-      "ts": 1790565676
-    },
-    {
-      "source": "FXStreet",
       "title": "Gold seems vulnerable below $4,200, lowest since August 5 as Fed hike bets rise",
       "link": "https://www.fxstreet.com/news/breaking-gold-weakens-below-4-200-lowest-since-august-5-202609280310",
       "published": "Mon, 28 Sep 2026 03:10:33 GMT",
       "ts": 1790565033
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar strengthens above 0.5650 on US-China truce extension",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-strengthens-above-05650-on-us-china-truce-extension-202609280243",
-      "published": "Mon, 28 Sep 2026 02:43:34 GMT",
-      "ts": 1790563414
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Bears await break below 0.7000 ahead of RBA on Tuesday",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bears-await-break-below-07000-ahead-of-rba-on-tuesday-202609280234",
-      "published": "Mon, 28 Sep 2026 02:34:53 GMT",
-      "ts": 1790562893
     },
     {
       "source": "CoinTelegraph",
