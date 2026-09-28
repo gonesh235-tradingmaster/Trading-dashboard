@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-28T07:42:53.950404Z",
+  "updated": "2026-09-28T07:57:39.507870Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Data-driven consolidation risks – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-data-driven-consolidation-risks-ing-202609280753",
+      "published": "Mon, 28 Sep 2026 07:53:09 GMT",
+      "ts": 1790581989
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc weakens as US Dollar gains on Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-gains-on-fed-rate-hike-bets-202609280751",
+      "published": "Mon, 28 Sep 2026 07:51:00 GMT",
+      "ts": 1790581860
+    },
+    {
+      "source": "CoinDesk",
+      "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
+      "link": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
+      "published": "Mon, 28 Sep 2026 07:50:00 +0000",
+      "ts": 1790581800
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar gains despite hawkish Fed tone, Middle East tensions",
@@ -59,25 +80,11 @@
       "ts": 1790578637
     },
     {
-      "source": "FXStreet",
-      "title": "Forex Today: Gold slumps below $4,200 on hawkish Fed outlook, Mideast tensions",
-      "link": "https://www.fxstreet.com/news/forex-today-gold-slumps-below-4-200-on-hawkish-fed-outlook-mideast-tensions-202609280654",
-      "published": "Mon, 28 Sep 2026 06:54:30 GMT",
-      "ts": 1790578470
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin falls to $83k amid pressure from high yields, Iran tensions",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
       "published": "2026-09-28 06:53:49",
       "ts": 1790578429
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD falls like house of cards on Fed’s hawkish narrative",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-like-house-of-cards-on-feds-hawkish-narrative-202609280644",
-      "published": "Mon, 28 Sep 2026 06:44:49 GMT",
-      "ts": 1790577889
     },
     {
       "source": "CoinDesk",
@@ -316,13 +323,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
       "published": "Sat, 26 Sep 2026 12:00:00 +0000",
       "ts": 1790424000
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
-      "published": "Sat, 26 Sep 2026 05:00:00 +0000",
-      "ts": 1790398800
     },
     {
       "source": "Investing Forex",
