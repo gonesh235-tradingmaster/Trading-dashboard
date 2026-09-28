@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-28T03:17:20.659548Z",
+  "updated": "2026-09-28T03:43:18.865188Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc hits fresh low since May 2025, near 0.8300 vs USD amid Fed-SNB divergence",
+      "link": "https://www.fxstreet.com/news/swiss-franc-hits-fresh-low-since-may-2025-near-08300-vs-usd-amid-fed-snb-divergence-202609280329",
+      "published": "Mon, 28 Sep 2026 03:29:55 GMT",
+      "ts": 1790566195
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD falls to near $62.00 amid Fed rate hike odds",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6200-amid-fed-rate-hike-odds-202609280322",
+      "published": "Mon, 28 Sep 2026 03:22:09 GMT",
+      "ts": 1790565729
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index trades flat at the start of the US NFP week",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-flat-at-the-start-of-the-us-nfp-week-202609280321",
+      "published": "Mon, 28 Sep 2026 03:21:16 GMT",
+      "ts": 1790565676
+    },
     {
       "source": "FXStreet",
       "title": "Breaking: Gold weakens below $4,200, lowest since August 5",
@@ -57,27 +78,6 @@
       "link": "https://www.fxstreet.com/news/chinas-commerce-ministry-says-trade-ceasefire-with-us-to-be-extended-to-january-2027-202609280133",
       "published": "Mon, 28 Sep 2026 01:33:03 GMT",
       "ts": 1790559183
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound gains as US Dollar weakens despite hawkish Fed, geopolitical tensions",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-as-us-dollar-weakens-despite-hawkish-fed-geopolitical-tensions-202609280119",
-      "published": "Mon, 28 Sep 2026 01:19:11 GMT",
-      "ts": 1790558351
-    },
-    {
-      "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7399 vs. 6.7489 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67399-vs-67489-previous-202609280115",
-      "published": "Mon, 28 Sep 2026 01:15:44 GMT",
-      "ts": 1790558144
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen drifts lower vs bullish USD after BoJ Minutes as intervention risks loom",
-      "link": "https://www.fxstreet.com/news/japanese-yen-drifts-lower-vs-bullish-usd-after-boj-minutes-as-intervention-risks-loom-202609280110",
-      "published": "Mon, 28 Sep 2026 01:10:43 GMT",
-      "ts": 1790557843
     },
     {
       "source": "CoinTelegraph",
