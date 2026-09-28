@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-28T00:41:04.703139Z",
+  "updated": "2026-09-28T00:57:34.191441Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro declines below 1.1400 on hawkish Fed stance, ongoing Middle East tensions",
+      "link": "https://www.fxstreet.com/news/euro-declines-below-11400-on-hawkish-fed-stance-ongoing-middle-east-tensions-202609280053",
+      "published": "Mon, 28 Sep 2026 00:53:33 GMT",
+      "ts": 1790556813
+    },
     {
       "source": "FXStreet",
       "title": "US President Donald Trump says he will not rule out more Iran strikes",
@@ -323,13 +330,6 @@
       "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-keeps-yuan-broadly-stable-societe-generale-202609251931",
       "published": "Fri, 25 Sep 2026 19:31:00 GMT",
       "ts": 1790364660
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
-      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-still-isnt-restrictive-despite-high-inflation-202609251900",
-      "published": "Fri, 25 Sep 2026 19:00:32 GMT",
-      "ts": 1790362832
     },
     {
       "source": "Investing Crypto",
