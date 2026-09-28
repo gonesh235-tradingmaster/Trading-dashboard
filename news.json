@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T15:30:42.623402Z",
+  "updated": "2026-09-28T15:55:57.438364Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound defies US yields surge as BoE hike bets build",
+      "link": "https://www.fxstreet.com/news/british-pound-defies-us-yields-surge-as-boe-hike-bets-build-202609281551",
+      "published": "Mon, 28 Sep 2026 15:51:19 GMT",
+      "ts": 1790610679
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD plunges 5% as momentum indicators turn bearish",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plunges-5-as-momentum-indicators-turn-bearish-202609281539",
+      "published": "Mon, 28 Sep 2026 15:39:09 GMT",
+      "ts": 1790609949
+    },
     {
       "source": "FXStreet",
       "title": "GBP: Shorts at highs as Pound tracks Oil-led USD rally – Rabobank",
@@ -185,25 +199,11 @@
       "ts": 1790601899
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Fed hiking path and data risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-hiking-path-and-data-risks-td-securities-202609281320",
-      "published": "Mon, 28 Sep 2026 13:20:54 GMT",
-      "ts": 1790601654
-    },
-    {
       "source": "CoinDesk",
       "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
       "link": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
       "published": "Mon, 28 Sep 2026 13:06:11 +0000",
       "ts": 1790600771
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar holds steady as RBA rate hike expectations balance elevated US yields",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-steady-as-rba-rate-hike-expectations-balance-elevated-us-yields-202609281248",
-      "published": "Mon, 28 Sep 2026 12:48:53 GMT",
-      "ts": 1790599733
     },
     {
       "source": "Investing Forex",
@@ -263,7 +263,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold slides over 3% as traders weigh Fed outlook, latest US-Iran developments",
+      "title": "Gold tumbles over 3.5% as Fed rate-hike bets, surging US Treasury yields weigh",
       "link": "https://www.fxstreet.com/news/gold-slides-nearly-3-as-fed-hike-bets-rising-treasury-yields-weigh-202609281103",
       "published": "Mon, 28 Sep 2026 11:03:54 GMT",
       "ts": 1790593434
