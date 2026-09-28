@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-28T01:52:51.830378Z",
+  "updated": "2026-09-28T02:09:47.814385Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI sticks to modest gains above $92.00 amid Middle East jitters",
+      "link": "https://www.fxstreet.com/news/wti-sticks-to-modest-gains-above-9200-amid-middle-east-jitters-202609280156",
+      "published": "Mon, 28 Sep 2026 01:56:32 GMT",
+      "ts": 1790560592
+    },
     {
       "source": "FXStreet",
       "title": "Gold tumbles to near $4,200 as hawkish Fed signals and stronger US Dollar pressure bullion",
@@ -78,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-softens-to-near-07000-on-hawkish-fed-signals-rba-rate-decision-looms-202609272323",
       "published": "Sun, 27 Sep 2026 23:23:33 GMT",
       "ts": 1790551413
-    },
-    {
-      "source": "FXStreet",
-      "title": "Middle East War updates: Trump says he expects renewed Iran talks this week",
-      "link": "https://www.fxstreet.com/news/middle-east-war-updates-trump-says-he-expects-renewed-iran-talks-this-week-202609272231",
-      "published": "Sun, 27 Sep 2026 22:31:35 GMT",
-      "ts": 1790548295
     },
     {
       "source": "MarketWatch",
