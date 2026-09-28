@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-28T06:14:03.578013Z",
+  "updated": "2026-09-28T06:40:28.464919Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen nudges lower despite a hawkish BoJ, intervention warnings",
+      "link": "https://www.fxstreet.com/news/japanese-yen-nudges-lower-despite-a-hawkish-boj-intervention-warnings-202609280633",
+      "published": "Mon, 28 Sep 2026 06:33:24 GMT",
+      "ts": 1790577204
+    },
+    {
+      "source": "CoinDesk",
+      "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
+      "link": "https://www.coindesk.com/markets/2026/09/28/california-s-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump",
+      "published": "Mon, 28 Sep 2026 06:21:52 +0000",
+      "ts": 1790576512
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
+      "link": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
+      "published": "Mon, 28 Sep 2026 06:21:06 +0000",
+      "ts": 1790576466
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY: Weekly review highlights Dollar strength – MUFG",
+      "link": "https://www.fxstreet.com/news/usd-jpy-weekly-review-highlights-dollar-strength-mufg-202609280620",
+      "published": "Mon, 28 Sep 2026 06:20:34 GMT",
+      "ts": 1790576434
+    },
+    {
+      "source": "FXStreet",
+      "title": "India rates: Spreads seen narrowing further – DBS",
+      "link": "https://www.fxstreet.com/news/india-rates-spreads-seen-narrowing-further-dbs-202609280619",
+      "published": "Mon, 28 Sep 2026 06:19:11 GMT",
+      "ts": 1790576351
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Cyclical support and energy resilience – HSBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-cyclical-support-and-energy-resilience-hsbc-202609280617",
+      "published": "Mon, 28 Sep 2026 06:17:30 GMT",
+      "ts": 1790576250
+    },
     {
       "source": "FXStreet",
       "title": "WTI rises above $93.00 after Trump rejects Iran peace deal",
@@ -66,13 +108,6 @@
       "ts": 1790570976
     },
     {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609280444",
-      "published": "Mon, 28 Sep 2026 04:44:17 GMT",
-      "ts": 1790570657
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
       "link": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -80,32 +115,11 @@
       "ts": 1790570655
     },
     {
-      "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Recovers above 110.50, but technical outlook stays bearish",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-recovers-above-11050-but-technical-outlook-stays-bearish-202609280436",
-      "published": "Mon, 28 Sep 2026 04:36:18 GMT",
-      "ts": 1790570178
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Eyes nine-day EMA barrier near 180.00",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-eyes-nine-day-ema-barrier-near-18000-202609280422",
-      "published": "Mon, 28 Sep 2026 04:22:14 GMT",
-      "ts": 1790569334
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
       "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
       "published": "Mon, 28 Sep 2026 03:58:52 +0000",
       "ts": 1790567932
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold seems vulnerable below $4,200, lowest since August 5 as Fed hike bets rise",
-      "link": "https://www.fxstreet.com/news/breaking-gold-weakens-below-4-200-lowest-since-august-5-202609280310",
-      "published": "Mon, 28 Sep 2026 03:10:33 GMT",
-      "ts": 1790565033
     },
     {
       "source": "CoinTelegraph",
@@ -295,20 +309,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
       "published": "Sat, 26 Sep 2026 05:00:00 +0000",
       "ts": 1790398800
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
-      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
-      "published": "Sat, 26 Sep 2026 04:30:00 +0000",
-      "ts": 1790397000
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
-      "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
-      "published": "Fri, 25 Sep 2026 22:17:38 +0000",
-      "ts": 1790374658
     },
     {
       "source": "Investing Forex",
