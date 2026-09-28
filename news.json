@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T01:14:59.729383Z",
+  "updated": "2026-09-28T01:30:57.411465Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound gains as US Dollar weakens despite hawkish Fed, geopolitical tensions",
+      "link": "https://www.fxstreet.com/news/british-pound-gains-as-us-dollar-weakens-despite-hawkish-fed-geopolitical-tensions-202609280119",
+      "published": "Mon, 28 Sep 2026 01:19:11 GMT",
+      "ts": 1790558351
+    },
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7399 vs. 6.7489 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67399-vs-67489-previous-202609280115",
+      "published": "Mon, 28 Sep 2026 01:15:44 GMT",
+      "ts": 1790558144
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen drifts lower vs bullish USD after BoJ Minutes as intervention risks loom",
@@ -302,20 +316,6 @@
       "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 20:37:21 +0000",
       "ts": 1790368641
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Treasury yields rise as 30-year bond hits 22-year high",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022",
-      "published": "Fri, 25 Sep 2026 20:22:47 GMT",
-      "ts": 1790367767
-    },
-    {
-      "source": "FXStreet",
-      "title": "South Korean Won: Trade surplus seen widening – ING",
-      "link": "https://www.fxstreet.com/news/south-korean-won-trade-surplus-seen-widening-ing-202609252012",
-      "published": "Fri, 25 Sep 2026 20:12:00 GMT",
-      "ts": 1790367120
     },
     {
       "source": "Investing Forex",
