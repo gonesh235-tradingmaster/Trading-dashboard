@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-28T15:55:57.438364Z",
+  "updated": "2026-09-28T16:13:25.720157Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 16:00:00 GMT",
+      "ts": 1790611200
+    },
     {
       "source": "FXStreet",
       "title": "British Pound defies US yields surge as BoE hike bets build",
@@ -155,13 +162,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-as-wider-yield-gap-and-softer-oil-weigh-on-loonie-4920618",
       "published": "2026-09-28 13:58:08",
       "ts": 1790603888
-    },
-    {
-      "source": "MarketWatch",
-      "title": "MongoDB’s stock is down more than 20% as CEO decamps to Meta",
-      "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 13:57:00 GMT",
-      "ts": 1790603820
     },
     {
       "source": "FXStreet",
