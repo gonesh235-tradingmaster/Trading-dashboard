@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-28T00:15:06.416050Z",
+  "updated": "2026-09-28T00:41:04.703139Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US President Donald Trump says he will not rule out more Iran strikes",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-he-will-not-rule-out-more-iran-strikes-202609280019",
+      "published": "Mon, 28 Sep 2026 00:19:49 GMT",
+      "ts": 1790554789
+    },
     {
       "source": "FXStreet",
       "title": "BoJ Minutes: Members agree financial conditions remain accommodative",
@@ -323,13 +330,6 @@
       "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-still-isnt-restrictive-despite-high-inflation-202609251900",
       "published": "Fri, 25 Sep 2026 19:00:32 GMT",
       "ts": 1790362832
-    },
-    {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854",
-      "published": "Fri, 25 Sep 2026 18:54:44 GMT",
-      "ts": 1790362484
     },
     {
       "source": "Investing Crypto",
