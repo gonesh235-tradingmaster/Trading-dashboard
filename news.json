@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-28T07:57:39.507870Z",
+  "updated": "2026-09-28T08:18:54.596622Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures drop as rising oil, US Treasury yields fuel Fed rate hike fears",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-rising-oil-us-treasury-yields-fuel-fed-rate-hike-fears-202609280807",
+      "published": "Mon, 28 Sep 2026 08:07:41 GMT",
+      "ts": 1790582861
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar: Data-driven consolidation risks – ING",
@@ -134,13 +141,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
       "published": "Mon, 28 Sep 2026 03:58:52 +0000",
       "ts": 1790567932
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold extends intraday losses below $4,200, fresh low since August 5 on Fed hike bets",
-      "link": "https://www.fxstreet.com/news/breaking-gold-weakens-below-4-200-lowest-since-august-5-202609280310",
-      "published": "Mon, 28 Sep 2026 03:10:33 GMT",
-      "ts": 1790565033
     },
     {
       "source": "CoinTelegraph",
