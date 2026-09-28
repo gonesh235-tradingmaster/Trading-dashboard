@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-28T11:55:06.666723Z",
+  "updated": "2026-09-28T12:13:29.466903Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
+      "link": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin",
+      "published": "Mon, 28 Sep 2026 12:13:09 +0000",
+      "ts": 1790597589
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/NZD Price Forecast: Aussie rally shows signs of exhaustion ahead of RBA decision",
+      "link": "https://www.fxstreet.com/news/aud-nzd-price-forecast-aussie-rally-shows-signs-of-exhaustion-ahead-of-rba-decision-202609281205",
+      "published": "Mon, 28 Sep 2026 12:05:59 GMT",
+      "ts": 1790597159
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls to $83k amid pressure from high yields, Iran tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
+      "published": "2026-09-28 11:55:00",
+      "ts": 1790596500
+    },
     {
       "source": "MarketWatch",
       "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
@@ -120,13 +141,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-support-from-yields-and-growth-bbh-202609281032",
       "published": "Mon, 28 Sep 2026 10:32:13 GMT",
       "ts": 1790591533
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Oil extends gains nearing $95.00 as Trump rejects Hormuz reopening plan",
-      "link": "https://www.fxstreet.com/news/wti-oil-extends-gains-above-9450-as-trump-rejects-hormuz-reopening-plan-202609281032",
-      "published": "Mon, 28 Sep 2026 10:32:12 GMT",
-      "ts": 1790591532
     },
     {
       "source": "Investing Forex",
@@ -255,13 +269,6 @@
       "ts": 1790579560
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin falls to $83k amid pressure from high yields, Iran tensions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
-      "published": "2026-09-28 06:53:49",
-      "ts": 1790578429
-    },
-    {
       "source": "CoinDesk",
       "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
       "link": "https://www.coindesk.com/markets/2026/09/28/california-s-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump",
@@ -302,13 +309,6 @@
       "link": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 04:44:15 +0000",
       "ts": 1790570655
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
-      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
-      "published": "Mon, 28 Sep 2026 03:58:52 +0000",
-      "ts": 1790567932
     },
     {
       "source": "CoinTelegraph",
