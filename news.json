@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-29T22:12:20.510047Z",
+  "updated": "2026-09-29T22:29:17.072237Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso breaks 18.00 as carry trade loses its edge",
+      "link": "https://www.fxstreet.com/news/mexican-peso-breaks-1800-as-carry-trade-loses-its-edge-202609292224",
+      "published": "Tue, 29 Sep 2026 22:24:57 GMT",
+      "ts": 1790720697
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
@@ -204,13 +211,6 @@
       "link": "https://www.fxstreet.com/news/feds-barr-calls-economy-strikingly-resilient-defends-last-hike-202609291735",
       "published": "Tue, 29 Sep 2026 17:35:35 GMT",
       "ts": 1790703335
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver price retreats as rising US yields, Hormuz tensions bolster US Dollar",
-      "link": "https://www.fxstreet.com/news/silver-price-retreats-as-rising-us-yields-hormuz-tensions-bolster-us-dollar-202609291719",
-      "published": "Tue, 29 Sep 2026 17:19:03 GMT",
-      "ts": 1790702343
     },
     {
       "source": "CoinTelegraph",
