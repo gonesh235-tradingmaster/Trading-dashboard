@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T02:25:54.116881Z",
+  "updated": "2026-09-29T02:41:27.575961Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen declines amid intervention risks",
+      "link": "https://www.fxstreet.com/news/japanese-yen-declines-amid-intervention-risks-202609290236",
+      "published": "Tue, 29 Sep 2026 02:36:58 GMT",
+      "ts": 1790649418
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
+      "link": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 02:32:36 +0000",
+      "ts": 1790649156
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar consolidates above 0.7000 vs USD as bears await RBA rate decision",
@@ -71,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-slumps-to-its-lowest-level-since-july-9-eyes-14200-vs-bullish-usd-202609290110",
       "published": "Tue, 29 Sep 2026 01:10:58 GMT",
       "ts": 1790644258
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI inches up above $92.00 on Qatari-mediated US-Iran talks, Saudi pipeline restart",
-      "link": "https://www.fxstreet.com/news/wti-inches-up-above-9200-on-qatari-mediated-us-iran-talks-saudi-pipeline-restart-202609290037",
-      "published": "Tue, 29 Sep 2026 00:37:50 GMT",
-      "ts": 1790642270
     },
     {
       "source": "FXStreet",
@@ -267,13 +274,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-as-wider-yield-gap-and-softer-oil-weigh-on-loonie-4920618",
       "published": "2026-09-28 13:58:08",
       "ts": 1790603888
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Altseason is coming — and traders are more discerning this time",
-      "link": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 13:30:00 +0000",
-      "ts": 1790602200
     },
     {
       "source": "CoinDesk",
