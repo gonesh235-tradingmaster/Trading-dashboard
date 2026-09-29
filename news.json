@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-28T23:53:29.658312Z",
+  "updated": "2026-09-29T00:14:35.301435Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
+      "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 00:03:00 GMT",
+      "ts": 1790640180
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar steadies near its lows as RBNZ hike bets keep building",
@@ -99,13 +106,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
       "published": "2026-09-28 21:48:41",
       "ts": 1790632121
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
-      "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 21:37:00 GMT",
-      "ts": 1790631420
     },
     {
       "source": "MarketWatch",
