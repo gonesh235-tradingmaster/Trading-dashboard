@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-29T19:55:52.745433Z",
+  "updated": "2026-09-29T20:12:51.761273Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 20:00:00 GMT",
+      "ts": 1790712000
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
+      "link": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 19:59:43 +0000",
+      "ts": 1790711983
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold springs from $4,110 as Oil rout eases inflation heat",
+      "link": "https://www.fxstreet.com/news/gold-springs-from-4-110-as-oil-rout-eases-inflation-heat-202609291957",
+      "published": "Tue, 29 Sep 2026 19:57:41 GMT",
+      "ts": 1790711861
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
+      "link": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 19:55:49 +0000",
+      "ts": 1790711749
+    },
     {
       "source": "CoinTelegraph",
       "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
@@ -164,25 +192,11 @@
       "ts": 1790701140
     },
     {
-      "source": "FXStreet",
-      "title": "Fed’s Barr says policy needs recalibration, more adjustments likely",
-      "link": "https://www.fxstreet.com/news/feds-barr-says-policy-needs-recalibration-more-adjustments-likely-202609291652",
-      "published": "Tue, 29 Sep 2026 16:52:59 GMT",
-      "ts": 1790700779
-    },
-    {
       "source": "MarketWatch",
       "title": "Here’s what Netflix skeptics are getting wrong about the stock, according to an analyst",
       "link": "https://www.marketwatch.com/story/heres-what-netflix-skeptics-are-getting-wrong-about-the-stock-according-to-an-analyst-40436696?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 16:45:00 GMT",
       "ts": 1790700300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The hidden messages the bond market is sending about the AI boom and the stock market",
-      "link": "https://www.marketwatch.com/story/the-hidden-messages-the-bond-market-is-sending-about-the-ai-boom-and-the-stock-market-5c9495ba?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 16:44:00 GMT",
-      "ts": 1790700240
     },
     {
       "source": "CoinTelegraph",
@@ -283,25 +297,11 @@
       "ts": 1790680530
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
-      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 10:46:05 +0000",
-      "ts": 1790678765
-    },
-    {
       "source": "CoinDesk",
       "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
       "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
       "published": "Tue, 29 Sep 2026 10:28:51 +0000",
       "ts": 1790677731
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
-      "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 10:15:19 +0000",
-      "ts": 1790676919
     },
     {
       "source": "CoinDesk",
