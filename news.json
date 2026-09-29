@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-29T12:59:23.988118Z",
+  "updated": "2026-09-29T13:22:29.450782Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro trades flat vs British Pound as markets weigh ECB and BoE policy paths",
+      "link": "https://www.fxstreet.com/news/euro-trades-flat-vs-british-pound-as-markets-weigh-ecb-and-boe-policy-paths-202609291317",
+      "published": "Tue, 29 Sep 2026 13:17:41 GMT",
+      "ts": 1790687861
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 13:08:04 +0000",
+      "ts": 1790687284
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "PrimeXBT Adds 15 New Crypto Futures, Taking the Total to Over 170",
+      "link": "https://www.investing.com/news/cryptocurrency-news/primexbt-adds-15-new-crypto-futures-taking-the-total-to-over-170-4922718",
+      "published": "2026-09-29 13:00:35",
+      "ts": 1790686835
+    },
+    {
+      "source": "FXStreet",
+      "title": "Bund yields: Short-covering seen shallow – Societe Generale",
+      "link": "https://www.fxstreet.com/news/bund-yields-short-covering-seen-shallow-societe-generale-202609291300",
+      "published": "Tue, 29 Sep 2026 13:00:19 GMT",
+      "ts": 1790686819
+    },
     {
       "source": "MarketWatch",
       "title": "Two stock picks from a money manager who expects small-caps to roar in 2027",
@@ -108,27 +136,6 @@
       "ts": 1790681695
     },
     {
-      "source": "FXStreet",
-      "title": "US yields: Real rates climb on Fed credibility – BNY Markets",
-      "link": "https://www.fxstreet.com/news/us-yields-real-rates-climb-on-fed-credibility-bny-markets-202609291125",
-      "published": "Tue, 29 Sep 2026 11:25:26 GMT",
-      "ts": 1790681126
-    },
-    {
-      "source": "FXStreet",
-      "title": "What drove the Australian Dollar below 0.7000 as the Reserve Bank of Australia hiked to 4.60%?",
-      "link": "https://www.fxstreet.com/news/what-drove-the-australian-dollar-below-07000-as-the-reserve-bank-of-australia-hiked-to-460-202609291120",
-      "published": "Tue, 29 Sep 2026 11:20:05 GMT",
-      "ts": 1790680805
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound recovers slight losses against US Dollar, JOLTS data eyed",
-      "link": "https://www.fxstreet.com/news/british-pound-recovers-slight-losses-against-us-dollar-jolts-data-eyed-202609291120",
-      "published": "Tue, 29 Sep 2026 11:20:02 GMT",
-      "ts": 1790680802
-    },
-    {
       "source": "CoinDesk",
       "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
       "link": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
@@ -148,6 +155,13 @@
       "link": "https://www.marketwatch.com/story/morgan-stanleys-mike-wilson-says-an-s-p-500-correction-may-be-exactly-what-the-market-needs-a6baf54e?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 11:03:00 GMT",
       "ts": 1790679780
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold steadies after sharp drop as traders assess Fed outlook, Middle East risks",
+      "link": "https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-assess-fed-outlook-middle-east-risks-202609291058",
+      "published": "Tue, 29 Sep 2026 10:58:18 GMT",
+      "ts": 1790679498
     },
     {
       "source": "Investing Crypto",
@@ -311,13 +325,6 @@
       "ts": 1790660709
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 05:37:56 +0000",
-      "ts": 1790660276
-    },
-    {
       "source": "CoinDesk",
       "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
       "link": "https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink",
@@ -372,13 +379,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/algoquant-asset-management-selects-liquid-mercury-to-enhance-digital-asset-trading-infrastructure-4920777",
       "published": "2026-09-28 15:00:36",
       "ts": 1790607636
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Aster Launches Perpetual Grid Trading 2.0 with Up to 140,000 $ASTER Liquidity Mining Campaign",
-      "link": "https://www.investing.com/news/cryptocurrency-news/aster-launches-perpetual-grid-trading-20-with-up-to-140000-aster-liquidity-mining-campaign-4920719",
-      "published": "2026-09-28 14:30:35",
-      "ts": 1790605835
     },
     {
       "source": "Investing Forex",
