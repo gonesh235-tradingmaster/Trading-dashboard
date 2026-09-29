@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-29T05:44:33.174920Z",
+  "updated": "2026-09-29T05:57:52.758071Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee declines to two-month low as US-Iran diplomacy hopes recede",
+      "link": "https://www.fxstreet.com/news/indian-rupee-declines-to-two-month-low-as-us-iran-diplomacy-hopes-recede-202609290545",
+      "published": "Tue, 29 Sep 2026 05:45:09 GMT",
+      "ts": 1790660709
+    },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
@@ -73,13 +80,6 @@
       "ts": 1790656584
     },
     {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609290435",
-      "published": "Tue, 29 Sep 2026 04:35:32 GMT",
-      "ts": 1790656532
-    },
-    {
       "source": "Investing Crypto",
       "title": "BTSE Bhutan Receives Financial Services License for Digital Asset Trading Services in Gelephu Mindfulness City",
       "link": "https://www.investing.com/news/cryptocurrency-news/btse-bhutan-receives-financial-services-license-for-digital-asset-trading-services-in-gelephu-mindfulness-city-4921553",
@@ -137,7 +137,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Bullock Speech: RBA Governor speaks on policy outlook after the expected interest rate hike",
+      "title": "Bullock Speech: RBA Governor discusses on policy outlook after the expected interest rate hike",
       "link": "https://www.fxstreet.com/news/rba-set-to-hike-interest-rate-to-460-in-september-as-inflation-remains-elevated-202609290030",
       "published": "Tue, 29 Sep 2026 00:30:00 GMT",
       "ts": 1790641800
