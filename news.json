@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-29T02:09:32.613315Z",
+  "updated": "2026-09-29T02:25:54.116881Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar consolidates above 0.7000 vs USD as bears await RBA rate decision",
+      "link": "https://www.fxstreet.com/news/australian-dollar-consolidates-above-07000-vs-usd-as-bears-await-rba-rate-decision-202609290223",
+      "published": "Tue, 29 Sep 2026 02:23:23 GMT",
+      "ts": 1790648603
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index strengthens as oil surge bolster Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-as-oil-surge-bolster-fed-rate-hike-bets-202609290212",
+      "published": "Tue, 29 Sep 2026 02:12:25 GMT",
+      "ts": 1790647945
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japan’s Katayama says undervalued Yen generally poses problems",
+      "link": "https://www.fxstreet.com/news/japans-katayama-says-undervalued-yen-generally-poses-problems-202609290211",
+      "published": "Tue, 29 Sep 2026 02:11:25 GMT",
+      "ts": 1790647885
+    },
     {
       "source": "FXStreet",
       "title": "Euro consolidates above 1.1350, seems vulnerable near late July lows amid bullish USD",
@@ -71,27 +92,6 @@
       "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 00:03:00 GMT",
       "ts": 1790640180
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar steadies near its lows as RBNZ hike bets keep building",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-near-its-lows-as-rbnz-hike-bets-keep-building-202609282345",
-      "published": "Mon, 28 Sep 2026 23:45:00 GMT",
-      "ts": 1790639100
-    },
-    {
-      "source": "FXStreet",
-      "title": "Iran’s Araghchi says if US wants deal or peace, Tehran has offered solution",
-      "link": "https://www.fxstreet.com/news/irans-araghchi-says-if-us-wants-deal-or-peace-tehran-has-offered-solution-202609282338",
-      "published": "Mon, 28 Sep 2026 23:38:38 GMT",
-      "ts": 1790638718
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen flatlines as Friday's rebound on Trump's concern holds",
-      "link": "https://www.fxstreet.com/news/japanese-yen-flatlines-as-fridays-rebound-on-trumps-concern-holds-202609282330",
-      "published": "Mon, 28 Sep 2026 23:30:00 GMT",
-      "ts": 1790638200
     },
     {
       "source": "MarketWatch",
