@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-29T03:29:34.338442Z",
+  "updated": "2026-09-29T03:47:47.522500Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Slips below 179.00 as bearish bias prevails",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-slips-below-17900-as-bearish-bias-prevails-202609290341",
+      "published": "Tue, 29 Sep 2026 03:41:09 GMT",
+      "ts": 1790653269
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD holds onto losses below $61 ahead of US Job Openings data",
@@ -88,14 +95,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7411 vs. 6.7399 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67411-vs-67399-previous-202609290115",
-      "published": "Tue, 29 Sep 2026 01:15:28 GMT",
-      "ts": 1790644528
-    },
-    {
-      "source": "FXStreet",
-      "title": "RBA set to raise interest rates in September as markets assess the next move",
+      "title": "RBA set to hike interest rates in September as markets await Bullock’s guidance",
       "link": "https://www.fxstreet.com/news/rba-set-to-hike-interest-rate-to-460-in-september-as-inflation-remains-elevated-202609290030",
       "published": "Tue, 29 Sep 2026 00:30:00 GMT",
       "ts": 1790641800
