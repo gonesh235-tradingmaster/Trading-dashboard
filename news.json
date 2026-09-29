@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T21:10:03.834463Z",
+  "updated": "2026-09-29T21:30:05.918729Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 21:18:00 GMT",
+      "ts": 1790716680
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar firms, Aussie drops after RBA hike, and sterling slips on Burnham speech",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
+      "published": "2026-09-29 21:01:50",
+      "ts": 1790715710
+    },
     {
       "source": "MarketWatch",
       "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
@@ -141,13 +155,6 @@
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-peak-on-hawkish-fed-outlook-202609291831",
       "published": "Tue, 29 Sep 2026 18:31:01 GMT",
       "ts": 1790706661
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Good news for OpenAI is great news for Oracle’s stock — here’s why",
-      "link": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 18:28:00 GMT",
-      "ts": 1790706480
     },
     {
       "source": "FXStreet",
@@ -330,13 +337,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
       "published": "Tue, 29 Sep 2026 09:45:31 +0000",
       "ts": 1790675131
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar firm near two-month peaks as Aussie drops to August lows after RBA hike",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
-      "published": "2026-09-29 09:40:45",
-      "ts": 1790674845
     },
     {
       "source": "Investing Crypto",
