@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-29T15:00:02.174813Z",
+  "updated": "2026-09-29T15:21:54.314785Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
+      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 15:16:00 GMT",
+      "ts": 1790694960
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 15:15:00 GMT",
+      "ts": 1790694900
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canada: GDP growth moderates in July but stays on track for solid quarter – NBC",
+      "link": "https://www.fxstreet.com/news/canada-gdp-growth-moderates-in-july-but-stays-on-track-for-solid-quarter-nbc-202609291513",
+      "published": "Tue, 29 Sep 2026 15:13:45 GMT",
+      "ts": 1790694825
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar: Rates reaction follows GDP – TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-rates-reaction-follows-gdp-td-securities-202609291506",
+      "published": "Tue, 29 Sep 2026 15:06:18 GMT",
+      "ts": 1790694378
+    },
+    {
+      "source": "FXStreet",
+      "title": "India rates: Gradual hiking path – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/india-rates-gradual-hiking-path-standard-chartered-202609291502",
+      "published": "Tue, 29 Sep 2026 15:02:20 GMT",
+      "ts": 1790694140
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 15:00:00 GMT",
+      "ts": 1790694000
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar falls below 0.7000 as RBA hike fails to convince bulls",
@@ -15,6 +57,13 @@
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 14:45:00 GMT",
       "ts": 1790693100
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook",
+      "link": "https://www.investing.com/news/forex-news/wells-fargo-revises-dollar-yen-euro-estimates-amid-rate-hike-outlook-4923047",
+      "published": "2026-09-29 14:44:38",
+      "ts": 1790693078
     },
     {
       "source": "FXStreet",
@@ -143,27 +192,6 @@
       "ts": 1790685153
     },
     {
-      "source": "FXStreet",
-      "title": "ECB's Escrivá: We are still not in a restrictive territory",
-      "link": "https://www.fxstreet.com/news/ecbs-escriva-we-are-still-not-in-a-restrictive-territory-202609291218",
-      "published": "Tue, 29 Sep 2026 12:18:04 GMT",
-      "ts": 1790684284
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 12:15:00 GMT",
-      "ts": 1790684100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Taking Ozempic and worried about vision loss? This test can help you understand your risk.",
-      "link": "https://www.marketwatch.com/story/taking-ozempic-a-routine-eye-exam-could-help-you-understand-your-risk-for-vision-loss-3392c1a0?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 12:03:00 GMT",
-      "ts": 1790683380
-    },
-    {
       "source": "CoinTelegraph",
       "title": "ECB puts AI agent payments on the digital euro drawing board",
       "link": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -178,20 +206,6 @@
       "ts": 1790683240
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecasts: XAG/USD holds below $ 61.00 amid US Dollar strength",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-holds-below-6100-amid-us-dollar-strength-202609291159",
-      "published": "Tue, 29 Sep 2026 11:59:52 GMT",
-      "ts": 1790683192
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Sellers retain control near September low",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-sellers-retain-control-near-september-low-202609291159",
-      "published": "Tue, 29 Sep 2026 11:59:43 GMT",
-      "ts": 1790683183
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin beats gold, surge to $100,000 in play",
       "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
@@ -204,13 +218,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
       "published": "Tue, 29 Sep 2026 11:15:30 +0000",
       "ts": 1790680530
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 11:15:00 GMT",
-      "ts": 1790680500
     },
     {
       "source": "FXStreet",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
       "published": "2026-09-25 21:26:50",
       "ts": 1790371610
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Yen jumps as Trump shows concern over its weakness, dollar halts daily win streak",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
-      "published": "2026-09-25 20:03:29",
-      "ts": 1790366609
     }
   ]
 }
