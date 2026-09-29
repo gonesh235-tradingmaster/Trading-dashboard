@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-29T06:46:37.961488Z",
+  "updated": "2026-09-29T07:12:13.914335Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The stock market usually booms in the November-to-April stretch. This indicator suggests otherwise.",
+      "link": "https://www.marketwatch.com/story/the-stock-market-usually-booms-in-the-november-to-april-stretch-this-indicator-suggests-otherwise-f30a744e?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 07:05:00 GMT",
+      "ts": 1790665500
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds two-month high, RBA decision looms",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
+      "published": "2026-09-29 06:53:36",
+      "ts": 1790664816
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar declines to near 0.5650 despite RBNZ hike bets",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-to-near-05650-despite-rbnz-hike-bets-202609290652",
+      "published": "Tue, 29 Sep 2026 06:52:45 GMT",
+      "ts": 1790664765
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin flat at $83.4k as markets weigh soaring yields, Iran tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
+      "published": "2026-09-29 06:49:52",
+      "ts": 1790664592
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar Index Price Forecast: Likely revisit yearly high at around 101.80",
@@ -53,7 +81,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Indian Rupee declines to two-month low as US-Iran diplomacy hopes recede",
+      "title": "Indian Rupee slumps as Trump refutes claims of Iran sanctions relief",
       "link": "https://www.fxstreet.com/news/indian-rupee-declines-to-two-month-low-as-us-iran-diplomacy-hopes-recede-202609290545",
       "published": "Tue, 29 Sep 2026 05:45:09 GMT",
       "ts": 1790660709
@@ -64,13 +92,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 05:37:56 +0000",
       "ts": 1790660276
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah holds ground despite inflation, oil risks",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-ground-despite-inflation-oil-risks-202609290531",
-      "published": "Tue, 29 Sep 2026 05:31:48 GMT",
-      "ts": 1790659908
     },
     {
       "source": "CoinDesk",
@@ -95,7 +116,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold seems vulnerable near eight-week low; break below $4,100 awaited amid Fed hike bets",
+      "title": "Gold sticks to gains as Fed hike bets, elevated bond yields and bullish USD cap recovery",
       "link": "https://www.fxstreet.com/news/gold-bounces-off-eight-week-low-not-out-of-the-woods-amid-rising-fed-hike-bets-202609290422",
       "published": "Tue, 29 Sep 2026 04:22:11 GMT",
       "ts": 1790655731
@@ -113,13 +134,6 @@
       "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 04:02:29 +0000",
       "ts": 1790654549
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds two-month high, RBA decision looms",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
-      "published": "2026-09-29 03:07:26",
-      "ts": 1790651246
     },
     {
       "source": "CoinTelegraph",
@@ -211,13 +225,6 @@
       "link": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
       "published": "Mon, 28 Sep 2026 21:19:00 GMT",
       "ts": 1790630340
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 21:00:00 GMT",
-      "ts": 1790629200
     },
     {
       "source": "CoinTelegraph",
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
       "published": "2026-09-25 21:26:50",
       "ts": 1790371610
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips, but set for weekly gain as regulatory cheer offsets surging yields",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
-      "published": "2026-09-25 20:52:20",
-      "ts": 1790369540
     },
     {
       "source": "Investing Forex",
