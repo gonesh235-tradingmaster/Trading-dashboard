@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-29T15:43:35.652777Z",
+  "updated": "2026-09-29T15:58:57.998670Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "BoE’s Taylor says prolonged energy shock could cement case for hikes",
+      "link": "https://www.fxstreet.com/news/boes-taylor-says-prolonged-energy-shock-could-cement-case-for-hikes-202609291556",
+      "published": "Tue, 29 Sep 2026 15:56:50 GMT",
+      "ts": 1790697410
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I have $400,000 in equity’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 15:45:00 GMT",
+      "ts": 1790696700
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro falls to three-month low as hawkish Fed outlook weighs",
+      "link": "https://www.fxstreet.com/news/euro-falls-to-three-month-low-as-hawkish-fed-outlook-weighs-202609291543",
+      "published": "Tue, 29 Sep 2026 15:43:53 GMT",
+      "ts": 1790696633
+    },
     {
       "source": "MarketWatch",
       "title": "I don’t want to spend $800 on flights to see my family for Thanksgiving. Can I break this holiday tradition?",
@@ -64,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-falls-below-07000-as-rba-hike-fails-to-convince-bulls-202609291449",
       "published": "Tue, 29 Sep 2026 14:49:35 GMT",
       "ts": 1790693375
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 14:45:00 GMT",
-      "ts": 1790693100
     },
     {
       "source": "Investing Forex",
@@ -150,13 +164,6 @@
       "ts": 1790688600
     },
     {
-      "source": "FXStreet",
-      "title": "Euro trades flat vs British Pound as markets weigh ECB and BoE policy paths",
-      "link": "https://www.fxstreet.com/news/euro-trades-flat-vs-british-pound-as-markets-weigh-ecb-and-boe-policy-paths-202609291317",
-      "published": "Tue, 29 Sep 2026 13:17:41 GMT",
-      "ts": 1790687861
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -169,13 +176,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/primexbt-adds-15-new-crypto-futures-taking-the-total-to-over-170-4922718",
       "published": "2026-09-29 13:00:35",
       "ts": 1790686835
-    },
-    {
-      "source": "FXStreet",
-      "title": "Bund yields: Short-covering seen shallow – Societe Generale",
-      "link": "https://www.fxstreet.com/news/bund-yields-short-covering-seen-shallow-societe-generale-202609291300",
-      "published": "Tue, 29 Sep 2026 13:00:19 GMT",
-      "ts": 1790686819
     },
     {
       "source": "CoinTelegraph",
