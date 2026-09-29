@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-29T20:53:48.689382Z",
+  "updated": "2026-09-29T21:10:03.834463Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
+      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 20:57:00 GMT",
+      "ts": 1790715420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s historic buyback announcement underscores a sharp divide in Big Tech",
+      "link": "https://www.marketwatch.com/story/nvidias-historic-buyback-announcement-underscores-a-sharp-divide-in-big-tech-ac04a001?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 20:52:00 GMT",
+      "ts": 1790715120
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Mexico’s peso erases 2026 gains amid profit-taking",
+      "link": "https://www.investing.com/news/forex-news/mexicos-peso-erases-2026-gains-amid-profittaking-93CH-4923553",
+      "published": "2026-09-29 20:44:04",
+      "ts": 1790714644
+    },
     {
       "source": "MarketWatch",
       "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
@@ -164,25 +185,11 @@
       "ts": 1790704085
     },
     {
-      "source": "MarketWatch",
-      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
-      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 17:45:00 GMT",
-      "ts": 1790703900
-    },
-    {
       "source": "FXStreet",
       "title": "Fed’s Barr calls economy “strikingly” resilient, defends last hike",
       "link": "https://www.fxstreet.com/news/feds-barr-calls-economy-strikingly-resilient-defends-last-hike-202609291735",
       "published": "Tue, 29 Sep 2026 17:35:35 GMT",
       "ts": 1790703335
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 17:30:00 GMT",
-      "ts": 1790703000
     },
     {
       "source": "FXStreet",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-us-data-tests-dollar-rally-4919636",
       "published": "2026-09-28 09:34:08",
       "ts": 1790588048
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Bond rout in shorter-term maturities eases up, but U.S. yields end week with gains",
-      "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
-      "published": "2026-09-25 21:26:50",
-      "ts": 1790371610
     }
   ]
 }
