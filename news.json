@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-29T06:20:34.287570Z",
+  "updated": "2026-09-29T06:46:37.961488Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: Likely revisit yearly high at around 101.80",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-likely-revisit-yearly-high-at-around-10180-202609290642",
+      "published": "Tue, 29 Sep 2026 06:42:46 GMT",
+      "ts": 1790664166
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: RBA hike reinforces hawkish stance – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-reinforces-hawkish-stance-deutsche-bank-202609290631",
+      "published": "Tue, 29 Sep 2026 06:31:59 GMT",
+      "ts": 1790663519
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: RBA’s hawkish hike caps upside – Commerzbank",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rbas-hawkish-hike-caps-upside-commerzbank-202609290629",
+      "published": "Tue, 29 Sep 2026 06:29:04 GMT",
+      "ts": 1790663344
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
+      "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
+      "published": "Tue, 29 Sep 2026 06:23:47 +0000",
+      "ts": 1790663027
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar dips to fresh lows sub-0.7000 despite hawkish RBA Bullock",
+      "link": "https://www.fxstreet.com/news/australian-dollar-dips-to-fresh-lows-sub-07000-despite-hawkish-rba-bullock-202609290622",
+      "published": "Tue, 29 Sep 2026 06:22:42 GMT",
+      "ts": 1790662962
+    },
     {
       "source": "FXStreet",
       "title": "USD/JPY Price Forecast: Tests nine-day EMA support after falling below 157.50",
@@ -50,34 +85,6 @@
       "link": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 05:29:28 +0000",
       "ts": 1790659768
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Eyes $93.00 as bulls retain control above 200-SMA support on H4",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-eyes-9300-as-bulls-retain-control-above-200-sma-support-on-h4-202609290523",
-      "published": "Tue, 29 Sep 2026 05:23:51 GMT",
-      "ts": 1790659431
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Softens to near 1.1350 as bearish bias holds below key averages",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-softens-to-near-11350-as-bearish-bias-holds-below-key-averages-202609290511",
-      "published": "Tue, 29 Sep 2026 05:11:15 GMT",
-      "ts": 1790658675
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australia’s Treasurer Chalmers: Today’s rate rise was widely expected",
-      "link": "https://www.fxstreet.com/news/australias-treasurer-chalmers-todays-rate-rise-was-widely-expected-202609290454",
-      "published": "Tue, 29 Sep 2026 04:54:25 GMT",
-      "ts": 1790657665
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar retakes 1.2400 vs New Zealand Dollar after RBA's 25 bps rate hike",
-      "link": "https://www.fxstreet.com/news/australian-dollar-retakes-12400-vs-new-zealand-dollar-after-rbas-25-bps-rate-hike-202609290447",
-      "published": "Tue, 29 Sep 2026 04:47:49 GMT",
-      "ts": 1790657269
     },
     {
       "source": "Investing Crypto",
@@ -344,13 +351,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
       "published": "Mon, 28 Sep 2026 11:32:33 +0000",
       "ts": 1790595153
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
-      "link": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
-      "published": "Mon, 28 Sep 2026 11:00:00 +0000",
-      "ts": 1790593200
     },
     {
       "source": "Investing Forex",
