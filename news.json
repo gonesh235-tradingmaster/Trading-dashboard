@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-29T04:28:59.617688Z",
+  "updated": "2026-09-29T04:46:32.479453Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar gains support as RBA delivers 25-basis-point rate hike",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gains-support-as-rba-delivers-25-basis-point-rate-hike-202609290437",
+      "published": "Tue, 29 Sep 2026 04:37:39 GMT",
+      "ts": 1790656659
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar gains as RBA hikes interest rates by 25 bps to 4.6%",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gains-as-rba-hikes-interest-rates-by-25-bps-to-46-202609290436",
+      "published": "Tue, 29 Sep 2026 04:36:24 GMT",
+      "ts": 1790656584
+    },
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609290435",
+      "published": "Tue, 29 Sep 2026 04:35:32 GMT",
+      "ts": 1790656532
+    },
     {
       "source": "FXStreet",
       "title": "Gold bounces off eight-week low; not out of the woods amid rising Fed hike bets",
@@ -73,27 +94,6 @@
       "ts": 1790648603
     },
     {
-      "source": "FXStreet",
-      "title": "United States Dollar Index strengthens as oil surge bolster Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-as-oil-surge-bolster-fed-rate-hike-bets-202609290212",
-      "published": "Tue, 29 Sep 2026 02:12:25 GMT",
-      "ts": 1790647945
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japan’s Katayama says undervalued Yen generally poses problems",
-      "link": "https://www.fxstreet.com/news/japans-katayama-says-undervalued-yen-generally-poses-problems-202609290211",
-      "published": "Tue, 29 Sep 2026 02:11:25 GMT",
-      "ts": 1790647885
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro consolidates above 1.1350, seems vulnerable near late July lows amid bullish USD",
-      "link": "https://www.fxstreet.com/news/euro-consolidates-above-11350-seems-vulnerable-near-late-july-lows-amid-bullish-usd-202609290159",
-      "published": "Tue, 29 Sep 2026 01:59:47 GMT",
-      "ts": 1790647187
-    },
-    {
       "source": "MarketWatch",
       "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
       "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
@@ -109,7 +109,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "RBA set to hike interest rates in September as markets await Bullock’s guidance",
+      "title": "Breaking: RBA lifts interest rate by 25 bps to 4.60%, as expected",
       "link": "https://www.fxstreet.com/news/rba-set-to-hike-interest-rate-to-460-in-september-as-inflation-remains-elevated-202609290030",
       "published": "Tue, 29 Sep 2026 00:30:00 GMT",
       "ts": 1790641800
