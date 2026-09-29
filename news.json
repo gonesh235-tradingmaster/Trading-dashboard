@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T15:21:54.314785Z",
+  "updated": "2026-09-29T15:43:35.652777Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I don’t want to spend $800 on flights to see my family for Thanksgiving. Can I break this holiday tradition?",
+      "link": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 15:29:00 GMT",
+      "ts": 1790695740
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
+      "link": "https://www.marketwatch.com/story/job-openings-are-low-and-hiring-is-weak-why-the-u-s-labor-market-wont-get-better-soon-18292734?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 15:21:00 GMT",
+      "ts": 1790695260
+    },
     {
       "source": "MarketWatch",
       "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
@@ -122,13 +136,6 @@
       "ts": 1790689500
     },
     {
-      "source": "MarketWatch",
-      "title": "Two stock picks from a money manager who expects small-caps to roar in 2027",
-      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 13:39:00 GMT",
-      "ts": 1790689140
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin flat at $83.4k as markets weigh soaring yields, Iran tensions",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
@@ -169,13 +176,6 @@
       "link": "https://www.fxstreet.com/news/bund-yields-short-covering-seen-shallow-societe-generale-202609291300",
       "published": "Tue, 29 Sep 2026 13:00:19 GMT",
       "ts": 1790686819
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
-      "link": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 12:42:00 GMT",
-      "ts": 1790685720
     },
     {
       "source": "CoinTelegraph",
@@ -249,7 +249,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin in tight range near $84,000; consumer confidence plunged this month",
+      "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
       "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
       "published": "Tue, 29 Sep 2026 10:14:41 +0000",
       "ts": 1790676881
