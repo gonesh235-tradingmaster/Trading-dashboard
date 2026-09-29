@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T00:14:35.301435Z",
+  "updated": "2026-09-29T00:39:33.816221Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI inches up above $92.00 on Qatari-mediated US-Iran talks, Saudi pipeline restart",
+      "link": "https://www.fxstreet.com/news/wti-inches-up-above-9200-on-qatari-mediated-us-iran-talks-saudi-pipeline-restart-202609290037",
+      "published": "Tue, 29 Sep 2026 00:37:50 GMT",
+      "ts": 1790642270
+    },
+    {
+      "source": "FXStreet",
+      "title": "RBA set to hike interest rate to 4.60% in September as inflation remains elevated",
+      "link": "https://www.fxstreet.com/news/rba-set-to-hike-interest-rate-to-460-in-september-as-inflation-remains-elevated-202609290030",
+      "published": "Tue, 29 Sep 2026 00:30:00 GMT",
+      "ts": 1790641800
+    },
     {
       "source": "MarketWatch",
       "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
@@ -73,13 +87,6 @@
       "ts": 1790636400
     },
     {
-      "source": "FXStreet",
-      "title": "Mexican Peso plunges as US-Mexico interest rate differential reduces",
-      "link": "https://www.fxstreet.com/news/mexican-peso-plunges-as-us-mexico-interest-rate-differential-reduces-202609282252",
-      "published": "Mon, 28 Sep 2026 22:52:06 GMT",
-      "ts": 1790635926
-    },
-    {
       "source": "MarketWatch",
       "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
       "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
@@ -148,13 +155,6 @@
       "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 20:41:44 +0000",
       "ts": 1790628104
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average gives back Friday's rally on a Boeing delay",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-gives-back-fridays-rally-on-a-boeing-delay-202609282039",
-      "published": "Mon, 28 Sep 2026 20:39:46 GMT",
-      "ts": 1790627986
     },
     {
       "source": "CoinTelegraph",
