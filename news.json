@@ -1,10 +1,45 @@
 {
-  "updated": "2026-09-29T18:17:14.184506Z",
+  "updated": "2026-09-29T18:45:01.786425Z",
   "count": 60,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "OpenAI launches a rival to Meta’s Muse, as the battle for AI agents kicks into high gear",
+      "link": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 18:34:00 GMT",
+      "ts": 1790706840
+    },
+    {
       "source": "FXStreet",
-      "title": "Fed’s Goolsbee says persistent inflation is like “playing with fire”",
+      "title": "United States Dollar Index approaches yearly peak on hawkish Fed outlook",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-peak-on-hawkish-fed-outlook-202609291831",
+      "published": "Tue, 29 Sep 2026 18:31:01 GMT",
+      "ts": 1790706661
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Good news for OpenAI is great news for Oracle’s stock — here’s why",
+      "link": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 18:28:00 GMT",
+      "ts": 1790706480
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Williams says no rush after September hike",
+      "link": "https://www.fxstreet.com/news/feds-williams-says-no-rush-after-september-hike-202609291822",
+      "published": "Tue, 29 Sep 2026 18:22:33 GMT",
+      "ts": 1790706153
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+      "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
+      "published": "Tue, 29 Sep 2026 18:21:07 +0000",
+      "ts": 1790706067
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Goolsbee: Persistent inflation is like “playing with fire”",
       "link": "https://www.fxstreet.com/news/feds-goolsbee-says-persistent-inflation-is-like-playing-with-fire-202609291812",
       "published": "Tue, 29 Sep 2026 18:12:37 GMT",
       "ts": 1790705557
@@ -18,7 +53,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Musalem says Fed must explain decisions without policy pledges",
+      "title": "Fed’s Musalem says policy still accommodative as demand fuels inflation",
       "link": "https://www.fxstreet.com/news/musalem-says-fed-must-explain-decisions-without-policy-pledges-202609291748",
       "published": "Tue, 29 Sep 2026 17:48:05 GMT",
       "ts": 1790704085
@@ -143,27 +178,6 @@
       "ts": 1790697600
     },
     {
-      "source": "FXStreet",
-      "title": "BoE’s Taylor says prolonged energy shock could cement case for hikes",
-      "link": "https://www.fxstreet.com/news/boes-taylor-says-prolonged-energy-shock-could-cement-case-for-hikes-202609291556",
-      "published": "Tue, 29 Sep 2026 15:56:50 GMT",
-      "ts": 1790697410
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I have $400,000 in equity’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 15:45:00 GMT",
-      "ts": 1790696700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I don’t want to spend $800 on flights to see my family for Thanksgiving. Can I break this holiday tradition?",
-      "link": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 15:29:00 GMT",
-      "ts": 1790695740
-    },
-    {
       "source": "Investing Forex",
       "title": "Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook",
       "link": "https://www.investing.com/news/forex-news/wells-fargo-revises-dollar-yen-euro-estimates-amid-rate-hike-outlook-4923047",
@@ -246,13 +260,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
       "published": "Tue, 29 Sep 2026 11:15:30 +0000",
       "ts": 1790680530
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold steadies after sharp drop as traders assess Fed outlook, Middle East risks",
-      "link": "https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-assess-fed-outlook-middle-east-risks-202609291058",
-      "published": "Tue, 29 Sep 2026 10:58:18 GMT",
-      "ts": 1790679498
     },
     {
       "source": "CoinTelegraph",
@@ -351,13 +358,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
       "published": "2026-09-29 07:11:54",
       "ts": 1790665914
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
-      "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
-      "published": "Tue, 29 Sep 2026 06:23:47 +0000",
-      "ts": 1790663027
     },
     {
       "source": "Investing Crypto",
