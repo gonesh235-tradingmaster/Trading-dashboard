@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T13:22:29.450782Z",
+  "updated": "2026-09-29T13:44:13.244470Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Two stock picks from a money manager who expects small-caps to roar in 2027",
+      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 13:39:00 GMT",
+      "ts": 1790689140
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
+      "link": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 13:30:00 +0000",
+      "ts": 1790688600
+    },
     {
       "source": "FXStreet",
       "title": "Euro trades flat vs British Pound as markets weigh ECB and BoE policy paths",
@@ -29,13 +43,6 @@
       "link": "https://www.fxstreet.com/news/bund-yields-short-covering-seen-shallow-societe-generale-202609291300",
       "published": "Tue, 29 Sep 2026 13:00:19 GMT",
       "ts": 1790686819
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Two stock picks from a money manager who expects small-caps to roar in 2027",
-      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 12:47:00 GMT",
-      "ts": 1790686020
     },
     {
       "source": "MarketWatch",
@@ -351,13 +358,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
       "published": "Tue, 29 Sep 2026 04:17:20 +0000",
       "ts": 1790655440
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
-      "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 04:02:29 +0000",
-      "ts": 1790654549
     },
     {
       "source": "Investing Crypto",
