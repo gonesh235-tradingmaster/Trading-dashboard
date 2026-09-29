@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-29T11:28:40.825402Z",
+  "updated": "2026-09-29T11:46:27.529734Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: MAS tightening expectations support resilience – OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-expectations-support-resilience-ocbc-202609291143",
+      "published": "Tue, 29 Sep 2026 11:43:49 GMT",
+      "ts": 1790682229
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: RBA hike to support AUD/USD – BBH",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-to-support-aud-usd-bbh-202609291138",
+      "published": "Tue, 29 Sep 2026 11:38:40 GMT",
+      "ts": 1790681920
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: EUR/USD bearish bias converging on support – Societe Generale",
+      "link": "https://www.fxstreet.com/news/euro-eur-usd-bearish-bias-converging-on-support-societe-generale-202609291136",
+      "published": "Tue, 29 Sep 2026 11:36:49 GMT",
+      "ts": 1790681809
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin beats gold, surge to $100,000 in play",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+      "published": "Tue, 29 Sep 2026 11:34:55 +0000",
+      "ts": 1790681695
+    },
     {
       "source": "FXStreet",
       "title": "US yields: Real rates climb on Fed credibility – BNY Markets",
@@ -66,6 +94,13 @@
       "ts": 1790679024
     },
     {
+      "source": "Investing Crypto",
+      "title": "Bitcoin flat at $83.4k as markets weigh soaring yields, Iran tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
+      "published": "2026-09-29 10:49:39",
+      "ts": 1790678979
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
       "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -73,32 +108,11 @@
       "ts": 1790678765
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: DXY approaches June high – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-dxy-approaches-june-high-bbh-202609291038",
-      "published": "Tue, 29 Sep 2026 10:38:24 GMT",
-      "ts": 1790678304
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso: USD/MXN rally nears forecast zone – Societe Generale",
-      "link": "https://www.fxstreet.com/news/usd-mxn-rally-nears-forecast-zone-societe-generale-202609291035",
-      "published": "Tue, 29 Sep 2026 10:35:35 GMT",
-      "ts": 1790678135
-    },
-    {
       "source": "CoinDesk",
       "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
       "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
       "published": "Tue, 29 Sep 2026 10:28:51 +0000",
       "ts": 1790677731
-    },
-    {
-      "source": "FXStreet",
-      "title": "RBA seen on extended hold – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/rba-seen-on-extended-hold-standard-chartered-202609291023",
-      "published": "Tue, 29 Sep 2026 10:23:08 GMT",
-      "ts": 1790677388
     },
     {
       "source": "CoinTelegraph",
@@ -255,13 +269,6 @@
       "ts": 1790665914
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin flat at $83.4k as markets weigh soaring yields, Iran tensions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
-      "published": "2026-09-29 06:49:52",
-      "ts": 1790664592
-    },
-    {
       "source": "CoinDesk",
       "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
       "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
@@ -270,7 +277,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Indian Rupee declines as Trump denies claims of Iran sanctions relief",
+      "title": "Indian Rupee claws back early losses and closes flat on Tuesday",
       "link": "https://www.fxstreet.com/news/indian-rupee-declines-to-two-month-low-as-us-iran-diplomacy-hopes-recede-202609290545",
       "published": "Tue, 29 Sep 2026 05:45:09 GMT",
       "ts": 1790660709
@@ -351,13 +358,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
       "published": "Mon, 28 Sep 2026 18:00:00 +0000",
       "ts": 1790618400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
-      "link": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
-      "published": "Mon, 28 Sep 2026 16:24:51 +0000",
-      "ts": 1790612691
     },
     {
       "source": "Investing Crypto",
