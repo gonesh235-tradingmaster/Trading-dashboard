@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T22:44:43.288202Z",
+  "updated": "2026-09-29T22:55:59.753289Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Pound slips to its lowest since June as a BoE hold voter pushes back",
+      "link": "https://www.fxstreet.com/news/the-pound-slips-to-its-lowest-since-june-as-a-boe-hold-voter-pushes-back-202609292255",
+      "published": "Tue, 29 Sep 2026 22:55:05 GMT",
+      "ts": 1790722505
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average retests its floor as consumer confidence sinks",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-retests-its-floor-as-consumer-confidence-sinks-202609292254",
+      "published": "Tue, 29 Sep 2026 22:54:42 GMT",
+      "ts": 1790722482
+    },
     {
       "source": "FXStreet",
       "title": "Mexican Peso breaks 18.00 as carry trade loses its edge",
@@ -193,24 +207,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Forex Today: Focus shifts to US PCE, ADP, inflation in OZ and Chinese PMIs",
-      "link": "https://www.fxstreet.com/news/forex-today-focus-shifts-to-us-pce-adp-inflation-in-oz-and-chinese-pmis-202609291806",
-      "published": "Tue, 29 Sep 2026 18:06:59 GMT",
-      "ts": 1790705219
-    },
-    {
-      "source": "FXStreet",
       "title": "Fed’s Musalem says policy still accommodative as demand fuels inflation",
       "link": "https://www.fxstreet.com/news/musalem-says-fed-must-explain-decisions-without-policy-pledges-202609291748",
       "published": "Tue, 29 Sep 2026 17:48:05 GMT",
       "ts": 1790704085
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Barr calls economy “strikingly” resilient, defends last hike",
-      "link": "https://www.fxstreet.com/news/feds-barr-calls-economy-strikingly-resilient-defends-last-hike-202609291735",
-      "published": "Tue, 29 Sep 2026 17:35:35 GMT",
-      "ts": 1790703335
     },
     {
       "source": "CoinTelegraph",
