@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-29T14:20:42.729214Z",
+  "updated": "2026-09-29T14:43:32.868993Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar remains under pressure after flat GDP reading",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-after-flat-gdp-reading-202609291434",
+      "published": "Tue, 29 Sep 2026 14:34:24 GMT",
+      "ts": 1790692464
+    },
     {
       "source": "MarketWatch",
       "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
@@ -178,13 +185,6 @@
       "ts": 1790682229
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar: RBA hike to support AUD/USD – BBH",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-to-support-aud-usd-bbh-202609291138",
-      "published": "Tue, 29 Sep 2026 11:38:40 GMT",
-      "ts": 1790681920
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin beats gold, surge to $100,000 in play",
       "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
@@ -242,7 +242,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin in tight range near $84,000 as interest rates continue to worry",
+      "title": "Live updates: Bitcoin in tight range near $84,000; consumer confidence plunged this month",
       "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
       "published": "Tue, 29 Sep 2026 10:14:41 +0000",
       "ts": 1790676881
