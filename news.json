@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-29T01:16:35.274005Z",
+  "updated": "2026-09-29T01:40:30.104697Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound softens to near 1.3250 as elevated US yields outweigh BoE’s hawkish tone",
+      "link": "https://www.fxstreet.com/news/british-pound-softens-to-near-13250-as-elevated-us-yields-outweigh-boes-hawkish-tone-202609290133",
+      "published": "Tue, 29 Sep 2026 01:33:20 GMT",
+      "ts": 1790645600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
+      "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 01:31:00 GMT",
+      "ts": 1790645460
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD drops to near $60.50 amid surging oil, Treasury yields",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-drops-to-near-6050-amid-surging-oil-treasury-yields-202609290123",
+      "published": "Tue, 29 Sep 2026 01:23:15 GMT",
+      "ts": 1790644995
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
+      "link": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 01:17:49 +0000",
+      "ts": 1790644669
+    },
     {
       "source": "FXStreet",
       "title": "PBOC sets USD/CNY reference rate at 6.7411 vs. 6.7399 previous",
@@ -66,20 +94,6 @@
       "ts": 1790637764
     },
     {
-      "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Trendline caps recovery as range holds",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-trendline-caps-recovery-as-range-holds-202609282320",
-      "published": "Mon, 28 Sep 2026 23:20:36 GMT",
-      "ts": 1790637636
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar holds above 0.70 as RBA hike becomes a done deal",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-above-070-as-rba-hike-becomes-a-done-deal-202609282311",
-      "published": "Mon, 28 Sep 2026 23:11:09 GMT",
-      "ts": 1790637069
-    },
-    {
       "source": "MarketWatch",
       "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
       "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
@@ -141,13 +155,6 @@
       "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
       "published": "Mon, 28 Sep 2026 21:00:00 GMT",
       "ts": 1790629200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take",
-      "link": "https://www.marketwatch.com/story/bond-yields-move-relentlessly-higher-as-wall-street-wonders-how-much-more-tech-stocks-can-take-dd050c39?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 20:43:00 GMT",
-      "ts": 1790628180
     },
     {
       "source": "CoinTelegraph",
@@ -281,13 +288,6 @@
       "link": "https://www.investing.com/news/forex-news/german-yields-pause-traders-weigh-sticky-energy-inflation-in-data-packed-week-4919522",
       "published": "2026-09-28 12:45:46",
       "ts": 1790599546
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
-      "link": "https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 12:38:01 +0000",
-      "ts": 1790599081
     },
     {
       "source": "CoinDesk",
