@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-29T01:54:21.413013Z",
+  "updated": "2026-09-29T02:09:32.613315Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro consolidates above 1.1350, seems vulnerable near late July lows amid bullish USD",
+      "link": "https://www.fxstreet.com/news/euro-consolidates-above-11350-seems-vulnerable-near-late-july-lows-amid-bullish-usd-202609290159",
+      "published": "Tue, 29 Sep 2026 01:59:47 GMT",
+      "ts": 1790647187
+    },
     {
       "source": "FXStreet",
       "title": "British Pound softens to near 1.3250 as elevated US yields outweigh BoE’s hawkish tone",
@@ -53,7 +60,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "RBA set to hike interest rate to 4.60% in September as inflation remains elevated",
+      "title": "RBA set to raise interest rates in September as markets assess the next move",
       "link": "https://www.fxstreet.com/news/rba-set-to-hike-interest-rate-to-460-in-september-as-inflation-remains-elevated-202609290030",
       "published": "Tue, 29 Sep 2026 00:30:00 GMT",
       "ts": 1790641800
@@ -85,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-flatlines-as-fridays-rebound-on-trumps-concern-holds-202609282330",
       "published": "Mon, 28 Sep 2026 23:30:00 GMT",
       "ts": 1790638200
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold tumbles below $4.150 as US bond yields, oil prices rise",
-      "link": "https://www.fxstreet.com/news/gold-tumbles-below-4150-as-us-bond-yields-oil-prices-rise-202609282322",
-      "published": "Mon, 28 Sep 2026 23:22:44 GMT",
-      "ts": 1790637764
     },
     {
       "source": "MarketWatch",
