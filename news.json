@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-29T11:10:52.311981Z",
+  "updated": "2026-09-29T11:28:40.825402Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US yields: Real rates climb on Fed credibility – BNY Markets",
+      "link": "https://www.fxstreet.com/news/us-yields-real-rates-climb-on-fed-credibility-bny-markets-202609291125",
+      "published": "Tue, 29 Sep 2026 11:25:26 GMT",
+      "ts": 1790681126
+    },
+    {
+      "source": "FXStreet",
+      "title": "What drove the Australian Dollar below 0.7000 as the Reserve Bank of Australia hiked to 4.60%?",
+      "link": "https://www.fxstreet.com/news/what-drove-the-australian-dollar-below-07000-as-the-reserve-bank-of-australia-hiked-to-460-202609291120",
+      "published": "Tue, 29 Sep 2026 11:20:05 GMT",
+      "ts": 1790680805
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound recovers slight losses against US Dollar, JOLTS data eyed",
+      "link": "https://www.fxstreet.com/news/british-pound-recovers-slight-losses-against-us-dollar-jolts-data-eyed-202609291120",
+      "published": "Tue, 29 Sep 2026 11:20:02 GMT",
+      "ts": 1790680802
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 11:15:00 GMT",
+      "ts": 1790680500
+    },
     {
       "source": "MarketWatch",
       "title": "Morgan Stanley’s Mike Wilson says an S&P 500 correction may be exactly what the market needs",
@@ -73,13 +101,6 @@
       "ts": 1790677388
     },
     {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Breaks below 61.8% Fibo retracement at 0.7010",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-breaks-below-618-fibo-retracement-at-07010-202609291018",
-      "published": "Tue, 29 Sep 2026 10:18:15 GMT",
-      "ts": 1790677095
-    },
-    {
       "source": "CoinTelegraph",
       "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
       "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -106,13 +127,6 @@
       "link": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
       "published": "Tue, 29 Sep 2026 10:13:40 +0000",
       "ts": 1790676820
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/NZD: Underperformance bias with no further RBA hikes expected this year – TD Securities",
-      "link": "https://www.fxstreet.com/news/aud-nzd-underperformance-bias-with-rba-on-hold-td-securities-202609291010",
-      "published": "Tue, 29 Sep 2026 10:10:50 GMT",
-      "ts": 1790676650
     },
     {
       "source": "CoinTelegraph",
@@ -150,13 +164,6 @@
       "ts": 1790674845
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen steadies as intervention risks keep traders cautious",
-      "link": "https://www.fxstreet.com/news/japanese-yen-steadies-as-intervention-risks-keep-traders-cautious-202609290935",
-      "published": "Tue, 29 Sep 2026 09:35:43 GMT",
-      "ts": 1790674543
-    },
-    {
       "source": "Investing Crypto",
       "title": "Beldex Launches $1 Million Grants Program for Privacy Innovation",
       "link": "https://www.investing.com/news/cryptocurrency-news/beldex-launches-1-million-grants-program-for-privacy-innovation-4921886",
@@ -186,7 +193,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Two-thirds of the revenue needed to justify the AI buildout are still unaccounted for, says major consulting firm",
+      "title": "Two-thirds of the revenue needed to justify the AI build-out is still unaccounted for, says major consulting firm",
       "link": "https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 09:12:00 GMT",
       "ts": 1790673120
@@ -211,13 +218,6 @@
       "link": "https://www.marketwatch.com/story/kris-jenner-delists-13-5-million-home-that-was-featured-in-keeping-up-with-the-kardashians-dd162590?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 08:58:00 GMT",
       "ts": 1790672280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A month ago, this JPMorgan team urged caution on stocks. Now it’s going all in on tech.",
-      "link": "https://www.marketwatch.com/story/a-month-ago-this-jpmorgan-team-urged-caution-on-stocks-now-its-going-all-in-on-tech-f2e4b007?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 08:56:00 GMT",
-      "ts": 1790672160
     },
     {
       "source": "CoinTelegraph",
