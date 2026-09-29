@@ -1,13 +1,76 @@
 {
-  "updated": "2026-09-29T07:31:33.926849Z",
+  "updated": "2026-09-29T07:55:34.494427Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY: Intervention threat caps upside – MUFG",
+      "link": "https://www.fxstreet.com/news/usd-jpy-intervention-threat-caps-upside-mufg-202609290753",
+      "published": "Tue, 29 Sep 2026 07:53:43 GMT",
+      "ts": 1790668423
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD Rates: Bill financing costs rise with Fed hikes – DBS",
+      "link": "https://www.fxstreet.com/news/usd-rates-bill-financing-costs-rise-with-fed-hikes-dbs-202609290747",
+      "published": "Tue, 29 Sep 2026 07:47:17 GMT",
+      "ts": 1790668037
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields hold while Aussie yields retreat  after 2011-era peak run up",
+      "link": "https://www.investing.com/news/forex-news/us-treasury-yields-hold-while-aussie-yields-retreat--after-2011era-peak-run-up-4921704",
+      "published": "2026-09-29 07:44:21",
+      "ts": 1790667861
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD: Lagarde’s dovish tilt weighs on Euro – ING",
+      "link": "https://www.fxstreet.com/news/eur-usd-lagardes-dovish-tilt-weighs-on-euro-ing-202609290740",
+      "published": "Tue, 29 Sep 2026 07:40:48 GMT",
+      "ts": 1790667648
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD: RBA hike fails to lift Aussie – MUFG",
+      "link": "https://www.fxstreet.com/news/aud-usd-rba-hike-fails-to-lift-aussie-mufg-202609290739",
+      "published": "Tue, 29 Sep 2026 07:39:10 GMT",
+      "ts": 1790667550
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Treasuries: Yields near multi-decade highs – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/us-treasuries-yields-near-multi-decade-highs-deutsche-bank-202609290734",
+      "published": "Tue, 29 Sep 2026 07:34:51 GMT",
+      "ts": 1790667291
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD: Data risks support Dollar gains – ING",
+      "link": "https://www.fxstreet.com/news/usd-data-risks-support-dollar-gains-ing-202609290733",
+      "published": "Tue, 29 Sep 2026 07:33:35 GMT",
+      "ts": 1790667215
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD recovery beyond $61.00 faces selling risk",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-recovery-beyond-6100-faces-selling-risk-202609290731",
+      "published": "Tue, 29 Sep 2026 07:31:45 GMT",
+      "ts": 1790667105
+    },
     {
       "source": "FXStreet",
       "title": "Brent Oil: Higher prices to extend into 2027 – Deutsche Bank",
       "link": "https://www.fxstreet.com/news/brent-oil-higher-prices-to-extend-into-2027-deutsche-bank-202609290731",
       "published": "Tue, 29 Sep 2026 07:31:09 GMT",
       "ts": 1790667069
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds high, Aussie slips after RBA hike",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
+      "published": "2026-09-29 07:29:06",
+      "ts": 1790666946
     },
     {
       "source": "FXStreet",
@@ -24,34 +87,6 @@
       "ts": 1790666856
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss Franc: One-off export surge tempers SNB response – Commerzbank",
-      "link": "https://www.fxstreet.com/news/swiss-franc-one-off-export-surge-tempers-snb-response-commerzbank-202609290725",
-      "published": "Tue, 29 Sep 2026 07:25:16 GMT",
-      "ts": 1790666716
-    },
-    {
-      "source": "FXStreet",
-      "title": "S&P 500: Higher yields pressure equities – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/sp-500-higher-yields-pressure-equities-deutsche-bank-202609290718",
-      "published": "Tue, 29 Sep 2026 07:18:26 GMT",
-      "ts": 1790666306
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Stock-driven flows raise vulnerability – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-stock-driven-flows-raise-vulnerability-commerzbank-202609290717",
-      "published": "Tue, 29 Sep 2026 07:17:02 GMT",
-      "ts": 1790666222
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: US Dollar holds ground, markets await comments from Fed officials and US data",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-holds-ground-markets-await-comments-from-fed-officials-and-us-data-202609290714",
-      "published": "Tue, 29 Sep 2026 07:14:08 GMT",
-      "ts": 1790666048
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin consolidates below $85K resistance: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
@@ -66,20 +101,6 @@
       "ts": 1790665500
     },
     {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds two-month high, RBA decision looms",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
-      "published": "2026-09-29 06:53:36",
-      "ts": 1790664816
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar declines to near 0.5650 despite RBNZ hike bets",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-to-near-05650-despite-rbnz-hike-bets-202609290652",
-      "published": "Tue, 29 Sep 2026 06:52:45 GMT",
-      "ts": 1790664765
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin flat at $83.4k as markets weigh soaring yields, Iran tensions",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
@@ -92,13 +113,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
       "published": "Tue, 29 Sep 2026 06:23:47 +0000",
       "ts": 1790663027
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee slumps as Trump refutes claims of Iran sanctions relief",
-      "link": "https://www.fxstreet.com/news/indian-rupee-declines-to-two-month-low-as-us-iran-diplomacy-hopes-recede-202609290545",
-      "published": "Tue, 29 Sep 2026 05:45:09 GMT",
-      "ts": 1790660709
     },
     {
       "source": "CoinTelegraph",
@@ -127,13 +141,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/btse-bhutan-receives-financial-services-license-for-digital-asset-trading-services-in-gelephu-mindfulness-city-4921553",
       "published": "2026-09-29 04:30:33",
       "ts": 1790656233
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold sticks to gains as Fed hike bets, elevated bond yields and bullish USD cap recovery",
-      "link": "https://www.fxstreet.com/news/gold-bounces-off-eight-week-low-not-out-of-the-woods-amid-rising-fed-hike-bets-202609290422",
-      "published": "Tue, 29 Sep 2026 04:22:11 GMT",
-      "ts": 1790655731
     },
     {
       "source": "CoinDesk",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-faces-nearterm-pressure-as-rate-gap-and-trade-risks-widen-4918030",
       "published": "2026-09-25 19:52:08",
       "ts": 1790365928
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar holds near recent lows as U.S. dollar rally keeps pressure",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-near-recent-lows-as-us-dollar-rally-keeps-pressure-4917705",
-      "published": "2026-09-25 14:06:09",
-      "ts": 1790345169
     }
   ]
 }
