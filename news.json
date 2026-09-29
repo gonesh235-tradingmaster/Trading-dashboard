@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-29T09:13:48.735665Z",
+  "updated": "2026-09-29T09:33:45.530100Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Oil: Higher prices keep pressure on central banks – Scotiabank",
+      "link": "https://www.fxstreet.com/news/oil-higher-prices-keep-pressure-on-central-banks-scotiabank-202609290928",
+      "published": "Tue, 29 Sep 2026 09:28:06 GMT",
+      "ts": 1790674086
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
+      "link": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 09:26:00 GMT",
+      "ts": 1790673960
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Payrolls risk supports near term gains – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-payrolls-risk-supports-near-term-gains-ocbc-202609290925",
+      "published": "Tue, 29 Sep 2026 09:25:53 GMT",
+      "ts": 1790673953
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 09:16:00 GMT",
+      "ts": 1790673360
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI falls to near $91.00 as Middle East crude exports rebound",
+      "link": "https://www.fxstreet.com/news/wti-falls-to-near-9100-as-middle-east-crude-exports-rebound-202609290915",
+      "published": "Tue, 29 Sep 2026 09:15:05 GMT",
+      "ts": 1790673305
+    },
     {
       "source": "MarketWatch",
       "title": "Two-thirds of the revenue needed to justify the AI buildout are still unaccounted for, says major consulting firm",
@@ -99,27 +134,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/crystal-intelligence-aids-655k-crypto-fraud-probe-in-prague-4921759",
       "published": "2026-09-29 08:30:34",
       "ts": 1790670634
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro softens against Canadian Dollar amid ECB caution, oil strength",
-      "link": "https://www.fxstreet.com/news/euro-softens-against-canadian-dollar-amid-ecb-caution-oil-strength-202609290816",
-      "published": "Tue, 29 Sep 2026 08:16:10 GMT",
-      "ts": 1790669770
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold: Downside risks with key supports in focus – OCBC",
-      "link": "https://www.fxstreet.com/news/gold-downside-risks-with-key-supports-in-focus-ocbc-202609290801",
-      "published": "Tue, 29 Sep 2026 08:01:30 GMT",
-      "ts": 1790668890
-    },
-    {
-      "source": "FXStreet",
-      "title": "Iran’s Qalibaf: If Iran cannot sell its oil, no one can in the region",
-      "link": "https://www.fxstreet.com/news/irans-qalibaf-if-iran-cannot-sell-its-oil-no-one-can-202609290801",
-      "published": "Tue, 29 Sep 2026 08:01:16 GMT",
-      "ts": 1790668876
     },
     {
       "source": "Investing Forex",
@@ -246,20 +260,6 @@
       "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
       "published": "Mon, 28 Sep 2026 23:00:00 GMT",
       "ts": 1790636400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 22:45:00 GMT",
-      "ts": 1790635500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 22:35:00 GMT",
-      "ts": 1790634900
     },
     {
       "source": "Investing Crypto",
