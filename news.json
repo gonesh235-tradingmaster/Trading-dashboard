@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T05:10:05.617923Z",
+  "updated": "2026-09-29T05:27:34.087985Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Eyes $93.00 as bulls retain control above 200-SMA support on H4",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-eyes-9300-as-bulls-retain-control-above-200-sma-support-on-h4-202609290523",
+      "published": "Tue, 29 Sep 2026 05:23:51 GMT",
+      "ts": 1790659431
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Softens to near 1.1350 as bearish bias holds below key averages",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-softens-to-near-11350-as-bearish-bias-holds-below-key-averages-202609290511",
+      "published": "Tue, 29 Sep 2026 05:11:15 GMT",
+      "ts": 1790658675
+    },
     {
       "source": "FXStreet",
       "title": "Australia’s Treasurer Chalmers: Today’s rate rise was widely expected",
@@ -71,20 +85,6 @@
       "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 04:02:29 +0000",
       "ts": 1790654549
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Slips below 179.00 as bearish bias prevails",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-slips-below-17900-as-bearish-bias-prevails-202609290341",
-      "published": "Tue, 29 Sep 2026 03:41:09 GMT",
-      "ts": 1790653269
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD holds onto losses below $61 ahead of US Job Openings data",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-onto-losses-below-61-ahead-of-us-job-openings-data-202609290318",
-      "published": "Tue, 29 Sep 2026 03:18:00 GMT",
-      "ts": 1790651880
     },
     {
       "source": "Investing Forex",
