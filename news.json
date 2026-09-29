@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-29T09:33:45.530100Z",
+  "updated": "2026-09-29T09:56:20.366208Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
+      "link": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 09:50:22 +0000",
+      "ts": 1790675422
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+      "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
+      "published": "Tue, 29 Sep 2026 09:45:31 +0000",
+      "ts": 1790675131
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Novo Nordisk strikes second licensing deal since frosty capital-markets day",
+      "link": "https://www.marketwatch.com/story/novo-nordisk-strikes-second-licensing-deal-since-frosty-capital-markets-day-cc0db878?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 09:45:00 GMT",
+      "ts": 1790675100
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar firm near two-month peaks as Aussie drops to August lows after RBA hike",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
+      "published": "2026-09-29 09:40:45",
+      "ts": 1790674845
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen steadies as intervention risks keep traders cautious",
+      "link": "https://www.fxstreet.com/news/japanese-yen-steadies-as-intervention-risks-keep-traders-cautious-202609290935",
+      "published": "Tue, 29 Sep 2026 09:35:43 GMT",
+      "ts": 1790674543
+    },
+    {
+      "source": "FXStreet",
+      "title": "RBA delivered a risk management hike – TD Securities",
+      "link": "https://www.fxstreet.com/news/rba-delivered-a-risk-management-hike-td-securities-202609290933",
+      "published": "Tue, 29 Sep 2026 09:33:54 GMT",
+      "ts": 1790674434
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Beldex Launches $1 Million Grants Program for Privacy Innovation",
+      "link": "https://www.investing.com/news/cryptocurrency-news/beldex-launches-1-million-grants-program-for-privacy-innovation-4921886",
+      "published": "2026-09-29 09:30:36",
+      "ts": 1790674236
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bybit Completes SOC 2 Type II Audit, Strengthening Security and Compliance Assurance",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bybit-completes-soc-2-type-ii-audit-strengthening-security-and-compliance-assurance-4921887",
+      "published": "2026-09-29 09:30:36",
+      "ts": 1790674236
+    },
     {
       "source": "FXStreet",
       "title": "Oil: Higher prices keep pressure on central banks – Scotiabank",
@@ -122,13 +178,6 @@
       "ts": 1790670909
     },
     {
-      "source": "FXStreet",
-      "title": "USD/IDR: External headwinds keep upside risks – OCBC",
-      "link": "https://www.fxstreet.com/news/usd-idr-external-headwinds-keep-upside-risks-ocbc-202609290832",
-      "published": "Tue, 29 Sep 2026 08:32:48 GMT",
-      "ts": 1790670768
-    },
-    {
       "source": "Investing Crypto",
       "title": "Crystal Intelligence Aids $655K Crypto Fraud Probe in Prague",
       "link": "https://www.investing.com/news/cryptocurrency-news/crystal-intelligence-aids-655k-crypto-fraud-probe-in-prague-4921759",
@@ -141,13 +190,6 @@
       "link": "https://www.investing.com/news/forex-news/us-treasury-yields-hold-while-aussie-yields-retreat--after-2011era-peak-run-up-4921704",
       "published": "2026-09-29 07:53:37",
       "ts": 1790668417
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds high, Aussie slips after RBA hike",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
-      "published": "2026-09-29 07:29:06",
-      "ts": 1790666946
     },
     {
       "source": "Investing Crypto",
@@ -206,13 +248,6 @@
       "ts": 1790656233
     },
     {
-      "source": "FXStreet",
-      "title": "Gold bulls seem hesitant as Fed hike bets, higher bond yields and bullish USD cap upside",
-      "link": "https://www.fxstreet.com/news/gold-bounces-off-eight-week-low-not-out-of-the-woods-amid-rising-fed-hike-bets-202609290422",
-      "published": "Tue, 29 Sep 2026 04:22:11 GMT",
-      "ts": 1790655731
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
       "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
@@ -255,13 +290,6 @@
       "ts": 1790640180
     },
     {
-      "source": "MarketWatch",
-      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 23:00:00 GMT",
-      "ts": 1790636400
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin falls over 1% as risk sentiment takes a hit from bond rout, Iran tensions",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
@@ -295,13 +323,6 @@
       "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 18:39:09 +0000",
       "ts": 1790620749
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-      "link": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 18:02:54 +0000",
-      "ts": 1790618574
     },
     {
       "source": "CoinDesk",
@@ -367,13 +388,6 @@
       "ts": 1790598600
     },
     {
-      "source": "CoinDesk",
-      "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
-      "link": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin",
-      "published": "Mon, 28 Sep 2026 12:13:09 +0000",
-      "ts": 1790597589
-    },
-    {
       "source": "Investing Crypto",
       "title": "Strategy purchases 1,665 bitcoin",
       "link": "https://www.investing.com/news/cryptocurrency-news/strategy-purchases-1665-bitcoin-432SI-4920202",
@@ -393,20 +407,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-us-data-tests-dollar-rally-4919636",
       "published": "2026-09-28 09:34:08",
       "ts": 1790588048
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stalls in bull flag below $87,363: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-27 19:02:26",
-      "ts": 1790535746
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steadies above $84,000 as historic Q3 rally nears its end",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-84000-as-historic-q3-rally-nears-its-end-4918823",
-      "published": "2026-09-27 05:48:39",
-      "ts": 1790488119
     },
     {
       "source": "Investing Forex",
