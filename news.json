@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-29T11:46:27.529734Z",
+  "updated": "2026-09-29T12:13:28.803465Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Taking Ozempic and worried about vision loss? This test can help you understand your risk.",
+      "link": "https://www.marketwatch.com/story/taking-ozempic-a-routine-eye-exam-could-help-you-understand-your-risk-for-vision-loss-3392c1a0?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 12:03:00 GMT",
+      "ts": 1790683380
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ECB puts AI agent payments on the digital euro drawing board",
+      "link": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 12:00:45 +0000",
+      "ts": 1790683245
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecasts: XAG/USD holds below $ 61.00 amid US Dollar strength",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-holds-below-6100-amid-us-dollar-strength-202609291159",
+      "published": "Tue, 29 Sep 2026 11:59:52 GMT",
+      "ts": 1790683192
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Sellers retain control near September low",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-sellers-retain-control-near-september-low-202609291159",
+      "published": "Tue, 29 Sep 2026 11:59:43 GMT",
+      "ts": 1790683183
+    },
     {
       "source": "FXStreet",
       "title": "Singapore Dollar: MAS tightening expectations support resilience – OCBC",
@@ -78,20 +106,6 @@
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-falls-toward-05650-despite-rising-rbnz-rate-hike-bets-202609291101",
       "published": "Tue, 29 Sep 2026 11:01:03 GMT",
       "ts": 1790679663
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold steadies after sharp drop as traders assess Fed outlook, Middle East risks",
-      "link": "https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-assess-fed-outlook-middle-east-risks-202609291058",
-      "published": "Tue, 29 Sep 2026 10:58:18 GMT",
-      "ts": 1790679498
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro approaches yearly lows at 1.1324 against an unstoppable US Dollar",
-      "link": "https://www.fxstreet.com/news/euro-approaches-yearly-lows-at-11324-against-an-unstoppable-us-dollar-202609291050",
-      "published": "Tue, 29 Sep 2026 10:50:24 GMT",
-      "ts": 1790679024
     },
     {
       "source": "Investing Crypto",
@@ -227,13 +241,6 @@
       "ts": 1790672400
     },
     {
-      "source": "MarketWatch",
-      "title": "Kris Jenner delists $13.5 million home that was featured in ‘Keeping Up With the Kardashians’",
-      "link": "https://www.marketwatch.com/story/kris-jenner-delists-13-5-million-home-that-was-featured-in-keeping-up-with-the-kardashians-dd162590?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 08:58:00 GMT",
-      "ts": 1790672280
-    },
-    {
       "source": "CoinTelegraph",
       "title": "BitMine could hit its 5% Ether supply target within weeks — then what?",
       "link": "https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -330,13 +337,6 @@
       "link": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 02:32:36 +0000",
       "ts": 1790649156
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
-      "link": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 01:17:49 +0000",
-      "ts": 1790644669
     },
     {
       "source": "Investing Crypto",
