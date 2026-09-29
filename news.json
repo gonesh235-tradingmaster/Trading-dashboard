@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-29T07:12:13.914335Z",
+  "updated": "2026-09-29T07:31:33.926849Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Brent Oil: Higher prices to extend into 2027 – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/brent-oil-higher-prices-to-extend-into-2027-deutsche-bank-202609290731",
+      "published": "Tue, 29 Sep 2026 07:31:09 GMT",
+      "ts": 1790667069
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD: RBA hike fails to lift Australian Dollar – ING",
+      "link": "https://www.fxstreet.com/news/aud-usd-rba-hike-fails-to-lift-australian-dollar-ing-202609290728",
+      "published": "Tue, 29 Sep 2026 07:28:47 GMT",
+      "ts": 1790666927
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc languishes at 16-month lows despite bright KOF leading Indicators data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-languishes-at-16-month-lows-despite-bright-kof-leading-indicators-data-202609290727",
+      "published": "Tue, 29 Sep 2026 07:27:36 GMT",
+      "ts": 1790666856
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: One-off export surge tempers SNB response – Commerzbank",
+      "link": "https://www.fxstreet.com/news/swiss-franc-one-off-export-surge-tempers-snb-response-commerzbank-202609290725",
+      "published": "Tue, 29 Sep 2026 07:25:16 GMT",
+      "ts": 1790666716
+    },
+    {
+      "source": "FXStreet",
+      "title": "S&P 500: Higher yields pressure equities – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/sp-500-higher-yields-pressure-equities-deutsche-bank-202609290718",
+      "published": "Tue, 29 Sep 2026 07:18:26 GMT",
+      "ts": 1790666306
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Stock-driven flows raise vulnerability – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-stock-driven-flows-raise-vulnerability-commerzbank-202609290717",
+      "published": "Tue, 29 Sep 2026 07:17:02 GMT",
+      "ts": 1790666222
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar holds ground, markets await comments from Fed officials and US data",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-holds-ground-markets-await-comments-from-fed-officials-and-us-data-202609290714",
+      "published": "Tue, 29 Sep 2026 07:14:08 GMT",
+      "ts": 1790666048
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates below $85K resistance: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+      "published": "2026-09-29 07:11:54",
+      "ts": 1790665914
+    },
     {
       "source": "MarketWatch",
       "title": "The stock market usually booms in the November-to-April stretch. This indicator suggests otherwise.",
@@ -31,53 +87,11 @@
       "ts": 1790664592
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: Likely revisit yearly high at around 101.80",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-likely-revisit-yearly-high-at-around-10180-202609290642",
-      "published": "Tue, 29 Sep 2026 06:42:46 GMT",
-      "ts": 1790664166
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar: RBA hike reinforces hawkish stance – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-reinforces-hawkish-stance-deutsche-bank-202609290631",
-      "published": "Tue, 29 Sep 2026 06:31:59 GMT",
-      "ts": 1790663519
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar: RBA’s hawkish hike caps upside – Commerzbank",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rbas-hawkish-hike-caps-upside-commerzbank-202609290629",
-      "published": "Tue, 29 Sep 2026 06:29:04 GMT",
-      "ts": 1790663344
-    },
-    {
       "source": "CoinDesk",
       "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
       "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
       "published": "Tue, 29 Sep 2026 06:23:47 +0000",
       "ts": 1790663027
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar dips to fresh lows sub-0.7000 despite hawkish RBA Bullock",
-      "link": "https://www.fxstreet.com/news/australian-dollar-dips-to-fresh-lows-sub-07000-despite-hawkish-rba-bullock-202609290622",
-      "published": "Tue, 29 Sep 2026 06:22:42 GMT",
-      "ts": 1790662962
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Tests nine-day EMA support after falling below 157.50",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-tests-nine-day-ema-support-after-falling-below-15750-202609290615",
-      "published": "Tue, 29 Sep 2026 06:15:21 GMT",
-      "ts": 1790662521
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Fresh downside leg likely below 1.3200",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-fresh-downside-leg-likely-below-13200-202609290604",
-      "published": "Tue, 29 Sep 2026 06:04:42 GMT",
-      "ts": 1790661882
     },
     {
       "source": "FXStreet",
@@ -155,13 +169,6 @@
       "link": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 01:17:49 +0000",
       "ts": 1790644669
-    },
-    {
-      "source": "FXStreet",
-      "title": "Bullock Speech: RBA Governor speaks on policy outlook after the expected interest rate hike",
-      "link": "https://www.fxstreet.com/news/rba-set-to-hike-interest-rate-to-460-in-september-as-inflation-remains-elevated-202609290030",
-      "published": "Tue, 29 Sep 2026 00:30:00 GMT",
-      "ts": 1790641800
     },
     {
       "source": "MarketWatch",
@@ -246,13 +253,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
       "published": "2026-09-28 20:07:07",
       "ts": 1790626027
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin consolidates above $82,650 support: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "published": "2026-09-28 19:19:13",
-      "ts": 1790623153
     },
     {
       "source": "CoinTelegraph",
