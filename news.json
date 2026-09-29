@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T08:14:02.898467Z",
+  "updated": "2026-09-29T08:34:25.666674Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "USD/IDR: External headwinds keep upside risks – OCBC",
+      "link": "https://www.fxstreet.com/news/usd-idr-external-headwinds-keep-upside-risks-ocbc-202609290832",
+      "published": "Tue, 29 Sep 2026 08:32:48 GMT",
+      "ts": 1790670768
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro softens against Canadian Dollar amid ECB caution, oil strength",
+      "link": "https://www.fxstreet.com/news/euro-softens-against-canadian-dollar-amid-ecb-caution-oil-strength-202609290816",
+      "published": "Tue, 29 Sep 2026 08:16:10 GMT",
+      "ts": 1790669770
+    },
     {
       "source": "FXStreet",
       "title": "Gold: Downside risks with key supports in focus – OCBC",
@@ -31,18 +45,18 @@
       "ts": 1790668423
     },
     {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields hold while Aussie yields retreat  after 2011-era peak run up",
+      "link": "https://www.investing.com/news/forex-news/us-treasury-yields-hold-while-aussie-yields-retreat--after-2011era-peak-run-up-4921704",
+      "published": "2026-09-29 07:53:37",
+      "ts": 1790668417
+    },
+    {
       "source": "FXStreet",
       "title": "USD Rates: Bill financing costs rise with Fed hikes – DBS",
       "link": "https://www.fxstreet.com/news/usd-rates-bill-financing-costs-rise-with-fed-hikes-dbs-202609290747",
       "published": "Tue, 29 Sep 2026 07:47:17 GMT",
       "ts": 1790668037
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury yields hold while Aussie yields retreat  after 2011-era peak run up",
-      "link": "https://www.investing.com/news/forex-news/us-treasury-yields-hold-while-aussie-yields-retreat--after-2011era-peak-run-up-4921704",
-      "published": "2026-09-29 07:44:21",
-      "ts": 1790667861
     },
     {
       "source": "FXStreet",
@@ -57,27 +71,6 @@
       "link": "https://www.fxstreet.com/news/aud-usd-rba-hike-fails-to-lift-aussie-mufg-202609290739",
       "published": "Tue, 29 Sep 2026 07:39:10 GMT",
       "ts": 1790667550
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Treasuries: Yields near multi-decade highs – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/us-treasuries-yields-near-multi-decade-highs-deutsche-bank-202609290734",
-      "published": "Tue, 29 Sep 2026 07:34:51 GMT",
-      "ts": 1790667291
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD: Data risks support Dollar gains – ING",
-      "link": "https://www.fxstreet.com/news/usd-data-risks-support-dollar-gains-ing-202609290733",
-      "published": "Tue, 29 Sep 2026 07:33:35 GMT",
-      "ts": 1790667215
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD recovery beyond $61.00 faces selling risk",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-recovery-beyond-6100-faces-selling-risk-202609290731",
-      "published": "Tue, 29 Sep 2026 07:31:45 GMT",
-      "ts": 1790667105
     },
     {
       "source": "Investing Forex",
@@ -141,6 +134,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/btse-bhutan-receives-financial-services-license-for-digital-asset-trading-services-in-gelephu-mindfulness-city-4921553",
       "published": "2026-09-29 04:30:33",
       "ts": 1790656233
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold bulls seem hesitant as Fed hike bets, higher bond yields and bullish USD cap upside",
+      "link": "https://www.fxstreet.com/news/gold-bounces-off-eight-week-low-not-out-of-the-woods-amid-rising-fed-hike-bets-202609290422",
+      "published": "Tue, 29 Sep 2026 04:22:11 GMT",
+      "ts": 1790655731
     },
     {
       "source": "CoinDesk",
