@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-29T17:16:51.362023Z",
+  "updated": "2026-09-29T17:41:56.447093Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Barr calls economy “strikingly” resilient, defends last hike",
+      "link": "https://www.fxstreet.com/news/feds-barr-calls-economy-strikingly-resilient-defends-last-hike-202609291735",
+      "published": "Tue, 29 Sep 2026 17:35:35 GMT",
+      "ts": 1790703335
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 17:30:00 GMT",
+      "ts": 1790703000
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price retreats as rising US yields, Hormuz tensions bolster US Dollar",
+      "link": "https://www.fxstreet.com/news/silver-price-retreats-as-rising-us-yields-hormuz-tensions-bolster-us-dollar-202609291719",
+      "published": "Tue, 29 Sep 2026 17:19:03 GMT",
+      "ts": 1790702343
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+      "link": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 17:14:36 +0000",
+      "ts": 1790702076
+    },
     {
       "source": "MarketWatch",
       "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
@@ -122,13 +150,6 @@
       "ts": 1790695260
     },
     {
-      "source": "MarketWatch",
-      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
-      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 15:16:00 GMT",
-      "ts": 1790694960
-    },
-    {
       "source": "FXStreet",
       "title": "Canada: GDP growth moderates in July but stays on track for solid quarter – NBC",
       "link": "https://www.fxstreet.com/news/canada-gdp-growth-moderates-in-july-but-stays-on-track-for-solid-quarter-nbc-202609291513",
@@ -141,20 +162,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-rates-reaction-follows-gdp-td-securities-202609291506",
       "published": "Tue, 29 Sep 2026 15:06:18 GMT",
       "ts": 1790694378
-    },
-    {
-      "source": "FXStreet",
-      "title": "India rates: Gradual hiking path – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/india-rates-gradual-hiking-path-standard-chartered-202609291502",
-      "published": "Tue, 29 Sep 2026 15:02:20 GMT",
-      "ts": 1790694140
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar falls below 0.7000 as RBA hike fails to convince bulls",
-      "link": "https://www.fxstreet.com/news/australian-dollar-falls-below-07000-as-rba-hike-fails-to-convince-bulls-202609291449",
-      "published": "Tue, 29 Sep 2026 14:49:35 GMT",
-      "ts": 1790693375
     },
     {
       "source": "Investing Forex",
@@ -288,13 +295,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 10:04:42 +0000",
       "ts": 1790676282
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
-      "link": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 09:50:22 +0000",
-      "ts": 1790675422
     },
     {
       "source": "CoinDesk",
