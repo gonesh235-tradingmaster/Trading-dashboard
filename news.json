@@ -1,13 +1,62 @@
 {
-  "updated": "2026-09-29T08:34:25.666674Z",
+  "updated": "2026-09-29T08:55:53.096470Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar sticks to cautious RBA-led losses; struggles near two-week low vs Yen",
+      "link": "https://www.fxstreet.com/news/australian-dollar-sticks-to-cautious-rba-led-losses-struggles-near-two-week-low-vs-yen-202609290855",
+      "published": "Tue, 29 Sep 2026 08:55:11 GMT",
+      "ts": 1790672111
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BitMine could hit its 5% Ether supply target within weeks — then what?",
+      "link": "https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 08:51:25 +0000",
+      "ts": 1790671885
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound slips as oil-fuelled dollar demand builds",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-oilfuelled-dollar-demand-builds-4921804",
+      "published": "2026-09-29 08:50:08",
+      "ts": 1790671808
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures remain mixed as Fed rate hike concerns weigh on markets",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-remain-mixed-as-fed-rate-hike-concerns-weigh-on-markets-202609290848",
+      "published": "Tue, 29 Sep 2026 08:48:51 GMT",
+      "ts": 1790671731
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar stays fundamentally supported – Scotiabank",
+      "link": "https://www.fxstreet.com/news/us-dollar-stays-fundamentally-supported-scotiabank-202609290837",
+      "published": "Tue, 29 Sep 2026 08:37:07 GMT",
+      "ts": 1790671027
+    },
+    {
+      "source": "FXStreet",
+      "title": "ECB’s Kazimir: Key for me will be January repricing",
+      "link": "https://www.fxstreet.com/news/ecbs-kazimir-key-for-me-will-be-january-repricing-202609290835",
+      "published": "Tue, 29 Sep 2026 08:35:09 GMT",
+      "ts": 1790670909
+    },
     {
       "source": "FXStreet",
       "title": "USD/IDR: External headwinds keep upside risks – OCBC",
       "link": "https://www.fxstreet.com/news/usd-idr-external-headwinds-keep-upside-risks-ocbc-202609290832",
       "published": "Tue, 29 Sep 2026 08:32:48 GMT",
       "ts": 1790670768
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Crystal Intelligence Aids $655K Crypto Fraud Probe in Prague",
+      "link": "https://www.investing.com/news/cryptocurrency-news/crystal-intelligence-aids-655k-crypto-fraud-probe-in-prague-4921759",
+      "published": "2026-09-29 08:30:34",
+      "ts": 1790670634
     },
     {
       "source": "FXStreet",
@@ -38,39 +87,11 @@
       "ts": 1790668495
     },
     {
-      "source": "FXStreet",
-      "title": "USD/JPY: Intervention threat caps upside – MUFG",
-      "link": "https://www.fxstreet.com/news/usd-jpy-intervention-threat-caps-upside-mufg-202609290753",
-      "published": "Tue, 29 Sep 2026 07:53:43 GMT",
-      "ts": 1790668423
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasury yields hold while Aussie yields retreat  after 2011-era peak run up",
       "link": "https://www.investing.com/news/forex-news/us-treasury-yields-hold-while-aussie-yields-retreat--after-2011era-peak-run-up-4921704",
       "published": "2026-09-29 07:53:37",
       "ts": 1790668417
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD Rates: Bill financing costs rise with Fed hikes – DBS",
-      "link": "https://www.fxstreet.com/news/usd-rates-bill-financing-costs-rise-with-fed-hikes-dbs-202609290747",
-      "published": "Tue, 29 Sep 2026 07:47:17 GMT",
-      "ts": 1790668037
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD: Lagarde’s dovish tilt weighs on Euro – ING",
-      "link": "https://www.fxstreet.com/news/eur-usd-lagardes-dovish-tilt-weighs-on-euro-ing-202609290740",
-      "published": "Tue, 29 Sep 2026 07:40:48 GMT",
-      "ts": 1790667648
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD: RBA hike fails to lift Aussie – MUFG",
-      "link": "https://www.fxstreet.com/news/aud-usd-rba-hike-fails-to-lift-aussie-mufg-202609290739",
-      "published": "Tue, 29 Sep 2026 07:39:10 GMT",
-      "ts": 1790667550
     },
     {
       "source": "Investing Forex",
@@ -283,13 +304,6 @@
       "ts": 1790618400
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
-      "link": "https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 16:48:00 +0000",
-      "ts": 1790614080
-    },
-    {
       "source": "CoinDesk",
       "title": "The restaking gold rush is over, and top protocols are barely making a profit",
       "link": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
@@ -395,13 +409,6 @@
       "ts": 1790488119
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
-      "published": "2026-09-26 12:27:32",
-      "ts": 1790425652
-    },
-    {
       "source": "Investing Forex",
       "title": "Bond rout in shorter-term maturities eases up, but U.S. yields end week with gains",
       "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
       "published": "2026-09-25 20:03:29",
       "ts": 1790366609
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar faces near-term pressure as rate gap and trade risks widen",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-faces-nearterm-pressure-as-rate-gap-and-trade-risks-widen-4918030",
-      "published": "2026-09-25 19:52:08",
-      "ts": 1790365928
     }
   ]
 }
