@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T04:46:32.479453Z",
+  "updated": "2026-09-29T05:10:05.617923Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australia’s Treasurer Chalmers: Today’s rate rise was widely expected",
+      "link": "https://www.fxstreet.com/news/australias-treasurer-chalmers-todays-rate-rise-was-widely-expected-202609290454",
+      "published": "Tue, 29 Sep 2026 04:54:25 GMT",
+      "ts": 1790657665
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar retakes 1.2400 vs New Zealand Dollar after RBA's 25 bps rate hike",
+      "link": "https://www.fxstreet.com/news/australian-dollar-retakes-12400-vs-new-zealand-dollar-after-rbas-25-bps-rate-hike-202609290447",
+      "published": "Tue, 29 Sep 2026 04:47:49 GMT",
+      "ts": 1790657269
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar gains support as RBA delivers 25-basis-point rate hike",
@@ -22,6 +36,13 @@
       "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609290435",
       "published": "Tue, 29 Sep 2026 04:35:32 GMT",
       "ts": 1790656532
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "BTSE Bhutan Receives Financial Services License for Digital Asset Trading Services in Gelephu Mindfulness City",
+      "link": "https://www.investing.com/news/cryptocurrency-news/btse-bhutan-receives-financial-services-license-for-digital-asset-trading-services-in-gelephu-mindfulness-city-4921553",
+      "published": "2026-09-29 04:30:33",
+      "ts": 1790656233
     },
     {
       "source": "FXStreet",
@@ -73,25 +94,11 @@
       "ts": 1790651246
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen declines amid intervention risks",
-      "link": "https://www.fxstreet.com/news/japanese-yen-declines-amid-intervention-risks-202609290236",
-      "published": "Tue, 29 Sep 2026 02:36:58 GMT",
-      "ts": 1790649418
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
       "link": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 02:32:36 +0000",
       "ts": 1790649156
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar consolidates above 0.7000 vs USD as bears await RBA rate decision",
-      "link": "https://www.fxstreet.com/news/australian-dollar-consolidates-above-07000-vs-usd-as-bears-await-rba-rate-decision-202609290223",
-      "published": "Tue, 29 Sep 2026 02:23:23 GMT",
-      "ts": 1790648603
     },
     {
       "source": "MarketWatch",
@@ -109,7 +116,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Breaking: RBA lifts interest rate by 25 bps to 4.60%, as expected",
+      "title": "Bullock Speech: RBA Governor to address a press conference after raising interest rate",
       "link": "https://www.fxstreet.com/news/rba-set-to-hike-interest-rate-to-460-in-september-as-inflation-remains-elevated-202609290030",
       "published": "Tue, 29 Sep 2026 00:30:00 GMT",
       "ts": 1790641800
@@ -407,13 +414,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-faces-nearterm-pressure-as-rate-gap-and-trade-risks-widen-4918030",
       "published": "2026-09-25 19:52:08",
       "ts": 1790365928
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "ChangeNOW Unveils TOKEN2049 Singapore Lineup, Bit Digital Stage Address, and Fast Track Wallet Program",
-      "link": "https://www.investing.com/news/cryptocurrency-news/changenow-unveils-token2049-singapore-lineup-bit-digital-stage-address-and-fast-track-wallet-program-4917735",
-      "published": "2026-09-25 14:30:39",
-      "ts": 1790346639
     },
     {
       "source": "Investing Forex",
