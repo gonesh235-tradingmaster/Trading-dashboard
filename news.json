@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T09:56:20.366208Z",
+  "updated": "2026-09-29T10:13:35.884511Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "AUD/NZD: Underperformance bias with RBA on hold – TD Securities",
+      "link": "https://www.fxstreet.com/news/aud-nzd-underperformance-bias-with-rba-on-hold-td-securities-202609291010",
+      "published": "Tue, 29 Sep 2026 10:10:50 GMT",
+      "ts": 1790676650
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
+      "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 10:04:42 +0000",
+      "ts": 1790676282
+    },
     {
       "source": "CoinTelegraph",
       "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
@@ -171,13 +185,6 @@
       "ts": 1790671027
     },
     {
-      "source": "FXStreet",
-      "title": "ECB’s Kazimir: Key for me will be January repricing",
-      "link": "https://www.fxstreet.com/news/ecbs-kazimir-key-for-me-will-be-january-repricing-202609290835",
-      "published": "Tue, 29 Sep 2026 08:35:09 GMT",
-      "ts": 1790670909
-    },
-    {
       "source": "Investing Crypto",
       "title": "Crystal Intelligence Aids $655K Crypto Fraud Probe in Prague",
       "link": "https://www.investing.com/news/cryptocurrency-news/crystal-intelligence-aids-655k-crypto-fraud-probe-in-prague-4921759",
@@ -316,13 +323,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
       "published": "2026-09-28 20:07:07",
       "ts": 1790626027
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "US SEC follows CFTC in staff guidance for crypto",
-      "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 18:39:09 +0000",
-      "ts": 1790620749
     },
     {
       "source": "CoinDesk",
