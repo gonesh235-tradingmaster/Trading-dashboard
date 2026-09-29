@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T05:57:52.758071Z",
+  "updated": "2026-09-29T06:20:34.287570Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Tests nine-day EMA support after falling below 157.50",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-tests-nine-day-ema-support-after-falling-below-15750-202609290615",
+      "published": "Tue, 29 Sep 2026 06:15:21 GMT",
+      "ts": 1790662521
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Fresh downside leg likely below 1.3200",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-fresh-downside-leg-likely-below-13200-202609290604",
+      "published": "Tue, 29 Sep 2026 06:04:42 GMT",
+      "ts": 1790661882
+    },
     {
       "source": "FXStreet",
       "title": "Indian Rupee declines to two-month low as US-Iran diplomacy hopes recede",
@@ -66,20 +80,6 @@
       "ts": 1790657269
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar gains support as RBA delivers 25-basis-point rate hike",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gains-support-as-rba-delivers-25-basis-point-rate-hike-202609290437",
-      "published": "Tue, 29 Sep 2026 04:37:39 GMT",
-      "ts": 1790656659
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar gains as RBA hikes interest rates by 25 bps to 4.6%",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gains-as-rba-hikes-interest-rates-by-25-bps-to-46-202609290436",
-      "published": "Tue, 29 Sep 2026 04:36:24 GMT",
-      "ts": 1790656584
-    },
-    {
       "source": "Investing Crypto",
       "title": "BTSE Bhutan Receives Financial Services License for Digital Asset Trading Services in Gelephu Mindfulness City",
       "link": "https://www.investing.com/news/cryptocurrency-news/btse-bhutan-receives-financial-services-license-for-digital-asset-trading-services-in-gelephu-mindfulness-city-4921553",
@@ -137,7 +137,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Bullock Speech: RBA Governor discusses on policy outlook after the expected interest rate hike",
+      "title": "Bullock Speech: RBA Governor speaks on policy outlook after the expected interest rate hike",
       "link": "https://www.fxstreet.com/news/rba-set-to-hike-interest-rate-to-460-in-september-as-inflation-remains-elevated-202609290030",
       "published": "Tue, 29 Sep 2026 00:30:00 GMT",
       "ts": 1790641800
