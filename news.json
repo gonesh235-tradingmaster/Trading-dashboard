@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T03:10:41.550538Z",
+  "updated": "2026-09-29T03:29:34.338442Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD holds onto losses below $61 ahead of US Job Openings data",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-onto-losses-below-61-ahead-of-us-job-openings-data-202609290318",
+      "published": "Tue, 29 Sep 2026 03:18:00 GMT",
+      "ts": 1790651880
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds two-month high, RBA decision looms",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
+      "published": "2026-09-29 03:07:26",
+      "ts": 1790651246
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen declines amid intervention risks",
@@ -78,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67411-vs-67399-previous-202609290115",
       "published": "Tue, 29 Sep 2026 01:15:28 GMT",
       "ts": 1790644528
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar slumps to its lowest level since July 9, eyes 1.4200 vs bullish USD",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-slumps-to-its-lowest-level-since-july-9-eyes-14200-vs-bullish-usd-202609290110",
-      "published": "Tue, 29 Sep 2026 01:10:58 GMT",
-      "ts": 1790644258
     },
     {
       "source": "FXStreet",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-near-recent-lows-as-us-dollar-rally-keeps-pressure-4917705",
       "published": "2026-09-25 14:06:09",
       "ts": 1790345169
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees yen strengthening on reduced foreign investment",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-yen-strengthening-on-reduced-foreign-investment-93CH-4916952",
-      "published": "2026-09-25 09:06:41",
-      "ts": 1790327201
     }
   ]
 }
