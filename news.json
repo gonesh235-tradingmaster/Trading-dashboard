@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-29T15:58:57.998670Z",
+  "updated": "2026-09-29T16:21:12.088696Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 16:15:00 GMT",
+      "ts": 1790698500
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound slips as 2004-era US yields lift the US Dollar",
+      "link": "https://www.fxstreet.com/news/british-pound-slips-to-132-as-2004-era-us-yields-lift-the-us-dollar-202609291611",
+      "published": "Tue, 29 Sep 2026 16:11:53 GMT",
+      "ts": 1790698313
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
+      "link": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
+      "published": "Tue, 29 Sep 2026 16:00:00 +0000",
+      "ts": 1790697600
+    },
     {
       "source": "FXStreet",
       "title": "BoE’s Taylor says prolonged energy shock could cement case for hikes",
@@ -122,13 +143,6 @@
       "ts": 1790690859
     },
     {
-      "source": "FXStreet",
-      "title": "US JOLTS Job openings dropped to 7.079 million in August",
-      "link": "https://www.fxstreet.com/news/us-jolts-job-openings-dropped-to-7079-million-in-august-202609291403",
-      "published": "Tue, 29 Sep 2026 14:03:06 GMT",
-      "ts": 1790690586
-    },
-    {
       "source": "MarketWatch",
       "title": "My kids don’t want my decades’ worth of stuff. Here’s how I’m learning to let go of it.",
       "link": "https://www.marketwatch.com/story/my-kids-dont-want-my-decades-worth-of-stuff-heres-how-im-learning-to-let-go-of-it-74f91da6?mod=mw_rss_topstories",
@@ -141,13 +155,6 @@
       "link": "https://www.marketwatch.com/story/junk-bonds-are-heading-for-worst-month-since-2022-after-punishing-global-selloff-12b70a3e?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 14:00:00 GMT",
       "ts": 1790690400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Before you invest in the Oura IPO, understand what you’re buying",
-      "link": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 13:45:00 GMT",
-      "ts": 1790689500
     },
     {
       "source": "Investing Crypto",
@@ -344,13 +351,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
       "published": "Tue, 29 Sep 2026 06:23:47 +0000",
       "ts": 1790663027
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
-      "link": "https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink",
-      "published": "Tue, 29 Sep 2026 05:31:44 +0000",
-      "ts": 1790659904
     },
     {
       "source": "CoinTelegraph",
