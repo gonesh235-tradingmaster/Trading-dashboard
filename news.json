@@ -1,13 +1,55 @@
 {
-  "updated": "2026-09-29T10:33:06.987941Z",
+  "updated": "2026-09-29T10:55:53.893792Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro approaches yearly lows at 1.1324 against an unstoppable US Dollar",
+      "link": "https://www.fxstreet.com/news/euro-approaches-yearly-lows-at-11324-against-an-unstoppable-us-dollar-202609291050",
+      "published": "Tue, 29 Sep 2026 10:50:24 GMT",
+      "ts": 1790679024
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 10:46:05 +0000",
+      "ts": 1790678765
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Two stock picks from a money manager who expects small caps to roar in 2027",
+      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 10:46:00 GMT",
+      "ts": 1790678760
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: DXY approaches June high – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-dxy-approaches-june-high-bbh-202609291038",
+      "published": "Tue, 29 Sep 2026 10:38:24 GMT",
+      "ts": 1790678304
+    },
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso: USD/MXN rally nears forecast zone – Societe Generale",
+      "link": "https://www.fxstreet.com/news/usd-mxn-rally-nears-forecast-zone-societe-generale-202609291035",
+      "published": "Tue, 29 Sep 2026 10:35:35 GMT",
+      "ts": 1790678135
+    },
     {
       "source": "FXStreet",
       "title": "Silver price today: Silver falls, according to FXStreet data",
       "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609291029",
       "published": "Tue, 29 Sep 2026 10:29:54 GMT",
       "ts": 1790677794
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+      "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
+      "published": "Tue, 29 Sep 2026 10:28:51 +0000",
+      "ts": 1790677731
     },
     {
       "source": "FXStreet",
@@ -46,7 +88,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Blockchain.com targets $500 million IPO at up to $6 billion valuation",
+      "title": "Blockchain.com targets $500 million IPO this year at up to $6 billion valuation",
       "link": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
       "published": "Tue, 29 Sep 2026 10:13:40 +0000",
       "ts": 1790676820
@@ -122,13 +164,6 @@
       "ts": 1790674236
     },
     {
-      "source": "FXStreet",
-      "title": "Oil: Higher prices keep pressure on central banks – Scotiabank",
-      "link": "https://www.fxstreet.com/news/oil-higher-prices-keep-pressure-on-central-banks-scotiabank-202609290928",
-      "published": "Tue, 29 Sep 2026 09:28:06 GMT",
-      "ts": 1790674086
-    },
-    {
       "source": "MarketWatch",
       "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
       "link": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
@@ -136,25 +171,11 @@
       "ts": 1790673960
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Payrolls risk supports near term gains – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-payrolls-risk-supports-near-term-gains-ocbc-202609290925",
-      "published": "Tue, 29 Sep 2026 09:25:53 GMT",
-      "ts": 1790673953
-    },
-    {
       "source": "MarketWatch",
       "title": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 09:16:00 GMT",
       "ts": 1790673360
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI falls to near $91.00 as Middle East crude exports rebound",
-      "link": "https://www.fxstreet.com/news/wti-falls-to-near-9100-as-middle-east-crude-exports-rebound-202609290915",
-      "published": "Tue, 29 Sep 2026 09:15:05 GMT",
-      "ts": 1790673305
     },
     {
       "source": "MarketWatch",
@@ -304,13 +325,6 @@
       "ts": 1790649156
     },
     {
-      "source": "MarketWatch",
-      "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
-      "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 01:31:00 GMT",
-      "ts": 1790645460
-    },
-    {
       "source": "CoinTelegraph",
       "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
       "link": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -323,13 +337,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
       "published": "2026-09-28 21:48:41",
       "ts": 1790632121
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
-      "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 20:41:44 +0000",
-      "ts": 1790628104
     },
     {
       "source": "Investing Forex",
@@ -351,13 +358,6 @@
       "link": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
       "published": "Mon, 28 Sep 2026 16:24:51 +0000",
       "ts": 1790612691
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
-      "link": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
-      "published": "Mon, 28 Sep 2026 16:16:40 +0000",
-      "ts": 1790612200
     },
     {
       "source": "Investing Crypto",
