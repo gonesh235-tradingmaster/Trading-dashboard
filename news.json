@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-29T03:47:47.522500Z",
+  "updated": "2026-09-29T04:10:25.599161Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc declines as US Dollar rises on Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/swiss-franc-declines-as-us-dollar-rises-on-fed-rate-hike-bets-202609290404",
+      "published": "Tue, 29 Sep 2026 04:04:30 GMT",
+      "ts": 1790654670
+    },
     {
       "source": "FXStreet",
       "title": "EUR/JPY Price Forecast: Slips below 179.00 as bearish bias prevails",
@@ -78,13 +85,6 @@
       "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 01:31:00 GMT",
       "ts": 1790645460
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD drops to near $60.50 amid surging oil, Treasury yields",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-drops-to-near-6050-amid-surging-oil-treasury-yields-202609290123",
-      "published": "Tue, 29 Sep 2026 01:23:15 GMT",
-      "ts": 1790644995
     },
     {
       "source": "CoinTelegraph",
