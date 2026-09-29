@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-29T18:45:01.786425Z",
+  "updated": "2026-09-29T18:59:59.657278Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 18:55:00 GMT",
+      "ts": 1790708100
+    },
     {
       "source": "MarketWatch",
       "title": "OpenAI launches a rival to Meta’s Muse, as the battle for AI agents kicks into high gear",
@@ -155,13 +162,6 @@
       "link": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 16:18:06 +0000",
       "ts": 1790698686
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 16:15:00 GMT",
-      "ts": 1790698500
     },
     {
       "source": "FXStreet",
