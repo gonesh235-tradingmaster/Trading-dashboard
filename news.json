@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T00:58:14.379178Z",
+  "updated": "2026-09-29T01:16:35.274005Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7411 vs. 6.7399 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67411-vs-67399-previous-202609290115",
+      "published": "Tue, 29 Sep 2026 01:15:28 GMT",
+      "ts": 1790644528
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar slumps to its lowest level since July 9, eyes 1.4200 vs bullish USD",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-slumps-to-its-lowest-level-since-july-9-eyes-14200-vs-bullish-usd-202609290110",
+      "published": "Tue, 29 Sep 2026 01:10:58 GMT",
+      "ts": 1790644258
+    },
     {
       "source": "FXStreet",
       "title": "WTI inches up above $92.00 on Qatari-mediated US-Iran talks, Saudi pipeline restart",
@@ -64,20 +78,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-holds-above-070-as-rba-hike-becomes-a-done-deal-202609282311",
       "published": "Mon, 28 Sep 2026 23:11:09 GMT",
       "ts": 1790637069
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro slips back to its summer low as ECB President Lagarde urges measured hikes",
-      "link": "https://www.fxstreet.com/news/euro-slips-back-to-its-summer-low-as-ecb-president-lagarde-urges-measured-hikes-202609282309",
-      "published": "Mon, 28 Sep 2026 23:09:11 GMT",
-      "ts": 1790636951
-    },
-    {
-      "source": "FXStreet",
-      "title": "Pound Sterling edges higher as the BoE's deputy governors lean toward a hike",
-      "link": "https://www.fxstreet.com/news/pound-sterling-edges-higher-as-the-boes-deputy-governors-lean-toward-a-hike-202609282308",
-      "published": "Mon, 28 Sep 2026 23:08:12 GMT",
-      "ts": 1790636892
     },
     {
       "source": "MarketWatch",
