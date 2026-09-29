@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-29T20:32:15.995426Z",
+  "updated": "2026-09-29T20:53:48.689382Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 20:30:00 GMT",
+      "ts": 1790713800
+    },
     {
       "source": "MarketWatch",
       "title": "Traders expecting a back-to-back rate hike from the Fed in October may have gotten ahead of themselves",
@@ -190,13 +197,6 @@
       "link": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 17:14:36 +0000",
       "ts": 1790702076
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
-      "link": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 16:59:00 GMT",
-      "ts": 1790701140
     },
     {
       "source": "CoinTelegraph",
