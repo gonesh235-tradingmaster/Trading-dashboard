@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-29T23:26:07.025823Z",
+  "updated": "2026-09-29T23:39:32.039746Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold rebounds from eight-week low as traders weigh Fed rate path",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-from-eight-week-low-as-traders-weigh-fed-rate-path-202609292331",
+      "published": "Tue, 29 Sep 2026 23:31:10 GMT",
+      "ts": 1790724670
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 23:30:00 GMT",
+      "ts": 1790724600
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar cracks 0.70 as Bullock dulls RBA hike, CPI looms",
+      "link": "https://www.fxstreet.com/news/australian-dollar-cracks-070-as-bullock-dulls-rba-hike-cpi-looms-202609292326",
+      "published": "Tue, 29 Sep 2026 23:26:25 GMT",
+      "ts": 1790724385
+    },
     {
       "source": "FXStreet",
       "title": "The Japanese Yen sits still while Tokyo calls it undervalued",
@@ -122,13 +143,6 @@
       "ts": 1790715420
     },
     {
-      "source": "MarketWatch",
-      "title": "Nvidia’s historic buyback announcement underscores a sharp divide in Big Tech",
-      "link": "https://www.marketwatch.com/story/nvidias-historic-buyback-announcement-underscores-a-sharp-divide-in-big-tech-ac04a001?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 20:52:00 GMT",
-      "ts": 1790715120
-    },
-    {
       "source": "Investing Forex",
       "title": "Mexico’s peso erases 2026 gains amid profit-taking",
       "link": "https://www.investing.com/news/forex-news/mexicos-peso-erases-2026-gains-amid-profittaking-93CH-4923553",
@@ -199,25 +213,11 @@
       "ts": 1790708437
     },
     {
-      "source": "FXStreet",
-      "title": "United States Dollar Index approaches yearly peak on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-peak-on-hawkish-fed-outlook-202609291831",
-      "published": "Tue, 29 Sep 2026 18:31:01 GMT",
-      "ts": 1790706661
-    },
-    {
       "source": "CoinDesk",
       "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
       "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
       "published": "Tue, 29 Sep 2026 18:21:07 +0000",
       "ts": 1790706067
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Musalem says policy still accommodative as demand fuels inflation",
-      "link": "https://www.fxstreet.com/news/musalem-says-fed-must-explain-decisions-without-policy-pledges-202609291748",
-      "published": "Tue, 29 Sep 2026 17:48:05 GMT",
-      "ts": 1790704085
     },
     {
       "source": "CoinTelegraph",
