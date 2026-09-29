@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-29T04:10:25.599161Z",
+  "updated": "2026-09-29T04:28:59.617688Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold bounces off eight-week low; not out of the woods amid rising Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-bounces-off-eight-week-low-not-out-of-the-woods-amid-rising-fed-hike-bets-202609290422",
+      "published": "Tue, 29 Sep 2026 04:22:11 GMT",
+      "ts": 1790655731
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+      "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+      "published": "Tue, 29 Sep 2026 04:17:20 +0000",
+      "ts": 1790655440
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc declines as US Dollar rises on Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/swiss-franc-declines-as-us-dollar-rises-on-fed-rate-hike-bets-202609290404",
       "published": "Tue, 29 Sep 2026 04:04:30 GMT",
       "ts": 1790654670
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
+      "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 04:02:29 +0000",
+      "ts": 1790654549
     },
     {
       "source": "FXStreet",
@@ -71,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/euro-consolidates-above-11350-seems-vulnerable-near-late-july-lows-amid-bullish-usd-202609290159",
       "published": "Tue, 29 Sep 2026 01:59:47 GMT",
       "ts": 1790647187
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound softens to near 1.3250 as elevated US yields outweigh BoE’s hawkish tone",
-      "link": "https://www.fxstreet.com/news/british-pound-softens-to-near-13250-as-elevated-us-yields-outweigh-boes-hawkish-tone-202609290133",
-      "published": "Tue, 29 Sep 2026 01:33:20 GMT",
-      "ts": 1790645600
     },
     {
       "source": "MarketWatch",
@@ -269,13 +283,6 @@
       "ts": 1790605835
     },
     {
-      "source": "CoinTelegraph",
-      "title": "MiCA focus shifts from rulemaking to supervision, ESMA chair says",
-      "link": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 14:02:45 +0000",
-      "ts": 1790604165
-    },
-    {
       "source": "Investing Forex",
       "title": "Loonie weakens as wider yield gap and softer oil weigh on loonie",
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-as-wider-yield-gap-and-softer-oil-weigh-on-loonie-4920618",
@@ -344,13 +351,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-falls-to-usd83-000-while-altcoins-unwind-friday-s-rally",
       "published": "Mon, 28 Sep 2026 10:15:04 +0000",
       "ts": 1790590504
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin remains under pressure as Iran denies report of peace progress",
-      "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
-      "published": "Mon, 28 Sep 2026 10:02:37 +0000",
-      "ts": 1790589757
     },
     {
       "source": "Investing Forex",
