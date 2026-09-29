@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-29T08:55:53.096470Z",
+  "updated": "2026-09-29T09:13:48.735665Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Two-thirds of the revenue needed to justify the AI buildout are still unaccounted for, says major consulting firm",
+      "link": "https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 09:12:00 GMT",
+      "ts": 1790673120
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
+      "link": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
+      "published": "Tue, 29 Sep 2026 09:06:11 +0000",
+      "ts": 1790672771
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/CAD: Fair value estimate stands at 1.4068 – Scotiabank",
+      "link": "https://www.fxstreet.com/news/usdcad-fair-value-estimate-stands-at-14068-scotiabank-202609290903",
+      "published": "Tue, 29 Sep 2026 09:03:41 GMT",
+      "ts": 1790672621
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Celebrity couple Jenny McCarthy and Donnie Wahlberg are selling $2.8 million Illinois home",
+      "link": "https://www.marketwatch.com/story/celebrity-couple-jenny-mccarthy-and-donnie-wahlberg-are-selling-2-8-million-illinois-home-b48f4191?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 09:00:00 GMT",
+      "ts": 1790672400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Kris Jenner delists $13.5 million home that was featured in ‘Keeping Up With the Kardashians’",
+      "link": "https://www.marketwatch.com/story/kris-jenner-delists-13-5-million-home-that-was-featured-in-keeping-up-with-the-kardashians-dd162590?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 08:58:00 GMT",
+      "ts": 1790672280
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A month ago, this JPMorgan team urged caution on stocks. Now it’s going all in on tech.",
+      "link": "https://www.marketwatch.com/story/a-month-ago-this-jpmorgan-team-urged-caution-on-stocks-now-its-going-all-in-on-tech-f2e4b007?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 08:56:00 GMT",
+      "ts": 1790672160
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar sticks to cautious RBA-led losses; struggles near two-week low vs Yen",
@@ -78,13 +120,6 @@
       "link": "https://www.fxstreet.com/news/irans-qalibaf-if-iran-cannot-sell-its-oil-no-one-can-202609290801",
       "published": "Tue, 29 Sep 2026 08:01:16 GMT",
       "ts": 1790668876
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: Likely revisit five-month high at around 1.4250",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-likely-revisit-five-month-high-at-around-14250-202609290754",
-      "published": "Tue, 29 Sep 2026 07:54:55 GMT",
-      "ts": 1790668495
     },
     {
       "source": "Investing Forex",
@@ -227,39 +262,11 @@
       "ts": 1790634900
     },
     {
-      "source": "MarketWatch",
-      "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
-      "link": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 22:03:00 GMT",
-      "ts": 1790632980
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin falls over 1% as risk sentiment takes a hit from bond rout, Iran tensions",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
       "published": "2026-09-28 21:48:41",
       "ts": 1790632121
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
-      "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 21:27:00 GMT",
-      "ts": 1790630820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
-      "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 21:23:00 GMT",
-      "ts": 1790630580
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This AI startup has only 14 employees — and a fresh $10 billion valuation",
-      "link": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 21:19:00 GMT",
-      "ts": 1790630340
     },
     {
       "source": "CoinTelegraph",
@@ -372,13 +379,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/strategy-purchases-1665-bitcoin-432SI-4920202",
       "published": "2026-09-28 12:13:03",
       "ts": 1790597583
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Traders aren't panicking yet despite cooling crypto sentiment",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
-      "published": "Mon, 28 Sep 2026 11:32:33 +0000",
-      "ts": 1790595153
     },
     {
       "source": "Investing Forex",
