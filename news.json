@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T14:43:32.868993Z",
+  "updated": "2026-09-29T15:00:02.174813Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar falls below 0.7000 as RBA hike fails to convince bulls",
+      "link": "https://www.fxstreet.com/news/australian-dollar-falls-below-07000-as-rba-hike-fails-to-convince-bulls-202609291449",
+      "published": "Tue, 29 Sep 2026 14:49:35 GMT",
+      "ts": 1790693375
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 14:45:00 GMT",
+      "ts": 1790693100
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar remains under pressure after flat GDP reading",
@@ -178,13 +192,6 @@
       "ts": 1790683183
     },
     {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: MAS tightening expectations support resilience – OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-expectations-support-resilience-ocbc-202609291143",
-      "published": "Tue, 29 Sep 2026 11:43:49 GMT",
-      "ts": 1790682229
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin beats gold, surge to $100,000 in play",
       "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
@@ -204,13 +211,6 @@
       "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 11:15:00 GMT",
       "ts": 1790680500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Morgan Stanley’s Mike Wilson says an S&P 500 correction may be exactly what the market needs",
-      "link": "https://www.marketwatch.com/story/morgan-stanleys-mike-wilson-says-an-s-p-500-correction-may-be-exactly-what-the-market-needs-a6baf54e?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 11:03:00 GMT",
-      "ts": 1790679780
     },
     {
       "source": "FXStreet",
