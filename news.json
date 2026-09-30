@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-30T23:25:55.388232Z",
+  "updated": "2026-09-30T23:40:51.129584Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Euro slips as Europe's biggest economies report hotter inflation",
+      "link": "https://www.fxstreet.com/news/the-euro-slips-as-europes-biggest-economies-report-hotter-inflation-202609302331",
+      "published": "Wed, 30 Sep 2026 23:31:14 GMT",
+      "ts": 1790811074
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold falls to near $4,150 as higher Treasury yields, oil prices outweigh softer PCE inflation",
+      "link": "https://www.fxstreet.com/news/gold-falls-to-near-4-150-as-higher-treasury-yields-oil-prices-outweigh-softer-pce-inflation-202609302330",
+      "published": "Wed, 30 Sep 2026 23:30:58 GMT",
+      "ts": 1790811058
+    },
+    {
+      "source": "FXStreet",
+      "title": "The British Pound rallies on a UK growth upgrade and gives more than half back",
+      "link": "https://www.fxstreet.com/news/the-british-pound-rallies-on-a-uk-growth-upgrade-and-gives-more-than-half-back-202609302328",
+      "published": "Wed, 30 Sep 2026 23:28:33 GMT",
+      "ts": 1790810913
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average fades a soft-inflation bounce as yields climb",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-fades-a-soft-inflation-bounce-as-yields-climb-202609302328",
+      "published": "Wed, 30 Sep 2026 23:28:11 GMT",
+      "ts": 1790810891
+    },
     {
       "source": "MarketWatch",
       "title": "Google shows it’s not out of the AI race just yet",
@@ -171,27 +199,6 @@
       "ts": 1790793022
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-monthly-outlook-mixed-daily-chart-remains-bearish-202609301810",
-      "published": "Wed, 30 Sep 2026 18:10:12 GMT",
-      "ts": 1790791812
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold can’t catch a PCE break as long US yields keep climbing",
-      "link": "https://www.fxstreet.com/news/gold-cant-catch-a-pce-break-as-long-us-yields-keep-climbing-202609301802",
-      "published": "Wed, 30 Sep 2026 18:02:43 GMT",
-      "ts": 1790791363
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI set for monthly gain amid US-Iran stalemate",
-      "link": "https://www.fxstreet.com/news/wti-set-for-monthly-gain-amid-us-iran-stalemate-202609301730",
-      "published": "Wed, 30 Sep 2026 17:30:36 GMT",
-      "ts": 1790789436
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
       "link": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -211,13 +218,6 @@
       "link": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 16:28:30 +0000",
       "ts": 1790785710
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB’s Lagarde warns France needs a credible path to rein in debt",
-      "link": "https://www.fxstreet.com/news/ecbs-lagarde-warns-france-needs-a-credible-path-to-rein-in-debt-202609301625",
-      "published": "Wed, 30 Sep 2026 16:25:04 GMT",
-      "ts": 1790785504
     },
     {
       "source": "Investing Crypto",
