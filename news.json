@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-30T11:11:48.463879Z",
+  "updated": "2026-09-30T11:28:36.807507Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: At make or a break near 1.1330",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-at-make-or-a-break-near-11330-202609301125",
+      "published": "Wed, 30 Sep 2026 11:25:50 GMT",
+      "ts": 1790767550
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: Softer CPI keeps RBA pricing in check – BBH",
+      "link": "https://www.fxstreet.com/news/australian-dollar-softer-cpi-keeps-rba-pricing-in-check-bbh-202609301122",
+      "published": "Wed, 30 Sep 2026 11:22:43 GMT",
+      "ts": 1790767363
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Fiscal tightening risks dovish BOE repricing – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-fiscal-tightening-risks-dovish-boe-repricing-bbh-202609301120",
+      "published": "Wed, 30 Sep 2026 11:20:21 GMT",
+      "ts": 1790767221
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m afraid of human stupidity.’ Why this top economist prefers U.S. tech and gold over bonds.",
+      "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 11:20:00 GMT",
+      "ts": 1790767200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
+      "link": "https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 11:12:00 GMT",
+      "ts": 1790766720
+    },
     {
       "source": "FXStreet",
       "title": "Gold struggles for direction ahead of Fed’s preferred PCE inflation data",
@@ -73,13 +108,6 @@
       "ts": 1790764545
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: ECB pushback weighs on currency – MUFG",
-      "link": "https://www.fxstreet.com/news/euro-ecb-pushback-weighs-on-currency-mufg-202609301034",
-      "published": "Wed, 30 Sep 2026 10:34:35 GMT",
-      "ts": 1790764475
-    },
-    {
       "source": "CoinDesk",
       "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
       "link": "https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
@@ -95,7 +123,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Standard Chartered initiates ENA coverage, BTC tentative ahead of Micron Earnings",
+      "title": "Live updates: Standard Chartered initiates ENA coverage, BTC tentative ahead of U.S. inflation data",
       "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
       "published": "Wed, 30 Sep 2026 10:18:34 +0000",
       "ts": 1790763514
@@ -143,20 +171,6 @@
       "ts": 1790762739
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/USD: Dollar correction faces resistance – Societe Generale",
-      "link": "https://www.fxstreet.com/news/eur-usd-dollar-correction-faces-resistance-societe-generale-202609300955",
-      "published": "Wed, 30 Sep 2026 09:55:43 GMT",
-      "ts": 1790762143
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brent Oil: Prices reverse on supply headlines – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/brent-oil-prices-reverse-on-supply-headlines-deutsche-bank-202609300952",
-      "published": "Wed, 30 Sep 2026 09:52:09 GMT",
-      "ts": 1790761929
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar tracks toward best month since June; Traders brace for U.S. PCE reading",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
@@ -186,7 +200,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "There’s a new Wall Street TACO index — and this one is saying it’s time for Trump to strike a deal",
+      "title": "There’s a new Wall Street ‘TACO’ index — and this one is saying it’s time for Trump to strike a deal",
       "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 09:16:00 GMT",
       "ts": 1790759760
@@ -316,20 +330,6 @@
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 01:00:00 GMT",
       "ts": 1790730000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 00:30:00 GMT",
-      "ts": 1790728200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 23:30:00 GMT",
-      "ts": 1790724600
     },
     {
       "source": "Investing Crypto",
