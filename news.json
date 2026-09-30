@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-30T20:30:00.049661Z",
+  "updated": "2026-09-30T20:45:57.744986Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+      "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 20:32:00 GMT",
+      "ts": 1790800320
+    },
     {
       "source": "FXStreet",
       "title": "Fed’s Cook says inflation has stayed too high for too long",
       "link": "https://www.fxstreet.com/news/feds-cook-says-inflation-has-stayed-too-high-for-too-long-202609302020",
       "published": "Wed, 30 Sep 2026 20:20:14 GMT",
       "ts": 1790799614
-    },
-    {
-      "source": "MarketWatch",
-      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-      "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 19:42:00 GMT",
-      "ts": 1790797320
     },
     {
       "source": "MarketWatch",
