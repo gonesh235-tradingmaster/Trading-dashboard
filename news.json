@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-30T11:46:59.609921Z",
+  "updated": "2026-09-30T12:14:18.314534Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "He’s been badmouthing Treasury bonds since 2020, but ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
+      "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 12:07:00 GMT",
+      "ts": 1790770020
+    },
+    {
+      "source": "FXStreet",
+      "title": "Germany annual CPI inflation rises to 3.3% in September",
+      "link": "https://www.fxstreet.com/news/germany-annual-cpi-inflation-rises-to-33-in-september-202609301205",
+      "published": "Wed, 30 Sep 2026 12:05:39 GMT",
+      "ts": 1790769939
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Deutsche Bank sees euro holding range despite dollar strength",
+      "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-euro-holding-range-despite-dollar-strength-93CH-4924929",
+      "published": "2026-09-30 11:45:08",
+      "ts": 1790768708
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
@@ -101,25 +122,11 @@
       "ts": 1790766000
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar clings to early recovery near 0.6970, US data takes centre stage",
-      "link": "https://www.fxstreet.com/news/australian-dollar-clings-to-early-recovery-near-06970-us-data-takes-centre-stage-202609301048",
-      "published": "Wed, 30 Sep 2026 10:48:40 GMT",
-      "ts": 1790765320
-    },
-    {
       "source": "CoinDesk",
       "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
       "link": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
       "published": "Wed, 30 Sep 2026 10:43:43 +0000",
       "ts": 1790765023
-    },
-    {
-      "source": "FXStreet",
-      "title": "Experts agree: The fundamental background hints at further US Dollar appreciation",
-      "link": "https://www.fxstreet.com/news/experts-agree-the-fundamental-background-hints-at-further-us-dollar-appreciation-202609301042",
-      "published": "Wed, 30 Sep 2026 10:42:26 GMT",
-      "ts": 1790764946
     },
     {
       "source": "MarketWatch",
@@ -144,7 +151,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Standard Chartered initiates ENA coverage, BTC tentative ahead of U.S. inflation data",
+      "title": "Live updates: Bitcoin tentative ahead of U.S. inflation data",
       "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
       "published": "Wed, 30 Sep 2026 10:18:34 +0000",
       "ts": 1790763514
@@ -197,13 +204,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
       "published": "2026-09-30 09:35:28",
       "ts": 1790760928
-    },
-    {
-      "source": "MarketWatch",
-      "title": "He’s been badmouthing Treasury bonds since 2020, but now ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
-      "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 09:32:00 GMT",
-      "ts": 1790760720
     },
     {
       "source": "MarketWatch",
@@ -311,6 +311,13 @@
       "ts": 1790747155
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee recovers as traders trim hawkish Fed bets, oil prices fall",
+      "link": "https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543",
+      "published": "Wed, 30 Sep 2026 05:43:44 GMT",
+      "ts": 1790747024
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
       "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -400,13 +407,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bybit-completes-soc-2-type-ii-audit-strengthening-security-and-compliance-assurance-4921887",
       "published": "2026-09-29 09:30:36",
       "ts": 1790674236
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as oil-fuelled dollar demand builds",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-oilfuelled-dollar-demand-builds-4921804",
-      "published": "2026-09-29 08:50:08",
-      "ts": 1790671808
     },
     {
       "source": "Investing Crypto",
