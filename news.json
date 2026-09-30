@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-30T04:57:26.726899Z",
+  "updated": "2026-09-30T05:16:08.015412Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Weakens below 1.3250, technical barriers sustain bearish bias",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-weakens-below-13250-technical-barriers-sustain-bearish-bias-202609300513",
+      "published": "Wed, 30 Sep 2026 05:13:40 GMT",
+      "ts": 1790745220
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro stays pressured below 1.1350, near YTD low vs bullish USD ahead of US PCE, Q2 GDP",
+      "link": "https://www.fxstreet.com/news/euro-stays-pressured-below-11350-near-ytd-low-vs-bullish-usd-ahead-of-us-pce-q2-gdp-202609300501",
+      "published": "Wed, 30 Sep 2026 05:01:21 GMT",
+      "ts": 1790744481
+    },
     {
       "source": "FXStreet",
       "title": "Indonesian Rupiah gains on robust Chinese PMI data, budget assurance",
@@ -87,25 +101,11 @@
       "ts": 1790738290
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar remains subdued near two-month lows as falling oil prices weigh",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-subdued-near-two-month-lows-as-falling-oil-prices-weigh-202609300238",
-      "published": "Wed, 30 Sep 2026 02:38:14 GMT",
-      "ts": 1790735894
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan",
       "link": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 02:25:00 +0000",
       "ts": 1790735100
-    },
-    {
-      "source": "FXStreet",
-      "title": "US-Iran talks deadlocked as Qatar mediation yields little",
-      "link": "https://www.fxstreet.com/news/us-iran-talks-deadlocked-as-qatar-mediation-yields-little-202609300222",
-      "published": "Wed, 30 Sep 2026 02:22:06 GMT",
-      "ts": 1790734926
     },
     {
       "source": "MarketWatch",
