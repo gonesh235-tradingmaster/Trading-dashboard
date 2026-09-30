@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-30T16:57:36.112625Z",
+  "updated": "2026-09-30T17:16:05.667815Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The U.S. economy is defying gravity. Here’s all the good news.",
+      "link": "https://www.marketwatch.com/story/the-u-s-economy-is-defying-gravity-heres-all-the-good-news-8b58fc7b?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 17:07:00 GMT",
+      "ts": 1790788020
+    },
     {
       "source": "MarketWatch",
       "title": "Gold is supposed to be a safe haven when inflation surges. So why isn’t it working that way now?",
@@ -134,13 +141,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
       "published": "Wed, 30 Sep 2026 14:56:07 +0000",
       "ts": 1790780167
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Adding Lilly’s new drug to Zepbound helped people lose up to 23% of their weight. But there were more side effects.",
-      "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 14:32:00 GMT",
-      "ts": 1790778720
     },
     {
       "source": "FXStreet",
