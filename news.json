@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-30T03:58:09.650056Z",
+  "updated": "2026-09-30T04:17:08.554413Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD hangs near eight-week low; bears retain control near $61.00",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-hangs-near-eight-week-low-bears-retain-control-near-6100-202609300409",
+      "published": "Wed, 30 Sep 2026 04:09:35 GMT",
+      "ts": 1790741375
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Slips below 178.00 as bearish bias strengthens",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-slips-below-17800-as-bearish-bias-strengthens-202609300408",
+      "published": "Wed, 30 Sep 2026 04:08:26 GMT",
+      "ts": 1790741306
+    },
     {
       "source": "FXStreet",
       "title": "Gold holds steady below $4,200 as retreating bond yields and softer USD lend support",
@@ -71,20 +85,6 @@
       "link": "https://www.fxstreet.com/news/chinas-september-ratingdog-manufacturing-pmi-leaps-to-521-services-pmi-rises-to-516-202609300148",
       "published": "Wed, 30 Sep 2026 01:48:02 GMT",
       "ts": 1790732882
-    },
-    {
-      "source": "FXStreet",
-      "title": "Breaking: Australia’s CPI inflation rises to 4.0% YoY in August, as expected",
-      "link": "https://www.fxstreet.com/news/breaking-australias-cpi-inflation-rises-to-40-yoy-in-august-as-expected-202609300136",
-      "published": "Wed, 30 Sep 2026 01:36:35 GMT",
-      "ts": 1790732195
-    },
-    {
-      "source": "FXStreet",
-      "title": "China's September NBS Manufacturing PMI rises to 50.1, Non-Manufacturing PMI jumps to 50.2",
-      "link": "https://www.fxstreet.com/news/chinas-september-nbs-manufacturing-pmi-rises-to-501-non-manufacturing-pmi-jumps-to-502-202609300133",
-      "published": "Wed, 30 Sep 2026 01:33:11 GMT",
-      "ts": 1790731991
     },
     {
       "source": "MarketWatch",
