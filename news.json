@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-30T18:34:40.537541Z",
+  "updated": "2026-09-30T18:58:32.601536Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Adding Lilly’s new drug to Zepbound helped people lose up to 23% of their weight. But there were more side effects.",
+      "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 18:45:00 GMT",
+      "ts": 1790793900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "After I sold TOMS Shoes for $400 million I was misdiagnosed with bipolar disorder — and it almost cost me everything",
+      "link": "https://www.marketwatch.com/story/after-i-sold-toms-shoes-for-400-million-i-was-misdiagnosed-with-bipolar-disorder-and-it-almost-cost-me-everything-4409da4c?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 18:44:00 GMT",
+      "ts": 1790793840
+    },
     {
       "source": "FXStreet",
       "title": "Forex Today: Fedspeak, Claims and the ISM data steal the show",
@@ -99,20 +113,6 @@
       "link": "https://www.marketwatch.com/story/the-u-s-economy-is-defying-gravity-heres-all-the-good-news-8b58fc7b?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 17:07:00 GMT",
       "ts": 1790788020
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Gold is supposed to be a safe haven when inflation surges. So why isn’t it working that way now?",
-      "link": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 16:51:00 GMT",
-      "ts": 1790787060
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
-      "link": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 16:29:00 GMT",
-      "ts": 1790785740
     },
     {
       "source": "CoinTelegraph",
