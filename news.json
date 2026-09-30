@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-30T09:56:28.256565Z",
+  "updated": "2026-09-30T10:15:03.689115Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit",
+      "link": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 10:05:39 +0000",
+      "ts": 1790762739
+    },
     {
       "source": "FXStreet",
       "title": "EUR/USD: Dollar correction faces resistance – Societe Generale",
@@ -80,13 +87,6 @@
       "ts": 1790760675
     },
     {
-      "source": "FXStreet",
-      "title": "Softer Australia CPI but RBA still hawkish – Rabobank",
-      "link": "https://www.fxstreet.com/news/softer-australia-cpi-but-rba-still-hawkish-rabobank-202609300930",
-      "published": "Wed, 30 Sep 2026 09:30:33 GMT",
-      "ts": 1790760633
-    },
-    {
       "source": "MarketWatch",
       "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
       "link": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
@@ -134,6 +134,13 @@
       "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 08:42:00 GMT",
       "ts": 1790757720
+    },
+    {
+      "source": "FXStreet",
+      "title": "US core PCE inflation expected to rise in August, testing Federal Reserve’s rate path",
+      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830",
+      "published": "Wed, 30 Sep 2026 08:30:00 GMT",
+      "ts": 1790757000
     },
     {
       "source": "CoinDesk",
@@ -316,13 +323,6 @@
       "link": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 19:55:49 +0000",
       "ts": 1790711749
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
-      "link": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 19:49:53 +0000",
-      "ts": 1790711393
     },
     {
       "source": "Investing Crypto",
