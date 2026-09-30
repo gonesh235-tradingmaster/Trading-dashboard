@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T00:41:56.507509Z",
+  "updated": "2026-09-30T01:00:19.845657Z",
   "count": 60,
   "items": [
     {
@@ -157,20 +157,6 @@
       "ts": 1790716680
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar firms, Aussie drops after RBA hike, and sterling slips on Burnham speech",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
-      "published": "2026-09-29 21:01:50",
-      "ts": 1790715710
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Mexico’s peso erases 2026 gains amid profit-taking",
-      "link": "https://www.investing.com/news/forex-news/mexicos-peso-erases-2026-gains-amid-profittaking-93CH-4923553",
-      "published": "2026-09-29 20:44:04",
-      "ts": 1790714644
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
       "link": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -255,13 +241,6 @@
       "ts": 1790697600
     },
     {
-      "source": "Investing Forex",
-      "title": "Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook",
-      "link": "https://www.investing.com/news/forex-news/wells-fargo-revises-dollar-yen-euro-estimates-amid-rate-hike-outlook-4923047",
-      "published": "2026-09-29 14:44:38",
-      "ts": 1790693078
-    },
-    {
       "source": "CoinDesk",
       "title": "Democrats killed the Clarity Act",
       "link": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
@@ -288,13 +267,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 12:40:12 +0000",
       "ts": 1790685612
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury yields ease while Aussie yields retreat  after 2011-era peak run up",
-      "link": "https://www.investing.com/news/forex-news/us-treasury-yields-hold-while-aussie-yields-retreat--after-2011era-peak-run-up-4921704",
-      "published": "2026-09-29 12:32:33",
-      "ts": 1790685153
     },
     {
       "source": "Investing Crypto",
@@ -360,13 +332,6 @@
       "ts": 1790674236
     },
     {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as oil-fuelled dollar demand builds",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-oilfuelled-dollar-demand-builds-4921804",
-      "published": "2026-09-29 08:50:08",
-      "ts": 1790671808
-    },
-    {
       "source": "Investing Crypto",
       "title": "Crystal Intelligence Aids $655K Crypto Fraud Probe in Prague",
       "link": "https://www.investing.com/news/cryptocurrency-news/crystal-intelligence-aids-655k-crypto-fraud-probe-in-prague-4921759",
@@ -388,39 +353,74 @@
       "ts": 1790632121
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar pinned at two-month high as bond rout extends, Fed rate hike bets rise",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
-      "published": "2026-09-28 20:07:07",
-      "ts": 1790626027
+      "source": "Yahoo Finance",
+      "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+      "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
+      "published": "2026-09-23T04:33:16Z",
+      "ts": 1790137996
     },
     {
-      "source": "Investing Forex",
-      "title": "Loonie weakens as wider yield gap and softer oil weigh on loonie",
-      "link": "https://www.investing.com/news/forex-news/loonie-weakens-as-wider-yield-gap-and-softer-oil-weigh-on-loonie-4920618",
-      "published": "2026-09-28 13:58:08",
-      "ts": 1790603888
+      "source": "Yahoo Finance",
+      "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+      "link": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
+      "published": "2026-09-23T04:29:16Z",
+      "ts": 1790137756
     },
     {
-      "source": "Investing Forex",
-      "title": "U.S. debt sell-off extends on $106 crude oil and hawkish central bank outlooks",
-      "link": "https://www.investing.com/news/forex-news/german-yields-pause-traders-weigh-sticky-energy-inflation-in-data-packed-week-4919522",
-      "published": "2026-09-28 12:45:46",
-      "ts": 1790599546
+      "source": "Yahoo Finance",
+      "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+      "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
+      "published": "2026-09-23T04:24:33Z",
+      "ts": 1790137473
     },
     {
-      "source": "Investing Forex",
-      "title": "Citi sees Japan yen intervention likely near 160 per dollar",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-japan-yen-intervention-likely-near-160-per-dollar-93CH-4919746",
-      "published": "2026-09-28 10:18:17",
-      "ts": 1790590697
+      "source": "Yahoo Finance",
+      "title": "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-jumped-nearly-10-while-041957023.html",
+      "published": "2026-09-23T04:19:57Z",
+      "ts": 1790137197
     },
     {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges higher as U.S. data tests dollar rally",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-us-data-tests-dollar-rally-4919636",
-      "published": "2026-09-28 09:34:08",
-      "ts": 1790588048
+      "source": "Yahoo Finance",
+      "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
+      "published": "2026-09-23T01:52:26Z",
+      "ts": 1790128346
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
+      "published": "2026-09-23T01:51:00Z",
+      "ts": 1790128260
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/may-mobilitys-spac-merger-road-015000118.html",
+      "published": "2026-09-23T01:50:00Z",
+      "ts": 1790128200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
+      "published": "2026-09-23T01:43:50Z",
+      "ts": 1790127830
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
+      "published": "2026-09-23T01:42:06Z",
+      "ts": 1790127726
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/titan-international-twi-signs-itm-012718577.html",
+      "published": "2026-09-23T01:26:44Z",
+      "ts": 1790126804
     }
   ]
 }
