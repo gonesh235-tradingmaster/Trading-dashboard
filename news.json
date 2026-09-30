@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-30T10:55:56.526331Z",
+  "updated": "2026-09-30T11:11:48.463879Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold struggles for direction ahead of Fed’s preferred PCE inflation data",
+      "link": "https://www.fxstreet.com/news/gold-struggles-for-direction-ahead-of-feds-preferred-pce-inflation-data-202609301104",
+      "published": "Wed, 30 Sep 2026 11:04:11 GMT",
+      "ts": 1790766251
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
+      "link": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
+      "published": "Wed, 30 Sep 2026 11:04:09 +0000",
+      "ts": 1790766249
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’",
+      "link": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
+      "published": "Wed, 30 Sep 2026 11:00:00 +0000",
+      "ts": 1790766000
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "A single market worth protecting: Getting the MiCA review right",
+      "link": "https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 11:00:00 +0000",
+      "ts": 1790766000
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar clings to early recovery near 0.6970, US data takes centre stage",
@@ -67,7 +95,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin below $84,000 ahead of PCE inflation data, Micron earnings",
+      "title": "Live updates: Standard Chartered initiates ENA coverage, BTC tentative ahead of Micron Earnings",
       "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
       "published": "Wed, 30 Sep 2026 10:18:34 +0000",
       "ts": 1790763514
@@ -129,20 +157,6 @@
       "ts": 1790761929
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Coin flip for October rate hike – DBS",
-      "link": "https://www.fxstreet.com/news/us-dollar-coin-flip-for-october-rate-hike-dbs-202609300947",
-      "published": "Wed, 30 Sep 2026 09:47:32 GMT",
-      "ts": 1790761652
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY: Offered tone with key 155–158.20 range – Societe Generale",
-      "link": "https://www.fxstreet.com/news/usd-jpy-offered-tone-with-key-155-15820-range-societe-generale-202609300945",
-      "published": "Wed, 30 Sep 2026 09:45:43 GMT",
-      "ts": 1790761543
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar tracks toward best month since June; Traders brace for U.S. PCE reading",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
@@ -200,7 +214,14 @@
     },
     {
       "source": "FXStreet",
-      "title": "US core PCE inflation expected to rise in August, testing Federal Reserve’s rate path",
+      "title": "ADP Employment Report forecast to show accelerating US job growth in September",
+      "link": "https://www.fxstreet.com/news/adp-employment-report-expected-to-confirm-a-tight-labour-market-in-september-202609300830",
+      "published": "Wed, 30 Sep 2026 08:30:00 GMT",
+      "ts": 1790757000
+    },
+    {
+      "source": "FXStreet",
+      "title": "US core PCE inflation seen up in August, setting Federal Reserve’s rate path",
       "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830",
       "published": "Wed, 30 Sep 2026 08:30:00 GMT",
       "ts": 1790757000
@@ -262,25 +283,11 @@
       "ts": 1790748000
     },
     {
-      "source": "CoinDesk",
-      "title": "Robinhood unveils an AI that trades your money 24/7, and you carry all the risk",
-      "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
-      "published": "Wed, 30 Sep 2026 05:59:31 +0000",
-      "ts": 1790747971
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
       "link": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 05:45:55 +0000",
       "ts": 1790747155
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
-      "link": "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
-      "published": "Wed, 30 Sep 2026 05:22:51 +0000",
-      "ts": 1790745771
     },
     {
       "source": "CoinTelegraph",
@@ -316,13 +323,6 @@
       "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 00:30:00 GMT",
       "ts": 1790728200
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
-      "link": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 00:28:38 +0000",
-      "ts": 1790728118
     },
     {
       "source": "MarketWatch",
