@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-30T21:47:40.939655Z",
+  "updated": "2026-09-30T22:10:30.911772Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Kashkari questions policy tightness as economy stays strong",
+      "link": "https://www.fxstreet.com/news/feds-kashkari-questions-policy-tightness-as-economy-stays-strong-202609302210",
+      "published": "Wed, 30 Sep 2026 22:10:04 GMT",
+      "ts": 1790806204
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: 50-day SMA caps recovery near 158.00",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-50-day-sma-caps-recovery-near-15800-202609302154",
+      "published": "Wed, 30 Sep 2026 21:54:48 GMT",
+      "ts": 1790805288
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin muted at $83.7k, but set for best quarterly performance since Q4 2024",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
+      "published": "2026-09-30 21:54:18",
+      "ts": 1790805258
+    },
     {
       "source": "MarketWatch",
       "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
@@ -206,25 +227,11 @@
       "ts": 1790785145
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar reverses post-PCE rebound as US Dollar recovers",
-      "link": "https://www.fxstreet.com/news/australian-dollar-reverses-post-pce-rebound-as-us-dollar-recovers-202609301545",
-      "published": "Wed, 30 Sep 2026 15:45:36 GMT",
-      "ts": 1790783136
-    },
-    {
       "source": "CoinDesk",
       "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
       "link": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
       "published": "Wed, 30 Sep 2026 15:34:50 +0000",
       "ts": 1790782490
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD remains vulnerable near $60",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-vulnerable-near-60-202609301526",
-      "published": "Wed, 30 Sep 2026 15:26:03 GMT",
-      "ts": 1790781963
     },
     {
       "source": "CoinDesk",
@@ -274,13 +281,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/solmate-names-bitcoin-depot-veteran-scott-buchanan-as-cfo-432SI-4925282",
       "published": "2026-09-30 13:22:02",
       "ts": 1790774522
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
-      "published": "2026-09-30 13:18:55",
-      "ts": 1790774335
     },
     {
       "source": "CoinDesk",
