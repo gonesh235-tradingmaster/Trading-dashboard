@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-30T18:13:14.896108Z",
+  "updated": "2026-09-30T18:34:40.537541Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: Fedspeak, Claims and the ISM data steal the show",
+      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-claims-and-the-ism-data-steal-the-show-202609301830",
+      "published": "Wed, 30 Sep 2026 18:30:22 GMT",
+      "ts": 1790793022
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This chart shows that buying and holding stocks beats ‘sell in May and go away’ and other gimmicks",
+      "link": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 18:20:00 GMT",
+      "ts": 1790792400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 18:15:00 GMT",
+      "ts": 1790792100
+    },
     {
       "source": "FXStreet",
       "title": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
@@ -22,13 +43,6 @@
       "link": "https://www.fxstreet.com/news/gold-cant-catch-a-pce-break-as-long-us-yields-keep-climbing-202609301802",
       "published": "Wed, 30 Sep 2026 18:02:43 GMT",
       "ts": 1790791363
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why the ‘Halloween Indicator’ isn’t working — and what smart investors are doing instead",
-      "link": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 17:40:00 GMT",
-      "ts": 1790790000
     },
     {
       "source": "MarketWatch",
@@ -122,13 +136,6 @@
       "ts": 1790785482
     },
     {
-      "source": "MarketWatch",
-      "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
-      "link": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 16:20:00 GMT",
-      "ts": 1790785200
-    },
-    {
       "source": "FXStreet",
       "title": "ECB’s Schnabel says yields surge could cool inflation pressures",
       "link": "https://www.fxstreet.com/news/ecbs-schnabel-says-yield-surge-could-cool-inflation-pressures-202609301619",
@@ -176,13 +183,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
       "published": "Wed, 30 Sep 2026 14:56:07 +0000",
       "ts": 1790780167
-    },
-    {
-      "source": "FXStreet",
-      "title": "China: Targeted support and cautious stabilization signs – Societe Generale",
-      "link": "https://www.fxstreet.com/news/china-targeted-support-and-cautious-stabilization-signs-societe-generale-202609301423",
-      "published": "Wed, 30 Sep 2026 14:23:19 GMT",
-      "ts": 1790778199
     },
     {
       "source": "CoinDesk",
