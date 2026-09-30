@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-30T02:10:15.462635Z",
+  "updated": "2026-09-30T02:27:08.722672Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US-Iran talks deadlocked as Qatar mediation yields little",
+      "link": "https://www.fxstreet.com/news/us-iran-talks-deadlocked-as-qatar-mediation-yields-little-202609300222",
+      "published": "Wed, 30 Sep 2026 02:22:06 GMT",
+      "ts": 1790734926
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen edges higher on verbal warnings, traders await US ADP labour and PCE data",
@@ -71,13 +78,6 @@
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 01:00:00 GMT",
       "ts": 1790730000
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro softens below 1.1350 on Lagarde's dovish tilt, German Retail Sales data in focus",
-      "link": "https://www.fxstreet.com/news/euro-softens-below-11350-on-lagardes-dovish-tilt-german-retail-sales-data-in-focus-202609300034",
-      "published": "Wed, 30 Sep 2026 00:34:22 GMT",
-      "ts": 1790728462
     },
     {
       "source": "MarketWatch",
