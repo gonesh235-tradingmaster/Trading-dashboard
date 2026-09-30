@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-30T01:28:18.022948Z",
+  "updated": "2026-09-30T01:45:27.155353Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Breaking: Australia’s CPI inflation rises to 4.0% YoY in August, as expected",
+      "link": "https://www.fxstreet.com/news/breaking-australias-cpi-inflation-rises-to-40-yoy-in-august-as-expected-202609300136",
+      "published": "Wed, 30 Sep 2026 01:36:35 GMT",
+      "ts": 1790732195
+    },
+    {
+      "source": "FXStreet",
+      "title": "China's September NBS Manufacturing PMI rises to 50.1, Non-Manufacturing PMI jumps to 50.2",
+      "link": "https://www.fxstreet.com/news/chinas-september-nbs-manufacturing-pmi-rises-to-501-non-manufacturing-pmi-jumps-to-502-202609300133",
+      "published": "Wed, 30 Sep 2026 01:33:11 GMT",
+      "ts": 1790731991
+    },
     {
       "source": "FXStreet",
       "title": "British Pound seems vulnerable near two-month low as USD bulls eye US PCE and GDP",
@@ -94,25 +108,11 @@
       "ts": 1790722980
     },
     {
-      "source": "FXStreet",
-      "title": "The New Zealand Dollar breaks lower after Australia's rate hike",
-      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-breaks-lower-after-australias-rate-hike-202609292302",
-      "published": "Tue, 29 Sep 2026 23:02:29 GMT",
-      "ts": 1790722949
-    },
-    {
       "source": "CoinDesk",
       "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
       "link": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
       "published": "Tue, 29 Sep 2026 23:00:00 +0000",
       "ts": 1790722800
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Pound slips to its lowest since June as a BoE hold voter pushes back",
-      "link": "https://www.fxstreet.com/news/the-pound-slips-to-its-lowest-since-june-as-a-boe-hold-voter-pushes-back-202609292255",
-      "published": "Tue, 29 Sep 2026 22:55:05 GMT",
-      "ts": 1790722505
     },
     {
       "source": "MarketWatch",
