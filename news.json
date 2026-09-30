@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-30T14:17:41.170146Z",
+  "updated": "2026-09-30T14:45:02.339920Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Adding Lilly’s new drug to Zepbound helped people lose up to 23% of their weight. But there were more side effects.",
+      "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 14:32:00 GMT",
+      "ts": 1790778720
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This is the big risk that stock investors should be watching as rising bond yields menace markets",
+      "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 14:31:00 GMT",
+      "ts": 1790778660
+    },
+    {
+      "source": "FXStreet",
+      "title": "China: Targeted support and cautious stabilization signs – Societe Generale",
+      "link": "https://www.fxstreet.com/news/china-targeted-support-and-cautious-stabilization-signs-societe-generale-202609301423",
+      "published": "Wed, 30 Sep 2026 14:23:19 GMT",
+      "ts": 1790778199
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD: Measured ECB tightening to support Euro – TD Securities",
+      "link": "https://www.fxstreet.com/news/eur-usd-measured-ecb-tightening-to-support-euro-td-securities-202609301419",
+      "published": "Wed, 30 Sep 2026 14:19:25 GMT",
+      "ts": 1790777965
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen advances as US PCE shifts Fed rate hike bets toward December",
@@ -150,20 +178,6 @@
       "ts": 1790773200
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 13:00:00 GMT",
-      "ts": 1790773200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s the most you should be spending on your car payment, whether you make $60,000 or over $150,000",
-      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 13:00:00 GMT",
-      "ts": 1790773200
-    },
-    {
       "source": "FXStreet",
       "title": "EUR/GBP: Range set to persist – Rabobank",
       "link": "https://www.fxstreet.com/news/eur-gbp-range-set-to-persist-rabobank-202609301258",
@@ -190,13 +204,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
       "published": "2026-09-30 12:39:39",
       "ts": 1790771979
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound rebounds against Japanese Yen as UK growth beats expectations",
-      "link": "https://www.fxstreet.com/news/british-pound-rebounds-against-japanese-yen-as-uk-growth-beats-expectations-202609301227",
-      "published": "Wed, 30 Sep 2026 12:27:43 GMT",
-      "ts": 1790771263
     },
     {
       "source": "CoinTelegraph",
@@ -277,7 +284,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin gains as yields dip following better than hoped inflation numbers",
+      "title": "Live updates: Bitcoin returns to $84,000, giving up early gains",
       "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
       "published": "Wed, 30 Sep 2026 10:18:34 +0000",
       "ts": 1790763514
@@ -335,13 +342,6 @@
       "source": "FXStreet",
       "title": "Breaking: US core PCE inflation stays unchanged at 3% in August vs. 3.3% expected",
       "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830",
-      "published": "Wed, 30 Sep 2026 08:30:00 GMT",
-      "ts": 1790757000
-    },
-    {
-      "source": "FXStreet",
-      "title": "Breaking: United States private sector employment rises by 90K in September vs. 70K expected",
-      "link": "https://www.fxstreet.com/news/adp-employment-report-expected-to-confirm-a-tight-labour-market-in-september-202609300830",
       "published": "Wed, 30 Sep 2026 08:30:00 GMT",
       "ts": 1790757000
     },
