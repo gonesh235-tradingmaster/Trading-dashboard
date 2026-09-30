@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-30T08:36:06.354416Z",
+  "updated": "2026-09-30T08:56:04.265384Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI seeks $30 in funding at whopping $1.4 trillion valuation after delaying IPO",
+      "link": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
+      "published": "Wed, 30 Sep 2026 08:50:22 +0000",
+      "ts": 1790758222
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tuesday’s market moves was one of the more disturbing days of late, says Goldman Sachs pro",
+      "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 08:42:00 GMT",
+      "ts": 1790757720
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Fragile strength hinges on Fed – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-fragile-strength-hinges-on-fed-commerzbank-202609300836",
+      "published": "Wed, 30 Sep 2026 08:36:19 GMT",
+      "ts": 1790757379
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar Index Price Forecast: Possibility of breakout above 101.80 hinges on US data",
@@ -18,15 +39,15 @@
     },
     {
       "source": "FXStreet",
-      "title": "US core PCE inflation set to rise in August, pressuring the Federal Reserve",
-      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830",
+      "title": "ADP Employment Report expected to confirm a tight labour market in September",
+      "link": "https://www.fxstreet.com/news/adp-employment-report-expected-to-confirm-a-tight-labour-market-in-september-202609300830",
       "published": "Wed, 30 Sep 2026 08:30:00 GMT",
       "ts": 1790757000
     },
     {
       "source": "FXStreet",
-      "title": "ADP Employment Report expected to confirm a tight labour market in September",
-      "link": "https://www.fxstreet.com/news/adp-employment-report-expected-to-confirm-a-tight-labour-market-in-september-202609300830",
+      "title": "US core PCE inflation set to rise in August, pressuring the Federal Reserve",
+      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830",
       "published": "Wed, 30 Sep 2026 08:30:00 GMT",
       "ts": 1790757000
     },
@@ -52,13 +73,6 @@
       "ts": 1790756743
     },
     {
-      "source": "MarketWatch",
-      "title": "Tuesday’s market moves was one of the more disturbing days of late, says Goldman Sachs pro",
-      "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 08:25:00 GMT",
-      "ts": 1790756700
-    },
-    {
       "source": "FXStreet",
       "title": "US Dollar: Strength persists on higher yields – ING",
       "link": "https://www.fxstreet.com/news/us-dollar-strength-persists-on-higher-yields-ing-202609300824",
@@ -71,20 +85,6 @@
       "link": "https://www.fxstreet.com/news/euro-remains-depressed-near-yearly-lows-amid-soft-german-data-202609300824",
       "published": "Wed, 30 Sep 2026 08:24:51 GMT",
       "ts": 1790756691
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar gains as US Dollar declines on easing Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-us-dollar-declines-on-easing-fed-rate-hike-bets-202609300819",
-      "published": "Wed, 30 Sep 2026 08:19:13 GMT",
-      "ts": 1790756353
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen trims part of intraday gains vs retreating USD as traders await US PCE data",
-      "link": "https://www.fxstreet.com/news/japanese-yen-trims-part-of-intraday-gains-vs-retreating-usd-as-traders-await-us-pce-data-202609300815",
-      "published": "Wed, 30 Sep 2026 08:15:11 GMT",
-      "ts": 1790756111
     },
     {
       "source": "Investing Forex",
@@ -148,6 +148,13 @@
       "link": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 05:45:55 +0000",
       "ts": 1790747155
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee rebounds as traders reassess hawkish Fed bets, oil prices drop",
+      "link": "https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543",
+      "published": "Wed, 30 Sep 2026 05:43:44 GMT",
+      "ts": 1790747024
     },
     {
       "source": "CoinDesk",
@@ -337,13 +344,6 @@
       "link": "https://www.investing.com/news/forex-news/wells-fargo-revises-dollar-yen-euro-estimates-amid-rate-hike-outlook-4923047",
       "published": "2026-09-29 14:44:38",
       "ts": 1790693078
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Democrats killed the Clarity Act",
-      "link": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
-      "published": "Tue, 29 Sep 2026 14:08:18 +0000",
-      "ts": 1790690898
     },
     {
       "source": "Investing Crypto",
