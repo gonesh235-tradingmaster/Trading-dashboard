@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-30T23:40:51.129584Z",
+  "updated": "2026-09-30T23:53:42.757884Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The New Zealand Dollar edges lower as US yields outweigh China's beats",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-edges-lower-as-us-yields-outweigh-chinas-beats-202609302345",
+      "published": "Wed, 30 Sep 2026 23:45:00 GMT",
+      "ts": 1790811900
+    },
     {
       "source": "FXStreet",
       "title": "The Euro slips as Europe's biggest economies report hotter inflation",
@@ -190,13 +197,6 @@
       "link": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 18:49:06 +0000",
       "ts": 1790794146
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: Fedspeak, Jobless Claims and ISM data steal the show",
-      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-claims-and-the-ism-data-steal-the-show-202609301830",
-      "published": "Wed, 30 Sep 2026 18:30:22 GMT",
-      "ts": 1790793022
     },
     {
       "source": "CoinTelegraph",
