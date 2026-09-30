@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-30T03:43:27.572741Z",
+  "updated": "2026-09-30T03:58:09.650056Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold holds steady below $4,200 as retreating bond yields and softer USD lend support",
+      "link": "https://www.fxstreet.com/news/gold-holds-steady-below-4-200-as-retreating-bond-yields-and-softer-usd-lend-support-202609300349",
+      "published": "Wed, 30 Sep 2026 03:49:35 GMT",
+      "ts": 1790740175
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut",
+      "link": "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 03:40:42 +0000",
+      "ts": 1790739642
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar holds immediate support near 0.5625, outlook remains uncertain",
@@ -71,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/chinas-september-nbs-manufacturing-pmi-rises-to-501-non-manufacturing-pmi-jumps-to-502-202609300133",
       "published": "Wed, 30 Sep 2026 01:33:11 GMT",
       "ts": 1790731991
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound seems vulnerable near two-month low as USD bulls eye US PCE and GDP",
-      "link": "https://www.fxstreet.com/news/british-pound-seems-vulnerable-near-two-month-low-as-usd-bulls-eye-us-pce-and-gdp-202609300118",
-      "published": "Wed, 30 Sep 2026 01:18:02 GMT",
-      "ts": 1790731082
     },
     {
       "source": "MarketWatch",
@@ -274,13 +281,6 @@
       "link": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
       "published": "Tue, 29 Sep 2026 14:08:18 +0000",
       "ts": 1790690898
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
-      "link": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 13:30:00 +0000",
-      "ts": 1790688600
     },
     {
       "source": "Investing Crypto",
