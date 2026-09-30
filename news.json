@@ -1,13 +1,69 @@
 {
-  "updated": "2026-09-30T10:33:53.552269Z",
+  "updated": "2026-09-30T10:55:56.526331Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar clings to early recovery near 0.6970, US data takes centre stage",
+      "link": "https://www.fxstreet.com/news/australian-dollar-clings-to-early-recovery-near-06970-us-data-takes-centre-stage-202609301048",
+      "published": "Wed, 30 Sep 2026 10:48:40 GMT",
+      "ts": 1790765320
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
+      "link": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
+      "published": "Wed, 30 Sep 2026 10:43:43 +0000",
+      "ts": 1790765023
+    },
+    {
+      "source": "FXStreet",
+      "title": "Experts agree: The fundamental background hints at further US Dollar appreciation",
+      "link": "https://www.fxstreet.com/news/experts-agree-the-fundamental-background-hints-at-further-us-dollar-appreciation-202609301042",
+      "published": "Wed, 30 Sep 2026 10:42:26 GMT",
+      "ts": 1790764946
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Upcoming data to support hawkish Fed stance – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-upcoming-data-to-support-hawkish-fed-stance-bbh-202609301038",
+      "published": "Wed, 30 Sep 2026 10:38:29 GMT",
+      "ts": 1790764709
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
+      "link": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 10:38:00 GMT",
+      "ts": 1790764680
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY: Intervention fears steer Yen strength – Societe Generale",
+      "link": "https://www.fxstreet.com/news/usd-jpy-intervention-fears-steer-yen-strength-societe-generale-202609301035",
+      "published": "Wed, 30 Sep 2026 10:35:45 GMT",
+      "ts": 1790764545
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: ECB pushback weighs on currency – MUFG",
+      "link": "https://www.fxstreet.com/news/euro-ecb-pushback-weighs-on-currency-mufg-202609301034",
+      "published": "Wed, 30 Sep 2026 10:34:35 GMT",
+      "ts": 1790764475
+    },
     {
       "source": "CoinDesk",
       "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
       "link": "https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
       "published": "Wed, 30 Sep 2026 10:28:24 +0000",
       "ts": 1790764104
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency",
+      "link": "https://www.investing.com/news/forex-news/swiss-national-bank-bought-144-billion-francs-in-foreign-currency-93CH-4924575",
+      "published": "2026-09-30 10:21:16",
+      "ts": 1790763676
     },
     {
       "source": "CoinDesk",
@@ -18,7 +74,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
+      "title": "Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
       "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 10:15:00 GMT",
       "ts": 1790763300
@@ -36,6 +92,13 @@
       "link": "https://www.investing.com/news/forex-news/bca-raises-dollar-target-on-widening-realrate-gap-and-resilient-growth-4924547",
       "published": "2026-09-30 10:12:21",
       "ts": 1790763141
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
+      "published": "Wed, 30 Sep 2026 10:11:36 +0000",
+      "ts": 1790763096
     },
     {
       "source": "CoinTelegraph",
@@ -80,34 +143,6 @@
       "ts": 1790761543
     },
     {
-      "source": "FXStreet",
-      "title": "Pound: Stronger UK growth and reverse-Brexit risk – MUFG",
-      "link": "https://www.fxstreet.com/news/pound-stronger-uk-growth-and-reverse-brexit-risk-mufg-202609300943",
-      "published": "Wed, 30 Sep 2026 09:43:22 GMT",
-      "ts": 1790761402
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Treasuries: Curve steepens with long yields at cycle highs – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/us-treasuries-curve-steepens-with-long-yields-at-cycle-highs-deutsche-bank-202609300940",
-      "published": "Wed, 30 Sep 2026 09:40:36 GMT",
-      "ts": 1790761236
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso: Carry trade unwind risks into Q4 – Societe Generale",
-      "link": "https://www.fxstreet.com/news/mexican-peso-carry-trade-unwind-risks-into-q4-societe-generale-202609300938",
-      "published": "Wed, 30 Sep 2026 09:38:27 GMT",
-      "ts": 1790761107
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD: Range view holds as Dollar doubts grow – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/eur-usd-range-view-holds-as-dollar-doubts-grow-deutsche-bank-202609300936",
-      "published": "Wed, 30 Sep 2026 09:36:10 GMT",
-      "ts": 1790760970
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar tracks toward best month since June; Traders brace for U.S. PCE reading",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
@@ -120,13 +155,6 @@
       "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 09:32:00 GMT",
       "ts": 1790760720
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609300931",
-      "published": "Wed, 30 Sep 2026 09:31:15 GMT",
-      "ts": 1790760675
     },
     {
       "source": "MarketWatch",
@@ -255,13 +283,6 @@
       "ts": 1790745771
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
-      "published": "Wed, 30 Sep 2026 04:38:18 +0000",
-      "ts": 1790743098
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
       "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -309,20 +330,6 @@
       "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 23:30:00 GMT",
       "ts": 1790724600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 23:03:00 GMT",
-      "ts": 1790722980
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
-      "link": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
-      "published": "Tue, 29 Sep 2026 23:00:00 +0000",
-      "ts": 1790722800
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/btse-bhutan-receives-financial-services-license-for-digital-asset-trading-services-in-gelephu-mindfulness-city-4921553",
       "published": "2026-09-29 04:30:33",
       "ts": 1790656233
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar pinned at two-month high as bond rout extends, Fed rate hike bets rise",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
-      "published": "2026-09-28 20:07:07",
-      "ts": 1790626027
     }
   ]
 }
