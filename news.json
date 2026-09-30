@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-30T08:56:04.265384Z",
+  "updated": "2026-09-30T09:12:24.734239Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: EUR/USD Bearish risks toward 1.10 – ING",
+      "link": "https://www.fxstreet.com/news/euro-eur-usd-bearish-risks-toward-110-ing-202609300909",
+      "published": "Wed, 30 Sep 2026 09:09:21 GMT",
+      "ts": 1790759361
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc edges up from yearly lows despite tepid Economic Expectations data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-edges-up-from-yearly-lows-despite-tepid-economic-expectations-data-202609300908",
+      "published": "Wed, 30 Sep 2026 09:08:54 GMT",
+      "ts": 1790759334
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Sticks to recovery gains below $89.00; lacks bullish conviction",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-sticks-to-recovery-gains-below-8900-lacks-bullish-conviction-202609300904",
+      "published": "Wed, 30 Sep 2026 09:04:54 GMT",
+      "ts": 1790759094
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Netflix stars Nick and Vanessa Lachey list $8.1 million L.A. home they bought from Naomi Osaka",
+      "link": "https://www.marketwatch.com/story/netflix-stars-nick-and-vanessa-lachey-list-8-1-million-l-a-home-they-bought-from-naomi-osaka-0cdb873b?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 09:02:00 GMT",
+      "ts": 1790758920
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures advance as Fed rate hike expectations cool",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-advance-as-fed-rate-hike-expectations-cool-202609300856",
+      "published": "Wed, 30 Sep 2026 08:56:58 GMT",
+      "ts": 1790758618
+    },
     {
       "source": "CoinDesk",
       "title": "OpenAI seeks $30 in funding at whopping $1.4 trillion valuation after delaying IPO",
@@ -59,32 +94,11 @@
       "ts": 1790756820
     },
     {
-      "source": "FXStreet",
-      "title": "TRY: Inflation and easing threaten Lira – Commerzbank",
-      "link": "https://www.fxstreet.com/news/try-inflation-and-easing-threaten-lira-commerzbank-202609300825",
-      "published": "Wed, 30 Sep 2026 08:25:57 GMT",
-      "ts": 1790756757
-    },
-    {
       "source": "CoinDesk",
       "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
       "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
       "published": "Wed, 30 Sep 2026 08:25:43 +0000",
       "ts": 1790756743
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Strength persists on higher yields – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-strength-persists-on-higher-yields-ing-202609300824",
-      "published": "Wed, 30 Sep 2026 08:24:59 GMT",
-      "ts": 1790756699
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro remains depressed near yearly lows amid soft German data",
-      "link": "https://www.fxstreet.com/news/euro-remains-depressed-near-yearly-lows-amid-soft-german-data-202609300824",
-      "published": "Wed, 30 Sep 2026 08:24:51 GMT",
-      "ts": 1790756691
     },
     {
       "source": "Investing Forex",
@@ -178,13 +192,6 @@
       "ts": 1790742568
     },
     {
-      "source": "FXStreet",
-      "title": "Gold looks to build on gains above $4,200 on USD stays weak ahead of US PCE",
-      "link": "https://www.fxstreet.com/news/gold-holds-steady-below-4-200-as-retreating-bond-yields-and-softer-usd-lend-support-202609300349",
-      "published": "Wed, 30 Sep 2026 03:49:35 GMT",
-      "ts": 1790740175
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut",
       "link": "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -274,13 +281,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
       "published": "2026-09-29 21:43:40",
       "ts": 1790718220
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Target’s price cuts are a sign of strength, some analysts say. Investors disagree.",
-      "link": "https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 21:33:00 GMT",
-      "ts": 1790717580
     },
     {
       "source": "Investing Forex",
