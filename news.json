@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-30T04:42:40.155745Z",
+  "updated": "2026-09-30T04:57:26.726899Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah gains on robust Chinese PMI data, budget assurance",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-on-robust-chinese-pmi-data-budget-assurance-202609300443",
+      "published": "Wed, 30 Sep 2026 04:43:36 GMT",
+      "ts": 1790743416
+    },
     {
       "source": "FXStreet",
       "title": "India Gold price today: Gold steadies, according to FXStreet data",
@@ -15,6 +22,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
       "published": "Wed, 30 Sep 2026 04:38:18 +0000",
       "ts": 1790743098
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as yen rebounds, dollar stays near two-month high",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
+      "published": "2026-09-30 04:31:11",
+      "ts": 1790742671
     },
     {
       "source": "FXStreet",
@@ -92,13 +106,6 @@
       "link": "https://www.fxstreet.com/news/us-iran-talks-deadlocked-as-qatar-mediation-yields-little-202609300222",
       "published": "Wed, 30 Sep 2026 02:22:06 GMT",
       "ts": 1790734926
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen edges higher on verbal warnings, traders await US ADP labour and PCE data",
-      "link": "https://www.fxstreet.com/news/japanese-yen-edges-higher-on-verbal-warnings-traders-await-us-adp-labour-and-pce-data-202609300203",
-      "published": "Wed, 30 Sep 2026 02:03:20 GMT",
-      "ts": 1790733800
     },
     {
       "source": "MarketWatch",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-japan-yen-intervention-likely-near-160-per-dollar-93CH-4919746",
       "published": "2026-09-28 10:18:17",
       "ts": 1790590697
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges higher as U.S. data tests dollar rally",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-us-data-tests-dollar-rally-4919636",
-      "published": "2026-09-28 09:34:08",
-      "ts": 1790588048
     }
   ]
 }
