@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-30T05:16:08.015412Z",
+  "updated": "2026-09-30T05:42:09.695325Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
+      "link": "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
+      "published": "Wed, 30 Sep 2026 05:22:51 +0000",
+      "ts": 1790745771
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Tests 157.00 support after slipping below nine-day EMA",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-tests-15700-support-after-slipping-below-nine-day-ema-202609300521",
+      "published": "Wed, 30 Sep 2026 05:21:54 GMT",
+      "ts": 1790745714
+    },
     {
       "source": "FXStreet",
       "title": "GBP/USD Price Forecast: Weakens below 1.3250, technical barriers sustain bearish bias",
@@ -81,7 +95,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold holds steady below $4,200 as retreating bond yields and softer USD lend support",
+      "title": "Gold edges lower as Fed hike bets and Middle East jitters underpin USD",
       "link": "https://www.fxstreet.com/news/gold-holds-steady-below-4-200-as-retreating-bond-yields-and-softer-usd-lend-support-202609300349",
       "published": "Wed, 30 Sep 2026 03:49:35 GMT",
       "ts": 1790740175
@@ -92,13 +106,6 @@
       "link": "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 03:40:42 +0000",
       "ts": 1790739642
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar holds immediate support near 0.5625, outlook remains uncertain",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-immediate-support-near-05625-outlook-remains-uncertain-202609300318",
-      "published": "Wed, 30 Sep 2026 03:18:10 GMT",
-      "ts": 1790738290
     },
     {
       "source": "CoinTelegraph",
@@ -234,13 +241,6 @@
       "ts": 1790711393
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 19:42:02 +0000",
-      "ts": 1790710922
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin bull flag compresses near $83,266 support: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
@@ -274,6 +274,13 @@
       "link": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 16:26:11 +0000",
       "ts": 1790699171
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
+      "link": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 16:18:06 +0000",
+      "ts": 1790698686
     },
     {
       "source": "CoinDesk",
@@ -344,13 +351,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
       "published": "Tue, 29 Sep 2026 10:14:41 +0000",
       "ts": 1790676881
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Blockchain.com targets $500 million IPO this year at up to $6 billion valuation",
-      "link": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
-      "published": "Tue, 29 Sep 2026 10:13:40 +0000",
-      "ts": 1790676820
     },
     {
       "source": "Investing Crypto",
