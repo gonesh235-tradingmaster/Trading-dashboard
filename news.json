@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-30T04:17:08.554413Z",
+  "updated": "2026-09-30T04:42:40.155745Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold steadies, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202609300440",
+      "published": "Wed, 30 Sep 2026 04:40:51 GMT",
+      "ts": 1790743251
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
+      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
+      "published": "Wed, 30 Sep 2026 04:38:18 +0000",
+      "ts": 1790743098
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc remains near 16-month lows as rate hike odds lift US Dollar",
+      "link": "https://www.fxstreet.com/news/swiss-franc-remains-near-16-month-lows-as-rate-hike-odds-lift-us-dollar-202609300430",
+      "published": "Wed, 30 Sep 2026 04:30:58 GMT",
+      "ts": 1790742658
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
+      "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 04:29:28 +0000",
+      "ts": 1790742568
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index strengthens to near 101.50, US ADP and PCE data loom",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-to-near-10150-us-adp-and-pce-data-loom-202609300425",
+      "published": "Wed, 30 Sep 2026 04:25:14 GMT",
+      "ts": 1790742314
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD hangs near eight-week low; bears retain control near $61.00",
@@ -64,27 +99,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-edges-higher-on-verbal-warnings-traders-await-us-adp-labour-and-pce-data-202609300203",
       "published": "Wed, 30 Sep 2026 02:03:20 GMT",
       "ts": 1790733800
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar struggles to gain traction despite solid Chinese PMI Data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-struggles-to-gain-traction-despite-solid-chinese-pmi-data-202609300201",
-      "published": "Wed, 30 Sep 2026 02:01:33 GMT",
-      "ts": 1790733693
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar dives to six-month low vs Yen after Aussie CPI report, China PMIs",
-      "link": "https://www.fxstreet.com/news/australian-dollar-dives-to-six-month-low-vs-yen-after-aussie-cpi-report-china-pmis-202609300149",
-      "published": "Wed, 30 Sep 2026 01:49:50 GMT",
-      "ts": 1790732990
-    },
-    {
-      "source": "FXStreet",
-      "title": "China’s September RatingDog Manufacturing PMI leaps to 52.1, Services PMI rises to 51.6",
-      "link": "https://www.fxstreet.com/news/chinas-september-ratingdog-manufacturing-pmi-leaps-to-521-services-pmi-rises-to-516-202609300148",
-      "published": "Wed, 30 Sep 2026 01:48:02 GMT",
-      "ts": 1790732882
     },
     {
       "source": "MarketWatch",
@@ -255,13 +269,6 @@
       "ts": 1790699171
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
-      "link": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 16:18:06 +0000",
-      "ts": 1790698686
-    },
-    {
       "source": "CoinDesk",
       "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
       "link": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
@@ -337,13 +344,6 @@
       "link": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
       "published": "Tue, 29 Sep 2026 10:13:40 +0000",
       "ts": 1790676820
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
-      "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
-      "published": "Tue, 29 Sep 2026 09:45:31 +0000",
-      "ts": 1790675131
     },
     {
       "source": "Investing Crypto",
