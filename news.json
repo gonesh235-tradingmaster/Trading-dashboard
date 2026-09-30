@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-30T22:29:00.884677Z",
+  "updated": "2026-09-30T22:46:35.285466Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Aussie Dollar slips below 0.70 as Bullock dovishness trumps soft PCE",
+      "link": "https://www.fxstreet.com/news/aussie-dollar-slips-below-070-as-bullock-dovishness-trumps-soft-pce-202609302240",
+      "published": "Wed, 30 Sep 2026 22:40:20 GMT",
+      "ts": 1790808020
+    },
     {
       "source": "FXStreet",
       "title": "Fed’s Kashkari questions policy tightness as economy stays strong",
@@ -218,13 +225,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/open-standard-issues-dollar-stablecoin-backed-by-visa-stripe-and-mastercard-4925607",
       "published": "2026-09-30 16:24:42",
       "ts": 1790785482
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB’s Schnabel says yields surge could cool inflation pressures",
-      "link": "https://www.fxstreet.com/news/ecbs-schnabel-says-yield-surge-could-cool-inflation-pressures-202609301619",
-      "published": "Wed, 30 Sep 2026 16:19:05 GMT",
-      "ts": 1790785145
     },
     {
       "source": "CoinDesk",
