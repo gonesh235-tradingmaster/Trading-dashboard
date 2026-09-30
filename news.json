@@ -1,10 +1,38 @@
 {
-  "updated": "2026-09-30T18:58:32.601536Z",
+  "updated": "2026-09-30T19:18:37.418300Z",
   "count": 60,
   "items": [
     {
+      "source": "CoinTelegraph",
+      "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
+      "link": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 19:11:23 +0000",
+      "ts": 1790795483
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+      "link": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 19:00:00 +0000",
+      "ts": 1790794800
+    },
+    {
       "source": "MarketWatch",
-      "title": "Adding Lilly’s new drug to Zepbound helped people lose up to 23% of their weight. But there were more side effects.",
+      "title": "My friend’s pet-sitting business grosses $300,000 a year, but she pays herself $50,000. Should I start one too?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 19:00:00 GMT",
+      "ts": 1790794800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bloomberg brings onchain stablecoin data to its Terminal",
+      "link": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 18:49:06 +0000",
+      "ts": 1790794146
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Adding Lilly’s new drug to Zepbound helped people lose more weight — but there were more side effects",
       "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 18:45:00 GMT",
       "ts": 1790793900
@@ -106,13 +134,6 @@
       "link": "https://www.marketwatch.com/story/former-nfl-players-are-nearly-four-times-as-likely-to-die-with-brain-damage-is-it-time-to-boycott-football-ba886e44?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 17:15:00 GMT",
       "ts": 1790788500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The U.S. economy is defying gravity. Here’s all the good news.",
-      "link": "https://www.marketwatch.com/story/the-u-s-economy-is-defying-gravity-heres-all-the-good-news-8b58fc7b?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 17:07:00 GMT",
-      "ts": 1790788020
     },
     {
       "source": "CoinTelegraph",
@@ -311,13 +332,6 @@
       "ts": 1790766000
     },
     {
-      "source": "CoinTelegraph",
-      "title": "A single market worth protecting: Getting the MiCA review right",
-      "link": "https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 11:00:00 +0000",
-      "ts": 1790766000
-    },
-    {
       "source": "CoinDesk",
       "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
       "link": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
@@ -332,25 +346,11 @@
       "ts": 1790763676
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 10:12:28 +0000",
-      "ts": 1790763148
-    },
-    {
       "source": "Investing Forex",
       "title": "BCA raises dollar target on widening real-rate gap and resilient growth",
       "link": "https://www.investing.com/news/forex-news/bca-raises-dollar-target-on-widening-realrate-gap-and-resilient-growth-4924547",
       "published": "2026-09-30 10:12:21",
       "ts": 1790763141
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Crypto hardware wallets compared for 2026",
-      "link": "https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 10:11:12 +0000",
-      "ts": 1790763072
     },
     {
       "source": "Investing Forex",
