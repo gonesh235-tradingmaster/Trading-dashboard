@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-30T13:02:39.107402Z",
+  "updated": "2026-09-30T13:31:04.333332Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 13:30:00 GMT",
+      "ts": 1790775000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Americans get back to their spending ways. Economy might be speeding up again.",
+      "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 13:24:00 GMT",
+      "ts": 1790774640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How Amazon’s stock can fight off the AI threat and soar 46%",
+      "link": "https://www.marketwatch.com/story/how-amazons-stock-can-fight-off-the-ai-threat-and-soar-46-5af77a03?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 13:24:00 GMT",
+      "ts": 1790774640
+    },
+    {
+      "source": "FXStreet",
+      "title": "China: PMIs point to manufacturing and services improvement – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/china-pmis-point-to-manufacturing-and-services-improvement-deutsche-bank-202609301321",
+      "published": "Wed, 30 Sep 2026 13:21:39 GMT",
+      "ts": 1790774499
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 13:18:35 +0000",
+      "ts": 1790774315
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar gains as US inflation cools Fed October rate hike bets",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-us-inflation-cools-fed-october-rate-hike-bets-202609301316",
+      "published": "Wed, 30 Sep 2026 13:16:04 GMT",
+      "ts": 1790774164
+    },
+    {
+      "source": "MarketWatch",
+      "title": "U.S. inflation rises, keeping pressure on Fed",
+      "link": "https://www.marketwatch.com/story/inflation-rises-again-and-keeps-pressure-on-fed-f64d2ced?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 13:11:00 GMT",
+      "ts": 1790773860
+    },
     {
       "source": "CoinDesk",
       "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
@@ -10,9 +59,23 @@
       "ts": 1790773200
     },
     {
+      "source": "CoinTelegraph",
+      "title": "Singapore crypto activity grows 55% as broader region contracts",
+      "link": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 13:00:00 +0000",
+      "ts": 1790773200
+    },
+    {
       "source": "MarketWatch",
       "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 13:00:00 GMT",
+      "ts": 1790773200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s the most you should be spending on your car payment, whether you make $60,000 or over $150,000",
+      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 13:00:00 GMT",
       "ts": 1790773200
     },
@@ -50,13 +113,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
       "published": "2026-09-30 12:39:39",
       "ts": 1790771979
-    },
-    {
-      "source": "MarketWatch",
-      "title": "U.S. inflation rises again and keeps the pressure on Fed",
-      "link": "https://www.marketwatch.com/story/inflation-rises-again-and-keeps-pressure-on-fed-f64d2ced?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 12:35:00 GMT",
-      "ts": 1790771700
     },
     {
       "source": "MarketWatch",
@@ -115,27 +171,6 @@
       "ts": 1790768539
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/GBP Price Forecast: Reaching oversold levels at six-week lows sub-0.8550",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-reaching-oversold-levels-at-six-week-lows-sub-08550-202609301137",
-      "published": "Wed, 30 Sep 2026 11:37:06 GMT",
-      "ts": 1790768226
-    },
-    {
-      "source": "FXStreet",
-      "title": "What is driving the US Dollar to multi-month highs against the Euro as PCE data approaches?",
-      "link": "https://www.fxstreet.com/news/what-is-driving-the-us-dollar-to-multi-month-highs-against-the-euro-as-pce-data-approaches-202609301133",
-      "published": "Wed, 30 Sep 2026 11:33:30 GMT",
-      "ts": 1790768010
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: At make or a break near 1.1330",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-at-make-or-a-break-near-11330-202609301125",
-      "published": "Wed, 30 Sep 2026 11:25:50 GMT",
-      "ts": 1790767550
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Altcoin exchange deposit count jumps 160% in 2 weeks",
       "link": "https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -150,11 +185,11 @@
       "ts": 1790767209
     },
     {
-      "source": "MarketWatch",
-      "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
-      "link": "https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 11:12:00 GMT",
-      "ts": 1790766720
+      "source": "FXStreet",
+      "title": "Gold firms as softer US PCE inflation cools October Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-struggles-for-direction-ahead-of-feds-preferred-pce-inflation-data-202609301104",
+      "published": "Wed, 30 Sep 2026 11:04:11 GMT",
+      "ts": 1790766251
     },
     {
       "source": "CoinDesk",
@@ -185,13 +220,6 @@
       "ts": 1790765023
     },
     {
-      "source": "MarketWatch",
-      "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
-      "link": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 10:38:00 GMT",
-      "ts": 1790764680
-    },
-    {
       "source": "CoinDesk",
       "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
       "link": "https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
@@ -211,13 +239,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
       "published": "Wed, 30 Sep 2026 10:18:34 +0000",
       "ts": 1790763514
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
-      "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 10:15:00 GMT",
-      "ts": 1790763300
     },
     {
       "source": "CoinTelegraph",
@@ -253,13 +274,6 @@
       "link": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 10:05:39 +0000",
       "ts": 1790762739
-    },
-    {
-      "source": "MarketWatch",
-      "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
-      "link": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 09:20:00 GMT",
-      "ts": 1790760000
     },
     {
       "source": "Investing Forex",
@@ -312,13 +326,6 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 06:00:00 +0000",
-      "ts": 1790748000
-    },
-    {
-      "source": "CoinTelegraph",
       "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
       "link": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 05:45:55 +0000",
@@ -330,13 +337,6 @@
       "link": "https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543",
       "published": "Wed, 30 Sep 2026 05:43:44 GMT",
       "ts": 1790747024
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
-      "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 04:29:28 +0000",
-      "ts": 1790742568
     },
     {
       "source": "Investing Crypto",
