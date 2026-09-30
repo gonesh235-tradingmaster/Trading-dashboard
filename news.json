@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-30T15:32:14.317079Z",
+  "updated": "2026-09-30T15:56:56.172513Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar reverses post-PCE rebound as US Dollar recovers",
+      "link": "https://www.fxstreet.com/news/australian-dollar-reverses-post-pce-rebound-as-us-dollar-recovers-202609301545",
+      "published": "Wed, 30 Sep 2026 15:45:36 GMT",
+      "ts": 1790783136
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+      "link": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+      "published": "Wed, 30 Sep 2026 15:34:50 +0000",
+      "ts": 1790782490
+    },
     {
       "source": "MarketWatch",
       "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
@@ -206,13 +220,6 @@
       "ts": 1790773200
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/GBP: Range set to persist – Rabobank",
-      "link": "https://www.fxstreet.com/news/eur-gbp-range-set-to-persist-rabobank-202609301258",
-      "published": "Wed, 30 Sep 2026 12:58:28 GMT",
-      "ts": 1790773108
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. yields pull back from peaks as cooler PCE print curbs Oct rate-hike odds",
       "link": "https://www.investing.com/news/forex-news/us-10year-yields-anchor-near-2007-peaks-set-for-biggest-monthly-jump-in-2-yrs-4924286",
@@ -302,13 +309,6 @@
       "link": "https://www.investing.com/news/forex-news/swiss-national-bank-bought-144-billion-francs-in-foreign-currency-93CH-4924575",
       "published": "2026-09-30 10:21:16",
       "ts": 1790763676
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin returns to $84,000, giving up early gains",
-      "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
-      "published": "Wed, 30 Sep 2026 10:18:34 +0000",
-      "ts": 1790763514
     },
     {
       "source": "CoinTelegraph",
