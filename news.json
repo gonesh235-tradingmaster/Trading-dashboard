@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-30T03:16:50.089904Z",
+  "updated": "2026-09-30T03:43:27.572741Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar holds immediate support near 0.5625, outlook remains uncertain",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-immediate-support-near-05625-outlook-remains-uncertain-202609300318",
+      "published": "Wed, 30 Sep 2026 03:18:10 GMT",
+      "ts": 1790738290
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar remains subdued near two-month lows as falling oil prices weigh",
@@ -71,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-seems-vulnerable-near-two-month-low-as-usd-bulls-eye-us-pce-and-gdp-202609300118",
       "published": "Wed, 30 Sep 2026 01:18:02 GMT",
       "ts": 1790731082
-    },
-    {
-      "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7351 vs. 6.7411 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67351-vs-67411-previous-202609300115",
-      "published": "Wed, 30 Sep 2026 01:15:51 GMT",
-      "ts": 1790730951
     },
     {
       "source": "MarketWatch",
