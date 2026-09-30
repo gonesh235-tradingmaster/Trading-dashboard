@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-30T17:55:32.520373Z",
+  "updated": "2026-09-30T18:13:14.896108Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-monthly-outlook-mixed-daily-chart-remains-bearish-202609301810",
+      "published": "Wed, 30 Sep 2026 18:10:12 GMT",
+      "ts": 1790791812
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
+      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 18:03:00 GMT",
+      "ts": 1790791380
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold can’t catch a PCE break as long US yields keep climbing",
+      "link": "https://www.fxstreet.com/news/gold-cant-catch-a-pce-break-as-long-us-yields-keep-climbing-202609301802",
+      "published": "Wed, 30 Sep 2026 18:02:43 GMT",
+      "ts": 1790791363
+    },
     {
       "source": "MarketWatch",
       "title": "Why the ‘Halloween Indicator’ isn’t working — and what smart investors are doing instead",
@@ -115,13 +136,6 @@
       "ts": 1790785145
     },
     {
-      "source": "MarketWatch",
-      "title": "Saving your retirement could come down to this simple writing exercise",
-      "link": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 16:11:00 GMT",
-      "ts": 1790784660
-    },
-    {
       "source": "FXStreet",
       "title": "Australian Dollar reverses post-PCE rebound as US Dollar recovers",
       "link": "https://www.fxstreet.com/news/australian-dollar-reverses-post-pce-rebound-as-us-dollar-recovers-202609301545",
@@ -169,20 +183,6 @@
       "link": "https://www.fxstreet.com/news/china-targeted-support-and-cautious-stabilization-signs-societe-generale-202609301423",
       "published": "Wed, 30 Sep 2026 14:23:19 GMT",
       "ts": 1790778199
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD: Measured ECB tightening to support Euro – TD Securities",
-      "link": "https://www.fxstreet.com/news/eur-usd-measured-ecb-tightening-to-support-euro-td-securities-202609301419",
-      "published": "Wed, 30 Sep 2026 14:19:25 GMT",
-      "ts": 1790777965
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen advances as US PCE shifts Fed rate hike bets toward December",
-      "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-us-pce-shifts-fed-rate-hike-bets-toward-december-202609301410",
-      "published": "Wed, 30 Sep 2026 14:10:24 GMT",
-      "ts": 1790777424
     },
     {
       "source": "CoinDesk",
