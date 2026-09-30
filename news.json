@@ -1,48 +1,97 @@
 {
-  "updated": "2026-09-30T08:14:31.791124Z",
+  "updated": "2026-09-30T08:36:06.354416Z",
   "count": 60,
   "items": [
     {
       "source": "FXStreet",
-      "title": "Brent: Geopolitics and cracks drive Q3 surge – Rabobank",
-      "link": "https://www.fxstreet.com/news/brent-geopolitics-and-cracks-drive-q3-surge-rabobank-202609300813",
-      "published": "Wed, 30 Sep 2026 08:13:35 GMT",
-      "ts": 1790756015
+      "title": "US Dollar Index Price Forecast: Possibility of breakout above 101.80 hinges on US data",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-possibility-of-breakout-above-10180-hinges-on-us-data-202609300835",
+      "published": "Wed, 30 Sep 2026 08:35:00 GMT",
+      "ts": 1790757300
     },
     {
       "source": "FXStreet",
-      "title": "Euro: EUR/USD risk reversal long setup – TD Securities",
-      "link": "https://www.fxstreet.com/news/euro-eur-usd-risk-reversal-long-setup-td-securities-202609300811",
-      "published": "Wed, 30 Sep 2026 08:11:47 GMT",
-      "ts": 1790755907
+      "title": "USD/JPY: Yen carry risks build into Q4 – Rabobank",
+      "link": "https://www.fxstreet.com/news/usd-jpy-yen-carry-risks-build-into-q4-rabobank-202609300833",
+      "published": "Wed, 30 Sep 2026 08:33:41 GMT",
+      "ts": 1790757221
     },
     {
       "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD trades flat around $61.50, US data awaited",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-flat-around-6150-us-data-awaited-202609300800",
-      "published": "Wed, 30 Sep 2026 08:00:20 GMT",
-      "ts": 1790755220
+      "title": "US core PCE inflation set to rise in August, pressuring the Federal Reserve",
+      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830",
+      "published": "Wed, 30 Sep 2026 08:30:00 GMT",
+      "ts": 1790757000
     },
     {
       "source": "FXStreet",
-      "title": "Australian Dollar: RBA tailwind seen fading – Commerzbank",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-tailwind-seen-fading-commerzbank-202609300753",
-      "published": "Wed, 30 Sep 2026 07:53:21 GMT",
-      "ts": 1790754801
+      "title": "ADP Employment Report expected to confirm a tight labour market in September",
+      "link": "https://www.fxstreet.com/news/adp-employment-report-expected-to-confirm-a-tight-labour-market-in-september-202609300830",
+      "published": "Wed, 30 Sep 2026 08:30:00 GMT",
+      "ts": 1790757000
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
+      "link": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
+      "published": "Wed, 30 Sep 2026 08:27:00 +0000",
+      "ts": 1790756820
     },
     {
       "source": "FXStreet",
-      "title": "Euro holds gains against Canadian Dollar despite weak German Retail Sales data",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-against-canadian-dollar-despite-weak-german-retail-sales-data-202609300740",
-      "published": "Wed, 30 Sep 2026 07:40:59 GMT",
-      "ts": 1790754059
+      "title": "TRY: Inflation and easing threaten Lira – Commerzbank",
+      "link": "https://www.fxstreet.com/news/try-inflation-and-easing-threaten-lira-commerzbank-202609300825",
+      "published": "Wed, 30 Sep 2026 08:25:57 GMT",
+      "ts": 1790756757
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
+      "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
+      "published": "Wed, 30 Sep 2026 08:25:43 +0000",
+      "ts": 1790756743
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tuesday’s market moves was one of the more disturbing days of late, says Goldman Sachs pro",
+      "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 08:25:00 GMT",
+      "ts": 1790756700
     },
     {
       "source": "FXStreet",
-      "title": "US Inflation: PCE revision seen as data clean-up – BNY",
-      "link": "https://www.fxstreet.com/news/us-inflation-pce-revision-seen-as-data-clean-up-bny-202609300736",
-      "published": "Wed, 30 Sep 2026 07:36:48 GMT",
-      "ts": 1790753808
+      "title": "US Dollar: Strength persists on higher yields – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-strength-persists-on-higher-yields-ing-202609300824",
+      "published": "Wed, 30 Sep 2026 08:24:59 GMT",
+      "ts": 1790756699
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro remains depressed near yearly lows amid soft German data",
+      "link": "https://www.fxstreet.com/news/euro-remains-depressed-near-yearly-lows-amid-soft-german-data-202609300824",
+      "published": "Wed, 30 Sep 2026 08:24:51 GMT",
+      "ts": 1790756691
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar gains as US Dollar declines on easing Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-us-dollar-declines-on-easing-fed-rate-hike-bets-202609300819",
+      "published": "Wed, 30 Sep 2026 08:19:13 GMT",
+      "ts": 1790756353
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen trims part of intraday gains vs retreating USD as traders await US PCE data",
+      "link": "https://www.fxstreet.com/news/japanese-yen-trims-part-of-intraday-gains-vs-retreating-usd-as-traders-await-us-pce-data-202609300815",
+      "published": "Wed, 30 Sep 2026 08:15:11 GMT",
+      "ts": 1790756111
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. 10-year yields anchor near 2007 peaks, set for biggest monthly jump in 2 yrs",
+      "link": "https://www.investing.com/news/forex-news/us-10year-yields-anchor-near-2007-peaks-set-for-biggest-monthly-jump-in-2-yrs-4924286",
+      "published": "2026-09-30 08:05:31",
+      "ts": 1790755531
     },
     {
       "source": "Investing Forex",
@@ -50,27 +99,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
       "published": "2026-09-30 07:34:23",
       "ts": 1790753663
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound moves away from two-month low after UK Q2 GDP as USD retreats ahead of PCE",
-      "link": "https://www.fxstreet.com/news/british-pound-moves-away-from-two-month-low-after-uk-q2-gdp-as-usd-retreats-ahead-of-pce-202609300731",
-      "published": "Wed, 30 Sep 2026 07:31:50 GMT",
-      "ts": 1790753510
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Bright UK data helps the Pound to extend its recovery",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bright-uk-data-helps-the-pound-to-extend-its-recovery-202609300725",
-      "published": "Wed, 30 Sep 2026 07:25:39 GMT",
-      "ts": 1790753139
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: Market focus shifts to critical US inflation and employment data",
-      "link": "https://www.fxstreet.com/news/forex-today-market-focus-shifts-to-critical-us-inflation-and-employment-data-202609300725",
-      "published": "Wed, 30 Sep 2026 07:25:30 GMT",
-      "ts": 1790753130
     },
     {
       "source": "Investing Crypto",
@@ -109,7 +137,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps",
+      "title": "Robinhood unveils an AI that trades your money 24/7, and you carry all the risk",
       "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
       "published": "Wed, 30 Sep 2026 05:59:31 +0000",
       "ts": 1790747971
@@ -120,13 +148,6 @@
       "link": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 05:45:55 +0000",
       "ts": 1790747155
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee remains supported due to RBI's provisional support",
-      "link": "https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543",
-      "published": "Wed, 30 Sep 2026 05:43:44 GMT",
-      "ts": 1790747024
     },
     {
       "source": "CoinDesk",
@@ -148,6 +169,13 @@
       "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 04:29:28 +0000",
       "ts": 1790742568
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold looks to build on gains above $4,200 on USD stays weak ahead of US PCE",
+      "link": "https://www.fxstreet.com/news/gold-holds-steady-below-4-200-as-retreating-bond-yields-and-softer-usd-lend-support-202609300349",
+      "published": "Wed, 30 Sep 2026 03:49:35 GMT",
+      "ts": 1790740175
     },
     {
       "source": "CoinTelegraph",
@@ -248,13 +276,6 @@
       "ts": 1790717580
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 21:30:00 GMT",
-      "ts": 1790717400
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar firms, Aussie drops after RBA hike, and sterling slips on Burnham speech",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
@@ -346,20 +367,6 @@
       "ts": 1790683240
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
-      "published": "Tue, 29 Sep 2026 11:34:55 +0000",
-      "ts": 1790681695
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
-      "link": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
-      "published": "Tue, 29 Sep 2026 11:15:30 +0000",
-      "ts": 1790680530
-    },
-    {
       "source": "Investing Crypto",
       "title": "Beldex Launches $1 Million Grants Program for Privacy Innovation",
       "link": "https://www.investing.com/news/cryptocurrency-news/beldex-launches-1-million-grants-program-for-privacy-innovation-4921886",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/german-yields-pause-traders-weigh-sticky-energy-inflation-in-data-packed-week-4919522",
       "published": "2026-09-28 12:45:46",
       "ts": 1790599546
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees Japan yen intervention likely near 160 per dollar",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-japan-yen-intervention-likely-near-160-per-dollar-93CH-4919746",
-      "published": "2026-09-28 10:18:17",
-      "ts": 1790590697
     }
   ]
 }
