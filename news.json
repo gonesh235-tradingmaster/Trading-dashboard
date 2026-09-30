@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-30T06:16:03.987952Z",
+  "updated": "2026-09-30T06:46:39.972376Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro dips further against British Pound as German Retail Sales disappoint",
+      "link": "https://www.fxstreet.com/news/euro-dips-further-against-british-pound-as-german-retail-sales-disappoint-202609300635",
+      "published": "Wed, 30 Sep 2026 06:35:42 GMT",
+      "ts": 1790750142
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI drifts higher above $88.00 as Trump denies Iran sanctions relief",
+      "link": "https://www.fxstreet.com/news/wti-drifts-higher-above-8800-as-trump-denies-iran-sanctions-relief-202609300630",
+      "published": "Wed, 30 Sep 2026 06:30:10 GMT",
+      "ts": 1790749810
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
+      "published": "2026-09-30 06:28:31",
+      "ts": 1790749711
+    },
     {
       "source": "FXStreet",
       "title": "1.3%: Germany’s Retail Sales rise by less than expected in August",
@@ -80,13 +101,6 @@
       "ts": 1790743416
     },
     {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold steadies, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202609300440",
-      "published": "Wed, 30 Sep 2026 04:40:51 GMT",
-      "ts": 1790743251
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
       "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
@@ -101,13 +115,6 @@
       "ts": 1790742671
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss Franc remains near 16-month lows as rate hike odds lift US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-remains-near-16-month-lows-as-rate-hike-odds-lift-us-dollar-202609300430",
-      "published": "Wed, 30 Sep 2026 04:30:58 GMT",
-      "ts": 1790742658
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
       "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -116,7 +123,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold edges lower as Fed hike bets and Middle East jitters underpin USD",
+      "title": "Gold flat lines below $4,200 as traders await US PCE data for Fed rate cues",
       "link": "https://www.fxstreet.com/news/gold-holds-steady-below-4-200-as-retreating-bond-yields-and-softer-usd-lend-support-202609300349",
       "published": "Wed, 30 Sep 2026 03:49:35 GMT",
       "ts": 1790740175
@@ -386,13 +393,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/btse-bhutan-receives-financial-services-license-for-digital-asset-trading-services-in-gelephu-mindfulness-city-4921553",
       "published": "2026-09-29 04:30:33",
       "ts": 1790656233
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin falls over 1% as risk sentiment takes a hit from bond rout, Iran tensions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
-      "published": "2026-09-28 21:48:41",
-      "ts": 1790632121
     },
     {
       "source": "Investing Forex",
