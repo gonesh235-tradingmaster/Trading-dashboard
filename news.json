@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-30T02:27:08.722672Z",
+  "updated": "2026-09-30T02:44:45.392642Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar remains subdued near two-month lows as falling oil prices weigh",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-subdued-near-two-month-lows-as-falling-oil-prices-weigh-202609300238",
+      "published": "Wed, 30 Sep 2026 02:38:14 GMT",
+      "ts": 1790735894
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan",
+      "link": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 02:25:00 +0000",
+      "ts": 1790735100
+    },
     {
       "source": "FXStreet",
       "title": "US-Iran talks deadlocked as Qatar mediation yields little",
@@ -64,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67351-vs-67411-previous-202609300115",
       "published": "Wed, 30 Sep 2026 01:15:51 GMT",
       "ts": 1790730951
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI remains below $90.00 due to Middle East export recovery",
-      "link": "https://www.fxstreet.com/news/wti-remains-below-9000-due-to-middle-east-export-recovery-202609300112",
-      "published": "Wed, 30 Sep 2026 01:12:49 GMT",
-      "ts": 1790730769
     },
     {
       "source": "MarketWatch",
@@ -281,13 +288,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/primexbt-adds-15-new-crypto-futures-taking-the-total-to-over-170-4922718",
       "published": "2026-09-29 13:00:35",
       "ts": 1790686835
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 12:40:12 +0000",
-      "ts": 1790685612
     },
     {
       "source": "Investing Forex",
