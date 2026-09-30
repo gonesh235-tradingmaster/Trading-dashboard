@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-30T11:28:36.807507Z",
+  "updated": "2026-09-30T11:46:59.609921Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
+      "published": "2026-09-30 11:42:19",
+      "ts": 1790768539
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/GBP Price Forecast: Reaching oversold levels at six-week lows sub-0.8550",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-reaching-oversold-levels-at-six-week-lows-sub-08550-202609301137",
+      "published": "Wed, 30 Sep 2026 11:37:06 GMT",
+      "ts": 1790768226
+    },
+    {
+      "source": "FXStreet",
+      "title": "What is driving the US Dollar to multi-month highs against the Euro as PCE data approaches?",
+      "link": "https://www.fxstreet.com/news/what-is-driving-the-us-dollar-to-multi-month-highs-against-the-euro-as-pce-data-approaches-202609301133",
+      "published": "Wed, 30 Sep 2026 11:33:30 GMT",
+      "ts": 1790768010
+    },
     {
       "source": "FXStreet",
       "title": "EUR/USD Price Forecast: At make or a break near 1.1330",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-at-make-or-a-break-near-11330-202609301125",
       "published": "Wed, 30 Sep 2026 11:25:50 GMT",
       "ts": 1790767550
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Altcoin exchange deposit count jumps 160% in 2 weeks",
+      "link": "https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 11:23:56 +0000",
+      "ts": 1790767436
     },
     {
       "source": "FXStreet",
@@ -24,8 +52,15 @@
       "ts": 1790767221
     },
     {
+      "source": "CoinDesk",
+      "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
+      "published": "Wed, 30 Sep 2026 11:20:09 +0000",
+      "ts": 1790767209
+    },
+    {
       "source": "MarketWatch",
-      "title": "‘I’m afraid of human stupidity.’ Why this top economist prefers U.S. tech and gold over bonds.",
+      "title": "‘I’m afraid of human stupidity’: Why this top economist prefers U.S. tech and gold over bonds",
       "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 11:20:00 GMT",
       "ts": 1790767200
@@ -87,25 +122,11 @@
       "ts": 1790764946
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Upcoming data to support hawkish Fed stance – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-upcoming-data-to-support-hawkish-fed-stance-bbh-202609301038",
-      "published": "Wed, 30 Sep 2026 10:38:29 GMT",
-      "ts": 1790764709
-    },
-    {
       "source": "MarketWatch",
       "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
       "link": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 10:38:00 GMT",
       "ts": 1790764680
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY: Intervention fears steer Yen strength – Societe Generale",
-      "link": "https://www.fxstreet.com/news/usd-jpy-intervention-fears-steer-yen-strength-societe-generale-202609301035",
-      "published": "Wed, 30 Sep 2026 10:35:45 GMT",
-      "ts": 1790764545
     },
     {
       "source": "CoinDesk",
@@ -269,25 +290,11 @@
       "ts": 1790752279
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin bulls have one price level to defend",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
-      "published": "Wed, 30 Sep 2026 07:04:41 +0000",
-      "ts": 1790751881
-    },
-    {
       "source": "CoinTelegraph",
       "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
       "link": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 07:00:00 +0000",
       "ts": 1790751600
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
-      "published": "2026-09-30 06:28:31",
-      "ts": 1790749711
     },
     {
       "source": "CoinTelegraph",
@@ -316,13 +323,6 @@
       "link": "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 03:40:42 +0000",
       "ts": 1790739642
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Binance Pay lets visitors spend crypto at PayPay merchants in Japan",
-      "link": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 02:25:00 +0000",
-      "ts": 1790735100
     },
     {
       "source": "MarketWatch",
