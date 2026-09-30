@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-30T09:12:24.734239Z",
+  "updated": "2026-09-30T09:31:52.688484Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609300931",
+      "published": "Wed, 30 Sep 2026 09:31:15 GMT",
+      "ts": 1790760675
+    },
+    {
+      "source": "FXStreet",
+      "title": "Softer Australia CPI but RBA still hawkish – Rabobank",
+      "link": "https://www.fxstreet.com/news/softer-australia-cpi-but-rba-still-hawkish-rabobank-202609300930",
+      "published": "Wed, 30 Sep 2026 09:30:33 GMT",
+      "ts": 1790760633
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Rally seen stretched into year-end – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-rally-seen-stretched-into-year-end-td-securities-202609300928",
+      "published": "Wed, 30 Sep 2026 09:28:28 GMT",
+      "ts": 1790760508
+    },
+    {
+      "source": "MarketWatch",
+      "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
+      "link": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 09:20:00 GMT",
+      "ts": 1790760000
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound gains as UK GDP beat meets pause in dollar rally",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-gdp-beat-meets-pause-in-dollar-rally-4924430",
+      "published": "2026-09-30 09:19:43",
+      "ts": 1790759983
+    },
+    {
+      "source": "MarketWatch",
+      "title": "There’s a new Wall Street TACO index — and this one is saying it’s time for Trump to strike a deal",
+      "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 09:16:00 GMT",
+      "ts": 1790759760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 09:15:00 GMT",
+      "ts": 1790759700
+    },
     {
       "source": "FXStreet",
       "title": "Euro: EUR/USD Bearish risks toward 1.10 – ING",
@@ -64,27 +113,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-possibility-of-breakout-above-10180-hinges-on-us-data-202609300835",
       "published": "Wed, 30 Sep 2026 08:35:00 GMT",
       "ts": 1790757300
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY: Yen carry risks build into Q4 – Rabobank",
-      "link": "https://www.fxstreet.com/news/usd-jpy-yen-carry-risks-build-into-q4-rabobank-202609300833",
-      "published": "Wed, 30 Sep 2026 08:33:41 GMT",
-      "ts": 1790757221
-    },
-    {
-      "source": "FXStreet",
-      "title": "ADP Employment Report expected to confirm a tight labour market in September",
-      "link": "https://www.fxstreet.com/news/adp-employment-report-expected-to-confirm-a-tight-labour-market-in-september-202609300830",
-      "published": "Wed, 30 Sep 2026 08:30:00 GMT",
-      "ts": 1790757000
-    },
-    {
-      "source": "FXStreet",
-      "title": "US core PCE inflation set to rise in August, pressuring the Federal Reserve",
-      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830",
-      "published": "Wed, 30 Sep 2026 08:30:00 GMT",
-      "ts": 1790757000
     },
     {
       "source": "CoinDesk",
@@ -255,27 +283,6 @@
       "ts": 1790719200
     },
     {
-      "source": "MarketWatch",
-      "title": "Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
-      "link": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 21:56:00 GMT",
-      "ts": 1790718960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
-      "link": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 21:53:00 GMT",
-      "ts": 1790718780
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
-      "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 21:52:00 GMT",
-      "ts": 1790718720
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin rises to $83.5k amid a fall in oil prices and a let up in Treasury yields",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-as-wider-yield-gap-and-softer-oil-weigh-on-loonie-4920618",
       "published": "2026-09-28 13:58:08",
       "ts": 1790603888
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. debt sell-off extends on $106 crude oil and hawkish central bank outlooks",
-      "link": "https://www.investing.com/news/forex-news/german-yields-pause-traders-weigh-sticky-energy-inflation-in-data-packed-week-4919522",
-      "published": "2026-09-28 12:45:46",
-      "ts": 1790599546
     }
   ]
 }
