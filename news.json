@@ -1,7 +1,77 @@
 {
-  "updated": "2026-09-30T09:31:52.688484Z",
+  "updated": "2026-09-30T09:56:28.256565Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD: Dollar correction faces resistance – Societe Generale",
+      "link": "https://www.fxstreet.com/news/eur-usd-dollar-correction-faces-resistance-societe-generale-202609300955",
+      "published": "Wed, 30 Sep 2026 09:55:43 GMT",
+      "ts": 1790762143
+    },
+    {
+      "source": "FXStreet",
+      "title": "Brent Oil: Prices reverse on supply headlines – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/brent-oil-prices-reverse-on-supply-headlines-deutsche-bank-202609300952",
+      "published": "Wed, 30 Sep 2026 09:52:09 GMT",
+      "ts": 1790761929
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Coin flip for October rate hike – DBS",
+      "link": "https://www.fxstreet.com/news/us-dollar-coin-flip-for-october-rate-hike-dbs-202609300947",
+      "published": "Wed, 30 Sep 2026 09:47:32 GMT",
+      "ts": 1790761652
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY: Offered tone with key 155–158.20 range – Societe Generale",
+      "link": "https://www.fxstreet.com/news/usd-jpy-offered-tone-with-key-155-15820-range-societe-generale-202609300945",
+      "published": "Wed, 30 Sep 2026 09:45:43 GMT",
+      "ts": 1790761543
+    },
+    {
+      "source": "FXStreet",
+      "title": "Pound: Stronger UK growth and reverse-Brexit risk – MUFG",
+      "link": "https://www.fxstreet.com/news/pound-stronger-uk-growth-and-reverse-brexit-risk-mufg-202609300943",
+      "published": "Wed, 30 Sep 2026 09:43:22 GMT",
+      "ts": 1790761402
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Treasuries: Curve steepens with long yields at cycle highs – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/us-treasuries-curve-steepens-with-long-yields-at-cycle-highs-deutsche-bank-202609300940",
+      "published": "Wed, 30 Sep 2026 09:40:36 GMT",
+      "ts": 1790761236
+    },
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso: Carry trade unwind risks into Q4 – Societe Generale",
+      "link": "https://www.fxstreet.com/news/mexican-peso-carry-trade-unwind-risks-into-q4-societe-generale-202609300938",
+      "published": "Wed, 30 Sep 2026 09:38:27 GMT",
+      "ts": 1790761107
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD: Range view holds as Dollar doubts grow – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/eur-usd-range-view-holds-as-dollar-doubts-grow-deutsche-bank-202609300936",
+      "published": "Wed, 30 Sep 2026 09:36:10 GMT",
+      "ts": 1790760970
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar tracks toward best month since June; Traders brace for U.S. PCE reading",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
+      "published": "2026-09-30 09:35:28",
+      "ts": 1790760928
+    },
+    {
+      "source": "MarketWatch",
+      "title": "He’s been badmouthing Treasury bonds since 2020, but now ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
+      "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 09:32:00 GMT",
+      "ts": 1790760720
+    },
     {
       "source": "FXStreet",
       "title": "Silver price today: Silver falls, according to FXStreet data",
@@ -15,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/softer-australia-cpi-but-rba-still-hawkish-rabobank-202609300930",
       "published": "Wed, 30 Sep 2026 09:30:33 GMT",
       "ts": 1790760633
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Rally seen stretched into year-end – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-rally-seen-stretched-into-year-end-td-securities-202609300928",
-      "published": "Wed, 30 Sep 2026 09:28:28 GMT",
-      "ts": 1790760508
     },
     {
       "source": "MarketWatch",
@@ -52,27 +115,6 @@
       "ts": 1790759700
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: EUR/USD Bearish risks toward 1.10 – ING",
-      "link": "https://www.fxstreet.com/news/euro-eur-usd-bearish-risks-toward-110-ing-202609300909",
-      "published": "Wed, 30 Sep 2026 09:09:21 GMT",
-      "ts": 1790759361
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc edges up from yearly lows despite tepid Economic Expectations data",
-      "link": "https://www.fxstreet.com/news/swiss-franc-edges-up-from-yearly-lows-despite-tepid-economic-expectations-data-202609300908",
-      "published": "Wed, 30 Sep 2026 09:08:54 GMT",
-      "ts": 1790759334
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Sticks to recovery gains below $89.00; lacks bullish conviction",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-sticks-to-recovery-gains-below-8900-lacks-bullish-conviction-202609300904",
-      "published": "Wed, 30 Sep 2026 09:04:54 GMT",
-      "ts": 1790759094
-    },
-    {
       "source": "MarketWatch",
       "title": "Netflix stars Nick and Vanessa Lachey list $8.1 million L.A. home they bought from Naomi Osaka",
       "link": "https://www.marketwatch.com/story/netflix-stars-nick-and-vanessa-lachey-list-8-1-million-l-a-home-they-bought-from-naomi-osaka-0cdb873b?mod=mw_rss_topstories",
@@ -80,15 +122,8 @@
       "ts": 1790758920
     },
     {
-      "source": "FXStreet",
-      "title": "Dow Jones futures advance as Fed rate hike expectations cool",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-advance-as-fed-rate-hike-expectations-cool-202609300856",
-      "published": "Wed, 30 Sep 2026 08:56:58 GMT",
-      "ts": 1790758618
-    },
-    {
       "source": "CoinDesk",
-      "title": "OpenAI seeks $30 in funding at whopping $1.4 trillion valuation after delaying IPO",
+      "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
       "link": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
       "published": "Wed, 30 Sep 2026 08:50:22 +0000",
       "ts": 1790758222
@@ -99,20 +134,6 @@
       "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 08:42:00 GMT",
       "ts": 1790757720
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Fragile strength hinges on Fed – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fragile-strength-hinges-on-fed-commerzbank-202609300836",
-      "published": "Wed, 30 Sep 2026 08:36:19 GMT",
-      "ts": 1790757379
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: Possibility of breakout above 101.80 hinges on US data",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-possibility-of-breakout-above-10180-hinges-on-us-data-202609300835",
-      "published": "Wed, 30 Sep 2026 08:35:00 GMT",
-      "ts": 1790757300
     },
     {
       "source": "CoinDesk",
@@ -134,13 +155,6 @@
       "link": "https://www.investing.com/news/forex-news/us-10year-yields-anchor-near-2007-peaks-set-for-biggest-monthly-jump-in-2-yrs-4924286",
       "published": "2026-09-30 08:05:31",
       "ts": 1790755531
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar eases from two-month high, yen gains",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
-      "published": "2026-09-30 07:34:23",
-      "ts": 1790753663
     },
     {
       "source": "Investing Crypto",
@@ -190,13 +204,6 @@
       "link": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 05:45:55 +0000",
       "ts": 1790747155
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee rebounds as traders reassess hawkish Fed bets, oil prices drop",
-      "link": "https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543",
-      "published": "Wed, 30 Sep 2026 05:43:44 GMT",
-      "ts": 1790747024
     },
     {
       "source": "CoinDesk",
@@ -274,13 +281,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
       "published": "Tue, 29 Sep 2026 23:00:00 +0000",
       "ts": 1790722800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 22:00:00 GMT",
-      "ts": 1790719200
     },
     {
       "source": "Investing Crypto",
