@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-30T21:10:28.880658Z",
+  "updated": "2026-09-30T21:29:23.400895Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
+      "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 21:22:00 GMT",
+      "ts": 1790803320
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
+      "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 21:16:00 GMT",
+      "ts": 1790802960
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. dollar sees best month since June on hawkish Fed, U.S. Treasury bond rout",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
+      "published": "2026-09-30 21:04:47",
+      "ts": 1790802287
+    },
     {
       "source": "MarketWatch",
       "title": "How the ‘AI Put’ has become the only thing that matters for stocks",
@@ -115,25 +136,11 @@
       "ts": 1790793900
     },
     {
-      "source": "MarketWatch",
-      "title": "After I sold TOMS Shoes for $400 million I was misdiagnosed with bipolar disorder — and it almost cost me everything",
-      "link": "https://www.marketwatch.com/story/after-i-sold-toms-shoes-for-400-million-i-was-misdiagnosed-with-bipolar-disorder-and-it-almost-cost-me-everything-4409da4c?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 18:44:00 GMT",
-      "ts": 1790793840
-    },
-    {
       "source": "FXStreet",
       "title": "Forex Today: Fedspeak, Jobless Claims and ISM data steal the show",
       "link": "https://www.fxstreet.com/news/forex-today-fedspeak-claims-and-the-ism-data-steal-the-show-202609301830",
       "published": "Wed, 30 Sep 2026 18:30:22 GMT",
       "ts": 1790793022
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This chart shows that buying and holding stocks beats ‘sell in May and go away’ and other gimmicks",
-      "link": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 18:20:00 GMT",
-      "ts": 1790792400
     },
     {
       "source": "FXStreet",
@@ -295,13 +302,6 @@
       "link": "https://www.investing.com/news/forex-news/us-10year-yields-anchor-near-2007-peaks-set-for-biggest-monthly-jump-in-2-yrs-4924286",
       "published": "2026-09-30 12:44:12",
       "ts": 1790772252
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar down after soft PCE,  but still on track for best month since June",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
-      "published": "2026-09-30 12:39:39",
-      "ts": 1790771979
     },
     {
       "source": "CoinTelegraph",
