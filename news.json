@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-30T13:57:06.756802Z",
+  "updated": "2026-09-30T14:17:41.170146Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen advances as US PCE shifts Fed rate hike bets toward December",
+      "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-us-pce-shifts-fed-rate-hike-bets-toward-december-202609301410",
+      "published": "Wed, 30 Sep 2026 14:10:24 GMT",
+      "ts": 1790777424
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro finds support as softer US PCE data prompts traders to trim Fed rate-hike bets",
+      "link": "https://www.fxstreet.com/news/euro-finds-support-as-softer-us-pce-data-prompts-traders-to-trim-fed-rate-hike-bets-202609301408",
+      "published": "Wed, 30 Sep 2026 14:08:17 GMT",
+      "ts": 1790777297
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Americans get back to their spending ways. Economy might be speeding up again.",
+      "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 14:08:00 GMT",
+      "ts": 1790777280
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
+      "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
+      "published": "Wed, 30 Sep 2026 14:04:19 +0000",
+      "ts": 1790777059
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
+      "link": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 14:03:00 GMT",
+      "ts": 1790776980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 14:00:00 GMT",
+      "ts": 1790776800
+    },
     {
       "source": "MarketWatch",
       "title": "Major car rivals are teaming up to solve the biggest EV roadblock: Reliable charging",
@@ -43,13 +85,6 @@
       "link": "https://www.investing.com/news/forex-news/south-african-rand-strengthens-as-investors-review-economic-data-93CH-4925290",
       "published": "2026-09-30 13:29:20",
       "ts": 1790774960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Americans get back to their spending ways. Economy might be speeding up again.",
-      "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 13:24:00 GMT",
-      "ts": 1790774640
     },
     {
       "source": "MarketWatch",
@@ -157,20 +192,6 @@
       "ts": 1790771979
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 12:32:00 GMT",
-      "ts": 1790771520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meta is pitching a bold new identity — and the payoff could be big",
-      "link": "https://www.marketwatch.com/story/meta-is-pitching-a-bold-new-identity-and-the-payoff-could-be-big-cee32b73?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 12:28:00 GMT",
-      "ts": 1790771280
-    },
-    {
       "source": "FXStreet",
       "title": "British Pound rebounds against Japanese Yen as UK growth beats expectations",
       "link": "https://www.fxstreet.com/news/british-pound-rebounds-against-japanese-yen-as-uk-growth-beats-expectations-202609301227",
@@ -183,13 +204,6 @@
       "link": "https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 12:06:04 +0000",
       "ts": 1790769964
-    },
-    {
-      "source": "FXStreet",
-      "title": "Germany annual CPI inflation rises to 3.3% in September",
-      "link": "https://www.fxstreet.com/news/germany-annual-cpi-inflation-rises-to-33-in-september-202609301205",
-      "published": "Wed, 30 Sep 2026 12:05:39 GMT",
-      "ts": 1790769939
     },
     {
       "source": "Investing Forex",
@@ -242,7 +256,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
+      "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
       "link": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
       "published": "Wed, 30 Sep 2026 10:43:43 +0000",
       "ts": 1790765023
@@ -332,13 +346,6 @@
       "ts": 1790757000
     },
     {
-      "source": "CoinDesk",
-      "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
-      "link": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
-      "published": "Wed, 30 Sep 2026 08:27:00 +0000",
-      "ts": 1790756820
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin tests $82,975 support as bull flag nears completion: Live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
@@ -351,13 +358,6 @@
       "link": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 07:00:00 +0000",
       "ts": 1790751600
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee recovers as traders trim hawkish Fed bets, oil prices fall",
-      "link": "https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543",
-      "published": "Wed, 30 Sep 2026 05:43:44 GMT",
-      "ts": 1790747024
     },
     {
       "source": "Investing Crypto",
