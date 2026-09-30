@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-30T07:12:23.352909Z",
+  "updated": "2026-09-30T07:33:11.941701Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound moves away from two-month low after UK Q2 GDP as USD retreats ahead of PCE",
+      "link": "https://www.fxstreet.com/news/british-pound-moves-away-from-two-month-low-after-uk-q2-gdp-as-usd-retreats-ahead-of-pce-202609300731",
+      "published": "Wed, 30 Sep 2026 07:31:50 GMT",
+      "ts": 1790753510
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Bright UK data helps the Pound to extend its recovery",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bright-uk-data-helps-the-pound-to-extend-its-recovery-202609300725",
+      "published": "Wed, 30 Sep 2026 07:25:39 GMT",
+      "ts": 1790753139
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: Market focus shifts to critical US inflation and employment data",
+      "link": "https://www.fxstreet.com/news/forex-today-market-focus-shifts-to-critical-us-inflation-and-employment-data-202609300725",
+      "published": "Wed, 30 Sep 2026 07:25:30 GMT",
+      "ts": 1790753130
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin tests $82,975 support as bull flag nears completion: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+      "published": "2026-09-30 07:11:19",
+      "ts": 1790752279
+    },
     {
       "source": "FXStreet",
       "title": "USD/CAD Price Forecast: Declines below 1.4200, while staying technically bullish above 100-day SMA",
@@ -59,13 +87,6 @@
       "ts": 1790748386
     },
     {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Holds slight recovery from 0.6960",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-slight-recovery-from-06960-202609300601",
-      "published": "Wed, 30 Sep 2026 06:01:53 GMT",
-      "ts": 1790748113
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -88,7 +109,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Indian Rupee draws support from consistent RBI intervention, lower oil prices",
+      "title": "Indian Rupee remains supported due to RBI's provisional support",
       "link": "https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543",
       "published": "Wed, 30 Sep 2026 05:43:44 GMT",
       "ts": 1790747024
@@ -99,20 +120,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
       "published": "Wed, 30 Sep 2026 05:22:51 +0000",
       "ts": 1790745771
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Tests 157.00 support after slipping below nine-day EMA",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-tests-15700-support-after-slipping-below-nine-day-ema-202609300521",
-      "published": "Wed, 30 Sep 2026 05:21:54 GMT",
-      "ts": 1790745714
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Weakens below 1.3250, technical barriers sustain bearish bias",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-weakens-below-13250-technical-barriers-sustain-bearish-bias-202609300513",
-      "published": "Wed, 30 Sep 2026 05:13:40 GMT",
-      "ts": 1790745220
     },
     {
       "source": "CoinDesk",
@@ -281,13 +288,6 @@
       "link": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 19:49:53 +0000",
       "ts": 1790711393
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin bull flag compresses near $83,266 support: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "published": "2026-09-29 19:19:05",
-      "ts": 1790709545
     },
     {
       "source": "Investing Crypto",
