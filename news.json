@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-30T07:33:11.941701Z",
+  "updated": "2026-09-30T07:56:07.095693Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: RBA tailwind seen fading – Commerzbank",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-tailwind-seen-fading-commerzbank-202609300753",
+      "published": "Wed, 30 Sep 2026 07:53:21 GMT",
+      "ts": 1790754801
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro holds gains against Canadian Dollar despite weak German Retail Sales data",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-against-canadian-dollar-despite-weak-german-retail-sales-data-202609300740",
+      "published": "Wed, 30 Sep 2026 07:40:59 GMT",
+      "ts": 1790754059
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Inflation: PCE revision seen as data clean-up – BNY",
+      "link": "https://www.fxstreet.com/news/us-inflation-pce-revision-seen-as-data-clean-up-bny-202609300736",
+      "published": "Wed, 30 Sep 2026 07:36:48 GMT",
+      "ts": 1790753808
+    },
     {
       "source": "FXStreet",
       "title": "British Pound moves away from two-month low after UK Q2 GDP as USD retreats ahead of PCE",
@@ -59,32 +80,11 @@
       "ts": 1790751600
     },
     {
-      "source": "FXStreet",
-      "title": "Euro dips further against British Pound as German Retail Sales disappoint",
-      "link": "https://www.fxstreet.com/news/euro-dips-further-against-british-pound-as-german-retail-sales-disappoint-202609300635",
-      "published": "Wed, 30 Sep 2026 06:35:42 GMT",
-      "ts": 1790750142
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI drifts higher above $88.00 as Trump denies Iran sanctions relief",
-      "link": "https://www.fxstreet.com/news/wti-drifts-higher-above-8800-as-trump-denies-iran-sanctions-relief-202609300630",
-      "published": "Wed, 30 Sep 2026 06:30:10 GMT",
-      "ts": 1790749810
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
       "published": "2026-09-30 06:28:31",
       "ts": 1790749711
-    },
-    {
-      "source": "FXStreet",
-      "title": "1.3%: Germany’s Retail Sales rise by less than expected in August",
-      "link": "https://www.fxstreet.com/news/13-germanys-retail-sales-rise-by-less-than-expected-in-august-202609300606",
-      "published": "Wed, 30 Sep 2026 06:06:26 GMT",
-      "ts": 1790748386
     },
     {
       "source": "CoinTelegraph",
