@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-30T20:11:54.061891Z",
+  "updated": "2026-09-30T20:30:00.049661Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Cook says inflation has stayed too high for too long",
+      "link": "https://www.fxstreet.com/news/feds-cook-says-inflation-has-stayed-too-high-for-too-long-202609302020",
+      "published": "Wed, 30 Sep 2026 20:20:14 GMT",
+      "ts": 1790799614
+    },
     {
       "source": "MarketWatch",
       "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
@@ -204,13 +211,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-vulnerable-near-60-202609301526",
       "published": "Wed, 30 Sep 2026 15:26:03 GMT",
       "ts": 1790781963
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound catches second wind as soft PCE knocks Fed hike bets",
-      "link": "https://www.fxstreet.com/news/the-british-pound-catches-second-wind-as-soft-pce-knocks-fed-hike-bets-202609301521",
-      "published": "Wed, 30 Sep 2026 15:21:24 GMT",
-      "ts": 1790781684
     },
     {
       "source": "CoinDesk",
