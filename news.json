@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-30T22:46:35.285466Z",
+  "updated": "2026-09-30T23:08:54.347444Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Google shows it’s not out of the AI race just yet",
+      "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 22:51:00 GMT",
+      "ts": 1790808660
+    },
     {
       "source": "FXStreet",
       "title": "Aussie Dollar slips below 0.70 as Bullock dovishness trumps soft PCE",
@@ -155,13 +162,6 @@
       "link": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 18:49:06 +0000",
       "ts": 1790794146
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Adding Lilly’s new drug to Zepbound helped people lose more weight — but there were more side effects",
-      "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 18:45:00 GMT",
-      "ts": 1790793900
     },
     {
       "source": "FXStreet",
