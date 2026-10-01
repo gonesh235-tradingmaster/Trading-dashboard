@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-01T02:10:48.837146Z",
+  "updated": "2026-10-01T02:28:37.700923Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed path shaped by firm inflation – Societe Generale",
+      "link": "https://www.fxstreet.com/news/fed-path-shaped-by-firm-inflation-societe-generale-202610010225",
+      "published": "Thu, 01 Oct 2026 02:25:34 GMT",
+      "ts": 1790821534
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Fed outlook supported by robust data – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-outlook-supported-by-robust-data-td-securities-202610010222",
+      "published": "Thu, 01 Oct 2026 02:22:41 GMT",
+      "ts": 1790821361
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar remains stronger against Japanese Yen following Trade Balance data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-against-japanese-yen-following-trade-balance-data-202610010217",
+      "published": "Thu, 01 Oct 2026 02:17:49 GMT",
+      "ts": 1790821069
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound retreats further from one-week top as USD buying remains unabated",
+      "link": "https://www.fxstreet.com/news/british-pound-retreats-further-from-one-week-top-as-usd-buying-remains-unabated-202610010211",
+      "published": "Thu, 01 Oct 2026 02:11:30 GMT",
+      "ts": 1790820690
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar declines below 0.6959 as Trade Surplus shrinks sharply",
@@ -59,13 +87,6 @@
       "ts": 1790815500
     },
     {
-      "source": "FXStreet",
-      "title": "US Secretary Rubio orders Iranian delegation to leave the country",
-      "link": "https://www.fxstreet.com/news/us-secretary-rubio-orders-iranian-delegation-to-leave-the-country-202610010035",
-      "published": "Thu, 01 Oct 2026 00:35:43 GMT",
-      "ts": 1790814943
-    },
-    {
       "source": "MarketWatch",
       "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
@@ -92,27 +113,6 @@
       "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 00:11:00 GMT",
       "ts": 1790813460
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoJ Summary of Opinions: Member says appropriate to keep raising rates in line with economy, price",
-      "link": "https://www.fxstreet.com/news/boj-summary-of-opinions-member-says-appropriate-to-keep-raising-rates-in-line-with-economy-price-202610010002",
-      "published": "Thu, 01 Oct 2026 00:02:45 GMT",
-      "ts": 1790812965
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Japanese Yen spikes on softer US inflation and gives the gain back",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-spikes-on-softer-us-inflation-and-gives-the-gain-back-202610010000",
-      "published": "Thu, 01 Oct 2026 00:00:00 GMT",
-      "ts": 1790812800
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japan’s Tankan Large Manufacturing Index rises to 24 in Q3 vs. 25 expected",
-      "link": "https://www.fxstreet.com/news/japans-tankan-large-manufacturing-index-rises-to-24-in-q3-vs-25-expected-202609302353",
-      "published": "Wed, 30 Sep 2026 23:53:46 GMT",
-      "ts": 1790812426
     },
     {
       "source": "MarketWatch",
