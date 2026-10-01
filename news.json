@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T17:33:23.082556Z",
+  "updated": "2026-10-01T17:56:24.914652Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Jefferson signals patience as next rate move stays data-driven",
+      "link": "https://www.fxstreet.com/news/feds-jefferson-signals-patience-as-next-rate-move-stays-data-driven-202610011754",
+      "published": "Thu, 01 Oct 2026 17:54:12 GMT",
+      "ts": 1790877252
+    },
+    {
+      "source": "FXStreet",
+      "title": "Banxico survey sees lower inflation, stronger growth and 6.50% hold",
+      "link": "https://www.fxstreet.com/news/banxico-survey-sees-lower-inflation-stronger-growth-and-650-hold-202610011734",
+      "published": "Thu, 01 Oct 2026 17:34:21 GMT",
+      "ts": 1790876061
+    },
     {
       "source": "MarketWatch",
       "title": "Trump’s SEC wants to allow fund managers to charge extra fees for better performance. Here’s why it’s a terrible idea.",
@@ -11,7 +25,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Mexican Peso rout deepens as USD/MXN blasts through 18.30",
+      "title": "Mexican Peso rout deepens as USD/MXN blasts 18.30",
       "link": "https://www.fxstreet.com/news/mexican-peso-rout-deepens-as-usd-mxn-blasts-through-1830-202610011707",
       "published": "Thu, 01 Oct 2026 17:07:53 GMT",
       "ts": 1790874473
@@ -178,20 +192,6 @@
       "ts": 1790864294
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar steadies as Fed pause bets clash with resilient US economy",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-fed-pause-bets-clash-with-resilient-us-economy-202610011417",
-      "published": "Thu, 01 Oct 2026 14:17:29 GMT",
-      "ts": 1790864249
-    },
-    {
-      "source": "FXStreet",
-      "title": "US ISM Manufacturing PMI fell to 54.5 in September",
-      "link": "https://www.fxstreet.com/news/us-ism-manufacturing-pmi-fell-to-545-in-september-202610011406",
-      "published": "Thu, 01 Oct 2026 14:06:10 GMT",
-      "ts": 1790863570
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
       "link": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -235,7 +235,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live Updates: Bitcoin holding near $84,000 ahead of Friday's U.S. jobs report",
+      "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
       "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
       "published": "Thu, 01 Oct 2026 11:59:17 +0000",
       "ts": 1790855957
