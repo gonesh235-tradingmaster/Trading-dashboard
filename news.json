@@ -1,13 +1,41 @@
 {
-  "updated": "2026-10-01T17:56:24.914652Z",
+  "updated": "2026-10-01T18:17:17.012068Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
+      "link": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 18:10:00 GMT",
+      "ts": 1790878200
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Kashkari keeps October open, still sees more hikes ahead",
+      "link": "https://www.fxstreet.com/news/feds-kashkari-keeps-october-open-still-sees-more-hikes-ahead-202610011802",
+      "published": "Thu, 01 Oct 2026 18:02:04 GMT",
+      "ts": 1790877724
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Illinois will postpone implementation of crypto tax following lawsuit",
+      "link": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 18:01:49 +0000",
+      "ts": 1790877709
+    },
     {
       "source": "FXStreet",
       "title": "Fed’s Jefferson signals patience as next rate move stays data-driven",
       "link": "https://www.fxstreet.com/news/feds-jefferson-signals-patience-as-next-rate-move-stays-data-driven-202610011754",
       "published": "Thu, 01 Oct 2026 17:54:12 GMT",
       "ts": 1790877252
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar weakens as U.S. dollar strength, yield gap keeps pressure",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-as-us-dollar-strength-yield-gap-keeps-pressure-4928043",
+      "published": "2026-10-01 17:46:09",
+      "ts": 1790876769
     },
     {
       "source": "FXStreet",
@@ -136,13 +164,6 @@
       "ts": 1790867940
     },
     {
-      "source": "FXStreet",
-      "title": "Euro hits fresh yearly low as strong US data keeps Fed tightening in play",
-      "link": "https://www.fxstreet.com/news/euro-hits-fresh-yearly-low-as-strong-us-data-keeps-fed-tightening-in-play-202610011508",
-      "published": "Thu, 01 Oct 2026 15:08:42 GMT",
-      "ts": 1790867322
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
       "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
@@ -176,13 +197,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/sweat-wallet-and-the-sweat-token-as-they-exist-today-end-on-30-december-2026-4927764",
       "published": "2026-10-01 14:30:35",
       "ts": 1790865035
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 14:30:00 GMT",
-      "ts": 1790865000
     },
     {
       "source": "CoinDesk",
@@ -297,13 +311,6 @@
       "ts": 1790850618
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
-      "link": "https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 10:07:18 +0000",
-      "ts": 1790849238
-    },
-    {
       "source": "CoinDesk",
       "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
       "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/swiss-national-bank-bought-144-billion-francs-in-foreign-currency-93CH-4924575",
       "published": "2026-09-30 10:21:16",
       "ts": 1790763676
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BCA raises dollar target on widening real-rate gap and resilient growth",
-      "link": "https://www.investing.com/news/forex-news/bca-raises-dollar-target-on-widening-realrate-gap-and-resilient-growth-4924547",
-      "published": "2026-09-30 10:12:21",
-      "ts": 1790763141
     }
   ]
 }
