@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-01T04:56:38.717735Z",
+  "updated": "2026-10-01T05:13:55.525236Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+      "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+      "published": "Thu, 01 Oct 2026 04:58:52 +0000",
+      "ts": 1790830732
+    },
     {
       "source": "FXStreet",
       "title": "AUD/JPY Price Forecast: Recovers from six-month low, but retains bearish bias below 100-day SMA",
@@ -206,13 +213,6 @@
       "ts": 1790800320
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 19:37:13 +0000",
-      "ts": 1790797033
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin squeezed between $83,600-$85,650: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
@@ -297,6 +297,13 @@
       "ts": 1790777059
     },
     {
+      "source": "CoinTelegraph",
+      "title": "Could THORChain face prosecution over stolen Bitget funds? Legal opinion",
+      "link": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 13:30:00 +0000",
+      "ts": 1790775000
+    },
+    {
       "source": "Investing Forex",
       "title": "RBI forward dollar liabilities hit record $200 billion in August",
       "link": "https://www.investing.com/news/forex-news/rbi-forward-dollar-liabilities-hit-record-200-billion-in-august-93CH-4925291",
@@ -351,13 +358,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
       "published": "Wed, 30 Sep 2026 11:04:09 +0000",
       "ts": 1790766249
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’",
-      "link": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
-      "published": "Wed, 30 Sep 2026 11:00:00 +0000",
-      "ts": 1790766000
     },
     {
       "source": "Investing Forex",
