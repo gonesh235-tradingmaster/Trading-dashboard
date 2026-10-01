@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T03:11:11.957262Z",
+  "updated": "2026-10-01T03:30:32.772879Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index approaches yearly high near 101.80, US ISM PMI in focus",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-high-near-10180-us-ism-pmi-in-focus-202610010324",
+      "published": "Thu, 01 Oct 2026 03:24:04 GMT",
+      "ts": 1790825044
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD holds above $61.00 amid easing Fed rate hike expectations",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-above-6100-amid-easing-fed-rate-hike-expectations-202610010319",
+      "published": "Thu, 01 Oct 2026 03:19:59 GMT",
+      "ts": 1790824799
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen drops to weekly low as elevated US bond yields lift USD to two-month high",
@@ -64,20 +78,6 @@
       "link": "https://www.fxstreet.com/news/reserve-bank-of-australia-households-businesses-can-weather-slower-economy-falling-house-prices-202610010141",
       "published": "Thu, 01 Oct 2026 01:41:16 GMT",
       "ts": 1790818876
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD495M: Australia’s Trade Surplus shrinks sharply in August",
-      "link": "https://www.fxstreet.com/news/aud495m-australias-trade-balance-shows-a-surplus-in-august-202610010133",
-      "published": "Thu, 01 Oct 2026 01:33:24 GMT",
-      "ts": 1790818404
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar seems vulnerable near two-month low as USD maintains bullish undertone",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-two-month-low-as-usd-maintains-bullish-undertone-202610010128",
-      "published": "Thu, 01 Oct 2026 01:28:09 GMT",
-      "ts": 1790818089
     },
     {
       "source": "CoinTelegraph",
