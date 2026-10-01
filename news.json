@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-01T08:35:42.831458Z",
+  "updated": "2026-10-01T08:56:43.552107Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: French spread widening threatens EUR/USD range – ING",
+      "link": "https://www.fxstreet.com/news/euro-french-spread-widening-threatens-eur-usd-range-ing-202610010853",
+      "published": "Thu, 01 Oct 2026 08:53:15 GMT",
+      "ts": 1790844795
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Upward momentum holds as inflation eases – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-upward-momentum-holds-as-inflation-eases-mufg-202610010850",
+      "published": "Thu, 01 Oct 2026 08:50:44 GMT",
+      "ts": 1790844644
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD seems vulnerable near $60 amid soaring US Treasury Yields",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-seems-vulnerable-near-60-amid-soaring-us-treasury-yields-202610010847",
+      "published": "Thu, 01 Oct 2026 08:47:45 GMT",
+      "ts": 1790844465
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Treasury Yields hit 24-year highs amid energy-driven inflation concerns",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-hit-24-year-highs-amid-energy-driven-inflation-concerns-202610010841",
+      "published": "Thu, 01 Oct 2026 08:41:49 GMT",
+      "ts": 1790844109
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Potential EU re-engagement supports Sterling – ING",
+      "link": "https://www.fxstreet.com/news/british-pound-potential-eu-re-engagement-supports-sterling-ing-202610010839",
+      "published": "Thu, 01 Oct 2026 08:39:45 GMT",
+      "ts": 1790843985
+    },
     {
       "source": "FXStreet",
       "title": "Bank of Japan cautious on further hikes – Rabobank",
@@ -31,46 +66,11 @@
       "ts": 1790843324
     },
     {
-      "source": "FXStreet",
-      "title": "US Treasuries: Cold War yield parallels – Rabobank",
-      "link": "https://www.fxstreet.com/news/us-treasuries-cold-war-yield-parallels-rabobank-202610010828",
-      "published": "Thu, 01 Oct 2026 08:28:18 GMT",
-      "ts": 1790843298
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah weakens as US Dollar gains amid rising Treasury yields",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-as-us-dollar-gains-amid-rising-treasury-yields-202610010822",
-      "published": "Thu, 01 Oct 2026 08:22:58 GMT",
-      "ts": 1790842978
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Political stress and limited FX reaction – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-political-stress-and-limited-fx-reaction-commerzbank-202610010819",
-      "published": "Thu, 01 Oct 2026 08:19:51 GMT",
-      "ts": 1790842791
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI recovers strongly above $90 even as Middle East oil flows reach pre-war levels",
-      "link": "https://www.fxstreet.com/news/wti-recovers-strongly-above-90-even-as-middle-east-oil-flows-reach-pre-war-levels-202610010756",
-      "published": "Thu, 01 Oct 2026 07:56:15 GMT",
-      "ts": 1790841375
-    },
-    {
       "source": "Investing Forex",
       "title": "UK 30-year gilt yields rise to 1998 highs; French budget due",
       "link": "https://www.investing.com/news/forex-news/uk-30year-gilt-yields-rise-to-1998-highs-french-budget-due-4926457",
       "published": "2026-10-01 07:46:24",
       "ts": 1790840784
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc drops to fresh 16-month lows as CPI data supports SNB’s dovishness",
-      "link": "https://www.fxstreet.com/news/swiss-franc-drops-to-fresh-16-month-lows-as-cpi-data-supports-snbs-dovishness-202610010728",
-      "published": "Thu, 01 Oct 2026 07:28:00 GMT",
-      "ts": 1790839680
     },
     {
       "source": "CoinTelegraph",
@@ -122,18 +122,18 @@
       "ts": 1790834400
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee hits fresh two-month low against US Dollar",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-as-us-treasury-yields-hit-fresh-two-decade-high-near-53-202610010543",
+      "published": "Thu, 01 Oct 2026 05:43:56 GMT",
+      "ts": 1790833436
+    },
+    {
       "source": "CoinDesk",
       "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
       "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
       "published": "Thu, 01 Oct 2026 04:58:52 +0000",
       "ts": 1790830732
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold fails ahead of $4,200 as surging US yields and Iran risks lift USD closer to YTD top",
-      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-resilient-us-dollar-and-yields-cap-upside-202610010454",
-      "published": "Thu, 01 Oct 2026 04:54:51 GMT",
-      "ts": 1790830491
     },
     {
       "source": "CoinTelegraph",
