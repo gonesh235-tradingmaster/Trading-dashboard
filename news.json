@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T01:29:48.167182Z",
+  "updated": "2026-10-01T01:46:46.278224Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Reserve Bank of Australia: Households, businesses can weather slower economy, falling house prices",
+      "link": "https://www.fxstreet.com/news/reserve-bank-of-australia-households-businesses-can-weather-slower-economy-falling-house-prices-202610010141",
+      "published": "Thu, 01 Oct 2026 01:41:16 GMT",
+      "ts": 1790818876
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD495M: Australia’s Trade Surplus shrinks sharply in August",
+      "link": "https://www.fxstreet.com/news/aud495m-australias-trade-balance-shows-a-surplus-in-august-202610010133",
+      "published": "Thu, 01 Oct 2026 01:33:24 GMT",
+      "ts": 1790818404
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar seems vulnerable near two-month low as USD maintains bullish undertone",
@@ -99,20 +113,6 @@
       "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-edges-lower-as-us-yields-outweigh-chinas-beats-202609302345",
       "published": "Wed, 30 Sep 2026 23:45:00 GMT",
       "ts": 1790811900
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Euro slips as Europe's biggest economies report hotter inflation",
-      "link": "https://www.fxstreet.com/news/the-euro-slips-as-europes-biggest-economies-report-hotter-inflation-202609302331",
-      "published": "Wed, 30 Sep 2026 23:31:14 GMT",
-      "ts": 1790811074
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold falls to near $4,150 as higher Treasury yields, oil prices outweigh softer PCE inflation",
-      "link": "https://www.fxstreet.com/news/gold-falls-to-near-4-150-as-higher-treasury-yields-oil-prices-outweigh-softer-pce-inflation-202609302330",
-      "published": "Wed, 30 Sep 2026 23:30:58 GMT",
-      "ts": 1790811058
     },
     {
       "source": "MarketWatch",
