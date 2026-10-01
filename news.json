@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-01T21:28:28.402295Z",
+  "updated": "2026-10-01T21:46:48.535872Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
+      "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 21:27:00 GMT",
+      "ts": 1790890020
+    },
     {
       "source": "MarketWatch",
       "title": "Nike’s troubles are mounting, and sales could fall further",
@@ -204,13 +211,6 @@
       "link": "https://www.fxstreet.com/news/forex-today-us-nfp-takes-centre-stage-202610011704",
       "published": "Thu, 01 Oct 2026 17:04:39 GMT",
       "ts": 1790874279
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here’s how it worked out.",
-      "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 16:51:00 GMT",
-      "ts": 1790873460
     },
     {
       "source": "CoinTelegraph",
