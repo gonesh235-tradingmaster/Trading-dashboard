@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-01T20:54:37.951616Z",
+  "updated": "2026-10-01T21:10:18.213842Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold defies US Dollar surge as US yield slide revives Bullion demand",
+      "link": "https://www.fxstreet.com/news/gold-defies-us-dollar-surge-as-us-yield-slide-revives-bullion-demand-202610012103",
+      "published": "Thu, 01 Oct 2026 21:03:21 GMT",
+      "ts": 1790888601
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The stock market is anything but normal right now — and these charts show it",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 21:01:00 GMT",
+      "ts": 1790888460
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
+      "link": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 21:00:11 +0000",
+      "ts": 1790888411
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
+      "link": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 20:58:00 GMT",
+      "ts": 1790888280
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?",
+      "link": "https://www.marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 20:58:00 GMT",
+      "ts": 1790888280
+    },
     {
       "source": "MarketWatch",
       "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
@@ -164,25 +199,11 @@
       "ts": 1790873220
     },
     {
-      "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 16:16:00 GMT",
-      "ts": 1790871360
-    },
-    {
       "source": "CoinTelegraph",
       "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
       "link": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 16:12:23 +0000",
       "ts": 1790871143
-    },
-    {
-      "source": "MarketWatch",
-      "title": "30-year mortgage rate posts biggest jump in four years — to nearly 7.3%",
-      "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-posts-biggest-jump-in-four-years-e288f596?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 16:06:00 GMT",
-      "ts": 1790870760
     },
     {
       "source": "CoinTelegraph",
@@ -204,13 +225,6 @@
       "link": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 15:43:34 +0000",
       "ts": 1790869414
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tesla’s delivery report is just around the corner. Expect a sales drop.",
-      "link": "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 15:43:00 GMT",
-      "ts": 1790869380
     },
     {
       "source": "Investing Crypto",
@@ -304,13 +318,6 @@
       "ts": 1790854238
     },
     {
-      "source": "FXStreet",
-      "title": "Gold struggles as elevated US Treasury yields outweigh dovish Fed repricing",
-      "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-us-treasury-yields-outweigh-dovish-fed-repricing-202610011125",
-      "published": "Thu, 01 Oct 2026 11:25:03 GMT",
-      "ts": 1790853903
-    },
-    {
       "source": "Investing Crypto",
       "title": "Blackboard and Aster Announce First Trading Competition With Up to $100,000 in Prizes",
       "link": "https://www.investing.com/news/cryptocurrency-news/blackboard-and-aster-announce-first-trading-competition-with-up-to-100000-in-prizes-4927024",
@@ -323,13 +330,6 @@
       "link": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
       "published": "Thu, 01 Oct 2026 11:00:00 +0000",
       "ts": 1790852400
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Tokenized assets don’t always mirror traditional markets, Dune finds",
-      "link": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 10:50:24 +0000",
-      "ts": 1790851824
     },
     {
       "source": "CoinDesk",
