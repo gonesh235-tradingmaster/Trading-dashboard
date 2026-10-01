@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T10:57:48.284583Z",
+  "updated": "2026-10-01T11:16:25.009313Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 11:13:00 GMT",
+      "ts": 1790853180
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Synthetic tokenized stocks are bad for American investors",
+      "link": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
+      "published": "Thu, 01 Oct 2026 11:00:00 +0000",
+      "ts": 1790852400
+    },
     {
       "source": "FXStreet",
       "title": "British Pound tests 1.3200 as higher US yields and risk-off markets boost US Dollar",
@@ -15,6 +29,13 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-outperforms-risky-peers-despite-weak-trade-balance-data-202610011053",
       "published": "Thu, 01 Oct 2026 10:53:59 GMT",
       "ts": 1790852039
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tokenized assets don’t always mirror traditional markets, Dune finds",
+      "link": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 10:50:24 +0000",
+      "ts": 1790851824
     },
     {
       "source": "FXStreet",
@@ -276,13 +297,6 @@
       "ts": 1790813642
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 00:11:00 GMT",
-      "ts": 1790813460
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin muted at $83.7k, but set for best quarterly performance since Q4 2024",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
@@ -295,13 +309,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
       "published": "2026-09-30 21:04:47",
       "ts": 1790802287
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
-      "link": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 20:57:32 +0000",
-      "ts": 1790801852
     },
     {
       "source": "CoinDesk",
@@ -337,13 +344,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
       "published": "Wed, 30 Sep 2026 14:56:07 +0000",
       "ts": 1790780167
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
-      "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
-      "published": "Wed, 30 Sep 2026 14:04:19 +0000",
-      "ts": 1790777059
     },
     {
       "source": "Investing Forex",
