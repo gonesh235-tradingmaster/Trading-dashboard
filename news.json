@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T07:55:50.398022Z",
+  "updated": "2026-10-01T08:13:41.545402Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI recovers strongly above $90 even as Middle East oil flows reach pre-war levels",
+      "link": "https://www.fxstreet.com/news/wti-recovers-strongly-above-90-even-as-middle-east-oil-flows-reach-pre-war-levels-202610010756",
+      "published": "Thu, 01 Oct 2026 07:56:15 GMT",
+      "ts": 1790841375
+    },
+    {
+      "source": "Investing Forex",
+      "title": "UK 30-year gilt yields rise to 1998 highs; French budget due",
+      "link": "https://www.investing.com/news/forex-news/uk-30year-gilt-yields-rise-to-1998-highs-french-budget-due-4926457",
+      "published": "2026-10-01 07:46:24",
+      "ts": 1790840784
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc drops to fresh 16-month lows as CPI data supports SNB’s dovishness",
@@ -102,13 +116,6 @@
     },
     {
       "source": "FXStreet",
-      "title": "Swiss Franc reaches fresh 16-month lows ahead of CPI data",
-      "link": "https://www.fxstreet.com/news/swiss-franc-reaches-fresh-16-month-lows-ahead-of-cpi-data-202610010550",
-      "published": "Thu, 01 Oct 2026 05:50:35 GMT",
-      "ts": 1790833835
-    },
-    {
-      "source": "FXStreet",
       "title": "Indian Rupee faces severe heat from surging US Treasury Yields",
       "link": "https://www.fxstreet.com/news/indian-rupee-falls-as-us-treasury-yields-hit-fresh-two-decade-high-near-53-202610010543",
       "published": "Thu, 01 Oct 2026 05:43:56 GMT",
@@ -123,7 +130,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold sticks to modest gains; remains below $4,200 as bullish USD limits upside",
+      "title": "Gold fails ahead of $4,200 as surging US yields and Iran risks lift USD closer to YTD top",
       "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-resilient-us-dollar-and-yields-cap-upside-202610010454",
       "published": "Thu, 01 Oct 2026 04:54:51 GMT",
       "ts": 1790830491
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
       "published": "2026-09-29 21:43:40",
       "ts": 1790718220
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar firms, Aussie drops after RBA hike, and sterling slips on Burnham speech",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
-      "published": "2026-09-29 21:01:50",
-      "ts": 1790715710
     },
     {
       "source": "Investing Crypto",
