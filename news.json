@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T14:45:18.931493Z",
+  "updated": "2026-10-01T14:59:21.634075Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Citi updates BTC, ETH forecasts. Here are the new 2027 targets",
+      "link": "https://www.investing.com/news/cryptocurrency-news/citi-updates-btc-eth-forecasts-here-are-the-new-2027-targets-4927801",
+      "published": "2026-10-01 14:44:06",
+      "ts": 1790865846
+    },
+    {
+      "source": "MarketWatch",
+      "title": "September jobs report may show labor market is on the mend — but it’s far from cured",
+      "link": "https://www.marketwatch.com/story/september-jobs-report-may-show-labor-market-is-on-the-mend-but-its-far-from-cured-ebac2472?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 14:43:00 GMT",
+      "ts": 1790865780
+    },
     {
       "source": "Investing Crypto",
       "title": "Sweat Wallet and the SWEAT Token as They Exist Today End on 30 December 2026",
@@ -97,13 +111,6 @@
       "source": "MarketWatch",
       "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
       "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 13:45:00 GMT",
-      "ts": 1790862300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "U.S. reportedly asks Germany and France to release diesel stockpiles: What that means for a U.S. ban on exports of the fuel",
-      "link": "https://www.marketwatch.com/story/how-european-supplies-could-impact-a-u-s-diesel-ban-as-white-house-reportedly-asks-germany-france-to-release-stockpiles-5edd8284?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 13:45:00 GMT",
       "ts": 1790862300
     },
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
       "published": "2026-09-29 21:43:40",
       "ts": 1790718220
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Puffer and Anchorage Digital Partner to Bring Institutional Settlement Infrastructure to Puffer UniFi",
-      "link": "https://www.investing.com/news/cryptocurrency-news/puffer-and-anchorage-digital-partner-to-bring-institutional-settlement-infrastructure-to-puffer-unifi-4923352",
-      "published": "2026-09-29 19:00:37",
-      "ts": 1790708437
     }
   ]
 }
