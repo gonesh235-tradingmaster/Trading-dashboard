@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-01T04:34:03.940080Z",
+  "updated": "2026-10-01T04:56:38.717735Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Recovers from six-month low, but retains bearish bias below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-recovers-from-six-month-low-but-retains-bearish-bias-below-100-day-sma-202610010455",
+      "published": "Thu, 01 Oct 2026 04:55:19 GMT",
+      "ts": 1790830519
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold bulls seem hesitant as resilient US Dollar and yields cap upside",
+      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-resilient-us-dollar-and-yields-cap-upside-202610010454",
+      "published": "Thu, 01 Oct 2026 04:54:51 GMT",
+      "ts": 1790830491
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto hacks top $768M in September, worst month of 2026",
+      "link": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 04:44:33 +0000",
+      "ts": 1790829873
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Tests nine-day EMA barrier after rebounding above 179.00",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-nine-day-ema-barrier-after-rebounding-above-17900-202610010444",
+      "published": "Thu, 01 Oct 2026 04:44:30 GMT",
+      "ts": 1790829870
+    },
     {
       "source": "FXStreet",
       "title": "India Gold price today: Gold rises, according to FXStreet data",
@@ -71,27 +99,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-fed-outlook-supported-by-robust-data-td-securities-202610010222",
       "published": "Thu, 01 Oct 2026 02:22:41 GMT",
       "ts": 1790821361
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar remains stronger against Japanese Yen following Trade Balance data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-against-japanese-yen-following-trade-balance-data-202610010217",
-      "published": "Thu, 01 Oct 2026 02:17:49 GMT",
-      "ts": 1790821069
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound retreats further from one-week top as USD buying remains unabated",
-      "link": "https://www.fxstreet.com/news/british-pound-retreats-further-from-one-week-top-as-usd-buying-remains-unabated-202610010211",
-      "published": "Thu, 01 Oct 2026 02:11:30 GMT",
-      "ts": 1790820690
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar declines below 0.6959 as Trade Surplus shrinks sharply",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-below-06959-as-trade-surplus-shrinks-sharply-202610010157",
-      "published": "Thu, 01 Oct 2026 01:57:24 GMT",
-      "ts": 1790819844
     },
     {
       "source": "CoinTelegraph",
@@ -288,13 +295,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
       "published": "Wed, 30 Sep 2026 14:04:19 +0000",
       "ts": 1790777059
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Could THORChain face prosecution over stolen Bitget funds? Legal opinion",
-      "link": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 13:30:00 +0000",
-      "ts": 1790775000
     },
     {
       "source": "Investing Forex",
