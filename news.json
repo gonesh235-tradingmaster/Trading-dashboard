@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-01T22:26:20.431392Z",
+  "updated": "2026-10-01T22:42:35.775779Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Euro sells off hard as the French-German bond gap widens",
+      "link": "https://www.fxstreet.com/news/the-euro-sells-off-hard-as-the-french-german-bond-gap-widens-202610012232",
+      "published": "Thu, 01 Oct 2026 22:32:00 GMT",
+      "ts": 1790893920
+    },
     {
       "source": "FXStreet",
       "title": "The British Pound slides again as UK government bonds sell off",
@@ -211,13 +218,6 @@
       "link": "https://www.marketwatch.com/story/trumps-sec-wants-to-allow-fund-managers-to-charge-extra-fees-for-better-performance-heres-why-its-a-terrible-idea-61f6e0cc?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 17:16:00 GMT",
       "ts": 1790874960
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso rout deepens as USD/MXN blasts 18.30",
-      "link": "https://www.fxstreet.com/news/mexican-peso-rout-deepens-as-usd-mxn-blasts-through-1830-202610011707",
-      "published": "Thu, 01 Oct 2026 17:07:53 GMT",
-      "ts": 1790874473
     },
     {
       "source": "CoinTelegraph",
