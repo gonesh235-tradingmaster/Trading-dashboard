@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-01T14:18:39.038099Z",
+  "updated": "2026-10-01T14:45:18.931493Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Sweat Wallet and the SWEAT Token as They Exist Today End on 30 December 2026",
+      "link": "https://www.investing.com/news/cryptocurrency-news/sweat-wallet-and-the-sweat-token-as-they-exist-today-end-on-30-december-2026-4927764",
+      "published": "2026-10-01 14:30:35",
+      "ts": 1790865035
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 14:30:00 GMT",
+      "ts": 1790865000
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+      "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+      "published": "Thu, 01 Oct 2026 14:18:14 +0000",
+      "ts": 1790864294
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar steadies as Fed pause bets clash with resilient US economy",
@@ -99,13 +120,6 @@
       "link": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 13:35:47 +0000",
       "ts": 1790861747
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 13:35:00 GMT",
-      "ts": 1790861700
     },
     {
       "source": "CoinTelegraph",
@@ -339,13 +353,6 @@
       "ts": 1790802287
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
-      "published": "Wed, 30 Sep 2026 17:16:31 +0000",
-      "ts": 1790788591
-    },
-    {
       "source": "Investing Crypto",
       "title": "Open Standard issues dollar stablecoin backed by Visa, Stripe, and Mastercard",
       "link": "https://www.investing.com/news/cryptocurrency-news/open-standard-issues-dollar-stablecoin-backed-by-visa-stripe-and-mastercard-4925607",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/puffer-and-anchorage-digital-partner-to-bring-institutional-settlement-infrastructure-to-puffer-unifi-4923352",
       "published": "2026-09-29 19:00:37",
       "ts": 1790708437
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "PrimeXBT Adds 15 New Crypto Futures, Taking the Total to Over 170",
-      "link": "https://www.investing.com/news/cryptocurrency-news/primexbt-adds-15-new-crypto-futures-taking-the-total-to-over-170-4922718",
-      "published": "2026-09-29 13:00:35",
-      "ts": 1790686835
     }
   ]
 }
