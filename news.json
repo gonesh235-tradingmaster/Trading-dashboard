@@ -1,13 +1,41 @@
 {
-  "updated": "2026-10-01T06:48:24.554375Z",
+  "updated": "2026-10-01T07:12:45.857842Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+      "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+      "published": "Thu, 01 Oct 2026 07:06:30 +0000",
+      "ts": 1790838390
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar weakens toward 0.5600 as bitterly fought election looms",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-toward-05600-as-bitterly-fought-election-looms-202610010703",
+      "published": "Thu, 01 Oct 2026 07:03:50 GMT",
+      "ts": 1790838230
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Downside pressure might intensify below 1.1300",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-downside-pressure-might-intensify-below-11300-202610010700",
+      "published": "Thu, 01 Oct 2026 07:00:37 GMT",
+      "ts": 1790838037
+    },
     {
       "source": "FXStreet",
       "title": "Forex Today: US Dollar shows resilience ahead of next batch of data",
       "link": "https://www.fxstreet.com/news/forex-today-us-dollar-shows-resilience-ahead-of-next-batch-of-data-202610010645",
       "published": "Thu, 01 Oct 2026 06:45:33 GMT",
       "ts": 1790837133
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies rangebound as dollar holds near two-month high, yen slips",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
+      "published": "2026-10-01 06:39:10",
+      "ts": 1790836750
     },
     {
       "source": "FXStreet",
@@ -74,13 +102,6 @@
     },
     {
       "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Recovers from six-month low, but retains bearish bias below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-recovers-from-six-month-low-but-retains-bearish-bias-below-100-day-sma-202610010455",
-      "published": "Thu, 01 Oct 2026 04:55:19 GMT",
-      "ts": 1790830519
-    },
-    {
-      "source": "FXStreet",
       "title": "Gold sticks to modest gains; remains below $4,200 as bullish USD limits upside",
       "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-resilient-us-dollar-and-yields-cap-upside-202610010454",
       "published": "Thu, 01 Oct 2026 04:54:51 GMT",
@@ -94,25 +115,11 @@
       "ts": 1790829873
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Tests nine-day EMA barrier after rebounding above 179.00",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-nine-day-ema-barrier-after-rebounding-above-17900-202610010444",
-      "published": "Thu, 01 Oct 2026 04:44:30 GMT",
-      "ts": 1790829870
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
       "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
       "published": "Thu, 01 Oct 2026 04:15:20 +0000",
       "ts": 1790828120
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds highs, yen slips on BOJ signals",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
-      "published": "2026-10-01 03:59:56",
-      "ts": 1790827196
     },
     {
       "source": "MarketWatch",
@@ -351,13 +358,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
       "published": "Wed, 30 Sep 2026 11:20:09 +0000",
       "ts": 1790767209
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
-      "published": "Wed, 30 Sep 2026 11:04:09 +0000",
-      "ts": 1790766249
     },
     {
       "source": "Investing Forex",
