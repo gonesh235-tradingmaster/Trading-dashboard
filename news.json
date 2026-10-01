@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-01T16:18:29.331977Z",
+  "updated": "2026-10-01T16:41:40.525619Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Meta’s Mark Zuckerberg is coming for Apple’s empire",
+      "link": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 16:24:00 GMT",
+      "ts": 1790871840
+    },
     {
       "source": "MarketWatch",
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
@@ -32,7 +39,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "30-year mortgage rate posts biggest jump in four years",
+      "title": "30-year mortgage rate posts biggest jump in four years — to nearly 7.3%",
       "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-posts-biggest-jump-in-four-years-e288f596?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 16:06:00 GMT",
       "ts": 1790870760
@@ -169,13 +176,6 @@
       "link": "https://www.fxstreet.com/news/us-ism-manufacturing-pmi-fell-to-545-in-september-202610011406",
       "published": "Thu, 01 Oct 2026 14:06:10 GMT",
       "ts": 1790863570
-    },
-    {
-      "source": "MarketWatch",
-      "title": "More than 10 million older adults are now living in poverty as Social Security cuts loom: ‘I don’t know how anyone is making it’",
-      "link": "https://www.marketwatch.com/story/more-than-10-million-older-adults-are-now-living-in-poverty-as-social-security-cuts-loom-i-dont-know-how-anyone-is-making-it-237ab798?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 14:00:00 GMT",
-      "ts": 1790863200
     },
     {
       "source": "FXStreet",
