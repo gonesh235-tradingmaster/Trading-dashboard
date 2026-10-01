@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-01T10:21:13.148816Z",
+  "updated": "2026-10-01T10:42:47.639092Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Global Bonds: Selloff deepens with rising term premia – BBH",
+      "link": "https://www.fxstreet.com/news/global-bonds-selloff-deepens-with-rising-term-premia-bbh-202610011042",
+      "published": "Thu, 01 Oct 2026 10:42:46 GMT",
+      "ts": 1790851366
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
+      "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
+      "published": "Thu, 01 Oct 2026 10:38:04 +0000",
+      "ts": 1790851084
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rises to $84k after bumper Q3 gains; stubborn yields weigh",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
+      "published": "2026-10-01 10:36:57",
+      "ts": 1790851017
+    },
+    {
+      "source": "FXStreet",
+      "title": "Oil: Prices hold near multi‑year highs – UOB",
+      "link": "https://www.fxstreet.com/news/oil-prices-hold-near-multi-year-highs-uob-202610011032",
+      "published": "Thu, 01 Oct 2026 10:32:42 GMT",
+      "ts": 1790850762
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin holds above $83K as rally on lower US inflation data fades",
+      "link": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 10:30:18 +0000",
+      "ts": 1790850618
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Stronger profile as policy supports flows – Societe Generale",
+      "link": "https://www.fxstreet.com/news/us-dollar-stronger-profile-as-policy-supports-flows-societe-generale-202610011026",
+      "published": "Thu, 01 Oct 2026 10:26:43 GMT",
+      "ts": 1790850403
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY: Yen soft as intervention absent – UOB",
+      "link": "https://www.fxstreet.com/news/usd-jpy-yen-soft-as-intervention-absent-uob-202610011021",
+      "published": "Thu, 01 Oct 2026 10:21:57 GMT",
+      "ts": 1790850117
+    },
     {
       "source": "FXStreet",
       "title": "1.1265: Euro hits yearly lows amid high Oil prices, rising US yields and debt woes",
@@ -87,34 +136,6 @@
       "ts": 1790847303
     },
     {
-      "source": "FXStreet",
-      "title": "Central banks: Political economy pressures build – Rabobank",
-      "link": "https://www.fxstreet.com/news/central-banks-political-economy-pressures-build-rabobank-202610010933",
-      "published": "Thu, 01 Oct 2026 09:33:36 GMT",
-      "ts": 1790847216
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver broadly unchanged, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-broadly-unchanged-according-to-fxstreet-data-202610010931",
-      "published": "Thu, 01 Oct 2026 09:31:57 GMT",
-      "ts": 1790847117
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Fed-backed strength holds near yearly highs – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-backed-strength-holds-near-yearly-highs-ing-202610010928",
-      "published": "Thu, 01 Oct 2026 09:28:50 GMT",
-      "ts": 1790846930
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: USD/JPY rises as October BoJ hike bets fade – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-usd-jpy-rises-as-october-boj-hike-bets-fade-mufg-202610010926",
-      "published": "Thu, 01 Oct 2026 09:26:22 GMT",
-      "ts": 1790846782
-    },
-    {
       "source": "MarketWatch",
       "title": "Retail investors are aggressively piling into this bold contrarian bet through one ETF.",
       "link": "https://www.marketwatch.com/story/retail-investors-are-aggressively-piling-into-this-bold-contrarian-bet-through-one-etf-da26f208?mod=mw_rss_topstories",
@@ -176,13 +197,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
       "published": "Thu, 01 Oct 2026 07:06:30 +0000",
       "ts": 1790838390
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rises to $84k after bumper Q3 gains; stubborn yields weigh",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
-      "published": "2026-10-01 06:52:52",
-      "ts": 1790837572
     },
     {
       "source": "CoinTelegraph",
@@ -290,13 +304,6 @@
       "ts": 1790801852
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
-      "link": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 19:11:23 +0000",
-      "ts": 1790795483
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
       "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
@@ -358,13 +365,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/solmate-names-bitcoin-depot-veteran-scott-buchanan-as-cfo-432SI-4925282",
       "published": "2026-09-30 13:22:02",
       "ts": 1790774522
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-      "link": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
-      "published": "Wed, 30 Sep 2026 13:00:00 +0000",
-      "ts": 1790773200
     },
     {
       "source": "Investing Forex",
