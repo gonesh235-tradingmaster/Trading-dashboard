@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-01T05:56:31.222500Z",
+  "updated": "2026-10-01T06:19:11.584928Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule",
+      "link": "https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 06:05:51 +0000",
+      "ts": 1790834751
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 06:00:00 +0000",
+      "ts": 1790834400
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Declines to near 1.3250 as bearish bias persists below 100-day moving average",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-declines-to-near-13250-as-bearish-bias-persists-below-100-day-moving-average-202610010558",
+      "published": "Thu, 01 Oct 2026 05:58:26 GMT",
+      "ts": 1790834306
+    },
     {
       "source": "FXStreet",
       "title": "AUD/USD Price Forecast: On verge of 78.6% Fibo breakdown near 0.6950",
@@ -92,13 +113,6 @@
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-high-near-10180-us-ism-pmi-in-focus-202610010324",
       "published": "Thu, 01 Oct 2026 03:24:04 GMT",
       "ts": 1790825044
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD holds above $61.00 amid easing Fed rate hike expectations",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-above-6100-amid-easing-fed-rate-hike-expectations-202610010319",
-      "published": "Thu, 01 Oct 2026 03:19:59 GMT",
-      "ts": 1790824799
     },
     {
       "source": "MarketWatch",
@@ -255,13 +269,6 @@
       "ts": 1790788591
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
-      "link": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 16:28:30 +0000",
-      "ts": 1790785710
-    },
-    {
       "source": "Investing Crypto",
       "title": "Open Standard issues dollar stablecoin backed by Visa, Stripe, and Mastercard",
       "link": "https://www.investing.com/news/cryptocurrency-news/open-standard-issues-dollar-stablecoin-backed-by-visa-stripe-and-mastercard-4925607",
@@ -295,13 +302,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
       "published": "Wed, 30 Sep 2026 14:04:19 +0000",
       "ts": 1790777059
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Could THORChain face prosecution over stolen Bitget funds? Legal opinion",
-      "link": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 13:30:00 +0000",
-      "ts": 1790775000
     },
     {
       "source": "Investing Forex",
