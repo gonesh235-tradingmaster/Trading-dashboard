@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T22:42:35.775779Z",
+  "updated": "2026-10-01T22:55:34.780272Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Japanese Yen weakens as traders pare Bank of Japan October hike bets",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-weakens-as-traders-pare-bank-of-japan-october-hike-bets-202610012251",
+      "published": "Thu, 01 Oct 2026 22:51:29 GMT",
+      "ts": 1790895089
+    },
+    {
+      "source": "FXStreet",
+      "title": "The New Zealand Dollar extends its slide as the US Dollar hits a yearly high",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-extends-its-slide-as-the-us-dollar-hits-a-yearly-high-202610012250",
+      "published": "Thu, 01 Oct 2026 22:50:08 GMT",
+      "ts": 1790895008
+    },
     {
       "source": "FXStreet",
       "title": "The Euro sells off hard as the French-German bond gap widens",
@@ -192,25 +206,11 @@
       "ts": 1790877709
     },
     {
-      "source": "FXStreet",
-      "title": "Fed’s Jefferson signals patience as next rate move stays data-driven",
-      "link": "https://www.fxstreet.com/news/feds-jefferson-signals-patience-as-next-rate-move-stays-data-driven-202610011754",
-      "published": "Thu, 01 Oct 2026 17:54:12 GMT",
-      "ts": 1790877252
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar weakens as U.S. dollar strength, yield gap keeps pressure",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-as-us-dollar-strength-yield-gap-keeps-pressure-4928043",
       "published": "2026-10-01 17:46:09",
       "ts": 1790876769
-    },
-    {
-      "source": "FXStreet",
-      "title": "Banxico survey sees lower inflation, stronger growth and 6.50% hold",
-      "link": "https://www.fxstreet.com/news/banxico-survey-sees-lower-inflation-stronger-growth-and-650-hold-202610011734",
-      "published": "Thu, 01 Oct 2026 17:34:21 GMT",
-      "ts": 1790876061
     },
     {
       "source": "MarketWatch",
