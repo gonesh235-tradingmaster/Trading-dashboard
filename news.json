@@ -1,13 +1,62 @@
 {
-  "updated": "2026-10-01T11:16:25.009313Z",
+  "updated": "2026-10-01T11:42:22.825425Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Resilient growth supports upside risks – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-resilient-growth-supports-upside-risks-bbh-202610011136",
+      "published": "Thu, 01 Oct 2026 11:36:53 GMT",
+      "ts": 1790854613
+    },
+    {
+      "source": "MarketWatch",
+      "title": "After I sold TOMS Shoes for $400 million I was misdiagnosed with bipolar disorder — and it almost cost me everything",
+      "link": "https://www.marketwatch.com/story/after-i-sold-toms-shoes-for-400-million-i-was-misdiagnosed-with-bipolar-disorder-and-it-almost-cost-me-everything-4409da4c?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 11:32:00 GMT",
+      "ts": 1790854320
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
+      "published": "Thu, 01 Oct 2026 11:30:38 +0000",
+      "ts": 1790854238
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold struggles as rising US Treasury yields outweigh dovish Fed repricing",
+      "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-us-treasury-yields-outweigh-dovish-fed-repricing-202610011125",
+      "published": "Thu, 01 Oct 2026 11:25:03 GMT",
+      "ts": 1790853903
+    },
+    {
+      "source": "FXStreet",
+      "title": "Trump sees ramping up bombing Iran after midterms possible – Time Magazine",
+      "link": "https://www.fxstreet.com/news/trump-sees-ramping-up-bombing-iran-after-midterms-possible-time-magazine-202610011122",
+      "published": "Thu, 01 Oct 2026 11:22:40 GMT",
+      "ts": 1790853760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 11:15:00 GMT",
+      "ts": 1790853300
+    },
     {
       "source": "MarketWatch",
       "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
       "link": "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 11:13:00 GMT",
       "ts": 1790853180
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Blackboard and Aster Announce First Trading Competition With Up to $100,000 in Prizes",
+      "link": "https://www.investing.com/news/cryptocurrency-news/blackboard-and-aster-announce-first-trading-competition-with-up-to-100000-in-prizes-4927024",
+      "published": "2026-10-01 11:00:34",
+      "ts": 1790852434
     },
     {
       "source": "CoinDesk",
@@ -94,20 +143,6 @@
       "ts": 1790849989
     },
     {
-      "source": "FXStreet",
-      "title": "US Treasuries: Long-end selloff extends to multi-decade highs – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/us-treasuries-long-end-selloff-extends-to-multi-decade-highs-deutsche-bank-202610011019",
-      "published": "Thu, 01 Oct 2026 10:19:21 GMT",
-      "ts": 1790849961
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold: Upside capped by real yields – UOB",
-      "link": "https://www.fxstreet.com/news/gold-upside-capped-by-real-yields-uob-202610011015",
-      "published": "Thu, 01 Oct 2026 10:15:15 GMT",
-      "ts": 1790849715
-    },
-    {
       "source": "MarketWatch",
       "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
       "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
@@ -134,13 +169,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
       "published": "Thu, 01 Oct 2026 09:59:30 +0000",
       "ts": 1790848770
-    },
-    {
-      "source": "FXStreet",
-      "title": "EU trade: Strategic linkages and rare earths – Rabobank",
-      "link": "https://www.fxstreet.com/news/eu-trade-strategic-linkages-and-rare-earths-rabobank-202610010957",
-      "published": "Thu, 01 Oct 2026 09:57:12 GMT",
-      "ts": 1790848632
     },
     {
       "source": "MarketWatch",
@@ -269,20 +297,6 @@
       "ts": 1790816866
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 00:45:00 GMT",
-      "ts": 1790815500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 00:20:00 GMT",
-      "ts": 1790814000
-    },
-    {
       "source": "CoinTelegraph",
       "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
       "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -337,13 +351,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
       "published": "Wed, 30 Sep 2026 15:19:36 +0000",
       "ts": 1790781576
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: What will the AI agents run on?",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
-      "published": "Wed, 30 Sep 2026 14:56:07 +0000",
-      "ts": 1790780167
     },
     {
       "source": "Investing Forex",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/primexbt-adds-15-new-crypto-futures-taking-the-total-to-over-170-4922718",
       "published": "2026-09-29 13:00:35",
       "ts": 1790686835
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "21X LLC Seeks Regulatory Approval to Operate as a US Broker Dealer and Appoints Ray Tierney as CEO",
-      "link": "https://www.investing.com/news/cryptocurrency-news/21x-llc-seeks-regulatory-approval-to-operate-as-a-us-broker-dealer-and-appoints-ray-tierney-as-ceo-4922465",
-      "published": "2026-09-29 12:00:40",
-      "ts": 1790683240
     }
   ]
 }
