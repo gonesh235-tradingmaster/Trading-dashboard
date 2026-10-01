@@ -1,13 +1,34 @@
 {
-  "updated": "2026-10-01T09:43:55.689095Z",
+  "updated": "2026-10-01T09:59:37.258191Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EU trade: Strategic linkages and rare earths – Rabobank",
+      "link": "https://www.fxstreet.com/news/eu-trade-strategic-linkages-and-rare-earths-rabobank-202610010957",
+      "published": "Thu, 01 Oct 2026 09:57:12 GMT",
+      "ts": 1790848632
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Fed repricing and inflation data steer path – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-and-inflation-data-steer-path-deutsche-bank-202610010955",
+      "published": "Thu, 01 Oct 2026 09:55:09 GMT",
+      "ts": 1790848509
+    },
     {
       "source": "MarketWatch",
       "title": "France’s bond market is stumbling. Should Americans care?",
       "link": "https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 09:39:00 GMT",
       "ts": 1790847540
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar holds as elevated U.S. yields overshadow cooling inflation data",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
+      "published": "2026-10-01 09:36:15",
+      "ts": 1790847375
     },
     {
       "source": "FXStreet",
@@ -87,20 +108,6 @@
       "ts": 1790844795
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Upward momentum holds as inflation eases – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-upward-momentum-holds-as-inflation-eases-mufg-202610010850",
-      "published": "Thu, 01 Oct 2026 08:50:44 GMT",
-      "ts": 1790844644
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD seems vulnerable near $60 amid soaring US Treasury Yields",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-seems-vulnerable-near-60-amid-soaring-us-treasury-yields-202610010847",
-      "published": "Thu, 01 Oct 2026 08:47:45 GMT",
-      "ts": 1790844465
-    },
-    {
       "source": "Investing Forex",
       "title": "UK 30-year gilt yields rise to 1998 highs; French budget due",
       "link": "https://www.investing.com/news/forex-news/uk-30year-gilt-yields-rise-to-1998-highs-french-budget-due-4926457",
@@ -134,13 +141,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
       "published": "2026-10-01 06:52:52",
       "ts": 1790837572
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies rangebound as dollar holds near two-month high, yen slips",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
-      "published": "2026-10-01 06:39:10",
-      "ts": 1790836750
     },
     {
       "source": "CoinTelegraph",
