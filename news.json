@@ -1,13 +1,41 @@
 {
-  "updated": "2026-10-01T23:40:37.918045Z",
+  "updated": "2026-10-01T23:53:29.816114Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold recovers above $4,150 as US yields retreat ahead of US September jobs data",
+      "link": "https://www.fxstreet.com/news/gold-recovers-above-4-150-as-us-yields-retreat-ahead-of-us-september-jobs-data-202610012349",
+      "published": "Thu, 01 Oct 2026 23:49:56 GMT",
+      "ts": 1790898596
+    },
+    {
+      "source": "FXStreet",
+      "title": "The Japanese Yen gains little from a hot Tokyo inflation report",
+      "link": "https://www.fxstreet.com/news/tokyo-core-inflation-hits-27-and-the-yen-firms-202610012341",
+      "published": "Thu, 01 Oct 2026 23:41:24 GMT",
+      "ts": 1790898084
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Logan: Policy rate must increase by additional 50 bps or more",
+      "link": "https://www.fxstreet.com/news/feds-logan-policy-rate-must-increase-by-additional-50-bps-or-more-202610012340",
+      "published": "Thu, 01 Oct 2026 23:40:23 GMT",
+      "ts": 1790898023
+    },
     {
       "source": "FXStreet",
       "title": "Breaking: Japan’s Tokyo CPI inflation climbs 2.7% in September",
       "link": "https://www.fxstreet.com/news/27-japans-tokyo-cpi-inflation-climbs-in-september-202610012332",
       "published": "Thu, 01 Oct 2026 23:32:22 GMT",
       "ts": 1790897542
+    },
+    {
+      "source": "Investing Forex",
+      "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity",
+      "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
+      "published": "2026-10-01 23:30:52",
+      "ts": 1790897452
     },
     {
       "source": "MarketWatch",
@@ -171,20 +199,6 @@
       "ts": 1790881237
     },
     {
-      "source": "FXStreet",
-      "title": "Fed’s Jefferson says US economy is near maximum employment",
-      "link": "https://www.fxstreet.com/news/feds-jefferson-says-economy-near-maximum-employment-202610011859",
-      "published": "Thu, 01 Oct 2026 18:59:33 GMT",
-      "ts": 1790881173
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dollar Index breaks its June peak as the Euro sinks on dearer Crude Oil",
-      "link": "https://www.fxstreet.com/news/dollar-index-breaks-its-june-peak-as-the-euro-sinks-on-dearer-crude-oil-202610011859",
-      "published": "Thu, 01 Oct 2026 18:59:14 GMT",
-      "ts": 1790881154
-    },
-    {
       "source": "CoinDesk",
       "title": "Another Trump memecoin dinner advertised for token's top investors",
       "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
@@ -239,13 +253,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 15:55:19 +0000",
       "ts": 1790870119
-    },
-    {
-      "source": "FXStreet",
-      "title": "Crude Oil extends its rally as the Pentagon adds another carrier group",
-      "link": "https://www.fxstreet.com/news/crude-oil-turns-a-loss-into-a-rally-as-chinese-refiners-stop-exporting-fuel-202610011550",
-      "published": "Thu, 01 Oct 2026 15:50:58 GMT",
-      "ts": 1790869858
     },
     {
       "source": "CoinTelegraph",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-euro-holding-range-despite-dollar-strength-93CH-4924929",
       "published": "2026-09-30 11:45:08",
       "ts": 1790768708
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency",
-      "link": "https://www.investing.com/news/forex-news/swiss-national-bank-bought-144-billion-francs-in-foreign-currency-93CH-4924575",
-      "published": "2026-09-30 10:21:16",
-      "ts": 1790763676
     }
   ]
 }
