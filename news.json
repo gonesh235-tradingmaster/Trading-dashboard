@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-01T09:59:37.258191Z",
+  "updated": "2026-10-01T10:21:13.148816Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "1.1265: Euro hits yearly lows amid high Oil prices, rising US yields and debt woes",
+      "link": "https://www.fxstreet.com/news/11265-euro-hits-yearly-lows-amid-high-oil-prices-rising-us-yields-and-debt-woes-202610011019",
+      "published": "Thu, 01 Oct 2026 10:19:49 GMT",
+      "ts": 1790849989
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Treasuries: Long-end selloff extends to multi-decade highs – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/us-treasuries-long-end-selloff-extends-to-multi-decade-highs-deutsche-bank-202610011019",
+      "published": "Thu, 01 Oct 2026 10:19:21 GMT",
+      "ts": 1790849961
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold: Upside capped by real yields – UOB",
+      "link": "https://www.fxstreet.com/news/gold-upside-capped-by-real-yields-uob-202610011015",
+      "published": "Thu, 01 Oct 2026 10:15:15 GMT",
+      "ts": 1790849715
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 10:15:00 GMT",
+      "ts": 1790849700
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
+      "link": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 10:10:00 GMT",
+      "ts": 1790849400
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
+      "link": "https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 10:07:18 +0000",
+      "ts": 1790849238
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+      "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
+      "published": "Thu, 01 Oct 2026 09:59:30 +0000",
+      "ts": 1790848770
+    },
     {
       "source": "FXStreet",
       "title": "EU trade: Strategic linkages and rare earths – Rabobank",
@@ -101,13 +150,6 @@
       "ts": 1790845089
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: French spread widening threatens EUR/USD range – ING",
-      "link": "https://www.fxstreet.com/news/euro-french-spread-widening-threatens-eur-usd-range-ing-202610010853",
-      "published": "Thu, 01 Oct 2026 08:53:15 GMT",
-      "ts": 1790844795
-    },
-    {
       "source": "Investing Forex",
       "title": "UK 30-year gilt yields rise to 1998 highs; French budget due",
       "link": "https://www.investing.com/news/forex-news/uk-30year-gilt-yields-rise-to-1998-highs-french-budget-due-4926457",
@@ -157,25 +199,11 @@
       "ts": 1790834400
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee hits fresh two-month low against US Dollar",
-      "link": "https://www.fxstreet.com/news/indian-rupee-falls-as-us-treasury-yields-hit-fresh-two-decade-high-near-53-202610010543",
-      "published": "Thu, 01 Oct 2026 05:43:56 GMT",
-      "ts": 1790833436
-    },
-    {
       "source": "CoinDesk",
       "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
       "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
       "published": "Thu, 01 Oct 2026 04:58:52 +0000",
       "ts": 1790830732
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold hangs near daily low as USD buying remains unabated amid surging US yields",
-      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-resilient-us-dollar-and-yields-cap-upside-202610010454",
-      "published": "Thu, 01 Oct 2026 04:54:51 GMT",
-      "ts": 1790830491
     },
     {
       "source": "CoinTelegraph",
@@ -241,25 +269,11 @@
       "ts": 1790813460
     },
     {
-      "source": "MarketWatch",
-      "title": "Google shows it’s not out of the AI race just yet",
-      "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 22:51:00 GMT",
-      "ts": 1790808660
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin muted at $83.7k, but set for best quarterly performance since Q4 2024",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
       "published": "2026-09-30 21:54:18",
       "ts": 1790805258
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
-      "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 21:22:00 GMT",
-      "ts": 1790803320
     },
     {
       "source": "Investing Forex",
@@ -281,13 +295,6 @@
       "link": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 19:11:23 +0000",
       "ts": 1790795483
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-      "link": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 19:00:00 +0000",
-      "ts": 1790794800
     },
     {
       "source": "CoinDesk",
@@ -372,13 +379,6 @@
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-euro-holding-range-despite-dollar-strength-93CH-4924929",
       "published": "2026-09-30 11:45:08",
       "ts": 1790768708
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
-      "published": "Wed, 30 Sep 2026 11:20:09 +0000",
-      "ts": 1790767209
     },
     {
       "source": "Investing Forex",
