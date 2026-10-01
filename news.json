@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T08:56:43.552107Z",
+  "updated": "2026-10-01T09:15:49.123743Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Angelina Jolie sells L.A. mansion with illustrious Hollywood history for $24.75 million",
+      "link": "https://www.marketwatch.com/story/angelina-jolie-sells-l-a-mansion-with-illustrious-hollywood-history-for-24-75-million-d0e38495?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 09:04:00 GMT",
+      "ts": 1790845440
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound slips as global bond rout lifts dollar, gilt yields hit 6%",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-global-bond-rout-lifts-dollar-gilt-yields-hit-6-4926602",
+      "published": "2026-10-01 08:58:09",
+      "ts": 1790845089
+    },
     {
       "source": "FXStreet",
       "title": "Euro: French spread widening threatens EUR/USD range – ING",
@@ -57,13 +71,6 @@
       "link": "https://www.fxstreet.com/news/mexican-peso-weakness-and-usmca-risk-repricing-commerzbank-202610010830",
       "published": "Thu, 01 Oct 2026 08:30:12 GMT",
       "ts": 1790843412
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/GBP Price Forecast: Bounces up from 0.8530 with the bearish trend intact",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bounces-up-from-08530-with-the-bearish-trend-intact-202610010828",
-      "published": "Thu, 01 Oct 2026 08:28:44 GMT",
-      "ts": 1790843324
     },
     {
       "source": "Investing Forex",
@@ -134,6 +141,13 @@
       "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
       "published": "Thu, 01 Oct 2026 04:58:52 +0000",
       "ts": 1790830732
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold hangs near daily low as USD buying remains unabated amid surging US yields",
+      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-resilient-us-dollar-and-yields-cap-upside-202610010454",
+      "published": "Thu, 01 Oct 2026 04:54:51 GMT",
+      "ts": 1790830491
     },
     {
       "source": "CoinTelegraph",
@@ -253,13 +267,6 @@
       "link": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 20:56:00 GMT",
       "ts": 1790801760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-      "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 20:32:00 GMT",
-      "ts": 1790800320
     },
     {
       "source": "CoinTelegraph",
@@ -386,13 +393,6 @@
       "link": "https://www.investing.com/news/forex-news/bca-raises-dollar-target-on-widening-realrate-gap-and-resilient-growth-4924547",
       "published": "2026-09-30 10:12:21",
       "ts": 1790763141
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound gains as UK GDP beat meets pause in dollar rally",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-gdp-beat-meets-pause-in-dollar-rally-4924430",
-      "published": "2026-09-30 09:19:43",
-      "ts": 1790759983
     },
     {
       "source": "Investing Crypto",
