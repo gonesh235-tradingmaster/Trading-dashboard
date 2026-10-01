@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-01T12:22:58.444412Z",
+  "updated": "2026-10-01T12:48:47.287162Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: DXY extends monthly gains – UOB",
+      "link": "https://www.fxstreet.com/news/us-dollar-dxy-extends-monthly-gains-uob-202610011247",
+      "published": "Thu, 01 Oct 2026 12:47:37 GMT",
+      "ts": 1790858857
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Google is sending its first AI data center to space",
+      "link": "https://www.marketwatch.com/story/google-is-sending-its-first-ai-data-center-to-space-22b7c44d?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 12:42:00 GMT",
+      "ts": 1790858520
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Initial Jobless Claims dropped to 197K last week",
+      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-197k-last-week-202610011237",
+      "published": "Thu, 01 Oct 2026 12:37:54 GMT",
+      "ts": 1790858274
+    },
+    {
+      "source": "FXStreet",
+      "title": "BoE's Mann: Can't rely on risk premia to do work of policy, need to raise rates",
+      "link": "https://www.fxstreet.com/news/boes-mann-cant-rely-on-risk-premia-to-do-work-of-policy-need-to-raise-rates-202610011231",
+      "published": "Thu, 01 Oct 2026 12:31:14 GMT",
+      "ts": 1790857874
+    },
     {
       "source": "FXStreet",
       "title": "British Pound holds firm against Euro on stronger growth, hawkish policy signals",
@@ -31,18 +59,18 @@
       "ts": 1790856720
     },
     {
+      "source": "Investing Forex",
+      "title": "Global debt rout escalates as U.S. and European yields surge to multi-decade highs",
+      "link": "https://www.investing.com/news/forex-news/uk-30year-gilt-yields-rise-to-1998-highs-french-budget-due-4926457",
+      "published": "2026-10-01 12:11:00",
+      "ts": 1790856660
+    },
+    {
       "source": "FXStreet",
       "title": "Korean Won: Export boom supports currency – DBS",
       "link": "https://www.fxstreet.com/news/korean-won-export-boom-supports-currency-dbs-202610011209",
       "published": "Thu, 01 Oct 2026 12:09:54 GMT",
       "ts": 1790856594
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Global debt rout escalates as U.S. and European yields surge to multi-decade highs",
-      "link": "https://www.investing.com/news/forex-news/uk-30year-gilt-yields-rise-to-1998-highs-french-budget-due-4926457",
-      "published": "2026-10-01 12:08:48",
-      "ts": 1790856528
     },
     {
       "source": "FXStreet",
@@ -99,27 +127,6 @@
       "link": "https://www.fxstreet.com/news/feds-kashkari-will-put-pressure-on-different-parts-of-economy-if-we-keep-raising-rates-202610011150",
       "published": "Thu, 01 Oct 2026 11:50:19 GMT",
       "ts": 1790855419
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Jumps to near 158.40 as traders reassess hawkish BoJ bets",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-jumps-to-near-15840-as-traders-reassess-hawkish-boj-bets-202610011149",
-      "published": "Thu, 01 Oct 2026 11:49:13 GMT",
-      "ts": 1790855353
-    },
-    {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: At fresh yearly lows with bears pushing against 0.5600",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-at-fresh-yearly-lows-with-bears-pushing-against-05600-202610011148",
-      "published": "Thu, 01 Oct 2026 11:48:34 GMT",
-      "ts": 1790855314
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Resilient growth supports upside risks – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-resilient-growth-supports-upside-risks-bbh-202610011136",
-      "published": "Thu, 01 Oct 2026 11:36:53 GMT",
-      "ts": 1790854613
     },
     {
       "source": "MarketWatch",
@@ -211,13 +218,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
       "published": "Thu, 01 Oct 2026 09:59:30 +0000",
       "ts": 1790848770
-    },
-    {
-      "source": "MarketWatch",
-      "title": "France’s bond market is stumbling. Should Americans care?",
-      "link": "https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 09:39:00 GMT",
-      "ts": 1790847540
     },
     {
       "source": "Investing Forex",
