@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T02:47:02.856892Z",
+  "updated": "2026-10-01T03:11:11.957262Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen drops to weekly low as elevated US bond yields lift USD to two-month high",
+      "link": "https://www.fxstreet.com/news/japanese-yen-drops-to-weekly-low-as-elevated-us-bond-yields-lift-usd-to-two-month-high-202610010256",
+      "published": "Thu, 01 Oct 2026 02:56:03 GMT",
+      "ts": 1790823363
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro weakens below 1.1350 on higher US Treasury yields, Lagarde's dovish tilt",
+      "link": "https://www.fxstreet.com/news/euro-weakens-below-11350-on-higher-us-treasury-yields-lagardes-dovish-tilt-202610010252",
+      "published": "Thu, 01 Oct 2026 02:52:45 GMT",
+      "ts": 1790823165
+    },
     {
       "source": "MarketWatch",
       "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
@@ -64,20 +78,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-two-month-low-as-usd-maintains-bullish-undertone-202610010128",
       "published": "Thu, 01 Oct 2026 01:28:09 GMT",
       "ts": 1790818089
-    },
-    {
-      "source": "FXStreet",
-      "title": "US President Donald Trump announces $200 billion South Korean investment in US nuclear",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-announces-200-billion-south-korean-investment-in-us-nuclear-202610010127",
-      "published": "Thu, 01 Oct 2026 01:27:31 GMT",
-      "ts": 1790818051
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI falls to near $89.00 as Middle East oil shipments recover",
-      "link": "https://www.fxstreet.com/news/wti-falls-to-near-8900-as-middle-east-oil-shipments-recover-202610010120",
-      "published": "Thu, 01 Oct 2026 01:20:32 GMT",
-      "ts": 1790817632
     },
     {
       "source": "CoinTelegraph",
