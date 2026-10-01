@@ -1,13 +1,41 @@
 {
-  "updated": "2026-10-01T18:45:46.862635Z",
+  "updated": "2026-10-01T19:11:02.867680Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
+      "link": "https://www.investing.com/news/cryptocurrency-news/lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide-4928141",
+      "published": "2026-10-01 19:00:37",
+      "ts": 1790881237
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Jefferson says economy near maximum employment",
+      "link": "https://www.fxstreet.com/news/feds-jefferson-says-economy-near-maximum-employment-202610011859",
+      "published": "Thu, 01 Oct 2026 18:59:33 GMT",
+      "ts": 1790881173
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dollar Index breaks its June peak as the Euro sinks on dearer Crude Oil",
+      "link": "https://www.fxstreet.com/news/dollar-index-breaks-its-june-peak-as-the-euro-sinks-on-dearer-crude-oil-202610011859",
+      "published": "Thu, 01 Oct 2026 18:59:14 GMT",
+      "ts": 1790881154
+    },
     {
       "source": "CoinDesk",
       "title": "Another Trump memecoin dinner advertised for token's top investors",
       "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
       "published": "Thu, 01 Oct 2026 18:45:29 +0000",
       "ts": 1790880329
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
+      "link": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 18:45:09 +0000",
+      "ts": 1790880309
     },
     {
       "source": "MarketWatch",
@@ -113,20 +141,6 @@
       "link": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 16:12:23 +0000",
       "ts": 1790871143
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen recovers as intervention risk offsets US Dollar strength",
-      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-as-intervention-risk-offsets-us-dollar-strength-202610011609",
-      "published": "Thu, 01 Oct 2026 16:09:22 GMT",
-      "ts": 1790870962
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar weakens as robust US data, rising US yields overshadow RBA rate hike",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-as-robust-us-data-rising-us-yields-overshadow-rba-rate-hike-202610011609",
-      "published": "Thu, 01 Oct 2026 16:09:06 GMT",
-      "ts": 1790870946
     },
     {
       "source": "MarketWatch",
@@ -311,13 +325,6 @@
       "ts": 1790851084
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
-      "link": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 10:30:18 +0000",
-      "ts": 1790850618
-    },
-    {
       "source": "CoinDesk",
       "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
       "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/forex-news/south-african-rand-strengthens-as-investors-review-economic-data-93CH-4925290",
       "published": "2026-09-30 13:29:20",
       "ts": 1790774960
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Solmate names Bitcoin Depot veteran Scott Buchanan as CFO",
-      "link": "https://www.investing.com/news/cryptocurrency-news/solmate-names-bitcoin-depot-veteran-scott-buchanan-as-cfo-432SI-4925282",
-      "published": "2026-09-30 13:22:02",
-      "ts": 1790774522
     },
     {
       "source": "Investing Forex",
