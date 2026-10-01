@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-01T05:32:12.556913Z",
+  "updated": "2026-10-01T05:56:31.222500Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: On verge of 78.6% Fibo breakdown near 0.6950",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-on-verge-of-786-fibo-breakdown-near-06950-202610010555",
+      "published": "Thu, 01 Oct 2026 05:55:12 GMT",
+      "ts": 1790834112
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc reaches fresh 16-month lows ahead of CPI data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-reaches-fresh-16-month-lows-ahead-of-cpi-data-202610010550",
+      "published": "Thu, 01 Oct 2026 05:50:35 GMT",
+      "ts": 1790833835
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee falls as US Treasury Yields hit fresh two-decade high near 5.3%",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-as-us-treasury-yields-hit-fresh-two-decade-high-near-53-202610010543",
+      "published": "Thu, 01 Oct 2026 05:43:56 GMT",
+      "ts": 1790833436
+    },
     {
       "source": "FXStreet",
       "title": "WTI Price Forecast: Bears await acceptance below $88.00, 50% Fibo. support breakdown",
@@ -80,32 +101,11 @@
       "ts": 1790824799
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen drops to weekly low as elevated US bond yields lift USD to two-month high",
-      "link": "https://www.fxstreet.com/news/japanese-yen-drops-to-weekly-low-as-elevated-us-bond-yields-lift-usd-to-two-month-high-202610010256",
-      "published": "Thu, 01 Oct 2026 02:56:03 GMT",
-      "ts": 1790823363
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro weakens below 1.1350 on higher US Treasury yields, Lagarde's dovish tilt",
-      "link": "https://www.fxstreet.com/news/euro-weakens-below-11350-on-higher-us-treasury-yields-lagardes-dovish-tilt-202610010252",
-      "published": "Thu, 01 Oct 2026 02:52:45 GMT",
-      "ts": 1790823165
-    },
-    {
       "source": "MarketWatch",
       "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
       "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 02:35:00 GMT",
       "ts": 1790822100
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed path shaped by firm inflation – Societe Generale",
-      "link": "https://www.fxstreet.com/news/fed-path-shaped-by-firm-inflation-societe-generale-202610010225",
-      "published": "Thu, 01 Oct 2026 02:25:34 GMT",
-      "ts": 1790821534
     },
     {
       "source": "CoinTelegraph",
