@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-01T15:43:39.244386Z",
+  "updated": "2026-10-01T15:58:39.620034Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Crude Oil turns a loss into a rally as Chinese refiners stop exporting fuel",
+      "link": "https://www.fxstreet.com/news/crude-oil-turns-a-loss-into-a-rally-as-chinese-refiners-stop-exporting-fuel-202610011550",
+      "published": "Thu, 01 Oct 2026 15:50:58 GMT",
+      "ts": 1790869858
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound buckles as DXY nears 102 on US jobs, factory strength",
+      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-dxy-nears-102-on-us-jobs-factory-strength-202610011545",
+      "published": "Thu, 01 Oct 2026 15:45:32 GMT",
+      "ts": 1790869532
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+      "link": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 15:43:34 +0000",
+      "ts": 1790869414
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tesla’s delivery report is just around the corner. Expect a sales drop.",
+      "link": "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 15:43:00 GMT",
+      "ts": 1790869380
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner",
+      "link": "https://www.investing.com/news/cryptocurrency-news/21x-group-announces-collaboration-with-circle-as-it-joins-arc-as-a-day1-launch-partner-4927879",
+      "published": "2026-10-01 15:30:37",
+      "ts": 1790868637
+    },
     {
       "source": "MarketWatch",
       "title": "U.S. manufacturers say inflation is bad and not getting any better",
@@ -122,13 +157,6 @@
       "ts": 1790862720
     },
     {
-      "source": "MarketWatch",
-      "title": "Why American investors should care as France’s bond market stumbles",
-      "link": "https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 13:49:00 GMT",
-      "ts": 1790862540
-    },
-    {
       "source": "FXStreet",
       "title": "Federal Reserve: Policy to remain on hold through 2027 – Rabobank",
       "link": "https://www.fxstreet.com/news/federal-reserve-policy-to-remain-on-hold-through-2027-rabobank-202610011342",
@@ -183,20 +211,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-dxy-extends-monthly-gains-uob-202610011247",
       "published": "Thu, 01 Oct 2026 12:47:37 GMT",
       "ts": 1790858857
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Initial Jobless Claims dropped to 197K last week",
-      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-197k-last-week-202610011237",
-      "published": "Thu, 01 Oct 2026 12:37:54 GMT",
-      "ts": 1790858274
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoE's Mann: Can't rely on risk premia to do work of policy, need to raise rates",
-      "link": "https://www.fxstreet.com/news/boes-mann-cant-rely-on-risk-premia-to-do-work-of-policy-need-to-raise-rates-202610011231",
-      "published": "Thu, 01 Oct 2026 12:31:14 GMT",
-      "ts": 1790857874
     },
     {
       "source": "Investing Forex",
@@ -325,13 +339,6 @@
       "ts": 1790838390
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule",
-      "link": "https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 06:05:51 +0000",
-      "ts": 1790834751
-    },
-    {
       "source": "CoinDesk",
       "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
       "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/bca-raises-dollar-target-on-widening-realrate-gap-and-resilient-growth-4924547",
       "published": "2026-09-30 10:12:21",
       "ts": 1790763141
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rises to $83.5k amid a fall in oil prices and a let up in Treasury yields",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
-      "published": "2026-09-29 21:43:40",
-      "ts": 1790718220
     }
   ]
 }
