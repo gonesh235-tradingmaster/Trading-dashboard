@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T06:19:11.584928Z",
+  "updated": "2026-10-01T06:48:24.554375Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar shows resilience ahead of next batch of data",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-shows-resilience-ahead-of-next-batch-of-data-202610010645",
+      "published": "Thu, 01 Oct 2026 06:45:33 GMT",
+      "ts": 1790837133
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen dips further as higher US yields offset hawkish BoJ opinions",
+      "link": "https://www.fxstreet.com/news/japanese-yen-dips-further-as-higher-us-yields-offset-hawkish-boj-opinions-202610010634",
+      "published": "Thu, 01 Oct 2026 06:34:13 GMT",
+      "ts": 1790836453
+    },
     {
       "source": "CoinTelegraph",
       "title": "Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule",
@@ -67,7 +81,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold bulls seem hesitant as resilient US Dollar and yields cap upside",
+      "title": "Gold sticks to modest gains; remains below $4,200 as bullish USD limits upside",
       "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-resilient-us-dollar-and-yields-cap-upside-202610010454",
       "published": "Thu, 01 Oct 2026 04:54:51 GMT",
       "ts": 1790830491
@@ -87,13 +101,6 @@
       "ts": 1790829870
     },
     {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610010431",
-      "published": "Thu, 01 Oct 2026 04:31:02 GMT",
-      "ts": 1790829062
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
       "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
@@ -106,13 +113,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
       "published": "2026-10-01 03:59:56",
       "ts": 1790827196
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index approaches yearly high near 101.80, US ISM PMI in focus",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-high-near-10180-us-ism-pmi-in-focus-202610010324",
-      "published": "Thu, 01 Oct 2026 03:24:04 GMT",
-      "ts": 1790825044
     },
     {
       "source": "MarketWatch",
