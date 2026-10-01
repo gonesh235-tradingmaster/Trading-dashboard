@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T10:42:47.639092Z",
+  "updated": "2026-10-01T10:57:48.284583Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound tests 1.3200 as higher US yields and risk-off markets boost US Dollar",
+      "link": "https://www.fxstreet.com/news/british-pound-tests-13200-as-higher-us-yields-and-risk-off-markets-boost-us-dollar-202610011055",
+      "published": "Thu, 01 Oct 2026 10:55:43 GMT",
+      "ts": 1790852143
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar outperforms risky peers despite weak Trade Balance data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-outperforms-risky-peers-despite-weak-trade-balance-data-202610011053",
+      "published": "Thu, 01 Oct 2026 10:53:59 GMT",
+      "ts": 1790852039
+    },
     {
       "source": "FXStreet",
       "title": "Global Bonds: Selloff deepens with rising term premia – BBH",
@@ -32,7 +46,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Bitcoin holds above $83K as rally on lower US inflation data fades",
+      "title": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
       "link": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 10:30:18 +0000",
       "ts": 1790850618
@@ -108,13 +122,6 @@
       "ts": 1790848632
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Fed repricing and inflation data steer path – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-and-inflation-data-steer-path-deutsche-bank-202610010955",
-      "published": "Thu, 01 Oct 2026 09:55:09 GMT",
-      "ts": 1790848509
-    },
-    {
       "source": "MarketWatch",
       "title": "France’s bond market is stumbling. Should Americans care?",
       "link": "https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories",
@@ -127,13 +134,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
       "published": "2026-10-01 09:36:15",
       "ts": 1790847375
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures decline as markets weigh on rising US yields",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-decline-as-markets-weigh-on-rising-us-yields-202610010935",
-      "published": "Thu, 01 Oct 2026 09:35:03 GMT",
-      "ts": 1790847303
     },
     {
       "source": "MarketWatch",
