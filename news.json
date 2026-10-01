@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-01T20:10:56.708956Z",
+  "updated": "2026-10-01T20:31:43.458953Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
+      "link": "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 20:28:00 GMT",
+      "ts": 1790886480
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC maps out crypto custody in new proposal that furthers its digital assets agenda",
+      "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+      "published": "Thu, 01 Oct 2026 20:20:04 +0000",
+      "ts": 1790886004
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The Treasury Department started Trump accounts for 60 million kids — but families still have to take this step if they want one",
+      "link": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 20:14:00 GMT",
+      "ts": 1790885640
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 20:07:25 +0000",
+      "ts": 1790885245
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin hits MFI 100 overbought at $84,789: Live levels",
@@ -192,24 +220,10 @@
       "ts": 1790868637
     },
     {
-      "source": "MarketWatch",
-      "title": "U.S. manufacturers say inflation is bad and not getting any better",
-      "link": "https://www.marketwatch.com/story/u-s-manufacturers-say-inflation-is-bad-and-not-getting-any-better-8281edef?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 15:19:00 GMT",
-      "ts": 1790867940
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
       "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
       "published": "Thu, 01 Oct 2026 15:00:00 +0000",
-      "ts": 1790866800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 15:00:00 GMT",
       "ts": 1790866800
     },
     {
@@ -260,13 +274,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
       "published": "2026-10-01 13:29:52",
       "ts": 1790861392
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 13:08:56 +0000",
-      "ts": 1790860136
     },
     {
       "source": "Investing Forex",
@@ -351,13 +358,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-global-bond-rout-lifts-dollar-gilt-yields-hit-6-4926602",
       "published": "2026-10-01 08:58:09",
       "ts": 1790845089
-    },
-    {
-      "source": "CoinDesk",
-      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
-      "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-      "published": "Thu, 01 Oct 2026 07:06:30 +0000",
-      "ts": 1790838390
     },
     {
       "source": "Investing Crypto",
