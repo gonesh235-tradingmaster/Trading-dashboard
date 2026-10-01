@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-01T21:10:18.213842Z",
+  "updated": "2026-10-01T21:28:28.402295Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Nike’s troubles are mounting, and sales could fall further",
+      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 21:09:00 GMT",
+      "ts": 1790888940
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. dollar hits highest since April 2025 while euro slides after French budget",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
+      "published": "2026-10-01 21:08:36",
+      "ts": 1790888916
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+      "link": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 21:07:45 +0000",
+      "ts": 1790888865
+    },
     {
       "source": "FXStreet",
       "title": "Gold defies US Dollar surge as US yield slide revives Bullion demand",
@@ -192,13 +213,6 @@
       "ts": 1790873460
     },
     {
-      "source": "MarketWatch",
-      "title": "Mark Zuckerberg is coming for Apple’s empire",
-      "link": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 16:47:00 GMT",
-      "ts": 1790873220
-    },
-    {
       "source": "CoinTelegraph",
       "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
       "link": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -276,13 +290,6 @@
       "ts": 1790861400
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Stablecoins can drain from banks and nations at lightning speed",
-      "link": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 13:30:00 +0000",
-      "ts": 1790861400
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin starts Q4 on dour note as stubborn yields weigh",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
@@ -344,13 +351,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
       "published": "Thu, 01 Oct 2026 09:59:30 +0000",
       "ts": 1790848770
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar holds as elevated U.S. yields overshadow cooling inflation data",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
-      "published": "2026-10-01 09:36:15",
-      "ts": 1790847375
     },
     {
       "source": "Investing Forex",
