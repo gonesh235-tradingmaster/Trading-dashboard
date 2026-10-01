@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-01T18:17:17.012068Z",
+  "updated": "2026-10-01T18:45:46.862635Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Another Trump memecoin dinner advertised for token's top investors",
+      "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+      "published": "Thu, 01 Oct 2026 18:45:29 +0000",
+      "ts": 1790880329
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Financial stocks are falling below a key chart level to warn the worst is yet to come",
+      "link": "https://www.marketwatch.com/story/financial-stocks-are-falling-below-a-key-chart-level-to-warn-the-worst-is-yet-to-come-86e43092?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 18:38:00 GMT",
+      "ts": 1790879880
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: DXY reaches fresh yearly high, but RSI turns overbought",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-reaches-fresh-yearly-high-but-rsi-turns-overbought-202610011817",
+      "published": "Thu, 01 Oct 2026 18:17:58 GMT",
+      "ts": 1790878678
+    },
     {
       "source": "MarketWatch",
       "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
@@ -11,7 +32,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Fed’s Kashkari keeps October open, still sees more hikes ahead",
+      "title": "Fed’s Kashkari keeps October meeting open, still sees more hikes ahead",
       "link": "https://www.fxstreet.com/news/feds-kashkari-keeps-october-open-still-sees-more-hikes-ahead-202610011802",
       "published": "Thu, 01 Oct 2026 18:02:04 GMT",
       "ts": 1790877724
@@ -123,17 +144,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Crude Oil turns a loss into a rally as Chinese refiners stop exporting fuel",
+      "title": "Crude Oil extends its rally as the Pentagon adds another carrier group",
       "link": "https://www.fxstreet.com/news/crude-oil-turns-a-loss-into-a-rally-as-chinese-refiners-stop-exporting-fuel-202610011550",
       "published": "Thu, 01 Oct 2026 15:50:58 GMT",
       "ts": 1790869858
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound buckles as DXY nears 102 on US jobs, factory strength",
-      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-dxy-nears-102-on-us-jobs-factory-strength-202610011545",
-      "published": "Thu, 01 Oct 2026 15:45:32 GMT",
-      "ts": 1790869532
     },
     {
       "source": "CoinTelegraph",
@@ -183,13 +197,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/citi-updates-btc-eth-forecasts-here-are-the-new-2027-targets-4927801",
       "published": "2026-10-01 14:44:06",
       "ts": 1790865846
-    },
-    {
-      "source": "MarketWatch",
-      "title": "September jobs report may show labor market is on the mend — but it’s far from cured",
-      "link": "https://www.marketwatch.com/story/september-jobs-report-may-show-labor-market-is-on-the-mend-but-its-far-from-cured-ebac2472?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 14:43:00 GMT",
-      "ts": 1790865780
     },
     {
       "source": "Investing Crypto",
@@ -344,13 +351,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
       "published": "Thu, 01 Oct 2026 07:06:30 +0000",
       "ts": 1790838390
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
-      "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
-      "published": "Thu, 01 Oct 2026 04:58:52 +0000",
-      "ts": 1790830732
     },
     {
       "source": "Investing Crypto",
