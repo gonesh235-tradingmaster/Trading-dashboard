@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-01T14:59:21.634075Z",
+  "updated": "2026-10-01T15:21:05.537083Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "U.S. manufacturers say inflation is bad and not getting any better",
+      "link": "https://www.marketwatch.com/story/u-s-manufacturers-say-inflation-is-bad-and-not-getting-any-better-8281edef?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 15:19:00 GMT",
+      "ts": 1790867940
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro hits fresh yearly low as strong US data keeps Fed tightening in play",
+      "link": "https://www.fxstreet.com/news/euro-hits-fresh-yearly-low-as-strong-us-data-keeps-fed-tightening-in-play-202610011508",
+      "published": "Thu, 01 Oct 2026 15:08:42 GMT",
+      "ts": 1790867322
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
+      "published": "Thu, 01 Oct 2026 15:00:00 +0000",
+      "ts": 1790866800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 15:00:00 GMT",
+      "ts": 1790866800
+    },
     {
       "source": "Investing Crypto",
       "title": "Citi updates BTC, ETH forecasts. Here are the new 2027 targets",
@@ -101,20 +129,6 @@
       "ts": 1790862540
     },
     {
-      "source": "MarketWatch",
-      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
-      "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 13:48:00 GMT",
-      "ts": 1790862480
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
-      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 13:45:00 GMT",
-      "ts": 1790862300
-    },
-    {
       "source": "FXStreet",
       "title": "Federal Reserve: Policy to remain on hold through 2027 – Rabobank",
       "link": "https://www.fxstreet.com/news/federal-reserve-policy-to-remain-on-hold-through-2027-rabobank-202610011342",
@@ -183,13 +197,6 @@
       "link": "https://www.fxstreet.com/news/boes-mann-cant-rely-on-risk-premia-to-do-work-of-policy-need-to-raise-rates-202610011231",
       "published": "Thu, 01 Oct 2026 12:31:14 GMT",
       "ts": 1790857874
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound holds firm against Euro on stronger growth, hawkish policy signals",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-firm-against-euro-on-stronger-growth-hawkish-policy-signals-202610011222",
-      "published": "Thu, 01 Oct 2026 12:22:23 GMT",
-      "ts": 1790857343
     },
     {
       "source": "Investing Forex",
@@ -330,13 +337,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
       "published": "Thu, 01 Oct 2026 04:58:52 +0000",
       "ts": 1790830732
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-      "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
-      "published": "Thu, 01 Oct 2026 04:15:20 +0000",
-      "ts": 1790828120
     },
     {
       "source": "Investing Crypto",
