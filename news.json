@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-01T23:25:16.900567Z",
+  "updated": "2026-10-01T23:40:37.918045Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Breaking: Japan’s Tokyo CPI inflation climbs 2.7% in September",
+      "link": "https://www.fxstreet.com/news/27-japans-tokyo-cpi-inflation-climbs-in-september-202610012332",
+      "published": "Thu, 01 Oct 2026 23:32:22 GMT",
+      "ts": 1790897542
+    },
     {
       "source": "MarketWatch",
       "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
@@ -197,13 +204,6 @@
       "link": "https://www.marketwatch.com/story/financial-stocks-are-falling-below-a-key-chart-level-to-warn-the-worst-is-yet-to-come-86e43092?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 18:38:00 GMT",
       "ts": 1790879880
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: DXY reaches fresh yearly high, but RSI turns overbought",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-reaches-fresh-yearly-high-but-rsi-turns-overbought-202610011817",
-      "published": "Thu, 01 Oct 2026 18:17:58 GMT",
-      "ts": 1790878678
     },
     {
       "source": "MarketWatch",
