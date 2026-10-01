@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-01T22:09:28.702887Z",
+  "updated": "2026-10-01T22:26:20.431392Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The British Pound slides again as UK government bonds sell off",
+      "link": "https://www.fxstreet.com/news/the-british-pound-slides-again-as-uk-government-bonds-sell-off-202610012226",
+      "published": "Thu, 01 Oct 2026 22:26:03 GMT",
+      "ts": 1790893563
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin reverses course, inches up to kick off Q4 as U.S. Treasury bonds rally",
@@ -211,13 +218,6 @@
       "link": "https://www.fxstreet.com/news/mexican-peso-rout-deepens-as-usd-mxn-blasts-through-1830-202610011707",
       "published": "Thu, 01 Oct 2026 17:07:53 GMT",
       "ts": 1790874473
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: US NFP takes centre stage",
-      "link": "https://www.fxstreet.com/news/forex-today-us-nfp-takes-centre-stage-202610011704",
-      "published": "Thu, 01 Oct 2026 17:04:39 GMT",
-      "ts": 1790874279
     },
     {
       "source": "CoinTelegraph",
