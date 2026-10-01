@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-01T09:15:49.123743Z",
+  "updated": "2026-10-01T09:43:55.689095Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "France’s bond market is stumbling. Should Americans care?",
+      "link": "https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 09:39:00 GMT",
+      "ts": 1790847540
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures decline as markets weigh on rising US yields",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-decline-as-markets-weigh-on-rising-us-yields-202610010935",
+      "published": "Thu, 01 Oct 2026 09:35:03 GMT",
+      "ts": 1790847303
+    },
+    {
+      "source": "FXStreet",
+      "title": "Central banks: Political economy pressures build – Rabobank",
+      "link": "https://www.fxstreet.com/news/central-banks-political-economy-pressures-build-rabobank-202610010933",
+      "published": "Thu, 01 Oct 2026 09:33:36 GMT",
+      "ts": 1790847216
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver broadly unchanged, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-broadly-unchanged-according-to-fxstreet-data-202610010931",
+      "published": "Thu, 01 Oct 2026 09:31:57 GMT",
+      "ts": 1790847117
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Fed-backed strength holds near yearly highs – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-backed-strength-holds-near-yearly-highs-ing-202610010928",
+      "published": "Thu, 01 Oct 2026 09:28:50 GMT",
+      "ts": 1790846930
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: USD/JPY rises as October BoJ hike bets fade – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-usd-jpy-rises-as-october-boj-hike-bets-fade-mufg-202610010926",
+      "published": "Thu, 01 Oct 2026 09:26:22 GMT",
+      "ts": 1790846782
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Retail investors are aggressively piling into this bold contrarian bet through one ETF.",
+      "link": "https://www.marketwatch.com/story/retail-investors-are-aggressively-piling-into-this-bold-contrarian-bet-through-one-etf-da26f208?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 09:23:00 GMT",
+      "ts": 1790846580
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 09:15:00 GMT",
+      "ts": 1790846100
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
+      "link": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 09:09:46 +0000",
+      "ts": 1790845786
+    },
     {
       "source": "MarketWatch",
       "title": "Angelina Jolie sells L.A. mansion with illustrious Hollywood history for $24.75 million",
@@ -36,41 +99,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-seems-vulnerable-near-60-amid-soaring-us-treasury-yields-202610010847",
       "published": "Thu, 01 Oct 2026 08:47:45 GMT",
       "ts": 1790844465
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Treasury Yields hit 24-year highs amid energy-driven inflation concerns",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-hit-24-year-highs-amid-energy-driven-inflation-concerns-202610010841",
-      "published": "Thu, 01 Oct 2026 08:41:49 GMT",
-      "ts": 1790844109
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Potential EU re-engagement supports Sterling – ING",
-      "link": "https://www.fxstreet.com/news/british-pound-potential-eu-re-engagement-supports-sterling-ing-202610010839",
-      "published": "Thu, 01 Oct 2026 08:39:45 GMT",
-      "ts": 1790843985
-    },
-    {
-      "source": "FXStreet",
-      "title": "Bank of Japan cautious on further hikes – Rabobank",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-cautious-on-further-hikes-rabobank-202610010833",
-      "published": "Thu, 01 Oct 2026 08:33:51 GMT",
-      "ts": 1790843631
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brent Oil: Conflict-driven surge shapes bond stress – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/brent-oil-conflict-driven-surge-shapes-bond-stress-deutsche-bank-202610010831",
-      "published": "Thu, 01 Oct 2026 08:31:27 GMT",
-      "ts": 1790843487
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso: Weakness and USMCA risk repricing – Commerzbank",
-      "link": "https://www.fxstreet.com/news/mexican-peso-weakness-and-usmca-risk-repricing-commerzbank-202610010830",
-      "published": "Thu, 01 Oct 2026 08:30:12 GMT",
-      "ts": 1790843412
     },
     {
       "source": "Investing Forex",
@@ -234,13 +262,6 @@
       "ts": 1790803320
     },
     {
-      "source": "MarketWatch",
-      "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
-      "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 21:16:00 GMT",
-      "ts": 1790802960
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. dollar sees best month since June on hawkish Fed, U.S. Treasury bond rout",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
@@ -248,25 +269,11 @@
       "ts": 1790802287
     },
     {
-      "source": "MarketWatch",
-      "title": "How the ‘AI put’ has become the only thing that matters for stocks",
-      "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 20:59:00 GMT",
-      "ts": 1790801940
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
       "link": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 20:57:32 +0000",
       "ts": 1790801852
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A brutal September for bonds points to an even darker October",
-      "link": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 20:56:00 GMT",
-      "ts": 1790801760
     },
     {
       "source": "CoinTelegraph",
@@ -281,13 +288,6 @@
       "link": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 19:00:00 +0000",
       "ts": 1790794800
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bloomberg brings onchain stablecoin data to its Terminal",
-      "link": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 18:49:06 +0000",
-      "ts": 1790794146
     },
     {
       "source": "CoinDesk",
