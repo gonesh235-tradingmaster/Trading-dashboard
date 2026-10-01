@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-01T00:15:52.620607Z",
+  "updated": "2026-10-01T00:49:06.950955Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 00:45:00 GMT",
+      "ts": 1790815500
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Secretary Rubio orders Iranian delegation to leave the country",
+      "link": "https://www.fxstreet.com/news/us-secretary-rubio-orders-iranian-delegation-to-leave-the-country-202610010035",
+      "published": "Thu, 01 Oct 2026 00:35:43 GMT",
+      "ts": 1790814943
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 00:20:00 GMT",
+      "ts": 1790814000
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "MetaMask exits Ethereum validators as it investigates security incident",
+      "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 00:15:55 +0000",
+      "ts": 1790813755
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "OKX and BitGo expand off-exchange settlement to global institutions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/okx-and-bitgo-expand-offexchange-settlement-to-global-institutions-432SI-4926120",
+      "published": "2026-10-01 00:14:02",
+      "ts": 1790813642
+    },
     {
       "source": "MarketWatch",
       "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
@@ -80,13 +115,6 @@
       "ts": 1790808020
     },
     {
-      "source": "FXStreet",
-      "title": "Fed’s Kashkari questions policy tightness as economy stays strong",
-      "link": "https://www.fxstreet.com/news/feds-kashkari-questions-policy-tightness-as-economy-stays-strong-202609302210",
-      "published": "Wed, 30 Sep 2026 22:10:04 GMT",
-      "ts": 1790806204
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin muted at $83.7k, but set for best quarterly performance since Q4 2024",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
@@ -157,13 +185,6 @@
       "ts": 1790797033
     },
     {
-      "source": "MarketWatch",
-      "title": "Billionaires like Ken Griffin are doling out tons of money to prove that a college degree still matters",
-      "link": "https://www.marketwatch.com/story/billionaires-like-ken-griffin-are-doling-out-tons-of-money-to-prove-that-a-college-degree-still-matters-63e50332?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 19:21:00 GMT",
-      "ts": 1790796060
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin squeezed between $83,600-$85,650: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
@@ -182,13 +203,6 @@
       "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
       "link": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 19:00:00 +0000",
-      "ts": 1790794800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My friend’s pet-sitting business grosses $300,000 a year, but she pays herself $50,000. Should I start one too?",
-      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 19:00:00 GMT",
       "ts": 1790794800
     },
     {
@@ -304,13 +318,6 @@
       "ts": 1790772252
     },
     {
-      "source": "CoinTelegraph",
-      "title": "FCA opens crypto authorization window ahead of 2027 UK regime",
-      "link": "https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 12:06:04 +0000",
-      "ts": 1790769964
-    },
-    {
       "source": "Investing Forex",
       "title": "Deutsche Bank sees euro holding range despite dollar strength",
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-euro-holding-range-despite-dollar-strength-93CH-4924929",
@@ -412,13 +419,6 @@
       "source": "Investing Crypto",
       "title": "Beldex Launches $1 Million Grants Program for Privacy Innovation",
       "link": "https://www.investing.com/news/cryptocurrency-news/beldex-launches-1-million-grants-program-for-privacy-innovation-4921886",
-      "published": "2026-09-29 09:30:36",
-      "ts": 1790674236
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bybit Completes SOC 2 Type II Audit, Strengthening Security and Compliance Assurance",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bybit-completes-soc-2-type-ii-audit-strengthening-security-and-compliance-assurance-4921887",
       "published": "2026-09-29 09:30:36",
       "ts": 1790674236
     }
