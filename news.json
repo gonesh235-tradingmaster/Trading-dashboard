@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-01T02:28:37.700923Z",
+  "updated": "2026-10-01T02:47:02.856892Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
+      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 02:35:00 GMT",
+      "ts": 1790822100
+    },
     {
       "source": "FXStreet",
       "title": "Fed path shaped by firm inflation – Societe Generale",
@@ -176,13 +183,6 @@
       "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 20:32:00 GMT",
       "ts": 1790800320
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
-      "link": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 19:42:00 GMT",
-      "ts": 1790797320
     },
     {
       "source": "CoinTelegraph",
