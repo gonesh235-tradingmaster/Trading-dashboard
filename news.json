@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T04:14:17.733532Z",
+  "updated": "2026-10-01T04:34:03.940080Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610010431",
+      "published": "Thu, 01 Oct 2026 04:31:02 GMT",
+      "ts": 1790829062
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+      "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+      "published": "Thu, 01 Oct 2026 04:15:20 +0000",
+      "ts": 1790828120
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar holds highs, yen slips on BOJ signals",
@@ -78,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-declines-below-06959-as-trade-surplus-shrinks-sharply-202610010157",
       "published": "Thu, 01 Oct 2026 01:57:24 GMT",
       "ts": 1790819844
-    },
-    {
-      "source": "FXStreet",
-      "title": "Reserve Bank of Australia: Households, businesses can weather slower economy, falling house prices",
-      "link": "https://www.fxstreet.com/news/reserve-bank-of-australia-households-businesses-can-weather-slower-economy-falling-house-prices-202610010141",
-      "published": "Thu, 01 Oct 2026 01:41:16 GMT",
-      "ts": 1790818876
     },
     {
       "source": "CoinTelegraph",
@@ -351,13 +358,6 @@
       "link": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
       "published": "Wed, 30 Sep 2026 11:00:00 +0000",
       "ts": 1790766000
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-      "link": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
-      "published": "Wed, 30 Sep 2026 10:43:43 +0000",
-      "ts": 1790765023
     },
     {
       "source": "Investing Forex",
