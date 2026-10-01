@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-01T01:46:46.278224Z",
+  "updated": "2026-10-01T02:10:48.837146Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar declines below 0.6959 as Trade Surplus shrinks sharply",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-below-06959-as-trade-surplus-shrinks-sharply-202610010157",
+      "published": "Thu, 01 Oct 2026 01:57:24 GMT",
+      "ts": 1790819844
+    },
     {
       "source": "FXStreet",
       "title": "Reserve Bank of Australia: Households, businesses can weather slower economy, falling house prices",
@@ -106,13 +113,6 @@
       "link": "https://www.fxstreet.com/news/japans-tankan-large-manufacturing-index-rises-to-24-in-q3-vs-25-expected-202609302353",
       "published": "Wed, 30 Sep 2026 23:53:46 GMT",
       "ts": 1790812426
-    },
-    {
-      "source": "FXStreet",
-      "title": "The New Zealand Dollar edges lower as US yields outweigh China's beats",
-      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-edges-lower-as-us-yields-outweigh-chinas-beats-202609302345",
-      "published": "Wed, 30 Sep 2026 23:45:00 GMT",
-      "ts": 1790811900
     },
     {
       "source": "MarketWatch",
