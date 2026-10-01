@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-01T03:56:30.683943Z",
+  "updated": "2026-10-01T04:14:17.733532Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds highs, yen slips on BOJ signals",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
+      "published": "2026-10-01 03:59:56",
+      "ts": 1790827196
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index approaches yearly high near 101.80, US ISM PMI in focus",
@@ -386,13 +393,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
       "published": "2026-09-29 21:01:50",
       "ts": 1790715710
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Mexico’s peso erases 2026 gains amid profit-taking",
-      "link": "https://www.investing.com/news/forex-news/mexicos-peso-erases-2026-gains-amid-profittaking-93CH-4923553",
-      "published": "2026-09-29 20:44:04",
-      "ts": 1790714644
     },
     {
       "source": "Investing Crypto",
