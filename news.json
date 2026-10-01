@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T16:56:52.988503Z",
+  "updated": "2026-10-01T17:14:44.919426Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso rout deepens as USD/MXN blasts through 18.30",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rout-deepens-as-usd-mxn-blasts-through-1830-202610011707",
+      "published": "Thu, 01 Oct 2026 17:07:53 GMT",
+      "ts": 1790874473
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US NFP takes centre stage",
+      "link": "https://www.fxstreet.com/news/forex-today-us-nfp-takes-centre-stage-202610011704",
+      "published": "Thu, 01 Oct 2026 17:04:39 GMT",
+      "ts": 1790874279
+    },
     {
       "source": "MarketWatch",
       "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here’s how it worked out.",
@@ -176,20 +190,6 @@
       "link": "https://www.fxstreet.com/news/us-ism-manufacturing-pmi-fell-to-545-in-september-202610011406",
       "published": "Thu, 01 Oct 2026 14:06:10 GMT",
       "ts": 1790863570
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc steadies as stronger inflation offsets broad US Dollar demand",
-      "link": "https://www.fxstreet.com/news/swiss-franc-steadies-as-stronger-inflation-offsets-broad-us-dollar-demand-202610011354",
-      "published": "Thu, 01 Oct 2026 13:54:54 GMT",
-      "ts": 1790862894
-    },
-    {
-      "source": "FXStreet",
-      "title": "Federal Reserve: Policy to remain on hold through 2027 – Rabobank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-policy-to-remain-on-hold-through-2027-rabobank-202610011342",
-      "published": "Thu, 01 Oct 2026 13:42:19 GMT",
-      "ts": 1790862139
     },
     {
       "source": "CoinTelegraph",
