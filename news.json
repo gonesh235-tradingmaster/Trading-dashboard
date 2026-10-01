@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-01T01:11:57.043581Z",
+  "updated": "2026-10-01T01:29:48.167182Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar seems vulnerable near two-month low as USD maintains bullish undertone",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-two-month-low-as-usd-maintains-bullish-undertone-202610010128",
+      "published": "Thu, 01 Oct 2026 01:28:09 GMT",
+      "ts": 1790818089
+    },
+    {
+      "source": "FXStreet",
+      "title": "US President Donald Trump announces $200 billion South Korean investment in US nuclear",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-announces-200-billion-south-korean-investment-in-us-nuclear-202610010127",
+      "published": "Thu, 01 Oct 2026 01:27:31 GMT",
+      "ts": 1790818051
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI falls to near $89.00 as Middle East oil shipments recover",
+      "link": "https://www.fxstreet.com/news/wti-falls-to-near-8900-as-middle-east-oil-shipments-recover-202610010120",
+      "published": "Thu, 01 Oct 2026 01:20:32 GMT",
+      "ts": 1790817632
+    },
     {
       "source": "CoinTelegraph",
       "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
@@ -32,7 +53,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "MetaMask exits Ethereum validators as it investigates security incident",
+      "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
       "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 00:15:55 +0000",
       "ts": 1790813755
@@ -94,32 +115,11 @@
       "ts": 1790811058
     },
     {
-      "source": "FXStreet",
-      "title": "The British Pound rallies on a UK growth upgrade and gives more than half back",
-      "link": "https://www.fxstreet.com/news/the-british-pound-rallies-on-a-uk-growth-upgrade-and-gives-more-than-half-back-202609302328",
-      "published": "Wed, 30 Sep 2026 23:28:33 GMT",
-      "ts": 1790810913
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average fades a soft-inflation bounce as yields climb",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-fades-a-soft-inflation-bounce-as-yields-climb-202609302328",
-      "published": "Wed, 30 Sep 2026 23:28:11 GMT",
-      "ts": 1790810891
-    },
-    {
       "source": "MarketWatch",
       "title": "Google shows it’s not out of the AI race just yet",
       "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 22:51:00 GMT",
       "ts": 1790808660
-    },
-    {
-      "source": "FXStreet",
-      "title": "Aussie Dollar slips below 0.70 as Bullock dovishness trumps soft PCE",
-      "link": "https://www.fxstreet.com/news/aussie-dollar-slips-below-070-as-bullock-dovishness-trumps-soft-pce-202609302240",
-      "published": "Wed, 30 Sep 2026 22:40:20 GMT",
-      "ts": 1790808020
     },
     {
       "source": "Investing Crypto",
