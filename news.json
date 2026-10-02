@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-02T01:56:50.524873Z",
+  "updated": "2026-10-02T02:13:52.598694Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD slips below $60.50 amid rising inflation concerns",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-6050-amid-rising-inflation-concerns-202610020204",
+      "published": "Fri, 02 Oct 2026 02:04:32 GMT",
+      "ts": 1790906672
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
+      "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 02:02:13 +0000",
+      "ts": 1790906533
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index sits near March 2025 highs, above 102.00 ahead of US NFP",
@@ -113,13 +127,6 @@
       "link": "https://www.fxstreet.com/news/feds-logan-policy-rate-must-increase-by-additional-50-bps-or-more-202610012340",
       "published": "Thu, 01 Oct 2026 23:40:23 GMT",
       "ts": 1790898023
-    },
-    {
-      "source": "FXStreet",
-      "title": "Breaking: Japan’s Tokyo CPI inflation climbs 2.7% in September",
-      "link": "https://www.fxstreet.com/news/27-japans-tokyo-cpi-inflation-climbs-in-september-202610012332",
-      "published": "Thu, 01 Oct 2026 23:32:22 GMT",
-      "ts": 1790897542
     },
     {
       "source": "CoinTelegraph",
@@ -260,13 +267,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 15:55:19 +0000",
       "ts": 1790870119
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
-      "link": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 15:43:34 +0000",
-      "ts": 1790869414
     },
     {
       "source": "Investing Crypto",
