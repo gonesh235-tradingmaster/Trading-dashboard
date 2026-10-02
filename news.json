@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-02T18:13:45.304836Z",
+  "updated": "2026-10-02T18:36:44.223916Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
+      "link": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 18:24:05 +0000",
+      "ts": 1790965445
+    },
     {
       "source": "FXStreet",
       "title": "Gold fails at $4,200 despite NFP miss as US yields climb",
@@ -309,13 +316,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
       "published": "Fri, 02 Oct 2026 10:31:16 +0000",
       "ts": 1790937076
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain",
-      "link": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 10:29:35 +0000",
-      "ts": 1790936975
     },
     {
       "source": "Investing Forex",
