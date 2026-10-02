@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-02T00:41:12.235162Z",
+  "updated": "2026-10-02T00:58:51.701188Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US may send third aircraft carrier and 10,000 troops to Middle East",
+      "link": "https://www.fxstreet.com/news/us-may-send-third-aircraft-carrier-and-10-000-troops-to-middle-east-202610020042",
+      "published": "Fri, 02 Oct 2026 00:42:33 GMT",
+      "ts": 1790901753
+    },
     {
       "source": "MarketWatch",
       "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
@@ -106,13 +113,6 @@
       "link": "https://www.fxstreet.com/news/the-euro-sells-off-hard-as-the-french-german-bond-gap-widens-202610012232",
       "published": "Thu, 01 Oct 2026 22:32:00 GMT",
       "ts": 1790893920
-    },
-    {
-      "source": "FXStreet",
-      "title": "The British Pound slides again as UK government bonds sell off",
-      "link": "https://www.fxstreet.com/news/the-british-pound-slides-again-as-uk-government-bonds-sell-off-202610012226",
-      "published": "Thu, 01 Oct 2026 22:26:03 GMT",
-      "ts": 1790893563
     },
     {
       "source": "Investing Crypto",
