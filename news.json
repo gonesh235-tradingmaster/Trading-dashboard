@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-02T00:58:51.701188Z",
+  "updated": "2026-10-02T01:18:41.555896Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound struggles near June 26 lows as USD retains bullish tone ahead of US NFP",
+      "link": "https://www.fxstreet.com/news/british-pound-struggles-near-june-26-lows-as-usd-retains-bullish-tone-ahead-of-us-nfp-202610020110",
+      "published": "Fri, 02 Oct 2026 01:10:31 GMT",
+      "ts": 1790903431
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "SEC moves to clear custody hurdle for advisers offering crypto",
+      "link": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 01:07:08 +0000",
+      "ts": 1790903228
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 01:00:00 GMT",
+      "ts": 1790902800
+    },
     {
       "source": "FXStreet",
       "title": "US may send third aircraft carrier and 10,000 troops to Middle East",
@@ -108,13 +129,6 @@
       "ts": 1790895008
     },
     {
-      "source": "FXStreet",
-      "title": "The Euro sells off hard as the French-German bond gap widens",
-      "link": "https://www.fxstreet.com/news/the-euro-sells-off-hard-as-the-french-german-bond-gap-widens-202610012232",
-      "published": "Thu, 01 Oct 2026 22:32:00 GMT",
-      "ts": 1790893920
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin reverses course, inches up to kick off Q4 as U.S. Treasury bonds rally",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
@@ -183,13 +197,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
       "published": "Thu, 01 Oct 2026 20:20:04 +0000",
       "ts": 1790886004
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The Treasury Department started Trump accounts for 60 million kids — but families still have to take this step if they want one",
-      "link": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 20:14:00 GMT",
-      "ts": 1790885640
     },
     {
       "source": "CoinTelegraph",
@@ -295,13 +302,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
       "published": "Thu, 01 Oct 2026 14:18:14 +0000",
       "ts": 1790864294
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
-      "link": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 13:35:47 +0000",
-      "ts": 1790861747
     },
     {
       "source": "Investing Forex",
