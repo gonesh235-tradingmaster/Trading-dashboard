@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-02T06:13:17.007257Z",
+  "updated": "2026-10-02T06:38:10.430802Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro holds losses against British Pound amid French debt woes, high Oil Prices",
+      "link": "https://www.fxstreet.com/news/euro-holds-losses-against-british-pound-amid-french-debt-woes-high-oil-prices-202610020634",
+      "published": "Fri, 02 Oct 2026 06:34:57 GMT",
+      "ts": 1790922897
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar Index Price Forecast: Hawkish Fed pricing backs more upside above 102.20",
@@ -92,13 +99,6 @@
       "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-weakens-below-10950-as-bearish-tone-persists-below-100-day-sma-202610020450",
       "published": "Fri, 02 Oct 2026 04:50:27 GMT",
       "ts": 1790916627
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Next move hinges on US NFP data",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-next-move-hinges-on-us-nfp-data-202610020448",
-      "published": "Fri, 02 Oct 2026 04:48:16 GMT",
-      "ts": 1790916496
     },
     {
       "source": "CoinTelegraph",
