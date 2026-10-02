@@ -1,13 +1,55 @@
 {
-  "updated": "2026-10-02T13:20:29.364952Z",
+  "updated": "2026-10-02T13:43:56.765399Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
+      "link": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 13:30:00 +0000",
+      "ts": 1790947800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
+      "link": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 13:30:00 GMT",
+      "ts": 1790947800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 13:30:00 GMT",
+      "ts": 1790947800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tesla’s EV sales beat Wall Street’s expectations again, and the stock jumps",
+      "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 13:30:00 GMT",
+      "ts": 1790947800
+    },
+    {
+      "source": "CoinDesk",
+      "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
+      "link": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
+      "published": "Fri, 02 Oct 2026 13:22:19 +0000",
+      "ts": 1790947339
+    },
     {
       "source": "FXStreet",
       "title": "Euro rebounds above 1.1250 after weak US jobs data weighs on US Dollar",
       "link": "https://www.fxstreet.com/news/euro-rebounds-above-11250-after-weak-us-jobs-data-weighs-on-us-dollar-202610021318",
       "published": "Fri, 02 Oct 2026 13:18:34 GMT",
       "ts": 1790947114
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges up as soft U.S. payrolls cap dollar rally",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-dollar-holds-gains-before-us-payrolls-4929238",
+      "published": "2026-10-02 13:07:53",
+      "ts": 1790946473
     },
     {
       "source": "FXStreet",
@@ -57,13 +99,6 @@
       "link": "https://www.investing.com/news/forex-news/french-debt-set-for-5th-weekly-rise-at-2002-peaks-bunds-at-over-1week-lows-4929025",
       "published": "2026-10-02 12:44:26",
       "ts": 1790945066
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
-      "link": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 12:36:00 GMT",
-      "ts": 1790944560
     },
     {
       "source": "CoinDesk",
@@ -171,13 +206,6 @@
       "ts": 1790939244
     },
     {
-      "source": "MarketWatch",
-      "title": "TV dinner overload? The frozen-food aisle may be too crowded for its own good.",
-      "link": "https://www.marketwatch.com/story/tv-dinner-overload-the-frozen-food-aisle-may-be-too-crowded-for-its-own-good-55bfed39?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 11:00:00 GMT",
-      "ts": 1790938800
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
       "link": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -199,13 +227,6 @@
       "ts": 1790936975
     },
     {
-      "source": "MarketWatch",
-      "title": "Here’s the bond-market alternative as U.S. and other developed markets debt deteriorate",
-      "link": "https://www.marketwatch.com/story/heres-the-bond-market-alternative-as-u-s-and-other-developed-markets-debt-deteriorate-e3d57b02?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 10:25:00 GMT",
-      "ts": 1790936700
-    },
-    {
       "source": "FXStreet",
       "title": "France: Budget strains weigh on outlook – BBH",
       "link": "https://www.fxstreet.com/news/france-budget-strains-weigh-on-outlook-bbh-202610021017",
@@ -225,13 +246,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-euro-downside-risk-to-10850-on-peripheral-widening-93CH-4929312",
       "published": "2026-10-02 09:55:07",
       "ts": 1790934907
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges higher as dollar holds gains before U.S. payrolls",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-dollar-holds-gains-before-us-payrolls-4929238",
-      "published": "2026-10-02 09:50:15",
-      "ts": 1790934615
     },
     {
       "source": "CoinTelegraph",
@@ -297,13 +311,6 @@
       "ts": 1790925087
     },
     {
-      "source": "CoinTelegraph",
-      "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
-      "link": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 05:53:27 +0000",
-      "ts": 1790920407
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin rises to $86.5k with ‘uptober’ hopes, nonfarm payrolls in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
@@ -365,13 +372,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/21x-group-announces-collaboration-with-circle-as-it-joins-arc-as-a-day1-launch-partner-4927879",
       "published": "2026-10-01 15:30:37",
       "ts": 1790868637
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-      "published": "Thu, 01 Oct 2026 15:00:00 +0000",
-      "ts": 1790866800
     },
     {
       "source": "Investing Crypto",
