@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-02T17:12:24.394763Z",
+  "updated": "2026-10-02T17:31:26.663745Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
+      "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
+      "published": "Fri, 02 Oct 2026 17:15:35 +0000",
+      "ts": 1790961335
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Possible next crypto czar, Jay Clayton, began crypto's regulation-by-enforcement at SEC",
+      "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+      "published": "Fri, 02 Oct 2026 17:12:48 +0000",
+      "ts": 1790961168
+    },
     {
       "source": "MarketWatch",
       "title": "This couple took out an adjustable-rate mortgage at 6.8% in 2023. Here’s how it’s worked out.",
@@ -360,25 +374,11 @@
       "ts": 1790888916
     },
     {
-      "source": "CoinDesk",
-      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-      "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-      "published": "Thu, 01 Oct 2026 20:20:04 +0000",
-      "ts": 1790886004
-    },
-    {
       "source": "Investing Crypto",
       "title": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
       "link": "https://www.investing.com/news/cryptocurrency-news/lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide-4928141",
       "published": "2026-10-01 19:00:37",
       "ts": 1790881237
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Another Trump memecoin dinner advertised for token's top investors",
-      "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
-      "published": "Thu, 01 Oct 2026 18:45:29 +0000",
-      "ts": 1790880329
     },
     {
       "source": "Investing Forex",
