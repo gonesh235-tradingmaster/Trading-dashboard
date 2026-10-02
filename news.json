@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-02T21:10:06.279585Z",
+  "updated": "2026-10-02T21:27:43.035510Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+      "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+      "published": "Fri, 02 Oct 2026 21:23:20 +0000",
+      "ts": 1790976200
+    },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
@@ -88,7 +95,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Mexican Peso rebounds, but carry trade exodus still bites",
+      "title": "Mexican Peso rebounds but carry trade exodus still bites",
       "link": "https://www.fxstreet.com/news/mexican-peso-rebounds-but-carry-trade-exodus-still-bites-202610022008",
       "published": "Fri, 02 Oct 2026 20:08:43 GMT",
       "ts": 1790971723
@@ -337,13 +344,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
       "published": "Fri, 02 Oct 2026 09:14:21 +0000",
       "ts": 1790932461
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
-      "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-      "published": "Fri, 02 Oct 2026 08:28:19 +0000",
-      "ts": 1790929699
     },
     {
       "source": "Investing Crypto",
