@@ -1,20 +1,48 @@
 {
-  "updated": "2026-10-02T20:09:30.477841Z",
+  "updated": "2026-10-02T20:27:39.155091Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Saving your retirement could come down to this simple writing exercise",
+      "link": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 20:24:00 GMT",
+      "ts": 1790972640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Switching jobs to get higher pay works best in these industries",
+      "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 20:24:00 GMT",
+      "ts": 1790972640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "TV dinner overload? The frozen-food aisle may be too crowded for its own good.",
+      "link": "https://www.marketwatch.com/story/tv-dinner-overload-the-frozen-food-aisle-may-be-too-crowded-for-its-own-good-55bfed39?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 20:16:00 GMT",
+      "ts": 1790972160
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
+      "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 20:12:00 GMT",
+      "ts": 1790971920
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 20:10:00 GMT",
+      "ts": 1790971800
+    },
     {
       "source": "FXStreet",
       "title": "Mexican Peso rebounds, but carry trade exodus still bites",
       "link": "https://www.fxstreet.com/news/mexican-peso-rebounds-but-carry-trade-exodus-still-bites-202610022008",
       "published": "Fri, 02 Oct 2026 20:08:43 GMT",
       "ts": 1790971723
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The best industry to change jobs to get paid more money — and the worst",
-      "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 20:04:00 GMT",
-      "ts": 1790971440
     },
     {
       "source": "Investing Forex",
@@ -29,13 +57,6 @@
       "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 19:32:00 GMT",
       "ts": 1790969520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
-      "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 19:23:00 GMT",
-      "ts": 1790968980
     },
     {
       "source": "Investing Crypto",
@@ -101,32 +122,11 @@
       "ts": 1790963287
     },
     {
-      "source": "MarketWatch",
-      "title": "How much higher can bond yields rise — and what does it mean for stocks?",
-      "link": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 17:48:00 GMT",
-      "ts": 1790963280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-      "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 17:48:00 GMT",
-      "ts": 1790963280
-    },
-    {
       "source": "CoinDesk",
       "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
       "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
       "published": "Fri, 02 Oct 2026 17:34:40 +0000",
       "ts": 1790962480
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 17:30:00 GMT",
-      "ts": 1790962200
     },
     {
       "source": "CoinDesk",
