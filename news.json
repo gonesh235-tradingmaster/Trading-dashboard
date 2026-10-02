@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-02T01:18:41.555896Z",
+  "updated": "2026-10-02T01:42:08.990558Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar falls as oil prices dip, US Dollar gains strength",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-as-oil-prices-dip-us-dollar-gains-strength-202610020123",
+      "published": "Fri, 02 Oct 2026 01:23:58 GMT",
+      "ts": 1790904238
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI holds steady near $92.00 as US weighs sending more troops to Middle East",
+      "link": "https://www.fxstreet.com/news/wti-holds-steady-near-9200-as-us-weighs-sending-more-troops-to-middle-east-202610020121",
+      "published": "Fri, 02 Oct 2026 01:21:42 GMT",
+      "ts": 1790904102
+    },
     {
       "source": "FXStreet",
       "title": "British Pound struggles near June 26 lows as USD retains bullish tone ahead of US NFP",
@@ -15,6 +29,13 @@
       "link": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 01:07:08 +0000",
       "ts": 1790903228
+    },
+    {
+      "source": "Investing Forex",
+      "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity",
+      "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
+      "published": "2026-10-02 01:06:57",
+      "ts": 1790903217
     },
     {
       "source": "MarketWatch",
@@ -94,13 +115,6 @@
       "ts": 1790897542
     },
     {
-      "source": "Investing Forex",
-      "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity",
-      "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
-      "published": "2026-10-01 23:30:52",
-      "ts": 1790897452
-    },
-    {
       "source": "FXStreet",
       "title": "Australian Dollar drifts toward 0.69 as USD shrugs off Fed patience",
       "link": "https://www.fxstreet.com/news/australian-dollar-drifts-toward-069-as-usd-shrugs-off-fed-patience-202610012317",
@@ -113,20 +127,6 @@
       "link": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 23:17:47 +0000",
       "ts": 1790896667
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Japanese Yen weakens as traders pare Bank of Japan October hike bets",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-weakens-as-traders-pare-bank-of-japan-october-hike-bets-202610012251",
-      "published": "Thu, 01 Oct 2026 22:51:29 GMT",
-      "ts": 1790895089
-    },
-    {
-      "source": "FXStreet",
-      "title": "The New Zealand Dollar extends its slide as the US Dollar hits a yearly high",
-      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-extends-its-slide-as-the-us-dollar-hits-a-yearly-high-202610012250",
-      "published": "Thu, 01 Oct 2026 22:50:08 GMT",
-      "ts": 1790895008
     },
     {
       "source": "Investing Crypto",
