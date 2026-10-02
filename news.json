@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-02T04:55:31.354332Z",
+  "updated": "2026-10-02T05:11:14.383102Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Dips to $91.50 as Middle East jitters limit losses",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-dips-to-9150-as-middle-east-jitters-limit-losses-202610020506",
+      "published": "Fri, 02 Oct 2026 05:06:01 GMT",
+      "ts": 1790917561
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah strengthens as US Dollar weakens on easing Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-strengthens-as-us-dollar-weakens-on-easing-fed-rate-hike-bets-202610020504",
+      "published": "Fri, 02 Oct 2026 05:04:44 GMT",
+      "ts": 1790917484
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
+      "link": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 05:02:23 +0000",
+      "ts": 1790917343
+    },
     {
       "source": "FXStreet",
       "title": "AUD/JPY Price Forecast: Weakens below 109.50 as bearish tone persists below 100-day SMA",
@@ -85,20 +106,6 @@
       "link": "https://www.fxstreet.com/news/euro-flattens-against-the-japanese-yen-in-countdown-to-eurozone-hicp-data-202610020325",
       "published": "Fri, 02 Oct 2026 03:25:57 GMT",
       "ts": 1790911557
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar loses as US Dollar receives support from persistent inflation concerns",
-      "link": "https://www.fxstreet.com/news/australian-dollar-loses-as-us-dollar-receives-support-from-persistent-inflation-concerns-202610020302",
-      "published": "Fri, 02 Oct 2026 03:02:54 GMT",
-      "ts": 1790910174
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro weakens below 1.1250 on fiscal concerns, US NFP data looms",
-      "link": "https://www.fxstreet.com/news/euro-weakens-below-11250-on-fiscal-concerns-us-nfp-data-looms-202610020244",
-      "published": "Fri, 02 Oct 2026 02:44:26 GMT",
-      "ts": 1790909066
     },
     {
       "source": "CoinTelegraph",
@@ -260,13 +267,6 @@
       "link": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 18:45:09 +0000",
       "ts": 1790880309
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Illinois will postpone implementation of crypto tax following lawsuit",
-      "link": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 18:01:49 +0000",
-      "ts": 1790877709
     },
     {
       "source": "Investing Forex",
