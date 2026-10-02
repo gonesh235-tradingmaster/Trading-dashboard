@@ -1,13 +1,27 @@
 {
-  "updated": "2026-10-02T20:45:41.061583Z",
+  "updated": "2026-10-02T21:10:06.279585Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 20:46:58 +0000",
+      "ts": 1790974018
+    },
     {
       "source": "MarketWatch",
       "title": "Why mixing politics with your stock portfolio might be costing you money",
       "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 20:43:00 GMT",
       "ts": 1790973780
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
+      "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 20:40:47 +0000",
+      "ts": 1790973647
     },
     {
       "source": "MarketWatch",
@@ -262,13 +276,6 @@
       "ts": 1790946473
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 13:00:00 +0000",
-      "ts": 1790946000
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. 10-year yield drops after September non-farm payrolls miss forecasts",
       "link": "https://www.investing.com/news/forex-news/french-debt-set-for-5th-weekly-rise-at-2002-peaks-bunds-at-over-1week-lows-4929025",
@@ -295,13 +302,6 @@
       "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 12:25:56 +0000",
       "ts": 1790943956
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
-      "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 11:40:21 +0000",
-      "ts": 1790941221
     },
     {
       "source": "CoinDesk",
