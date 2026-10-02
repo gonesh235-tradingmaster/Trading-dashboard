@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-01T23:53:29.816114Z",
+  "updated": "2026-10-02T00:14:50.507326Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+      "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 00:14:00 GMT",
+      "ts": 1790900040
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
+      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 00:13:00 GMT",
+      "ts": 1790899980
+    },
     {
       "source": "FXStreet",
       "title": "Gold recovers above $4,150 as US yields retreat ahead of US September jobs data",
@@ -38,13 +52,6 @@
       "ts": 1790897452
     },
     {
-      "source": "MarketWatch",
-      "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
-      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 23:21:00 GMT",
-      "ts": 1790896860
-    },
-    {
       "source": "FXStreet",
       "title": "Australian Dollar drifts toward 0.69 as USD shrugs off Fed patience",
       "link": "https://www.fxstreet.com/news/australian-dollar-drifts-toward-069-as-usd-shrugs-off-fed-patience-202610012317",
@@ -57,13 +64,6 @@
       "link": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 23:17:47 +0000",
       "ts": 1790896667
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
-      "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 23:11:00 GMT",
-      "ts": 1790896260
     },
     {
       "source": "FXStreet",
