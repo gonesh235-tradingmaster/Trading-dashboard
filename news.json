@@ -1,13 +1,48 @@
 {
-  "updated": "2026-10-02T07:20:06.987576Z",
+  "updated": "2026-10-02T07:42:53.690796Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD: Under pressure on Euro stress – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/eur-usd-under-pressure-on-euro-stress-deutsche-bank-202610020735",
+      "published": "Fri, 02 Oct 2026 07:35:39 GMT",
+      "ts": 1790926539
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Safe-haven status questioned – Commerzbank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-safe-haven-status-questioned-commerzbank-202610020734",
+      "published": "Fri, 02 Oct 2026 07:34:12 GMT",
+      "ts": 1790926452
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold: Modest gains in risk-off backdrop – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/gold-modest-gains-in-risk-off-backdrop-deutsche-bank-202610020732",
+      "published": "Fri, 02 Oct 2026 07:32:54 GMT",
+      "ts": 1790926374
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI Oil edges down below $91.00 amid reports of higher flows from the Gulf",
+      "link": "https://www.fxstreet.com/news/wti-oil-edges-down-below-9100-amid-reports-of-higher-flows-from-the-gulf-202610020721",
+      "published": "Fri, 02 Oct 2026 07:21:54 GMT",
+      "ts": 1790925714
+    },
     {
       "source": "FXStreet",
       "title": "Forex Today: US Dollar consolidates weekly gains ahead of critical Nonfarm Payrolls data",
       "link": "https://www.fxstreet.com/news/forex-today-us-dollar-consolidates-weekly-gains-ahead-of-critical-nonfarm-payrolls-data-202610020714",
       "published": "Fri, 02 Oct 2026 07:14:59 GMT",
       "ts": 1790925299
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin shooting star at $86K signals mean-reversion risk: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+      "published": "2026-10-02 07:11:27",
+      "ts": 1790925087
     },
     {
       "source": "FXStreet",
@@ -38,20 +73,6 @@
       "ts": 1790922897
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: Hawkish Fed pricing backs more upside above 102.20",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-hawkish-fed-pricing-backs-more-upside-above-10220-202610020613",
-      "published": "Fri, 02 Oct 2026 06:13:10 GMT",
-      "ts": 1790921590
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen rises due to hot Tokyo CPI, dovish Fed bets",
-      "link": "https://www.fxstreet.com/news/japanese-yen-rises-due-to-hot-tokyo-cpi-dovish-fed-bets-202610020600",
-      "published": "Fri, 02 Oct 2026 06:00:32 GMT",
-      "ts": 1790920832
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -66,25 +87,11 @@
       "ts": 1790920407
     },
     {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar rebounds ahead of US jobs data, election uncertainty lingers",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-ahead-of-us-jobs-data-election-uncertainty-lingers-202610020551",
-      "published": "Fri, 02 Oct 2026 05:51:45 GMT",
-      "ts": 1790920305
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin rises to $86.5k with ‘uptober’ hopes, nonfarm payrolls in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
       "published": "2026-10-02 05:40:48",
       "ts": 1790919648
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: Falls to near 1.4200 after pulling back from nearly 18-month highs",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-falls-to-near-14200-after-pulling-back-from-nearly-18-month-highs-202610020525",
-      "published": "Fri, 02 Oct 2026 05:25:03 GMT",
-      "ts": 1790918703
     },
     {
       "source": "CoinTelegraph",
@@ -253,13 +260,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
       "published": "Thu, 01 Oct 2026 20:20:04 +0000",
       "ts": 1790886004
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin hits MFI 100 overbought at $84,789: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "published": "2026-10-01 19:18:44",
-      "ts": 1790882324
     },
     {
       "source": "Investing Crypto",
