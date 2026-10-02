@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-02T07:42:53.690796Z",
+  "updated": "2026-10-02T07:57:51.752594Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "ECB’s Rehn: Higher energy prices bring us closer to ECB’s adverse scenario for inflation",
+      "link": "https://www.fxstreet.com/news/ecbs-rehn-higher-energy-prices-bring-us-closer-to-ecbs-adverse-scenario-for-inflation-202610020757",
+      "published": "Fri, 02 Oct 2026 07:57:48 GMT",
+      "ts": 1790927868
+    },
+    {
+      "source": "FXStreet",
+      "title": "Global Treasury yields ease amid rising France’s fiscal, political concerns",
+      "link": "https://www.fxstreet.com/news/global-treasury-yields-ease-amid-rising-frances-fiscal-political-concerns-202610020744",
+      "published": "Fri, 02 Oct 2026 07:44:00 GMT",
+      "ts": 1790927040
+    },
     {
       "source": "FXStreet",
       "title": "EUR/USD: Under pressure on Euro stress – Deutsche Bank",
@@ -66,13 +80,6 @@
       "ts": 1790924779
     },
     {
-      "source": "FXStreet",
-      "title": "Euro holds losses against British Pound amid French debt woes, high Oil Prices",
-      "link": "https://www.fxstreet.com/news/euro-holds-losses-against-british-pound-amid-french-debt-woes-high-oil-prices-202610020634",
-      "published": "Fri, 02 Oct 2026 06:34:57 GMT",
-      "ts": 1790922897
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -113,13 +120,6 @@
       "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 04:18:43 +0000",
       "ts": 1790914723
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold remains capped below $4,200 as traders await US NFP for Fed rate cuts",
-      "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-bullish-usd-eye-us-nfp-for-fed-rate-cues-202610020355",
-      "published": "Fri, 02 Oct 2026 03:55:15 GMT",
-      "ts": 1790913315
     },
     {
       "source": "Investing Forex",
