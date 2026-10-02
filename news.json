@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-02T16:12:33.903223Z",
+  "updated": "2026-10-02T16:32:06.995389Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
+      "link": "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 16:20:24 +0000",
+      "ts": 1790958024
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar rebounds after sharp US employment disappointment",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-after-sharp-us-employment-disappointment-202610021614",
+      "published": "Fri, 02 Oct 2026 16:14:17 GMT",
+      "ts": 1790957657
+    },
     {
       "source": "FXStreet",
       "title": "US payrolls miss at 29K and the Dollar Index drops below 102.00",
@@ -185,13 +199,6 @@
       "ts": 1790946473
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: October ECB hike odds seen limited – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/euro-october-ecb-hike-odds-seen-limited-standard-chartered-202610021302",
-      "published": "Fri, 02 Oct 2026 13:02:00 GMT",
-      "ts": 1790946120
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -281,13 +288,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-euro-downside-risk-to-10850-on-peripheral-widening-93CH-4929312",
       "published": "2026-10-02 09:55:07",
       "ts": 1790934907
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin reaches for $87K as short liquidations top $120M",
-      "link": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 09:37:06 +0000",
-      "ts": 1790933826
     },
     {
       "source": "CoinDesk",
