@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-02T08:57:16.168707Z",
+  "updated": "2026-10-02T09:14:54.489936Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD: French risk premium weighs on Euro – ING",
+      "link": "https://www.fxstreet.com/news/eur-usd-french-risk-premium-weighs-on-euro-ing-202610020912",
+      "published": "Fri, 02 Oct 2026 09:12:44 GMT",
+      "ts": 1790932364
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet",
+      "link": "https://www.marketwatch.com/story/amazon-is-hiking-chip-rental-prices-and-reportedly-moving-nvidia-processors-off-the-balance-sheet-b205a0b0?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 09:07:00 GMT",
+      "ts": 1790932020
+    },
+    {
+      "source": "FXStreet",
+      "title": "Eurozone flash HICP rises faster by 3.8% YoY in September, beats 3.6% estimates",
+      "link": "https://www.fxstreet.com/news/eurozone-flash-hicp-rises-faster-by-38-yoy-in-september-beats-36-estimates-202610020904",
+      "published": "Fri, 02 Oct 2026 09:04:36 GMT",
+      "ts": 1790931876
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Famed former Boston Celtics commentator lists sunny Boston penthouse for $1.5 million",
+      "link": "https://www.marketwatch.com/story/famed-former-boston-celtics-commentator-lists-sunny-boston-penthouse-for-1-5-million-dedfb48a?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 08:59:00 GMT",
+      "ts": 1790931540
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Remains supported by 20-day EMA ahead of US NFP",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-remains-supported-by-20-day-ema-ahead-of-us-nfp-202610020857",
+      "published": "Fri, 02 Oct 2026 08:57:56 GMT",
+      "ts": 1790931476
+    },
     {
       "source": "FXStreet",
       "title": "S&P 500: Resilient as Fed tone turns dovish – Deutsche Bank",
@@ -66,32 +101,11 @@
       "ts": 1790928680
     },
     {
-      "source": "FXStreet",
-      "title": "ECB’s Rehn: Higher energy prices bring us closer to ECB’s adverse scenario for inflation",
-      "link": "https://www.fxstreet.com/news/ecbs-rehn-higher-energy-prices-bring-us-closer-to-ecbs-adverse-scenario-for-inflation-202610020757",
-      "published": "Fri, 02 Oct 2026 07:57:48 GMT",
-      "ts": 1790927868
-    },
-    {
-      "source": "FXStreet",
-      "title": "Global Treasury yields ease amid rising France’s fiscal, political concerns",
-      "link": "https://www.fxstreet.com/news/global-treasury-yields-ease-amid-rising-frances-fiscal-political-concerns-202610020744",
-      "published": "Fri, 02 Oct 2026 07:44:00 GMT",
-      "ts": 1790927040
-    },
-    {
       "source": "Investing Forex",
       "title": "French debt set for 5th weekly rise at 2002 peaks, Bunds at over 1-week lows",
       "link": "https://www.investing.com/news/forex-news/french-debt-set-for-5th-weekly-rise-at-2002-peaks-bunds-at-over-1week-lows-4929025",
       "published": "2026-10-02 07:42:51",
       "ts": 1790926971
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD: Under pressure on Euro stress – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/eur-usd-under-pressure-on-euro-stress-deutsche-bank-202610020735",
-      "published": "Fri, 02 Oct 2026 07:35:39 GMT",
-      "ts": 1790926539
     },
     {
       "source": "Investing Crypto",
@@ -260,20 +274,6 @@
       "link": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 20:58:00 GMT",
       "ts": 1790888280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?",
-      "link": "https://www.marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 20:58:00 GMT",
-      "ts": 1790888280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
-      "link": "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 20:28:00 GMT",
-      "ts": 1790886480
     },
     {
       "source": "CoinDesk",
