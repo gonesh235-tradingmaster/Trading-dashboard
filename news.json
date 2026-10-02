@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-02T19:54:59.716936Z",
+  "updated": "2026-10-02T20:09:30.477841Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso rebounds, but carry trade exodus still bites",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rebounds-but-carry-trade-exodus-still-bites-202610022008",
+      "published": "Fri, 02 Oct 2026 20:08:43 GMT",
+      "ts": 1790971723
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The best industry to change jobs to get paid more money — and the worst",
+      "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 20:04:00 GMT",
+      "ts": 1790971440
+    },
     {
       "source": "Investing Forex",
       "title": "Dollar set for first 3-week win streak since January, euro rebounds and yen gains",
@@ -115,13 +129,6 @@
       "ts": 1790962200
     },
     {
-      "source": "MarketWatch",
-      "title": "The U.S. can’t find enough of this critical machine component to win the humanoid-robots race",
-      "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 17:29:00 GMT",
-      "ts": 1790962140
-    },
-    {
       "source": "CoinDesk",
       "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
       "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
@@ -225,13 +232,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-firm-fasset-aims-to-be-a-bank-for-people-and-their-ai-agents-4930084",
       "published": "2026-10-02 14:28:26",
       "ts": 1790951306
-    },
-    {
-      "source": "FXStreet",
-      "title": "RBI to keep tightening risks alive – MUFG",
-      "link": "https://www.fxstreet.com/news/rbi-to-keep-tightening-risks-alive-mufg-202610021428",
-      "published": "Fri, 02 Oct 2026 14:28:05 GMT",
-      "ts": 1790951285
     },
     {
       "source": "CoinTelegraph",
