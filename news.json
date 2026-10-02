@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-02T12:38:44.897654Z",
+  "updated": "2026-10-02T12:58:52.508290Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Nike’s stock heads for its worst year ever as the company’s troubles mount",
+      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 12:50:00 GMT",
+      "ts": 1790945400
+    },
     {
       "source": "MarketWatch",
       "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
@@ -11,10 +18,17 @@
     },
     {
       "source": "CoinDesk",
-      "title": "U.S. added just 29,000 jobs in September. with unemployment rate rising to 4.2%",
+      "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
       "link": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
       "published": "Fri, 02 Oct 2026 12:31:53 +0000",
       "ts": 1790944313
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Travala’s Crypto Loyalty Program Passes 170,000 Members, Sets Long-Term Goal of 30% of AVA Supply Locked",
+      "link": "https://www.investing.com/news/cryptocurrency-news/travalas-crypto-loyalty-program-passes-170000-members-sets-longterm-goal-of-30-of-ava-supply-locked-4929740",
+      "published": "2026-10-02 12:30:36",
+      "ts": 1790944236
     },
     {
       "source": "MarketWatch",
@@ -22,6 +36,13 @@
       "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 12:30:00 GMT",
       "ts": 1790944200
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+      "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 12:25:56 +0000",
+      "ts": 1790943956
     },
     {
       "source": "MarketWatch",
@@ -206,13 +227,6 @@
       "ts": 1790933449
     },
     {
-      "source": "MarketWatch",
-      "title": "Another viral AI-doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
-      "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 09:25:00 GMT",
-      "ts": 1790933100
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
       "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
@@ -295,13 +309,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
       "published": "2026-10-02 05:40:48",
       "ts": 1790919648
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
-      "link": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 05:08:32 +0000",
-      "ts": 1790917712
     },
     {
       "source": "Investing Forex",
@@ -407,13 +414,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/okx-and-bitgo-expand-offexchange-settlement-to-global-institutions-432SI-4926120",
       "published": "2026-10-01 00:14:02",
       "ts": 1790813642
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin muted at $83.7k, but set for best quarterly performance since Q4 2024",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
-      "published": "2026-09-30 21:54:18",
-      "ts": 1790805258
     },
     {
       "source": "Investing Forex",
