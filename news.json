@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-02T04:11:29.803366Z",
+  "updated": "2026-10-02T04:30:51.673465Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen draws support from hot Tokyo CPI as USD bulls await US NFP report",
+      "link": "https://www.fxstreet.com/news/japanese-yen-draws-support-from-hot-tokyo-cpi-as-usd-bulls-await-us-nfp-report-202610020421",
+      "published": "Fri, 02 Oct 2026 04:21:23 GMT",
+      "ts": 1790914883
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Core Lightning warns attackers are targeting unpatched Bitcoin nodes",
+      "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 04:18:43 +0000",
+      "ts": 1790914723
+    },
     {
       "source": "FXStreet",
       "title": "GBP/USD Price Forecast: Likely retest YTD low near 1.3140",
@@ -92,13 +106,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-falls-as-oil-prices-dip-us-dollar-gains-strength-202610020123",
       "published": "Fri, 02 Oct 2026 01:23:58 GMT",
       "ts": 1790904238
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI holds steady near $92.00 as US weighs sending more troops to Middle East",
-      "link": "https://www.fxstreet.com/news/wti-holds-steady-near-9200-as-us-weighs-sending-more-troops-to-middle-east-202610020121",
-      "published": "Fri, 02 Oct 2026 01:21:42 GMT",
-      "ts": 1790904102
     },
     {
       "source": "CoinTelegraph",
@@ -267,13 +274,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-as-us-dollar-strength-yield-gap-keeps-pressure-4928043",
       "published": "2026-10-01 17:46:09",
       "ts": 1790876769
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
-      "link": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 16:12:23 +0000",
-      "ts": 1790871143
     },
     {
       "source": "Investing Crypto",
