@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-02T05:29:17.189689Z",
+  "updated": "2026-10-02T05:46:50.396621Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rises to $86.5k with ‘uptober’ hopes, nonfarm payrolls in focus",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
+      "published": "2026-10-02 05:40:48",
+      "ts": 1790919648
+    },
     {
       "source": "FXStreet",
       "title": "USD/CAD Price Forecast: Falls to near 1.4200 after pulling back from nearly 18-month highs",
@@ -81,7 +88,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Core Lightning warns attackers are targeting unpatched Bitcoin nodes",
+      "title": "Core Lightning warns attackers are targeting unpatched nodes",
       "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 04:18:43 +0000",
       "ts": 1790914723
@@ -116,7 +123,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
+      "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
       "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 02:02:13 +0000",
       "ts": 1790906533
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
       "published": "2026-09-30 21:04:47",
       "ts": 1790802287
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Open Standard issues dollar stablecoin backed by Visa, Stripe, and Mastercard",
-      "link": "https://www.investing.com/news/cryptocurrency-news/open-standard-issues-dollar-stablecoin-backed-by-visa-stripe-and-mastercard-4925607",
-      "published": "2026-09-30 16:24:42",
-      "ts": 1790785482
     },
     {
       "source": "Investing Forex",
