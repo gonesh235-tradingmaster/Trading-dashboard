@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-02T06:58:50.571680Z",
+  "updated": "2026-10-02T07:20:06.987576Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar consolidates weekly gains ahead of critical Nonfarm Payrolls data",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-consolidates-weekly-gains-ahead-of-critical-nonfarm-payrolls-data-202610020714",
+      "published": "Fri, 02 Oct 2026 07:14:59 GMT",
+      "ts": 1790925299
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro gains against Canadian Dollar ahead of Eurozone HICP data",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-ahead-of-eurozone-hicp-data-202610020708",
+      "published": "Fri, 02 Oct 2026 07:08:59 GMT",
+      "ts": 1790924939
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound trades flat against Japanese Yen, Tokyo CPI beats estimates",
+      "link": "https://www.fxstreet.com/news/british-pound-trades-flat-against-japanese-yen-tokyo-cpi-beats-estimates-202610020707",
+      "published": "Fri, 02 Oct 2026 07:07:01 GMT",
+      "ts": 1790924821
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Strengthen to near 0.6950, but keeping bearish bias amid oversold conditions",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-strengthen-to-near-06950-but-keeping-bearish-bias-amid-oversold-conditions-202610020706",
+      "published": "Fri, 02 Oct 2026 07:06:19 GMT",
+      "ts": 1790924779
+    },
     {
       "source": "FXStreet",
       "title": "Euro holds losses against British Pound amid French debt woes, high Oil Prices",
@@ -59,13 +87,6 @@
       "ts": 1790918703
     },
     {
-      "source": "FXStreet",
-      "title": "Silver price forecast: XAG/USD rises to near $61.40 as US yields retreat, NFP eyed",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6140-as-us-yields-retreat-nfp-eyed-202610020524",
-      "published": "Fri, 02 Oct 2026 05:24:25 GMT",
-      "ts": 1790918665
-    },
-    {
       "source": "CoinTelegraph",
       "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
       "link": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -73,32 +94,11 @@
       "ts": 1790917712
     },
     {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Dips to $91.50 as Middle East jitters limit losses",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-dips-to-9150-as-middle-east-jitters-limit-losses-202610020506",
-      "published": "Fri, 02 Oct 2026 05:06:01 GMT",
-      "ts": 1790917561
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah strengthens as US Dollar weakens on easing Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-strengthens-as-us-dollar-weakens-on-easing-fed-rate-hike-bets-202610020504",
-      "published": "Fri, 02 Oct 2026 05:04:44 GMT",
-      "ts": 1790917484
-    },
-    {
       "source": "CoinTelegraph",
-      "title": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
+      "title": "Zano exploiter minted more than a quadrillion fUSD before blockchain rollback",
       "link": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 05:02:23 +0000",
       "ts": 1790917343
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Weakens below 109.50 as bearish tone persists below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-weakens-below-10950-as-bearish-tone-persists-below-100-day-sma-202610020450",
-      "published": "Fri, 02 Oct 2026 04:50:27 GMT",
-      "ts": 1790916627
     },
     {
       "source": "CoinTelegraph",
