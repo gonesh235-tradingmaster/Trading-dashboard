@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-02T17:31:26.663745Z",
+  "updated": "2026-10-02T17:53:50.815967Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Goolsbee says inflation now outweighs labor concerns",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-says-inflation-now-outweighs-labor-concerns-202610021748",
+      "published": "Fri, 02 Oct 2026 17:48:07 GMT",
+      "ts": 1790963287
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How much higher can bond yields rise — and what does it mean for stocks?",
+      "link": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 17:48:00 GMT",
+      "ts": 1790963280
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel-shock hangs over U.S. midterms",
+      "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 17:48:00 GMT",
+      "ts": 1790963280
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
+      "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 17:38:00 GMT",
+      "ts": 1790962680
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+      "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+      "published": "Fri, 02 Oct 2026 17:34:40 +0000",
+      "ts": 1790962480
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 17:30:00 GMT",
+      "ts": 1790962200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The U.S. can’t find enough of this critical machine component to win the humanoid-robots race",
+      "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 17:29:00 GMT",
+      "ts": 1790962140
+    },
     {
       "source": "CoinDesk",
       "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
@@ -11,7 +60,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Possible next crypto czar, Jay Clayton, began crypto's regulation-by-enforcement at SEC",
+      "title": "Trump's possible next AI czar, Jay Clayton, began crypto's regulation-by-enforcement at SEC",
       "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
       "published": "Fri, 02 Oct 2026 17:12:48 +0000",
       "ts": 1790961168
@@ -80,13 +129,6 @@
       "ts": 1790956140
     },
     {
-      "source": "MarketWatch",
-      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel-shock hangs over U.S. midterms",
-      "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 15:42:00 GMT",
-      "ts": 1790955720
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto’s billions are back, but the premiums aren’t",
       "link": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -122,13 +164,6 @@
       "ts": 1790953200
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 15:00:00 GMT",
-      "ts": 1790953200
-    },
-    {
       "source": "FXStreet",
       "title": "US Dollar: FOMC minutes to offer limited fresh clues – TD Securities",
       "link": "https://www.fxstreet.com/news/us-dollar-fomc-minutes-to-offer-limited-fresh-clues-td-securities-202610021435",
@@ -141,13 +176,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-gives-back-post-nfp-gains-despite-us-dollar-weakness-202610021431",
       "published": "Fri, 02 Oct 2026 14:31:54 GMT",
       "ts": 1790951514
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
-      "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 14:30:00 GMT",
-      "ts": 1790951400
     },
     {
       "source": "FXStreet",
@@ -185,24 +213,10 @@
       "ts": 1790950368
     },
     {
-      "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 13:45:00 GMT",
-      "ts": 1790948700
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
       "link": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 13:30:00 +0000",
-      "ts": 1790947800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
-      "link": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 13:30:00 GMT",
       "ts": 1790947800
     },
     {
@@ -211,13 +225,6 @@
       "link": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
       "published": "Fri, 02 Oct 2026 13:22:19 +0000",
       "ts": 1790947339
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro rebounds above 1.1250 after weak US jobs data weighs on US Dollar",
-      "link": "https://www.fxstreet.com/news/euro-rebounds-above-11250-after-weak-us-jobs-data-weighs-on-us-dollar-202610021318",
-      "published": "Fri, 02 Oct 2026 13:18:34 GMT",
-      "ts": 1790947114
     },
     {
       "source": "Investing Forex",
@@ -330,13 +337,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
       "published": "Fri, 02 Oct 2026 08:28:19 +0000",
       "ts": 1790929699
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-      "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-      "published": "Fri, 02 Oct 2026 08:11:54 +0000",
-      "ts": 1790928714
     },
     {
       "source": "Investing Crypto",
