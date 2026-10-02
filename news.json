@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-02T13:59:32.431799Z",
+  "updated": "2026-10-02T14:21:51.619315Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
+      "link": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 14:12:48 +0000",
+      "ts": 1790950368
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 14:00:00 GMT",
+      "ts": 1790949600
+    },
     {
       "source": "MarketWatch",
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
@@ -150,13 +164,6 @@
       "ts": 1790941988
     },
     {
-      "source": "MarketWatch",
-      "title": "The stock market is anything but normal right now — and these charts show it",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 11:48:00 GMT",
-      "ts": 1790941680
-    },
-    {
       "source": "CoinTelegraph",
       "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
       "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -288,13 +295,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
       "published": "Fri, 02 Oct 2026 08:28:19 +0000",
       "ts": 1790929699
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 08:20:08 +0000",
-      "ts": 1790929208
     },
     {
       "source": "CoinDesk",
