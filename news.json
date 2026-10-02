@@ -1,13 +1,27 @@
 {
-  "updated": "2026-10-02T03:55:23.577119Z",
+  "updated": "2026-10-02T04:11:29.803366Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Likely retest YTD low near 1.3140",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-likely-retest-ytd-low-near-13140-202610020409",
+      "published": "Fri, 02 Oct 2026 04:09:52 GMT",
+      "ts": 1790914192
+    },
     {
       "source": "FXStreet",
       "title": "Gold struggles to lure buyers amid bullish USD; eye US NFP for Fed rate cues",
       "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-bullish-usd-eye-us-nfp-for-fed-rate-cues-202610020355",
       "published": "Fri, 02 Oct 2026 03:55:15 GMT",
       "ts": 1790913315
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Japanese yen firms on strong inflation, dollar muted before payrolls test",
+      "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
+      "published": "2026-10-02 03:36:20",
+      "ts": 1790912180
     },
     {
       "source": "CoinTelegraph",
@@ -85,13 +99,6 @@
       "link": "https://www.fxstreet.com/news/wti-holds-steady-near-9200-as-us-weighs-sending-more-troops-to-middle-east-202610020121",
       "published": "Fri, 02 Oct 2026 01:21:42 GMT",
       "ts": 1790904102
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound struggles near June 26 lows as USD retains bullish tone ahead of US NFP",
-      "link": "https://www.fxstreet.com/news/british-pound-struggles-near-june-26-lows-as-usd-retains-bullish-tone-ahead-of-us-nfp-202610020110",
-      "published": "Fri, 02 Oct 2026 01:10:31 GMT",
-      "ts": 1790903431
     },
     {
       "source": "CoinTelegraph",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/us-10year-yields-anchor-near-2007-peaks-set-for-biggest-monthly-jump-in-2-yrs-4924286",
       "published": "2026-09-30 12:44:12",
       "ts": 1790772252
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Deutsche Bank sees euro holding range despite dollar strength",
-      "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-euro-holding-range-despite-dollar-strength-93CH-4924929",
-      "published": "2026-09-30 11:45:08",
-      "ts": 1790768708
     }
   ]
 }
