@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-02T10:12:05.026625Z",
+  "updated": "2026-10-02T10:30:31.615941Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Here’s the bond-market alternative as U.S. and other developed markets debt deteriorate",
+      "link": "https://www.marketwatch.com/story/heres-the-bond-market-alternative-as-u-s-and-other-developed-markets-debt-deteriorate-e3d57b02?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 10:25:00 GMT",
+      "ts": 1790936700
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Brazil is holding an election — and for the stock market, there’s more to gain than to lose, says fund manager",
+      "link": "https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 10:22:00 GMT",
+      "ts": 1790936520
+    },
+    {
+      "source": "FXStreet",
+      "title": "France: Budget strains weigh on outlook – BBH",
+      "link": "https://www.fxstreet.com/news/france-budget-strains-weigh-on-outlook-bbh-202610021017",
+      "published": "Fri, 02 Oct 2026 10:17:53 GMT",
+      "ts": 1790936273
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro-area Inflation: Headline pressures rise – Nordea",
+      "link": "https://www.fxstreet.com/news/euro-area-inflation-headline-pressures-rise-nordea-202610021016",
+      "published": "Fri, 02 Oct 2026 10:16:05 GMT",
+      "ts": 1790936165
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 10:15:00 GMT",
+      "ts": 1790936100
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Uptrend intact as NFP looms – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-uptrend-intact-as-nfp-looms-bbh-202610021012",
+      "published": "Fri, 02 Oct 2026 10:12:18 GMT",
+      "ts": 1790935938
+    },
     {
       "source": "FXStreet",
       "title": "Mexican Peso: Carry liquidation pressures LatAm currencies – MUFG",
@@ -123,20 +165,6 @@
     },
     {
       "source": "FXStreet",
-      "title": "S&P 500: Resilient as Fed tone turns dovish – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/sp-500-resilient-as-fed-tone-turns-dovish-deutsche-bank-202610020831",
-      "published": "Fri, 02 Oct 2026 08:31:34 GMT",
-      "ts": 1790929894
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound holds near three-month lows, US Dollar shines as global yields surge",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-near-three-month-lows-us-dollar-shines-as-global-yields-surge-202610020830",
-      "published": "Fri, 02 Oct 2026 08:30:29 GMT",
-      "ts": 1790929829
-    },
-    {
-      "source": "FXStreet",
       "title": "US Nonfarm Payrolls expected to show softer growth in September",
       "link": "https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-soften-in-september-202610020830",
       "published": "Fri, 02 Oct 2026 08:30:00 GMT",
@@ -220,13 +248,6 @@
       "ts": 1790914723
     },
     {
-      "source": "FXStreet",
-      "title": "Gold extends range play below $4,200; looks to US NFP for fresh impetus",
-      "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-bullish-usd-eye-us-nfp-for-fed-rate-cues-202610020355",
-      "published": "Fri, 02 Oct 2026 03:55:15 GMT",
-      "ts": 1790913315
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
       "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -256,24 +277,10 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 00:15:00 GMT",
-      "ts": 1790900100
-    },
-    {
-      "source": "MarketWatch",
       "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
       "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 00:14:00 GMT",
       "ts": 1790900040
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
-      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 00:13:00 GMT",
-      "ts": 1790899980
     },
     {
       "source": "Investing Crypto",
@@ -281,13 +288,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
       "published": "2026-10-01 21:51:19",
       "ts": 1790891479
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
-      "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 21:27:00 GMT",
-      "ts": 1790890020
     },
     {
       "source": "Investing Forex",
