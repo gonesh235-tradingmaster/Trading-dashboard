@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-02T21:45:15.440306Z",
+  "updated": "2026-10-02T22:09:28.635861Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 21:54:00 GMT",
+      "ts": 1790978040
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: Bears crowd $60 after six-percent weekly rout",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-bears-crowd-60-after-six-percent-weekly-rout-202610022152",
+      "published": "Fri, 02 Oct 2026 21:52:11 GMT",
+      "ts": 1790977931
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slightly up for the week on pared Fed rate hike bets, ’uptober’ hopes",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
+      "published": "2026-10-02 21:40:53",
+      "ts": 1790977253
+    },
     {
       "source": "CoinDesk",
       "title": "Bank group sues U.S. regulator over granting crypto trust charters",
@@ -85,13 +106,6 @@
       "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 20:12:00 GMT",
       "ts": 1790971920
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 20:10:00 GMT",
-      "ts": 1790971800
     },
     {
       "source": "FXStreet",
@@ -241,13 +255,6 @@
       "ts": 1790951514
     },
     {
-      "source": "FXStreet",
-      "title": "Canada labour market: Tariff effects assessed – RBC",
-      "link": "https://www.fxstreet.com/news/canada-labour-market-tariff-effects-assessed-rbc-202610021429",
-      "published": "Fri, 02 Oct 2026 14:29:52 GMT",
-      "ts": 1790951392
-    },
-    {
       "source": "Investing Crypto",
       "title": "Stablecoin firm Fasset aims to be a bank for people and their AI agents",
       "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-firm-fasset-aims-to-be-a-bank-for-people-and-their-ai-agents-4930084",
@@ -344,13 +351,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
       "published": "Fri, 02 Oct 2026 09:14:21 +0000",
       "ts": 1790932461
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rises to $86.5k with ‘uptober’ hopes, nonfarm payrolls in focus",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
-      "published": "2026-10-02 05:40:48",
-      "ts": 1790919648
     },
     {
       "source": "Investing Forex",
