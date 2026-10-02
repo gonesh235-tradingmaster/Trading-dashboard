@@ -1,13 +1,34 @@
 {
-  "updated": "2026-10-02T15:00:23.564944Z",
+  "updated": "2026-10-02T15:31:21.933302Z",
   "count": 60,
   "items": [
     {
       "source": "MarketWatch",
-      "title": "‘Complete destruction of the economy is all but certain’: Top jobs and home prices are at risk, a new report on AI says",
+      "title": "‘Complete disruption of the economy is all but certain’: Top jobs and home prices are at risk, a new report on AI says",
       "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 14:49:00 GMT",
-      "ts": 1790952540
+      "published": "Fri, 02 Oct 2026 15:18:00 GMT",
+      "ts": 1790954280
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Fading rallies as Fed pricing peaks – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-fading-rallies-as-fed-pricing-peaks-td-securities-202610021502",
+      "published": "Fri, 02 Oct 2026 15:02:23 GMT",
+      "ts": 1790953343
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 15:00:00 GMT",
+      "ts": 1790953200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 15:00:00 GMT",
+      "ts": 1790953200
     },
     {
       "source": "FXStreet",
@@ -150,13 +171,6 @@
       "ts": 1790945880
     },
     {
-      "source": "MarketWatch",
-      "title": "Nike’s stock heads for its worst year ever as the company’s troubles mount",
-      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 12:50:00 GMT",
-      "ts": 1790945400
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar edge lower after softer-than-expected U.S. payrolls data",
       "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
@@ -185,13 +199,6 @@
       "ts": 1790944236
     },
     {
-      "source": "MarketWatch",
-      "title": "To win the humanoid-robots race, the U.S. needs this critical machine component that’s hard to find",
-      "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 12:30:00 GMT",
-      "ts": 1790944200
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
       "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -213,13 +220,6 @@
       "ts": 1790941221
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar trades higher against US Dollar ahead of US NFP data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-trades-higher-against-us-dollar-ahead-of-us-nfp-data-202610021139",
-      "published": "Fri, 02 Oct 2026 11:39:03 GMT",
-      "ts": 1790941143
-    },
-    {
       "source": "CoinDesk",
       "title": "Cboe wants to turn VIX into a never-ending trade",
       "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
@@ -228,7 +228,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin trading near $87,000 after big miss on U.S. jobs",
+      "title": "Live updates: Bitcoin trading near $86,000 after big miss on U.S. jobs",
       "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
       "published": "Fri, 02 Oct 2026 11:22:40 +0000",
       "ts": 1790940160
