@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-02T11:09:51.424201Z",
+  "updated": "2026-10-02T11:28:20.636053Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc emerges as a safe-haven as global bonds sell off",
+      "link": "https://www.fxstreet.com/news/swiss-franc-emerges-as-a-safe-haven-as-global-bonds-sell-off-202610021124",
+      "published": "Fri, 02 Oct 2026 11:24:53 GMT",
+      "ts": 1790940293
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin, gold and tech futures edge higher as markets await U.S. jobs report",
+      "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
+      "published": "Fri, 02 Oct 2026 11:22:40 +0000",
+      "ts": 1790940160
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Downside risks despite ECB scope – BBH",
@@ -26,7 +40,7 @@
     {
       "source": "CoinTelegraph",
       "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
-      "link": "https://cointelegraph.com/interview/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "link": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 10:54:33 +0000",
       "ts": 1790938473
     },
@@ -176,13 +190,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
       "published": "Fri, 02 Oct 2026 09:14:21 +0000",
       "ts": 1790932461
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD: French risk premium weighs on Euro – ING",
-      "link": "https://www.fxstreet.com/news/eur-usd-french-risk-premium-weighs-on-euro-ing-202610020912",
-      "published": "Fri, 02 Oct 2026 09:12:44 GMT",
-      "ts": 1790932364
     },
     {
       "source": "MarketWatch",
@@ -379,13 +386,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
       "published": "Thu, 01 Oct 2026 11:59:17 +0000",
       "ts": 1790855957
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
-      "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
-      "published": "Thu, 01 Oct 2026 11:58:00 +0000",
-      "ts": 1790855880
     },
     {
       "source": "Investing Crypto",
