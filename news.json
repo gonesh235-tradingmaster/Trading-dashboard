@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-02T02:30:31.160781Z",
+  "updated": "2026-10-02T02:54:27.009959Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro weakens below 1.1250 on fiscal concerns, US NFP data looms",
+      "link": "https://www.fxstreet.com/news/euro-weakens-below-11250-on-fiscal-concerns-us-nfp-data-looms-202610020244",
+      "published": "Fri, 02 Oct 2026 02:44:26 GMT",
+      "ts": 1790909066
+    },
     {
       "source": "FXStreet",
       "title": "Japan’s Katayama says will beef up efforts to promote version of doge review of subsidies, funds",
@@ -113,13 +120,6 @@
       "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 00:13:00 GMT",
       "ts": 1790899980
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold recovers above $4,150 as US yields retreat ahead of US September jobs data",
-      "link": "https://www.fxstreet.com/news/gold-recovers-above-4-150-as-us-yields-retreat-ahead-of-us-september-jobs-data-202610012349",
-      "published": "Thu, 01 Oct 2026 23:49:56 GMT",
-      "ts": 1790898596
     },
     {
       "source": "FXStreet",
