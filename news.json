@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-02T03:11:24.754618Z",
+  "updated": "2026-10-02T03:30:25.674131Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro flattens against the Japanese Yen in countdown to Eurozone HICP data",
+      "link": "https://www.fxstreet.com/news/euro-flattens-against-the-japanese-yen-in-countdown-to-eurozone-hicp-data-202610020325",
+      "published": "Fri, 02 Oct 2026 03:25:57 GMT",
+      "ts": 1790911557
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar loses as US Dollar receives support from persistent inflation concerns",
@@ -99,13 +106,6 @@
       "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 00:30:00 GMT",
       "ts": 1790901000
-    },
-    {
-      "source": "FXStreet",
-      "title": "US pressures EU to tap emergency diesel stockpiles",
-      "link": "https://www.fxstreet.com/news/us-pressures-eu-to-tap-emergency-diesel-stockpiles-202610020023",
-      "published": "Fri, 02 Oct 2026 00:23:45 GMT",
-      "ts": 1790900625
     },
     {
       "source": "MarketWatch",
