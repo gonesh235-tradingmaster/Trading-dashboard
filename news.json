@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-02T09:55:56.099659Z",
+  "updated": "2026-10-02T10:12:05.026625Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso: Carry liquidation pressures LatAm currencies – MUFG",
+      "link": "https://www.fxstreet.com/news/mexican-peso-carry-liquidation-pressures-latam-currencies-mufg-202610021003",
+      "published": "Fri, 02 Oct 2026 10:03:41 GMT",
+      "ts": 1790935421
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees euro downside risk to 1.0850 on peripheral widening",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-euro-downside-risk-to-10850-on-peripheral-widening-93CH-4929312",
+      "published": "2026-10-02 09:55:07",
+      "ts": 1790934907
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges higher as dollar holds gains before U.S. payrolls",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-dollar-holds-gains-before-us-payrolls-4929238",
+      "published": "2026-10-02 09:50:15",
+      "ts": 1790934615
+    },
     {
       "source": "FXStreet",
       "title": "Euro trims daily gains as Eurozone inflation accelerates above expectations",
@@ -43,13 +64,6 @@
       "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
       "published": "2026-10-02 09:24:51",
       "ts": 1790933091
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges higher as dollar holds gains before U.S. payrolls",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-dollar-holds-gains-before-us-payrolls-4929238",
-      "published": "2026-10-02 09:23:43",
-      "ts": 1790933023
     },
     {
       "source": "CoinTelegraph",
@@ -123,14 +137,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "US Dollar: Fed pricing supports Dollar resilience – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-pricing-supports-dollar-resilience-ing-202610020830",
-      "published": "Fri, 02 Oct 2026 08:30:17 GMT",
-      "ts": 1790929817
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Nonfarm Payrolls expected to soften in September",
+      "title": "US Nonfarm Payrolls expected to show softer growth in September",
       "link": "https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-soften-in-september-202610020830",
       "published": "Fri, 02 Oct 2026 08:30:00 GMT",
       "ts": 1790929800
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
       "published": "2026-09-30 21:04:47",
       "ts": 1790802287
-    },
-    {
-      "source": "Investing Forex",
-      "title": "RBI forward dollar liabilities hit record $200 billion in August",
-      "link": "https://www.investing.com/news/forex-news/rbi-forward-dollar-liabilities-hit-record-200-billion-in-august-93CH-4925291",
-      "published": "2026-09-30 13:29:50",
-      "ts": 1790774990
     }
   ]
 }
