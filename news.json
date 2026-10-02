@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-02T07:57:51.752594Z",
+  "updated": "2026-10-02T08:18:18.998533Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
+      "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
+      "published": "Fri, 02 Oct 2026 08:11:54 +0000",
+      "ts": 1790928714
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar flattens against Japanese Yen after Tokyo CPI data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-flattens-against-japanese-yen-after-tokyo-cpi-data-202610020811",
+      "published": "Fri, 02 Oct 2026 08:11:20 GMT",
+      "ts": 1790928680
+    },
     {
       "source": "FXStreet",
       "title": "ECB’s Rehn: Higher energy prices bring us closer to ECB’s adverse scenario for inflation",
@@ -15,6 +29,13 @@
       "link": "https://www.fxstreet.com/news/global-treasury-yields-ease-amid-rising-frances-fiscal-political-concerns-202610020744",
       "published": "Fri, 02 Oct 2026 07:44:00 GMT",
       "ts": 1790927040
+    },
+    {
+      "source": "Investing Forex",
+      "title": "French debt set for 5th weekly rise at 2002 peaks, Bunds at over 1-week lows",
+      "link": "https://www.investing.com/news/forex-news/french-debt-set-for-5th-weekly-rise-at-2002-peaks-bunds-at-over-1week-lows-4929025",
+      "published": "2026-10-02 07:42:51",
+      "ts": 1790926971
     },
     {
       "source": "FXStreet",
@@ -71,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-trades-flat-against-japanese-yen-tokyo-cpi-beats-estimates-202610020707",
       "published": "Fri, 02 Oct 2026 07:07:01 GMT",
       "ts": 1790924821
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Strengthen to near 0.6950, but keeping bearish bias amid oversold conditions",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-strengthen-to-near-06950-but-keeping-bearish-bias-amid-oversold-conditions-202610020706",
-      "published": "Fri, 02 Oct 2026 07:06:19 GMT",
-      "ts": 1790924779
     },
     {
       "source": "CoinTelegraph",
@@ -367,13 +381,6 @@
       "ts": 1790851084
     },
     {
-      "source": "CoinDesk",
-      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-      "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
-      "published": "Thu, 01 Oct 2026 09:59:30 +0000",
-      "ts": 1790848770
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as global bond rout lifts dollar, gilt yields hit 6%",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-global-bond-rout-lifts-dollar-gilt-yields-hit-6-4926602",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/south-african-rand-strengthens-as-investors-review-economic-data-93CH-4925290",
       "published": "2026-09-30 13:29:20",
       "ts": 1790774960
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. yields pull back from peaks as cooler PCE print curbs Oct rate-hike odds",
-      "link": "https://www.investing.com/news/forex-news/us-10year-yields-anchor-near-2007-peaks-set-for-biggest-monthly-jump-in-2-yrs-4924286",
-      "published": "2026-09-30 12:44:12",
-      "ts": 1790772252
     }
   ]
 }
