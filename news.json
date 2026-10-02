@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-02T17:53:50.815967Z",
+  "updated": "2026-10-02T18:13:45.304836Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold fails at $4,200 despite NFP miss as US yields climb",
+      "link": "https://www.fxstreet.com/news/gold-fails-at-4-200-despite-nfp-miss-as-us-yields-climb-202610021803",
+      "published": "Fri, 02 Oct 2026 18:03:07 GMT",
+      "ts": 1790964187
+    },
     {
       "source": "FXStreet",
       "title": "Fed’s Goolsbee says inflation now outweighs labor concerns",
@@ -18,7 +25,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel-shock hangs over U.S. midterms",
+      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
       "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 17:48:00 GMT",
       "ts": 1790963280
@@ -60,7 +67,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Trump's possible next AI czar, Jay Clayton, began crypto's regulation-by-enforcement at SEC",
+      "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
       "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
       "published": "Fri, 02 Oct 2026 17:12:48 +0000",
       "ts": 1790961168
@@ -197,13 +204,6 @@
       "link": "https://www.fxstreet.com/news/rbi-to-keep-tightening-risks-alive-mufg-202610021428",
       "published": "Fri, 02 Oct 2026 14:28:05 GMT",
       "ts": 1790951285
-    },
-    {
-      "source": "FXStreet",
-      "title": "US labour market: Softer jobs ease Fed hike risk – ABN Amro",
-      "link": "https://www.fxstreet.com/news/us-labour-market-softer-jobs-ease-fed-hike-risk-abn-amro-202610021423",
-      "published": "Fri, 02 Oct 2026 14:23:14 GMT",
-      "ts": 1790950994
     },
     {
       "source": "CoinTelegraph",
