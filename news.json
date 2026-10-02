@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-02T05:11:14.383102Z",
+  "updated": "2026-10-02T05:29:17.189689Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "USD/CAD Price Forecast: Falls to near 1.4200 after pulling back from nearly 18-month highs",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-falls-to-near-14200-after-pulling-back-from-nearly-18-month-highs-202610020525",
+      "published": "Fri, 02 Oct 2026 05:25:03 GMT",
+      "ts": 1790918703
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver price forecast: XAG/USD rises to near $61.40 as US yields retreat, NFP eyed",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6140-as-us-yields-retreat-nfp-eyed-202610020524",
+      "published": "Fri, 02 Oct 2026 05:24:25 GMT",
+      "ts": 1790918665
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
+      "link": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 05:08:32 +0000",
+      "ts": 1790917712
+    },
     {
       "source": "FXStreet",
       "title": "WTI Price Forecast: Dips to $91.50 as Middle East jitters limit losses",
@@ -67,14 +88,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Likely retest YTD low near 1.3140",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-likely-retest-ytd-low-near-13140-202610020409",
-      "published": "Fri, 02 Oct 2026 04:09:52 GMT",
-      "ts": 1790914192
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold struggles to lure buyers amid bullish USD; eye US NFP for Fed rate cues",
+      "title": "Gold approaches $4,200 as USD bulls pause for a breather ahead of US NFP report",
       "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-bullish-usd-eye-us-nfp-for-fed-rate-cues-202610020355",
       "published": "Fri, 02 Oct 2026 03:55:15 GMT",
       "ts": 1790913315
@@ -99,13 +113,6 @@
       "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
       "published": "2026-10-02 03:30:31",
       "ts": 1790911831
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro flattens against the Japanese Yen in countdown to Eurozone HICP data",
-      "link": "https://www.fxstreet.com/news/euro-flattens-against-the-japanese-yen-in-countdown-to-eurozone-hicp-data-202610020325",
-      "published": "Fri, 02 Oct 2026 03:25:57 GMT",
-      "ts": 1790911557
     },
     {
       "source": "CoinTelegraph",
@@ -232,13 +239,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
       "published": "Thu, 01 Oct 2026 20:20:04 +0000",
       "ts": 1790886004
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 20:07:25 +0000",
-      "ts": 1790885245
     },
     {
       "source": "Investing Crypto",
