@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-02T15:31:21.933302Z",
+  "updated": "2026-10-02T15:56:11.393010Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound rebounds as NFP knocks out October Fed hike bets",
+      "link": "https://www.fxstreet.com/news/british-pound-rebounds-as-nfp-knocks-out-october-fed-hike-bets-202610021556",
+      "published": "Fri, 02 Oct 2026 15:56:09 GMT",
+      "ts": 1790956569
+    },
+    {
+      "source": "MarketWatch",
+      "title": "More than 10 million older adults are now living in poverty as Social Security cuts loom: ‘I don’t know how anyone is making it’",
+      "link": "https://www.marketwatch.com/story/more-than-10-million-older-adults-are-now-living-in-poverty-as-social-security-cuts-loom-i-dont-know-how-anyone-is-making-it-237ab798?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 15:49:00 GMT",
+      "ts": 1790956140
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel-shock hangs over U.S. midterms",
+      "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 15:42:00 GMT",
+      "ts": 1790955720
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here’s how it worked out.",
+      "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 15:37:00 GMT",
+      "ts": 1790955420
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto’s billions are back, but the premiums aren’t",
+      "link": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 15:32:53 +0000",
+      "ts": 1790955173
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
+      "link": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 15:27:31 +0000",
+      "ts": 1790954851
+    },
     {
       "source": "MarketWatch",
       "title": "‘Complete disruption of the economy is all but certain’: Top jobs and home prices are at risk, a new report on AI says",
@@ -115,13 +157,6 @@
       "ts": 1790947800
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 13:30:00 GMT",
-      "ts": 1790947800
-    },
-    {
       "source": "CoinDesk",
       "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
       "link": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
@@ -155,20 +190,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 13:00:00 +0000",
       "ts": 1790946000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 13:00:00 GMT",
-      "ts": 1790946000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why Western Digital and Seagate are seeing big stock drops today",
-      "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 12:58:00 GMT",
-      "ts": 1790945880
     },
     {
       "source": "Investing Forex",
@@ -206,13 +227,6 @@
       "ts": 1790943956
     },
     {
-      "source": "FXStreet",
-      "title": "Euro hits fresh two-month lows against British Pound after hot Eurozone inflation data",
-      "link": "https://www.fxstreet.com/news/euro-hits-fresh-two-month-lows-against-british-pound-after-hot-eurozone-inflation-data-202610021153",
-      "published": "Fri, 02 Oct 2026 11:53:08 GMT",
-      "ts": 1790941988
-    },
-    {
       "source": "CoinTelegraph",
       "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
       "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -228,7 +242,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin trading near $86,000 after big miss on U.S. jobs",
+      "title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
       "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
       "published": "Fri, 02 Oct 2026 11:22:40 +0000",
       "ts": 1790940160
@@ -267,20 +281,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 09:37:06 +0000",
       "ts": 1790933826
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
-      "link": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 09:30:49 +0000",
-      "ts": 1790933449
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
-      "link": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 09:18:52 +0000",
-      "ts": 1790932732
     },
     {
       "source": "CoinDesk",
