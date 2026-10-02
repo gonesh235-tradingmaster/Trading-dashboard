@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-02T01:42:08.990558Z",
+  "updated": "2026-10-02T01:56:50.524873Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index sits near March 2025 highs, above 102.00 ahead of US NFP",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-sits-near-march-2025-highs-above-10200-ahead-of-us-nfp-202610020154",
+      "published": "Fri, 02 Oct 2026 01:54:37 GMT",
+      "ts": 1790906077
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar falls as oil prices dip, US Dollar gains strength",
@@ -113,13 +120,6 @@
       "link": "https://www.fxstreet.com/news/27-japans-tokyo-cpi-inflation-climbs-in-september-202610012332",
       "published": "Thu, 01 Oct 2026 23:32:22 GMT",
       "ts": 1790897542
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar drifts toward 0.69 as USD shrugs off Fed patience",
-      "link": "https://www.fxstreet.com/news/australian-dollar-drifts-toward-069-as-usd-shrugs-off-fed-patience-202610012317",
-      "published": "Thu, 01 Oct 2026 23:17:48 GMT",
-      "ts": 1790896668
     },
     {
       "source": "CoinTelegraph",
