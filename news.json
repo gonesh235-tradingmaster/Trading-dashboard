@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-02T15:56:11.393010Z",
+  "updated": "2026-10-02T16:12:33.903223Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US payrolls miss at 29K and the Dollar Index drops below 102.00",
+      "link": "https://www.fxstreet.com/news/us-payrolls-miss-at-29k-and-the-dollar-index-drops-below-10200-202610021607",
+      "published": "Fri, 02 Oct 2026 16:07:02 GMT",
+      "ts": 1790957222
+    },
     {
       "source": "FXStreet",
       "title": "British Pound rebounds as NFP knocks out October Fed hike bets",
@@ -288,13 +295,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
       "published": "Fri, 02 Oct 2026 09:14:21 +0000",
       "ts": 1790932461
-    },
-    {
-      "source": "FXStreet",
-      "title": "Breaking: US Nonfarm Payrolls rise by 29K in September vs. 90K expected",
-      "link": "https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-soften-in-september-202610020830",
-      "published": "Fri, 02 Oct 2026 08:30:00 GMT",
-      "ts": 1790929800
     },
     {
       "source": "CoinDesk",
