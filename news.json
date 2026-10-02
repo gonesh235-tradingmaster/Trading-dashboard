@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-02T09:14:54.489936Z",
+  "updated": "2026-10-02T09:35:03.512959Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202610020932",
+      "published": "Fri, 02 Oct 2026 09:32:13 GMT",
+      "ts": 1790933533
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+      "link": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 09:30:49 +0000",
+      "ts": 1790933449
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Another viral AI doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
+      "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 09:25:00 GMT",
+      "ts": 1790933100
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges higher as dollar holds gains before U.S. payrolls",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-dollar-holds-gains-before-us-payrolls-4929238",
+      "published": "2026-10-02 09:23:43",
+      "ts": 1790933023
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
+      "link": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 09:18:52 +0000",
+      "ts": 1790932732
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 09:15:00 GMT",
+      "ts": 1790932500
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why rising perpetual funding rates signal growing bullish leverage as bitcoin crosses $86,500",
+      "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
+      "published": "Fri, 02 Oct 2026 09:14:21 +0000",
+      "ts": 1790932461
+    },
     {
       "source": "FXStreet",
       "title": "EUR/USD: French risk premium weighs on Euro – ING",
@@ -92,13 +141,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
       "published": "Fri, 02 Oct 2026 08:11:54 +0000",
       "ts": 1790928714
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar flattens against Japanese Yen after Tokyo CPI data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-flattens-against-japanese-yen-after-tokyo-cpi-data-202610020811",
-      "published": "Fri, 02 Oct 2026 08:11:20 GMT",
-      "ts": 1790928680
     },
     {
       "source": "Investing Forex",
@@ -192,13 +234,6 @@
       "ts": 1790906533
     },
     {
-      "source": "CoinTelegraph",
-      "title": "SEC moves to clear custody hurdle for advisers offering crypto",
-      "link": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 01:07:08 +0000",
-      "ts": 1790903228
-    },
-    {
       "source": "MarketWatch",
       "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
@@ -234,13 +269,6 @@
       "ts": 1790899980
     },
     {
-      "source": "CoinTelegraph",
-      "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
-      "link": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 23:17:47 +0000",
-      "ts": 1790896667
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin reverses course, inches up to kick off Q4 as U.S. Treasury bonds rally",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
@@ -260,20 +288,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
       "published": "2026-10-01 21:08:36",
       "ts": 1790888916
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The stock market is anything but normal right now — and these charts show it",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 21:01:00 GMT",
-      "ts": 1790888460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
-      "link": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 20:58:00 GMT",
-      "ts": 1790888280
     },
     {
       "source": "CoinDesk",
@@ -374,13 +388,6 @@
       "ts": 1790852434
     },
     {
-      "source": "CoinDesk",
-      "title": "Synthetic tokenized stocks are bad for American investors",
-      "link": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
-      "published": "Thu, 01 Oct 2026 11:00:00 +0000",
-      "ts": 1790852400
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as global bond rout lifts dollar, gilt yields hit 6%",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-global-bond-rout-lifts-dollar-gilt-yields-hit-6-4926602",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/rbi-forward-dollar-liabilities-hit-record-200-billion-in-august-93CH-4925291",
       "published": "2026-09-30 13:29:50",
       "ts": 1790774990
-    },
-    {
-      "source": "Investing Forex",
-      "title": "South African rand strengthens as investors review economic data",
-      "link": "https://www.investing.com/news/forex-news/south-african-rand-strengthens-as-investors-review-economic-data-93CH-4925290",
-      "published": "2026-09-30 13:29:20",
-      "ts": 1790774960
     }
   ]
 }
