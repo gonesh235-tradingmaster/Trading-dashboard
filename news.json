@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-02T04:30:51.673465Z",
+  "updated": "2026-10-02T04:55:31.354332Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Weakens below 109.50 as bearish tone persists below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-weakens-below-10950-as-bearish-tone-persists-below-100-day-sma-202610020450",
+      "published": "Fri, 02 Oct 2026 04:50:27 GMT",
+      "ts": 1790916627
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Next move hinges on US NFP data",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-next-move-hinges-on-us-nfp-data-202610020448",
+      "published": "Fri, 02 Oct 2026 04:48:16 GMT",
+      "ts": 1790916496
+    },
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610020436",
+      "published": "Fri, 02 Oct 2026 04:36:48 GMT",
+      "ts": 1790915808
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc gains as US Dollar eases amid easing Fed rate hike odds",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-eases-amid-easing-fed-rate-hike-odds-202610020432",
+      "published": "Fri, 02 Oct 2026 04:32:40 GMT",
+      "ts": 1790915560
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen draws support from hot Tokyo CPI as USD bulls await US NFP report",
@@ -73,39 +101,11 @@
       "ts": 1790909066
     },
     {
-      "source": "FXStreet",
-      "title": "Japan’s Katayama says will beef up efforts to promote version of doge review of subsidies, funds",
-      "link": "https://www.fxstreet.com/news/japans-katayama-says-will-beef-up-efforts-to-promote-version-of-doge-review-of-subsidies-funds-202610020228",
-      "published": "Fri, 02 Oct 2026 02:28:48 GMT",
-      "ts": 1790908128
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD slips below $60.50 amid rising inflation concerns",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-6050-amid-rising-inflation-concerns-202610020204",
-      "published": "Fri, 02 Oct 2026 02:04:32 GMT",
-      "ts": 1790906672
-    },
-    {
       "source": "CoinTelegraph",
       "title": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
       "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 02:02:13 +0000",
       "ts": 1790906533
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index sits near March 2025 highs, above 102.00 ahead of US NFP",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-sits-near-march-2025-highs-above-10200-ahead-of-us-nfp-202610020154",
-      "published": "Fri, 02 Oct 2026 01:54:37 GMT",
-      "ts": 1790906077
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar falls as oil prices dip, US Dollar gains strength",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-as-oil-prices-dip-us-dollar-gains-strength-202610020123",
-      "published": "Fri, 02 Oct 2026 01:23:58 GMT",
-      "ts": 1790904238
     },
     {
       "source": "CoinTelegraph",
