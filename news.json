@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-02T09:35:03.512959Z",
+  "updated": "2026-10-02T09:55:56.099659Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro trims daily gains as Eurozone inflation accelerates above expectations",
+      "link": "https://www.fxstreet.com/news/euro-trims-daily-gains-as-eurozone-inflation-accelerates-above-expectations-202610020946",
+      "published": "Fri, 02 Oct 2026 09:46:31 GMT",
+      "ts": 1790934391
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin reaches for $87K as short liquidations top $120M",
+      "link": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 09:37:06 +0000",
+      "ts": 1790933826
+    },
     {
       "source": "FXStreet",
       "title": "Silver price today: Silver rises, according to FXStreet data",
@@ -22,6 +36,13 @@
       "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 09:25:00 GMT",
       "ts": 1790933100
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
+      "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
+      "published": "2026-10-02 09:24:51",
+      "ts": 1790933091
     },
     {
       "source": "Investing Forex",
@@ -122,13 +143,6 @@
       "ts": 1790929699
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Safe-haven appeal strengthens – Commerzbank",
-      "link": "https://www.fxstreet.com/news/swiss-franc-safe-haven-appeal-strengthens-commerzbank-202610020828",
-      "published": "Fri, 02 Oct 2026 08:28:00 GMT",
-      "ts": 1790929680
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -206,13 +220,6 @@
       "ts": 1790913315
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar rally stalls ahead of payrolls test; yen firms on strong Tokyo inflation",
-      "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
-      "published": "2026-10-02 03:36:20",
-      "ts": 1790912180
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
       "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -225,13 +232,6 @@
       "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
       "published": "2026-10-02 03:30:31",
       "ts": 1790911831
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
-      "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 02:02:13 +0000",
-      "ts": 1790906533
     },
     {
       "source": "MarketWatch",
