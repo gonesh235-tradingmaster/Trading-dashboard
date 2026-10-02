@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-02T02:54:27.009959Z",
+  "updated": "2026-10-02T03:11:24.754618Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar loses as US Dollar receives support from persistent inflation concerns",
+      "link": "https://www.fxstreet.com/news/australian-dollar-loses-as-us-dollar-receives-support-from-persistent-inflation-concerns-202610020302",
+      "published": "Fri, 02 Oct 2026 03:02:54 GMT",
+      "ts": 1790910174
+    },
     {
       "source": "FXStreet",
       "title": "Euro weakens below 1.1250 on fiscal concerns, US NFP data looms",
@@ -120,13 +127,6 @@
       "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 00:13:00 GMT",
       "ts": 1790899980
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Japanese Yen gains little from a hot Tokyo inflation report",
-      "link": "https://www.fxstreet.com/news/tokyo-core-inflation-hits-27-and-the-yen-firms-202610012341",
-      "published": "Thu, 01 Oct 2026 23:41:24 GMT",
-      "ts": 1790898084
     },
     {
       "source": "CoinTelegraph",
