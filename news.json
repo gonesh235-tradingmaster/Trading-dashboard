@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-02T10:55:15.422708Z",
+  "updated": "2026-10-02T11:09:51.424201Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Downside risks despite ECB scope – BBH",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-despite-ecb-scope-bbh-202610021107",
+      "published": "Fri, 02 Oct 2026 11:07:52 GMT",
+      "ts": 1790939272
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro underperforms as France fiscal risks mount",
+      "link": "https://www.fxstreet.com/news/euro-underperforms-as-france-fiscal-risks-mount-202610021107",
+      "published": "Fri, 02 Oct 2026 11:07:24 GMT",
+      "ts": 1790939244
+    },
+    {
+      "source": "MarketWatch",
+      "title": "TV dinner overload? The frozen-food aisle may be too crowded for its own good.",
+      "link": "https://www.marketwatch.com/story/tv-dinner-overload-the-frozen-food-aisle-may-be-too-crowded-for-its-own-good-55bfed39?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 11:00:00 GMT",
+      "ts": 1790938800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
+      "link": "https://cointelegraph.com/interview/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 10:54:33 +0000",
+      "ts": 1790938473
+    },
     {
       "source": "MarketWatch",
       "title": "Three reasons why this Wall Street market-making powerhouse says investors should reload on stocks now",
@@ -116,7 +144,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Another viral AI doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
+      "title": "Another viral AI-doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
       "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 09:25:00 GMT",
       "ts": 1790933100
@@ -164,25 +192,11 @@
       "ts": 1790932020
     },
     {
-      "source": "FXStreet",
-      "title": "Eurozone flash HICP rises faster by 3.8% YoY in September, beats 3.6% estimates",
-      "link": "https://www.fxstreet.com/news/eurozone-flash-hicp-rises-faster-by-38-yoy-in-september-beats-36-estimates-202610020904",
-      "published": "Fri, 02 Oct 2026 09:04:36 GMT",
-      "ts": 1790931876
-    },
-    {
       "source": "MarketWatch",
       "title": "Famed former Boston Celtics commentator lists sunny Boston penthouse for $1.5 million",
       "link": "https://www.marketwatch.com/story/famed-former-boston-celtics-commentator-lists-sunny-boston-penthouse-for-1-5-million-dedfb48a?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 08:59:00 GMT",
       "ts": 1790931540
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Remains supported by 20-day EMA ahead of US NFP",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-remains-supported-by-20-day-ema-ahead-of-us-nfp-202610020857",
-      "published": "Fri, 02 Oct 2026 08:57:56 GMT",
-      "ts": 1790931476
     },
     {
       "source": "FXStreet",
@@ -262,13 +276,6 @@
       "ts": 1790917343
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Core Lightning warns attackers are targeting unpatched nodes",
-      "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 04:18:43 +0000",
-      "ts": 1790914723
-    },
-    {
       "source": "Investing Forex",
       "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity",
       "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
@@ -281,13 +288,6 @@
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 01:00:00 GMT",
       "ts": 1790902800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 00:30:00 GMT",
-      "ts": 1790901000
     },
     {
       "source": "Investing Crypto",
