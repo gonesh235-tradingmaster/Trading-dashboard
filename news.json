@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-02T05:46:50.396621Z",
+  "updated": "2026-10-02T06:13:17.007257Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: Hawkish Fed pricing backs more upside above 102.20",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-hawkish-fed-pricing-backs-more-upside-above-10220-202610020613",
+      "published": "Fri, 02 Oct 2026 06:13:10 GMT",
+      "ts": 1790921590
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen rises due to hot Tokyo CPI, dovish Fed bets",
+      "link": "https://www.fxstreet.com/news/japanese-yen-rises-due-to-hot-tokyo-cpi-dovish-fed-bets-202610020600",
+      "published": "Fri, 02 Oct 2026 06:00:32 GMT",
+      "ts": 1790920832
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 06:00:00 +0000",
+      "ts": 1790920800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
+      "link": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 05:53:27 +0000",
+      "ts": 1790920407
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar rebounds ahead of US jobs data, election uncertainty lingers",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-ahead-of-us-jobs-data-election-uncertainty-lingers-202610020551",
+      "published": "Fri, 02 Oct 2026 05:51:45 GMT",
+      "ts": 1790920305
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin rises to $86.5k with ‘uptober’ hopes, nonfarm payrolls in focus",
@@ -66,27 +101,6 @@
       "ts": 1790916496
     },
     {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610020436",
-      "published": "Fri, 02 Oct 2026 04:36:48 GMT",
-      "ts": 1790915808
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc gains as US Dollar eases amid easing Fed rate hike odds",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-eases-amid-easing-fed-rate-hike-odds-202610020432",
-      "published": "Fri, 02 Oct 2026 04:32:40 GMT",
-      "ts": 1790915560
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen draws support from hot Tokyo CPI as USD bulls await US NFP report",
-      "link": "https://www.fxstreet.com/news/japanese-yen-draws-support-from-hot-tokyo-cpi-as-usd-bulls-await-us-nfp-report-202610020421",
-      "published": "Fri, 02 Oct 2026 04:21:23 GMT",
-      "ts": 1790914883
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Core Lightning warns attackers are targeting unpatched nodes",
       "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -102,7 +116,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Japanese yen firms on strong inflation, dollar muted before payrolls test",
+      "title": "Dollar rally stalls ahead of payrolls test; yen firms on strong Tokyo inflation",
       "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
       "published": "2026-10-02 03:36:20",
       "ts": 1790912180
@@ -213,13 +227,6 @@
       "ts": 1790888460
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
-      "link": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 21:00:11 +0000",
-      "ts": 1790888411
-    },
-    {
       "source": "MarketWatch",
       "title": "Here’s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
       "link": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
@@ -267,13 +274,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
       "published": "Thu, 01 Oct 2026 18:45:29 +0000",
       "ts": 1790880329
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
-      "link": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 18:45:09 +0000",
-      "ts": 1790880309
     },
     {
       "source": "Investing Forex",
