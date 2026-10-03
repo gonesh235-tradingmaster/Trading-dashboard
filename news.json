@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-03T06:56:17.652372Z",
+  "updated": "2026-10-03T07:16:13.134392Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 03 Oct 2026 07:06:08 +0000",
+      "ts": 1791011168
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates $83K-$87K flag: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+      "published": "2026-10-03 07:02:06",
+      "ts": 1791010926
+    },
     {
       "source": "MarketWatch",
       "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
@@ -127,13 +141,6 @@
       "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
       "published": "2026-10-02 19:41:18",
       "ts": 1790970078
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin trapped at $84K in whipsaw zone: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "published": "2026-10-02 19:19:26",
-      "ts": 1790968766
     },
     {
       "source": "CoinTelegraph",
@@ -316,13 +323,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/travalas-crypto-loyalty-program-passes-170000-members-sets-longterm-goal-of-30-of-ava-supply-locked-4929740",
       "published": "2026-10-02 12:30:36",
       "ts": 1790944236
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
-      "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 12:25:56 +0000",
-      "ts": 1790943956
     },
     {
       "source": "CoinDesk",
