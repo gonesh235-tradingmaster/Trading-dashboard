@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-03T08:44:50.250958Z",
+  "updated": "2026-10-03T08:59:46.506255Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "BofA sees EUR/USD at 1.15 by year-end amid market risks",
+      "link": "https://www.investing.com/news/forex-news/bofa-sees-eurusd-at-115-by-yearend-amid-market-risks-93CH-4930789",
+      "published": "2026-10-03 08:45:22",
+      "ts": 1791017122
+    },
     {
       "source": "CoinTelegraph",
       "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-global-bond-rout-lifts-dollar-gilt-yields-hit-6-4926602",
       "published": "2026-10-01 08:58:09",
       "ts": 1790845089
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. dollar sees best month since June on hawkish Fed, U.S. Treasury bond rout",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
-      "published": "2026-09-30 21:04:47",
-      "ts": 1790802287
     }
   ]
 }
