@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-04T18:01:11.283311Z",
+  "updated": "2026-10-04T21:14:43.447428Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "Sun, 04 Oct 2026 20:31:00 GMT",
+      "ts": 1791145860
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "published": "Sun, 04 Oct 2026 20:00:00 GMT",
+      "ts": 1791144000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "published": "Sun, 04 Oct 2026 19:30:00 GMT",
+      "ts": 1791142200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "published": "Sun, 04 Oct 2026 19:08:00 GMT",
+      "ts": 1791140880
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin coils at $85,337 in bull trap or breakout setup: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+      "published": "2026-10-04 19:01:54",
+      "ts": 1791140514
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 04 Oct 2026 18:51:50 +0000",
+      "ts": 1791139910
+    },
+    {
+      "source": "CoinDesk",
+      "title": "There's an election next month: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+      "published": "Sun, 04 Oct 2026 18:30:00 +0000",
+      "ts": 1791138600
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin edges above $85,000 as traders weigh U.S. leveraged-crypto move",
@@ -73,13 +122,6 @@
       "ts": 1791098280
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin MFI hits 100 inside Ichimoku cloud: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "published": "2026-10-04 07:02:26",
-      "ts": 1791097346
-    },
-    {
       "source": "MarketWatch",
       "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
       "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
@@ -102,31 +144,10 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "Sat, 03 Oct 2026 20:00:00 GMT",
-      "ts": 1791057600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "published": "Sat, 03 Oct 2026 19:30:00 GMT",
-      "ts": 1791055800
-    },
-    {
-      "source": "MarketWatch",
       "title": "These bond strategies can help you get a safe 5% return on your cash",
       "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
       "published": "Sat, 03 Oct 2026 18:49:00 GMT",
       "ts": 1791053340
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "published": "Sat, 03 Oct 2026 18:30:00 GMT",
-      "ts": 1791052200
     },
     {
       "source": "Investing Crypto",
@@ -134,13 +155,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-85000-as-sec-custody-proposal-boosts-institutional-outlook-4930676",
       "published": "2026-10-03 18:16:48",
       "ts": 1791051408
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
-      "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
-      "published": "Sat, 03 Oct 2026 17:24:00 GMT",
-      "ts": 1791048240
     },
     {
       "source": "CoinDesk",
@@ -176,13 +190,6 @@
       "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
       "published": "Sat, 03 Oct 2026 13:00:00 +0000",
       "ts": 1791032400
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 03 Oct 2026 12:20:00 +0000",
-      "ts": 1791030000
     },
     {
       "source": "CoinTelegraph",
@@ -281,13 +288,6 @@
       "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
       "published": "Fri, 02 Oct 2026 17:34:40 +0000",
       "ts": 1790962480
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-      "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
-      "published": "Fri, 02 Oct 2026 17:15:35 +0000",
-      "ts": 1790961335
     },
     {
       "source": "Investing Crypto",
