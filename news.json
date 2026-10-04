@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-04T22:16:10.626048Z",
+  "updated": "2026-10-04T22:40:41.155490Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Middle East War updates: Iran says Strait of Hormuz main focus of talks to end war with US",
+      "link": "https://www.fxstreet.com/news/middle-east-war-updates-iran-says-strait-of-hormuz-main-focus-of-talks-to-end-war-with-us-202610042238",
+      "published": "Sun, 04 Oct 2026 22:38:47 GMT",
+      "ts": 1791153527
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 04 Oct 2026 22:31:12 +0000",
+      "ts": 1791153072
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
@@ -262,13 +276,6 @@
       "ts": 1790970078
     },
     {
-      "source": "CoinTelegraph",
-      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
-      "link": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 18:41:17 +0000",
-      "ts": 1790966477
-    },
-    {
       "source": "FXStreet",
       "title": "Gold fails at $4,200 despite NFP miss as US yields climb",
       "link": "https://www.fxstreet.com/news/gold-fails-at-4-200-despite-nfp-miss-as-us-yields-climb-202610021803",
@@ -337,13 +344,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-fomc-minutes-to-offer-limited-fresh-clues-td-securities-202610021435",
       "published": "Fri, 02 Oct 2026 14:35:04 GMT",
       "ts": 1790951704
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen gives back post-NFP gains despite US Dollar weakness",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gives-back-post-nfp-gains-despite-us-dollar-weakness-202610021431",
-      "published": "Fri, 02 Oct 2026 14:31:54 GMT",
-      "ts": 1790951514
     },
     {
       "source": "Investing Crypto",
