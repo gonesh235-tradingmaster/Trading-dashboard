@@ -1,20 +1,76 @@
 {
-  "updated": "2026-10-04T11:10:12.714469Z",
+  "updated": "2026-10-04T18:01:11.283311Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin edges above $85,000 as traders weigh U.S. leveraged-crypto move",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-85000-as-sec-clears-first-3x-leveraged-crypto-etps-4930906",
+      "published": "2026-10-04 17:30:51",
+      "ts": 1791135051
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto poured years into new products. The next challenge is keeping users",
+      "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+      "published": "Sun, 04 Oct 2026 14:00:00 +0000",
+      "ts": 1791122400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Corporate America has never been this upbeat about future profits",
+      "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+      "published": "Sun, 04 Oct 2026 14:00:00 GMT",
+      "ts": 1791122400
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+      "link": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 04 Oct 2026 13:48:48 +0000",
+      "ts": 1791121728
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+      "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+      "published": "Sun, 04 Oct 2026 13:00:00 +0000",
+      "ts": 1791118800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
+      "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+      "published": "Sun, 04 Oct 2026 13:00:00 GMT",
+      "ts": 1791118800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+      "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 04 Oct 2026 12:42:00 +0000",
+      "ts": 1791117720
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+      "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+      "published": "Sun, 04 Oct 2026 12:00:00 GMT",
+      "ts": 1791115200
+    },
     {
       "source": "CoinTelegraph",
       "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
       "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 09:39:51 +0000",
-      "ts": 1791106791
+      "published": "Sun, 04 Oct 2026 09:40:00 +0000",
+      "ts": 1791106800
     },
     {
       "source": "CoinTelegraph",
       "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
       "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 07:16:53 +0000",
-      "ts": 1791098213
+      "published": "Sun, 04 Oct 2026 07:18:00 +0000",
+      "ts": 1791098280
     },
     {
       "source": "Investing Crypto",
@@ -22,13 +78,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
       "published": "2026-10-04 07:02:26",
       "ts": 1791097346
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin holds near $85,000 as SEC clears first 3x leveraged crypto ETPs",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-85000-as-sec-clears-first-3x-leveraged-crypto-etps-4930906",
-      "published": "2026-10-04 05:38:13",
-      "ts": 1791092293
     },
     {
       "source": "MarketWatch",
@@ -94,13 +143,6 @@
       "ts": 1791048240
     },
     {
-      "source": "MarketWatch",
-      "title": "Switching jobs to get higher pay works best in these industries",
-      "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
-      "published": "Sat, 03 Oct 2026 16:42:00 GMT",
-      "ts": 1791045720
-    },
-    {
       "source": "CoinDesk",
       "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
       "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
@@ -113,20 +155,6 @@
       "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
       "published": "Sat, 03 Oct 2026 16:00:00 +0000",
       "ts": 1791043200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "published": "Sat, 03 Oct 2026 16:00:00 GMT",
-      "ts": 1791043200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
-      "link": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
-      "published": "Sat, 03 Oct 2026 15:42:00 GMT",
-      "ts": 1791042120
     },
     {
       "source": "CoinDesk",
@@ -167,8 +195,8 @@
       "source": "CoinTelegraph",
       "title": "Community banks sue OCC over trust bank charters of crypto firms",
       "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 03 Oct 2026 09:25:01 +0000",
-      "ts": 1791019501
+      "published": "Sat, 03 Oct 2026 09:28:00 +0000",
+      "ts": 1791019680
     },
     {
       "source": "Investing Forex",
@@ -179,10 +207,10 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "title": "Trump expected to appoint Jay Clayton as new AI czar: Reports",
       "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 03 Oct 2026 07:06:08 +0000",
-      "ts": 1791011168
+      "published": "Sat, 03 Oct 2026 07:09:00 +0000",
+      "ts": 1791011340
     },
     {
       "source": "FXStreet",
@@ -234,13 +262,6 @@
       "ts": 1790966477
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
-      "link": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 18:24:05 +0000",
-      "ts": 1790965445
-    },
-    {
       "source": "FXStreet",
       "title": "Gold fails at $4,200 despite NFP miss as US yields climb",
       "link": "https://www.fxstreet.com/news/gold-fails-at-4-200-despite-nfp-miss-as-us-yields-climb-202610021803",
@@ -269,13 +290,6 @@
       "ts": 1790961335
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
-      "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
-      "published": "Fri, 02 Oct 2026 17:12:48 +0000",
-      "ts": 1790961168
-    },
-    {
       "source": "Investing Crypto",
       "title": "Umia Opens Its Platform to Outside Projects, With Slop Cash From elizaOS Creator Shaw Walters the First to Be Announced",
       "link": "https://www.investing.com/news/cryptocurrency-news/umia-opens-its-platform-to-outside-projects-with-slop-cash-from-elizaos-creator-shaw-walters-the-first-to-be-announced-4930199",
@@ -288,13 +302,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/coinpayments-founder-alex-alexandrov-appointed-group-ceo-as-company-strengthens-executive-team-4930200",
       "published": "2026-10-02 16:30:34",
       "ts": 1790958634
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
-      "link": "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 16:20:24 +0000",
-      "ts": 1790958024
     },
     {
       "source": "FXStreet",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-firm-fasset-aims-to-be-a-bank-for-people-and-their-ai-agents-4930084",
       "published": "2026-10-02 14:28:26",
       "ts": 1790951306
-    },
-    {
-      "source": "CoinDesk",
-      "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
-      "link": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
-      "published": "Fri, 02 Oct 2026 13:22:19 +0000",
-      "ts": 1790947339
     },
     {
       "source": "Investing Forex",
