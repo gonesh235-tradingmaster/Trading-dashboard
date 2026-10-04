@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-04T05:38:18.376374Z",
+  "updated": "2026-10-04T11:10:12.714469Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+      "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 04 Oct 2026 09:39:51 +0000",
+      "ts": 1791106791
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+      "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 04 Oct 2026 07:16:53 +0000",
+      "ts": 1791098213
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin MFI hits 100 inside Ichimoku cloud: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+      "published": "2026-10-04 07:02:26",
+      "ts": 1791097346
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds near $85,000 as SEC clears first 3x leveraged crypto ETPs",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-85000-as-sec-clears-first-3x-leveraged-crypto-etps-4930906",
+      "published": "2026-10-04 05:38:13",
+      "ts": 1791092293
+    },
     {
       "source": "MarketWatch",
       "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
@@ -36,13 +64,6 @@
       "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
       "published": "Sat, 03 Oct 2026 19:30:00 GMT",
       "ts": 1791055800
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stuck at $84,947 in tightening range: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "published": "2026-10-03 19:02:33",
-      "ts": 1791054153
     },
     {
       "source": "MarketWatch",
@@ -297,20 +318,6 @@
       "ts": 1790956569
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Crypto’s billions are back, but the premiums aren’t",
-      "link": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 15:32:53 +0000",
-      "ts": 1790955173
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
-      "link": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 15:27:31 +0000",
-      "ts": 1790954851
-    },
-    {
       "source": "FXStreet",
       "title": "US Dollar: Fading rallies as Fed pricing peaks – TD Securities",
       "link": "https://www.fxstreet.com/news/us-dollar-fading-rallies-as-fed-pricing-peaks-td-securities-202610021502",
@@ -407,13 +414,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-as-us-dollar-strength-yield-gap-keeps-pressure-4928043",
       "published": "2026-10-01 17:46:09",
       "ts": 1790876769
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner",
-      "link": "https://www.investing.com/news/cryptocurrency-news/21x-group-announces-collaboration-with-circle-as-it-joins-arc-as-a-day1-launch-partner-4927879",
-      "published": "2026-10-01 15:30:37",
-      "ts": 1790868637
     },
     {
       "source": "Investing Forex",
