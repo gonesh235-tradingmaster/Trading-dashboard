@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-05T10:13:11.958220Z",
+  "updated": "2026-10-05T10:34:34.704112Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Micron’s historic cash bonanza is set to rain down on investors",
+      "link": "https://www.marketwatch.com/story/microns-historic-cash-bonanza-is-set-to-rain-down-on-investors-b61e6955?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 10:30:00 GMT",
+      "ts": 1791196200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 10:15:00 GMT",
+      "ts": 1791195300
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
+      "link": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 10:11:26 +0000",
+      "ts": 1791195086
+    },
+    {
+      "source": "Investing Forex",
+      "title": "HSBC models signal risk-on equity outlook after market volatility",
+      "link": "https://www.investing.com/news/forex-news/hsbc-models-signal-riskon-equity-outlook-after-market-volatility-93CH-4931484",
+      "published": "2026-10-05 10:09:38",
+      "ts": 1791194978
+    },
     {
       "source": "FXStreet",
       "title": "Brazilian Real: Election surprise supports BRL against US Dollar – ING",
@@ -297,13 +325,6 @@
       "ts": 1791142200
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "published": "Sun, 04 Oct 2026 19:08:00 GMT",
-      "ts": 1791140880
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin coils at $85,337 in bull trap or breakout setup: Live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
@@ -330,20 +351,6 @@
       "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
       "published": "Sun, 04 Oct 2026 14:00:00 +0000",
       "ts": 1791122400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Corporate America has never been this upbeat about future profits",
-      "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
-      "published": "Sun, 04 Oct 2026 14:00:00 GMT",
-      "ts": 1791122400
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
-      "link": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 13:48:48 +0000",
-      "ts": 1791121728
     },
     {
       "source": "Investing Forex",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/french-debt-set-for-5th-weekly-rise-at-2002-peaks-bunds-at-over-1week-lows-4929025",
       "published": "2026-10-02 12:44:26",
       "ts": 1790945066
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees euro downside risk to 1.0850 on peripheral widening",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-euro-downside-risk-to-10850-on-peripheral-widening-93CH-4929312",
-      "published": "2026-10-02 09:55:07",
-      "ts": 1790934907
     }
   ]
 }
