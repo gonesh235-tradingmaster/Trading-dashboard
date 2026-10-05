@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-05T01:55:00.571284Z",
+  "updated": "2026-10-05T02:09:54.394762Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI drops to near $89.00 as OPEC+ holds November targets",
+      "link": "https://www.fxstreet.com/news/wti-drops-to-near-8900-as-opec-holds-november-targets-202610050208",
+      "published": "Mon, 05 Oct 2026 02:08:56 GMT",
+      "ts": 1791166136
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar languishes near April 2025 lows as USD bulls look past weak NFP report",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-languishes-near-april-2025-lows-as-usd-bulls-look-past-weak-nfp-report-202610050201",
+      "published": "Mon, 05 Oct 2026 02:01:10 GMT",
+      "ts": 1791165670
+    },
+    {
+      "source": "FXStreet",
+      "title": "Middle East crude oil exports rise above pre-war levels but tanker attacks increase",
+      "link": "https://www.fxstreet.com/news/middle-east-crude-oil-exports-rise-above-pre-war-levels-but-tanker-attacks-increase-202610050159",
+      "published": "Mon, 05 Oct 2026 01:59:37 GMT",
+      "ts": 1791165577
+    },
     {
       "source": "FXStreet",
       "title": "BoJ’s Uchida: AI has become a major focus among central banks, including at BoJ policy meetings",
@@ -57,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-drifts-higher-above-06950-on-soft-us-jobs-data-202610042321",
       "published": "Sun, 04 Oct 2026 23:21:46 GMT",
       "ts": 1791156106
-    },
-    {
-      "source": "FXStreet",
-      "title": "Middle East War updates: Iran says Strait of Hormuz main focus of talks to end war with US",
-      "link": "https://www.fxstreet.com/news/middle-east-war-updates-iran-says-strait-of-hormuz-main-focus-of-talks-to-end-war-with-us-202610042238",
-      "published": "Sun, 04 Oct 2026 22:38:47 GMT",
-      "ts": 1791153527
     },
     {
       "source": "CoinTelegraph",
@@ -290,13 +304,6 @@
       "ts": 1791011340
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: Bears crowd $60 after six-percent weekly rout",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-bears-crowd-60-after-six-percent-weekly-rout-202610022152",
-      "published": "Fri, 02 Oct 2026 21:52:11 GMT",
-      "ts": 1790977931
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slightly up for the week on pared Fed rate hike bets, ’uptober’ hopes",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
@@ -309,13 +316,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
       "published": "Fri, 02 Oct 2026 21:23:20 +0000",
       "ts": 1790976200
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso rebounds but carry trade exodus still bites",
-      "link": "https://www.fxstreet.com/news/mexican-peso-rebounds-but-carry-trade-exodus-still-bites-202610022008",
-      "published": "Fri, 02 Oct 2026 20:08:43 GMT",
-      "ts": 1790971723
     },
     {
       "source": "Investing Forex",
