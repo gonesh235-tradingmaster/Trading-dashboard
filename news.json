@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-05T01:11:39.478862Z",
+  "updated": "2026-10-05T01:30:25.941168Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen bulls seem hesitant as USD reverses post-NFP slide amid geopolitical tensions",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bulls-seem-hesitant-as-usd-reverses-post-nfp-slide-amid-geopolitical-tensions-202610050115",
+      "published": "Mon, 05 Oct 2026 01:15:25 GMT",
+      "ts": 1791162925
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound softens as US Dollar gains despite easing Fed rate hike odds",
+      "link": "https://www.fxstreet.com/news/british-pound-softens-as-us-dollar-gains-despite-easing-fed-rate-hike-odds-202610050114",
+      "published": "Mon, 05 Oct 2026 01:14:26 GMT",
+      "ts": 1791162866
+    },
     {
       "source": "FXStreet",
       "title": "Euro softens below 1.1250 on France’s fiscal risk",
@@ -311,13 +325,6 @@
       "ts": 1790964187
     },
     {
-      "source": "FXStreet",
-      "title": "Fed’s Goolsbee says inflation now outweighs labor concerns",
-      "link": "https://www.fxstreet.com/news/feds-goolsbee-says-inflation-now-outweighs-labor-concerns-202610021748",
-      "published": "Fri, 02 Oct 2026 17:48:07 GMT",
-      "ts": 1790963287
-    },
-    {
       "source": "CoinDesk",
       "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
       "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
@@ -337,13 +344,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/coinpayments-founder-alex-alexandrov-appointed-group-ceo-as-company-strengthens-executive-team-4930200",
       "published": "2026-10-02 16:30:34",
       "ts": 1790958634
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar rebounds after sharp US employment disappointment",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-after-sharp-us-employment-disappointment-202610021614",
-      "published": "Fri, 02 Oct 2026 16:14:17 GMT",
-      "ts": 1790957657
     },
     {
       "source": "Investing Crypto",
