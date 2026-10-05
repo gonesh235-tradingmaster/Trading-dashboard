@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-05T09:45:15.701571Z",
+  "updated": "2026-10-05T10:13:11.958220Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Brazilian Real: Election surprise supports BRL against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/brazilian-real-election-surprise-supports-brl-against-us-dollar-ing-202610051002",
+      "published": "Mon, 05 Oct 2026 10:02:47 GMT",
+      "ts": 1791194567
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Volatility-driven support into year-end – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-volatility-driven-support-into-year-end-ocbc-202610050952",
+      "published": "Mon, 05 Oct 2026 09:52:25 GMT",
+      "ts": 1791193945
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold Price Forecast: XAU/USD languishes below $4,200 amid high US yields",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-languishes-below-4-200-amid-high-us-yields-202610050951",
+      "published": "Mon, 05 Oct 2026 09:51:14 GMT",
+      "ts": 1791193874
+    },
     {
       "source": "FXStreet",
       "title": "Swiss Franc: Tight range expected against US Dollar - UOB",
@@ -29,6 +50,13 @@
       "link": "https://www.fxstreet.com/news/cee-fx-hawkish-holds-and-cautious-easing-path-societe-generale-202610050932",
       "published": "Mon, 05 Oct 2026 09:32:43 GMT",
       "ts": 1791192763
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro falls as Paris debt turmoil overshadows dovish shift in Fed rate expectations",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
+      "published": "2026-10-05 09:30:36",
+      "ts": 1791192636
     },
     {
       "source": "FXStreet",
@@ -115,13 +143,6 @@
       "ts": 1791190930
     },
     {
-      "source": "FXStreet",
-      "title": "ISM Services PMI expected to show robust US economy in September",
-      "link": "https://www.fxstreet.com/news/ism-services-pmi-expected-to-show-robust-us-economy-in-september-202610050900",
-      "published": "Mon, 05 Oct 2026 09:00:00 GMT",
-      "ts": 1791190800
-    },
-    {
       "source": "MarketWatch",
       "title": "Tyler Perry lists huge Beverly Hills mansion for $57 million: ‘Yep, moving to Puerto Rico’",
       "link": "https://www.marketwatch.com/story/tyler-perry-lists-huge-beverly-hills-mansion-for-57-million-yep-moving-to-puerto-rico-a080916b?mod=mw_rss_topstories",
@@ -148,13 +169,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 08:00:49 +0000",
       "ts": 1791187249
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies weaken as dollar gains, euro hits 17-month low",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
-      "published": "2026-10-05 07:44:31",
-      "ts": 1791186271
     },
     {
       "source": "Investing Forex",
@@ -185,13 +199,6 @@
       "ts": 1791182429
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee holds early ground as traders trim hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-at-start-of-rbis-policy-week-202610050540",
-      "published": "Mon, 05 Oct 2026 05:40:25 GMT",
-      "ts": 1791178825
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -204,13 +211,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
       "published": "Mon, 05 Oct 2026 04:45:03 +0000",
       "ts": 1791175503
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold clings to gains as receding Fed hike and soft US bond yields counter strong USD",
-      "link": "https://www.fxstreet.com/news/gold-bulls-remain-on-the-sidelines-as-usd-rallies-to-fresh-ytd-peak-202610050443",
-      "published": "Mon, 05 Oct 2026 04:43:14 GMT",
-      "ts": 1791175394
     },
     {
       "source": "CoinDesk",
