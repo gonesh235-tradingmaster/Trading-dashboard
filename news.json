@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-05T13:15:14.001514Z",
+  "updated": "2026-10-05T13:45:48.236742Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Gradual Dollar gains into United Kingdom budget – HSBC",
+      "link": "https://www.fxstreet.com/news/british-pound-gradual-dollar-gains-into-united-kingdom-budget-hsbc-202610051340",
+      "published": "Mon, 05 Oct 2026 13:40:16 GMT",
+      "ts": 1791207616
+    },
+    {
+      "source": "MarketWatch",
+      "title": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
+      "link": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 13:30:00 GMT",
+      "ts": 1791207000
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy opts for bigger spending on STRC buybacks over BTC purchases",
+      "link": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 13:22:16 +0000",
+      "ts": 1791206536
+    },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
@@ -31,18 +52,18 @@
       "ts": 1791205200
     },
     {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 12% As Investors Gain Confidence",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4932178",
+      "published": "2026-10-05 12:54:00",
+      "ts": 1791204840
+    },
+    {
       "source": "FXStreet",
       "title": "Euro extends decline against British Pound on France debt concerns",
       "link": "https://www.fxstreet.com/news/euro-extends-decline-against-british-pound-on-france-debt-concerns-202610051249",
       "published": "Mon, 05 Oct 2026 12:49:56 GMT",
       "ts": 1791204596
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Strategy opts for bigger spending on STRC buybacks over BTC purchases",
-      "link": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 12:46:47 +0000",
-      "ts": 1791204407
     },
     {
       "source": "FXStreet",
@@ -134,13 +155,6 @@
       "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 11:27:00 GMT",
       "ts": 1791199620
-    },
-    {
-      "source": "MarketWatch",
-      "title": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
-      "link": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 11:19:00 GMT",
-      "ts": 1791199140
     },
     {
       "source": "MarketWatch",
@@ -325,13 +339,6 @@
       "ts": 1791183460
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee edges up at start of RBI's policy week",
-      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-at-start-of-rbis-policy-week-202610050540",
-      "published": "Mon, 05 Oct 2026 05:40:25 GMT",
-      "ts": 1791178825
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
       "link": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -398,13 +405,6 @@
       "source": "Investing Crypto",
       "title": "Umia Opens Its Platform to Outside Projects, With Slop Cash From elizaOS Creator Shaw Walters the First to Be Announced",
       "link": "https://www.investing.com/news/cryptocurrency-news/umia-opens-its-platform-to-outside-projects-with-slop-cash-from-elizaos-creator-shaw-walters-the-first-to-be-announced-4930199",
-      "published": "2026-10-02 16:30:34",
-      "ts": 1790958634
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "COINPAYMENTS founder Alex Alexandrov appointed Group CEO as company strengthens executive team",
-      "link": "https://www.investing.com/news/cryptocurrency-news/coinpayments-founder-alex-alexandrov-appointed-group-ceo-as-company-strengthens-executive-team-4930200",
       "published": "2026-10-02 16:30:34",
       "ts": 1790958634
     },
