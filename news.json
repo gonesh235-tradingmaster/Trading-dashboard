@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-05T11:56:50.187337Z",
+  "updated": "2026-10-05T12:19:16.426341Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "European Central Bank: Contagion risk reshapes rate expectations – MUFG",
+      "link": "https://www.fxstreet.com/news/european-central-bank-contagion-risk-reshapes-rate-expectations-mufg-202610051214",
+      "published": "Mon, 05 Oct 2026 12:14:04 GMT",
+      "ts": 1791202444
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar: Downside limited against US Dollar – UOB",
@@ -137,7 +144,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
+      "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says one major bank.",
       "link": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 10:33:00 GMT",
       "ts": 1791196380
@@ -176,13 +183,6 @@
       "link": "https://www.fxstreet.com/news/brazilian-real-election-surprise-supports-brl-against-us-dollar-ing-202610051002",
       "published": "Mon, 05 Oct 2026 10:02:47 GMT",
       "ts": 1791194567
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Volatility-driven support into year-end – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-volatility-driven-support-into-year-end-ocbc-202610050952",
-      "published": "Mon, 05 Oct 2026 09:52:25 GMT",
-      "ts": 1791193945
     },
     {
       "source": "MarketWatch",
