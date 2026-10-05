@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-05T17:56:26.158290Z",
+  "updated": "2026-10-05T18:16:46.413561Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+      "link": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 17:58:58 +0000",
+      "ts": 1791223138
+    },
     {
       "source": "MarketWatch",
       "title": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
       "published": "2026-10-05 09:30:36",
       "ts": 1791192636
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 09:08:09 +0000",
-      "ts": 1791191289
     },
     {
       "source": "Investing Forex",
