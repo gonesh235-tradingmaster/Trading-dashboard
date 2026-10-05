@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-05T12:19:16.426341Z",
+  "updated": "2026-10-05T12:50:05.096860Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Fragmentation fears weigh on EUR – OCBC",
+      "link": "https://www.fxstreet.com/news/euro-fragmentation-fears-weigh-on-eur-ocbc-202610051241",
+      "published": "Mon, 05 Oct 2026 12:41:25 GMT",
+      "ts": 1791204085
+    },
+    {
+      "source": "FXStreet",
+      "title": "Oil: Crude forecasts signal inflation surprises ahead - Societe Generale",
+      "link": "https://www.fxstreet.com/news/oil-crude-forecasts-signal-inflation-surprises-ahead-societe-generale-202610051230",
+      "published": "Mon, 05 Oct 2026 12:30:12 GMT",
+      "ts": 1791203412
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Too big to pause: Could an AI slowdown crash the economy?",
+      "link": "https://cointelegraph.com/features/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 12:30:00 +0000",
+      "ts": 1791203400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Go ahead and get that poetry degree. Republican law won’t prevent people with humanities majors from getting student loans.",
+      "link": "https://www.marketwatch.com/story/go-ahead-and-get-that-poetry-degree-republican-law-wont-prevent-people-with-humanities-majors-from-getting-student-loans-f94587cf?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 12:30:00 GMT",
+      "ts": 1791203400
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
+      "link": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 12:28:39 +0000",
+      "ts": 1791203319
+    },
+    {
+      "source": "CoinDesk",
+      "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
+      "link": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
+      "published": "Mon, 05 Oct 2026 12:28:35 +0000",
+      "ts": 1791203315
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar bounces up as US Dollar  loses steam with services PMIs in focus",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bounces-up-as-us-dollar-loses-steam-with-services-pmis-in-focus-202610051224",
+      "published": "Mon, 05 Oct 2026 12:24:45 GMT",
+      "ts": 1791203085
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasuries pause; French debt yields retreat after violent shock",
+      "link": "https://www.investing.com/news/forex-news/french-debt-yields-rise-as-fiscal-worries-mount-4931106",
+      "published": "2026-10-05 12:21:10",
+      "ts": 1791202870
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Strategy buys 334 bitcoin and holds 848,000 BTC as of October 4",
+      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-334-bitcoin-and-holds-848000-btc-as-of-october-4-432SI-4932036",
+      "published": "2026-10-05 12:18:02",
+      "ts": 1791202682
+    },
     {
       "source": "FXStreet",
       "title": "European Central Bank: Contagion risk reshapes rate expectations – MUFG",
@@ -87,20 +150,6 @@
       "ts": 1791197883
     },
     {
-      "source": "FXStreet",
-      "title": "USD/CHF Price Forecast: Holds below 0.8320 as the Swissie withstands bonds selloff",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-holds-below-08320-as-the-swissie-withstands-bonds-selloff-202610051051",
-      "published": "Mon, 05 Oct 2026 10:51:25 GMT",
-      "ts": 1791197485
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold struggles as dovish Fed repricing meets stronger US Dollar, elevated yields",
-      "link": "https://www.fxstreet.com/news/gold-struggles-as-dovish-fed-repricing-meets-stronger-us-dollar-elevated-yields-202610051050",
-      "published": "Mon, 05 Oct 2026 10:50:46 GMT",
-      "ts": 1791197446
-    },
-    {
       "source": "MarketWatch",
       "title": "Bitcoin’s big bounce has graduated to a longer-term uptrend. Is it too late to buy?",
       "link": "https://www.marketwatch.com/story/bitcoins-big-bounce-has-graduated-to-a-longer-term-uptrend-is-it-too-late-to-buy-a9bc585c?mod=mw_rss_topstories",
@@ -136,13 +185,6 @@
       "ts": 1791196650
     },
     {
-      "source": "FXStreet",
-      "title": "Why is the US Dollar rising despite October Fed hike odds fading?",
-      "link": "https://www.fxstreet.com/news/why-is-the-us-dollar-rising-despite-october-fed-hike-odds-fading-202610051037",
-      "published": "Mon, 05 Oct 2026 10:37:22 GMT",
-      "ts": 1791196642
-    },
-    {
       "source": "MarketWatch",
       "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says one major bank.",
       "link": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
@@ -176,20 +218,6 @@
       "link": "https://www.investing.com/news/forex-news/hsbc-models-signal-riskon-equity-outlook-after-market-volatility-93CH-4931484",
       "published": "2026-10-05 10:09:38",
       "ts": 1791194978
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brazilian Real: Election surprise supports BRL against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/brazilian-real-election-surprise-supports-brl-against-us-dollar-ing-202610051002",
-      "published": "Mon, 05 Oct 2026 10:02:47 GMT",
-      "ts": 1791194567
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
-      "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 09:39:00 GMT",
-      "ts": 1791193140
     },
     {
       "source": "CoinDesk",
@@ -234,6 +262,13 @@
       "ts": 1791190930
     },
     {
+      "source": "FXStreet",
+      "title": "ISM Services PMI expected to signal a solid US economy in September",
+      "link": "https://www.fxstreet.com/news/ism-services-pmi-expected-to-show-robust-us-economy-in-september-202610050900",
+      "published": "Mon, 05 Oct 2026 09:00:00 GMT",
+      "ts": 1791190800
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
       "link": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -255,13 +290,6 @@
       "ts": 1791187249
     },
     {
-      "source": "Investing Forex",
-      "title": "French debt yields rise as fiscal worries mount",
-      "link": "https://www.investing.com/news/forex-news/french-debt-yields-rise-as-fiscal-worries-mount-4931106",
-      "published": "2026-10-05 07:30:28",
-      "ts": 1791185428
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin tests $87,363 resistance with fading momentum: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
@@ -274,13 +302,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
       "published": "Mon, 05 Oct 2026 06:57:40 +0000",
       "ts": 1791183460
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
-      "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
-      "published": "Mon, 05 Oct 2026 06:40:29 +0000",
-      "ts": 1791182429
     },
     {
       "source": "FXStreet",
@@ -323,20 +344,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-rally-4930987",
       "published": "2026-10-05 02:16:01",
       "ts": 1791166561
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Zcash gets a Washington lobbyist to push crypto policy",
-      "link": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 00:35:34 +0000",
-      "ts": 1791160534
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 22:31:12 +0000",
-      "ts": 1791153072
     },
     {
       "source": "Investing Crypto",
@@ -400,13 +407,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/coinpayments-founder-alex-alexandrov-appointed-group-ceo-as-company-strengthens-executive-team-4930200",
       "published": "2026-10-02 16:30:34",
       "ts": 1790958634
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Stablecoin firm Fasset aims to be a bank for people and their AI agents",
-      "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-firm-fasset-aims-to-be-a-bank-for-people-and-their-ai-agents-4930084",
-      "published": "2026-10-02 14:28:26",
-      "ts": 1790951306
     },
     {
       "source": "Investing Forex",
