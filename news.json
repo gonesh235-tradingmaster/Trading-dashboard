@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-05T02:29:15.524479Z",
+  "updated": "2026-10-05T02:48:51.554780Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Climbs 10% In Rally",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-rally-4930987",
+      "published": "2026-10-05 02:16:01",
+      "ts": 1791166561
+    },
     {
       "source": "FXStreet",
       "title": "Gold holds gains above $4,150 as traders trim bets on Fed rate hikes",
@@ -400,13 +407,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
       "published": "2026-10-01 21:08:36",
       "ts": 1790888916
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
-      "link": "https://www.investing.com/news/cryptocurrency-news/lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide-4928141",
-      "published": "2026-10-01 19:00:37",
-      "ts": 1790881237
     },
     {
       "source": "Investing Forex",
