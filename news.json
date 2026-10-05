@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-05T14:38:48.731167Z",
+  "updated": "2026-10-05T14:58:47.438230Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah: Limited relief, challenging backdrop – OCBC",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-limited-relief-challenging-backdrop-ocbc-202610051450",
+      "published": "Mon, 05 Oct 2026 14:50:52 GMT",
+      "ts": 1791211852
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I bought a $126 concert ticket for my sister and now she can’t go. What’s the latest I can resell my ticket to break even?",
+      "link": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 14:38:00 GMT",
+      "ts": 1791211080
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
+      "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 14:38:00 GMT",
+      "ts": 1791211080
+    },
     {
       "source": "MarketWatch",
       "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
@@ -24,6 +45,13 @@
       "ts": 1791210754
     },
     {
+      "source": "Investing Forex",
+      "title": "Loonie slips as early gains fade, oil weakness keeps pressure on Canadian dollar",
+      "link": "https://www.investing.com/news/forex-news/loonie-slips-as-early-gains-fade-oil-weakness-keeps-pressure-on-canadian-dollar-4932479",
+      "published": "2026-10-05 14:30:09",
+      "ts": 1791210609
+    },
+    {
       "source": "Investing Crypto",
       "title": "Stablecoin Development reports $180M in SKY token holdings at Q3 end",
       "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433",
@@ -43,13 +71,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
       "published": "2026-10-05 14:07:44",
       "ts": 1791209264
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
-      "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 14:07:00 GMT",
-      "ts": 1791209220
     },
     {
       "source": "FXStreet",
@@ -127,13 +148,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 13:04:57 +0000",
       "ts": 1791205497
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brazilian Real: Election surprise supports BRL – BBH",
-      "link": "https://www.fxstreet.com/news/brazilian-real-election-surprise-supports-brl-bbh-202610051304",
-      "published": "Mon, 05 Oct 2026 13:04:28 GMT",
-      "ts": 1791205468
     },
     {
       "source": "CoinTelegraph",
@@ -232,13 +246,6 @@
       "link": "https://www.fxstreet.com/news/gold-struggles-as-dovish-fed-repricing-meets-stronger-us-dollar-elevated-yields-202610051050",
       "published": "Mon, 05 Oct 2026 10:50:46 GMT",
       "ts": 1791197446
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bitcoin’s big bounce has graduated to a longer-term uptrend. Is it too late to buy?",
-      "link": "https://www.marketwatch.com/story/bitcoins-big-bounce-has-graduated-to-a-longer-term-uptrend-is-it-too-late-to-buy-a9bc585c?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 10:46:00 GMT",
-      "ts": 1791197160
     },
     {
       "source": "CoinDesk",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-dollar-holds-gains-before-us-payrolls-4929238",
       "published": "2026-10-02 13:07:53",
       "ts": 1790946473
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. 10-year yield drops after September non-farm payrolls miss forecasts",
-      "link": "https://www.investing.com/news/forex-news/french-debt-set-for-5th-weekly-rise-at-2002-peaks-bunds-at-over-1week-lows-4929025",
-      "published": "2026-10-02 12:44:26",
-      "ts": 1790945066
     }
   ]
 }
