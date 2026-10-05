@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-05T15:21:45.611813Z",
+  "updated": "2026-10-05T15:45:23.043448Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dollar Index hits an 18-month high on French debt fears",
+      "link": "https://www.fxstreet.com/news/dollar-index-hits-an-18-month-high-on-french-debt-fears-202610051542",
+      "published": "Mon, 05 Oct 2026 15:42:07 GMT",
+      "ts": 1791214927
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar attracts fresh buying after touching multi-month low",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-attracts-fresh-buying-after-touching-multi-month-low-202610051526",
+      "published": "Mon, 05 Oct 2026 15:26:32 GMT",
+      "ts": 1791213992
+    },
+    {
+      "source": "FXStreet",
+      "title": "South Korean Won: Strong exports and policy support KRW – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-korean-won-strong-exports-and-policy-support-krw-commerzbank-202610051525",
+      "published": "Mon, 05 Oct 2026 15:25:01 GMT",
+      "ts": 1791213901
+    },
     {
       "source": "CoinTelegraph",
       "title": "Bitcoin price fails to break higher after best weekly close in eight months",
@@ -101,13 +122,6 @@
       "ts": 1791209087
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Debt contagion fears weigh on EUR against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/euro-debt-contagion-fears-weigh-on-eur-against-us-dollar-societe-generale-202610051359",
-      "published": "Mon, 05 Oct 2026 13:59:21 GMT",
-      "ts": 1791208761
-    },
-    {
       "source": "MarketWatch",
       "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
       "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
@@ -129,25 +143,11 @@
       "ts": 1791208037
     },
     {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar slides toward one-year low as US Dollar regains strength",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slides-toward-one-year-low-as-us-dollar-regains-strength-202610051347",
-      "published": "Mon, 05 Oct 2026 13:47:11 GMT",
-      "ts": 1791208031
-    },
-    {
       "source": "CoinDesk",
       "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
       "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
       "published": "Mon, 05 Oct 2026 13:46:31 +0000",
       "ts": 1791207991
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Gradual Dollar gains into United Kingdom budget – HSBC",
-      "link": "https://www.fxstreet.com/news/british-pound-gradual-dollar-gains-into-united-kingdom-budget-hsbc-202610051340",
-      "published": "Mon, 05 Oct 2026 13:40:16 GMT",
-      "ts": 1791207616
     },
     {
       "source": "MarketWatch",
@@ -263,7 +263,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin in tight range close to $86,000 as rates continue to rise",
+      "title": "Live updates: Bitcoin under pressure as rates continue to rise",
       "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
       "published": "Mon, 05 Oct 2026 10:39:57 +0000",
       "ts": 1791196797
