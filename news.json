@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-05T01:30:25.941168Z",
+  "updated": "2026-10-05T01:55:00.571284Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "BoJ’s Uchida: AI has become a major focus among central banks, including at BoJ policy meetings",
+      "link": "https://www.fxstreet.com/news/bojs-uchida-ai-has-become-a-major-focus-among-central-banks-including-at-boj-policy-meetings-202610050148",
+      "published": "Mon, 05 Oct 2026 01:48:55 GMT",
+      "ts": 1791164935
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen bulls seem hesitant as USD reverses post-NFP slide amid geopolitical tensions",
@@ -316,13 +323,6 @@
       "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
       "published": "2026-10-02 19:41:18",
       "ts": 1790970078
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold fails at $4,200 despite NFP miss as US yields climb",
-      "link": "https://www.fxstreet.com/news/gold-fails-at-4-200-despite-nfp-miss-as-us-yields-climb-202610021803",
-      "published": "Fri, 02 Oct 2026 18:03:07 GMT",
-      "ts": 1790964187
     },
     {
       "source": "CoinDesk",
