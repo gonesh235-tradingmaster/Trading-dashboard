@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-05T08:13:44.293031Z",
+  "updated": "2026-10-05T08:36:57.662055Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar recovers despite Yen gains, Japan vows fiscal prudence",
+      "link": "https://www.fxstreet.com/news/australian-dollar-recovers-despite-yen-gains-japan-vows-fiscal-prudence-202610050836",
+      "published": "Mon, 05 Oct 2026 08:36:35 GMT",
+      "ts": 1791189395
+    },
+    {
+      "source": "FXStreet",
+      "title": "Eurozone Sentix Investor Confidence drops to 2.7 in October",
+      "link": "https://www.fxstreet.com/news/eurozone-sentix-investor-confidence-drops-to-27-in-october-202610050831",
+      "published": "Mon, 05 Oct 2026 08:31:50 GMT",
+      "ts": 1791189110
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/GBP Price Forecast: Bears await break below 0.8450, YTD low amid French debt crisis",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bears-await-break-below-08450-ytd-low-amid-french-debt-crisis-202610050830",
+      "published": "Mon, 05 Oct 2026 08:30:58 GMT",
+      "ts": 1791189058
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures slip as Middle East tensions offset Fed rate cut hopes",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-slip-as-middle-east-tensions-offset-fed-rate-cut-hopes-202610050830",
+      "published": "Mon, 05 Oct 2026 08:30:15 GMT",
+      "ts": 1791189015
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold: Recovery hinges on lower yields – OCBC",
+      "link": "https://www.fxstreet.com/news/gold-recovery-hinges-on-lower-yields-ocbc-202610050825",
+      "published": "Mon, 05 Oct 2026 08:25:01 GMT",
+      "ts": 1791188701
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen: Broad range holds despite weak momentum against US Dollar – UOB",
@@ -38,13 +73,6 @@
       "ts": 1791187366
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Fiscal contagion fears weigh on single currency – MUFG",
-      "link": "https://www.fxstreet.com/news/euro-fiscal-contagion-fears-weigh-on-single-currency-mufg-202610050801",
-      "published": "Mon, 05 Oct 2026 08:01:08 GMT",
-      "ts": 1791187268
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -57,27 +85,6 @@
       "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 07:53:00 GMT",
       "ts": 1791186780
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index (DXY) clings to gains near 102.30, April 2025 high amid geopolitical risks",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-dxy-clings-to-gains-near-10230-april-2025-high-amid-geopolitical-risks-202610050748",
-      "published": "Mon, 05 Oct 2026 07:48:09 GMT",
-      "ts": 1791186489
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Rally faces monetary-policy limits – DBS",
-      "link": "https://www.fxstreet.com/news/us-dollar-rally-faces-monetary-policy-limits-dbs-202610050747",
-      "published": "Mon, 05 Oct 2026 07:47:07 GMT",
-      "ts": 1791186427
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound retreats against Japanese Yen as Japan vows debt control",
-      "link": "https://www.fxstreet.com/news/british-pound-retreats-against-japanese-yen-as-japan-vows-debt-control-202610050744",
-      "published": "Mon, 05 Oct 2026 07:44:38 GMT",
-      "ts": 1791186278
     },
     {
       "source": "Investing Forex",
@@ -134,13 +141,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
       "published": "Mon, 05 Oct 2026 04:45:03 +0000",
       "ts": 1791175503
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold edges higher as receding Fed hike bets weigh on bond yields and counter rallying USD",
-      "link": "https://www.fxstreet.com/news/gold-bulls-remain-on-the-sidelines-as-usd-rallies-to-fresh-ytd-peak-202610050443",
-      "published": "Mon, 05 Oct 2026 04:43:14 GMT",
-      "ts": 1791175394
     },
     {
       "source": "CoinDesk",
