@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-04T23:54:28.580828Z",
+  "updated": "2026-10-05T00:15:51.063516Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Russia vows to step up strikes on Ukraine",
+      "link": "https://www.fxstreet.com/news/russia-vows-to-step-up-strikes-on-ukraine-202610050014",
+      "published": "Mon, 05 Oct 2026 00:14:22 GMT",
+      "ts": 1791159262
+    },
+    {
+      "source": "FXStreet",
+      "title": "OPEC+ agrees to keep oil output policy unchanged for November",
+      "link": "https://www.fxstreet.com/news/opec-agrees-to-keep-oil-output-policy-unchanged-for-november-202610050002",
+      "published": "Mon, 05 Oct 2026 00:02:57 GMT",
+      "ts": 1791158577
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar drifts higher above 0.6950 on soft US jobs data",
@@ -330,20 +344,6 @@
       "link": "https://www.fxstreet.com/news/us-payrolls-miss-at-29k-and-the-dollar-index-drops-below-10200-202610021607",
       "published": "Fri, 02 Oct 2026 16:07:02 GMT",
       "ts": 1790957222
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound rebounds as NFP knocks out October Fed hike bets",
-      "link": "https://www.fxstreet.com/news/british-pound-rebounds-as-nfp-knocks-out-october-fed-hike-bets-202610021556",
-      "published": "Fri, 02 Oct 2026 15:56:09 GMT",
-      "ts": 1790956569
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Fading rallies as Fed pricing peaks – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-fading-rallies-as-fed-pricing-peaks-td-securities-202610021502",
-      "published": "Fri, 02 Oct 2026 15:02:23 GMT",
-      "ts": 1790953343
     },
     {
       "source": "Investing Crypto",
