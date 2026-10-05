@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-05T06:23:20.492788Z",
+  "updated": "2026-10-05T06:53:26.014313Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Political risks weigh on common currency – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-political-risks-weigh-on-common-currency-commerzbank-202610050648",
+      "published": "Mon, 05 Oct 2026 06:48:34 GMT",
+      "ts": 1791182914
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Hangs near four-week low, around $89.00 as bears seem noncommittal",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-hangs-near-four-week-low-around-8900-as-bears-seem-noncommittal-202610050644",
+      "published": "Mon, 05 Oct 2026 06:44:21 GMT",
+      "ts": 1791182661
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+      "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+      "published": "Mon, 05 Oct 2026 06:40:29 +0000",
+      "ts": 1791182429
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rises near $86k as softer jobs data offsets pressure from high yields",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
+      "published": "2026-10-05 06:32:50",
+      "ts": 1791181970
+    },
+    {
+      "source": "FXStreet",
+      "title": "Oil: Diverging supply signals shape Brent – ING",
+      "link": "https://www.fxstreet.com/news/oil-diverging-supply-signals-shape-brent-ing-202610050630",
+      "published": "Mon, 05 Oct 2026 06:30:31 GMT",
+      "ts": 1791181831
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen steadies around 158.00 as PM Takaichi vows debt containment",
+      "link": "https://www.fxstreet.com/news/japanese-yen-steadies-around-15800-as-pm-takaichi-vows-debt-containment-202610050627",
+      "published": "Mon, 05 Oct 2026 06:27:39 GMT",
+      "ts": 1791181659
+    },
     {
       "source": "FXStreet",
       "title": "Euro weakens against British Pound amid French fiscal concerns",
@@ -45,13 +87,6 @@
       "ts": 1791176400
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Tests ascending channel lower boundary near 176.50",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-ascending-channel-lower-boundary-near-17650-202610050454",
-      "published": "Mon, 05 Oct 2026 04:54:10 GMT",
-      "ts": 1791176050
-    },
-    {
       "source": "Investing Forex",
       "title": "Asian currencies weaker as dollar surges, euro hits 17-month low",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
@@ -80,32 +115,11 @@
       "ts": 1791175295
     },
     {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202610050435",
-      "published": "Mon, 05 Oct 2026 04:35:27 GMT",
-      "ts": 1791174927
-    },
-    {
-      "source": "FXStreet",
-      "title": "Breaking: Euro plummets to May 2025 low vs bullish USD amid France's debt crisis",
-      "link": "https://www.fxstreet.com/news/breaking-euro-plummets-to-may-2025-low-vs-bullish-usd-amid-frances-debt-crisis-202610050425",
-      "published": "Mon, 05 Oct 2026 04:25:31 GMT",
-      "ts": 1791174331
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
       "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
       "published": "Mon, 05 Oct 2026 04:23:25 +0000",
       "ts": 1791174205
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc weakens as safe-haven demand lifts US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-safe-haven-demand-lifts-us-dollar-202610050406",
-      "published": "Mon, 05 Oct 2026 04:06:44 GMT",
-      "ts": 1791173204
     },
     {
       "source": "CoinDesk",
@@ -318,13 +332,6 @@
       "ts": 1791043200
     },
     {
-      "source": "CoinDesk",
-      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-      "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-      "published": "Sat, 03 Oct 2026 15:00:00 +0000",
-      "ts": 1791039600
-    },
-    {
       "source": "Investing Forex",
       "title": "BofA sees EUR/USD at 1.15 by year-end amid market risks",
       "link": "https://www.investing.com/news/forex-news/bofa-sees-eurusd-at-115-by-yearend-amid-market-risks-93CH-4930789",
@@ -400,13 +407,6 @@
       "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
       "published": "2026-10-02 03:30:31",
       "ts": 1790911831
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin reverses course, inches up to kick off Q4 as U.S. Treasury bonds rally",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
-      "published": "2026-10-01 21:51:19",
-      "ts": 1790891479
     },
     {
       "source": "Investing Forex",
