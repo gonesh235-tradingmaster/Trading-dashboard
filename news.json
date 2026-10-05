@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-05T03:33:23.254623Z",
+  "updated": "2026-10-05T04:00:42.678169Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
+      "link": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+      "published": "Mon, 05 Oct 2026 03:50:29 +0000",
+      "ts": 1791172229
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+      "link": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 03:47:19 +0000",
+      "ts": 1791172039
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "OKX, NYSE parent file to launch tokenized US stock platform",
+      "link": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 03:44:09 +0000",
+      "ts": 1791171849
+    },
     {
       "source": "FXStreet",
       "title": "Japan’s Kihara: There are no plans to carry out a further oil release",
@@ -290,20 +311,6 @@
       "ts": 1791032400
     },
     {
-      "source": "CoinTelegraph",
-      "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
-      "link": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 03 Oct 2026 11:59:10 +0000",
-      "ts": 1791028750
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Community banks sue OCC over trust bank charters of crypto firms",
-      "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 03 Oct 2026 09:28:00 +0000",
-      "ts": 1791019680
-    },
-    {
       "source": "Investing Forex",
       "title": "BofA sees EUR/USD at 1.15 by year-end amid market risks",
       "link": "https://www.investing.com/news/forex-news/bofa-sees-eurusd-at-115-by-yearend-amid-market-risks-93CH-4930789",
@@ -330,13 +337,6 @@
       "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
       "published": "2026-10-02 19:41:18",
       "ts": 1790970078
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
-      "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
-      "published": "Fri, 02 Oct 2026 17:34:40 +0000",
-      "ts": 1790962480
     },
     {
       "source": "Investing Crypto",
