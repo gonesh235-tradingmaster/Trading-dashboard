@@ -1,7 +1,77 @@
 {
-  "updated": "2026-10-05T08:57:59.999213Z",
+  "updated": "2026-10-05T09:20:01.346225Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "ECB’s Nagel: No clear ​signs that inflation has fed through to price and wage setting",
+      "link": "https://www.fxstreet.com/news/ecbs-nagel-no-clear-signs-that-inflation-has-fed-through-to-price-and-wage-setting-202610050913",
+      "published": "Mon, 05 Oct 2026 09:13:01 GMT",
+      "ts": 1791191581
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Consolidates below 158.00 as bullish bias persists",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-consolidates-below-15800-as-bullish-bias-persists-202610050910",
+      "published": "Mon, 05 Oct 2026 09:10:00 GMT",
+      "ts": 1791191400
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Fiscal risks cap upside against British Pound – Rabobank",
+      "link": "https://www.fxstreet.com/news/euro-fiscal-risks-cap-upside-against-british-pound-rabobank-202610050909",
+      "published": "Mon, 05 Oct 2026 09:09:03 GMT",
+      "ts": 1791191343
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 09:08:09 +0000",
+      "ts": 1791191289
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Goldman Sachs sees Brazilian real gains on election results",
+      "link": "https://www.investing.com/news/forex-news/goldman-sachs-sees-brazilian-real-gains-on-election-results-93CH-4931333",
+      "published": "2026-10-05 09:07:38",
+      "ts": 1791191258
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Larry Ellison to list Palm Beach property for $165 million",
+      "link": "https://www.marketwatch.com/story/larry-ellison-to-list-palm-beach-property-for-165-million-6a9c71d2?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 09:05:00 GMT",
+      "ts": 1791191100
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin climbs above $86k as softer jobs data offsets pressure from high yields",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
+      "published": "2026-10-05 09:02:10",
+      "ts": 1791190930
+    },
+    {
+      "source": "FXStreet",
+      "title": "ISM Services PMI expected to show robust US economy in September",
+      "link": "https://www.fxstreet.com/news/ism-services-pmi-expected-to-show-robust-us-economy-in-september-202610050900",
+      "published": "Mon, 05 Oct 2026 09:00:00 GMT",
+      "ts": 1791190800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tyler Perry lists huge Beverly Hills mansion for $57 million: ‘Yep, moving to Puerto Rico’",
+      "link": "https://www.marketwatch.com/story/tyler-perry-lists-huge-beverly-hills-mansion-for-57-million-yep-moving-to-puerto-rico-a080916b?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 08:58:00 GMT",
+      "ts": 1791190680
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
+      "link": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 08:56:10 +0000",
+      "ts": 1791190570
+    },
     {
       "source": "FXStreet",
       "title": "Euro attempts to regain the 1.1200 level following mixed Services activity data",
@@ -36,34 +106,6 @@
       "link": "https://www.fxstreet.com/news/eurozone-sentix-investor-confidence-drops-to-27-in-october-202610050831",
       "published": "Mon, 05 Oct 2026 08:31:50 GMT",
       "ts": 1791189110
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/GBP Price Forecast: Bears await break below 0.8450, YTD low amid French debt crisis",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bears-await-break-below-08450-ytd-low-amid-french-debt-crisis-202610050830",
-      "published": "Mon, 05 Oct 2026 08:30:58 GMT",
-      "ts": 1791189058
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures slip as Middle East tensions offset Fed rate cut hopes",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-slip-as-middle-east-tensions-offset-fed-rate-cut-hopes-202610050830",
-      "published": "Mon, 05 Oct 2026 08:30:15 GMT",
-      "ts": 1791189015
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold: Recovery hinges on lower yields – OCBC",
-      "link": "https://www.fxstreet.com/news/gold-recovery-hinges-on-lower-yields-ocbc-202610050825",
-      "published": "Mon, 05 Oct 2026 08:25:01 GMT",
-      "ts": 1791188701
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Broad range holds despite weak momentum against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-broad-range-holds-despite-weak-momentum-against-us-dollar-uob-202610050812",
-      "published": "Mon, 05 Oct 2026 08:12:10 GMT",
-      "ts": 1791187930
     },
     {
       "source": "CoinTelegraph",
@@ -113,13 +155,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
       "published": "Mon, 05 Oct 2026 06:40:29 +0000",
       "ts": 1791182429
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rises near $86k as softer jobs data offsets pressure from high yields",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
-      "published": "2026-10-05 06:32:50",
-      "ts": 1791181970
     },
     {
       "source": "FXStreet",
@@ -297,39 +332,11 @@
       "ts": 1791118800
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-      "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 12:42:00 +0000",
-      "ts": 1791117720
-    },
-    {
       "source": "MarketWatch",
       "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
       "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
       "published": "Sun, 04 Oct 2026 12:00:00 GMT",
       "ts": 1791115200
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-      "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 09:40:00 +0000",
-      "ts": 1791106800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
-      "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
-      "published": "Sun, 04 Oct 2026 00:02:00 GMT",
-      "ts": 1791072120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
-      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-      "published": "Sat, 03 Oct 2026 23:58:00 GMT",
-      "ts": 1791071880
     },
     {
       "source": "Investing Forex",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-euro-downside-risk-to-10850-on-peripheral-widening-93CH-4929312",
       "published": "2026-10-02 09:55:07",
       "ts": 1790934907
-    },
-    {
-      "source": "Investing Forex",
-      "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity",
-      "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
-      "published": "2026-10-02 03:30:31",
-      "ts": 1790911831
     }
   ]
 }
