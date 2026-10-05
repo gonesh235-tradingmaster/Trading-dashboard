@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-05T17:32:15.172723Z",
+  "updated": "2026-10-05T17:56:26.158290Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies",
+      "link": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 17:54:00 GMT",
+      "ts": 1791222840
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI chatbots recommend shopping at Walmart over just about anywhere else, analysts find",
+      "link": "https://www.marketwatch.com/story/ai-chatbots-recommend-shopping-at-walmart-over-just-about-anywhere-else-analysts-find-9483b266?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 17:53:00 GMT",
+      "ts": 1791222780
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
+      "link": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 17:40:23 +0000",
+      "ts": 1791222023
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
+      "link": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 17:34:00 GMT",
+      "ts": 1791221640
+    },
     {
       "source": "CoinDesk",
       "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
@@ -66,15 +94,8 @@
       "ts": 1791216687
     },
     {
-      "source": "MarketWatch",
-      "title": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies",
-      "link": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 16:08:00 GMT",
-      "ts": 1791216480
-    },
-    {
       "source": "FXStreet",
-      "title": "Australian Dollar edges higher even as robust US services, firm Dollar cap gains",
+      "title": "Australian Dollar edges higher despite robust US services",
       "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-even-as-robust-us-services-firm-dollar-cap-gains-202610051606",
       "published": "Mon, 05 Oct 2026 16:06:40 GMT",
       "ts": 1791216400
@@ -155,20 +176,6 @@
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-limited-relief-challenging-backdrop-ocbc-202610051450",
       "published": "Mon, 05 Oct 2026 14:50:52 GMT",
       "ts": 1791211852
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I bought a $126 concert ticket for my sister and now she can’t go. What’s the latest I can resell my ticket to break even?",
-      "link": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 14:38:00 GMT",
-      "ts": 1791211080
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
-      "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 14:38:00 GMT",
-      "ts": 1791211080
     },
     {
       "source": "FXStreet",
@@ -351,13 +358,6 @@
       "link": "https://www.investing.com/news/forex-news/goldman-sachs-sees-brazilian-real-gains-on-election-results-93CH-4931333",
       "published": "2026-10-05 09:07:38",
       "ts": 1791191258
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
-      "link": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 08:56:10 +0000",
-      "ts": 1791190570
     },
     {
       "source": "Investing Forex",
