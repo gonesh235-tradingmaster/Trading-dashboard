@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-05T04:32:25.386862Z",
+  "updated": "2026-10-05T05:13:47.178508Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Declines below 110.00, technical bias stays bearish",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-declines-below-11000-technical-bias-stays-bearish-202610050503",
+      "published": "Mon, 05 Oct 2026 05:03:19 GMT",
+      "ts": 1791176599
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 05:00:00 +0000",
+      "ts": 1791176400
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Tests ascending channel lower boundary near 176.50",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-ascending-channel-lower-boundary-near-17650-202610050454",
+      "published": "Mon, 05 Oct 2026 04:54:10 GMT",
+      "ts": 1791176050
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies weaker as dollar surges, euro hits 17-month low",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
+      "published": "2026-10-05 04:46:53",
+      "ts": 1791175613
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+      "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+      "published": "Mon, 05 Oct 2026 04:45:03 +0000",
+      "ts": 1791175503
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold bulls remain on the sidelines as USD rallies to fresh YTD peak",
+      "link": "https://www.fxstreet.com/news/gold-bulls-remain-on-the-sidelines-as-usd-rallies-to-fresh-ytd-peak-202610050443",
+      "published": "Mon, 05 Oct 2026 04:43:14 GMT",
+      "ts": 1791175394
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+      "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+      "published": "Mon, 05 Oct 2026 04:41:35 +0000",
+      "ts": 1791175295
+    },
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202610050435",
+      "published": "Mon, 05 Oct 2026 04:35:27 GMT",
+      "ts": 1791174927
+    },
     {
       "source": "FXStreet",
       "title": "Breaking: Euro plummets to May 2025 low vs bullish USD amid France's debt crisis",
@@ -73,13 +129,6 @@
       "ts": 1791170266
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD gains near $61.00 as Fed rate hike odds decline",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-gains-near-6100-as-fed-rate-hike-odds-decline-202610050314",
-      "published": "Mon, 05 Oct 2026 03:14:40 GMT",
-      "ts": 1791170080
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
       "link": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -87,32 +136,11 @@
       "ts": 1791169941
     },
     {
-      "source": "FXStreet",
-      "title": "United States Dollar Index gathers strength above 102.00 on safe-haven flows",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gathers-strength-above-10200-on-safe-haven-flows-202610050257",
-      "published": "Mon, 05 Oct 2026 02:57:26 GMT",
-      "ts": 1791169046
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar flirts with YTD low, below 0.5900 amid resurgent USD demand",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-flirts-with-ytd-low-below-05900-amid-resurgent-usd-demand-202610050248",
-      "published": "Mon, 05 Oct 2026 02:48:29 GMT",
-      "ts": 1791168509
-    },
-    {
       "source": "Investing Crypto",
       "title": "Cardano Climbs 10% In Rally",
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-rally-4930987",
       "published": "2026-10-05 02:16:01",
       "ts": 1791166561
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold holds gains above $4,150 as traders trim bets on Fed rate hikes",
-      "link": "https://www.fxstreet.com/news/gold-holds-gains-above-4-150-as-traders-trim-bets-on-fed-rate-hikes-202610050213",
-      "published": "Mon, 05 Oct 2026 02:13:30 GMT",
-      "ts": 1791166410
     },
     {
       "source": "CoinTelegraph",
@@ -162,13 +190,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
       "published": "2026-10-04 19:01:54",
       "ts": 1791140514
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 18:51:50 +0000",
-      "ts": 1791139910
     },
     {
       "source": "CoinDesk",
@@ -304,20 +325,6 @@
       "ts": 1791039600
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto's Sisyphean struggle",
-      "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
-      "published": "Sat, 03 Oct 2026 13:00:00 +0000",
-      "ts": 1791032400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-      "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
-      "published": "Sat, 03 Oct 2026 13:00:00 +0000",
-      "ts": 1791032400
-    },
-    {
       "source": "Investing Forex",
       "title": "BofA sees EUR/USD at 1.15 by year-end amid market risks",
       "link": "https://www.investing.com/news/forex-news/bofa-sees-eurusd-at-115-by-yearend-amid-market-risks-93CH-4930789",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-as-us-dollar-strength-yield-gap-keeps-pressure-4928043",
       "published": "2026-10-01 17:46:09",
       "ts": 1790876769
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Global debt rout escalates as U.S. and European yields surge to multi-decade highs",
-      "link": "https://www.investing.com/news/forex-news/uk-30year-gilt-yields-rise-to-1998-highs-french-budget-due-4926457",
-      "published": "2026-10-01 12:11:00",
-      "ts": 1790856660
     }
   ]
 }
