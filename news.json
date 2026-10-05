@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-05T16:11:09.567614Z",
+  "updated": "2026-10-05T16:32:25.779678Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 16:31:00 GMT",
+      "ts": 1791217860
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/CHF Price Forecast: 100-day SMA limits immediate downside",
+      "link": "https://www.fxstreet.com/news/eur-chf-price-forecast-100-day-sma-limits-immediate-downside-202610051611",
+      "published": "Mon, 05 Oct 2026 16:11:27 GMT",
+      "ts": 1791216687
+    },
     {
       "source": "MarketWatch",
       "title": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies",
@@ -143,13 +157,6 @@
       "ts": 1791209762
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Upside risks persist as data watched – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-upside-risks-persist-as-data-watched-bbh-202610051410",
-      "published": "Mon, 05 Oct 2026 14:10:03 GMT",
-      "ts": 1791209403
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin hovers above $86k as softer jobs data offsets pressure from high yields",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
@@ -162,13 +169,6 @@
       "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 13:58:00 GMT",
       "ts": 1791208680
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
-      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 13:49:00 GMT",
-      "ts": 1791208140
     },
     {
       "source": "CoinTelegraph",
