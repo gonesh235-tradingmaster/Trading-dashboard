@@ -1,13 +1,48 @@
 {
-  "updated": "2026-10-05T07:16:07.615576Z",
+  "updated": "2026-10-05T07:45:21.334400Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound retreats against Japanese Yen as Japan vows debt control",
+      "link": "https://www.fxstreet.com/news/british-pound-retreats-against-japanese-yen-as-japan-vows-debt-control-202610050744",
+      "published": "Mon, 05 Oct 2026 07:44:38 GMT",
+      "ts": 1791186278
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar weakens amid Middle East tensions, cool inflation",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-amid-middle-east-tensions-cool-inflation-202610050736",
+      "published": "Mon, 05 Oct 2026 07:36:50 GMT",
+      "ts": 1791185810
+    },
+    {
+      "source": "FXStreet",
+      "title": "CEE FX: Inflation supports koruna over peers – ING",
+      "link": "https://www.fxstreet.com/news/cee-fx-inflation-supports-koruna-over-peers-ing-202610050727",
+      "published": "Mon, 05 Oct 2026 07:27:35 GMT",
+      "ts": 1791185255
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah weakens as elevated import cost weigh on balance of payments",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-as-elevated-import-cost-weigh-on-balance-of-payments-202610050716",
+      "published": "Mon, 05 Oct 2026 07:16:34 GMT",
+      "ts": 1791184594
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecasts: XAG/USD pars losses but remains trading in range",
       "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-pars-losses-but-remains-trading-in-range-202610050712",
       "published": "Mon, 05 Oct 2026 07:12:51 GMT",
       "ts": 1791184371
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin tests $87,363 resistance with fading momentum: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-05 07:12:18",
+      "ts": 1791184338
     },
     {
       "source": "FXStreet",
@@ -45,22 +80,8 @@
       "ts": 1791183269
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Political risks weigh on common currency – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-political-risks-weigh-on-common-currency-commerzbank-202610050648",
-      "published": "Mon, 05 Oct 2026 06:48:34 GMT",
-      "ts": 1791182914
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Hangs near four-week low, around $89.00 as bears seem noncommittal",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-hangs-near-four-week-low-around-8900-as-bears-seem-noncommittal-202610050644",
-      "published": "Mon, 05 Oct 2026 06:44:21 GMT",
-      "ts": 1791182661
-    },
-    {
       "source": "CoinDesk",
-      "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+      "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
       "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
       "published": "Mon, 05 Oct 2026 06:40:29 +0000",
       "ts": 1791182429
@@ -71,27 +92,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
       "published": "2026-10-05 06:32:50",
       "ts": 1791181970
-    },
-    {
-      "source": "FXStreet",
-      "title": "Oil: Diverging supply signals shape Brent – ING",
-      "link": "https://www.fxstreet.com/news/oil-diverging-supply-signals-shape-brent-ing-202610050630",
-      "published": "Mon, 05 Oct 2026 06:30:31 GMT",
-      "ts": 1791181831
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen steadies around 158.00 as PM Takaichi vows debt containment",
-      "link": "https://www.fxstreet.com/news/japanese-yen-steadies-around-15800-as-pm-takaichi-vows-debt-containment-202610050627",
-      "published": "Mon, 05 Oct 2026 06:27:39 GMT",
-      "ts": 1791181659
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro weakens against British Pound amid French fiscal concerns",
-      "link": "https://www.fxstreet.com/news/euro-weakens-against-british-pound-amid-french-fiscal-concerns-202610050614",
-      "published": "Mon, 05 Oct 2026 06:14:39 GMT",
-      "ts": 1791180879
     },
     {
       "source": "CoinTelegraph",
@@ -113,6 +113,13 @@
       "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
       "published": "Mon, 05 Oct 2026 04:45:03 +0000",
       "ts": 1791175503
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold edges higher as receding Fed hike bets weigh on bond yields and counter rallying USD",
+      "link": "https://www.fxstreet.com/news/gold-bulls-remain-on-the-sidelines-as-usd-rallies-to-fresh-ytd-peak-202610050443",
+      "published": "Mon, 05 Oct 2026 04:43:14 GMT",
+      "ts": 1791175394
     },
     {
       "source": "CoinDesk",
@@ -386,13 +393,6 @@
       "link": "https://www.investing.com/news/forex-news/french-debt-set-for-5th-weekly-rise-at-2002-peaks-bunds-at-over-1week-lows-4929025",
       "published": "2026-10-02 12:44:26",
       "ts": 1790945066
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Travala’s Crypto Loyalty Program Passes 170,000 Members, Sets Long-Term Goal of 30% of AVA Supply Locked",
-      "link": "https://www.investing.com/news/cryptocurrency-news/travalas-crypto-loyalty-program-passes-170000-members-sets-longterm-goal-of-30-of-ava-supply-locked-4929740",
-      "published": "2026-10-02 12:30:36",
-      "ts": 1790944236
     },
     {
       "source": "Investing Forex",
