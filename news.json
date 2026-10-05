@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-05T05:57:05.945638Z",
+  "updated": "2026-10-05T06:23:20.492788Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro weakens against British Pound amid French fiscal concerns",
+      "link": "https://www.fxstreet.com/news/euro-weakens-against-british-pound-amid-french-fiscal-concerns-202610050614",
+      "published": "Mon, 05 Oct 2026 06:14:39 GMT",
+      "ts": 1791180879
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japan's Takaichi vows to carefully manage annual debt issuance",
+      "link": "https://www.fxstreet.com/news/japans-takaichi-vows-to-carefully-manage-annual-debt-issuance-202610050607",
+      "published": "Mon, 05 Oct 2026 06:07:35 GMT",
+      "ts": 1791180455
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: YTD low near 1.3140 to act as key support level",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-ytd-low-near-13140-to-act-as-key-support-level-202610050559",
+      "published": "Mon, 05 Oct 2026 05:59:45 GMT",
+      "ts": 1791179985
+    },
     {
       "source": "FXStreet",
       "title": "Indian Rupee ticks up at start of RBI’s policy week",
@@ -46,7 +67,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold bulls remain on the sidelines as USD rallies to fresh YTD peak",
+      "title": "Gold flat lines below $4,150 as rallying USD offsets receding Fed hike bets",
       "link": "https://www.fxstreet.com/news/gold-bulls-remain-on-the-sidelines-as-usd-rallies-to-fresh-ytd-peak-202610050443",
       "published": "Mon, 05 Oct 2026 04:43:14 GMT",
       "ts": 1791175394
@@ -106,27 +127,6 @@
       "link": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 03:44:09 +0000",
       "ts": 1791171849
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japan’s Kihara: There are no plans to carry out a further oil release",
-      "link": "https://www.fxstreet.com/news/japans-kihara-there-are-no-plans-to-carry-out-a-further-oil-release-202610050333",
-      "published": "Mon, 05 Oct 2026 03:33:07 GMT",
-      "ts": 1791171187
-    },
-    {
-      "source": "FXStreet",
-      "title": "US data week: ISM, labor and sentiment in focus – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-data-week-ism-labor-and-sentiment-in-focus-td-securities-202610050325",
-      "published": "Mon, 05 Oct 2026 03:25:11 GMT",
-      "ts": 1791170711
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Fresh downside likely below 0.6900",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-fresh-downside-likely-below-06900-202610050324",
-      "published": "Mon, 05 Oct 2026 03:24:39 GMT",
-      "ts": 1791170679
     },
     {
       "source": "CoinTelegraph",
