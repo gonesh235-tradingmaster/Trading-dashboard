@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-05T10:57:06.718613Z",
+  "updated": "2026-10-05T11:15:05.393417Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+      "published": "Mon, 05 Oct 2026 11:14:35 +0000",
+      "ts": 1791198875
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
+      "link": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
+      "published": "Mon, 05 Oct 2026 11:08:03 +0000",
+      "ts": 1791198483
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Pressured yet systemic risk contained – DBS",
+      "link": "https://www.fxstreet.com/news/euro-pressured-yet-systemic-risk-contained-dbs-202610051104",
+      "published": "Mon, 05 Oct 2026 11:04:43 GMT",
+      "ts": 1791198283
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD jumps to near $61.80 as hawkish Fed bets recede",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-6180-as-hawkish-fed-bets-recede-202610051058",
+      "published": "Mon, 05 Oct 2026 10:58:24 GMT",
+      "ts": 1791197904
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
+      "link": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
+      "published": "Mon, 05 Oct 2026 10:58:03 +0000",
+      "ts": 1791197883
+    },
     {
       "source": "FXStreet",
       "title": "USD/CHF Price Forecast: Holds below 0.8320 as the Swissie withstands bonds selloff",
@@ -150,13 +185,6 @@
       "ts": 1791192636
     },
     {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202610050930",
-      "published": "Mon, 05 Oct 2026 09:30:28 GMT",
-      "ts": 1791192628
-    },
-    {
       "source": "CoinDesk",
       "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
       "link": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
@@ -169,13 +197,6 @@
       "link": "https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 09:26:00 GMT",
       "ts": 1791192360
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: Retreats from nearly 18-month highs around 102.50",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-retreats-from-nearly-18-month-highs-around-10250-202610050924",
-      "published": "Mon, 05 Oct 2026 09:24:00 GMT",
-      "ts": 1791192240
     },
     {
       "source": "CoinTelegraph",
@@ -267,27 +288,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 05:00:00 +0000",
       "ts": 1791176400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-      "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
-      "published": "Mon, 05 Oct 2026 04:45:03 +0000",
-      "ts": 1791175503
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
-      "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
-      "published": "Mon, 05 Oct 2026 04:41:35 +0000",
-      "ts": 1791175295
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
-      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
-      "published": "Mon, 05 Oct 2026 04:23:25 +0000",
-      "ts": 1791174205
     },
     {
       "source": "CoinTelegraph",
