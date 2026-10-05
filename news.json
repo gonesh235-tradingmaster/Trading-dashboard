@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-05T10:34:34.704112Z",
+  "updated": "2026-10-05T10:57:06.718613Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "USD/CHF Price Forecast: Holds below 0.8320 as the Swissie withstands bonds selloff",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-holds-below-08320-as-the-swissie-withstands-bonds-selloff-202610051051",
+      "published": "Mon, 05 Oct 2026 10:51:25 GMT",
+      "ts": 1791197485
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold struggles as dovish Fed repricing meets stronger US Dollar, elevated yields",
+      "link": "https://www.fxstreet.com/news/gold-struggles-as-dovish-fed-repricing-meets-stronger-us-dollar-elevated-yields-202610051050",
+      "published": "Mon, 05 Oct 2026 10:50:46 GMT",
+      "ts": 1791197446
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bitcoin’s big bounce has graduated to a longer-term uptrend. Is it too late to buy?",
+      "link": "https://www.marketwatch.com/story/bitcoins-big-bounce-has-graduated-to-a-longer-term-uptrend-is-it-too-late-to-buy-a9bc585c?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 10:46:00 GMT",
+      "ts": 1791197160
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. dollar climbs to 18-month high as bitcoin holds firm around $86,000",
+      "link": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
+      "published": "Mon, 05 Oct 2026 10:44:55 +0000",
+      "ts": 1791197095
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin above $86,000 as traders price out an October Fed hike",
+      "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
+      "published": "Mon, 05 Oct 2026 10:39:57 +0000",
+      "ts": 1791196797
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
+      "link": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 10:39:00 GMT",
+      "ts": 1791196740
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cardano's ADA leads gains in narrow range-bound market",
+      "link": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+      "published": "Mon, 05 Oct 2026 10:37:30 +0000",
+      "ts": 1791196650
+    },
+    {
+      "source": "FXStreet",
+      "title": "Why is the US Dollar rising despite October Fed hike odds fading?",
+      "link": "https://www.fxstreet.com/news/why-is-the-us-dollar-rising-despite-october-fed-hike-odds-fading-202610051037",
+      "published": "Mon, 05 Oct 2026 10:37:22 GMT",
+      "ts": 1791196642
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
+      "link": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 10:33:00 GMT",
+      "ts": 1791196380
+    },
     {
       "source": "MarketWatch",
       "title": "Micron’s historic cash bonanza is set to rain down on investors",
@@ -113,34 +176,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-retreats-from-nearly-18-month-highs-around-10250-202610050924",
       "published": "Mon, 05 Oct 2026 09:24:00 GMT",
       "ts": 1791192240
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
-      "link": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 09:22:00 GMT",
-      "ts": 1791192120
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB’s Nagel: No clear ​signs that inflation has fed through to price and wage setting",
-      "link": "https://www.fxstreet.com/news/ecbs-nagel-no-clear-signs-that-inflation-has-fed-through-to-price-and-wage-setting-202610050913",
-      "published": "Mon, 05 Oct 2026 09:13:01 GMT",
-      "ts": 1791191581
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Consolidates below 158.00 as bullish bias persists",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-consolidates-below-15800-as-bullish-bias-persists-202610050910",
-      "published": "Mon, 05 Oct 2026 09:10:00 GMT",
-      "ts": 1791191400
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Fiscal risks cap upside against British Pound – Rabobank",
-      "link": "https://www.fxstreet.com/news/euro-fiscal-risks-cap-upside-against-british-pound-rabobank-202610050909",
-      "published": "Mon, 05 Oct 2026 09:09:03 GMT",
-      "ts": 1791191343
     },
     {
       "source": "CoinTelegraph",
@@ -255,13 +290,6 @@
       "ts": 1791174205
     },
     {
-      "source": "CoinDesk",
-      "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
-      "link": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
-      "published": "Mon, 05 Oct 2026 03:50:29 +0000",
-      "ts": 1791172229
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
       "link": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -311,20 +339,6 @@
       "ts": 1791145860
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "published": "Sun, 04 Oct 2026 20:00:00 GMT",
-      "ts": 1791144000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "Sun, 04 Oct 2026 19:30:00 GMT",
-      "ts": 1791142200
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin coils at $85,337 in bull trap or breakout setup: Live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
@@ -332,25 +346,11 @@
       "ts": 1791140514
     },
     {
-      "source": "CoinDesk",
-      "title": "There's an election next month: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
-      "published": "Sun, 04 Oct 2026 18:30:00 +0000",
-      "ts": 1791138600
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin edges above $85,000 as traders weigh U.S. leveraged-crypto move",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-85000-as-sec-clears-first-3x-leveraged-crypto-etps-4930906",
       "published": "2026-10-04 17:30:51",
       "ts": 1791135051
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto poured years into new products. The next challenge is keeping users",
-      "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
-      "published": "Sun, 04 Oct 2026 14:00:00 +0000",
-      "ts": 1791122400
     },
     {
       "source": "Investing Forex",
