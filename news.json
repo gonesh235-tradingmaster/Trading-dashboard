@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-05T02:48:51.554780Z",
+  "updated": "2026-10-05T03:11:55.555589Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index gathers strength above 102.00 on safe-haven flows",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gathers-strength-above-10200-on-safe-haven-flows-202610050257",
+      "published": "Mon, 05 Oct 2026 02:57:26 GMT",
+      "ts": 1791169046
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar flirts with YTD low, below 0.5900 amid resurgent USD demand",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-flirts-with-ytd-low-below-05900-amid-resurgent-usd-demand-202610050248",
+      "published": "Mon, 05 Oct 2026 02:48:29 GMT",
+      "ts": 1791168509
+    },
     {
       "source": "Investing Crypto",
       "title": "Cardano Climbs 10% In Rally",
@@ -71,20 +85,6 @@
       "link": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 00:35:34 +0000",
       "ts": 1791160534
-    },
-    {
-      "source": "FXStreet",
-      "title": "Russia vows to step up strikes on Ukraine",
-      "link": "https://www.fxstreet.com/news/russia-vows-to-step-up-strikes-on-ukraine-202610050014",
-      "published": "Mon, 05 Oct 2026 00:14:22 GMT",
-      "ts": 1791159262
-    },
-    {
-      "source": "FXStreet",
-      "title": "OPEC+ agrees to keep oil output policy unchanged for November",
-      "link": "https://www.fxstreet.com/news/opec-agrees-to-keep-oil-output-policy-unchanged-for-november-202610050002",
-      "published": "Mon, 05 Oct 2026 00:02:57 GMT",
-      "ts": 1791158577
     },
     {
       "source": "CoinTelegraph",
