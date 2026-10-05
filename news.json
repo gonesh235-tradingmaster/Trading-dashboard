@@ -1,13 +1,48 @@
 {
-  "updated": "2026-10-05T14:14:39.706079Z",
+  "updated": "2026-10-05T14:38:48.731167Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
+      "link": "https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 14:35:00 GMT",
+      "ts": 1791210900
+    },
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Range trade holds against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-holds-against-us-dollar-uob-202610051434",
+      "published": "Mon, 05 Oct 2026 14:34:51 GMT",
+      "ts": 1791210891
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro falls back below 1.1200 as US Dollar dominates despite weaker ISM Services PMI",
+      "link": "https://www.fxstreet.com/news/euro-falls-back-below-11200-as-us-dollar-dominates-despite-weaker-ism-services-pmi-202610051432",
+      "published": "Mon, 05 Oct 2026 14:32:34 GMT",
+      "ts": 1791210754
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Stablecoin Development reports $180M in SKY token holdings at Q3 end",
+      "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433",
+      "published": "2026-10-05 14:16:02",
+      "ts": 1791209762
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar: Upside risks persist as data watched – BBH",
       "link": "https://www.fxstreet.com/news/us-dollar-upside-risks-persist-as-data-watched-bbh-202610051410",
       "published": "Mon, 05 Oct 2026 14:10:03 GMT",
       "ts": 1791209403
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin hovers above $86k as softer jobs data offsets pressure from high yields",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
+      "published": "2026-10-05 14:07:44",
+      "ts": 1791209264
     },
     {
       "source": "MarketWatch",
@@ -122,20 +157,6 @@
       "ts": 1791204840
     },
     {
-      "source": "FXStreet",
-      "title": "Euro extends decline against British Pound on France debt concerns",
-      "link": "https://www.fxstreet.com/news/euro-extends-decline-against-british-pound-on-france-debt-concerns-202610051249",
-      "published": "Mon, 05 Oct 2026 12:49:56 GMT",
-      "ts": 1791204596
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Fragmentation fears weigh on EUR – OCBC",
-      "link": "https://www.fxstreet.com/news/euro-fragmentation-fears-weigh-on-eur-ocbc-202610051241",
-      "published": "Mon, 05 Oct 2026 12:41:25 GMT",
-      "ts": 1791204085
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Too big to pause: Could an AI slowdown crash the economy?",
       "link": "https://cointelegraph.com/features/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -207,7 +228,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold struggles as dovish Fed repricing meets stronger US Dollar, elevated yields",
+      "title": "Gold trades flat as stronger US Dollar offsets easing Fed rate-hike bets",
       "link": "https://www.fxstreet.com/news/gold-struggles-as-dovish-fed-repricing-meets-stronger-us-dollar-elevated-yields-202610051050",
       "published": "Mon, 05 Oct 2026 10:50:46 GMT",
       "ts": 1791197446
@@ -232,13 +253,6 @@
       "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
       "published": "Mon, 05 Oct 2026 10:39:57 +0000",
       "ts": 1791196797
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
-      "link": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 10:39:00 GMT",
-      "ts": 1791196740
     },
     {
       "source": "CoinDesk",
@@ -297,15 +311,8 @@
       "ts": 1791191258
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin climbs above $86k as softer jobs data offsets pressure from high yields",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
-      "published": "2026-10-05 09:02:10",
-      "ts": 1791190930
-    },
-    {
       "source": "FXStreet",
-      "title": "Breaking: US ISM Services PMI came in at 54.9 in September",
+      "title": "Breaking: US ISM Services PMI declines to 54.9 in September",
       "link": "https://www.fxstreet.com/news/ism-services-pmi-expected-to-show-robust-us-economy-in-september-202610050900",
       "published": "Mon, 05 Oct 2026 09:00:00 GMT",
       "ts": 1791190800
@@ -400,13 +407,6 @@
       "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
       "published": "2026-10-02 19:41:18",
       "ts": 1790970078
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Umia Opens Its Platform to Outside Projects, With Slop Cash From elizaOS Creator Shaw Walters the First to Be Announced",
-      "link": "https://www.investing.com/news/cryptocurrency-news/umia-opens-its-platform-to-outside-projects-with-slop-cash-from-elizaos-creator-shaw-walters-the-first-to-be-announced-4930199",
-      "published": "2026-10-02 16:30:34",
-      "ts": 1790958634
     },
     {
       "source": "Investing Forex",
