@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-05T16:32:25.779678Z",
+  "updated": "2026-10-05T16:57:07.341499Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
+      "link": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 16:53:08 +0000",
+      "ts": 1791219188
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound slides as France fiscal shock lifts the US Dollar",
+      "link": "https://www.fxstreet.com/news/british-pound-slides-as-france-fiscal-shock-lifts-the-us-dollar-202610051636",
+      "published": "Mon, 05 Oct 2026 16:36:14 GMT",
+      "ts": 1791218174
+    },
     {
       "source": "MarketWatch",
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
@@ -134,13 +148,6 @@
       "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-holds-against-us-dollar-uob-202610051434",
       "published": "Mon, 05 Oct 2026 14:34:51 GMT",
       "ts": 1791210891
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro falls back below 1.1200 as US Dollar dominates despite weaker ISM Services PMI",
-      "link": "https://www.fxstreet.com/news/euro-falls-back-below-11200-as-us-dollar-dominates-despite-weaker-ism-services-pmi-202610051432",
-      "published": "Mon, 05 Oct 2026 14:32:34 GMT",
-      "ts": 1791210754
     },
     {
       "source": "Investing Forex",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-euro-selloff-lifts-dollar-4931241",
       "published": "2026-10-05 08:34:25",
       "ts": 1791189265
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 08:00:49 +0000",
-      "ts": 1791187249
     },
     {
       "source": "Investing Crypto",
