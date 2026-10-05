@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-05T22:29:17.287969Z",
+  "updated": "2026-10-05T22:45:08.105486Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Treasury yields scale multi-year highs as inflation fears return",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-scale-multi-year-highs-as-inflation-fears-return-202610052231",
+      "published": "Mon, 05 Oct 2026 22:31:29 GMT",
+      "ts": 1791239489
+    },
     {
       "source": "FXStreet",
       "title": "The Euro breaks to a fresh low, then bounces, as Spain calls a snap vote",
@@ -197,13 +204,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-wide-yield-gap-supports-us-dollar-202610051826",
       "published": "Mon, 05 Oct 2026 18:26:23 GMT",
       "ts": 1791224783
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: PMIs in Europe and Fedspeak will do the rounds",
-      "link": "https://www.fxstreet.com/news/forex-today-pmis-in-europe-and-fedspeak-will-do-the-rounds-202610051824",
-      "published": "Mon, 05 Oct 2026 18:24:08 GMT",
-      "ts": 1791224648
     },
     {
       "source": "CoinTelegraph",
