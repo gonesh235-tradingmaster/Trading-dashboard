@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-05T03:11:55.555589Z",
+  "updated": "2026-10-05T03:33:23.254623Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japan’s Kihara: There are no plans to carry out a further oil release",
+      "link": "https://www.fxstreet.com/news/japans-kihara-there-are-no-plans-to-carry-out-a-further-oil-release-202610050333",
+      "published": "Mon, 05 Oct 2026 03:33:07 GMT",
+      "ts": 1791171187
+    },
+    {
+      "source": "FXStreet",
+      "title": "US data week: ISM, labor and sentiment in focus – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-data-week-ism-labor-and-sentiment-in-focus-td-securities-202610050325",
+      "published": "Mon, 05 Oct 2026 03:25:11 GMT",
+      "ts": 1791170711
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Fresh downside likely below 0.6900",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-fresh-downside-likely-below-06900-202610050324",
+      "published": "Mon, 05 Oct 2026 03:24:39 GMT",
+      "ts": 1791170679
+    },
+    {
+      "source": "FXStreet",
+      "title": "US economy: Mixed labour and inflation picture – NBC Economics and Strategy",
+      "link": "https://www.fxstreet.com/news/us-economy-mixed-labour-and-inflation-picture-nbc-economics-and-strategy-202610050317",
+      "published": "Mon, 05 Oct 2026 03:17:46 GMT",
+      "ts": 1791170266
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD gains near $61.00 as Fed rate hike odds decline",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-gains-near-6100-as-fed-rate-hike-odds-decline-202610050314",
+      "published": "Mon, 05 Oct 2026 03:14:40 GMT",
+      "ts": 1791170080
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+      "link": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 03:12:21 +0000",
+      "ts": 1791169941
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index gathers strength above 102.00 on safe-haven flows",
@@ -43,41 +85,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-languishes-near-april-2025-lows-as-usd-bulls-look-past-weak-nfp-report-202610050201",
       "published": "Mon, 05 Oct 2026 02:01:10 GMT",
       "ts": 1791165670
-    },
-    {
-      "source": "FXStreet",
-      "title": "Middle East crude oil exports rise above pre-war levels but tanker attacks increase",
-      "link": "https://www.fxstreet.com/news/middle-east-crude-oil-exports-rise-above-pre-war-levels-but-tanker-attacks-increase-202610050159",
-      "published": "Mon, 05 Oct 2026 01:59:37 GMT",
-      "ts": 1791165577
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoJ’s Uchida: AI has become a major focus among central banks, including at BoJ policy meetings",
-      "link": "https://www.fxstreet.com/news/bojs-uchida-ai-has-become-a-major-focus-among-central-banks-including-at-boj-policy-meetings-202610050148",
-      "published": "Mon, 05 Oct 2026 01:48:55 GMT",
-      "ts": 1791164935
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen bulls seem hesitant as USD reverses post-NFP slide amid geopolitical tensions",
-      "link": "https://www.fxstreet.com/news/japanese-yen-bulls-seem-hesitant-as-usd-reverses-post-nfp-slide-amid-geopolitical-tensions-202610050115",
-      "published": "Mon, 05 Oct 2026 01:15:25 GMT",
-      "ts": 1791162925
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound softens as US Dollar gains despite easing Fed rate hike odds",
-      "link": "https://www.fxstreet.com/news/british-pound-softens-as-us-dollar-gains-despite-easing-fed-rate-hike-odds-202610050114",
-      "published": "Mon, 05 Oct 2026 01:14:26 GMT",
-      "ts": 1791162866
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro softens below 1.1250 on France’s fiscal risk",
-      "link": "https://www.fxstreet.com/news/euro-softens-below-11250-on-frances-fiscal-risk-202610050043",
-      "published": "Mon, 05 Oct 2026 00:43:49 GMT",
-      "ts": 1791161029
     },
     {
       "source": "CoinTelegraph",
@@ -302,13 +309,6 @@
       "link": "https://www.investing.com/news/forex-news/bofa-sees-eurusd-at-115-by-yearend-amid-market-risks-93CH-4930789",
       "published": "2026-10-03 08:45:22",
       "ts": 1791017122
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Trump expected to appoint Jay Clayton as new AI czar: Reports",
-      "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 03 Oct 2026 07:09:00 +0000",
-      "ts": 1791011340
     },
     {
       "source": "Investing Crypto",
