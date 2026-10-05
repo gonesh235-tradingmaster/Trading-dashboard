@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-05T12:50:05.096860Z",
+  "updated": "2026-10-05T13:15:14.001514Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 13:04:57 +0000",
+      "ts": 1791205497
+    },
+    {
+      "source": "FXStreet",
+      "title": "Brazilian Real: Election surprise supports BRL – BBH",
+      "link": "https://www.fxstreet.com/news/brazilian-real-election-surprise-supports-brl-bbh-202610051304",
+      "published": "Mon, 05 Oct 2026 13:04:28 GMT",
+      "ts": 1791205468
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis",
+      "link": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 13:00:00 +0000",
+      "ts": 1791205200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+      "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 13:00:00 GMT",
+      "ts": 1791205200
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro extends decline against British Pound on France debt concerns",
+      "link": "https://www.fxstreet.com/news/euro-extends-decline-against-british-pound-on-france-debt-concerns-202610051249",
+      "published": "Mon, 05 Oct 2026 12:49:56 GMT",
+      "ts": 1791204596
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy opts for bigger spending on STRC buybacks over BTC purchases",
+      "link": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 12:46:47 +0000",
+      "ts": 1791204407
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Fragmentation fears weigh on EUR – OCBC",
@@ -87,13 +129,6 @@
       "ts": 1791200400
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound recovers some losses against US Dollar, ISM Services PMI eyed",
-      "link": "https://www.fxstreet.com/news/british-pound-recovers-some-losses-against-us-dollar-ism-services-pmi-eyed-202610051129",
-      "published": "Mon, 05 Oct 2026 11:29:53 GMT",
-      "ts": 1791199793
-    },
-    {
       "source": "MarketWatch",
       "title": "Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit",
       "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
@@ -129,25 +164,18 @@
       "ts": 1791198483
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Pressured yet systemic risk contained – DBS",
-      "link": "https://www.fxstreet.com/news/euro-pressured-yet-systemic-risk-contained-dbs-202610051104",
-      "published": "Mon, 05 Oct 2026 11:04:43 GMT",
-      "ts": 1791198283
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD jumps to near $61.80 as hawkish Fed bets recede",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-6180-as-hawkish-fed-bets-recede-202610051058",
-      "published": "Mon, 05 Oct 2026 10:58:24 GMT",
-      "ts": 1791197904
-    },
-    {
       "source": "CoinDesk",
       "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
       "link": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
       "published": "Mon, 05 Oct 2026 10:58:03 +0000",
       "ts": 1791197883
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold struggles as dovish Fed repricing meets stronger US Dollar, elevated yields",
+      "link": "https://www.fxstreet.com/news/gold-struggles-as-dovish-fed-repricing-meets-stronger-us-dollar-elevated-yields-202610051050",
+      "published": "Mon, 05 Oct 2026 10:50:46 GMT",
+      "ts": 1791197446
     },
     {
       "source": "MarketWatch",
@@ -197,13 +225,6 @@
       "link": "https://www.marketwatch.com/story/microns-historic-cash-bonanza-is-set-to-rain-down-on-investors-b61e6955?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 10:30:00 GMT",
       "ts": 1791196200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 10:15:00 GMT",
-      "ts": 1791195300
     },
     {
       "source": "CoinTelegraph",
@@ -312,31 +333,10 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 05:00:00 +0000",
-      "ts": 1791176400
-    },
-    {
-      "source": "CoinTelegraph",
       "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
       "link": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 03:47:19 +0000",
       "ts": 1791172039
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "OKX, NYSE parent file to launch tokenized US stock platform",
-      "link": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 03:44:09 +0000",
-      "ts": 1791171849
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
-      "link": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 03:12:21 +0000",
-      "ts": 1791169941
     },
     {
       "source": "Investing Crypto",
