@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-05T02:09:54.394762Z",
+  "updated": "2026-10-05T02:29:15.524479Z",
   "count": 60,
   "items": [
     {
       "source": "FXStreet",
-      "title": "WTI drops to near $89.00 as OPEC+ holds November targets",
+      "title": "Gold holds gains above $4,150 as traders trim bets on Fed rate hikes",
+      "link": "https://www.fxstreet.com/news/gold-holds-gains-above-4-150-as-traders-trim-bets-on-fed-rate-hikes-202610050213",
+      "published": "Mon, 05 Oct 2026 02:13:30 GMT",
+      "ts": 1791166410
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI drops to near $89.00 as G7 taps emergency reserves",
       "link": "https://www.fxstreet.com/news/wti-drops-to-near-8900-as-opec-holds-november-targets-202610050208",
       "published": "Mon, 05 Oct 2026 02:08:56 GMT",
       "ts": 1791166136
@@ -71,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/opec-agrees-to-keep-oil-output-policy-unchanged-for-november-202610050002",
       "published": "Mon, 05 Oct 2026 00:02:57 GMT",
       "ts": 1791158577
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar drifts higher above 0.6950 on soft US jobs data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-drifts-higher-above-06950-on-soft-us-jobs-data-202610042321",
-      "published": "Sun, 04 Oct 2026 23:21:46 GMT",
-      "ts": 1791156106
     },
     {
       "source": "CoinTelegraph",
