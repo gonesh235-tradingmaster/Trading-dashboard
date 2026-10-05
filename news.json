@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-05T17:13:36.958995Z",
+  "updated": "2026-10-05T17:32:15.172723Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
+      "link": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+      "published": "Mon, 05 Oct 2026 17:18:14 +0000",
+      "ts": 1791220694
+    },
     {
       "source": "MarketWatch",
       "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/forex-news/hsbc-models-signal-riskon-equity-outlook-after-market-volatility-93CH-4931484",
       "published": "2026-10-05 10:09:38",
       "ts": 1791194978
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
-      "published": "Mon, 05 Oct 2026 09:37:13 +0000",
-      "ts": 1791193033
     },
     {
       "source": "Investing Forex",
