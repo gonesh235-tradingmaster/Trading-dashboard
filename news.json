@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-05T13:45:48.236742Z",
+  "updated": "2026-10-05T14:14:39.706079Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Upside risks persist as data watched – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-upside-risks-persist-as-data-watched-bbh-202610051410",
+      "published": "Mon, 05 Oct 2026 14:10:03 GMT",
+      "ts": 1791209403
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
+      "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 14:07:00 GMT",
+      "ts": 1791209220
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc slips as US Dollar holds near yearly high after mixed PMI data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-slips-as-us-dollar-holds-near-yearly-high-after-mixed-pmi-data-202610051404",
+      "published": "Mon, 05 Oct 2026 14:04:47 GMT",
+      "ts": 1791209087
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Debt contagion fears weigh on EUR against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/euro-debt-contagion-fears-weigh-on-eur-against-us-dollar-societe-generale-202610051359",
+      "published": "Mon, 05 Oct 2026 13:59:21 GMT",
+      "ts": 1791208761
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
+      "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 13:58:00 GMT",
+      "ts": 1791208680
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 13:49:00 GMT",
+      "ts": 1791208140
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
+      "link": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 13:47:17 +0000",
+      "ts": 1791208037
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar slides toward one-year low as US Dollar regains strength",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slides-toward-one-year-low-as-us-dollar-regains-strength-202610051347",
+      "published": "Mon, 05 Oct 2026 13:47:11 GMT",
+      "ts": 1791208031
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
+      "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+      "published": "Mon, 05 Oct 2026 13:46:31 +0000",
+      "ts": 1791207991
+    },
     {
       "source": "FXStreet",
       "title": "British Pound: Gradual Dollar gains into United Kingdom budget – HSBC",
@@ -73,13 +136,6 @@
       "ts": 1791204085
     },
     {
-      "source": "FXStreet",
-      "title": "Oil: Crude forecasts signal inflation surprises ahead - Societe Generale",
-      "link": "https://www.fxstreet.com/news/oil-crude-forecasts-signal-inflation-surprises-ahead-societe-generale-202610051230",
-      "published": "Mon, 05 Oct 2026 12:30:12 GMT",
-      "ts": 1791203412
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Too big to pause: Could an AI slowdown crash the economy?",
       "link": "https://cointelegraph.com/features/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -94,25 +150,11 @@
       "ts": 1791203400
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
-      "link": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 12:28:39 +0000",
-      "ts": 1791203319
-    },
-    {
       "source": "CoinDesk",
       "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
       "link": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
       "published": "Mon, 05 Oct 2026 12:28:35 +0000",
       "ts": 1791203315
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar bounces up as US Dollar  loses steam with services PMIs in focus",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bounces-up-as-us-dollar-loses-steam-with-services-pmis-in-focus-202610051224",
-      "published": "Mon, 05 Oct 2026 12:24:45 GMT",
-      "ts": 1791203085
     },
     {
       "source": "Investing Forex",
@@ -129,32 +171,11 @@
       "ts": 1791202682
     },
     {
-      "source": "FXStreet",
-      "title": "European Central Bank: Contagion risk reshapes rate expectations – MUFG",
-      "link": "https://www.fxstreet.com/news/european-central-bank-contagion-risk-reshapes-rate-expectations-mufg-202610051214",
-      "published": "Mon, 05 Oct 2026 12:14:04 GMT",
-      "ts": 1791202444
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar: Downside limited against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-downside-limited-against-us-dollar-uob-202610051143",
-      "published": "Mon, 05 Oct 2026 11:43:26 GMT",
-      "ts": 1791200606
-    },
-    {
       "source": "MarketWatch",
       "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
       "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 11:40:00 GMT",
       "ts": 1791200400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit",
-      "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 11:27:00 GMT",
-      "ts": 1791199620
     },
     {
       "source": "MarketWatch",
@@ -227,20 +248,6 @@
       "ts": 1791196650
     },
     {
-      "source": "MarketWatch",
-      "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says one major bank.",
-      "link": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 10:33:00 GMT",
-      "ts": 1791196380
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron’s historic cash bonanza is set to rain down on investors",
-      "link": "https://www.marketwatch.com/story/microns-historic-cash-bonanza-is-set-to-rain-down-on-investors-b61e6955?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 10:30:00 GMT",
-      "ts": 1791196200
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
       "link": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -298,7 +305,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "ISM Services PMI expected to signal a solid US economy in September",
+      "title": "Breaking: US ISM Services PMI came in at 54.9 in September",
       "link": "https://www.fxstreet.com/news/ism-services-pmi-expected-to-show-robust-us-economy-in-september-202610050900",
       "published": "Mon, 05 Oct 2026 09:00:00 GMT",
       "ts": 1791190800
@@ -330,13 +337,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-05 07:12:18",
       "ts": 1791184338
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
-      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
-      "published": "Mon, 05 Oct 2026 06:57:40 +0000",
-      "ts": 1791183460
     },
     {
       "source": "CoinTelegraph",
