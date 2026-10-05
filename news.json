@@ -1,13 +1,34 @@
 {
-  "updated": "2026-10-05T08:36:57.662055Z",
+  "updated": "2026-10-05T08:57:59.999213Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro attempts to regain the 1.1200 level following mixed Services activity data",
+      "link": "https://www.fxstreet.com/news/euro-attempts-to-regain-the-11200-level-following-mixed-services-activity-data-202610050846",
+      "published": "Mon, 05 Oct 2026 08:46:19 GMT",
+      "ts": 1791189979
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Holds gains as Fed pricing stays firm – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-holds-gains-as-fed-pricing-stays-firm-ing-202610050841",
+      "published": "Mon, 05 Oct 2026 08:41:53 GMT",
+      "ts": 1791189713
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar recovers despite Yen gains, Japan vows fiscal prudence",
       "link": "https://www.fxstreet.com/news/australian-dollar-recovers-despite-yen-gains-japan-vows-fiscal-prudence-202610050836",
       "published": "Mon, 05 Oct 2026 08:36:35 GMT",
       "ts": 1791189395
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound slips as euro sell-off lifts dollar",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-euro-selloff-lifts-dollar-4931241",
+      "published": "2026-10-05 08:34:25",
+      "ts": 1791189265
     },
     {
       "source": "FXStreet",
@@ -43,34 +64,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-broad-range-holds-despite-weak-momentum-against-us-dollar-uob-202610050812",
       "published": "Mon, 05 Oct 2026 08:12:10 GMT",
       "ts": 1791187930
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro loses against Canadian Dollar as ECB’s Lane warns economic growth concerns",
-      "link": "https://www.fxstreet.com/news/euro-loses-against-canadian-dollar-as-ecbs-lane-warns-economic-growth-concerns-202610050811",
-      "published": "Mon, 05 Oct 2026 08:11:20 GMT",
-      "ts": 1791187880
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB’s Lane: Rise in long-term rates will slow growth",
-      "link": "https://www.fxstreet.com/news/ecbs-lane-rise-in-long-term-rates-will-slow-growth-202610050806",
-      "published": "Mon, 05 Oct 2026 08:06:12 GMT",
-      "ts": 1791187572
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: Euro selloff picks up steam, US Dollar ignores easing rate hike bets",
-      "link": "https://www.fxstreet.com/news/forex-today-euro-selloff-picks-up-steam-us-dollar-ignores-easing-rate-hike-bets-202610050805",
-      "published": "Mon, 05 Oct 2026 08:05:55 GMT",
-      "ts": 1791187555
-    },
-    {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: Kiwi remains under pressure at YTD lows sub-0.5600",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-remains-under-pressure-at-ytd-lows-sub-05600-202610050802",
-      "published": "Mon, 05 Oct 2026 08:02:46 GMT",
-      "ts": 1791187366
     },
     {
       "source": "CoinTelegraph",
@@ -129,6 +122,13 @@
       "ts": 1791181970
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee holds early ground as traders trim hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-at-start-of-rbis-policy-week-202610050540",
+      "published": "Mon, 05 Oct 2026 05:40:25 GMT",
+      "ts": 1791178825
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -141,6 +141,13 @@
       "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
       "published": "Mon, 05 Oct 2026 04:45:03 +0000",
       "ts": 1791175503
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold clings to gains as receding Fed hike and soft US bond yields counter strong USD",
+      "link": "https://www.fxstreet.com/news/gold-bulls-remain-on-the-sidelines-as-usd-rallies-to-fresh-ytd-peak-202610050443",
+      "published": "Mon, 05 Oct 2026 04:43:14 GMT",
+      "ts": 1791175394
     },
     {
       "source": "CoinDesk",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
       "published": "2026-10-02 03:30:31",
       "ts": 1790911831
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. dollar hits highest since April 2025 while euro slides after French budget",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
-      "published": "2026-10-01 21:08:36",
-      "ts": 1790888916
     }
   ]
 }
