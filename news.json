@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-05T04:00:42.678169Z",
+  "updated": "2026-10-05T04:32:25.386862Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Breaking: Euro plummets to May 2025 low vs bullish USD amid France's debt crisis",
+      "link": "https://www.fxstreet.com/news/breaking-euro-plummets-to-may-2025-low-vs-bullish-usd-amid-frances-debt-crisis-202610050425",
+      "published": "Mon, 05 Oct 2026 04:25:31 GMT",
+      "ts": 1791174331
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+      "published": "Mon, 05 Oct 2026 04:23:25 +0000",
+      "ts": 1791174205
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc weakens as safe-haven demand lifts US Dollar",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-safe-haven-demand-lifts-us-dollar-202610050406",
+      "published": "Mon, 05 Oct 2026 04:06:44 GMT",
+      "ts": 1791173204
+    },
     {
       "source": "CoinDesk",
       "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
@@ -92,20 +113,6 @@
       "link": "https://www.fxstreet.com/news/gold-holds-gains-above-4-150-as-traders-trim-bets-on-fed-rate-hikes-202610050213",
       "published": "Mon, 05 Oct 2026 02:13:30 GMT",
       "ts": 1791166410
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI drops to near $89.00 as G7 taps emergency reserves",
-      "link": "https://www.fxstreet.com/news/wti-drops-to-near-8900-as-opec-holds-november-targets-202610050208",
-      "published": "Mon, 05 Oct 2026 02:08:56 GMT",
-      "ts": 1791166136
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar languishes near April 2025 lows as USD bulls look past weak NFP report",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-languishes-near-april-2025-lows-as-usd-bulls-look-past-weak-nfp-report-202610050201",
-      "published": "Mon, 05 Oct 2026 02:01:10 GMT",
-      "ts": 1791165670
     },
     {
       "source": "CoinTelegraph",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
       "published": "2026-10-02 21:40:53",
       "ts": 1790977253
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
-      "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
-      "published": "Fri, 02 Oct 2026 21:23:20 +0000",
-      "ts": 1790976200
     },
     {
       "source": "Investing Forex",
