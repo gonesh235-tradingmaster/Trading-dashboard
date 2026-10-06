@@ -1,13 +1,27 @@
 {
-  "updated": "2026-10-06T21:56:50.648005Z",
+  "updated": "2026-10-06T22:13:37.537540Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Euro wins back its slide to a fresh low as France files its budget",
+      "link": "https://www.fxstreet.com/news/the-euro-wins-back-its-slide-to-a-fresh-low-as-france-files-its-budget-202610062201",
+      "published": "Tue, 06 Oct 2026 22:01:40 GMT",
+      "ts": 1791324100
+    },
     {
       "source": "MarketWatch",
       "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
       "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 21:52:00 GMT",
       "ts": 1791323520
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin dips as oil turns higher, countering bond rout halt and regulatory hopes",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
+      "published": "2026-10-06 21:46:48",
+      "ts": 1791323208
     },
     {
       "source": "FXStreet",
@@ -220,13 +234,6 @@
       "ts": 1791307818
     },
     {
-      "source": "FXStreet",
-      "title": "WTI rebounds as Hormuz risks temper relief from rising Gulf exports",
-      "link": "https://www.fxstreet.com/news/wti-rebounds-as-hormuz-risks-temper-relief-from-rising-gulf-exports-202610061726",
-      "published": "Tue, 06 Oct 2026 17:26:36 GMT",
-      "ts": 1791307596
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
       "link": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -281,13 +288,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/superform-activates-earn-strategies-for-tokenized-stocks-on-base-powered-by-aave-4934906",
       "published": "2026-10-06 15:00:07",
       "ts": 1791298807
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin pinned at $86.2k as soaring yields offset regulatory hopes",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
-      "published": "2026-10-06 13:52:45",
-      "ts": 1791294765
     },
     {
       "source": "CoinDesk",
