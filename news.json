@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-06T11:56:14.972127Z",
+  "updated": "2026-10-06T12:15:59.533807Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/GBP Price Forecast: Bears retain control as RSI turns oversold",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bears-retain-control-as-rsi-turns-oversold-202610061214",
+      "published": "Tue, 06 Oct 2026 12:14:39 GMT",
+      "ts": 1791288879
+    },
+    {
+      "source": "FXStreet",
+      "title": "Romanian Leu: S&P reprieve leaves downgrade risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/romanian-leu-sp-reprieve-leaves-downgrade-risks-commerzbank-202610061211",
+      "published": "Tue, 06 Oct 2026 12:11:45 GMT",
+      "ts": 1791288705
+    },
+    {
+      "source": "MarketWatch",
+      "title": "America’s favorite index is misleading investors about the state of the stock market",
+      "link": "https://www.marketwatch.com/story/americas-favorite-index-is-misleading-investors-about-the-state-of-the-stock-market-2e91ca95?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 12:05:00 GMT",
+      "ts": 1791288300
+    },
     {
       "source": "FXStreet",
       "title": "Czech Koruna: Hawkish CNB keeps CZK supported against Euro - Societe Generale",
@@ -122,13 +143,6 @@
       "ts": 1791281700
     },
     {
-      "source": "FXStreet",
-      "title": "Equities: Resilience persists versus rates stress – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-resilience-persists-versus-rates-stress-deutsche-bank-202610061001",
-      "published": "Tue, 06 Oct 2026 10:01:00 GMT",
-      "ts": 1791280860
-    },
-    {
       "source": "Investing Crypto",
       "title": "Beldex Introduces Confidential Assets for Privacy-Preserving Tokens on Testnet",
       "link": "https://www.investing.com/news/cryptocurrency-news/beldex-introduces-confidential-assets-for-privacypreserving-tokens-on-testnet-4933778",
@@ -213,13 +227,6 @@
       "ts": 1791277886
     },
     {
-      "source": "MarketWatch",
-      "title": "Former N.Y. Gov. Andrew Cuomo buys a 7-acre Hamptons estate for $9.6 million cash",
-      "link": "https://www.marketwatch.com/story/former-n-y-gov-andrew-cuomo-buys-a-7-acre-hamptons-estate-for-9-6-million-cash-2deb9d9f?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 09:06:00 GMT",
-      "ts": 1791277560
-    },
-    {
       "source": "CoinDesk",
       "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
       "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
@@ -267,13 +274,6 @@
       "link": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 07:09:33 +0000",
       "ts": 1791270573
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro trims some losses as the decline in Oil prices offsets weak Eurozone releases",
-      "link": "https://www.fxstreet.com/news/euro-dips-further-as-grim-german-data-adds-to-political-uncertainty-and-debt-issues-202610060645",
-      "published": "Tue, 06 Oct 2026 06:45:11 GMT",
-      "ts": 1791269111
     },
     {
       "source": "FXStreet",
