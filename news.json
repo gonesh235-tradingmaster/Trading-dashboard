@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-06T01:45:36.487378Z",
+  "updated": "2026-10-06T02:10:18.663036Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro weakens below 1.1250 on France debt concerns",
+      "link": "https://www.fxstreet.com/news/euro-weakens-below-11250-on-france-debt-concerns-202610060159",
+      "published": "Tue, 06 Oct 2026 01:59:49 GMT",
+      "ts": 1791251989
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+      "link": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 01:47:24 +0000",
+      "ts": 1791251244
+    },
     {
       "source": "FXStreet",
       "title": "British Pound extends range play; holds above 1.3200 as bullish USD caps upside",
@@ -78,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-defies-rising-yields-as-aud-usd-closes-in-on-070-202610052318",
       "published": "Mon, 05 Oct 2026 23:18:47 GMT",
       "ts": 1791242327
-    },
-    {
-      "source": "FXStreet",
-      "title": "The New Zealand Dollar holds near its lows while business confidence jumps",
-      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-holds-near-its-lows-while-business-confidence-jumps-202610052300",
-      "published": "Mon, 05 Oct 2026 23:00:00 GMT",
-      "ts": 1791241200
     },
     {
       "source": "MarketWatch",
@@ -281,13 +288,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433",
       "published": "2026-10-05 14:16:02",
       "ts": 1791209762
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
-      "link": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 13:47:17 +0000",
-      "ts": 1791208037
     },
     {
       "source": "CoinDesk",
