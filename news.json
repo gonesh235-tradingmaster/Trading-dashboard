@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-06T06:41:23.710174Z",
+  "updated": "2026-10-06T07:00:48.459644Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Equities: Broad catch-up as yields back up – Danske Bank",
+      "link": "https://www.fxstreet.com/news/equities-broad-catch-up-as-yields-back-up-danske-bank-202610060656",
+      "published": "Tue, 06 Oct 2026 06:56:06 GMT",
+      "ts": 1791269766
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Struggles to return to 0.7000 amid firm US Dollar",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-struggles-to-return-to-07000-amid-firm-us-dollar-202610060648",
+      "published": "Tue, 06 Oct 2026 06:48:42 GMT",
+      "ts": 1791269322
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro dips further as grim German data adds to political uncertainty and debt issues",
+      "link": "https://www.fxstreet.com/news/euro-dips-further-as-grim-german-data-adds-to-political-uncertainty-and-debt-issues-202610060645",
+      "published": "Tue, 06 Oct 2026 06:45:11 GMT",
+      "ts": 1791269111
+    },
     {
       "source": "FXStreet",
       "title": "Brent: Prices hold near $100 as Gulf risks persist – ING",
@@ -67,31 +88,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "WTI Price Forecast: Bulls seem hesitant near $89.00 amid easing supply risks",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-seem-hesitant-near-8900-amid-easing-supply-risks-202610060527",
-      "published": "Tue, 06 Oct 2026 05:27:12 GMT",
-      "ts": 1791264432
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold hits two-month low as bears await break below $4,100 amid sustained USD strength",
+      "title": "Gold seems vulnerable near two-month low amid strong USD, higher US bond yields",
       "link": "https://www.fxstreet.com/news/gold-hits-two-month-low-as-bears-await-break-below-4-100-amid-sustained-usd-strength-202610060506",
       "published": "Tue, 06 Oct 2026 05:06:43 GMT",
       "ts": 1791263203
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Strengthens above 110.00, while bearish technical bias persists",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11000-while-bearish-technical-bias-persists-202610060458",
-      "published": "Tue, 06 Oct 2026 04:58:19 GMT",
-      "ts": 1791262699
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Tests 177.50 after rebounding from descending channel bottom",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-17750-after-rebounding-from-descending-channel-bottom-202610060456",
-      "published": "Tue, 06 Oct 2026 04:56:36 GMT",
-      "ts": 1791262596
     },
     {
       "source": "CoinDesk",
