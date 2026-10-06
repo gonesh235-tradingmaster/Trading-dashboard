@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-06T23:43:31.556029Z",
+  "updated": "2026-10-06T23:56:21.506360Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US VP Vance says Iran must reduce nuclear enrichment capacity to end war",
+      "link": "https://www.fxstreet.com/news/us-vp-vance-says-iran-must-reduce-nuclear-enrichment-capacity-to-end-war-202610062353",
+      "published": "Tue, 06 Oct 2026 23:53:43 GMT",
+      "ts": 1791330823
+    },
+    {
+      "source": "FXStreet",
+      "title": "BoJ’s Sato signals support for future rate hikes",
+      "link": "https://www.fxstreet.com/news/bojs-sato-signals-support-for-future-rate-hikes-202610062346",
+      "published": "Tue, 06 Oct 2026 23:46:35 GMT",
+      "ts": 1791330395
+    },
     {
       "source": "FXStreet",
       "title": "The Pound climbs against the Japanese Yen as the BoJ gives no hike signal",
@@ -80,13 +94,6 @@
       "ts": 1791323208
     },
     {
-      "source": "FXStreet",
-      "title": "The Pound climbs back to the top of its range as bond yields ease",
-      "link": "https://www.fxstreet.com/news/the-pound-climbs-back-to-the-top-of-its-range-as-bond-yields-ease-202610062126",
-      "published": "Tue, 06 Oct 2026 21:26:23 GMT",
-      "ts": 1791321983
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar slips as euro rebounds after France’s Le Pen unveils budget proposals",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
@@ -127,13 +134,6 @@
       "link": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 20:37:00 GMT",
       "ts": 1791319020
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Gradual upside within defined bands – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-upside-within-defined-bands-uob-202610062026",
-      "published": "Tue, 06 Oct 2026 20:26:06 GMT",
-      "ts": 1791318366
     },
     {
       "source": "MarketWatch",
