@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-06T22:31:50.346661Z",
+  "updated": "2026-10-06T22:54:18.071600Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso post gains as lower US yields revive the carry trade",
+      "link": "https://www.fxstreet.com/news/mexican-peso-post-gains-as-lower-us-yields-revive-the-carry-trade-202610062235",
+      "published": "Tue, 06 Oct 2026 22:35:10 GMT",
+      "ts": 1791326110
+    },
+    {
+      "source": "FXStreet",
+      "title": "The Japanese Yen flatlines through a BoJ speech that changed nothing",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-flatlines-through-a-boj-speech-that-changed-nothing-202610062233",
+      "published": "Tue, 06 Oct 2026 22:33:32 GMT",
+      "ts": 1791326012
+    },
     {
       "source": "FXStreet",
       "title": "The New Zealand Dollar edges off its low as the US Dollar slips",
@@ -206,25 +220,11 @@
       "ts": 1791310775
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD remains range-bound below daily SMAs",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-range-bound-below-daily-smas-202610061809",
-      "published": "Tue, 06 Oct 2026 18:09:44 GMT",
-      "ts": 1791310184
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bill aims at stopping US lawmaker bets on their own elections ahead of midterms",
       "link": "https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 17:59:32 +0000",
       "ts": 1791309572
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed's Daly says more hikes may be needed if shocks persist",
-      "link": "https://www.fxstreet.com/news/feds-daly-says-more-hikes-may-be-needed-if-shocks-persist-202610061755",
-      "published": "Tue, 06 Oct 2026 17:55:51 GMT",
-      "ts": 1791309351
     },
     {
       "source": "CoinTelegraph",
