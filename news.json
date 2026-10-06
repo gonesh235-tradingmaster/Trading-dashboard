@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-06T15:20:52.001340Z",
+  "updated": "2026-10-06T15:43:20.171504Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
+      "link": "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 15:24:51 +0000",
+      "ts": 1791300291
+    },
     {
       "source": "CoinDesk",
       "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
@@ -295,13 +302,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
       "published": "Tue, 06 Oct 2026 09:25:36 +0000",
       "ts": 1791278736
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
-      "link": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 09:21:38 +0000",
-      "ts": 1791278498
     },
     {
       "source": "Investing Forex",
