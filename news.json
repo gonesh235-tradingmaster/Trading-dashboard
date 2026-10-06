@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-06T05:55:30.042804Z",
+  "updated": "2026-10-06T06:14:42.304876Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "-10.6%: Germany’s Factory Orders fall in August, missed -1.0% estimates",
+      "link": "https://www.fxstreet.com/news/106-germanys-factory-orders-fall-in-august-missed-10-estimates-202610060602",
+      "published": "Tue, 06 Oct 2026 06:02:04 GMT",
+      "ts": 1791266524
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 06:00:00 +0000",
+      "ts": 1791266400
+    },
     {
       "source": "CoinTelegraph",
       "title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
@@ -127,13 +141,6 @@
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-consolidates-around-05600-near-ytd-low-as-usd-stays-bullish-202610060228",
       "published": "Tue, 06 Oct 2026 02:28:15 GMT",
       "ts": 1791253695
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD falls to near $60.50 as US Treasury yields rise",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6050-as-us-treasury-yields-rise-202610060225",
-      "published": "Tue, 06 Oct 2026 02:25:46 GMT",
-      "ts": 1791253546
     },
     {
       "source": "CoinTelegraph",
@@ -281,13 +288,6 @@
       "link": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 17:58:58 +0000",
       "ts": 1791223138
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
-      "link": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 17:40:23 +0000",
-      "ts": 1791222023
     },
     {
       "source": "CoinDesk",
