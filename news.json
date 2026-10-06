@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-06T07:30:55.205491Z",
+  "updated": "2026-10-06T07:56:33.763113Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Downside risks with 1.1100 in sight against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-with-11100-in-sight-against-us-dollar-ing-202610060749",
+      "published": "Tue, 06 Oct 2026 07:49:32 GMT",
+      "ts": 1791272972
+    },
+    {
+      "source": "Investing Forex",
+      "title": "German yields drop as markets seek shelter, leaving French OATs sidelined",
+      "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
+      "published": "2026-10-06 07:43:40",
+      "ts": 1791272620
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah moves little as US Dollar (USD) remains steady amid safe-haven demand",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-moves-little-as-us-dollar-usd-remains-steady-amid-safe-haven-demand-202610060742",
+      "published": "Tue, 06 Oct 2026 07:42:53 GMT",
+      "ts": 1791272573
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc weakens as US Dollar (USD) gains on escalating geopolitical conflicts",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-usd-gains-on-escalating-geopolitical-conflicts-202610060731",
+      "published": "Tue, 06 Oct 2026 07:31:25 GMT",
+      "ts": 1791271885
+    },
     {
       "source": "FXStreet",
       "title": "Forex Today: US Dollar clings to bullish stance ahead of mid-tier data releases",
@@ -66,20 +94,6 @@
       "ts": 1791270261
     },
     {
-      "source": "FXStreet",
-      "title": "Equities: Broad catch-up as yields back up – Danske Bank",
-      "link": "https://www.fxstreet.com/news/equities-broad-catch-up-as-yields-back-up-danske-bank-202610060656",
-      "published": "Tue, 06 Oct 2026 06:56:06 GMT",
-      "ts": 1791269766
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Struggles to return to 0.7000 amid firm US Dollar",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-struggles-to-return-to-07000-amid-firm-us-dollar-202610060648",
-      "published": "Tue, 06 Oct 2026 06:48:42 GMT",
-      "ts": 1791269322
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin steadies at $85.5k as soaring yields offset regulatory hopes",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
@@ -106,13 +120,6 @@
       "link": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 05:43:50 +0000",
       "ts": 1791265430
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold seems vulnerable near two-month low amid strong USD, higher US bond yields",
-      "link": "https://www.fxstreet.com/news/gold-hits-two-month-low-as-bears-await-break-below-4-100-amid-sustained-usd-strength-202610060506",
-      "published": "Tue, 06 Oct 2026 05:06:43 GMT",
-      "ts": 1791263203
     },
     {
       "source": "CoinDesk",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/irans-rial-hits-fresh-low-as-2-billion-currency-intervention-fails-to-stem-slide-4930880",
       "published": "2026-10-03 20:13:19",
       "ts": 1791058399
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BofA sees EUR/USD at 1.15 by year-end amid market risks",
-      "link": "https://www.investing.com/news/forex-news/bofa-sees-eurusd-at-115-by-yearend-amid-market-risks-93CH-4930789",
-      "published": "2026-10-03 08:45:22",
-      "ts": 1791017122
     }
   ]
 }
