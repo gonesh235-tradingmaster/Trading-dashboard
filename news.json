@@ -1,13 +1,27 @@
 {
-  "updated": "2026-10-06T01:29:27.235897Z",
+  "updated": "2026-10-06T01:45:36.487378Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound extends range play; holds above 1.3200 as bullish USD caps upside",
+      "link": "https://www.fxstreet.com/news/british-pound-extends-range-play-holds-above-13200-as-bullish-usd-caps-upside-202610060145",
+      "published": "Tue, 06 Oct 2026 01:45:24 GMT",
+      "ts": 1791251124
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar holds steady amid soft consumer sentiment",
       "link": "https://www.fxstreet.com/news/australian-dollar-holds-steady-amid-soft-consumer-sentiment-202610060123",
       "published": "Tue, 06 Oct 2026 01:23:21 GMT",
       "ts": 1791249801
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro faces political, fiscal reckoning as it hovers near 17-month low",
+      "link": "https://www.investing.com/news/forex-news/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17month-low-4933206",
+      "published": "2026-10-06 01:18:22",
+      "ts": 1791249502
     },
     {
       "source": "FXStreet",
@@ -78,13 +92,6 @@
       "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 23:00:00 GMT",
       "ts": 1791241200
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Treasury yields scale multi-year highs as inflation fears return",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-scale-multi-year-highs-as-inflation-fears-return-202610052231",
-      "published": "Mon, 05 Oct 2026 22:31:29 GMT",
-      "ts": 1791239489
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
       "published": "2026-10-02 19:41:18",
       "ts": 1790970078
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges up as soft U.S. payrolls cap dollar rally",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-dollar-holds-gains-before-us-payrolls-4929238",
-      "published": "2026-10-02 13:07:53",
-      "ts": 1790946473
     }
   ]
 }
