@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-06T13:33:34.219915Z",
+  "updated": "2026-10-06T13:57:39.182486Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Polish Zloty: Policy on hold as inflation stays near band – ING",
+      "link": "https://www.fxstreet.com/news/polish-zloty-policy-on-hold-as-inflation-stays-near-band-ing-202610061354",
+      "published": "Tue, 06 Oct 2026 13:54:47 GMT",
+      "ts": 1791294887
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
+      "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 13:54:00 GMT",
+      "ts": 1791294840
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Range trade holds against US Dollar as Fed path questioned – Rabobank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-range-trade-holds-against-us-dollar-as-fed-path-questioned-rabobank-202610061341",
+      "published": "Tue, 06 Oct 2026 13:41:38 GMT",
+      "ts": 1791294098
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 13:41:33 +0000",
+      "ts": 1791294093
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+      "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 13:40:00 GMT",
+      "ts": 1791294000
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen underperforms despite signals of further BoJ tightening",
+      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-despite-signals-of-further-boj-tightening-202610061338",
+      "published": "Tue, 06 Oct 2026 13:38:53 GMT",
+      "ts": 1791293933
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here’s the hidden cost.",
+      "link": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 13:36:00 GMT",
+      "ts": 1791293760
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "OKX exchange raises fresh capital at $25B valuation",
+      "link": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 13:32:32 +0000",
+      "ts": 1791293552
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
+      "link": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 13:30:00 +0000",
+      "ts": 1791293400
+    },
     {
       "source": "MarketWatch",
       "title": "Fed minutes coming tomorrow could give markets important clues about future rate hikes",
@@ -15,13 +78,6 @@
       "link": "https://www.fxstreet.com/news/gold-downtrend-eyes-4-000-support-zone-societe-generale-202610061325",
       "published": "Tue, 06 Oct 2026 13:25:10 GMT",
       "ts": 1791293110
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
-      "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 13:13:00 GMT",
-      "ts": 1791292380
     },
     {
       "source": "FXStreet",
@@ -94,13 +150,6 @@
       "ts": 1791289911
     },
     {
-      "source": "MarketWatch",
-      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-      "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 12:21:00 GMT",
-      "ts": 1791289260
-    },
-    {
       "source": "FXStreet",
       "title": "Brazilian Real: Bolsonaro runoff risks and fiscal hopes – OCBC",
       "link": "https://www.fxstreet.com/news/brazilian-real-bolsonaro-runoff-risks-and-fiscal-hopes-ocbc-202610061220",
@@ -115,32 +164,11 @@
       "ts": 1791288900
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/GBP Price Forecast: Bears retain control as RSI turns oversold",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bears-retain-control-as-rsi-turns-oversold-202610061214",
-      "published": "Tue, 06 Oct 2026 12:14:39 GMT",
-      "ts": 1791288879
-    },
-    {
-      "source": "FXStreet",
-      "title": "Romanian Leu: S&P reprieve leaves downgrade risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/romanian-leu-sp-reprieve-leaves-downgrade-risks-commerzbank-202610061211",
-      "published": "Tue, 06 Oct 2026 12:11:45 GMT",
-      "ts": 1791288705
-    },
-    {
       "source": "MarketWatch",
       "title": "America’s favorite index is misleading investors about the state of the stock market",
       "link": "https://www.marketwatch.com/story/americas-favorite-index-is-misleading-investors-about-the-state-of-the-stock-market-2e91ca95?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 12:05:00 GMT",
       "ts": 1791288300
-    },
-    {
-      "source": "FXStreet",
-      "title": "Czech Koruna: Hawkish CNB keeps CZK supported against Euro - Societe Generale",
-      "link": "https://www.fxstreet.com/news/czech-koruna-hawkish-cnb-keeps-czk-supported-against-euro-societe-generale-202610061153",
-      "published": "Tue, 06 Oct 2026 11:53:12 GMT",
-      "ts": 1791287592
     },
     {
       "source": "Investing Forex",
@@ -220,13 +248,6 @@
       "ts": 1791280834
     },
     {
-      "source": "MarketWatch",
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
-      "ts": 1791280800
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
       "link": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -297,32 +318,11 @@
       "ts": 1791274517
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 08:14:17 +0000",
-      "ts": 1791274457
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin consolidates below $87K resistance: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-06 07:12:00",
       "ts": 1791270720
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
-      "link": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 07:09:33 +0000",
-      "ts": 1791270573
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 06:00:00 +0000",
-      "ts": 1791266400
     },
     {
       "source": "CoinDesk",
