@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-06T08:14:34.478314Z",
+  "updated": "2026-10-06T08:35:36.954184Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Brazilian Real: Bolsonaro boost faces parliamentary constraints – Commerzbank",
+      "link": "https://www.fxstreet.com/news/brazilian-real-bolsonaro-boost-faces-parliamentary-constraints-commerzbank-202610060832",
+      "published": "Tue, 06 Oct 2026 08:32:19 GMT",
+      "ts": 1791275539
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
+      "link": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
+      "published": "Tue, 06 Oct 2026 08:27:43 +0000",
+      "ts": 1791275263
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold: Vulnerable as yields stay elevated – OCBC",
+      "link": "https://www.fxstreet.com/news/gold-vulnerable-as-yields-stay-elevated-ocbc-202610060819",
+      "published": "Tue, 06 Oct 2026 08:19:18 GMT",
+      "ts": 1791274758
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 08:14:17 +0000",
+      "ts": 1791274457
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar Index Price Forecast: Hovers around 102.00 within overbought region",
@@ -50,20 +78,6 @@
       "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-usd-gains-on-escalating-geopolitical-conflicts-202610060731",
       "published": "Tue, 06 Oct 2026 07:31:25 GMT",
       "ts": 1791271885
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: US Dollar clings to bullish stance ahead of mid-tier data releases",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-clings-to-bullish-stance-ahead-of-mid-tier-data-releases-202610060729",
-      "published": "Tue, 06 Oct 2026 07:29:53 GMT",
-      "ts": 1791271793
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Range-bound within 0.8245–0.8365 band against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-range-bound-within-08245-08365-band-against-us-dollar-uob-202610060727",
-      "published": "Tue, 06 Oct 2026 07:27:49 GMT",
-      "ts": 1791271669
     },
     {
       "source": "Investing Crypto",
@@ -297,13 +311,6 @@
       "ts": 1791228066
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
-      "link": "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 19:15:22 +0000",
-      "ts": 1791227722
-    },
-    {
       "source": "CoinDesk",
       "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
       "link": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
@@ -379,13 +386,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-334-bitcoin-and-holds-848000-btc-as-of-october-4-432SI-4932036",
       "published": "2026-10-05 12:18:02",
       "ts": 1791202682
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-      "published": "Mon, 05 Oct 2026 11:14:35 +0000",
-      "ts": 1791198875
     },
     {
       "source": "Investing Forex",
