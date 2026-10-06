@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-06T01:11:06.070440Z",
+  "updated": "2026-10-06T01:29:27.235897Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar holds steady amid soft consumer sentiment",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-steady-amid-soft-consumer-sentiment-202610060123",
+      "published": "Tue, 06 Oct 2026 01:23:21 GMT",
+      "ts": 1791249801
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar seems vulnerable near April 2025 lows amid weak oil prices, bullish USD",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-april-2025-lows-amid-weak-oil-prices-bullish-usd-202610060111",
+      "published": "Tue, 06 Oct 2026 01:11:14 GMT",
+      "ts": 1791249074
+    },
     {
       "source": "FXStreet",
       "title": "WTI falls to near $88.50 on G7 reserve release",
@@ -71,20 +85,6 @@
       "link": "https://www.fxstreet.com/news/us-treasury-yields-scale-multi-year-highs-as-inflation-fears-return-202610052231",
       "published": "Mon, 05 Oct 2026 22:31:29 GMT",
       "ts": 1791239489
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Euro breaks to a fresh low, then bounces, as Spain calls a snap vote",
-      "link": "https://www.fxstreet.com/news/the-euro-breaks-to-a-fresh-low-then-bounces-as-spain-calls-a-snap-vote-202610052228",
-      "published": "Mon, 05 Oct 2026 22:28:22 GMT",
-      "ts": 1791239302
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Pound flatlines as Treasury yields climb to another high",
-      "link": "https://www.fxstreet.com/news/the-pound-flatlines-as-treasury-yields-climb-to-another-high-202610052226",
-      "published": "Mon, 05 Oct 2026 22:26:30 GMT",
-      "ts": 1791239190
     },
     {
       "source": "Investing Crypto",
