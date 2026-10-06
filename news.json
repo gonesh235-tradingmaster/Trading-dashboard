@@ -1,13 +1,27 @@
 {
-  "updated": "2026-10-06T04:11:56.360369Z",
+  "updated": "2026-10-06T04:32:17.424910Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+      "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+      "published": "Tue, 06 Oct 2026 04:23:45 +0000",
+      "ts": 1791260625
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index holds above 102, remains supported by firm bond yields",
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-above-102-remains-supported-by-firm-bond-yields-202610060410",
       "published": "Tue, 06 Oct 2026 04:10:40 GMT",
       "ts": 1791259840
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar climbs, euro nears 17-month low",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
+      "published": "2026-10-06 03:56:23",
+      "ts": 1791258983
     },
     {
       "source": "CoinTelegraph",
@@ -360,13 +374,6 @@
       "ts": 1791197095
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin under pressure as rates continue to rise",
-      "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
-      "published": "Mon, 05 Oct 2026 10:39:57 +0000",
-      "ts": 1791196797
-    },
-    {
       "source": "Investing Forex",
       "title": "HSBC models signal risk-on equity outlook after market volatility",
       "link": "https://www.investing.com/news/forex-news/hsbc-models-signal-riskon-equity-outlook-after-market-volatility-93CH-4931484",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/bofa-sees-eurusd-at-115-by-yearend-amid-market-risks-93CH-4930789",
       "published": "2026-10-03 08:45:22",
       "ts": 1791017122
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar set for first 3-week win streak since January, euro rebounds and yen gains",
-      "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
-      "published": "2026-10-02 19:41:18",
-      "ts": 1790970078
     }
   ]
 }
