@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-06T22:13:37.537540Z",
+  "updated": "2026-10-06T22:31:50.346661Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The New Zealand Dollar edges off its low as the US Dollar slips",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-edges-off-its-low-as-the-us-dollar-slips-202610062216",
+      "published": "Tue, 06 Oct 2026 22:16:46 GMT",
+      "ts": 1791325006
+    },
     {
       "source": "FXStreet",
       "title": "The Euro wins back its slide to a fresh low as France files its budget",
@@ -218,13 +225,6 @@
       "link": "https://www.fxstreet.com/news/feds-daly-says-more-hikes-may-be-needed-if-shocks-persist-202610061755",
       "published": "Tue, 06 Oct 2026 17:55:51 GMT",
       "ts": 1791309351
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Trade war risk rises on EU-China tensions – Commerzbank",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-trade-war-risk-rises-on-eu-china-tensions-commerzbank-202610061748",
-      "published": "Tue, 06 Oct 2026 17:48:47 GMT",
-      "ts": 1791308927
     },
     {
       "source": "CoinTelegraph",
