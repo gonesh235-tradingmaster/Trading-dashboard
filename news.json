@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-06T15:43:20.171504Z",
+  "updated": "2026-10-06T15:58:57.196559Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar advances on weaker US Dollar as markets price in Fed October hold",
+      "link": "https://www.fxstreet.com/news/australian-dollar-advances-on-weaker-us-dollar-as-markets-price-in-fed-october-hold-202610061549",
+      "published": "Tue, 06 Oct 2026 15:49:23 GMT",
+      "ts": 1791301763
+    },
     {
       "source": "CoinTelegraph",
       "title": "Ripple expands Brevan Howard deal with prime brokerage services",
@@ -148,13 +155,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
       "published": "2026-10-06 13:52:45",
       "ts": 1791294765
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Range trade holds against US Dollar as Fed path questioned – Rabobank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-range-trade-holds-against-us-dollar-as-fed-path-questioned-rabobank-202610061341",
-      "published": "Tue, 06 Oct 2026 13:41:38 GMT",
-      "ts": 1791294098
     },
     {
       "source": "CoinTelegraph",
