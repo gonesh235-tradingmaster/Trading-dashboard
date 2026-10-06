@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-06T17:00:17.251667Z",
+  "updated": "2026-10-06T17:27:54.709621Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI rebounds as Hormuz risks temper relief from rising Gulf exports",
+      "link": "https://www.fxstreet.com/news/wti-rebounds-as-hormuz-risks-temper-relief-from-rising-gulf-exports-202610061726",
+      "published": "Tue, 06 Oct 2026 17:26:36 GMT",
+      "ts": 1791307596
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
+      "link": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 17:19:58 +0000",
+      "ts": 1791307198
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Loneliness and social isolation can take six years off your life",
+      "link": "https://www.marketwatch.com/story/loneliness-and-social-isolation-can-take-six-years-off-your-life-496af256?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 17:18:00 GMT",
+      "ts": 1791307080
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Securitize stock jumps 8% amid South Korea tokenization push",
+      "link": "https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 17:04:41 +0000",
+      "ts": 1791306281
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
+      "link": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
+      "published": "Tue, 06 Oct 2026 17:00:00 +0000",
+      "ts": 1791306000
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto is expanding the boundaries of what can be priced",
@@ -129,13 +164,6 @@
       "ts": 1791296940
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar gains against US Dollar despite weaker Oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-against-us-dollar-despite-weaker-oil-prices-202610061425",
-      "published": "Tue, 06 Oct 2026 14:25:51 GMT",
-      "ts": 1791296751
-    },
-    {
       "source": "MarketWatch",
       "title": "Should I put my nest egg in a 30-year Treasury bond?",
       "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
@@ -192,13 +220,6 @@
       "ts": 1791294000
     },
     {
-      "source": "MarketWatch",
-      "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here’s the hidden cost.",
-      "link": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 13:36:00 GMT",
-      "ts": 1791293760
-    },
-    {
       "source": "CoinTelegraph",
       "title": "OKX exchange raises fresh capital at $25B valuation",
       "link": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -232,13 +253,6 @@
       "link": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 13:00:00 +0000",
       "ts": 1791291600
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
-      "link": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 12:54:15 +0000",
-      "ts": 1791291255
     },
     {
       "source": "CoinDesk",
@@ -290,13 +304,6 @@
       "ts": 1791282554
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
-      "link": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 10:16:55 +0000",
-      "ts": 1791281815
-    },
-    {
       "source": "Investing Crypto",
       "title": "Beldex Introduces Confidential Assets for Privacy-Preserving Tokens on Testnet",
       "link": "https://www.investing.com/news/cryptocurrency-news/beldex-introduces-confidential-assets-for-privacypreserving-tokens-on-testnet-4933778",
@@ -330,13 +337,6 @@
       "link": "https://www.investing.com/news/forex-news/morgan-stanley-bets-against-pound-ahead-of-uk-budget-4933608",
       "published": "2026-10-06 08:27:47",
       "ts": 1791275267
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
-      "link": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
-      "published": "Tue, 06 Oct 2026 08:27:43 +0000",
-      "ts": 1791275263
     },
     {
       "source": "Investing Forex",
