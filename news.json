@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-06T00:16:06.611367Z",
+  "updated": "2026-10-06T00:50:12.745027Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US President Donald Trump signs order to ease limits on diesel variety to curb costs",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-signs-order-to-ease-limits-on-diesel-variety-to-curb-costs-202610060018",
+      "published": "Tue, 06 Oct 2026 00:18:10 GMT",
+      "ts": 1791245890
+    },
     {
       "source": "FXStreet",
       "title": "Yemen's Houthis claim missile, drone strikes on multiple targets in Saudi Arabia",
@@ -169,13 +176,6 @@
       "link": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 19:53:52 +0000",
       "ts": 1791230032
-    },
-    {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: MAS seen very slightly tightening – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-seen-very-slightly-tightening-standard-chartered-202610051949",
-      "published": "Mon, 05 Oct 2026 19:49:04 GMT",
-      "ts": 1791229744
     },
     {
       "source": "CoinTelegraph",
