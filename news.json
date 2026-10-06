@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-06T14:17:47.378079Z",
+  "updated": "2026-10-06T14:43:11.169323Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar: Trade surplus supports cautious outlook – RBC",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-surplus-supports-cautious-outlook-rbc-202610061437",
+      "published": "Tue, 06 Oct 2026 14:37:16 GMT",
+      "ts": 1791297436
+    },
+    {
+      "source": "MarketWatch",
+      "title": "As a mortgage loan officer, I rejected wealthy couples. Here’s what can get your application declined.",
+      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 14:30:00 GMT",
+      "ts": 1791297000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 14:29:00 GMT",
+      "ts": 1791296940
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar gains against US Dollar despite weaker Oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-against-us-dollar-despite-weaker-oil-prices-202610061425",
+      "published": "Tue, 06 Oct 2026 14:25:51 GMT",
+      "ts": 1791296751
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Softer jobs data shapes Fed path – UOB",
+      "link": "https://www.fxstreet.com/news/us-dollar-softer-jobs-data-shapes-fed-path-uob-202610061419",
+      "published": "Tue, 06 Oct 2026 14:19:46 GMT",
+      "ts": 1791296386
+    },
     {
       "source": "MarketWatch",
       "title": "Should I put my nest egg in a 30-year Treasury bond?",
@@ -150,13 +185,6 @@
       "ts": 1791291600
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Resilient but upside seen limited – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-resilient-but-upside-seen-limited-td-securities-202610061258",
-      "published": "Tue, 06 Oct 2026 12:58:11 GMT",
-      "ts": 1791291491
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
       "link": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -171,39 +199,11 @@
       "ts": 1791290220
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Range-bound trade persists against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-range-bound-trade-persists-against-us-dollar-uob-202610061235",
-      "published": "Tue, 06 Oct 2026 12:35:03 GMT",
-      "ts": 1791290103
-    },
-    {
-      "source": "FXStreet",
-      "title": "US ADP Employment Change 4-week average increases to 23.750K",
-      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-increases-to-23750k-202610061233",
-      "published": "Tue, 06 Oct 2026 12:33:06 GMT",
-      "ts": 1791289986
-    },
-    {
       "source": "CoinDesk",
       "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
       "link": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
       "published": "Tue, 06 Oct 2026 12:31:51 +0000",
       "ts": 1791289911
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 12:15:00 GMT",
-      "ts": 1791288900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "America’s favorite index is misleading investors about the state of the stock market",
-      "link": "https://www.marketwatch.com/story/americas-favorite-index-is-misleading-investors-about-the-state-of-the-stock-market-2e91ca95?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 12:05:00 GMT",
-      "ts": 1791288300
     },
     {
       "source": "Investing Forex",
@@ -291,7 +291,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+      "title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
       "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
       "published": "Tue, 06 Oct 2026 09:02:01 +0000",
       "ts": 1791277321
