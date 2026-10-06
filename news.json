@@ -1,13 +1,34 @@
 {
-  "updated": "2026-10-06T20:55:03.843420Z",
+  "updated": "2026-10-06T21:09:46.632520Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
+      "link": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 21:00:44 +0000",
+      "ts": 1791320444
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+      "link": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 20:53:19 +0000",
+      "ts": 1791319999
+    },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 20:48:12 +0000",
       "ts": 1791319692
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar weakens near 18-month low despite surprise trade surplus",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-near-18month-low-despite-surprise-trade-surplus-4935268",
+      "published": "2026-10-06 20:46:08",
+      "ts": 1791319568
     },
     {
       "source": "MarketWatch",
@@ -234,13 +255,6 @@
       "ts": 1791303367
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
-      "link": "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 15:24:51 +0000",
-      "ts": 1791300291
-    },
-    {
       "source": "CoinDesk",
       "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
       "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
@@ -260,13 +274,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/superform-activates-earn-strategies-for-tokenized-stocks-on-base-powered-by-aave-4934906",
       "published": "2026-10-06 15:00:07",
       "ts": 1791298807
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
-      "link": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 14:00:00 +0000",
-      "ts": 1791295200
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-slips-as-early-gains-fade-oil-weakness-keeps-pressure-on-canadian-dollar-4932479",
       "published": "2026-10-05 14:30:09",
       "ts": 1791210609
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasuries pause; French debt yields retreat after violent shock",
-      "link": "https://www.investing.com/news/forex-news/french-debt-yields-rise-as-fiscal-worries-mount-4931106",
-      "published": "2026-10-05 12:21:10",
-      "ts": 1791202870
     }
   ]
 }
