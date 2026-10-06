@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-06T21:09:46.632520Z",
+  "updated": "2026-10-06T21:28:04.595416Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Pound climbs back to the top of its range as bond yields ease",
+      "link": "https://www.fxstreet.com/news/the-pound-climbs-back-to-the-top-of-its-range-as-bond-yields-ease-202610062126",
+      "published": "Tue, 06 Oct 2026 21:26:23 GMT",
+      "ts": 1791321983
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 21:15:00 GMT",
+      "ts": 1791321300
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar slips as euro rebounds after France’s Le Pen unveils budget proposals",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
+      "published": "2026-10-06 21:06:19",
+      "ts": 1791320779
+    },
     {
       "source": "CoinTelegraph",
       "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
@@ -157,13 +178,6 @@
       "ts": 1791310975
     },
     {
-      "source": "MarketWatch",
-      "title": "How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",
-      "link": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 18:20:00 GMT",
-      "ts": 1791310800
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
       "link": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -246,13 +260,6 @@
       "link": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 16:32:57 +0000",
       "ts": 1791304377
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index slips from its 18-month high",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-slips-from-its-18-month-high-202610061616",
-      "published": "Tue, 06 Oct 2026 16:16:07 GMT",
-      "ts": 1791303367
     },
     {
       "source": "CoinDesk",
@@ -344,13 +351,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
       "published": "Tue, 06 Oct 2026 09:25:36 +0000",
       "ts": 1791278736
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar near 18-month highs; ECB’s Lane cautions on inflation pass-through",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
-      "published": "2026-10-06 09:13:08",
-      "ts": 1791277988
     },
     {
       "source": "CoinDesk",
