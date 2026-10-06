@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-06T20:10:09.808293Z",
+  "updated": "2026-10-06T20:30:25.441972Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Gradual upside within defined bands – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-upside-within-defined-bands-uob-202610062026",
+      "published": "Tue, 06 Oct 2026 20:26:06 GMT",
+      "ts": 1791318366
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+      "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 20:24:00 GMT",
+      "ts": 1791318240
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
+      "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 20:21:00 GMT",
+      "ts": 1791318060
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 20:15:00 GMT",
+      "ts": 1791317700
+    },
     {
       "source": "MarketWatch",
       "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
@@ -87,13 +115,6 @@
       "ts": 1791311399
     },
     {
-      "source": "MarketWatch",
-      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
-      "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 18:25:00 GMT",
-      "ts": 1791311100
-    },
-    {
       "source": "FXStreet",
       "title": "Fed's Schmid warns inflation fight has a “way to go”",
       "link": "https://www.fxstreet.com/news/feds-schmid-warns-inflation-fight-has-a-way-to-go-202610061822",
@@ -129,25 +150,11 @@
       "ts": 1791309660
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 18:00:00 GMT",
-      "ts": 1791309600
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bill aims at stopping US lawmaker bets on their own elections ahead of midterms",
       "link": "https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 17:59:32 +0000",
       "ts": 1791309572
-    },
-    {
-      "source": "MarketWatch",
-      "title": "America’s renters are emerging as a political movement",
-      "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 17:58:00 GMT",
-      "ts": 1791309480
     },
     {
       "source": "FXStreet",
@@ -218,13 +225,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-index-slips-from-its-18-month-high-202610061616",
       "published": "Tue, 06 Oct 2026 16:16:07 GMT",
       "ts": 1791303367
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound catches bid as BoE hawk warns inflation is embedded",
-      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-boe-hawk-warns-inflation-is-embedded-202610061602",
-      "published": "Tue, 06 Oct 2026 16:02:46 GMT",
-      "ts": 1791302566
     },
     {
       "source": "CoinTelegraph",
