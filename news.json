@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-06T04:56:19.897811Z",
+  "updated": "2026-10-06T05:12:57.367071Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold hits two-month low as bears await break below $4,100 amid sustained USD strength",
+      "link": "https://www.fxstreet.com/news/gold-hits-two-month-low-as-bears-await-break-below-4-100-amid-sustained-usd-strength-202610060506",
+      "published": "Tue, 06 Oct 2026 05:06:43 GMT",
+      "ts": 1791263203
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Strengthens above 110.00, while bearish technical bias persists",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11000-while-bearish-technical-bias-persists-202610060458",
+      "published": "Tue, 06 Oct 2026 04:58:19 GMT",
+      "ts": 1791262699
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Tests 177.50 after rebounding from descending channel bottom",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-17750-after-rebounding-from-descending-channel-bottom-202610060456",
+      "published": "Tue, 06 Oct 2026 04:56:36 GMT",
+      "ts": 1791262596
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
@@ -115,32 +136,11 @@
       "ts": 1791251244
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound extends range play; holds above 1.3200 as bullish USD caps upside",
-      "link": "https://www.fxstreet.com/news/british-pound-extends-range-play-holds-above-13200-as-bullish-usd-caps-upside-202610060145",
-      "published": "Tue, 06 Oct 2026 01:45:24 GMT",
-      "ts": 1791251124
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar holds steady amid soft consumer sentiment",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-steady-amid-soft-consumer-sentiment-202610060123",
-      "published": "Tue, 06 Oct 2026 01:23:21 GMT",
-      "ts": 1791249801
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro faces political, fiscal reckoning as it hovers near 17-month low",
       "link": "https://www.investing.com/news/forex-news/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17month-low-4933206",
       "published": "2026-10-06 01:18:22",
       "ts": 1791249502
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar seems vulnerable near April 2025 lows amid weak oil prices, bullish USD",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-april-2025-lows-amid-weak-oil-prices-bullish-usd-202610060111",
-      "published": "Tue, 06 Oct 2026 01:11:14 GMT",
-      "ts": 1791249074
     },
     {
       "source": "MarketWatch",
