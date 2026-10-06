@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-06T07:56:33.763113Z",
+  "updated": "2026-10-06T08:14:34.478314Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: Hovers around 102.00 within overbought region",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-hovers-around-10200-within-overbought-region-202610060812",
+      "published": "Tue, 06 Oct 2026 08:12:57 GMT",
+      "ts": 1791274377
+    },
+    {
+      "source": "FXStreet",
+      "title": "ECB’s Rehn: High long-term rates contributing to a slowdown in growth",
+      "link": "https://www.fxstreet.com/news/ecbs-rehn-high-long-term-rates-contributing-to-a-slowdown-in-growth-202610060806",
+      "published": "Tue, 06 Oct 2026 08:06:56 GMT",
+      "ts": 1791274016
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Pares gains against US Dollar but BoJ outlook supportive - MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-pares-gains-against-us-dollar-but-boj-outlook-supportive-mufg-202610060801",
+      "published": "Tue, 06 Oct 2026 08:01:44 GMT",
+      "ts": 1791273704
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Downside risks with 1.1100 in sight against US Dollar – ING",
@@ -45,27 +66,6 @@
       "ts": 1791271669
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen drifts lower as sustained USD buying offsets intervention fears",
-      "link": "https://www.fxstreet.com/news/japanese-yen-drifts-lower-as-sustained-usd-buying-offsets-intervention-fears-202610060726",
-      "published": "Tue, 06 Oct 2026 07:26:22 GMT",
-      "ts": 1791271582
-    },
-    {
-      "source": "FXStreet",
-      "title": "Turkish Lira: CPI surprise seen enabling rate cut – Commerzbank",
-      "link": "https://www.fxstreet.com/news/turkish-lira-cpi-surprise-seen-enabling-rate-cut-commerzbank-202610060717",
-      "published": "Tue, 06 Oct 2026 07:17:10 GMT",
-      "ts": 1791271030
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB’s Lane: High inflation due to energy shock is driving hawkish ECB sentiment",
-      "link": "https://www.fxstreet.com/news/ecbs-lane-high-inflation-due-to-energy-shock-is-driving-hawkish-ecb-sentiment-202610060715",
-      "published": "Tue, 06 Oct 2026 07:15:25 GMT",
-      "ts": 1791270925
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin consolidates below $87K resistance: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
@@ -85,13 +85,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
       "published": "2026-10-06 07:04:48",
       "ts": 1791270288
-    },
-    {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: Declines below 0.5600 as bearish bias holds despite oversold RSI",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-declines-below-05600-as-bearish-bias-holds-despite-oversold-rsi-202610060704",
-      "published": "Tue, 06 Oct 2026 07:04:21 GMT",
-      "ts": 1791270261
     },
     {
       "source": "Investing Crypto",
@@ -120,6 +113,13 @@
       "link": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 05:43:50 +0000",
       "ts": 1791265430
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold finds support near $4,100; recovers early lost ground to two-month low",
+      "link": "https://www.fxstreet.com/news/gold-hits-two-month-low-as-bears-await-break-below-4-100-amid-sustained-usd-strength-202610060506",
+      "published": "Tue, 06 Oct 2026 05:06:43 GMT",
+      "ts": 1791263203
     },
     {
       "source": "CoinDesk",
