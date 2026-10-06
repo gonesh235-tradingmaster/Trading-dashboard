@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-06T06:14:42.304876Z",
+  "updated": "2026-10-06T06:41:23.710174Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Brent: Prices hold near $100 as Gulf risks persist – ING",
+      "link": "https://www.fxstreet.com/news/brent-prices-hold-near-100-as-gulf-risks-persist-ing-202610060640",
+      "published": "Tue, 06 Oct 2026 06:40:39 GMT",
+      "ts": 1791268839
+    },
+    {
+      "source": "FXStreet",
+      "title": "BoJ’s Ueda: Japan's economy recovering moderately albeit with some weaknesses",
+      "link": "https://www.fxstreet.com/news/bojs-ueda-japans-economy-recovering-moderately-albeit-with-some-weaknesses-202610060640",
+      "published": "Tue, 06 Oct 2026 06:40:16 GMT",
+      "ts": 1791268816
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steadies at $85.5k as soaring yields offset regulatory hopes",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
+      "published": "2026-10-06 06:38:42",
+      "ts": 1791268722
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Downtrend slows but further lows possible against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-downtrend-slows-but-further-lows-possible-against-us-dollar-uob-202610060628",
+      "published": "Tue, 06 Oct 2026 06:28:13 GMT",
+      "ts": 1791268093
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar softens as oil prices fall",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-softens-as-oil-prices-fall-202610060622",
+      "published": "Tue, 06 Oct 2026 06:22:26 GMT",
+      "ts": 1791267746
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee faces pressure from higher bond yields, FIIs outflow",
+      "link": "https://www.fxstreet.com/news/indian-rupee-faces-pressure-from-higher-bond-yields-fiis-outflow-202610060620",
+      "published": "Tue, 06 Oct 2026 06:20:54 GMT",
+      "ts": 1791267654
+    },
     {
       "source": "FXStreet",
       "title": "-10.6%: Germany’s Factory Orders fall in August, missed -1.0% estimates",
@@ -73,32 +115,11 @@
       "ts": 1791261670
     },
     {
-      "source": "FXStreet",
-      "title": "BoJ may indicate underlying inflation is near the 2% target, sources say",
-      "link": "https://www.fxstreet.com/news/boj-may-indicate-underlying-inflation-is-near-the-2-target-sources-say-202610060437",
-      "published": "Tue, 06 Oct 2026 04:37:26 GMT",
-      "ts": 1791261446
-    },
-    {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202610060436",
-      "published": "Tue, 06 Oct 2026 04:36:11 GMT",
-      "ts": 1791261371
-    },
-    {
       "source": "CoinDesk",
       "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
       "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
       "published": "Tue, 06 Oct 2026 04:23:45 +0000",
       "ts": 1791260625
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index holds above 102, remains supported by firm bond yields",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-above-102-remains-supported-by-firm-bond-yields-202610060410",
-      "published": "Tue, 06 Oct 2026 04:10:40 GMT",
-      "ts": 1791259840
     },
     {
       "source": "Investing Forex",
@@ -127,20 +148,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/changer-launches-stablecoinfirst-selfcustodial-wallet-to-make-stablecoins-easier-to-use-4933317",
       "published": "2026-10-06 03:30:10",
       "ts": 1791257410
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen steadies amid expansionary fiscal plans, rate hike uncertainty",
-      "link": "https://www.fxstreet.com/news/japanese-yen-steadies-amid-expansionary-fiscal-plans-rate-hike-uncertainty-202610060243",
-      "published": "Tue, 06 Oct 2026 02:43:25 GMT",
-      "ts": 1791254605
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar consolidates around 0.5600, near YTD low as USD stays bullish",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-consolidates-around-05600-near-ytd-low-as-usd-stays-bullish-202610060228",
-      "published": "Tue, 06 Oct 2026 02:28:15 GMT",
-      "ts": 1791253695
     },
     {
       "source": "CoinTelegraph",
@@ -400,13 +407,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-rally-4930987",
       "published": "2026-10-05 02:16:01",
       "ts": 1791166561
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin coils at $85,337 in bull trap or breakout setup: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "published": "2026-10-04 19:01:54",
-      "ts": 1791140514
     },
     {
       "source": "Investing Forex",
