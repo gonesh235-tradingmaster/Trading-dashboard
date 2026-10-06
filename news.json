@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-06T03:29:32.899516Z",
+  "updated": "2026-10-06T03:49:02.218717Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+      "link": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 03:40:00 +0000",
+      "ts": 1791258000
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Changer+ Launches Stablecoin-First Self-Custodial Wallet to Make Stablecoins Easier to Use",
+      "link": "https://www.investing.com/news/cryptocurrency-news/changer-launches-stablecoinfirst-selfcustodial-wallet-to-make-stablecoins-easier-to-use-4933317",
+      "published": "2026-10-06 03:30:10",
+      "ts": 1791257410
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen steadies amid expansionary fiscal plans, rate hike uncertainty",
@@ -269,13 +283,6 @@
       "ts": 1791215663
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin price fails to break higher after best weekly close in eight months",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 15:09:57 +0000",
-      "ts": 1791212997
-    },
-    {
       "source": "Investing Forex",
       "title": "Loonie slips as early gains fade, oil weakness keeps pressure on Canadian dollar",
       "link": "https://www.investing.com/news/forex-news/loonie-slips-as-early-gains-fade-oil-weakness-keeps-pressure-on-canadian-dollar-4932479",
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
       "published": "2026-10-04 19:01:54",
       "ts": 1791140514
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin edges above $85,000 as traders weigh U.S. leveraged-crypto move",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-85000-as-sec-clears-first-3x-leveraged-crypto-etps-4930906",
-      "published": "2026-10-04 17:30:51",
-      "ts": 1791135051
     },
     {
       "source": "Investing Forex",
