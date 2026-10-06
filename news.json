@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-06T18:57:34.064331Z",
+  "updated": "2026-10-06T19:14:29.459256Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Range trade against US Dollar with MAS in focus – OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-against-us-dollar-with-mas-in-focus-ocbc-202610061909",
+      "published": "Tue, 06 Oct 2026 19:09:03 GMT",
+      "ts": 1791313743
+    },
     {
       "source": "MarketWatch",
       "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
@@ -176,13 +183,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-boe-hawk-warns-inflation-is-embedded-202610061602",
       "published": "Tue, 06 Oct 2026 16:02:46 GMT",
       "ts": 1791302566
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar: Range-bound against US Dollar as political risks linger – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-range-bound-against-us-dollar-as-political-risks-linger-scotiabank-202610061601",
-      "published": "Tue, 06 Oct 2026 16:01:01 GMT",
-      "ts": 1791302461
     },
     {
       "source": "MarketWatch",
