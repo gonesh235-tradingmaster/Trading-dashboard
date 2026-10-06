@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-06T14:43:11.169323Z",
+  "updated": "2026-10-06T15:00:07.241373Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Positioning-driven recovery prospects – TD Securities",
+      "link": "https://www.fxstreet.com/news/euro-positioning-driven-recovery-prospects-td-securities-202610061450",
+      "published": "Tue, 06 Oct 2026 14:50:07 GMT",
+      "ts": 1791298207
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar: Trade surplus supports cautious outlook – RBC",
@@ -155,13 +162,6 @@
       "link": "https://www.fxstreet.com/news/gold-downtrend-eyes-4-000-support-zone-societe-generale-202610061325",
       "published": "Tue, 06 Oct 2026 13:25:10 GMT",
       "ts": 1791293110
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee: Bearish bias with RBI support – DBS",
-      "link": "https://www.fxstreet.com/news/indian-rupee-bearish-bias-with-rbi-support-dbs-202610061312",
-      "published": "Tue, 06 Oct 2026 13:12:13 GMT",
-      "ts": 1791292333
     },
     {
       "source": "CoinDesk",
