@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-06T07:00:48.459644Z",
+  "updated": "2026-10-06T07:30:55.205491Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar clings to bullish stance ahead of mid-tier data releases",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-clings-to-bullish-stance-ahead-of-mid-tier-data-releases-202610060729",
+      "published": "Tue, 06 Oct 2026 07:29:53 GMT",
+      "ts": 1791271793
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: Range-bound within 0.8245–0.8365 band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-range-bound-within-08245-08365-band-against-us-dollar-uob-202610060727",
+      "published": "Tue, 06 Oct 2026 07:27:49 GMT",
+      "ts": 1791271669
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen drifts lower as sustained USD buying offsets intervention fears",
+      "link": "https://www.fxstreet.com/news/japanese-yen-drifts-lower-as-sustained-usd-buying-offsets-intervention-fears-202610060726",
+      "published": "Tue, 06 Oct 2026 07:26:22 GMT",
+      "ts": 1791271582
+    },
+    {
+      "source": "FXStreet",
+      "title": "Turkish Lira: CPI surprise seen enabling rate cut – Commerzbank",
+      "link": "https://www.fxstreet.com/news/turkish-lira-cpi-surprise-seen-enabling-rate-cut-commerzbank-202610060717",
+      "published": "Tue, 06 Oct 2026 07:17:10 GMT",
+      "ts": 1791271030
+    },
+    {
+      "source": "FXStreet",
+      "title": "ECB’s Lane: High inflation due to energy shock is driving hawkish ECB sentiment",
+      "link": "https://www.fxstreet.com/news/ecbs-lane-high-inflation-due-to-energy-shock-is-driving-hawkish-ecb-sentiment-202610060715",
+      "published": "Tue, 06 Oct 2026 07:15:25 GMT",
+      "ts": 1791270925
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates below $87K resistance: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-06 07:12:00",
+      "ts": 1791270720
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
+      "link": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 07:09:33 +0000",
+      "ts": 1791270573
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies rangebound as dollar, euro hold near multi-month extremes",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
+      "published": "2026-10-06 07:04:48",
+      "ts": 1791270288
+    },
+    {
+      "source": "FXStreet",
+      "title": "NZD/USD Price Forecast: Declines below 0.5600 as bearish bias holds despite oversold RSI",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-declines-below-05600-as-bearish-bias-holds-despite-oversold-rsi-202610060704",
+      "published": "Tue, 06 Oct 2026 07:04:21 GMT",
+      "ts": 1791270261
+    },
     {
       "source": "FXStreet",
       "title": "Equities: Broad catch-up as yields back up – Danske Bank",
@@ -17,27 +80,6 @@
       "ts": 1791269322
     },
     {
-      "source": "FXStreet",
-      "title": "Euro dips further as grim German data adds to political uncertainty and debt issues",
-      "link": "https://www.fxstreet.com/news/euro-dips-further-as-grim-german-data-adds-to-political-uncertainty-and-debt-issues-202610060645",
-      "published": "Tue, 06 Oct 2026 06:45:11 GMT",
-      "ts": 1791269111
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brent: Prices hold near $100 as Gulf risks persist – ING",
-      "link": "https://www.fxstreet.com/news/brent-prices-hold-near-100-as-gulf-risks-persist-ing-202610060640",
-      "published": "Tue, 06 Oct 2026 06:40:39 GMT",
-      "ts": 1791268839
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoJ’s Ueda: Japan's economy recovering moderately albeit with some weaknesses",
-      "link": "https://www.fxstreet.com/news/bojs-ueda-japans-economy-recovering-moderately-albeit-with-some-weaknesses-202610060640",
-      "published": "Tue, 06 Oct 2026 06:40:16 GMT",
-      "ts": 1791268816
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin steadies at $85.5k as soaring yields offset regulatory hopes",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
@@ -46,31 +88,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Euro: Downtrend slows but further lows possible against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-downtrend-slows-but-further-lows-possible-against-us-dollar-uob-202610060628",
-      "published": "Tue, 06 Oct 2026 06:28:13 GMT",
-      "ts": 1791268093
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar softens as oil prices fall",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-softens-as-oil-prices-fall-202610060622",
-      "published": "Tue, 06 Oct 2026 06:22:26 GMT",
-      "ts": 1791267746
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee faces pressure from higher bond yields, FIIs outflow",
+      "title": "Indian Rupee weakens further due to FIIs outflow, higher bond yields",
       "link": "https://www.fxstreet.com/news/indian-rupee-faces-pressure-from-higher-bond-yields-fiis-outflow-202610060620",
       "published": "Tue, 06 Oct 2026 06:20:54 GMT",
       "ts": 1791267654
-    },
-    {
-      "source": "FXStreet",
-      "title": "-10.6%: Germany’s Factory Orders fall in August, missed -1.0% estimates",
-      "link": "https://www.fxstreet.com/news/106-germanys-factory-orders-fall-in-august-missed-10-estimates-202610060602",
-      "published": "Tue, 06 Oct 2026 06:02:04 GMT",
-      "ts": 1791266524
     },
     {
       "source": "CoinTelegraph",
@@ -120,13 +141,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
       "published": "Tue, 06 Oct 2026 04:23:45 +0000",
       "ts": 1791260625
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar climbs, euro nears 17-month low",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
-      "published": "2026-10-06 03:56:23",
-      "ts": 1791258983
     },
     {
       "source": "CoinTelegraph",
@@ -276,25 +290,11 @@
       "ts": 1791228066
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin battles $83,900 support amid fading momentum: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-05 19:20:46",
-      "ts": 1791228046
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
       "link": "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 19:15:22 +0000",
       "ts": 1791227722
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
-      "link": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 17:58:58 +0000",
-      "ts": 1791223138
     },
     {
       "source": "CoinDesk",
