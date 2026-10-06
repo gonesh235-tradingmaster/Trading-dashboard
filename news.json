@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-06T19:32:36.339751Z",
+  "updated": "2026-10-06T19:54:34.249835Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Anvil Announces SDK Launch, Enterprise Partnerships, and $5M ANVL Token Sale",
+      "link": "https://www.investing.com/news/cryptocurrency-news/anvil-announces-sdk-launch-enterprise-partnerships-and-5m-anvl-token-sale-4935117",
+      "published": "2026-10-06 19:30:07",
+      "ts": 1791315007
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin squeezed between support and resistance at $85,472: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-06 19:20:27",
+      "ts": 1791314427
+    },
     {
       "source": "CoinTelegraph",
       "title": "UK names 6 banks to lead first digitally native government bond",
@@ -354,13 +368,6 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin consolidates below $87K resistance: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-06 07:12:00",
-      "ts": 1791270720
-    },
-    {
-      "source": "Investing Crypto",
       "title": "Changer+ Launches Stablecoin-First Self-Custodial Wallet to Make Stablecoins Easier to Use",
       "link": "https://www.investing.com/news/cryptocurrency-news/changer-launches-stablecoinfirst-selfcustodial-wallet-to-make-stablecoins-easier-to-use-4933317",
       "published": "2026-10-06 03:30:10",
@@ -407,13 +414,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-slips-as-early-gains-fade-oil-weakness-keeps-pressure-on-canadian-dollar-4932479",
       "published": "2026-10-05 14:30:09",
       "ts": 1791210609
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Stablecoin Development reports $180M in SKY token holdings at Q3 end",
-      "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433",
-      "published": "2026-10-05 14:16:02",
-      "ts": 1791209762
     },
     {
       "source": "Investing Forex",
