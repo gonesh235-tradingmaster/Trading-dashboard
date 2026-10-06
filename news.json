@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-06T13:57:39.182486Z",
+  "updated": "2026-10-06T14:17:47.378079Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 14:11:00 GMT",
+      "ts": 1791295860
+    },
+    {
+      "source": "FXStreet",
+      "title": "Brazilian Real: Political backdrop favors gains against US Dollar - TD Securities",
+      "link": "https://www.fxstreet.com/news/brazilian-real-political-backdrop-favors-gains-against-us-dollar-td-securities-202610061406",
+      "published": "Tue, 06 Oct 2026 14:06:02 GMT",
+      "ts": 1791295562
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
+      "link": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 14:00:00 +0000",
+      "ts": 1791295200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 14:00:00 GMT",
+      "ts": 1791295200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Prediction markets are coming for pop culture",
+      "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 13:58:00 GMT",
+      "ts": 1791295080
+    },
     {
       "source": "FXStreet",
       "title": "Polish Zloty: Policy on hold as inflation stays near band – ING",
@@ -15,6 +50,13 @@
       "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 13:54:00 GMT",
       "ts": 1791294840
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin pinned at $86.2k as soaring yields offset regulatory hopes",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
+      "published": "2026-10-06 13:52:45",
+      "ts": 1791294765
     },
     {
       "source": "FXStreet",
@@ -150,13 +192,6 @@
       "ts": 1791289911
     },
     {
-      "source": "FXStreet",
-      "title": "Brazilian Real: Bolsonaro runoff risks and fiscal hopes – OCBC",
-      "link": "https://www.fxstreet.com/news/brazilian-real-bolsonaro-runoff-risks-and-fiscal-hopes-ocbc-202610061220",
-      "published": "Tue, 06 Oct 2026 12:20:20 GMT",
-      "ts": 1791289220
-    },
-    {
       "source": "MarketWatch",
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
@@ -183,20 +218,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
       "published": "Tue, 06 Oct 2026 11:30:00 +0000",
       "ts": 1791286200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
-      "link": "https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 11:21:00 GMT",
-      "ts": 1791285660
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
-      "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 11:15:00 GMT",
-      "ts": 1791285300
     },
     {
       "source": "FXStreet",
@@ -234,13 +255,6 @@
       "ts": 1791281815
     },
     {
-      "source": "MarketWatch",
-      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
-      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 10:15:00 GMT",
-      "ts": 1791281700
-    },
-    {
       "source": "Investing Crypto",
       "title": "Beldex Introduces Confidential Assets for Privacy-Preserving Tokens on Testnet",
       "link": "https://www.investing.com/news/cryptocurrency-news/beldex-introduces-confidential-assets-for-privacypreserving-tokens-on-testnet-4933778",
@@ -253,13 +267,6 @@
       "link": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 09:59:12 +0000",
       "ts": 1791280752
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin flat at $85.3k as soaring yields offset regulatory hopes",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
-      "published": "2026-10-06 09:37:37",
-      "ts": 1791279457
     },
     {
       "source": "CoinDesk",
@@ -281,13 +288,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
       "published": "2026-10-06 09:13:08",
       "ts": 1791277988
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Solana Foundation targets settlement in seconds with DvP launch",
-      "link": "https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 09:11:26 +0000",
-      "ts": 1791277886
     },
     {
       "source": "CoinDesk",
