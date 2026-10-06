@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-05T23:54:32.274288Z",
+  "updated": "2026-10-06T00:16:06.611367Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Yemen's Houthis claim missile, drone strikes on multiple targets in Saudi Arabia",
+      "link": "https://www.fxstreet.com/news/yemens-houthis-claim-missile-drone-strikes-on-multiple-targets-in-saudi-arabia-202610052355",
+      "published": "Mon, 05 Oct 2026 23:55:26 GMT",
+      "ts": 1791244526
+    },
     {
       "source": "FXStreet",
       "title": "The Japanese Yen firms on a BoJ speech about AI and gives it all back",
@@ -176,13 +183,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 19:25:00 +0000",
       "ts": 1791228300
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD builds base above $60, eyes $64",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-builds-base-above-60-eyes-64-202610051923",
-      "published": "Mon, 05 Oct 2026 19:23:26 GMT",
-      "ts": 1791228206
     },
     {
       "source": "CoinDesk",
