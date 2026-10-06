@@ -1,13 +1,34 @@
 {
-  "updated": "2026-10-06T08:35:36.954184Z",
+  "updated": "2026-10-06T08:56:50.550503Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound bounces off 1.3200 amid modest USD pullback; lacks bullish conviction",
+      "link": "https://www.fxstreet.com/news/british-pound-bounces-off-13200-amid-modest-usd-pullback-lacks-bullish-conviction-202610060840",
+      "published": "Tue, 06 Oct 2026 08:40:12 GMT",
+      "ts": 1791276012
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures rise due to easing Fed rate hike expectations",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-due-to-easing-fed-rate-hike-expectations-202610060838",
+      "published": "Tue, 06 Oct 2026 08:38:04 GMT",
+      "ts": 1791275884
+    },
     {
       "source": "FXStreet",
       "title": "Brazilian Real: Bolsonaro boost faces parliamentary constraints – Commerzbank",
       "link": "https://www.fxstreet.com/news/brazilian-real-bolsonaro-boost-faces-parliamentary-constraints-commerzbank-202610060832",
       "published": "Tue, 06 Oct 2026 08:32:19 GMT",
       "ts": 1791275539
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Morgan Stanley bets against pound ahead of U.K. budget",
+      "link": "https://www.investing.com/news/forex-news/morgan-stanley-bets-against-pound-ahead-of-uk-budget-4933608",
+      "published": "2026-10-06 08:27:47",
+      "ts": 1791275267
     },
     {
       "source": "CoinDesk",
@@ -22,6 +43,13 @@
       "link": "https://www.fxstreet.com/news/gold-vulnerable-as-yields-stay-elevated-ocbc-202610060819",
       "published": "Tue, 06 Oct 2026 08:19:18 GMT",
       "ts": 1791274758
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound steady as firm dollar caps gains",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-firm-dollar-caps-gains-4933601",
+      "published": "2026-10-06 08:15:17",
+      "ts": 1791274517
     },
     {
       "source": "CoinTelegraph",
@@ -73,13 +101,6 @@
       "ts": 1791272573
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss Franc weakens as US Dollar (USD) gains on escalating geopolitical conflicts",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-usd-gains-on-escalating-geopolitical-conflicts-202610060731",
-      "published": "Tue, 06 Oct 2026 07:31:25 GMT",
-      "ts": 1791271885
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin consolidates below $87K resistance: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
@@ -106,13 +127,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
       "published": "2026-10-06 06:38:42",
       "ts": 1791268722
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee weakens further due to FIIs outflow, higher bond yields",
-      "link": "https://www.fxstreet.com/news/indian-rupee-faces-pressure-from-higher-bond-yields-fiis-outflow-202610060620",
-      "published": "Tue, 06 Oct 2026 06:20:54 GMT",
-      "ts": 1791267654
     },
     {
       "source": "CoinTelegraph",
@@ -402,25 +416,11 @@
       "ts": 1791191258
     },
     {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as euro sell-off lifts dollar",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-euro-selloff-lifts-dollar-4931241",
-      "published": "2026-10-05 08:34:25",
-      "ts": 1791189265
-    },
-    {
       "source": "Investing Crypto",
       "title": "Cardano Climbs 10% In Rally",
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-rally-4930987",
       "published": "2026-10-05 02:16:01",
       "ts": 1791166561
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide",
-      "link": "https://www.investing.com/news/forex-news/irans-rial-hits-fresh-low-as-2-billion-currency-intervention-fails-to-stem-slide-4930880",
-      "published": "2026-10-03 20:13:19",
-      "ts": 1791058399
     }
   ]
 }
