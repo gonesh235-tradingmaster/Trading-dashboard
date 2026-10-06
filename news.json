@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-06T11:32:12.429520Z",
+  "updated": "2026-10-06T11:56:14.972127Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Czech Koruna: Hawkish CNB keeps CZK supported against Euro - Societe Generale",
+      "link": "https://www.fxstreet.com/news/czech-koruna-hawkish-cnb-keeps-czk-supported-against-euro-societe-generale-202610061153",
+      "published": "Tue, 06 Oct 2026 11:53:12 GMT",
+      "ts": 1791287592
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Treasuries and Bunds gain as safe-haven flows shadow French fiscal woes",
+      "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
+      "published": "2026-10-06 11:42:33",
+      "ts": 1791286953
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Balancing pressures as Fed path repriced – OCBC",
+      "link": "https://www.fxstreet.com/news/euro-balancing-pressures-as-fed-path-repriced-ocbc-202610061135",
+      "published": "Tue, 06 Oct 2026 11:35:19 GMT",
+      "ts": 1791286519
+    },
+    {
+      "source": "FXStreet",
+      "title": "1.1111: Why the Euro's next key support is in view as France's budget crisis deepens",
+      "link": "https://www.fxstreet.com/news/11111-why-the-euros-next-key-support-is-in-view-as-frances-budget-crisis-deepens-202610061133",
+      "published": "Tue, 06 Oct 2026 11:33:47 GMT",
+      "ts": 1791286427
+    },
     {
       "source": "CoinDesk",
       "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
@@ -60,7 +88,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: A drop below $84,000 could put $80,000 in play for bitcoin",
+      "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
       "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
       "published": "Tue, 06 Oct 2026 10:35:49 +0000",
       "ts": 1791282949
@@ -136,13 +164,6 @@
       "ts": 1791279720
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Political risks keep EUR under pressure against US Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/euro-political-risks-keep-eur-under-pressure-against-us-dollar-mufg-202610060941",
-      "published": "Tue, 06 Oct 2026 09:41:30 GMT",
-      "ts": 1791279690
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin flat at $85.3k as soaring yields offset regulatory hopes",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
@@ -150,25 +171,11 @@
       "ts": 1791279457
     },
     {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver broadly unchanged, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-broadly-unchanged-according-to-fxstreet-data-202610060930",
-      "published": "Tue, 06 Oct 2026 09:30:34 GMT",
-      "ts": 1791279034
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
       "link": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
       "published": "Tue, 06 Oct 2026 09:25:36 +0000",
       "ts": 1791278736
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Staying supported as Fed hike base case – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-staying-supported-as-fed-hike-base-case-ing-202610060921",
-      "published": "Tue, 06 Oct 2026 09:21:43 GMT",
-      "ts": 1791278503
     },
     {
       "source": "CoinTelegraph",
@@ -246,13 +253,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 08:14:17 +0000",
       "ts": 1791274457
-    },
-    {
-      "source": "Investing Forex",
-      "title": "German yields drop as markets seek shelter, leaving French OATs sidelined",
-      "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
-      "published": "2026-10-06 07:43:40",
-      "ts": 1791272620
     },
     {
       "source": "Investing Crypto",
