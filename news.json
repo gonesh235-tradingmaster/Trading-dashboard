@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-06T03:49:02.218717Z",
+  "updated": "2026-10-06T04:11:56.360369Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index holds above 102, remains supported by firm bond yields",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-above-102-remains-supported-by-firm-bond-yields-202610060410",
+      "published": "Tue, 06 Oct 2026 04:10:40 GMT",
+      "ts": 1791259840
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+      "link": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 03:45:40 +0000",
+      "ts": 1791258340
+    },
     {
       "source": "CoinTelegraph",
       "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
@@ -92,13 +106,6 @@
       "link": "https://www.fxstreet.com/news/us-president-donald-trump-signs-order-to-ease-limits-on-diesel-variety-to-curb-costs-202610060018",
       "published": "Tue, 06 Oct 2026 00:18:10 GMT",
       "ts": 1791245890
-    },
-    {
-      "source": "FXStreet",
-      "title": "Yemen's Houthis claim missile, drone strikes on multiple targets in Saudi Arabia",
-      "link": "https://www.fxstreet.com/news/yemens-houthis-claim-missile-drone-strikes-on-multiple-targets-in-saudi-arabia-202610052355",
-      "published": "Mon, 05 Oct 2026 23:55:26 GMT",
-      "ts": 1791244526
     },
     {
       "source": "MarketWatch",
@@ -267,13 +274,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/stockhunt-unveils-coiniq-an-aipowered-selfcustody-dex-at-token2049-singapore-4932635",
       "published": "2026-10-05 17:00:17",
       "ts": 1791219617
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
-      "link": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 16:53:08 +0000",
-      "ts": 1791219188
     },
     {
       "source": "CoinDesk",
