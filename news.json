@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-06T15:58:57.196559Z",
+  "updated": "2026-10-06T16:20:56.445644Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index slips from its 18-month high",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-slips-from-its-18-month-high-202610061616",
+      "published": "Tue, 06 Oct 2026 16:16:07 GMT",
+      "ts": 1791303367
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound catches bid as BoE hawk warns inflation is embedded",
+      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-boe-hawk-warns-inflation-is-embedded-202610061602",
+      "published": "Tue, 06 Oct 2026 16:02:46 GMT",
+      "ts": 1791302566
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar: Range-bound against US Dollar as political risks linger – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-range-bound-against-us-dollar-as-political-risks-linger-scotiabank-202610061601",
+      "published": "Tue, 06 Oct 2026 16:01:01 GMT",
+      "ts": 1791302461
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These 5 chip stocks are cheaper than the S&P 500 — and offer faster growth",
+      "link": "https://www.marketwatch.com/story/these-5-chip-stocks-are-cheaper-than-the-s-p-500-and-offer-faster-growth-f8ab4386?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 15:57:00 GMT",
+      "ts": 1791302220
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar advances on weaker US Dollar as markets price in Fed October hold",
@@ -94,25 +122,11 @@
       "ts": 1791296751
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Softer jobs data shapes Fed path – UOB",
-      "link": "https://www.fxstreet.com/news/us-dollar-softer-jobs-data-shapes-fed-path-uob-202610061419",
-      "published": "Tue, 06 Oct 2026 14:19:46 GMT",
-      "ts": 1791296386
-    },
-    {
       "source": "MarketWatch",
       "title": "Should I put my nest egg in a 30-year Treasury bond?",
       "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 14:11:00 GMT",
       "ts": 1791295860
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brazilian Real: Political backdrop favors gains against US Dollar - TD Securities",
-      "link": "https://www.fxstreet.com/news/brazilian-real-political-backdrop-favors-gains-against-us-dollar-td-securities-202610061406",
-      "published": "Tue, 06 Oct 2026 14:06:02 GMT",
-      "ts": 1791295562
     },
     {
       "source": "CoinTelegraph",
@@ -123,7 +137,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
       "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 14:00:00 GMT",
       "ts": 1791295200
@@ -134,13 +148,6 @@
       "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 13:58:00 GMT",
       "ts": 1791295080
-    },
-    {
-      "source": "FXStreet",
-      "title": "Polish Zloty: Policy on hold as inflation stays near band – ING",
-      "link": "https://www.fxstreet.com/news/polish-zloty-policy-on-hold-as-inflation-stays-near-band-ing-202610061354",
-      "published": "Tue, 06 Oct 2026 13:54:47 GMT",
-      "ts": 1791294887
     },
     {
       "source": "MarketWatch",
@@ -190,13 +197,6 @@
       "link": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 13:30:00 +0000",
       "ts": 1791293400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Fed minutes coming tomorrow could give markets important clues about future rate hikes",
-      "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 13:27:00 GMT",
-      "ts": 1791293220
     },
     {
       "source": "CoinDesk",
@@ -256,7 +256,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
+      "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
       "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
       "published": "Tue, 06 Oct 2026 10:35:49 +0000",
       "ts": 1791282949
