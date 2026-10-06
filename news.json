@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-06T20:30:25.441972Z",
+  "updated": "2026-10-06T20:55:03.843420Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 20:48:12 +0000",
+      "ts": 1791319692
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.",
+      "link": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 20:37:00 GMT",
+      "ts": 1791319020
+    },
     {
       "source": "FXStreet",
       "title": "Chinese Yuan: Gradual upside within defined bands – UOB",
@@ -109,7 +123,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Forex Today: The FOMC Minutes should shed further detail on the latest Fed decision",
+      "title": "Forex Today: FOMC Minutes should shed further detail on latest Fed decision",
       "link": "https://www.fxstreet.com/news/forex-today-the-fomc-minutes-should-shed-further-detail-on-the-latest-fed-decision-202610061829",
       "published": "Tue, 06 Oct 2026 18:29:59 GMT",
       "ts": 1791311399
@@ -141,13 +155,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-range-bound-below-daily-smas-202610061809",
       "published": "Tue, 06 Oct 2026 18:09:44 GMT",
       "ts": 1791310184
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 18:01:00 GMT",
-      "ts": 1791309660
     },
     {
       "source": "CoinTelegraph",
@@ -267,13 +274,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
       "published": "2026-10-06 13:52:45",
       "ts": 1791294765
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 13:41:33 +0000",
-      "ts": 1791294093
     },
     {
       "source": "CoinDesk",
