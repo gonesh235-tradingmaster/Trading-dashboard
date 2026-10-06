@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-06T18:11:12.976754Z",
+  "updated": "2026-10-06T18:33:42.728283Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Philippines: One more BSP hike expected in October - Standard Chartered",
+      "link": "https://www.fxstreet.com/news/philippines-one-more-bsp-hike-expected-in-october-standard-chartered-202610061832",
+      "published": "Tue, 06 Oct 2026 18:32:51 GMT",
+      "ts": 1791311571
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 18:30:00 GMT",
+      "ts": 1791311400
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: The FOMC Minutes should shed further detail on the latest Fed decision",
+      "link": "https://www.fxstreet.com/news/forex-today-the-fomc-minutes-should-shed-further-detail-on-the-latest-fed-decision-202610061829",
+      "published": "Tue, 06 Oct 2026 18:29:59 GMT",
+      "ts": 1791311399
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
+      "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 18:25:00 GMT",
+      "ts": 1791311100
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed's Schmid warns inflation fight has a “way to go”",
+      "link": "https://www.fxstreet.com/news/feds-schmid-warns-inflation-fight-has-a-way-to-go-202610061822",
+      "published": "Tue, 06 Oct 2026 18:22:55 GMT",
+      "ts": 1791310975
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",
+      "link": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 18:20:00 GMT",
+      "ts": 1791310800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
+      "link": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 18:19:35 +0000",
+      "ts": 1791310775
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD remains range-bound below daily SMAs",
@@ -136,13 +185,6 @@
       "ts": 1791302220
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar advances as markets price in Fed October hold",
-      "link": "https://www.fxstreet.com/news/australian-dollar-advances-on-weaker-us-dollar-as-markets-price-in-fed-october-hold-202610061549",
-      "published": "Tue, 06 Oct 2026 15:49:23 GMT",
-      "ts": 1791301763
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ripple expands Brevan Howard deal with prime brokerage services",
       "link": "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -162,20 +204,6 @@
       "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 15:15:00 GMT",
       "ts": 1791299700
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro finds relief from softer US Dollar ahead of Fed minutes",
-      "link": "https://www.fxstreet.com/news/euro-finds-relief-from-softer-us-dollar-ahead-of-fed-minutes-202610061505",
-      "published": "Tue, 06 Oct 2026 15:05:22 GMT",
-      "ts": 1791299122
-    },
-    {
-      "source": "FXStreet",
-      "title": "Asia FX: Tech-linked FX could outperform against US Dollar - MUFG",
-      "link": "https://www.fxstreet.com/news/asia-fx-tech-linked-fx-could-outperform-against-us-dollar-mufg-202610061504",
-      "published": "Tue, 06 Oct 2026 15:04:27 GMT",
-      "ts": 1791299067
     },
     {
       "source": "Investing Crypto",
@@ -199,32 +227,11 @@
       "ts": 1791297000
     },
     {
-      "source": "MarketWatch",
-      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 14:29:00 GMT",
-      "ts": 1791296940
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 14:11:00 GMT",
-      "ts": 1791295860
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
       "link": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 14:00:00 +0000",
       "ts": 1791295200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Prediction markets are coming for pop culture",
-      "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 13:58:00 GMT",
-      "ts": 1791295080
     },
     {
       "source": "Investing Crypto",
@@ -246,13 +253,6 @@
       "link": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 13:32:32 +0000",
       "ts": 1791293552
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
-      "link": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 13:30:00 +0000",
-      "ts": 1791293400
     },
     {
       "source": "CoinDesk",
