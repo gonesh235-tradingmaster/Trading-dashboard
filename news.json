@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-06T09:56:20.534513Z",
+  "updated": "2026-10-06T10:13:26.749692Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Equities: Resilience persists versus rates stress – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-resilience-persists-versus-rates-stress-deutsche-bank-202610061001",
+      "published": "Tue, 06 Oct 2026 10:01:00 GMT",
+      "ts": 1791280860
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Beldex Introduces Confidential Assets for Privacy-Preserving Tokens on Testnet",
+      "link": "https://www.investing.com/news/cryptocurrency-news/beldex-introduces-confidential-assets-for-privacypreserving-tokens-on-testnet-4933778",
+      "published": "2026-10-06 10:00:34",
+      "ts": 1791280834
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "ts": 1791280800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
+      "link": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 09:59:12 +0000",
+      "ts": 1791280752
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Elon Musk’s wealth tops $1 trillion. These entire countries produce less.",
+      "link": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 09:56:00 GMT",
+      "ts": 1791280560
+    },
     {
       "source": "MarketWatch",
       "title": "Michael Burry says he’s sold out of his top holding — for now",
@@ -66,13 +101,6 @@
       "ts": 1791278160
     },
     {
-      "source": "MarketWatch",
-      "title": "Elon Musk is a trillionaire again. Here’s how his wealth stacks up against national economies.",
-      "link": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 09:16:00 GMT",
-      "ts": 1791278160
-    },
-    {
       "source": "FXStreet",
       "title": "Canadian Dollar falls to near 18-month lows as oil prices decline",
       "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-near-18-month-lows-as-oil-prices-decline-202610060914",
@@ -127,13 +155,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-bounces-off-13200-amid-modest-usd-pullback-lacks-bullish-conviction-202610060840",
       "published": "Tue, 06 Oct 2026 08:40:12 GMT",
       "ts": 1791276012
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures rise due to easing Fed rate hike expectations",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-due-to-easing-fed-rate-hike-expectations-202610060838",
-      "published": "Tue, 06 Oct 2026 08:38:04 GMT",
-      "ts": 1791275884
     },
     {
       "source": "Investing Forex",
@@ -311,20 +332,6 @@
       "ts": 1791236580
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Crypto PAC announces support for 32 House candidates in US midterms",
-      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 21:42:30 +0000",
-      "ts": 1791236550
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
-      "link": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 21:27:00 GMT",
-      "ts": 1791235620
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. dollar ticks up as euro hits nearly 17-month low on France fiscal fears",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/goldman-sachs-sees-brazilian-real-gains-on-election-results-93CH-4931333",
       "published": "2026-10-05 09:07:38",
       "ts": 1791191258
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Cardano Climbs 10% In Rally",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-rally-4930987",
-      "published": "2026-10-05 02:16:01",
-      "ts": 1791166561
     }
   ]
 }
