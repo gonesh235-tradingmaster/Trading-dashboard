@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-06T17:27:54.709621Z",
+  "updated": "2026-10-06T17:45:59.336669Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Affluent investors seen boosting crypto exposure: Survey",
+      "link": "https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 17:30:18 +0000",
+      "ts": 1791307818
+    },
     {
       "source": "FXStreet",
       "title": "WTI rebounds as Hormuz risks temper relief from rising Gulf exports",
@@ -81,7 +88,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Australian Dollar advances on weaker US Dollar as markets price in Fed October hold",
+      "title": "Australian Dollar advances as markets price in Fed October hold",
       "link": "https://www.fxstreet.com/news/australian-dollar-advances-on-weaker-us-dollar-as-markets-price-in-fed-october-hold-202610061549",
       "published": "Tue, 06 Oct 2026 15:49:23 GMT",
       "ts": 1791301763
@@ -244,13 +251,6 @@
       "source": "CoinTelegraph",
       "title": "US crypto rules need to survive the next election",
       "link": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 13:00:00 +0000",
-      "ts": 1791291600
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Paxos’ $3B USDG stablecoin launches on Arbitrum",
-      "link": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 13:00:00 +0000",
       "ts": 1791291600
     },
