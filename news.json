@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-06T08:56:50.550503Z",
+  "updated": "2026-10-06T09:14:56.483671Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Eurozone Retail Sales rises 0.1% MoM in August, misses 0.2% estimates",
+      "link": "https://www.fxstreet.com/news/eurozone-retail-sales-rises-01-mom-in-august-misses-02-estimates-202610060913",
+      "published": "Tue, 06 Oct 2026 09:13:41 GMT",
+      "ts": 1791278021
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Former N.Y. Gov. Andrew Cuomo buys a 7-acre Hamptons estate for $9.6 million cash",
+      "link": "https://www.marketwatch.com/story/former-n-y-gov-andrew-cuomo-buys-a-7-acre-hamptons-estate-for-9-6-million-cash-2deb9d9f?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 09:06:00 GMT",
+      "ts": 1791277560
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+      "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
+      "published": "Tue, 06 Oct 2026 09:02:01 +0000",
+      "ts": 1791277321
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: Oversold conditions limit losses against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-oversold-conditions-limit-losses-against-us-dollar-uob-202610060856",
+      "published": "Tue, 06 Oct 2026 08:56:27 GMT",
+      "ts": 1791276987
+    },
     {
       "source": "FXStreet",
       "title": "British Pound bounces off 1.3200 amid modest USD pullback; lacks bullish conviction",
@@ -73,32 +101,11 @@
       "ts": 1791274016
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Pares gains against US Dollar but BoJ outlook supportive - MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-pares-gains-against-us-dollar-but-boj-outlook-supportive-mufg-202610060801",
-      "published": "Tue, 06 Oct 2026 08:01:44 GMT",
-      "ts": 1791273704
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Downside risks with 1.1100 in sight against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-with-11100-in-sight-against-us-dollar-ing-202610060749",
-      "published": "Tue, 06 Oct 2026 07:49:32 GMT",
-      "ts": 1791272972
-    },
-    {
       "source": "Investing Forex",
       "title": "German yields drop as markets seek shelter, leaving French OATs sidelined",
       "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
       "published": "2026-10-06 07:43:40",
       "ts": 1791272620
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah moves little as US Dollar (USD) remains steady amid safe-haven demand",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-moves-little-as-us-dollar-usd-remains-steady-amid-safe-haven-demand-202610060742",
-      "published": "Tue, 06 Oct 2026 07:42:53 GMT",
-      "ts": 1791272573
     },
     {
       "source": "Investing Crypto",
@@ -129,6 +136,13 @@
       "ts": 1791268722
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee extends decline due to continuously surging US bond yields",
+      "link": "https://www.fxstreet.com/news/indian-rupee-faces-pressure-from-higher-bond-yields-fiis-outflow-202610060620",
+      "published": "Tue, 06 Oct 2026 06:20:54 GMT",
+      "ts": 1791267654
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -144,7 +158,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold finds support near $4,100; recovers early lost ground to two-month low",
+      "title": "Gold recovers further from two-month low amid some USD profit-taking",
       "link": "https://www.fxstreet.com/news/gold-hits-two-month-low-as-bears-await-break-below-4-100-amid-sustained-usd-strength-202610060506",
       "published": "Tue, 06 Oct 2026 05:06:43 GMT",
       "ts": 1791263203
@@ -304,13 +318,6 @@
       "ts": 1791232200
     },
     {
-      "source": "MarketWatch",
-      "title": "Investors see big opportunity in ferocious 2026 bond-market rout",
-      "link": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 20:14:00 GMT",
-      "ts": 1791231240
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
       "link": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -379,13 +386,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4932178",
       "published": "2026-10-05 12:54:00",
       "ts": 1791204840
-    },
-    {
-      "source": "CoinDesk",
-      "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
-      "link": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
-      "published": "Mon, 05 Oct 2026 12:28:35 +0000",
-      "ts": 1791203315
     },
     {
       "source": "Investing Forex",
