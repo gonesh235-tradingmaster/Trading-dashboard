@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-06T21:44:43.763192Z",
+  "updated": "2026-10-06T21:56:50.648005Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 21:52:00 GMT",
+      "ts": 1791323520
+    },
     {
       "source": "FXStreet",
       "title": "The Pound climbs back to the top of its range as bond yields ease",
@@ -92,13 +99,6 @@
       "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 19:58:00 GMT",
       "ts": 1791316680
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 19:54:00 GMT",
-      "ts": 1791316440
     },
     {
       "source": "Investing Crypto",
