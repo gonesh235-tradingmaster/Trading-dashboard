@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-06T05:12:57.367071Z",
+  "updated": "2026-10-06T05:31:38.646656Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Bulls seem hesitant near $89.00 amid easing supply risks",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-seem-hesitant-near-8900-amid-easing-supply-risks-202610060527",
+      "published": "Tue, 06 Oct 2026 05:27:12 GMT",
+      "ts": 1791264432
+    },
     {
       "source": "FXStreet",
       "title": "Gold hits two-month low as bears await break below $4,100 amid sustained USD strength",
@@ -120,13 +127,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6050-as-us-treasury-yields-rise-202610060225",
       "published": "Tue, 06 Oct 2026 02:25:46 GMT",
       "ts": 1791253546
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro weakens below 1.1250 on France debt concerns",
-      "link": "https://www.fxstreet.com/news/euro-weakens-below-11250-on-france-debt-concerns-202610060159",
-      "published": "Tue, 06 Oct 2026 01:59:49 GMT",
-      "ts": 1791251989
     },
     {
       "source": "CoinTelegraph",
@@ -248,13 +248,6 @@
       "ts": 1791230032
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 19:25:00 +0000",
-      "ts": 1791228300
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
       "link": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
@@ -309,6 +302,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/stockhunt-unveils-coiniq-an-aipowered-selfcustody-dex-at-token2049-singapore-4932635",
       "published": "2026-10-05 17:00:17",
       "ts": 1791219617
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
+      "link": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 16:53:08 +0000",
+      "ts": 1791219188
     },
     {
       "source": "CoinDesk",
