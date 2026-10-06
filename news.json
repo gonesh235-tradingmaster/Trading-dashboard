@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-06T23:09:05.216295Z",
+  "updated": "2026-10-06T23:27:29.713685Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar eyes 0.70 as three-day rally meets Fed minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-eyes-070-as-three-day-rally-meets-fed-minutes-202610062322",
+      "published": "Tue, 06 Oct 2026 23:22:57 GMT",
+      "ts": 1791328977
+    },
+    {
+      "source": "FXStreet",
+      "title": "The Australian Dollar slips against the New Zealand Dollar as confidence sinks",
+      "link": "https://www.fxstreet.com/news/the-australian-dollar-slips-against-the-new-zealand-dollar-as-confidence-sinks-202610062322",
+      "published": "Tue, 06 Oct 2026 23:22:00 GMT",
+      "ts": 1791328920
+    },
     {
       "source": "MarketWatch",
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -197,20 +211,6 @@
       "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 18:30:00 GMT",
       "ts": 1791311400
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: FOMC Minutes should shed further detail on latest Fed decision",
-      "link": "https://www.fxstreet.com/news/forex-today-the-fomc-minutes-should-shed-further-detail-on-the-latest-fed-decision-202610061829",
-      "published": "Tue, 06 Oct 2026 18:29:59 GMT",
-      "ts": 1791311399
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed's Schmid warns inflation fight has a “way to go”",
-      "link": "https://www.fxstreet.com/news/feds-schmid-warns-inflation-fight-has-a-way-to-go-202610061822",
-      "published": "Tue, 06 Oct 2026 18:22:55 GMT",
-      "ts": 1791310975
     },
     {
       "source": "CoinTelegraph",
