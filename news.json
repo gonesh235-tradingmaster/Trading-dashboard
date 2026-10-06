@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-06T10:56:51.733776Z",
+  "updated": "2026-10-06T11:13:42.330789Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold recovers from two-month lows as bond selloff takes a breather",
+      "link": "https://www.fxstreet.com/news/gold-recovers-from-two-month-lows-as-bond-selloff-takes-a-breather-202610061109",
+      "published": "Tue, 06 Oct 2026 11:09:22 GMT",
+      "ts": 1791284962
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: A drop below $84,000 could put $80,000 in play for bitcoin",
@@ -15,6 +22,13 @@
       "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
       "published": "Tue, 06 Oct 2026 10:30:00 +0000",
       "ts": 1791282600
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Goldman sees Korean FX intervention risk if won strengthens sharply",
+      "link": "https://www.investing.com/news/forex-news/goldman-sees-korean-fx-intervention-risk-if-won-strengthens-sharply-93CH-4933873",
+      "published": "2026-10-06 10:29:14",
+      "ts": 1791282554
     },
     {
       "source": "CoinTelegraph",
@@ -169,13 +183,6 @@
       "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
       "published": "Tue, 06 Oct 2026 09:02:01 +0000",
       "ts": 1791277321
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar: Oversold conditions limit losses against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-oversold-conditions-limit-losses-against-us-dollar-uob-202610060856",
-      "published": "Tue, 06 Oct 2026 08:56:27 GMT",
-      "ts": 1791276987
     },
     {
       "source": "Investing Forex",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/hsbc-models-signal-riskon-equity-outlook-after-market-volatility-93CH-4931484",
       "published": "2026-10-05 10:09:38",
       "ts": 1791194978
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Goldman Sachs sees Brazilian real gains on election results",
-      "link": "https://www.investing.com/news/forex-news/goldman-sachs-sees-brazilian-real-gains-on-election-results-93CH-4931333",
-      "published": "2026-10-05 09:07:38",
-      "ts": 1791191258
     }
   ]
 }
