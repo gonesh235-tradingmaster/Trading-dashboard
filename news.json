@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-06T10:33:24.795526Z",
+  "updated": "2026-10-06T10:56:51.733776Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: A drop below $84,000 could put $80,000 in play for bitcoin",
+      "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
+      "published": "Tue, 06 Oct 2026 10:35:49 +0000",
+      "ts": 1791282949
+    },
     {
       "source": "CoinDesk",
       "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
@@ -53,7 +60,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk’s wealth tops $1 trillion. These entire countries produce less.",
+      "title": "Elon Musk’s wealth surpasses $1 trillion — making it higher than these countries’ GDPs",
       "link": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 09:56:00 GMT",
       "ts": 1791280560
@@ -171,13 +178,6 @@
       "ts": 1791276987
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound bounces off 1.3200 amid modest USD pullback; lacks bullish conviction",
-      "link": "https://www.fxstreet.com/news/british-pound-bounces-off-13200-amid-modest-usd-pullback-lacks-bullish-conviction-202610060840",
-      "published": "Tue, 06 Oct 2026 08:40:12 GMT",
-      "ts": 1791276012
-    },
-    {
       "source": "Investing Forex",
       "title": "Morgan Stanley bets against pound ahead of U.K. budget",
       "link": "https://www.investing.com/news/forex-news/morgan-stanley-bets-against-pound-ahead-of-uk-budget-4933608",
@@ -225,6 +225,13 @@
       "link": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 07:09:33 +0000",
       "ts": 1791270573
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro trims some losses as the decline in Oil prices offsets weak Eurozone releases",
+      "link": "https://www.fxstreet.com/news/euro-dips-further-as-grim-german-data-adds-to-political-uncertainty-and-debt-issues-202610060645",
+      "published": "Tue, 06 Oct 2026 06:45:11 GMT",
+      "ts": 1791269111
     },
     {
       "source": "FXStreet",
@@ -351,13 +358,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
       "published": "Mon, 05 Oct 2026 19:21:06 +0000",
       "ts": 1791228066
-    },
-    {
-      "source": "CoinDesk",
-      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
-      "link": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
-      "published": "Mon, 05 Oct 2026 17:18:14 +0000",
-      "ts": 1791220694
     },
     {
       "source": "Investing Crypto",
