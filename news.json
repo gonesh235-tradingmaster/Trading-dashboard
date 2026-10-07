@@ -1,13 +1,27 @@
 {
-  "updated": "2026-10-07T01:55:55.865290Z",
+  "updated": "2026-10-07T02:12:45.974432Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen softens as BoJ rate hike expectations recede, FOMC Minutes loom",
+      "link": "https://www.fxstreet.com/news/japanese-yen-softens-as-boj-rate-hike-expectations-recede-fomc-minutes-loom-202610070203",
+      "published": "Wed, 07 Oct 2026 02:03:06 GMT",
+      "ts": 1791338586
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar edges lower on reviving USD demand; recovering oil prices limit losses",
       "link": "https://www.fxstreet.com/news/canadian-dollar-edges-lower-on-reviving-usd-demand-recovering-oil-prices-limit-losses-202610070155",
       "published": "Wed, 07 Oct 2026 01:55:02 GMT",
       "ts": 1791338102
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+      "link": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 01:48:53 +0000",
+      "ts": 1791337733
     },
     {
       "source": "Investing Crypto",
@@ -18,7 +32,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "WTI rises to near $89.50 as Middle East supply threats offset Persian Gulf recovery",
+      "title": "WTI rises to near $89.50 amid Middle East concerns, US storm threats",
       "link": "https://www.fxstreet.com/news/wti-rises-to-near-8950-as-middle-east-supply-threats-offset-persian-gulf-recovery-202610070109",
       "published": "Wed, 07 Oct 2026 01:09:09 GMT",
       "ts": 1791335349
@@ -32,7 +46,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "RBI looks set to step up Repo Rate by 25 bps to 5.5%",
+      "title": "RBI is set to break status-quo with a 25 bps Repo Rate hike to 5.5%",
       "link": "https://www.fxstreet.com/news/rbi-looks-set-to-step-up-repo-rate-by-25-bps-to-55-202610070030",
       "published": "Wed, 07 Oct 2026 00:30:00 GMT",
       "ts": 1791333000
@@ -71,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/gold-rises-above-4-150-as-bond-yields-turn-lower-traders-await-fomc-minutes-202610062328",
       "published": "Tue, 06 Oct 2026 23:28:27 GMT",
       "ts": 1791329307
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar eyes 0.70 as three-day rally meets Fed minutes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-eyes-070-as-three-day-rally-meets-fed-minutes-202610062322",
-      "published": "Tue, 06 Oct 2026 23:22:57 GMT",
-      "ts": 1791328977
     },
     {
       "source": "FXStreet",
@@ -253,13 +260,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 17:19:58 +0000",
       "ts": 1791307198
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Securitize stock jumps 8% amid South Korea tokenization push",
-      "link": "https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 17:04:41 +0000",
-      "ts": 1791306281
     },
     {
       "source": "CoinDesk",
