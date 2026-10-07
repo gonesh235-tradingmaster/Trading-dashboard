@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-07T10:59:07.973524Z",
+  "updated": "2026-10-07T11:19:05.348119Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Polish Zloty: Downtrend eyes 4.48 on firm support – Societe Generale",
+      "link": "https://www.fxstreet.com/news/polish-zloty-downtrend-eyes-448-on-firm-support-societe-generale-202610071111",
+      "published": "Wed, 07 Oct 2026 11:11:35 GMT",
+      "ts": 1791371495
+    },
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX reportedly is looking to borrow as much money as the company generates in revenue to buy Nvidia chips",
+      "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 11:11:00 GMT",
+      "ts": 1791371460
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slides under $84,000 as $550 million in bets get liquidated",
+      "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
+      "published": "Wed, 07 Oct 2026 11:09:50 +0000",
+      "ts": 1791371390
+    },
     {
       "source": "FXStreet",
       "title": "Gold falls as US Dollar, Treasury yields rebound ahead of Fed Minutes",
@@ -157,13 +178,6 @@
       "ts": 1791365394
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar: Neutral outlook inside tight range against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-neutral-outlook-inside-tight-range-against-us-dollar-uob-202610070926",
-      "published": "Wed, 07 Oct 2026 09:26:55 GMT",
-      "ts": 1791365215
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin dips below $84k amid pressure from rising oil prices, yields",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
@@ -174,13 +188,6 @@
       "source": "MarketWatch",
       "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement.",
       "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 09:15:00 GMT",
-      "ts": 1791364500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "SpaceX reportedly is looking to raise as much money as the company generates in revenue to buy Nvidia chips",
-      "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 09:15:00 GMT",
       "ts": 1791364500
     },
@@ -386,13 +393,6 @@
       "link": "https://www.investing.com/news/forex-news/mexico-to-focus-on-local-currency-debt-says-finance-minister-93CH-4935092",
       "published": "2026-10-06 18:56:32",
       "ts": 1791312992
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
-      "link": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
-      "published": "Tue, 06 Oct 2026 17:00:00 +0000",
-      "ts": 1791306000
     },
     {
       "source": "Investing Crypto",
