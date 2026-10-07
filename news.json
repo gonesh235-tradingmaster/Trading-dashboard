@@ -1,13 +1,55 @@
 {
-  "updated": "2026-10-07T07:33:46.450368Z",
+  "updated": "2026-10-07T07:56:56.276616Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar declines as US Dollar strengthens on rising Treasury yields",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-strengthens-on-rising-treasury-yields-202610070753",
+      "published": "Wed, 07 Oct 2026 07:53:06 GMT",
+      "ts": 1791359586
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
+      "link": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
+      "published": "Wed, 07 Oct 2026 07:52:22 +0000",
+      "ts": 1791359542
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar pulls back from one-week top as USD stays firm ahead of FOMC Minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-pulls-back-from-one-week-top-as-usd-stays-firm-ahead-of-fomc-minutes-202610070751",
+      "published": "Wed, 07 Oct 2026 07:51:06 GMT",
+      "ts": 1791359466
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Lower yields pressure USD as December hike looms - Rabobank",
+      "link": "https://www.fxstreet.com/news/us-dollar-lower-yields-pressure-usd-as-december-hike-looms-rabobank-202610070746",
+      "published": "Wed, 07 Oct 2026 07:46:58 GMT",
+      "ts": 1791359218
+    },
     {
       "source": "FXStreet",
       "title": "Gold: Central banks keep buying – ING",
       "link": "https://www.fxstreet.com/news/gold-central-banks-keep-buying-ing-202610070730",
       "published": "Wed, 07 Oct 2026 07:30:52 GMT",
       "ts": 1791358252
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Yapı Kredi Kripto Selects Integral to Power Digital Asset Trading Services in Türkiye",
+      "link": "https://www.investing.com/news/cryptocurrency-news/yap-kredi-kripto-selects-integral-to-power-digital-asset-trading-services-in-turkiye-4935714",
+      "published": "2026-10-07 07:30:09",
+      "ts": 1791358209
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar firms, yen weakens near 158",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
+      "published": "2026-10-07 07:28:22",
+      "ts": 1791358102
     },
     {
       "source": "FXStreet",
@@ -22,6 +64,13 @@
       "link": "https://www.fxstreet.com/news/euro-fiscal-concerns-limit-recovery-against-us-dollar-commerzbank-202610070718",
       "published": "Wed, 07 Oct 2026 07:18:05 GMT",
       "ts": 1791357485
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips below Ichimoku cloud near $84,232: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-07 07:11:57",
+      "ts": 1791357117
     },
     {
       "source": "CoinTelegraph",
@@ -52,32 +101,11 @@
       "ts": 1791356510
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: BoJ normalisation supports gains against US Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-normalisation-supports-gains-against-us-dollar-mufg-202610070656",
-      "published": "Wed, 07 Oct 2026 06:56:21 GMT",
-      "ts": 1791356181
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: US Dollar stabilizes as bond yields recover ahead of FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-stabilizes-as-bond-yields-recover-ahead-of-fomc-minutes-202610070655",
-      "published": "Wed, 07 Oct 2026 06:55:04 GMT",
-      "ts": 1791356104
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin drops to $84k amid pressure from rising oil prices, yields",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
       "published": "2026-10-07 06:54:08",
       "ts": 1791356048
-    },
-    {
-      "source": "FXStreet",
-      "title": "Equities: Valuation reset underpins new highs – Danske Bank",
-      "link": "https://www.fxstreet.com/news/equities-valuation-reset-underpins-new-highs-danske-bank-202610070641",
-      "published": "Wed, 07 Oct 2026 06:41:42 GMT",
-      "ts": 1791355302
     },
     {
       "source": "CoinTelegraph",
@@ -134,13 +162,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
       "published": "Wed, 07 Oct 2026 04:00:51 +0000",
       "ts": 1791345651
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds gains, yen weakens near 158",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
-      "published": "2026-10-07 03:51:14",
-      "ts": 1791345074
     },
     {
       "source": "CoinTelegraph",
@@ -255,13 +276,6 @@
       "ts": 1791315007
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin squeezed between support and resistance at $85,472: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-06 19:20:27",
-      "ts": 1791314427
-    },
-    {
       "source": "CoinTelegraph",
       "title": "UK names 6 banks to lead first digitally native government bond",
       "link": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -360,13 +374,6 @@
       "ts": 1791286953
     },
     {
-      "source": "CoinDesk",
-      "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
-      "published": "Tue, 06 Oct 2026 11:30:00 +0000",
-      "ts": 1791286200
-    },
-    {
       "source": "Investing Forex",
       "title": "Goldman sees Korean FX intervention risk if won strengthens sharply",
       "link": "https://www.investing.com/news/forex-news/goldman-sees-korean-fx-intervention-risk-if-won-strengthens-sharply-93CH-4933873",
@@ -407,13 +414,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17month-low-4933206",
       "published": "2026-10-06 01:18:22",
       "ts": 1791249502
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin hovers under $86k as traders parse positive CFTC move against bond rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
-      "published": "2026-10-05 21:55:15",
-      "ts": 1791237315
     },
     {
       "source": "Investing Forex",
