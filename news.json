@@ -1,7 +1,119 @@
 {
-  "updated": "2026-10-07T09:00:17.524617Z",
+  "updated": "2026-10-07T09:31:14.025535Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202610070930",
+      "published": "Wed, 07 Oct 2026 09:30:56 GMT",
+      "ts": 1791365456
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro languishes as Indian rupee tests all-time lows; Dollar awaits FOMC minutes",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
+      "published": "2026-10-07 09:28:57",
+      "ts": 1791365337
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: Neutral outlook inside tight range against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-neutral-outlook-inside-tight-range-against-us-dollar-uob-202610070926",
+      "published": "Wed, 07 Oct 2026 09:26:55 GMT",
+      "ts": 1791365215
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin dips below $84k amid pressure from rising oil prices, yields",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
+      "published": "2026-10-07 09:20:23",
+      "ts": 1791364823
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: OAT repricing keeps downside bias against US Dollar – MUFG",
+      "link": "https://www.fxstreet.com/news/euro-oat-repricing-keeps-downside-bias-against-us-dollar-mufg-202610070916",
+      "published": "Wed, 07 Oct 2026 09:16:27 GMT",
+      "ts": 1791364587
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement.",
+      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 09:15:00 GMT",
+      "ts": 1791364500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX reportedly is looking to raise as much money as the company generates in revenue to buy Nvidia chips",
+      "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 09:15:00 GMT",
+      "ts": 1791364500
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound dips on firm dollar; EUR/GBP at 16-month low",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-dips-on-firm-dollar-eurgbp-at-16month-low-4935921",
+      "published": "2026-10-07 09:10:08",
+      "ts": 1791364208
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+      "link": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
+      "published": "Wed, 07 Oct 2026 09:09:06 +0000",
+      "ts": 1791364146
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI eases as Gulf export flows counter Middle East, US storm concerns",
+      "link": "https://www.fxstreet.com/news/wti-eases-as-gulf-export-flows-counter-middle-east-us-storm-concerns-202610070905",
+      "published": "Wed, 07 Oct 2026 09:05:58 GMT",
+      "ts": 1791363958
+    },
+    {
+      "source": "FXStreet",
+      "title": "Polish Zloty: NBP cautious as inflation overshoots – Commerzbank",
+      "link": "https://www.fxstreet.com/news/polish-zloty-nbp-cautious-as-inflation-overshoots-commerzbank-202610070905",
+      "published": "Wed, 07 Oct 2026 09:05:20 GMT",
+      "ts": 1791363920
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Josh Brolin sells Atlanta-area mansion for $4 million after slashing price",
+      "link": "https://www.marketwatch.com/story/josh-brolin-sells-atlanta-area-mansion-for-4-million-after-slashing-price-52561a89?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 09:05:00 GMT",
+      "ts": 1791363900
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 09:03:38 +0000",
+      "ts": 1791363818
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro tumbles after a relief rally as ECB officials warn economic slowdown",
+      "link": "https://www.fxstreet.com/news/euro-tumbles-after-a-relief-rally-as-ecb-officials-warn-economic-slowdown-202610070901",
+      "published": "Wed, 07 Oct 2026 09:01:12 GMT",
+      "ts": 1791363672
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A Laguna Beach gem renovated by Diane Keaton is up for grabs for $10.3 million",
+      "link": "https://www.marketwatch.com/story/a-laguna-beach-gem-renovated-by-diane-keaton-is-up-for-grabs-for-10-3-million-8e6e1927?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 09:01:00 GMT",
+      "ts": 1791363660
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound stays weak below 1.3250 as USD bulls retain control ahead of FOMC Minutes",
+      "link": "https://www.fxstreet.com/news/british-pound-stays-weak-below-13250-as-usd-bulls-retain-control-ahead-of-fomc-minutes-202610070900",
+      "published": "Wed, 07 Oct 2026 09:00:48 GMT",
+      "ts": 1791363648
+    },
     {
       "source": "CoinDesk",
       "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
@@ -38,13 +150,6 @@
       "ts": 1791362335
     },
     {
-      "source": "FXStreet",
-      "title": "Czech Koruna: CNB path lifted on inflation risks – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/czech-koruna-cnb-path-lifted-on-inflation-risks-standard-chartered-202610070835",
-      "published": "Wed, 07 Oct 2026 08:35:10 GMT",
-      "ts": 1791362110
-    },
-    {
       "source": "Investing Forex",
       "title": "Iraq devalues dinar to 1,520 per US dollar, state news agency says",
       "link": "https://www.investing.com/news/forex-news/iraq-devalues-dinar-to-1520-per-us-dollar-state-news-agency-says-4935843",
@@ -57,13 +162,6 @@
       "link": "https://www.investing.com/news/forex-news/usdinr-tests-record-highs-as-stoploss-orders-trigger-fresh-rally-93CH-4935828",
       "published": "2026-10-07 08:27:44",
       "ts": 1791361664
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro falls against Canadian Dollar as surging oil prices overpower strong German data",
-      "link": "https://www.fxstreet.com/news/euro-falls-against-canadian-dollar-as-surging-oil-prices-overpower-strong-german-data-202610070820",
-      "published": "Wed, 07 Oct 2026 08:20:06 GMT",
-      "ts": 1791361206
     },
     {
       "source": "MarketWatch",
@@ -80,13 +178,6 @@
       "ts": 1791360395
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Losses seem capped against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-losses-seem-capped-against-us-dollar-uob-202610070805",
-      "published": "Wed, 07 Oct 2026 08:05:55 GMT",
-      "ts": 1791360355
-    },
-    {
       "source": "MarketWatch",
       "title": "A popular tech fund is now overbought. That’s no reason to sell, history shows.",
       "link": "https://www.marketwatch.com/story/a-popular-tech-fund-is-now-overbought-thats-no-reason-to-sell-history-shows-d998aab3?mod=mw_rss_topstories",
@@ -94,39 +185,11 @@
       "ts": 1791360060
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD ticks lower to near $60.60 as US bond yields bounce back",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-ticks-lower-to-near-6060-as-us-bond-yields-bounce-back-202610070758",
-      "published": "Wed, 07 Oct 2026 07:58:08 GMT",
-      "ts": 1791359888
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar declines as US Dollar strengthens on rising Treasury yields",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-strengthens-on-rising-treasury-yields-202610070753",
-      "published": "Wed, 07 Oct 2026 07:53:06 GMT",
-      "ts": 1791359586
-    },
-    {
       "source": "CoinDesk",
       "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
       "link": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
       "published": "Wed, 07 Oct 2026 07:52:22 +0000",
       "ts": 1791359542
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar pulls back from one-week top as USD stays firm ahead of FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-pulls-back-from-one-week-top-as-usd-stays-firm-ahead-of-fomc-minutes-202610070751",
-      "published": "Wed, 07 Oct 2026 07:51:06 GMT",
-      "ts": 1791359466
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Lower yields pressure USD as December hike looms - Rabobank",
-      "link": "https://www.fxstreet.com/news/us-dollar-lower-yields-pressure-usd-as-december-hike-looms-rabobank-202610070746",
-      "published": "Wed, 07 Oct 2026 07:46:58 GMT",
-      "ts": 1791359218
     },
     {
       "source": "Investing Forex",
@@ -141,13 +204,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/yap-kredi-kripto-selects-integral-to-power-digital-asset-trading-services-in-turkiye-4935714",
       "published": "2026-10-07 07:30:09",
       "ts": 1791358209
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar firms, yen weakens near 158",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
-      "published": "2026-10-07 07:28:22",
-      "ts": 1791358102
     },
     {
       "source": "Investing Crypto",
@@ -169,13 +225,6 @@
       "link": "https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 07:08:00 GMT",
       "ts": 1791356880
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin drops to $84k amid pressure from rising oil prices, yields",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
-      "published": "2026-10-07 06:54:08",
-      "ts": 1791356048
     },
     {
       "source": "CoinTelegraph",
@@ -200,10 +249,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold seems vulnerable near two-month low amid bullish USD; focus remains on FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/gold-weakens-amid-renewed-usd-strength-and-higher-bond-yields-ahead-of-fomc-minutes-202610070432",
-      "published": "Wed, 07 Oct 2026 04:32:05 GMT",
-      "ts": 1791347525
+      "title": "Indian Rupee approaches all-time low around 97 after RBI's hawkish policy decision",
+      "link": "https://www.fxstreet.com/news/usd-inr-remains-broadly-muted-after-rbis-25-bps-hike-in-repo-rates-to-55-202610070441",
+      "published": "Wed, 07 Oct 2026 04:41:23 GMT",
+      "ts": 1791348083
     },
     {
       "source": "CoinDesk",
@@ -304,46 +353,11 @@
       "ts": 1791319020
     },
     {
-      "source": "MarketWatch",
-      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-      "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 20:24:00 GMT",
-      "ts": 1791318240
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
-      "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 20:21:00 GMT",
-      "ts": 1791318060
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
-      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 20:15:00 GMT",
-      "ts": 1791317700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 19:58:00 GMT",
-      "ts": 1791316680
-    },
-    {
       "source": "Investing Crypto",
       "title": "Anvil Announces SDK Launch, Enterprise Partnerships, and $5M ANVL Token Sale",
       "link": "https://www.investing.com/news/cryptocurrency-news/anvil-announces-sdk-launch-enterprise-partnerships-and-5m-anvl-token-sale-4935117",
       "published": "2026-10-06 19:30:07",
       "ts": 1791315007
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "UK names 6 banks to lead first digitally native government bond",
-      "link": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 19:19:00 +0000",
-      "ts": 1791314340
     },
     {
       "source": "Investing Forex",
@@ -388,25 +402,11 @@
       "ts": 1791298807
     },
     {
-      "source": "CoinDesk",
-      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
-      "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-      "published": "Tue, 06 Oct 2026 13:02:33 +0000",
-      "ts": 1791291753
-    },
-    {
       "source": "Investing Forex",
       "title": "Treasuries and Bunds gain as safe-haven flows shadow French fiscal woes",
       "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
       "published": "2026-10-06 11:42:33",
       "ts": 1791286953
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Goldman sees Korean FX intervention risk if won strengthens sharply",
-      "link": "https://www.investing.com/news/forex-news/goldman-sees-korean-fx-intervention-risk-if-won-strengthens-sharply-93CH-4933873",
-      "published": "2026-10-06 10:29:14",
-      "ts": 1791282554
     },
     {
       "source": "Investing Crypto",
