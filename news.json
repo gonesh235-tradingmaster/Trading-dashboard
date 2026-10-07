@@ -1,13 +1,41 @@
 {
-  "updated": "2026-10-07T18:47:34.923205Z",
+  "updated": "2026-10-07T19:11:57.764238Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+      "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+      "published": "Wed, 07 Oct 2026 18:59:32 +0000",
+      "ts": 1791399572
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 18:55:36 +0000",
+      "ts": 1791399336
+    },
     {
       "source": "Investing Forex",
       "title": "Dollar rises as Fed minutes reinforce higher-for-longer rate outlook",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
       "published": "2026-10-07 18:43:34",
       "ts": 1791398614
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: Weekly Claims and Fedspeak on top of the agenda",
+      "link": "https://www.fxstreet.com/news/forex-today-weekly-claims-and-fedspeak-on-top-of-the-agenda-202610071842",
+      "published": "Wed, 07 Oct 2026 18:42:46 GMT",
+      "ts": 1791398566
+    },
+    {
+      "source": "FXStreet",
+      "title": "China: Targeted stimulus supports growth – Societe Generale",
+      "link": "https://www.fxstreet.com/news/china-targeted-stimulus-supports-growth-societe-generale-202610071836",
+      "published": "Wed, 07 Oct 2026 18:36:00 GMT",
+      "ts": 1791398160
     },
     {
       "source": "MarketWatch",
@@ -22,6 +50,13 @@
       "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 18:28:00 GMT",
       "ts": 1791397680
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI reverses earlier gains as recovering Middle East exports weigh",
+      "link": "https://www.fxstreet.com/news/wti-turns-lower-as-recovering-middle-east-exports-weigh-202610071822",
+      "published": "Wed, 07 Oct 2026 18:22:13 GMT",
+      "ts": 1791397333
     },
     {
       "source": "MarketWatch",
@@ -143,20 +178,6 @@
       "ts": 1791387300
     },
     {
-      "source": "FXStreet",
-      "title": "IEA members back faster release of 100 million barrels of Oil stocks",
-      "link": "https://www.fxstreet.com/news/iea-members-back-faster-release-of-100-million-barrels-of-oil-stocks-202610071519",
-      "published": "Wed, 07 Oct 2026 15:19:24 GMT",
-      "ts": 1791386364
-    },
-    {
-      "source": "FXStreet",
-      "title": "Vietnam: Strong GDP but rising inflation risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/vietnam-strong-gdp-but-rising-inflation-risks-commerzbank-202610071518",
-      "published": "Wed, 07 Oct 2026 15:18:39 GMT",
-      "ts": 1791386319
-    },
-    {
       "source": "CoinDesk",
       "title": "Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next",
       "link": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
@@ -176,13 +197,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
       "published": "Wed, 07 Oct 2026 15:03:54 +0000",
       "ts": 1791385434
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro struggles as French fiscal risks, strong US Dollar weigh ahead of Fed Minutes",
-      "link": "https://www.fxstreet.com/news/euro-struggles-as-french-fiscal-risks-strong-us-dollar-weigh-ahead-of-fed-minutes-202610071459",
-      "published": "Wed, 07 Oct 2026 14:59:43 GMT",
-      "ts": 1791385183
     },
     {
       "source": "MarketWatch",
@@ -207,7 +221,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Breaking: Fed Minutes confirm another rate hike was already in sight",
+      "title": "Fed Minutes: Officials saw inflation risks worsening before September hike",
       "link": "https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400",
       "published": "Wed, 07 Oct 2026 14:00:00 GMT",
       "ts": 1791381600
@@ -232,13 +246,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
       "published": "Wed, 07 Oct 2026 13:20:54 +0000",
       "ts": 1791379254
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 13:07:40 +0000",
-      "ts": 1791378460
     },
     {
       "source": "CoinDesk",
@@ -295,13 +302,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
       "published": "Wed, 07 Oct 2026 11:30:00 +0000",
       "ts": 1791372600
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin edges up from worst levels as yields pull back",
-      "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
-      "published": "Wed, 07 Oct 2026 11:09:50 +0000",
-      "ts": 1791371390
     },
     {
       "source": "Investing Crypto",
