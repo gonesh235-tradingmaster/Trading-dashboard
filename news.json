@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-06T23:56:21.506360Z",
+  "updated": "2026-10-07T00:20:20.987071Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
+      "link": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 00:01:40 +0000",
+      "ts": 1791331300
+    },
     {
       "source": "FXStreet",
       "title": "US VP Vance says Iran must reduce nuclear enrichment capacity to end war",
@@ -260,13 +267,6 @@
       "link": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
       "published": "Tue, 06 Oct 2026 16:50:26 +0000",
       "ts": 1791305426
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "ECB policymaker warns of fragmentation without digital euro",
-      "link": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 16:32:57 +0000",
-      "ts": 1791304377
     },
     {
       "source": "CoinDesk",
