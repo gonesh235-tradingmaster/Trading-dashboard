@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-07T15:40:33.213540Z",
+  "updated": "2026-10-07T16:01:03.989643Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
+      "link": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 15:36:11 +0000",
+      "ts": 1791387371
+    },
     {
       "source": "MarketWatch",
       "title": "More college students have to use credit cards just to cover basic living expenses. Here’s what it’s costing them.",
@@ -330,13 +337,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 09:03:38 +0000",
       "ts": 1791363818
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitmine sets 5% Ether supply ‘hard cap’ as accumulation target nears",
-      "link": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 08:50:02 +0000",
-      "ts": 1791363002
     },
     {
       "source": "Investing Forex",
