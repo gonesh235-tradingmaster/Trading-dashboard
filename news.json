@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-07T13:58:04.605901Z",
+  "updated": "2026-10-07T14:18:59.131060Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar: Political risks weigh against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-political-risks-weigh-against-us-dollar-scotiabank-202610071403",
+      "published": "Wed, 07 Oct 2026 14:03:49 GMT",
+      "ts": 1791381829
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Loneliness and social isolation can take six years off your life",
+      "link": "https://www.marketwatch.com/story/loneliness-and-social-isolation-can-take-six-years-off-your-life-496af256?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 14:01:00 GMT",
+      "ts": 1791381660
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron’s ridiculously cheap stock could triple from here, according to this analyst’s math",
+      "link": "https://www.marketwatch.com/story/microns-ridiculously-cheap-stock-could-triple-from-here-according-to-this-analysts-math-7b9b50bc?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 14:01:00 GMT",
+      "ts": 1791381660
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed Minutes set to provide some insight into the timing of next rate hikes",
+      "link": "https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400",
+      "published": "Wed, 07 Oct 2026 14:00:00 GMT",
+      "ts": 1791381600
+    },
     {
       "source": "MarketWatch",
       "title": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
@@ -15,6 +43,27 @@
       "link": "https://www.marketwatch.com/story/this-part-of-the-bond-market-offers-compelling-yields-with-minimal-risk-1e7ef2ed?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 13:53:00 GMT",
       "ts": 1791381180
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin drops to $83k amid pressure from rising oil prices, yields",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
+      "published": "2026-10-07 13:52:32",
+      "ts": 1791381152
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar loses ground ahead of Fed Minutes",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-loses-ground-ahead-of-fed-minutes-202610071351",
+      "published": "Wed, 07 Oct 2026 13:51:49 GMT",
+      "ts": 1791381109
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Recovery holds as currency softens – BNY",
+      "link": "https://www.fxstreet.com/news/euro-recovery-holds-as-currency-softens-bny-202610071345",
+      "published": "Wed, 07 Oct 2026 13:45:13 GMT",
+      "ts": 1791380713
     },
     {
       "source": "MarketWatch",
@@ -108,13 +157,6 @@
       "ts": 1791377160
     },
     {
-      "source": "MarketWatch",
-      "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
-      "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 12:43:00 GMT",
-      "ts": 1791376980
-    },
-    {
       "source": "FXStreet",
       "title": "Swiss Franc: Range trading persists against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/swiss-franc-range-trading-persists-against-us-dollar-uob-202610071241",
@@ -136,39 +178,11 @@
       "ts": 1791376453
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Assessing NFP release reliability – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/us-dollar-assessing-nfp-release-reliability-standard-chartered-202610071230",
-      "published": "Wed, 07 Oct 2026 12:30:02 GMT",
-      "ts": 1791376202
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO",
       "link": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 12:29:39 +0000",
       "ts": 1791376179
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro extends losing streak against British Pound, hits 16-month low",
-      "link": "https://www.fxstreet.com/news/euro-extends-losing-streak-against-british-pound-hits-16-month-low-202610071217",
-      "published": "Wed, 07 Oct 2026 12:17:56 GMT",
-      "ts": 1791375476
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Slightly weaker bias as fiscal risks grow – DBS",
-      "link": "https://www.fxstreet.com/news/japanese-yen-slightly-weaker-bias-as-fiscal-risks-grow-dbs-202610071215",
-      "published": "Wed, 07 Oct 2026 12:15:45 GMT",
-      "ts": 1791375345
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecasts: XAG/USD drifts toward $60 as precious metals struggle",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-drifts-toward-60-as-precious-metals-struggle-202610071213",
-      "published": "Wed, 07 Oct 2026 12:13:17 GMT",
-      "ts": 1791375197
     },
     {
       "source": "Investing Forex",
@@ -190,13 +204,6 @@
       "link": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
       "published": "Wed, 07 Oct 2026 11:59:24 +0000",
       "ts": 1791374364
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These two hard-hit stocks are poised for a comeback, says fund manager",
-      "link": "https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 11:40:00 GMT",
-      "ts": 1791373200
     },
     {
       "source": "CoinTelegraph",
@@ -228,7 +235,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold declines as stronger US Dollar and yields weigh ahead FOMC Minutes",
+      "title": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
       "link": "https://www.fxstreet.com/news/gold-falls-as-us-dollar-treasury-yields-rebound-ahead-of-fed-minutes-202610071045",
       "published": "Wed, 07 Oct 2026 10:45:01 GMT",
       "ts": 1791369901
@@ -295,13 +302,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
       "published": "2026-10-07 09:29:54",
       "ts": 1791365394
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips below $84k amid pressure from rising oil prices, yields",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
-      "published": "2026-10-07 09:20:23",
-      "ts": 1791364823
     },
     {
       "source": "CoinDesk",
