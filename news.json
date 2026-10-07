@@ -1,13 +1,27 @@
 {
-  "updated": "2026-10-07T19:54:45.627969Z",
+  "updated": "2026-10-07T20:10:58.625180Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "South Korean Won: Upside risks with key levels in focus against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/south-korean-won-upside-risks-with-key-levels-in-focus-against-us-dollar-ocbc-202610071951",
+      "published": "Wed, 07 Oct 2026 19:51:00 GMT",
+      "ts": 1791402660
+    },
     {
       "source": "MarketWatch",
       "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
       "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 19:35:00 GMT",
       "ts": 1791401700
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold slides below $4,100 as FOMC Minutes signal further Fed hikes",
+      "link": "https://www.fxstreet.com/news/gold-slides-below-4-100-as-fomc-minutes-signal-further-fed-hikes-202610071929",
+      "published": "Wed, 07 Oct 2026 19:29:05 GMT",
+      "ts": 1791401345
     },
     {
       "source": "Investing Crypto",
@@ -22,6 +36,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-07 19:19:11",
       "ts": 1791400751
+    },
+    {
+      "source": "FXStreet",
+      "title": "Thai Baht: Inflation rise and THB downside risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/thai-baht-inflation-rise-and-thb-downside-risks-commerzbank-202610071912",
+      "published": "Wed, 07 Oct 2026 19:12:00 GMT",
+      "ts": 1791400320
     },
     {
       "source": "MarketWatch",
@@ -171,20 +192,6 @@
       "ts": 1791389163
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar Index climbs back near its 18-month high as yields rise",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-climbs-back-near-its-18-month-high-as-yields-rise-202610071542",
-      "published": "Wed, 07 Oct 2026 15:42:47 GMT",
-      "ts": 1791387767
-    },
-    {
-      "source": "FXStreet",
-      "title": "NY Fed September survey shows households bracing for higher prices",
-      "link": "https://www.fxstreet.com/news/ny-fed-survey-of-consumers-shows-households-bracing-for-higher-prices-202610071539",
-      "published": "Wed, 07 Oct 2026 15:39:03 GMT",
-      "ts": 1791387543
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
       "link": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-as-iran-attacks-oil-surge-fuel-rate-fears-crypto-stocks-slip-4936200",
       "published": "2026-10-07 10:52:38",
       "ts": 1791370358
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/gold-falls-as-us-dollar-treasury-yields-rebound-ahead-of-fed-minutes-202610071045",
-      "published": "Wed, 07 Oct 2026 10:45:01 GMT",
-      "ts": 1791369901
     },
     {
       "source": "Investing Crypto",
