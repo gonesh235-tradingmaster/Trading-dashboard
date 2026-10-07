@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-07T23:08:19.997617Z",
+  "updated": "2026-10-07T23:25:47.402129Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "The Yen round-trips after Japanese pay beats its forecast",
+      "link": "https://www.fxstreet.com/news/the-yen-round-trips-after-japanese-pay-beats-its-forecast-202610072308",
+      "published": "Wed, 07 Oct 2026 23:08:50 GMT",
+      "ts": 1791414530
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar slips as Fed hike bets meet Middle East Oil risk",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-fed-hike-bets-meet-middle-east-oil-risk-202610072307",
+      "published": "Wed, 07 Oct 2026 23:07:37 GMT",
+      "ts": 1791414457
+    },
     {
       "source": "MarketWatch",
       "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
@@ -129,13 +143,6 @@
       "ts": 1791400751
     },
     {
-      "source": "FXStreet",
-      "title": "Thai Baht: Inflation rise and THB downside risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/thai-baht-inflation-rise-and-thb-downside-risks-commerzbank-202610071912",
-      "published": "Wed, 07 Oct 2026 19:12:00 GMT",
-      "ts": 1791400320
-    },
-    {
       "source": "MarketWatch",
       "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
       "link": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
@@ -260,13 +267,6 @@
       "link": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
       "published": "Wed, 07 Oct 2026 14:27:37 +0000",
       "ts": 1791383257
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed Minutes: Officials saw inflation risks worsening before September hike",
-      "link": "https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400",
-      "published": "Wed, 07 Oct 2026 14:00:00 GMT",
-      "ts": 1791381600
     },
     {
       "source": "Investing Forex",
