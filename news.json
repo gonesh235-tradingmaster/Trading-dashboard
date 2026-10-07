@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-07T10:43:24.194538Z",
+  "updated": "2026-10-07T10:59:07.973524Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold falls as US Dollar, Treasury yields rebound ahead of Fed Minutes",
+      "link": "https://www.fxstreet.com/news/gold-falls-as-us-dollar-treasury-yields-rebound-ahead-of-fed-minutes-202610071045",
+      "published": "Wed, 07 Oct 2026 10:45:01 GMT",
+      "ts": 1791369901
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc retreats further, US Dollar firms up with Fed minutes in focus",
+      "link": "https://www.fxstreet.com/news/swiss-franc-retreats-further-us-dollar-firms-up-with-fed-minutes-in-focus-202610071043",
+      "published": "Wed, 07 Oct 2026 10:43:59 GMT",
+      "ts": 1791369839
+    },
     {
       "source": "FXStreet",
       "title": "ECB’s Pereira: No second-round inflation effects at present",
@@ -157,13 +171,6 @@
       "ts": 1791364823
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: OAT repricing keeps downside bias against US Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/euro-oat-repricing-keeps-downside-bias-against-us-dollar-mufg-202610070916",
-      "published": "Wed, 07 Oct 2026 09:16:27 GMT",
-      "ts": 1791364587
-    },
-    {
       "source": "MarketWatch",
       "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement.",
       "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
@@ -190,13 +197,6 @@
       "link": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
       "published": "Wed, 07 Oct 2026 09:09:06 +0000",
       "ts": 1791364146
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI eases as Gulf export flows counter Middle East, US storm concerns",
-      "link": "https://www.fxstreet.com/news/wti-eases-as-gulf-export-flows-counter-middle-east-us-storm-concerns-202610070905",
-      "published": "Wed, 07 Oct 2026 09:05:58 GMT",
-      "ts": 1791363958
     },
     {
       "source": "MarketWatch",
