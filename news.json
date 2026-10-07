@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-07T03:33:41.824298Z",
+  "updated": "2026-10-07T03:57:04.976559Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds gains, yen weakens near 158",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
+      "published": "2026-10-07 03:51:14",
+      "ts": 1791345074
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar resumes decline against US Dollar ahead of FOMC minutes",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eden-labs-raises-15m-to-build-personal-ai-that-works-for-everyone-4932634",
       "published": "2026-10-05 17:00:17",
       "ts": 1791219617
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie slips as early gains fade, oil weakness keeps pressure on Canadian dollar",
-      "link": "https://www.investing.com/news/forex-news/loonie-slips-as-early-gains-fade-oil-weakness-keeps-pressure-on-canadian-dollar-4932479",
-      "published": "2026-10-05 14:30:09",
-      "ts": 1791210609
     }
   ]
 }
