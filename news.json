@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-07T07:12:48.119708Z",
+  "updated": "2026-10-07T07:33:46.450368Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold: Central banks keep buying – ING",
+      "link": "https://www.fxstreet.com/news/gold-central-banks-keep-buying-ing-202610070730",
+      "published": "Wed, 07 Oct 2026 07:30:52 GMT",
+      "ts": 1791358252
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/GBP Price Forecast: Rejection at 0.8500 leaves yearly low at 0.8455 exposed",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-rejection-at-08500-leaves-yearly-low-at-08455-exposed-202610070727",
+      "published": "Wed, 07 Oct 2026 07:27:33 GMT",
+      "ts": 1791358053
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Fiscal concerns limit recovery against US Dollar - Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-fiscal-concerns-limit-recovery-against-us-dollar-commerzbank-202610070718",
+      "published": "Wed, 07 Oct 2026 07:18:05 GMT",
+      "ts": 1791357485
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
+      "link": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 07:10:59 +0000",
+      "ts": 1791357059
+    },
     {
       "source": "MarketWatch",
       "title": "How one trend-following fund outperformed rivals by bringing humans back into the decision-making process",
@@ -50,27 +78,6 @@
       "link": "https://www.fxstreet.com/news/equities-valuation-reset-underpins-new-highs-danske-bank-202610070641",
       "published": "Wed, 07 Oct 2026 06:41:42 GMT",
       "ts": 1791355302
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro extends its reversal as rising Oil prices offset upbeat German data",
-      "link": "https://www.fxstreet.com/news/euro-extends-its-reversal-as-rising-oil-prices-offset-upbeat-german-data-202610070633",
-      "published": "Wed, 07 Oct 2026 06:33:06 GMT",
-      "ts": 1791354786
-    },
-    {
-      "source": "FXStreet",
-      "title": "Oil: Supply risks offset stronger flows – ING",
-      "link": "https://www.fxstreet.com/news/oil-supply-risks-offset-stronger-flows-ing-202610070624",
-      "published": "Wed, 07 Oct 2026 06:24:03 GMT",
-      "ts": 1791354243
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: 101.80 remains key support zone ahead of FOMC minutes",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-10180-remains-key-support-zone-ahead-of-fomc-minutes-202610070623",
-      "published": "Wed, 07 Oct 2026 06:23:35 GMT",
-      "ts": 1791354215
     },
     {
       "source": "CoinTelegraph",
@@ -295,13 +302,6 @@
       "link": "https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 17:59:32 +0000",
       "ts": 1791309572
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Affluent investors seen boosting crypto exposure: Survey",
-      "link": "https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 17:30:18 +0000",
-      "ts": 1791307818
     },
     {
       "source": "CoinDesk",
