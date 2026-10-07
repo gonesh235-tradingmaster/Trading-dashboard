@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-07T11:19:05.348119Z",
+  "updated": "2026-10-07T11:42:58.845929Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: RBI tightening fails to halt INR slide – BBH",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-tightening-fails-to-halt-inr-slide-bbh-202610071131",
+      "published": "Wed, 07 Oct 2026 11:31:34 GMT",
+      "ts": 1791372694
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here’s what bitcoin needs to break above $87,000",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
+      "published": "Wed, 07 Oct 2026 11:30:00 +0000",
+      "ts": 1791372600
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro plummets as French bonds sell-off intensifies after a day relief",
+      "link": "https://www.fxstreet.com/news/euro-plummets-as-french-bonds-sell-off-intensifies-after-a-day-relief-202610071122",
+      "published": "Wed, 07 Oct 2026 11:22:23 GMT",
+      "ts": 1791372143
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These two hard-hit stocks are poised for a comeback, says fund manager",
+      "link": "https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 11:21:00 GMT",
+      "ts": 1791372060
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Meta stock scores a rare ‘golden cross’ buy signal as investors swarm to its top-charting AI agent",
+      "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 11:18:00 GMT",
+      "ts": 1791371880
+    },
     {
       "source": "FXStreet",
       "title": "Polish Zloty: Downtrend eyes 4.48 on firm support – Societe Generale",
@@ -18,10 +53,17 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slides under $84,000 as $550 million in bets get liquidated",
+      "title": "Live updates: BitMine announces ETH buying limit. Ether, bitcoin slide",
       "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
       "published": "Wed, 07 Oct 2026 11:09:50 +0000",
       "ts": 1791371390
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls as Iran attacks, oil surge fuel rate fears; crypto stocks slip",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-as-iran-attacks-oil-surge-fuel-rate-fears-crypto-stocks-slip-4936200",
+      "published": "2026-10-07 10:52:38",
+      "ts": 1791370358
     },
     {
       "source": "FXStreet",
@@ -129,25 +171,11 @@
       "ts": 1791367039
     },
     {
-      "source": "FXStreet",
-      "title": "Gold Price Forecast: XAU/USD retraces gains and nears two-month lows at $4,104",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-retraces-gains-and-nears-two-month-lows-at-4-104-202610070946",
-      "published": "Wed, 07 Oct 2026 09:46:54 GMT",
-      "ts": 1791366414
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto liquidations hit $550M as Bitcoin price dips below $84K",
       "link": "https://cointelegraph.com/markets/crypto-liquidations-hit-550m-as-bitcoin-price-dips-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 09:45:35 +0000",
       "ts": 1791366335
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swedish Krona: Technical setup points to further weakness – Societe Generale",
-      "link": "https://www.fxstreet.com/news/swedish-krona-technical-setup-points-to-further-weakness-societe-generale-202610070944",
-      "published": "Wed, 07 Oct 2026 09:44:48 GMT",
-      "ts": 1791366288
     },
     {
       "source": "MarketWatch",
@@ -162,13 +190,6 @@
       "link": "https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 09:33:00 GMT",
       "ts": 1791365580
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202610070930",
-      "published": "Wed, 07 Oct 2026 09:30:56 GMT",
-      "ts": 1791365456
     },
     {
       "source": "Investing Forex",
@@ -255,25 +276,11 @@
       "ts": 1791361664
     },
     {
-      "source": "MarketWatch",
-      "title": "Meta’s stock sees a golden cross as shares thrive since Muse introduction",
-      "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 08:07:00 GMT",
-      "ts": 1791360420
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Russia clears first crypto exchanges, custodians under new law",
       "link": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 08:06:35 +0000",
       "ts": 1791360395
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A popular tech fund is now overbought. That’s no reason to sell, history shows.",
-      "link": "https://www.marketwatch.com/story/a-popular-tech-fund-is-now-overbought-thats-no-reason-to-sell-history-shows-d998aab3?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 08:01:00 GMT",
-      "ts": 1791360060
     },
     {
       "source": "CoinDesk",
@@ -332,6 +339,13 @@
       "ts": 1791349074
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee tumbles after RBI's policy, 20 bps away from all-time low",
+      "link": "https://www.fxstreet.com/news/usd-inr-remains-broadly-muted-after-rbis-25-bps-hike-in-repo-rates-to-55-202610070441",
+      "published": "Wed, 07 Oct 2026 04:41:23 GMT",
+      "ts": 1791348083
+    },
+    {
       "source": "CoinDesk",
       "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
       "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
@@ -344,13 +358,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
       "published": "Wed, 07 Oct 2026 04:11:33 +0000",
       "ts": 1791346293
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
-      "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
-      "published": "Wed, 07 Oct 2026 04:00:51 +0000",
-      "ts": 1791345651
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
       "published": "2026-10-06 11:42:33",
       "ts": 1791286953
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Beldex Introduces Confidential Assets for Privacy-Preserving Tokens on Testnet",
-      "link": "https://www.investing.com/news/cryptocurrency-news/beldex-introduces-confidential-assets-for-privacypreserving-tokens-on-testnet-4933778",
-      "published": "2026-10-06 10:00:34",
-      "ts": 1791280834
     }
   ]
 }
