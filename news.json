@@ -1,13 +1,69 @@
 {
-  "updated": "2026-10-07T15:01:04.254047Z",
+  "updated": "2026-10-07T15:40:33.213540Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "More college students have to use credit cards just to cover basic living expenses. Here’s what it’s costing them.",
+      "link": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 15:35:00 GMT",
+      "ts": 1791387300
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next",
+      "link": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
+      "published": "Wed, 07 Oct 2026 15:13:15 +0000",
+      "ts": 1791385995
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 15:06:14 +0000",
+      "ts": 1791385574
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
+      "published": "Wed, 07 Oct 2026 15:03:54 +0000",
+      "ts": 1791385434
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro struggles as French fiscal risks, strong US Dollar weigh ahead of Fed Minutes",
+      "link": "https://www.fxstreet.com/news/euro-struggles-as-french-fiscal-risks-strong-us-dollar-weigh-ahead-of-fed-minutes-202610071459",
+      "published": "Wed, 07 Oct 2026 14:59:43 GMT",
+      "ts": 1791385183
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Treasury yields hit 24-year highs as 10-year tests 5.35%",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-hit-24-year-highs-as-10-year-tests-535-202610071450",
+      "published": "Wed, 07 Oct 2026 14:50:38 GMT",
+      "ts": 1791384638
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: Safe haven status versus funding role – Rabobank",
+      "link": "https://www.fxstreet.com/news/swiss-franc-safe-haven-status-versus-funding-role-rabobank-202610071447",
+      "published": "Wed, 07 Oct 2026 14:47:16 GMT",
+      "ts": 1791384436
+    },
     {
       "source": "MarketWatch",
       "title": "Should I put my nest egg in a 30-year Treasury bond?",
       "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 14:34:00 GMT",
       "ts": 1791383640
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold: Dip buying case builds into 2027 – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-dip-buying-case-builds-into-2027-td-securities-202610071432",
+      "published": "Wed, 07 Oct 2026 14:32:48 GMT",
+      "ts": 1791383568
     },
     {
       "source": "MarketWatch",
@@ -29,6 +85,20 @@
       "link": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
       "published": "Wed, 07 Oct 2026 14:27:37 +0000",
       "ts": 1791383257
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar declines as RBA hike bets fade, US yields climb ahead Fed Minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-as-rba-hike-bets-fade-us-yields-climb-ahead-fed-minutes-202610071425",
+      "published": "Wed, 07 Oct 2026 14:25:09 GMT",
+      "ts": 1791383109
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Energy risks support USD strength – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-energy-risks-support-usd-strength-bbh-202610071423",
+      "published": "Wed, 07 Oct 2026 14:23:19 GMT",
+      "ts": 1791382999
     },
     {
       "source": "FXStreet",
@@ -87,13 +157,6 @@
       "ts": 1791381109
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Recovery holds as currency softens – BNY",
-      "link": "https://www.fxstreet.com/news/euro-recovery-holds-as-currency-softens-bny-202610071345",
-      "published": "Wed, 07 Oct 2026 13:45:13 GMT",
-      "ts": 1791380713
-    },
-    {
       "source": "MarketWatch",
       "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
       "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
@@ -115,13 +178,6 @@
       "ts": 1791380220
     },
     {
-      "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 13:30:00 GMT",
-      "ts": 1791379800
-    },
-    {
       "source": "CoinDesk",
       "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
       "link": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
@@ -129,46 +185,11 @@
       "ts": 1791379254
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Funding appeal eroded by BoJ hikes – Rabobank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-funding-appeal-eroded-by-boj-hikes-rabobank-202610071318",
-      "published": "Wed, 07 Oct 2026 13:18:51 GMT",
-      "ts": 1791379131
-    },
-    {
-      "source": "FXStreet",
-      "title": "Hungarian Forint: HUF strength and euro adoption outlook – Societe Generale",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-huf-strength-and-euro-adoption-outlook-societe-generale-202610071310",
-      "published": "Wed, 07 Oct 2026 13:10:34 GMT",
-      "ts": 1791378634
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 13:07:40 +0000",
       "ts": 1791378460
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swedish Krona: Riksbank tightening supports SEK against US Dollar - BBH",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-tightening-supports-sek-against-us-dollar-bbh-202610071259",
-      "published": "Wed, 07 Oct 2026 12:59:42 GMT",
-      "ts": 1791377982
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee: Gradual tightening path after RBI hike – ING",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gradual-tightening-path-after-rbi-hike-ing-202610071250",
-      "published": "Wed, 07 Oct 2026 12:50:08 GMT",
-      "ts": 1791377408
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Range trading persists against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-range-trading-persists-against-us-dollar-uob-202610071241",
-      "published": "Wed, 07 Oct 2026 12:41:19 GMT",
-      "ts": 1791376879
     },
     {
       "source": "CoinDesk",
@@ -255,13 +276,6 @@
       "ts": 1791369503
     },
     {
-      "source": "CoinDesk",
-      "title": "Liquidations jump to $547 million as oil rally hits crypto market",
-      "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
-      "published": "Wed, 07 Oct 2026 10:35:09 +0000",
-      "ts": 1791369309
-    },
-    {
       "source": "Investing Crypto",
       "title": "Sui Sets Record for Highest Verified Throughput Settled to a Blockchain: 40 Million Transactions Per Second",
       "link": "https://www.investing.com/news/cryptocurrency-news/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain-40-million-transactions-per-second-4936094",
@@ -311,13 +325,6 @@
       "ts": 1791365394
     },
     {
-      "source": "CoinDesk",
-      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
-      "link": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
-      "published": "Wed, 07 Oct 2026 09:09:06 +0000",
-      "ts": 1791364146
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/usdinr-tests-record-highs-as-stoploss-orders-trigger-fresh-rally-93CH-4935828",
       "published": "2026-10-07 08:27:44",
       "ts": 1791361664
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Russia clears first crypto exchanges, custodians under new law",
-      "link": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 08:06:35 +0000",
-      "ts": 1791360395
     },
     {
       "source": "Investing Crypto",
