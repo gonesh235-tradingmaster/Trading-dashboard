@@ -1,13 +1,55 @@
 {
-  "updated": "2026-10-07T11:58:36.075088Z",
+  "updated": "2026-10-07T12:25:10.757967Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro extends losing streak against British Pound, hits 16-month low",
+      "link": "https://www.fxstreet.com/news/euro-extends-losing-streak-against-british-pound-hits-16-month-low-202610071217",
+      "published": "Wed, 07 Oct 2026 12:17:56 GMT",
+      "ts": 1791375476
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Slightly weaker bias as fiscal risks grow – DBS",
+      "link": "https://www.fxstreet.com/news/japanese-yen-slightly-weaker-bias-as-fiscal-risks-grow-dbs-202610071215",
+      "published": "Wed, 07 Oct 2026 12:15:45 GMT",
+      "ts": 1791375345
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecasts: XAG/USD drifts toward $60 as precious metals struggle",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-drifts-toward-60-as-precious-metals-struggle-202610071213",
+      "published": "Wed, 07 Oct 2026 12:13:17 GMT",
+      "ts": 1791375197
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Global yield sell-off resumes as U.S. 30-year yield touches 24-year highs",
+      "link": "https://www.investing.com/news/forex-news/french-bond-yields-resume-upward-marchfollowing-brief-relief-rally-4935716",
+      "published": "2026-10-07 12:09:33",
+      "ts": 1791374973
+    },
     {
       "source": "Investing Forex",
       "title": "Factbox-Options for UK finance minister Healey in October 28 budget",
       "link": "https://www.investing.com/news/forex-news/factboxoptions-for-uk-finance-minister-healey-in-october-28-budget-4936440",
-      "published": "2026-10-07 11:54:23",
-      "ts": 1791374063
+      "published": "2026-10-07 12:06:57",
+      "ts": 1791374817
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Political risk weighs but downside seen limited – ABN AMRO",
+      "link": "https://www.fxstreet.com/news/euro-political-risk-weighs-but-downside-seen-limited-abn-amro-202610071206",
+      "published": "Wed, 07 Oct 2026 12:06:34 GMT",
+      "ts": 1791374794
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
+      "link": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
+      "published": "Wed, 07 Oct 2026 11:59:24 +0000",
+      "ts": 1791374364
     },
     {
       "source": "FXStreet",
@@ -81,7 +123,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms buying limit",
+      "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms Bitmine buying limit",
       "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
       "published": "Wed, 07 Oct 2026 11:09:50 +0000",
       "ts": 1791371390
@@ -101,32 +143,11 @@
       "ts": 1791369901
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss Franc retreats further, US Dollar firms up with Fed minutes in focus",
-      "link": "https://www.fxstreet.com/news/swiss-franc-retreats-further-us-dollar-firms-up-with-fed-minutes-in-focus-202610071043",
-      "published": "Wed, 07 Oct 2026 10:43:59 GMT",
-      "ts": 1791369839
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB’s Pereira: No second-round inflation effects at present",
-      "link": "https://www.fxstreet.com/news/ecbs-pereira-no-second-round-inflation-effects-at-present-202610071041",
-      "published": "Wed, 07 Oct 2026 10:41:03 GMT",
-      "ts": 1791369663
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin’s recovery stalls just short of rescuing its last underwater cohort",
       "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
       "published": "Wed, 07 Oct 2026 10:38:23 +0000",
       "ts": 1791369503
-    },
-    {
-      "source": "FXStreet",
-      "title": "Warning signal: Gold's failure at the 200-day moving average puts $3,940 in play",
-      "link": "https://www.fxstreet.com/news/warning-signal-golds-failure-at-the-200-day-moving-average-puts-3-940-in-play-202610071037",
-      "published": "Wed, 07 Oct 2026 10:37:34 GMT",
-      "ts": 1791369454
     },
     {
       "source": "CoinDesk",
@@ -162,13 +183,6 @@
       "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 10:15:00 GMT",
       "ts": 1791368100
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Downside risks build against US Dollar near 158.50 – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-downside-risks-build-against-us-dollar-near-15850-mufg-202610071007",
-      "published": "Wed, 07 Oct 2026 10:07:51 GMT",
-      "ts": 1791367671
     },
     {
       "source": "Investing Forex",
@@ -263,7 +277,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+      "title": "Robinhood adds $25 million of bitcoin to its balance sheet",
       "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
       "published": "Wed, 07 Oct 2026 08:53:27 +0000",
       "ts": 1791363207
@@ -302,13 +316,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
       "published": "Wed, 07 Oct 2026 07:52:22 +0000",
       "ts": 1791359542
-    },
-    {
-      "source": "Investing Forex",
-      "title": "French bond yields resume upward march following brief relief rally",
-      "link": "https://www.investing.com/news/forex-news/french-bond-yields-resume-upward-marchfollowing-brief-relief-rally-4935716",
-      "published": "2026-10-07 07:38:47",
-      "ts": 1791358727
     },
     {
       "source": "Investing Crypto",
@@ -358,13 +365,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
       "published": "Wed, 07 Oct 2026 04:31:14 +0000",
       "ts": 1791347474
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
-      "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
-      "published": "Wed, 07 Oct 2026 04:11:33 +0000",
-      "ts": 1791346293
     },
     {
       "source": "Investing Crypto",
