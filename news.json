@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-07T16:01:03.989643Z",
+  "updated": "2026-10-07T16:33:18.287123Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+      "link": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+      "published": "Wed, 07 Oct 2026 16:30:00 +0000",
+      "ts": 1791390600
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+      "link": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 16:25:38 +0000",
+      "ts": 1791390338
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
+      "link": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 16:06:03 +0000",
+      "ts": 1791389163
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index climbs back near its 18-month high as yields rise",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-climbs-back-near-its-18-month-high-as-yields-rise-202610071542",
+      "published": "Wed, 07 Oct 2026 15:42:47 GMT",
+      "ts": 1791387767
+    },
+    {
+      "source": "FXStreet",
+      "title": "NY Fed September survey shows households bracing for higher prices",
+      "link": "https://www.fxstreet.com/news/ny-fed-survey-of-consumers-shows-households-bracing-for-higher-prices-202610071539",
+      "published": "Wed, 07 Oct 2026 15:39:03 GMT",
+      "ts": 1791387543
+    },
     {
       "source": "CoinTelegraph",
       "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
@@ -15,6 +50,20 @@
       "link": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 15:35:00 GMT",
       "ts": 1791387300
+    },
+    {
+      "source": "FXStreet",
+      "title": "IEA members back faster release of 100 million barrels of Oil stocks",
+      "link": "https://www.fxstreet.com/news/iea-members-back-faster-release-of-100-million-barrels-of-oil-stocks-202610071519",
+      "published": "Wed, 07 Oct 2026 15:19:24 GMT",
+      "ts": 1791386364
+    },
+    {
+      "source": "FXStreet",
+      "title": "Vietnam: Strong GDP but rising inflation risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/vietnam-strong-gdp-but-rising-inflation-risks-commerzbank-202610071518",
+      "published": "Wed, 07 Oct 2026 15:18:39 GMT",
+      "ts": 1791386319
     },
     {
       "source": "CoinDesk",
@@ -101,20 +150,6 @@
       "ts": 1791383109
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Energy risks support USD strength – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-energy-risks-support-usd-strength-bbh-202610071423",
-      "published": "Wed, 07 Oct 2026 14:23:19 GMT",
-      "ts": 1791382999
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar: Political risks weigh against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-political-risks-weigh-against-us-dollar-scotiabank-202610071403",
-      "published": "Wed, 07 Oct 2026 14:03:49 GMT",
-      "ts": 1791381829
-    },
-    {
       "source": "MarketWatch",
       "title": "Loneliness and social isolation can take six years off your life",
       "link": "https://www.marketwatch.com/story/loneliness-and-social-isolation-can-take-six-years-off-your-life-496af256?mod=mw_rss_topstories",
@@ -127,13 +162,6 @@
       "link": "https://www.marketwatch.com/story/microns-ridiculously-cheap-stock-could-triple-from-here-according-to-this-analysts-math-7b9b50bc?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 14:01:00 GMT",
       "ts": 1791381660
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed Minutes set to provide some insight into the timing of next rate hikes",
-      "link": "https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400",
-      "published": "Wed, 07 Oct 2026 14:00:00 GMT",
-      "ts": 1791381600
     },
     {
       "source": "MarketWatch",
@@ -155,13 +183,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
       "published": "2026-10-07 13:52:32",
       "ts": 1791381152
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar loses ground ahead of Fed Minutes",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-loses-ground-ahead-of-fed-minutes-202610071351",
-      "published": "Wed, 07 Oct 2026 13:51:49 GMT",
-      "ts": 1791381109
     },
     {
       "source": "MarketWatch",
@@ -256,7 +277,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
+      "title": "Live updates: Bitcoin edges up from worst levels as yields pull back",
       "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
       "published": "Wed, 07 Oct 2026 11:09:50 +0000",
       "ts": 1791371390
@@ -274,13 +295,6 @@
       "link": "https://www.fxstreet.com/news/gold-falls-as-us-dollar-treasury-yields-rebound-ahead-of-fed-minutes-202610071045",
       "published": "Wed, 07 Oct 2026 10:45:01 GMT",
       "ts": 1791369901
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s recovery stalls just short of rescuing its last underwater cohort",
-      "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
-      "published": "Wed, 07 Oct 2026 10:38:23 +0000",
-      "ts": 1791369503
     },
     {
       "source": "Investing Crypto",
@@ -318,25 +332,11 @@
       "ts": 1791367039
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Crypto liquidations hit $550M as Bitcoin price dips below $84K",
-      "link": "https://cointelegraph.com/markets/crypto-liquidations-hit-550m-as-bitcoin-price-dips-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 09:45:35 +0000",
-      "ts": 1791366335
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro languishes as Indian rupee tests all-time lows; Dollar awaits FOMC minutes",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
       "published": "2026-10-07 09:29:54",
       "ts": 1791365394
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 09:03:38 +0000",
-      "ts": 1791363818
     },
     {
       "source": "Investing Forex",
