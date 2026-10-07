@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-07T17:57:13.513524Z",
+  "updated": "2026-10-07T18:18:03.624352Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+      "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 18:07:00 GMT",
+      "ts": 1791396420
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
+      "link": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 18:00:10 +0000",
+      "ts": 1791396010
+    },
+    {
+      "source": "FXStreet",
+      "title": "Thailand: BoT policy risks balanced – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/thailand-bot-policy-risks-balanced-standard-chartered-202610071751",
+      "published": "Wed, 07 Oct 2026 17:51:23 GMT",
+      "ts": 1791395483
+    },
     {
       "source": "CoinTelegraph",
       "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
@@ -15,6 +36,13 @@
       "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 17:45:00 GMT",
       "ts": 1791395100
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound buckles as 30-year Gilts top 6%, US yields soar",
+      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-30-year-gilts-tops-6-us-yields-soar-202610071736",
+      "published": "Wed, 07 Oct 2026 17:36:47 GMT",
+      "ts": 1791394607
     },
     {
       "source": "MarketWatch",
@@ -136,20 +164,6 @@
       "ts": 1791385183
     },
     {
-      "source": "FXStreet",
-      "title": "US Treasury yields hit 24-year highs as 10-year tests 5.35%",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-hit-24-year-highs-as-10-year-tests-535-202610071450",
-      "published": "Wed, 07 Oct 2026 14:50:38 GMT",
-      "ts": 1791384638
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Safe haven status versus funding role – Rabobank",
-      "link": "https://www.fxstreet.com/news/swiss-franc-safe-haven-status-versus-funding-role-rabobank-202610071447",
-      "published": "Wed, 07 Oct 2026 14:47:16 GMT",
-      "ts": 1791384436
-    },
-    {
       "source": "MarketWatch",
       "title": "Should I put my nest egg in a 30-year Treasury bond?",
       "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
@@ -185,15 +199,8 @@
       "ts": 1791381660
     },
     {
-      "source": "MarketWatch",
-      "title": "Micron’s ridiculously cheap stock could triple from here, according to this analyst’s math",
-      "link": "https://www.marketwatch.com/story/microns-ridiculously-cheap-stock-could-triple-from-here-according-to-this-analysts-math-7b9b50bc?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 14:01:00 GMT",
-      "ts": 1791381660
-    },
-    {
       "source": "FXStreet",
-      "title": "Markets await the Fed Minutes release with all eyes on December’s meeting",
+      "title": "Breaking: Fed Minutes confirm another rate hike was already in sight",
       "link": "https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400",
       "published": "Wed, 07 Oct 2026 14:00:00 GMT",
       "ts": 1791381600
@@ -316,13 +323,6 @@
       "link": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 10:26:55 +0000",
       "ts": 1791368815
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO",
-      "link": "https://cointelegraph.com/news/wall-street-wealth-creation-unsustainable-hyperliquid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 10:19:27 +0000",
-      "ts": 1791368367
     },
     {
       "source": "Investing Forex",
