@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-07T03:13:16.500010Z",
+  "updated": "2026-10-07T03:33:41.824298Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar resumes decline against US Dollar ahead of FOMC minutes",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-resumes-decline-against-us-dollar-ahead-of-fomc-minutes-202610070323",
+      "published": "Wed, 07 Oct 2026 03:23:54 GMT",
+      "ts": 1791343434
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar holds losses below 0.7000 ahead of FOMC Minutes",
@@ -74,7 +81,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "RBI is set to break status-quo with a 25 bps Repo Rate hike to 5.5%",
+      "title": "RBI expected to kick off rate-hike cycle with 25 bps move",
       "link": "https://www.fxstreet.com/news/rbi-looks-set-to-step-up-repo-rate-by-25-bps-to-55-202610070030",
       "published": "Wed, 07 Oct 2026 00:30:00 GMT",
       "ts": 1791333000
@@ -85,13 +92,6 @@
       "link": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 00:01:40 +0000",
       "ts": 1791331300
-    },
-    {
-      "source": "FXStreet",
-      "title": "US VP Vance says Iran must reduce nuclear enrichment capacity to end war",
-      "link": "https://www.fxstreet.com/news/us-vp-vance-says-iran-must-reduce-nuclear-enrichment-capacity-to-end-war-202610062353",
-      "published": "Tue, 06 Oct 2026 23:53:43 GMT",
-      "ts": 1791330823
     },
     {
       "source": "MarketWatch",
