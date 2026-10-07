@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-07T08:44:39.179760Z",
+  "updated": "2026-10-07T09:00:17.524617Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+      "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+      "published": "Wed, 07 Oct 2026 08:53:27 +0000",
+      "ts": 1791363207
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BitMine sets 5% Ether supply ‘hard cap’ as accumulation target nears",
+      "link": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 08:50:02 +0000",
+      "ts": 1791363002
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen edges up from lows amid hawkish comments from  BoJ’s Sato",
+      "link": "https://www.fxstreet.com/news/japanese-yen-edges-up-from-lows-amid-hawkish-comments-from-bojs-sato-202610070849",
+      "published": "Wed, 07 Oct 2026 08:49:11 GMT",
+      "ts": 1791362951
+    },
     {
       "source": "FXStreet",
       "title": "Dow Jones futures fall as US Treasury yields rebound ahead of FOMC Minutes",
@@ -10,11 +31,32 @@
       "ts": 1791362613
     },
     {
+      "source": "Investing Forex",
+      "title": "Deutsche Bank says weakness in Swedish krona is due to fundamentals",
+      "link": "https://www.investing.com/news/forex-news/deutsche-bank-says-weakness-in-swedish-krona-is-due-to-fundamentals-93CH-4935861",
+      "published": "2026-10-07 08:38:55",
+      "ts": 1791362335
+    },
+    {
       "source": "FXStreet",
       "title": "Czech Koruna: CNB path lifted on inflation risks – Standard Chartered",
       "link": "https://www.fxstreet.com/news/czech-koruna-cnb-path-lifted-on-inflation-risks-standard-chartered-202610070835",
       "published": "Wed, 07 Oct 2026 08:35:10 GMT",
       "ts": 1791362110
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Iraq devalues dinar to 1,520 per US dollar, state news agency says",
+      "link": "https://www.investing.com/news/forex-news/iraq-devalues-dinar-to-1520-per-us-dollar-state-news-agency-says-4935843",
+      "published": "2026-10-07 08:30:26",
+      "ts": 1791361826
+    },
+    {
+      "source": "Investing Forex",
+      "title": "USD/INR tests record highs as stop-loss orders trigger fresh rally",
+      "link": "https://www.investing.com/news/forex-news/usdinr-tests-record-highs-as-stoploss-orders-trigger-fresh-rally-93CH-4935828",
+      "published": "2026-10-07 08:27:44",
+      "ts": 1791361664
     },
     {
       "source": "FXStreet",
@@ -92,13 +134,6 @@
       "link": "https://www.investing.com/news/forex-news/french-bond-yields-resume-upward-marchfollowing-brief-relief-rally-4935716",
       "published": "2026-10-07 07:38:47",
       "ts": 1791358727
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold: Central banks keep buying – ING",
-      "link": "https://www.fxstreet.com/news/gold-central-banks-keep-buying-ing-202610070730",
-      "published": "Wed, 07 Oct 2026 07:30:52 GMT",
-      "ts": 1791358252
     },
     {
       "source": "Investing Crypto",
@@ -318,13 +353,6 @@
       "ts": 1791312992
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
-      "link": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 18:19:35 +0000",
-      "ts": 1791310775
-    },
-    {
       "source": "CoinDesk",
       "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
       "link": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
@@ -367,13 +395,6 @@
       "ts": 1791291753
     },
     {
-      "source": "CoinDesk",
-      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-      "link": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
-      "published": "Tue, 06 Oct 2026 12:31:51 +0000",
-      "ts": 1791289911
-    },
-    {
       "source": "Investing Forex",
       "title": "Treasuries and Bunds gain as safe-haven flows shadow French fiscal woes",
       "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
@@ -395,32 +416,11 @@
       "ts": 1791280834
     },
     {
-      "source": "Investing Forex",
-      "title": "Morgan Stanley bets against pound ahead of U.K. budget",
-      "link": "https://www.investing.com/news/forex-news/morgan-stanley-bets-against-pound-ahead-of-uk-budget-4933608",
-      "published": "2026-10-06 08:27:47",
-      "ts": 1791275267
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound steady as firm dollar caps gains",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-firm-dollar-caps-gains-4933601",
-      "published": "2026-10-06 08:15:17",
-      "ts": 1791274517
-    },
-    {
       "source": "Investing Crypto",
       "title": "Changer+ Launches Stablecoin-First Self-Custodial Wallet to Make Stablecoins Easier to Use",
       "link": "https://www.investing.com/news/cryptocurrency-news/changer-launches-stablecoinfirst-selfcustodial-wallet-to-make-stablecoins-easier-to-use-4933317",
       "published": "2026-10-06 03:30:10",
       "ts": 1791257410
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro faces political, fiscal reckoning as it hovers near 17-month low",
-      "link": "https://www.investing.com/news/forex-news/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17month-low-4933206",
-      "published": "2026-10-06 01:18:22",
-      "ts": 1791249502
     }
   ]
 }
