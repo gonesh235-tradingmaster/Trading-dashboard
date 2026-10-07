@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-07T01:32:09.559851Z",
+  "updated": "2026-10-07T01:55:55.865290Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar edges lower on reviving USD demand; recovering oil prices limit losses",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-edges-lower-on-reviving-usd-demand-recovering-oil-prices-limit-losses-202610070155",
+      "published": "Wed, 07 Oct 2026 01:55:02 GMT",
+      "ts": 1791338102
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "BTCC Exchange Launches Refreshed Trust Center: Alex Hung on 15 Years of Earning Traders’ Trust",
+      "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-launches-refreshed-trust-center-alex-hung-on-15-years-of-earning-traders-trust-4935518",
+      "published": "2026-10-07 01:30:09",
+      "ts": 1791336609
+    },
     {
       "source": "FXStreet",
       "title": "WTI rises to near $89.50 as Middle East supply threats offset Persian Gulf recovery",
@@ -78,13 +92,6 @@
       "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 22:54:00 GMT",
       "ts": 1791327240
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Japanese Yen flatlines through a BoJ speech that changed nothing",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-flatlines-through-a-boj-speech-that-changed-nothing-202610062233",
-      "published": "Tue, 06 Oct 2026 22:33:32 GMT",
-      "ts": 1791326012
     },
     {
       "source": "MarketWatch",
@@ -405,13 +412,6 @@
       "source": "Investing Crypto",
       "title": "Eden Labs Raises $1.5M to Build Personal AI That Works for Everyone",
       "link": "https://www.investing.com/news/cryptocurrency-news/eden-labs-raises-15m-to-build-personal-ai-that-works-for-everyone-4932634",
-      "published": "2026-10-05 17:00:17",
-      "ts": 1791219617
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Stockhunt Unveils CoinIQ, an AI-Powered Self-Custody DEX, at TOKEN2049 Singapore",
-      "link": "https://www.investing.com/news/cryptocurrency-news/stockhunt-unveils-coiniq-an-aipowered-selfcustody-dex-at-token2049-singapore-4932635",
       "published": "2026-10-05 17:00:17",
       "ts": 1791219617
     },
