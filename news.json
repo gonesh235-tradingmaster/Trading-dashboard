@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-07T09:57:33.598238Z",
+  "updated": "2026-10-07T10:16:45.937615Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 10:15:00 GMT",
+      "ts": 1791368100
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Downside risks build against US Dollar near 158.50 – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-downside-risks-build-against-us-dollar-near-15850-mufg-202610071007",
+      "published": "Wed, 07 Oct 2026 10:07:51 GMT",
+      "ts": 1791367671
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Near-term upside questioned – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-near-term-upside-questioned-ocbc-202610071000",
+      "published": "Wed, 07 Oct 2026 10:00:39 GMT",
+      "ts": 1791367239
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "‘Old money’ has stronger Bitcoin ‘diamond hands,’ says BingX exec",
+      "link": "https://cointelegraph.com/news/bingx-old-money-bitcoin-diamond-hands-token2049?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 09:57:19 +0000",
+      "ts": 1791367039
+    },
     {
       "source": "FXStreet",
       "title": "Gold Price Forecast: XAU/USD retraces gains and nears two-month lows at $4,104",
@@ -129,25 +157,11 @@
       "ts": 1791363818
     },
     {
-      "source": "FXStreet",
-      "title": "Euro tumbles after a relief rally as ECB officials warn economic slowdown",
-      "link": "https://www.fxstreet.com/news/euro-tumbles-after-a-relief-rally-as-ecb-officials-warn-economic-slowdown-202610070901",
-      "published": "Wed, 07 Oct 2026 09:01:12 GMT",
-      "ts": 1791363672
-    },
-    {
       "source": "MarketWatch",
       "title": "A Laguna Beach gem renovated by Diane Keaton is up for grabs for $10.3 million",
       "link": "https://www.marketwatch.com/story/a-laguna-beach-gem-renovated-by-diane-keaton-is-up-for-grabs-for-10-3-million-8e6e1927?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 09:01:00 GMT",
       "ts": 1791363660
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound stays weak below 1.3250 as USD bulls retain control ahead of FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/british-pound-stays-weak-below-13250-as-usd-bulls-retain-control-ahead-of-fomc-minutes-202610070900",
-      "published": "Wed, 07 Oct 2026 09:00:48 GMT",
-      "ts": 1791363648
     },
     {
       "source": "CoinDesk",
@@ -318,13 +332,6 @@
       "ts": 1791331300
     },
     {
-      "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 22:54:00 GMT",
-      "ts": 1791327240
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin dips as oil turns higher, countering bond rout halt and regulatory hopes",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
@@ -337,13 +344,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
       "published": "2026-10-06 21:06:19",
       "ts": 1791320779
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
-      "link": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 21:00:44 +0000",
-      "ts": 1791320444
     },
     {
       "source": "Investing Forex",
