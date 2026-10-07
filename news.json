@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-07T02:32:26.992783Z",
+  "updated": "2026-10-07T02:56:11.328122Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index retakes 102.00 as bulls eye YTD peak ahead of FOMC Minutes",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-retakes-10200-as-bulls-eye-ytd-peak-ahead-of-fomc-minutes-202610070234",
+      "published": "Wed, 07 Oct 2026 02:34:32 GMT",
+      "ts": 1791340472
+    },
     {
       "source": "FXStreet",
       "title": "British Pound weakens as US Dollar advances ahead of FOMC Meeting Minutes",
@@ -85,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/bojs-sato-signals-support-for-future-rate-hikes-202610062346",
       "published": "Tue, 06 Oct 2026 23:46:35 GMT",
       "ts": 1791330395
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Pound climbs against the Japanese Yen as the BoJ gives no hike signal",
-      "link": "https://www.fxstreet.com/news/the-pound-climbs-against-the-japanese-yen-as-the-boj-gives-no-hike-signal-202610062329",
-      "published": "Tue, 06 Oct 2026 23:29:57 GMT",
-      "ts": 1791329397
     },
     {
       "source": "MarketWatch",
