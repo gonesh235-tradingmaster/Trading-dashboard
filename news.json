@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-07T07:56:56.276616Z",
+  "updated": "2026-10-07T08:16:31.390987Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
+      "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 08:07:00 GMT",
+      "ts": 1791360420
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Russia clears first crypto exchanges, custodians under new law",
+      "link": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 08:06:35 +0000",
+      "ts": 1791360395
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Losses seem capped against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-losses-seem-capped-against-us-dollar-uob-202610070805",
+      "published": "Wed, 07 Oct 2026 08:05:55 GMT",
+      "ts": 1791360355
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A popular tech fund is now overbought. That’s no reason to sell, history shows.",
+      "link": "https://www.marketwatch.com/story/a-popular-tech-fund-is-now-overbought-thats-no-reason-to-sell-history-shows-d998aab3?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 08:01:00 GMT",
+      "ts": 1791360060
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD ticks lower to near $60.60 as US bond yields bounce back",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-ticks-lower-to-near-6060-as-us-bond-yields-bounce-back-202610070758",
+      "published": "Wed, 07 Oct 2026 07:58:08 GMT",
+      "ts": 1791359888
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar declines as US Dollar strengthens on rising Treasury yields",
@@ -29,6 +64,13 @@
       "link": "https://www.fxstreet.com/news/us-dollar-lower-yields-pressure-usd-as-december-hike-looms-rabobank-202610070746",
       "published": "Wed, 07 Oct 2026 07:46:58 GMT",
       "ts": 1791359218
+    },
+    {
+      "source": "Investing Forex",
+      "title": "French bond yields resume upward march following brief relief rally",
+      "link": "https://www.investing.com/news/forex-news/french-bond-yields-resume-upward-marchfollowing-brief-relief-rally-4935716",
+      "published": "2026-10-07 07:38:47",
+      "ts": 1791358727
     },
     {
       "source": "FXStreet",
@@ -94,13 +136,6 @@
       "ts": 1791356766
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar loses ground ahead of FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-loses-ground-ahead-of-fomc-minutes-202610070701",
-      "published": "Wed, 07 Oct 2026 07:01:50 GMT",
-      "ts": 1791356510
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin drops to $84k amid pressure from rising oil prices, yields",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
@@ -134,13 +169,6 @@
       "link": "https://www.fxstreet.com/news/usd-inr-remains-broadly-muted-after-rbis-25-bps-hike-in-repo-rates-to-55-202610070441",
       "published": "Wed, 07 Oct 2026 04:41:23 GMT",
       "ts": 1791348083
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold struggles below $4,150 as USD bulls look to FOMC Minutes for rate hike cues",
-      "link": "https://www.fxstreet.com/news/gold-weakens-amid-renewed-usd-strength-and-higher-bond-yields-ahead-of-fomc-minutes-202610070432",
-      "published": "Wed, 07 Oct 2026 04:32:05 GMT",
-      "ts": 1791347525
     },
     {
       "source": "CoinDesk",
@@ -283,13 +311,6 @@
       "ts": 1791314340
     },
     {
-      "source": "MarketWatch",
-      "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
-      "link": "https://www.marketwatch.com/story/trump-waives-rules-on-red-dyed-diesel-but-local-tax-and-other-concerns-remain-f6b448c8?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 19:14:00 GMT",
-      "ts": 1791314040
-    },
-    {
       "source": "Investing Forex",
       "title": "Mexico to focus on local currency debt, says finance minister",
       "link": "https://www.investing.com/news/forex-news/mexico-to-focus-on-local-currency-debt-says-finance-minister-93CH-4935092",
@@ -297,25 +318,11 @@
       "ts": 1791312992
     },
     {
-      "source": "MarketWatch",
-      "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
-      "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 18:39:00 GMT",
-      "ts": 1791311940
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
       "link": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 18:19:35 +0000",
       "ts": 1791310775
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bill aims at stopping US lawmaker bets on their own elections ahead of midterms",
-      "link": "https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 17:59:32 +0000",
-      "ts": 1791309572
     },
     {
       "source": "CoinDesk",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17month-low-4933206",
       "published": "2026-10-06 01:18:22",
       "ts": 1791249502
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. dollar ticks up as euro hits nearly 17-month low on France fiscal fears",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
-      "published": "2026-10-05 20:59:37",
-      "ts": 1791233977
     }
   ]
 }
