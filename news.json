@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-07T08:16:31.390987Z",
+  "updated": "2026-10-07T08:44:39.179760Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures fall as US Treasury yields rebound ahead of FOMC Minutes",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-fall-as-us-treasury-yields-rebound-ahead-of-fomc-minutes-202610070843",
+      "published": "Wed, 07 Oct 2026 08:43:33 GMT",
+      "ts": 1791362613
+    },
+    {
+      "source": "FXStreet",
+      "title": "Czech Koruna: CNB path lifted on inflation risks – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/czech-koruna-cnb-path-lifted-on-inflation-risks-standard-chartered-202610070835",
+      "published": "Wed, 07 Oct 2026 08:35:10 GMT",
+      "ts": 1791362110
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro falls against Canadian Dollar as surging oil prices overpower strong German data",
+      "link": "https://www.fxstreet.com/news/euro-falls-against-canadian-dollar-as-surging-oil-prices-overpower-strong-german-data-202610070820",
+      "published": "Wed, 07 Oct 2026 08:20:06 GMT",
+      "ts": 1791361206
+    },
     {
       "source": "MarketWatch",
       "title": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
@@ -94,20 +115,6 @@
       "ts": 1791358102
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/GBP Price Forecast: Rejection at 0.8500 leaves yearly low at 0.8455 exposed",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-rejection-at-08500-leaves-yearly-low-at-08455-exposed-202610070727",
-      "published": "Wed, 07 Oct 2026 07:27:33 GMT",
-      "ts": 1791358053
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Fiscal concerns limit recovery against US Dollar - Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-fiscal-concerns-limit-recovery-against-us-dollar-commerzbank-202610070718",
-      "published": "Wed, 07 Oct 2026 07:18:05 GMT",
-      "ts": 1791357485
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips below Ichimoku cloud near $84,232: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
@@ -127,13 +134,6 @@
       "link": "https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 07:08:00 GMT",
       "ts": 1791356880
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Upside capped near 1.3315 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-upside-capped-near-13315-against-us-dollar-uob-202610070706",
-      "published": "Wed, 07 Oct 2026 07:06:06 GMT",
-      "ts": 1791356766
     },
     {
       "source": "Investing Crypto",
@@ -165,10 +165,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Indian Rupee hits fresh four-month low, RBI hikes Repo Rate to 5.5%",
-      "link": "https://www.fxstreet.com/news/usd-inr-remains-broadly-muted-after-rbis-25-bps-hike-in-repo-rates-to-55-202610070441",
-      "published": "Wed, 07 Oct 2026 04:41:23 GMT",
-      "ts": 1791348083
+      "title": "Gold seems vulnerable near two-month low amid bullish USD; focus remains on FOMC Minutes",
+      "link": "https://www.fxstreet.com/news/gold-weakens-amid-renewed-usd-strength-and-higher-bond-yields-ahead-of-fomc-minutes-202610070432",
+      "published": "Wed, 07 Oct 2026 04:32:05 GMT",
+      "ts": 1791347525
     },
     {
       "source": "CoinDesk",
