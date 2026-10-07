@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-07T05:11:37.365724Z",
+  "updated": "2026-10-07T05:31:39.452021Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Clings to gains near 158.50, over one-week top amid firmer USD",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-clings-to-gains-near-15850-over-one-week-top-amid-firmer-usd-202610070530",
+      "published": "Wed, 07 Oct 2026 05:30:05 GMT",
+      "ts": 1791351005
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc declines ahead of release of Foreign Currency Reserves data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-declines-ahead-of-release-of-foreign-currency-reserves-data-202610070516",
+      "published": "Wed, 07 Oct 2026 05:16:59 GMT",
+      "ts": 1791350219
+    },
     {
       "source": "CoinTelegraph",
       "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
@@ -87,20 +101,6 @@
       "ts": 1791345074
     },
     {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar resumes decline against US Dollar ahead of FOMC minutes",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-resumes-decline-against-us-dollar-ahead-of-fomc-minutes-202610070323",
-      "published": "Wed, 07 Oct 2026 03:23:54 GMT",
-      "ts": 1791343434
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar holds losses below 0.7000 ahead of FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-losses-below-07000-ahead-of-fomc-minutes-202610070306",
-      "published": "Wed, 07 Oct 2026 03:06:08 GMT",
-      "ts": 1791342368
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
       "link": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -169,13 +169,6 @@
       "link": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 20:53:19 +0000",
       "ts": 1791319999
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 20:48:12 +0000",
-      "ts": 1791319692
     },
     {
       "source": "Investing Forex",
@@ -288,6 +281,13 @@
       "link": "https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 17:30:18 +0000",
       "ts": 1791307818
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
+      "link": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 17:19:58 +0000",
+      "ts": 1791307198
     },
     {
       "source": "CoinDesk",
