@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-07T03:57:04.976559Z",
+  "updated": "2026-10-07T04:15:20.010956Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+      "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+      "published": "Wed, 07 Oct 2026 04:11:33 +0000",
+      "ts": 1791346293
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: More downside likely below 1.1160",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-more-downside-likely-below-11160-202610070408",
+      "published": "Wed, 07 Oct 2026 04:08:04 GMT",
+      "ts": 1791346084
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD remains below $61.00 as oil prices surge",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-below-6100-as-oil-prices-surge-202610070404",
+      "published": "Wed, 07 Oct 2026 04:04:55 GMT",
+      "ts": 1791345895
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+      "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+      "published": "Wed, 07 Oct 2026 04:00:51 +0000",
+      "ts": 1791345651
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar holds gains, yen weakens near 158",
@@ -71,20 +99,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-launches-refreshed-trust-center-alex-hung-on-15-years-of-earning-traders-trust-4935518",
       "published": "2026-10-07 01:30:09",
       "ts": 1791336609
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI rises to near $89.50 amid Middle East concerns, US storm threats",
-      "link": "https://www.fxstreet.com/news/wti-rises-to-near-8950-as-middle-east-supply-threats-offset-persian-gulf-recovery-202610070109",
-      "published": "Wed, 07 Oct 2026 01:09:09 GMT",
-      "ts": 1791335349
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro weakens below 1.1250 on France’s debt fears",
-      "link": "https://www.fxstreet.com/news/euro-weakens-below-11250-on-frances-debt-fears-202610070047",
-      "published": "Wed, 07 Oct 2026 00:47:46 GMT",
-      "ts": 1791334066
     },
     {
       "source": "FXStreet",
@@ -358,20 +372,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/beldex-introduces-confidential-assets-for-privacypreserving-tokens-on-testnet-4933778",
       "published": "2026-10-06 10:00:34",
       "ts": 1791280834
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
-      "link": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
-      "published": "Tue, 06 Oct 2026 09:25:36 +0000",
-      "ts": 1791278736
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
-      "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
-      "published": "Tue, 06 Oct 2026 09:02:01 +0000",
-      "ts": 1791277321
     },
     {
       "source": "Investing Forex",
