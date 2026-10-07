@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-07T20:10:58.625180Z",
+  "updated": "2026-10-07T20:30:34.858069Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD cracks $60 as bears eye $56",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-cracks-60-as-bears-eye-56-202610072011",
+      "published": "Wed, 07 Oct 2026 20:11:09 GMT",
+      "ts": 1791403869
+    },
     {
       "source": "FXStreet",
       "title": "South Korean Won: Upside risks with key levels in focus against US Dollar – OCBC",
@@ -162,13 +169,6 @@
       "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 17:27:00 GMT",
       "ts": 1791394020
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Pair consolidates below key moving averages",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-pair-consolidates-below-key-moving-averages-202610071705",
-      "published": "Wed, 07 Oct 2026 17:05:13 GMT",
-      "ts": 1791392713
     },
     {
       "source": "CoinDesk",
