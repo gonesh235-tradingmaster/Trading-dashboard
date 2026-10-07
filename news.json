@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-07T10:16:45.937615Z",
+  "updated": "2026-10-07T10:43:24.194538Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "ECB’s Pereira: No second-round inflation effects at present",
+      "link": "https://www.fxstreet.com/news/ecbs-pereira-no-second-round-inflation-effects-at-present-202610071041",
+      "published": "Wed, 07 Oct 2026 10:41:03 GMT",
+      "ts": 1791369663
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s recovery stalls just short of rescuing its last underwater cohort",
+      "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
+      "published": "Wed, 07 Oct 2026 10:38:23 +0000",
+      "ts": 1791369503
+    },
+    {
+      "source": "FXStreet",
+      "title": "Warning signal: Gold's failure at the 200-day moving average puts $3,940 in play",
+      "link": "https://www.fxstreet.com/news/warning-signal-golds-failure-at-the-200-day-moving-average-puts-3-940-in-play-202610071037",
+      "published": "Wed, 07 Oct 2026 10:37:34 GMT",
+      "ts": 1791369454
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+      "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+      "published": "Wed, 07 Oct 2026 10:35:09 +0000",
+      "ts": 1791369309
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Sui Sets Record for Highest Verified Throughput Settled to a Blockchain: 40 Million Transactions Per Second",
+      "link": "https://www.investing.com/news/cryptocurrency-news/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain-40-million-transactions-per-second-4936094",
+      "published": "2026-10-07 10:30:10",
+      "ts": 1791369010
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump-backed WLFI plans USD1 payments for online businesses",
+      "link": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 10:26:55 +0000",
+      "ts": 1791368815
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Elon Musk and Intel CEO shore up chipmaker’s role in Terafab project — and here’s what the news is doing to the stock.",
+      "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 10:24:00 GMT",
+      "ts": 1791368640
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO",
+      "link": "https://cointelegraph.com/news/wall-street-wealth-creation-unsustainable-hyperliquid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 10:19:27 +0000",
+      "ts": 1791368367
+    },
     {
       "source": "MarketWatch",
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -15,6 +71,13 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-downside-risks-build-against-us-dollar-near-15850-mufg-202610071007",
       "published": "Wed, 07 Oct 2026 10:07:51 GMT",
       "ts": 1791367671
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Iraq devalues dinar to 1,520 per US dollar, state news agency says",
+      "link": "https://www.investing.com/news/forex-news/iraq-devalues-dinar-to-1520-per-us-dollar-state-news-agency-says-4935843",
+      "published": "2026-10-07 10:00:53",
+      "ts": 1791367253
     },
     {
       "source": "FXStreet",
@@ -136,13 +199,6 @@
       "ts": 1791363958
     },
     {
-      "source": "FXStreet",
-      "title": "Polish Zloty: NBP cautious as inflation overshoots – Commerzbank",
-      "link": "https://www.fxstreet.com/news/polish-zloty-nbp-cautious-as-inflation-overshoots-commerzbank-202610070905",
-      "published": "Wed, 07 Oct 2026 09:05:20 GMT",
-      "ts": 1791363920
-    },
-    {
       "source": "MarketWatch",
       "title": "Josh Brolin sells Atlanta-area mansion for $4 million after slashing price",
       "link": "https://www.marketwatch.com/story/josh-brolin-sells-atlanta-area-mansion-for-4-million-after-slashing-price-52561a89?mod=mw_rss_topstories",
@@ -186,13 +242,6 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Iraq devalues dinar to 1,520 per US dollar, state news agency says",
-      "link": "https://www.investing.com/news/forex-news/iraq-devalues-dinar-to-1520-per-us-dollar-state-news-agency-says-4935843",
-      "published": "2026-10-07 08:30:26",
-      "ts": 1791361826
-    },
-    {
-      "source": "Investing Forex",
       "title": "USD/INR tests record highs as stop-loss orders trigger fresh rally",
       "link": "https://www.investing.com/news/forex-news/usdinr-tests-record-highs-as-stoploss-orders-trigger-fresh-rally-93CH-4935828",
       "published": "2026-10-07 08:27:44",
@@ -200,7 +249,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
+      "title": "Meta’s stock sees a golden cross as shares thrive since Muse introduction",
       "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 08:07:00 GMT",
       "ts": 1791360420
@@ -255,13 +304,6 @@
       "ts": 1791357059
     },
     {
-      "source": "MarketWatch",
-      "title": "How one trend-following fund outperformed rivals by bringing humans back into the decision-making process",
-      "link": "https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 07:08:00 GMT",
-      "ts": 1791356880
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -281,13 +323,6 @@
       "link": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 04:57:54 +0000",
       "ts": 1791349074
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee approaches all-time low around 97 after RBI's hawkish policy decision",
-      "link": "https://www.fxstreet.com/news/usd-inr-remains-broadly-muted-after-rbis-25-bps-hike-in-repo-rates-to-55-202610070441",
-      "published": "Wed, 07 Oct 2026 04:41:23 GMT",
-      "ts": 1791348083
     },
     {
       "source": "CoinDesk",
@@ -311,25 +346,11 @@
       "ts": 1791345651
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
-      "link": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 01:48:53 +0000",
-      "ts": 1791337733
-    },
-    {
       "source": "Investing Crypto",
       "title": "BTCC Exchange Launches Refreshed Trust Center: Alex Hung on 15 Years of Earning Traders’ Trust",
       "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-launches-refreshed-trust-center-alex-hung-on-15-years-of-earning-traders-trust-4935518",
       "published": "2026-10-07 01:30:09",
       "ts": 1791336609
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
-      "link": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 00:01:40 +0000",
-      "ts": 1791331300
     },
     {
       "source": "Investing Crypto",
@@ -374,20 +395,6 @@
       "ts": 1791306000
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto is expanding the boundaries of what can be priced",
-      "link": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
-      "published": "Tue, 06 Oct 2026 16:50:26 +0000",
-      "ts": 1791305426
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-      "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-      "published": "Tue, 06 Oct 2026 15:20:30 +0000",
-      "ts": 1791300030
-    },
-    {
       "source": "Investing Crypto",
       "title": "New Generation of Crypto Miners Released by ASICID",
       "link": "https://www.investing.com/news/cryptocurrency-news/new-generation-of-crypto-miners-released-by-asicid-4934907",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/beldex-introduces-confidential-assets-for-privacypreserving-tokens-on-testnet-4933778",
       "published": "2026-10-06 10:00:34",
       "ts": 1791280834
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Changer+ Launches Stablecoin-First Self-Custodial Wallet to Make Stablecoins Easier to Use",
-      "link": "https://www.investing.com/news/cryptocurrency-news/changer-launches-stablecoinfirst-selfcustodial-wallet-to-make-stablecoins-easier-to-use-4933317",
-      "published": "2026-10-06 03:30:10",
-      "ts": 1791257410
     }
   ]
 }
