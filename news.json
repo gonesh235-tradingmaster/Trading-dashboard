@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-07T17:06:08.471819Z",
+  "updated": "2026-10-07T17:31:35.963977Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 17:27:00 GMT",
+      "ts": 1791394020
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Pair consolidates below key moving averages",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-pair-consolidates-below-key-moving-averages-202610071705",
+      "published": "Wed, 07 Oct 2026 17:05:13 GMT",
+      "ts": 1791392713
+    },
     {
       "source": "MarketWatch",
       "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
@@ -122,13 +136,6 @@
       "ts": 1791383640
     },
     {
-      "source": "FXStreet",
-      "title": "Gold: Dip buying case builds into 2027 – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-dip-buying-case-builds-into-2027-td-securities-202610071432",
-      "published": "Wed, 07 Oct 2026 14:32:48 GMT",
-      "ts": 1791383568
-    },
-    {
       "source": "MarketWatch",
       "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
       "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
@@ -150,20 +157,6 @@
       "ts": 1791383257
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar declines as RBA hike bets fade, US yields climb ahead Fed Minutes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-as-rba-hike-bets-fade-us-yields-climb-ahead-fed-minutes-202610071425",
-      "published": "Wed, 07 Oct 2026 14:25:09 GMT",
-      "ts": 1791383109
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Energy risks support USD strength – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-energy-risks-support-usd-strength-bbh-202610071423",
-      "published": "Wed, 07 Oct 2026 14:23:19 GMT",
-      "ts": 1791382999
-    },
-    {
       "source": "MarketWatch",
       "title": "Loneliness and social isolation can take six years off your life",
       "link": "https://www.marketwatch.com/story/loneliness-and-social-isolation-can-take-six-years-off-your-life-496af256?mod=mw_rss_topstories",
@@ -176,6 +169,13 @@
       "link": "https://www.marketwatch.com/story/microns-ridiculously-cheap-stock-could-triple-from-here-according-to-this-analysts-math-7b9b50bc?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 14:01:00 GMT",
       "ts": 1791381660
+    },
+    {
+      "source": "FXStreet",
+      "title": "Markets await the Fed Minutes release with all eyes on December’s meeting",
+      "link": "https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400",
+      "published": "Wed, 07 Oct 2026 14:00:00 GMT",
+      "ts": 1791381600
     },
     {
       "source": "MarketWatch",
@@ -204,13 +204,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-dips-on-firm-dollar-eurgbp-at-16month-low-4935921",
       "published": "2026-10-07 13:42:09",
       "ts": 1791380529
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
-      "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 13:37:00 GMT",
-      "ts": 1791380220
     },
     {
       "source": "CoinDesk",
@@ -295,6 +288,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-as-iran-attacks-oil-surge-fuel-rate-fears-crypto-stocks-slip-4936200",
       "published": "2026-10-07 10:52:38",
       "ts": 1791370358
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
+      "link": "https://www.fxstreet.com/news/gold-falls-as-us-dollar-treasury-yields-rebound-ahead-of-fed-minutes-202610071045",
+      "published": "Wed, 07 Oct 2026 10:45:01 GMT",
+      "ts": 1791369901
     },
     {
       "source": "Investing Crypto",
