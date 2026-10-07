@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-07T05:31:39.452021Z",
+  "updated": "2026-10-07T05:56:30.123587Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Flatlines below 110.50, while technicals signal lingering bearish bias",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-flatlines-below-11050-while-technicals-signal-lingering-bearish-bias-202610070552",
+      "published": "Wed, 07 Oct 2026 05:52:11 GMT",
+      "ts": 1791352331
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah holds losses as Foreign Reserves slip in September",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-losses-as-foreign-reserves-slip-in-september-202610070541",
+      "published": "Wed, 07 Oct 2026 05:41:10 GMT",
+      "ts": 1791351670
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Downside pressure could intensify below 1.3180",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-downside-pressure-could-intensify-below-13180-202610070532",
+      "published": "Wed, 07 Oct 2026 05:32:15 GMT",
+      "ts": 1791351135
+    },
     {
       "source": "FXStreet",
       "title": "USD/JPY Price Forecast: Clings to gains near 158.50, over one-week top amid firmer USD",
@@ -46,7 +67,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold weakens amid renewed USD strength and higher bond yields, ahead of FOMC Minutes",
+      "title": "Gold remains depressed amid broadly firmer USD; eyes two-month low ahead of FOMC Minutes",
       "link": "https://www.fxstreet.com/news/gold-weakens-amid-renewed-usd-strength-and-higher-bond-yields-ahead-of-fomc-minutes-202610070432",
       "published": "Wed, 07 Oct 2026 04:32:05 GMT",
       "ts": 1791347525
@@ -59,32 +80,11 @@
       "ts": 1791347474
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Slips below 178.00 after pulling back from nine-day EMA",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-slips-below-17800-after-pulling-back-from-nine-day-ema-202610070430",
-      "published": "Wed, 07 Oct 2026 04:30:27 GMT",
-      "ts": 1791347427
-    },
-    {
       "source": "CoinDesk",
       "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
       "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
       "published": "Wed, 07 Oct 2026 04:11:33 +0000",
       "ts": 1791346293
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: More downside likely below 1.1160",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-more-downside-likely-below-11160-202610070408",
-      "published": "Wed, 07 Oct 2026 04:08:04 GMT",
-      "ts": 1791346084
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD remains below $61.00 as oil prices surge",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-below-6100-as-oil-prices-surge-202610070404",
-      "published": "Wed, 07 Oct 2026 04:04:55 GMT",
-      "ts": 1791345895
     },
     {
       "source": "CoinDesk",
