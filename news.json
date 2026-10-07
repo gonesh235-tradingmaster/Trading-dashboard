@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-07T21:32:18.520696Z",
+  "updated": "2026-10-07T21:56:27.848403Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "U.S. bond market fares better than Europe after strong 10-year Treasury auction",
+      "link": "https://www.investing.com/news/forex-news/french-bond-yields-resume-upward-marchfollowing-brief-relief-rally-4935716",
+      "published": "2026-10-07 21:29:30",
+      "ts": 1791408570
+    },
     {
       "source": "Investing Forex",
       "title": "Dollar at nearly 18-month high on Fed minutes, slide in euro and sterling",
@@ -295,13 +302,6 @@
       "link": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 12:29:39 +0000",
       "ts": 1791376179
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Global yield sell-off resumes as U.S. 30-year yield touches 24-year highs",
-      "link": "https://www.investing.com/news/forex-news/french-bond-yields-resume-upward-marchfollowing-brief-relief-rally-4935716",
-      "published": "2026-10-07 12:09:33",
-      "ts": 1791374973
     },
     {
       "source": "Investing Forex",
