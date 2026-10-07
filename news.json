@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-07T13:14:57.303856Z",
+  "updated": "2026-10-07T13:36:51.588090Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 13:30:00 GMT",
+      "ts": 1791379800
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Funding appeal eroded by BoJ hikes – Rabobank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-funding-appeal-eroded-by-boj-hikes-rabobank-202610071318",
+      "published": "Wed, 07 Oct 2026 13:18:51 GMT",
+      "ts": 1791379131
+    },
     {
       "source": "FXStreet",
       "title": "Hungarian Forint: HUF strength and euro adoption outlook – Societe Generale",
@@ -129,13 +143,6 @@
       "ts": 1791374817
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Political risk weighs but downside seen limited – ABN AMRO",
-      "link": "https://www.fxstreet.com/news/euro-political-risk-weighs-but-downside-seen-limited-abn-amro-202610071206",
-      "published": "Wed, 07 Oct 2026 12:06:34 GMT",
-      "ts": 1791374794
-    },
-    {
       "source": "CoinDesk",
       "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
       "link": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
@@ -232,13 +239,6 @@
       "link": "https://cointelegraph.com/news/wall-street-wealth-creation-unsustainable-hyperliquid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 10:19:27 +0000",
       "ts": 1791368367
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 10:15:00 GMT",
-      "ts": 1791368100
     },
     {
       "source": "Investing Forex",
