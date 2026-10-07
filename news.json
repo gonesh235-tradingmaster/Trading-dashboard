@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-07T02:56:11.328122Z",
+  "updated": "2026-10-07T03:13:16.500010Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar holds losses below 0.7000 ahead of FOMC Minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-losses-below-07000-ahead-of-fomc-minutes-202610070306",
+      "published": "Wed, 07 Oct 2026 03:06:08 GMT",
+      "ts": 1791342368
+    },
     {
       "source": "FXStreet",
       "title": "United States Dollar Index retakes 102.00 as bulls eye YTD peak ahead of FOMC Minutes",
@@ -85,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/us-vp-vance-says-iran-must-reduce-nuclear-enrichment-capacity-to-end-war-202610062353",
       "published": "Tue, 06 Oct 2026 23:53:43 GMT",
       "ts": 1791330823
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoJ’s Sato signals support for future rate hikes",
-      "link": "https://www.fxstreet.com/news/bojs-sato-signals-support-for-future-rate-hikes-202610062346",
-      "published": "Tue, 06 Oct 2026 23:46:35 GMT",
-      "ts": 1791330395
     },
     {
       "source": "MarketWatch",
