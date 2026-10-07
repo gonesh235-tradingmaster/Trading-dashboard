@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-07T04:46:14.087798Z",
+  "updated": "2026-10-07T05:11:37.365724Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
+      "link": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 04:57:54 +0000",
+      "ts": 1791349074
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Sticks to gains near $89.50; bulls seem hesitant below 200-SMA on H4",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-sticks-to-gains-near-8950-bulls-seem-hesitant-below-200-sma-on-h4-202610070450",
+      "published": "Wed, 07 Oct 2026 04:50:21 GMT",
+      "ts": 1791348621
+    },
     {
       "source": "FXStreet",
       "title": "USD/INR remains broadly muted after RBI’s 25 bps hike in Repo Rates to 5.5%",
@@ -87,13 +101,6 @@
       "ts": 1791342368
     },
     {
-      "source": "FXStreet",
-      "title": "United States Dollar Index retakes 102.00 as bulls eye YTD peak ahead of FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-retakes-10200-as-bulls-eye-ytd-peak-ahead-of-fomc-minutes-202610070234",
-      "published": "Wed, 07 Oct 2026 02:34:32 GMT",
-      "ts": 1791340472
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
       "link": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -109,7 +116,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Breaking: RBI lifts the Repo Rate by 25 bps to 5.5% in October, as expected",
+      "title": "RBI raises the Repo Rate by 25 bps to 5.5% in October, as expected",
       "link": "https://www.fxstreet.com/news/rbi-looks-set-to-step-up-repo-rate-by-25-bps-to-55-202610070030",
       "published": "Wed, 07 Oct 2026 00:30:00 GMT",
       "ts": 1791333000
@@ -281,13 +288,6 @@
       "link": "https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 17:30:18 +0000",
       "ts": 1791307818
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
-      "link": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 17:19:58 +0000",
-      "ts": 1791307198
     },
     {
       "source": "CoinDesk",
