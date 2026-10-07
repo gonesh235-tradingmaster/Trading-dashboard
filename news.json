@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-07T09:31:14.025535Z",
+  "updated": "2026-10-07T09:57:33.598238Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold Price Forecast: XAU/USD retraces gains and nears two-month lows at $4,104",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-retraces-gains-and-nears-two-month-lows-at-4-104-202610070946",
+      "published": "Wed, 07 Oct 2026 09:46:54 GMT",
+      "ts": 1791366414
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto liquidations hit $550M as Bitcoin price dips below $84K",
+      "link": "https://cointelegraph.com/markets/crypto-liquidations-hit-550m-as-bitcoin-price-dips-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 09:45:35 +0000",
+      "ts": 1791366335
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swedish Krona: Technical setup points to further weakness – Societe Generale",
+      "link": "https://www.fxstreet.com/news/swedish-krona-technical-setup-points-to-further-weakness-societe-generale-202610070944",
+      "published": "Wed, 07 Oct 2026 09:44:48 GMT",
+      "ts": 1791366288
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AMD’s chief executive is planning to invest ‘tens of billions’ as Asian tour addresses supply-chain chokepoints",
+      "link": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 09:37:00 GMT",
+      "ts": 1791365820
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
+      "link": "https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 09:33:00 GMT",
+      "ts": 1791365580
+    },
     {
       "source": "FXStreet",
       "title": "Silver price today: Silver falls, according to FXStreet data",
@@ -13,8 +48,8 @@
       "source": "Investing Forex",
       "title": "Euro languishes as Indian rupee tests all-time lows; Dollar awaits FOMC minutes",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
-      "published": "2026-10-07 09:28:57",
-      "ts": 1791365337
+      "published": "2026-10-07 09:29:54",
+      "ts": 1791365394
     },
     {
       "source": "FXStreet",
@@ -127,20 +162,6 @@
       "link": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 08:50:02 +0000",
       "ts": 1791363002
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen edges up from lows amid hawkish comments from  BoJ’s Sato",
-      "link": "https://www.fxstreet.com/news/japanese-yen-edges-up-from-lows-amid-hawkish-comments-from-bojs-sato-202610070849",
-      "published": "Wed, 07 Oct 2026 08:49:11 GMT",
-      "ts": 1791362951
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures fall as US Treasury yields rebound ahead of FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-fall-as-us-treasury-yields-rebound-ahead-of-fomc-minutes-202610070843",
-      "published": "Wed, 07 Oct 2026 08:43:33 GMT",
-      "ts": 1791362613
     },
     {
       "source": "Investing Forex",
@@ -304,13 +325,6 @@
       "ts": 1791327240
     },
     {
-      "source": "MarketWatch",
-      "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 21:52:00 GMT",
-      "ts": 1791323520
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin dips as oil turns higher, countering bond rout halt and regulatory hopes",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
@@ -332,25 +346,11 @@
       "ts": 1791320444
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
-      "link": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 20:53:19 +0000",
-      "ts": 1791319999
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar weakens near 18-month low despite surprise trade surplus",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-near-18month-low-despite-surprise-trade-surplus-4935268",
       "published": "2026-10-06 20:46:08",
       "ts": 1791319568
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.",
-      "link": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 20:37:00 GMT",
-      "ts": 1791319020
     },
     {
       "source": "Investing Crypto",
