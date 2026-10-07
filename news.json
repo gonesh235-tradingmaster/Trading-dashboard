@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-07T02:12:45.974432Z",
+  "updated": "2026-10-07T02:32:26.992783Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound weakens as US Dollar advances ahead of FOMC Meeting Minutes",
+      "link": "https://www.fxstreet.com/news/british-pound-weakens-as-us-dollar-advances-ahead-of-fomc-meeting-minutes-202610070222",
+      "published": "Wed, 07 Oct 2026 02:22:48 GMT",
+      "ts": 1791339768
+    },
+    {
+      "source": "FXStreet",
+      "title": "Saudi-led coalition says Houthi ballistic missile intercepted over Khamis Mushait",
+      "link": "https://www.fxstreet.com/news/saudi-led-coalition-says-houthi-ballistic-missile-intercepted-over-khamis-mushait-202610070218",
+      "published": "Wed, 07 Oct 2026 02:18:47 GMT",
+      "ts": 1791339527
+    },
     {
       "source": "FXStreet",
       "title": "Japanese Yen softens as BoJ rate hike expectations recede, FOMC Minutes loom",
@@ -78,20 +92,6 @@
       "link": "https://www.fxstreet.com/news/the-pound-climbs-against-the-japanese-yen-as-the-boj-gives-no-hike-signal-202610062329",
       "published": "Tue, 06 Oct 2026 23:29:57 GMT",
       "ts": 1791329397
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold rises above $4,150 as bond yields turn lower, traders await FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/gold-rises-above-4-150-as-bond-yields-turn-lower-traders-await-fomc-minutes-202610062328",
-      "published": "Tue, 06 Oct 2026 23:28:27 GMT",
-      "ts": 1791329307
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Australian Dollar slips against the New Zealand Dollar as confidence sinks",
-      "link": "https://www.fxstreet.com/news/the-australian-dollar-slips-against-the-new-zealand-dollar-as-confidence-sinks-202610062322",
-      "published": "Tue, 06 Oct 2026 23:22:00 GMT",
-      "ts": 1791328920
     },
     {
       "source": "MarketWatch",
