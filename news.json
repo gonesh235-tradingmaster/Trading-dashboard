@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-07T00:51:54.754687Z",
+  "updated": "2026-10-07T01:12:50.568052Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI rises to near $89.50 as Middle East supply threats offset Persian Gulf recovery",
+      "link": "https://www.fxstreet.com/news/wti-rises-to-near-8950-as-middle-east-supply-threats-offset-persian-gulf-recovery-202610070109",
+      "published": "Wed, 07 Oct 2026 01:09:09 GMT",
+      "ts": 1791335349
+    },
     {
       "source": "FXStreet",
       "title": "Euro weakens below 1.1250 on France’s debt fears",
@@ -71,13 +78,6 @@
       "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 22:54:00 GMT",
       "ts": 1791327240
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso post gains as lower US yields revive the carry trade",
-      "link": "https://www.fxstreet.com/news/mexican-peso-post-gains-as-lower-us-yields-revive-the-carry-trade-202610062235",
-      "published": "Tue, 06 Oct 2026 22:35:10 GMT",
-      "ts": 1791326110
     },
     {
       "source": "FXStreet",
