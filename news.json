@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-07T16:33:18.287123Z",
+  "updated": "2026-10-07T17:06:08.471819Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
+      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 17:00:00 GMT",
+      "ts": 1791392400
+    },
     {
       "source": "CoinDesk",
       "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
@@ -46,7 +53,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "More college students have to use credit cards just to cover basic living expenses. Here’s what it’s costing them.",
+      "title": "College students have to use credit cards just to cover basic living expenses. Here’s what it’s costing them.",
       "link": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 15:35:00 GMT",
       "ts": 1791387300
@@ -150,6 +157,13 @@
       "ts": 1791383109
     },
     {
+      "source": "FXStreet",
+      "title": "US Dollar: Energy risks support USD strength – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-energy-risks-support-usd-strength-bbh-202610071423",
+      "published": "Wed, 07 Oct 2026 14:23:19 GMT",
+      "ts": 1791382999
+    },
+    {
       "source": "MarketWatch",
       "title": "Loneliness and social isolation can take six years off your life",
       "link": "https://www.marketwatch.com/story/loneliness-and-social-isolation-can-take-six-years-off-your-life-496af256?mod=mw_rss_topstories",
@@ -183,13 +197,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
       "published": "2026-10-07 13:52:32",
       "ts": 1791381152
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
-      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 13:45:00 GMT",
-      "ts": 1791380700
     },
     {
       "source": "Investing Forex",
@@ -288,13 +295,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-as-iran-attacks-oil-surge-fuel-rate-fears-crypto-stocks-slip-4936200",
       "published": "2026-10-07 10:52:38",
       "ts": 1791370358
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/gold-falls-as-us-dollar-treasury-yields-rebound-ahead-of-fed-minutes-202610071045",
-      "published": "Wed, 07 Oct 2026 10:45:01 GMT",
-      "ts": 1791369901
     },
     {
       "source": "Investing Crypto",
