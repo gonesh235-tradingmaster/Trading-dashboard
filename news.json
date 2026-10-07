@@ -1,20 +1,27 @@
 {
-  "updated": "2026-10-07T19:31:24.146296Z",
+  "updated": "2026-10-07T19:54:45.627969Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+      "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 19:35:00 GMT",
+      "ts": 1791401700
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Falls 10% In Bearish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
+      "published": "2026-10-07 19:26:58",
+      "ts": 1791401218
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin breaks below 20/50-SMA, eyes $81K support: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-07 19:19:11",
       "ts": 1791400751
-    },
-    {
-      "source": "FXStreet",
-      "title": "Thai Baht: Inflation rise and THB downside risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/thai-baht-inflation-rise-and-thb-downside-risks-commerzbank-202610071912",
-      "published": "Wed, 07 Oct 2026 19:12:00 GMT",
-      "ts": 1791400320
     },
     {
       "source": "MarketWatch",
@@ -64,13 +71,6 @@
       "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 18:31:00 GMT",
       "ts": 1791397860
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
-      "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 18:28:00 GMT",
-      "ts": 1791397680
     },
     {
       "source": "FXStreet",
@@ -176,6 +176,13 @@
       "link": "https://www.fxstreet.com/news/us-dollar-index-climbs-back-near-its-18-month-high-as-yields-rise-202610071542",
       "published": "Wed, 07 Oct 2026 15:42:47 GMT",
       "ts": 1791387767
+    },
+    {
+      "source": "FXStreet",
+      "title": "NY Fed September survey shows households bracing for higher prices",
+      "link": "https://www.fxstreet.com/news/ny-fed-survey-of-consumers-shows-households-bracing-for-higher-prices-202610071539",
+      "published": "Wed, 07 Oct 2026 15:39:03 GMT",
+      "ts": 1791387543
     },
     {
       "source": "CoinTelegraph",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/new-generation-of-crypto-miners-released-by-asicid-4934907",
       "published": "2026-10-06 15:00:08",
       "ts": 1791298808
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Superform Activates Earn Strategies for Tokenized Stocks on Base, Powered by Aave",
-      "link": "https://www.investing.com/news/cryptocurrency-news/superform-activates-earn-strategies-for-tokenized-stocks-on-base-powered-by-aave-4934906",
-      "published": "2026-10-06 15:00:07",
-      "ts": 1791298807
     }
   ]
 }
