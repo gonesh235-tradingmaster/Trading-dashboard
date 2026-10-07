@@ -1,13 +1,48 @@
 {
-  "updated": "2026-10-07T12:51:01.445017Z",
+  "updated": "2026-10-07T13:14:57.303856Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Hungarian Forint: HUF strength and euro adoption outlook – Societe Generale",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-huf-strength-and-euro-adoption-outlook-societe-generale-202610071310",
+      "published": "Wed, 07 Oct 2026 13:10:34 GMT",
+      "ts": 1791378634
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 13:07:40 +0000",
+      "ts": 1791378460
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Kalshi is coming for ‘Dancing with the Stars’ fans",
+      "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 13:05:00 GMT",
+      "ts": 1791378300
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swedish Krona: Riksbank tightening supports SEK against US Dollar - BBH",
+      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-tightening-supports-sek-against-us-dollar-bbh-202610071259",
+      "published": "Wed, 07 Oct 2026 12:59:42 GMT",
+      "ts": 1791377982
+    },
     {
       "source": "FXStreet",
       "title": "Indian Rupee: Gradual tightening path after RBI hike – ING",
       "link": "https://www.fxstreet.com/news/indian-rupee-gradual-tightening-path-after-rbi-hike-ing-202610071250",
       "published": "Wed, 07 Oct 2026 12:50:08 GMT",
       "ts": 1791377408
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Parental controls aren’t just for kids anymore",
+      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 12:49:00 GMT",
+      "ts": 1791377340
     },
     {
       "source": "MarketWatch",
@@ -108,13 +143,6 @@
       "ts": 1791374364
     },
     {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Safe-haven demand keeps CHF firm against Euro – Rabobank",
-      "link": "https://www.fxstreet.com/news/swiss-franc-safe-haven-demand-keeps-chf-firm-against-euro-rabobank-202610071145",
-      "published": "Wed, 07 Oct 2026 11:45:13 GMT",
-      "ts": 1791373513
-    },
-    {
       "source": "MarketWatch",
       "title": "These two hard-hit stocks are poised for a comeback, says fund manager",
       "link": "https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
@@ -129,13 +157,6 @@
       "ts": 1791373068
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee: RBI tightening fails to halt INR slide – BBH",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-tightening-fails-to-halt-inr-slide-bbh-202610071131",
-      "published": "Wed, 07 Oct 2026 11:31:34 GMT",
-      "ts": 1791372694
-    },
-    {
       "source": "CoinDesk",
       "title": "Here’s what bitcoin needs to break above $87,000",
       "link": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
@@ -144,7 +165,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Meta stock scores a rare ‘golden cross’ buy signal as investors swarm to its top-charting AI agent",
+      "title": "Meta’s stock scores a rare ‘golden cross’ buy signal as investors swarm to its chart-topping AI agent Muse",
       "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 11:18:00 GMT",
       "ts": 1791371880
@@ -269,13 +290,6 @@
       "ts": 1791364823
     },
     {
-      "source": "MarketWatch",
-      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement.",
-      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 09:15:00 GMT",
-      "ts": 1791364500
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound dips on firm dollar; EUR/GBP at 16-month low",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-dips-on-firm-dollar-eurgbp-at-16month-low-4935921",
@@ -288,13 +302,6 @@
       "link": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
       "published": "Wed, 07 Oct 2026 09:09:06 +0000",
       "ts": 1791364146
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Josh Brolin sells Atlanta-area mansion for $4 million after slashing price",
-      "link": "https://www.marketwatch.com/story/josh-brolin-sells-atlanta-area-mansion-for-4-million-after-slashing-price-52561a89?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 09:05:00 GMT",
-      "ts": 1791363900
     },
     {
       "source": "CoinTelegraph",
@@ -312,7 +319,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "BitMine sets 5% Ether supply ‘hard cap’ as accumulation target nears",
+      "title": "Bitmine sets 5% Ether supply ‘hard cap’ as accumulation target nears",
       "link": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 08:50:02 +0000",
       "ts": 1791363002
@@ -358,13 +365,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-07 07:11:57",
       "ts": 1791357117
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
-      "link": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 07:10:59 +0000",
-      "ts": 1791357059
     },
     {
       "source": "Investing Crypto",
