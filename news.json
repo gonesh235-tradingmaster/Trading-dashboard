@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-07T06:16:05.986286Z",
+  "updated": "2026-10-07T06:48:27.896807Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Equities: Valuation reset underpins new highs – Danske Bank",
+      "link": "https://www.fxstreet.com/news/equities-valuation-reset-underpins-new-highs-danske-bank-202610070641",
+      "published": "Wed, 07 Oct 2026 06:41:42 GMT",
+      "ts": 1791355302
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro extends its reversal as rising Oil prices offset upbeat German data",
+      "link": "https://www.fxstreet.com/news/euro-extends-its-reversal-as-rising-oil-prices-offset-upbeat-german-data-202610070633",
+      "published": "Wed, 07 Oct 2026 06:33:06 GMT",
+      "ts": 1791354786
+    },
+    {
+      "source": "FXStreet",
+      "title": "Oil: Supply risks offset stronger flows – ING",
+      "link": "https://www.fxstreet.com/news/oil-supply-risks-offset-stronger-flows-ing-202610070624",
+      "published": "Wed, 07 Oct 2026 06:24:03 GMT",
+      "ts": 1791354243
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: 101.80 remains key support zone ahead of FOMC minutes",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-10180-remains-key-support-zone-ahead-of-fomc-minutes-202610070623",
+      "published": "Wed, 07 Oct 2026 06:23:35 GMT",
+      "ts": 1791354215
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Rebound capped by resistance against US Dollar – UOB",
@@ -50,27 +78,6 @@
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-losses-as-foreign-reserves-slip-in-september-202610070541",
       "published": "Wed, 07 Oct 2026 05:41:10 GMT",
       "ts": 1791351670
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Downside pressure could intensify below 1.3180",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-downside-pressure-could-intensify-below-13180-202610070532",
-      "published": "Wed, 07 Oct 2026 05:32:15 GMT",
-      "ts": 1791351135
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Clings to gains near 158.50, over one-week top amid firmer USD",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-clings-to-gains-near-15850-over-one-week-top-amid-firmer-usd-202610070530",
-      "published": "Wed, 07 Oct 2026 05:30:05 GMT",
-      "ts": 1791351005
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc declines ahead of release of Foreign Currency Reserves data",
-      "link": "https://www.fxstreet.com/news/swiss-franc-declines-ahead-of-release-of-foreign-currency-reserves-data-202610070516",
-      "published": "Wed, 07 Oct 2026 05:16:59 GMT",
-      "ts": 1791350219
     },
     {
       "source": "CoinTelegraph",
@@ -127,13 +134,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-launches-refreshed-trust-center-alex-hung-on-15-years-of-earning-traders-trust-4935518",
       "published": "2026-10-07 01:30:09",
       "ts": 1791336609
-    },
-    {
-      "source": "FXStreet",
-      "title": "RBI raises the Repo Rate by 25 bps to 5.5% in October, as expected",
-      "link": "https://www.fxstreet.com/news/rbi-looks-set-to-step-up-repo-rate-by-25-bps-to-55-202610070030",
-      "published": "Wed, 07 Oct 2026 00:30:00 GMT",
-      "ts": 1791333000
     },
     {
       "source": "CoinTelegraph",
