@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-07T05:56:30.123587Z",
+  "updated": "2026-10-07T06:16:05.986286Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Rebound capped by resistance against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-rebound-capped-by-resistance-against-us-dollar-uob-202610070614",
+      "published": "Wed, 07 Oct 2026 06:14:58 GMT",
+      "ts": 1791353698
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japan’s Takaichi to review policies, revenue and spending if rate shifts differ from expectations",
+      "link": "https://www.fxstreet.com/news/japans-takaichi-to-review-policies-revenue-and-spending-if-rate-shifts-differ-from-expectations-202610070609",
+      "published": "Wed, 07 Oct 2026 06:09:25 GMT",
+      "ts": 1791353365
+    },
+    {
+      "source": "FXStreet",
+      "title": "2.0%: Germany's Industrial Production rises faster-than-expected in August",
+      "link": "https://www.fxstreet.com/news/20-germanys-industrial-production-rises-faster-than-expected-in-august-202610070601",
+      "published": "Wed, 07 Oct 2026 06:01:27 GMT",
+      "ts": 1791352887
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 06:00:00 +0000",
+      "ts": 1791352800
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+      "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
+      "published": "Wed, 07 Oct 2026 05:58:25 +0000",
+      "ts": 1791352705
+    },
     {
       "source": "FXStreet",
       "title": "AUD/JPY Price Forecast: Flatlines below 110.50, while technicals signal lingering bearish bias",
@@ -43,27 +78,6 @@
       "link": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 04:57:54 +0000",
       "ts": 1791349074
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Sticks to gains near $89.50; bulls seem hesitant below 200-SMA on H4",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-sticks-to-gains-near-8950-bulls-seem-hesitant-below-200-sma-on-h4-202610070450",
-      "published": "Wed, 07 Oct 2026 04:50:21 GMT",
-      "ts": 1791348621
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/INR remains broadly muted after RBI’s 25 bps hike in Repo Rates to 5.5%",
-      "link": "https://www.fxstreet.com/news/usd-inr-remains-broadly-muted-after-rbis-25-bps-hike-in-repo-rates-to-55-202610070441",
-      "published": "Wed, 07 Oct 2026 04:41:23 GMT",
-      "ts": 1791348083
-    },
-    {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202610070435",
-      "published": "Wed, 07 Oct 2026 04:35:31 GMT",
-      "ts": 1791347731
     },
     {
       "source": "FXStreet",
@@ -283,13 +297,6 @@
       "ts": 1791307818
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
-      "link": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 17:19:58 +0000",
-      "ts": 1791307198
-    },
-    {
       "source": "CoinDesk",
       "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
       "link": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
@@ -351,13 +358,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
       "published": "Tue, 06 Oct 2026 11:30:00 +0000",
       "ts": 1791286200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
-      "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
-      "published": "Tue, 06 Oct 2026 10:35:49 +0000",
-      "ts": 1791282949
     },
     {
       "source": "Investing Forex",
