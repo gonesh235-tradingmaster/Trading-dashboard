@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-08T02:55:07.072365Z",
+  "updated": "2026-10-08T03:11:11.750490Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar declines to near 0.6950 on hawkish Fed Minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-to-near-06950-on-hawkish-fed-minutes-202610080250",
+      "published": "Thu, 08 Oct 2026 02:50:02 GMT",
+      "ts": 1791427802
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD rebounds to near $60.50 despite soaring bond yields",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rebounds-to-near-6050-despite-soaring-bond-yields-202610080246",
+      "published": "Thu, 08 Oct 2026 02:46:15 GMT",
+      "ts": 1791427575
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index retreats from YTD top; eyes 102.00 as bullish bias persists",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-retreats-from-ytd-top-eyes-10200-as-bullish-bias-persists-202610080240",
+      "published": "Thu, 08 Oct 2026 02:40:16 GMT",
+      "ts": 1791427216
+    },
     {
       "source": "MarketWatch",
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -85,27 +106,6 @@
       "link": "https://www.fxstreet.com/news/pentagon-orders-readiness-for-potential-iran-strikes-as-trump-weighs-timing-202610072349",
       "published": "Wed, 07 Oct 2026 23:49:58 GMT",
       "ts": 1791416998
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold falls to two‑month low near $4,100 on stronger US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-falls-to-two-month-low-near-4-100-on-stronger-us-dollar-202610072325",
-      "published": "Wed, 07 Oct 2026 23:25:06 GMT",
-      "ts": 1791415506
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Yen round-trips after Japanese pay beats its forecast",
-      "link": "https://www.fxstreet.com/news/the-yen-round-trips-after-japanese-pay-beats-its-forecast-202610072308",
-      "published": "Wed, 07 Oct 2026 23:08:50 GMT",
-      "ts": 1791414530
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar slips as Fed hike bets meet Middle East Oil risk",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-fed-hike-bets-meet-middle-east-oil-risk-202610072307",
-      "published": "Wed, 07 Oct 2026 23:07:37 GMT",
-      "ts": 1791414457
     },
     {
       "source": "MarketWatch",
