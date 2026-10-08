@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-08T11:56:46.061775Z",
+  "updated": "2026-10-08T12:18:54.258429Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 12:15:00 GMT",
+      "ts": 1791461700
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
+      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 12:15:00 GMT",
+      "ts": 1791461700
+    },
+    {
+      "source": "MarketWatch",
+      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
+      "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 12:14:00 GMT",
+      "ts": 1791461640
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. yields resume upward march while Eurozone finance ministers pressure Paris",
+      "link": "https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
+      "published": "2026-10-08 12:07:21",
+      "ts": 1791461241
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
+      "link": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 12:03:28 +0000",
+      "ts": 1791461008
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
@@ -24,18 +59,11 @@
       "ts": 1791459765
     },
     {
-      "source": "FXStreet",
-      "title": "Romanian Leu: Policy on hold as politics weigh – Societe Generale",
-      "link": "https://www.fxstreet.com/news/romanian-leu-policy-on-hold-as-politics-weigh-societe-generale-202610081138",
-      "published": "Thu, 08 Oct 2026 11:38:54 GMT",
-      "ts": 1791459534
-    },
-    {
-      "source": "FXStreet",
-      "title": "Polish Zloty: Dovish hold with limited tightening – ING",
-      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-hold-with-limited-tightening-ing-202610081134",
-      "published": "Thu, 08 Oct 2026 11:34:14 GMT",
-      "ts": 1791459254
+      "source": "CoinDesk",
+      "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
+      "link": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+      "published": "Thu, 08 Oct 2026 11:36:25 +0000",
+      "ts": 1791459385
     },
     {
       "source": "MarketWatch",
@@ -52,25 +80,11 @@
       "ts": 1791459120
     },
     {
-      "source": "MarketWatch",
-      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
-      "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 11:31:00 GMT",
-      "ts": 1791459060
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million",
       "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million",
       "published": "Thu, 08 Oct 2026 11:30:19 +0000",
       "ts": 1791459019
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Euro weakness drives Sterling gains - MUFG",
-      "link": "https://www.fxstreet.com/news/british-pound-euro-weakness-drives-sterling-gains-mufg-202610081125",
-      "published": "Thu, 08 Oct 2026 11:25:39 GMT",
-      "ts": 1791458739
     },
     {
       "source": "FXStreet",
@@ -171,11 +185,39 @@
       "ts": 1791453367
     },
     {
+      "source": "FXStreet",
+      "title": "Swiss National Bank sees no need to change rates despite Iran risks",
+      "link": "https://www.fxstreet.com/news/swiss-national-bank-sees-no-need-to-change-rates-despite-iran-risks-202610080953",
+      "published": "Thu, 08 Oct 2026 09:53:52 GMT",
+      "ts": 1791453232
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Breakout to set direction against US Dollar - Societe Generale",
+      "link": "https://www.fxstreet.com/news/japanese-yen-breakout-to-set-direction-against-us-dollar-societe-generale-202610080952",
+      "published": "Thu, 08 Oct 2026 09:52:33 GMT",
+      "ts": 1791453153
+    },
+    {
       "source": "MarketWatch",
       "title": "Samsung just did something no tech company has ever done, but investors still aren’t satisfied",
       "link": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 09:50:00 GMT",
       "ts": 1791453000
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold Price Forecast: XAU/USD recovery falters as Oil and yields rise",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-falters-as-oil-and-yields-rise-202610080946",
+      "published": "Thu, 08 Oct 2026 09:46:29 GMT",
+      "ts": 1791452789
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Rising oil prices and Fed outlook boost USD – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-rising-oil-prices-and-fed-outlook-boost-usd-bbh-202610080944",
+      "published": "Thu, 08 Oct 2026 09:44:18 GMT",
+      "ts": 1791452658
     },
     {
       "source": "CoinTelegraph",
@@ -192,25 +234,11 @@
       "ts": 1791452476
     },
     {
-      "source": "MarketWatch",
-      "title": "Oil prices are jumping again. Here’s how the S&P 500 has performed on days when crude has seen big gains may be surprising.",
-      "link": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 09:33:00 GMT",
-      "ts": 1791451980
-    },
-    {
       "source": "CoinDesk",
       "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
       "link": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
       "published": "Thu, 08 Oct 2026 09:32:13 +0000",
       "ts": 1791451933
-    },
-    {
-      "source": "MarketWatch",
-      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
-      "link": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 09:32:00 GMT",
-      "ts": 1791451920
     },
     {
       "source": "CoinDesk",
@@ -283,13 +311,6 @@
       "ts": 1791446400
     },
     {
-      "source": "Investing Forex",
-      "title": "French yields edge higher in 6th straight weekly loss as regional contagion widens",
-      "link": "https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
-      "published": "2026-10-08 07:44:09",
-      "ts": 1791445449
-    },
-    {
       "source": "CoinTelegraph",
       "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -304,32 +325,11 @@
       "ts": 1791443537
     },
     {
-      "source": "CoinDesk",
-      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
-      "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
-      "published": "Thu, 08 Oct 2026 06:17:13 +0000",
-      "ts": 1791440233
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 06:00:00 +0000",
       "ts": 1791439200
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee remains on track to revisit all-time low",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-likely-rbis-intervention-202610080554",
-      "published": "Thu, 08 Oct 2026 05:54:27 GMT",
-      "ts": 1791438867
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
-      "link": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 05:06:51 +0000",
-      "ts": 1791436011
     },
     {
       "source": "Investing Crypto",
