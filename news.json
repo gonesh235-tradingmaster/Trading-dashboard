@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T08:45:06.525610Z",
+  "updated": "2026-10-08T09:01:35.276625Z",
   "count": 60,
   "items": [
     {
@@ -8,20 +8,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
       "published": "Thu, 08 Oct 2026 08:39:23 +0000",
       "ts": 1791448763
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures drop as US Treasury yields surge",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-us-treasury-yields-surge-202610080832",
-      "published": "Thu, 08 Oct 2026 08:32:44 GMT",
-      "ts": 1791448364
-    },
-    {
-      "source": "FXStreet",
-      "title": "CEE FX: Dovish stance keeps Zloty and Leu under pressure – ING",
-      "link": "https://www.fxstreet.com/news/cee-fx-dovish-stance-keeps-zloty-and-leu-under-pressure-ing-202610080829",
-      "published": "Thu, 08 Oct 2026 08:29:02 GMT",
-      "ts": 1791448142
     },
     {
       "source": "CoinTelegraph",
@@ -122,11 +108,25 @@
       "ts": 1791445049
     },
     {
+      "source": "FXStreet",
+      "title": "ECB’s Moulin: Inflation is clearly 100% energy",
+      "link": "https://www.fxstreet.com/news/ecbs-moulin-inflation-is-clearly-100-energy-202610080733",
+      "published": "Thu, 08 Oct 2026 07:33:24 GMT",
+      "ts": 1791444804
+    },
+    {
       "source": "CoinTelegraph",
       "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 07:30:42 +0000",
       "ts": 1791444642
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Downside seen limited near 1.3140 against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-downside-seen-limited-near-13140-against-us-dollar-uob-202610080724",
+      "published": "Thu, 08 Oct 2026 07:24:28 GMT",
+      "ts": 1791444268
     },
     {
       "source": "Investing Forex",
