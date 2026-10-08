@@ -1,13 +1,41 @@
 {
-  "updated": "2026-10-08T10:20:50.332953Z",
+  "updated": "2026-10-08T10:44:29.161759Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
+      "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
+      "published": "Thu, 08 Oct 2026 10:30:41 +0000",
+      "ts": 1791455441
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A true ‘nuclear renaissance’ is taking shape, and these stocks could be big winners",
+      "link": "https://www.marketwatch.com/story/a-true-nuclear-renaissance-is-taking-shape-and-these-stocks-could-be-big-winners-e04f7364?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 10:30:00 GMT",
+      "ts": 1791455400
+    },
+    {
+      "source": "FXStreet",
+      "title": "China: PBoC rules out competitive Yuan devaluation to boost trade",
+      "link": "https://www.fxstreet.com/news/china-pboc-rules-out-competitive-yuan-devaluation-to-boost-trade-202610081021",
+      "published": "Thu, 08 Oct 2026 10:21:14 GMT",
+      "ts": 1791454874
+    },
     {
       "source": "MarketWatch",
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
       "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 10:15:00 GMT",
       "ts": 1791454500
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: Range trading holds for now against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-range-trading-holds-for-now-against-us-dollar-uob-202610081000",
+      "published": "Thu, 08 Oct 2026 10:00:51 GMT",
+      "ts": 1791453651
     },
     {
       "source": "CoinTelegraph",
@@ -17,11 +45,39 @@
       "ts": 1791453367
     },
     {
+      "source": "FXStreet",
+      "title": "Swiss National Bank sees no need to change rates despite Iran risks",
+      "link": "https://www.fxstreet.com/news/swiss-national-bank-sees-no-need-to-change-rates-despite-iran-risks-202610080953",
+      "published": "Thu, 08 Oct 2026 09:53:52 GMT",
+      "ts": 1791453232
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Breakout to set direction against US Dollar - Societe Generale",
+      "link": "https://www.fxstreet.com/news/japanese-yen-breakout-to-set-direction-against-us-dollar-societe-generale-202610080952",
+      "published": "Thu, 08 Oct 2026 09:52:33 GMT",
+      "ts": 1791453153
+    },
+    {
       "source": "MarketWatch",
       "title": "Samsung just did something no tech company has ever done, and investors still aren’t satisfied",
       "link": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 09:50:00 GMT",
       "ts": 1791453000
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold Price Forecast: XAU/USD recovery falters as Oil and yields rise",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-falters-as-oil-and-yields-rise-202610080946",
+      "published": "Thu, 08 Oct 2026 09:46:29 GMT",
+      "ts": 1791452789
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Rising oil prices and Fed outlook boost USD – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-rising-oil-prices-and-fed-outlook-boost-usd-bbh-202610080944",
+      "published": "Thu, 08 Oct 2026 09:44:18 GMT",
+      "ts": 1791452658
     },
     {
       "source": "CoinTelegraph",
@@ -36,6 +92,13 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
       "published": "2026-10-08 09:41:16",
       "ts": 1791452476
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: BoE hawkish shift could support gains against Euro – ING",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-hawkish-shift-could-support-gains-against-euro-ing-202610080933",
+      "published": "Thu, 08 Oct 2026 09:33:19 GMT",
+      "ts": 1791451999
     },
     {
       "source": "MarketWatch",
@@ -59,6 +122,20 @@
       "ts": 1791451920
     },
     {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202610080930",
+      "published": "Thu, 08 Oct 2026 09:30:29 GMT",
+      "ts": 1791451829
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: Neutral outlook inside tight range against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-neutral-outlook-inside-tight-range-against-us-dollar-uob-202610080924",
+      "published": "Thu, 08 Oct 2026 09:24:24 GMT",
+      "ts": 1791451464
+    },
+    {
       "source": "CoinDesk",
       "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
       "link": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
@@ -80,25 +157,11 @@
       "ts": 1791450864
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar declines as US Dollar gains amid rising Treasury yields",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-as-us-dollar-gains-amid-rising-treasury-yields-202610080913",
-      "published": "Thu, 08 Oct 2026 09:13:05 GMT",
-      "ts": 1791450785
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin muted at $83k as M.East tensions, soaring yields dent crypto appetite",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
       "published": "2026-10-08 09:11:26",
       "ts": 1791450686
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Downside risks persist against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-persist-against-us-dollar-commerzbank-202610080904",
-      "published": "Thu, 08 Oct 2026 09:04:06 GMT",
-      "ts": 1791450246
     },
     {
       "source": "MarketWatch",
@@ -120,48 +183,6 @@
       "link": "https://www.investing.com/news/forex-news/bofa-sees-downside-risks-for-usdjpy-93CH-4938182",
       "published": "2026-10-08 08:58:55",
       "ts": 1791449935
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: Consolidates near 1.4250 as rising oil prices counter bullish USD",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-consolidates-near-14250-as-rising-oil-prices-counter-bullish-usd-202610080855",
-      "published": "Thu, 08 Oct 2026 08:55:07 GMT",
-      "ts": 1791449707
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Waller: Further hikes don’t need to come at consecutive meetings",
-      "link": "https://www.fxstreet.com/news/feds-waller-further-hikes-dont-need-to-come-at-consecutive-meetings-202610080854",
-      "published": "Thu, 08 Oct 2026 08:54:44 GMT",
-      "ts": 1791449684
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Fed cautious on further hikes – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-cautious-on-further-hikes-mufg-202610080850",
-      "published": "Thu, 08 Oct 2026 08:50:57 GMT",
-      "ts": 1791449457
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro falls against Canadian Dollar amid French debt fears, oil rally",
-      "link": "https://www.fxstreet.com/news/euro-falls-against-canadian-dollar-amid-french-debt-fears-oil-rally-202610080849",
-      "published": "Thu, 08 Oct 2026 08:49:37 GMT",
-      "ts": 1791449377
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen weakens against US Dollar amid hawkish FOMC minutes",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-against-us-dollar-amid-hawkish-fomc-minutes-202610080848",
-      "published": "Thu, 08 Oct 2026 08:48:53 GMT",
-      "ts": 1791449333
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro hesitates at 1.1200 with Oil and bonds limiting upside attempts",
-      "link": "https://www.fxstreet.com/news/euro-hesitates-at-11200-with-oil-and-bonds-limiting-upside-attempts-202610080845",
-      "published": "Thu, 08 Oct 2026 08:45:54 GMT",
-      "ts": 1791449154
     },
     {
       "source": "CoinDesk",
@@ -239,13 +260,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 06:00:00 +0000",
       "ts": 1791439200
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee gets relief from likely RBI intervention, downside remains favored",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-likely-rbis-intervention-202610080554",
-      "published": "Thu, 08 Oct 2026 05:54:27 GMT",
-      "ts": 1791438867
     },
     {
       "source": "CoinDesk",
@@ -339,25 +353,11 @@
       "ts": 1791406680
     },
     {
-      "source": "MarketWatch",
-      "title": "Options traders are betting on a dramatic drop in interest rates",
-      "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 20:36:00 GMT",
-      "ts": 1791405360
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Falls 10% In Bearish Trade",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
       "published": "2026-10-07 19:26:58",
       "ts": 1791401218
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
-      "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
-      "published": "Wed, 07 Oct 2026 18:59:32 +0000",
-      "ts": 1791399572
     },
     {
       "source": "Investing Forex",
