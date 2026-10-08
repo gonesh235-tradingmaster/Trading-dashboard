@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T02:13:24.044552Z",
+  "updated": "2026-10-08T02:30:56.146149Z",
   "count": 60,
   "items": [
     {
@@ -10,11 +10,25 @@
       "ts": 1791424800
     },
     {
+      "source": "FXStreet",
+      "title": "Japanese Yen strengthens amid BoJ hike bets, intervention risks; bullish USD cap gains",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-amid-boj-hike-bets-intervention-risks-bullish-usd-cap-gains-202610080148",
+      "published": "Thu, 08 Oct 2026 01:48:37 GMT",
+      "ts": 1791424117
+    },
+    {
       "source": "MarketWatch",
       "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
       "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 01:45:00 GMT",
       "ts": 1791423900
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound slips due to stable US Dollar, rising oil prices",
+      "link": "https://www.fxstreet.com/news/british-pound-slips-due-to-stable-us-dollar-rising-oil-prices-202610080141",
+      "published": "Thu, 08 Oct 2026 01:41:00 GMT",
+      "ts": 1791423660
     },
     {
       "source": "Investing Crypto",
@@ -99,20 +113,6 @@
       "link": "https://www.fxstreet.com/news/the-euro-gives-back-its-bounce-as-french-bonds-sell-off-again-202610072228",
       "published": "Wed, 07 Oct 2026 22:28:09 GMT",
       "ts": 1791412089
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso holds firm as FOMC Minutes signal further rate hikes",
-      "link": "https://www.fxstreet.com/news/mexican-peso-holds-firm-as-fomc-minutes-signal-further-rate-hikes-202610072203",
-      "published": "Wed, 07 Oct 2026 22:03:37 GMT",
-      "ts": 1791410617
-    },
-    {
-      "source": "FXStreet",
-      "title": "The Pound slides back to the bottom of its range as the bond selloff resumes",
-      "link": "https://www.fxstreet.com/news/the-pound-slides-back-to-the-bottom-of-its-range-as-the-bond-selloff-resumes-202610072155",
-      "published": "Wed, 07 Oct 2026 21:55:46 GMT",
-      "ts": 1791410146
     },
     {
       "source": "Investing Crypto",
