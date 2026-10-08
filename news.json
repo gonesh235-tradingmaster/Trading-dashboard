@@ -1,13 +1,41 @@
 {
-  "updated": "2026-10-08T13:15:50.684109Z",
+  "updated": "2026-10-08T13:44:49.784932Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "College students have to use credit cards just to cover basic living expenses. Here’s what it’s costing them.",
+      "link": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 13:43:00 GMT",
+      "ts": 1791466980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
+      "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 13:34:00 GMT",
+      "ts": 1791466440
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto lending rises again… but have they solved the risks?",
+      "link": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 13:30:00 +0000",
+      "ts": 1791466200
+    },
     {
       "source": "CoinDesk",
       "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
       "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
       "published": "Thu, 08 Oct 2026 13:06:24 +0000",
       "ts": 1791464784
+    },
+    {
+      "source": "FXStreet",
+      "title": "Federal Reserve: More hikes ahead after October pause - UOB",
+      "link": "https://www.fxstreet.com/news/federal-reserve-more-hikes-ahead-after-october-pause-uob-202610081303",
+      "published": "Thu, 08 Oct 2026 13:03:26 GMT",
+      "ts": 1791464606
     },
     {
       "source": "CoinTelegraph",
@@ -24,6 +52,13 @@
       "ts": 1791464061
     },
     {
+      "source": "FXStreet",
+      "title": "BoE’s Bailey calls for stronger financial markets to absorb future shocks",
+      "link": "https://www.fxstreet.com/news/boes-bailey-calls-for-stronger-financial-markets-to-absorb-future-shocks-202610081249",
+      "published": "Thu, 08 Oct 2026 12:49:27 GMT",
+      "ts": 1791463767
+    },
+    {
       "source": "MarketWatch",
       "title": "Who will benefit more from AI agents when it comes to spending – companies or you?",
       "link": "https://www.marketwatch.com/story/who-will-benefit-more-from-ai-agents-when-it-comes-to-spending-companies-or-you-cec597ed?mod=mw_rss_topstories",
@@ -31,11 +66,25 @@
       "ts": 1791463620
     },
     {
-      "source": "MarketWatch",
-      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
-      "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 12:46:00 GMT",
-      "ts": 1791463560
+      "source": "FXStreet",
+      "title": "Euro: French debt risk weighs on EUR against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-french-debt-risk-weighs-on-eur-against-us-dollar-ing-202610081243",
+      "published": "Thu, 08 Oct 2026 12:43:19 GMT",
+      "ts": 1791463399
+    },
+    {
+      "source": "FXStreet",
+      "title": "ECB expected to pause in October before hiking rates in December – Reuters poll",
+      "link": "https://www.fxstreet.com/news/ecb-expected-to-pause-in-october-before-hiking-rates-in-december-reuters-poll-202610081239",
+      "published": "Thu, 08 Oct 2026 12:39:00 GMT",
+      "ts": 1791463140
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Initial Jobless Claims dropped to 197K last week",
+      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-197k-last-week-202610081232",
+      "published": "Thu, 08 Oct 2026 12:32:50 GMT",
+      "ts": 1791462770
     },
     {
       "source": "MarketWatch",
@@ -143,39 +192,11 @@
       "ts": 1791459765
     },
     {
-      "source": "FXStreet",
-      "title": "ECB Accounts: Upside risks surrounding inflation outlook",
-      "link": "https://www.fxstreet.com/news/ecb-accounts-upside-risks-surrounding-inflation-outlook-202610081142",
-      "published": "Thu, 08 Oct 2026 11:42:11 GMT",
-      "ts": 1791459731
-    },
-    {
-      "source": "FXStreet",
-      "title": "ECB officials agree: Eurozone is still saved from second-round inflation effects",
-      "link": "https://www.fxstreet.com/news/ecb-officials-agree-eurozone-is-still-saved-from-second-round-inflation-effects-202610081142",
-      "published": "Thu, 08 Oct 2026 11:42:00 GMT",
-      "ts": 1791459720
-    },
-    {
-      "source": "FXStreet",
-      "title": "Romanian Leu: Policy on hold as politics weigh – Societe Generale",
-      "link": "https://www.fxstreet.com/news/romanian-leu-policy-on-hold-as-politics-weigh-societe-generale-202610081138",
-      "published": "Thu, 08 Oct 2026 11:38:54 GMT",
-      "ts": 1791459534
-    },
-    {
       "source": "CoinDesk",
       "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
       "link": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
       "published": "Thu, 08 Oct 2026 11:36:25 +0000",
       "ts": 1791459385
-    },
-    {
-      "source": "FXStreet",
-      "title": "Polish Zloty: Dovish hold with limited tightening – ING",
-      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-hold-with-limited-tightening-ing-202610081134",
-      "published": "Thu, 08 Oct 2026 11:34:14 GMT",
-      "ts": 1791459254
     },
     {
       "source": "MarketWatch",
@@ -199,13 +220,6 @@
       "ts": 1791459019
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound: Euro weakness drives Sterling gains - MUFG",
-      "link": "https://www.fxstreet.com/news/british-pound-euro-weakness-drives-sterling-gains-mufg-202610081125",
-      "published": "Thu, 08 Oct 2026 11:25:39 GMT",
-      "ts": 1791458739
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
       "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
@@ -220,6 +234,13 @@
       "ts": 1791457416
     },
     {
+      "source": "FXStreet",
+      "title": "Gold struggles as rising yields and hawkish Fed signals weigh",
+      "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-yields-and-hawkish-fed-signals-weigh-202610081055",
+      "published": "Thu, 08 Oct 2026 10:55:42 GMT",
+      "ts": 1791456942
+    },
+    {
       "source": "CoinDesk",
       "title": "Live updates: Risk assets under pressure as bond selloff and oil rally intensify",
       "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
@@ -232,13 +253,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
       "published": "Thu, 08 Oct 2026 10:30:41 +0000",
       "ts": 1791455441
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A true ‘nuclear renaissance’ is taking shape, and these stocks could be big winners",
-      "link": "https://www.marketwatch.com/story/a-true-nuclear-renaissance-is-taking-shape-and-these-stocks-could-be-big-winners-e04f7364?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 10:30:00 GMT",
-      "ts": 1791455400
     },
     {
       "source": "CoinTelegraph",
@@ -325,25 +339,11 @@
       "ts": 1791446883
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Greece plans 10% capital gains tax on cryptocurrencies",
-      "link": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 08:03:47 +0000",
-      "ts": 1791446627
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin clings to $83K below key averages: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-08 07:12:17",
       "ts": 1791443537
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee remains on track to revisit all-time low",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-likely-rbis-intervention-202610080554",
-      "published": "Thu, 08 Oct 2026 05:54:27 GMT",
-      "ts": 1791438867
     },
     {
       "source": "Investing Crypto",
