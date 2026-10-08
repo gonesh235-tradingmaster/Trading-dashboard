@@ -1,13 +1,62 @@
 {
-  "updated": "2026-10-08T05:49:02.754535Z",
+  "updated": "2026-10-08T06:15:06.983854Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar weakens despite higher oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-despite-higher-oil-prices-202610080603",
+      "published": "Thu, 08 Oct 2026 06:03:47 GMT",
+      "ts": 1791439427
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Holds below 1.1200, bearish tone prevails amid oversold conditions",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-below-11200-bearish-tone-prevails-amid-oversold-conditions-202610080602",
+      "published": "Thu, 08 Oct 2026 06:02:13 GMT",
+      "ts": 1791439333
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 06:00:00 +0000",
+      "ts": 1791439200
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: 20-day EMA provides cushion near 157.55",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-20-day-ema-provides-cushion-near-15755-202610080559",
+      "published": "Thu, 08 Oct 2026 05:59:04 GMT",
+      "ts": 1791439144
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee gets relief from likely RBI intervention",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-likely-rbis-intervention-202610080554",
+      "published": "Thu, 08 Oct 2026 05:54:27 GMT",
+      "ts": 1791438867
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
       "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
       "published": "Thu, 08 Oct 2026 05:40:41 +0000",
       "ts": 1791438041
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Bears await break below trading range support near 1.3180",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bears-await-break-below-trading-range-support-near-13180-202610080540",
+      "published": "Thu, 08 Oct 2026 05:40:33 GMT",
+      "ts": 1791438033
+    },
+    {
+      "source": "FXStreet",
+      "title": "BoJ holds steady assessment for 7 of Japan's 9 regions",
+      "link": "https://www.fxstreet.com/news/boj-holds-steady-assessment-for-7-of-japans-9-regions-202610080517",
+      "published": "Thu, 08 Oct 2026 05:17:27 GMT",
+      "ts": 1791436647
     },
     {
       "source": "CoinTelegraph",
@@ -39,21 +88,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Steadies near 100.00, bearish technical bias persists below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-steadies-near-10000-bearish-technical-bias-persists-below-100-day-sma-202610080447",
-      "published": "Thu, 08 Oct 2026 04:47:54 GMT",
-      "ts": 1791434874
-    },
-    {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610080435",
-      "published": "Thu, 08 Oct 2026 04:35:18 GMT",
-      "ts": 1791434118
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold moves away from two-month low; not out of the woods yet amid hawkish Fed, bullish USD",
+      "title": "Gold remains below $4,150 as as hawkish Fed and firm USD cap gains",
       "link": "https://www.fxstreet.com/news/gold-moves-away-from-two-month-low-not-out-of-the-woods-yet-amid-hawkish-fed-bullish-usd-202610080432",
       "published": "Thu, 08 Oct 2026 04:32:31 GMT",
       "ts": 1791433951
@@ -85,34 +120,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
       "published": "Thu, 08 Oct 2026 04:00:07 +0000",
       "ts": 1791432007
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar moves sideways as US Dollar stabilizes amid rising bond yields",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-moves-sideways-as-us-dollar-stabilizes-amid-rising-bond-yields-202610080335",
-      "published": "Thu, 08 Oct 2026 03:35:02 GMT",
-      "ts": 1791430502
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro rebounds as Japanese Yen underperforms despite upbeat trade data",
-      "link": "https://www.fxstreet.com/news/euro-rebounds-as-japanese-yen-underperforms-despite-upbeat-trade-data-202610080334",
-      "published": "Thu, 08 Oct 2026 03:34:37 GMT",
-      "ts": 1791430477
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar declines to near 0.6950 on hawkish Fed Minutes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-to-near-06950-on-hawkish-fed-minutes-202610080250",
-      "published": "Thu, 08 Oct 2026 02:50:02 GMT",
-      "ts": 1791427802
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD rebounds to near $60.50 despite soaring bond yields",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rebounds-to-near-6050-despite-soaring-bond-yields-202610080246",
-      "published": "Thu, 08 Oct 2026 02:46:15 GMT",
-      "ts": 1791427575
     },
     {
       "source": "MarketWatch",
@@ -302,13 +309,6 @@
       "link": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
       "published": "Wed, 07 Oct 2026 15:13:15 +0000",
       "ts": 1791385995
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 15:06:14 +0000",
-      "ts": 1791385574
     },
     {
       "source": "CoinDesk",
