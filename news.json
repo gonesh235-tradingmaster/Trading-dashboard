@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-08T16:37:13.382961Z",
+  "updated": "2026-10-08T16:58:55.746808Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I keep comparing myself to my more financially successful friends. How can I stop?",
+      "link": "https://www.marketwatch.com/story/i-keep-comparing-myself-to-my-more-financially-successful-friends-how-can-i-stop-716a2009?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 16:52:00 GMT",
+      "ts": 1791478320
+    },
     {
       "source": "MarketWatch",
       "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
@@ -17,11 +24,39 @@
       "ts": 1791476706
     },
     {
+      "source": "FXStreet",
+      "title": "Dollar Index flatlines as Fed Governor Waller puts no date on more hikes",
+      "link": "https://www.fxstreet.com/news/dollar-index-flatlines-as-fed-governor-waller-puts-no-date-on-more-hikes-202610081618",
+      "published": "Thu, 08 Oct 2026 16:18:39 GMT",
+      "ts": 1791476319
+    },
+    {
+      "source": "FXStreet",
+      "title": "Crude Oil grinds higher on record tanker attacks and Houthi missiles",
+      "link": "https://www.fxstreet.com/news/crude-oil-grinds-higher-on-record-tanker-attacks-and-houthi-missiles-202610081614",
+      "published": "Thu, 08 Oct 2026 16:14:54 GMT",
+      "ts": 1791476094
+    },
+    {
       "source": "MarketWatch",
       "title": "America’s renters are emerging as a political movement",
       "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 16:11:00 GMT",
       "ts": 1791475860
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Falls 10% In Bearish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4939477",
+      "published": "2026-10-08 16:07:57",
+      "ts": 1791475677
+    },
+    {
+      "source": "FXStreet",
+      "title": "Banxico minutes flags upside inflation risks despite 6.50% rate hold",
+      "link": "https://www.fxstreet.com/news/banxico-minutes-flags-upside-inflation-risks-despite-650-rate-hold-202610081602",
+      "published": "Thu, 08 Oct 2026 16:02:28 GMT",
+      "ts": 1791475348
     },
     {
       "source": "MarketWatch",
@@ -43,6 +78,20 @@
       "link": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 15:55:55 +0000",
       "ts": 1791474955
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar slips as hawkish Fed, elevated US yields sustain USD",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-hawkish-fed-elevated-us-yields-sustain-usd-202610081551",
+      "published": "Thu, 08 Oct 2026 15:51:56 GMT",
+      "ts": 1791474716
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound catches bid as Fed’s Waller eyes a pause in October",
+      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-feds-waller-eyes-a-pause-in-october-202610081550",
+      "published": "Thu, 08 Oct 2026 15:50:41 GMT",
+      "ts": 1791474641
     },
     {
       "source": "MarketWatch",
@@ -171,20 +220,6 @@
       "ts": 1791467621
     },
     {
-      "source": "MarketWatch",
-      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
-      "link": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 13:52:00 GMT",
-      "ts": 1791467520
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar: Consolidation near 1.42s against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidation-near-142s-against-us-dollar-scotiabank-202610081346",
-      "published": "Thu, 08 Oct 2026 13:46:04 GMT",
-      "ts": 1791467164
-    },
-    {
       "source": "CoinTelegraph",
       "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
       "link": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -199,25 +234,11 @@
       "ts": 1791466200
     },
     {
-      "source": "FXStreet",
-      "title": "European Central Bank: Neutral communication with upside inflation risks – Nordea",
-      "link": "https://www.fxstreet.com/news/european-central-bank-neutral-communication-with-upside-inflation-risks-nordea-202610081326",
-      "published": "Thu, 08 Oct 2026 13:26:33 GMT",
-      "ts": 1791465993
-    },
-    {
       "source": "CoinDesk",
       "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
       "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
       "published": "Thu, 08 Oct 2026 13:06:24 +0000",
       "ts": 1791464784
-    },
-    {
-      "source": "FXStreet",
-      "title": "Federal Reserve: More hikes ahead after October pause - UOB",
-      "link": "https://www.fxstreet.com/news/federal-reserve-more-hikes-ahead-after-october-pause-uob-202610081303",
-      "published": "Thu, 08 Oct 2026 13:03:26 GMT",
-      "ts": 1791464606
     },
     {
       "source": "CoinTelegraph",
@@ -232,20 +253,6 @@
       "link": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 12:54:21 +0000",
       "ts": 1791464061
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoE’s Bailey calls for stronger financial markets to absorb future shocks",
-      "link": "https://www.fxstreet.com/news/boes-bailey-calls-for-stronger-financial-markets-to-absorb-future-shocks-202610081249",
-      "published": "Thu, 08 Oct 2026 12:49:27 GMT",
-      "ts": 1791463767
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: French debt risk weighs on EUR against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-french-debt-risk-weighs-on-eur-against-us-dollar-ing-202610081243",
-      "published": "Thu, 08 Oct 2026 12:43:19 GMT",
-      "ts": 1791463399
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain-40-million-transactions-per-second-4936094",
       "published": "2026-10-07 10:30:10",
       "ts": 1791369010
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Yapı Kredi Kripto Selects Integral to Power Digital Asset Trading Services in Türkiye",
-      "link": "https://www.investing.com/news/cryptocurrency-news/yap-kredi-kripto-selects-integral-to-power-digital-asset-trading-services-in-turkiye-4935714",
-      "published": "2026-10-07 07:30:09",
-      "ts": 1791358209
     }
   ]
 }
