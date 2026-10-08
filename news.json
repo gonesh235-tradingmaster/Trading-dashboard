@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-08T01:32:53.574690Z",
+  "updated": "2026-10-08T01:56:37.818593Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
+      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 01:45:00 GMT",
+      "ts": 1791423900
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Hashi Mainnet to Launch With $500M in Capital Backing, Adds Anchorage Digital to Coalition",
+      "link": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-to-launch-with-500m-in-capital-backing-adds-anchorage-digital-to-coalition-4937792",
+      "published": "2026-10-08 01:30:09",
+      "ts": 1791423009
+    },
     {
       "source": "FXStreet",
       "title": "PBOC sets USD/CNY reference rate at 6.7367 vs. 6.7351 previous",
@@ -32,7 +46,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months",
+      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
       "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 00:04:32 +0000",
       "ts": 1791417872
@@ -204,13 +218,6 @@
       "link": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 17:46:59 +0000",
       "ts": 1791395219
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
-      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 17:45:00 GMT",
-      "ts": 1791395100
     },
     {
       "source": "MarketWatch",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/mexico-to-focus-on-local-currency-debt-says-finance-minister-93CH-4935092",
       "published": "2026-10-06 18:56:32",
       "ts": 1791312992
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "New Generation of Crypto Miners Released by ASICID",
-      "link": "https://www.investing.com/news/cryptocurrency-news/new-generation-of-crypto-miners-released-by-asicid-4934907",
-      "published": "2026-10-06 15:00:08",
-      "ts": 1791298808
     }
   ]
 }
