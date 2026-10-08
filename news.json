@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-08T07:04:06.204575Z",
+  "updated": "2026-10-08T07:33:15.647837Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: Euro stabilizes as markets await comments from central bankers",
+      "link": "https://www.fxstreet.com/news/forex-today-euro-stabilizes-as-markets-await-comments-from-central-bankers-202610080720",
+      "published": "Thu, 08 Oct 2026 07:20:47 GMT",
+      "ts": 1791444047
+    },
+    {
+      "source": "FXStreet",
+      "title": "NZD/USD Price Forecast: Drifting closer to 18-month lows at 0.5580",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-drifting-closer-to-18-month-lows-at-05580-202610080720",
+      "published": "Thu, 08 Oct 2026 07:20:35 GMT",
+      "ts": 1791444035
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: Bond stress triggers global stock retreat - Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-bond-stress-triggers-global-stock-retreat-deutsche-bank-202610080713",
+      "published": "Thu, 08 Oct 2026 07:13:06 GMT",
+      "ts": 1791443586
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin clings to $83K below key averages: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-08 07:12:17",
+      "ts": 1791443537
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro gains ground against British Pound despite French debt risks",
+      "link": "https://www.fxstreet.com/news/euro-gains-ground-against-british-pound-despite-french-debt-risks-202610080659",
+      "published": "Thu, 08 Oct 2026 06:59:14 GMT",
+      "ts": 1791442754
+    },
+    {
+      "source": "FXStreet",
+      "title": "Oil: Prices supported by supply risks and Iran tensions – Danske Bank",
+      "link": "https://www.fxstreet.com/news/oil-prices-supported-by-supply-risks-and-iran-tensions-danske-bank-202610080654",
+      "published": "Thu, 08 Oct 2026 06:54:30 GMT",
+      "ts": 1791442470
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: A fresh downside leg looks likely below 0.6900",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-a-fresh-downside-leg-looks-likely-below-06900-202610080653",
+      "published": "Thu, 08 Oct 2026 06:53:36 GMT",
+      "ts": 1791442416
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: RBI tightening cycle resumes – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-tightening-cycle-resumes-commerzbank-202610080639",
+      "published": "Thu, 08 Oct 2026 06:39:22 GMT",
+      "ts": 1791441562
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin falls below $83k as M.East tensions, soaring yields dent crypto appetite",
@@ -11,10 +67,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Euro: Downside risks persist toward 1.1140 against US Dollar - UOB",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-persist-toward-11140-against-us-dollar-uob-202610080621",
-      "published": "Thu, 08 Oct 2026 06:21:34 GMT",
-      "ts": 1791440494
+      "title": "Silver Price Forecasts: XAG/USD dips to $59.00 amid high yields, geopolitical tensions",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-dips-to-5900-amid-high-yields-geopolitical-tensions-202610080626",
+      "published": "Thu, 08 Oct 2026 06:26:32 GMT",
+      "ts": 1791440792
     },
     {
       "source": "CoinDesk",
@@ -22,20 +78,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
       "published": "Thu, 08 Oct 2026 06:17:13 +0000",
       "ts": 1791440233
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar weakens despite higher oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-despite-higher-oil-prices-202610080603",
-      "published": "Thu, 08 Oct 2026 06:03:47 GMT",
-      "ts": 1791439427
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Holds below 1.1200, bearish tone prevails amid oversold conditions",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-below-11200-bearish-tone-prevails-amid-oversold-conditions-202610080602",
-      "published": "Thu, 08 Oct 2026 06:02:13 GMT",
-      "ts": 1791439333
     },
     {
       "source": "CoinTelegraph",
@@ -46,14 +88,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: 20-day EMA provides cushion near 157.55",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-20-day-ema-provides-cushion-near-15755-202610080559",
-      "published": "Thu, 08 Oct 2026 05:59:04 GMT",
-      "ts": 1791439144
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee gets relief from likely RBI intervention",
+      "title": "Indian Rupee finds temporary support from likely RBI intervention",
       "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-likely-rbis-intervention-202610080554",
       "published": "Thu, 08 Oct 2026 05:54:27 GMT",
       "ts": 1791438867
@@ -66,20 +101,6 @@
       "ts": 1791438041
     },
     {
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Bears await break below trading range support near 1.3180",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bears-await-break-below-trading-range-support-near-13180-202610080540",
-      "published": "Thu, 08 Oct 2026 05:40:33 GMT",
-      "ts": 1791438033
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoJ holds steady assessment for 7 of Japan's 9 regions",
-      "link": "https://www.fxstreet.com/news/boj-holds-steady-assessment-for-7-of-japans-9-regions-202610080517",
-      "published": "Thu, 08 Oct 2026 05:17:27 GMT",
-      "ts": 1791436647
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
       "link": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -88,21 +109,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Swiss Franc gains despite stable US Dollar amid ongoing inflation risks",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-despite-stable-us-dollar-amid-ongoing-inflation-risks-202610080501",
-      "published": "Thu, 08 Oct 2026 05:01:10 GMT",
-      "ts": 1791435670
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Bulls seem hesitant below $89.50 amid Middle East risks",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-seem-hesitant-below-8950-amid-middle-east-risks-202610080455",
-      "published": "Thu, 08 Oct 2026 04:55:54 GMT",
-      "ts": 1791435354
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold remains below $4,150 as as hawkish Fed and firm USD cap gains",
+      "title": "Gold bulls remain on the sidelines as hawkish Fed and Middle East jitters underpin USD",
       "link": "https://www.fxstreet.com/news/gold-moves-away-from-two-month-low-not-out-of-the-woods-yet-amid-hawkish-fed-bullish-usd-202610080432",
       "published": "Thu, 08 Oct 2026 04:32:31 GMT",
       "ts": 1791433951
@@ -232,13 +239,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
       "published": "2026-10-07 19:26:58",
       "ts": 1791401218
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin breaks below 20/50-SMA, eyes $81K support: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-07 19:19:11",
-      "ts": 1791400751
     },
     {
       "source": "MarketWatch",
