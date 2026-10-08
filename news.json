@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-08T04:16:11.411100Z",
+  "updated": "2026-10-08T04:44:48.219060Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
+      "link": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 04:28:27 +0000",
+      "ts": 1791433707
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+      "link": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+      "published": "Thu, 08 Oct 2026 04:23:23 +0000",
+      "ts": 1791433403
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies rangebound as dollar holds near 18-month high, yen slips",
@@ -323,20 +337,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
       "published": "Wed, 07 Oct 2026 12:40:31 +0000",
       "ts": 1791376831
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
-      "link": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
-      "published": "Wed, 07 Oct 2026 12:34:13 +0000",
-      "ts": 1791376453
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO",
-      "link": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 12:29:39 +0000",
-      "ts": 1791376179
     },
     {
       "source": "Investing Forex",
