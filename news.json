@@ -1,13 +1,104 @@
 {
-  "updated": "2026-10-08T07:57:35.225063Z",
+  "updated": "2026-10-08T08:18:14.284239Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Standard Chartered plans institutional crypto custody in Singapore",
+      "link": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 08:08:03 +0000",
+      "ts": 1791446883
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound bounces off weekly low vs fragile Yen; intervention risks cap upside",
+      "link": "https://www.fxstreet.com/news/british-pound-bounces-off-weekly-low-vs-fragile-yen-intervention-risks-cap-upside-202610080807",
+      "published": "Thu, 08 Oct 2026 08:07:32 GMT",
+      "ts": 1791446852
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: Hawkish Fed bets build case for more upside towards 102.85",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-hawkish-fed-bets-build-case-for-more-upside-towards-10285-202610080804",
+      "published": "Thu, 08 Oct 2026 08:04:35 GMT",
+      "ts": 1791446675
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Greece plans 10% capital gains tax on cryptocurrencies",
+      "link": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 08:03:47 +0000",
+      "ts": 1791446627
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Fed and ECB policy outlooks in focus - Danske Bank",
+      "link": "https://www.fxstreet.com/news/euro-fed-and-ecb-policy-outlooks-in-focus-danske-bank-202610080803",
+      "published": "Thu, 08 Oct 2026 08:03:05 GMT",
+      "ts": 1791446585
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI Oil rushes above $90.00 as tensions in the Middle East grow",
+      "link": "https://www.fxstreet.com/news/wti-oil-rushes-above-9000-as-tensions-in-the-middle-east-grow-202610080802",
+      "published": "Thu, 08 Oct 2026 08:02:36 GMT",
+      "ts": 1791446556
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Rebounds above 177.00, oversold territory",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-rebounds-above-17700-oversold-territory-202610080801",
+      "published": "Thu, 08 Oct 2026 08:01:28 GMT",
+      "ts": 1791446488
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto investment firm Deus X Capital shuts down as backers pursue separate strategies",
+      "link": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
+      "published": "Thu, 08 Oct 2026 08:00:00 +0000",
+      "ts": 1791446400
+    },
+    {
+      "source": "FXStreet",
+      "title": "Hungarian Forint: Policy contradiction weighs on HUF – Commerzbank",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-policy-contradiction-weighs-on-huf-commerzbank-202610080748",
+      "published": "Thu, 08 Oct 2026 07:48:45 GMT",
+      "ts": 1791445725
+    },
+    {
+      "source": "Investing Forex",
+      "title": "French yields edge higher in 6th straight weekly loss as regional contagion widens",
+      "link": "https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
+      "published": "2026-10-08 07:44:09",
+      "ts": 1791445449
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Hawkish Fed outlook lifts DXY towards 102.85 - ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-outlook-lifts-dxy-towards-10285-ing-202610080737",
+      "published": "Thu, 08 Oct 2026 07:37:29 GMT",
+      "ts": 1791445049
+    },
+    {
+      "source": "FXStreet",
+      "title": "ECB’s Moulin: Inflation is clearly 100% energy",
+      "link": "https://www.fxstreet.com/news/ecbs-moulin-inflation-is-clearly-100-energy-202610080733",
+      "published": "Thu, 08 Oct 2026 07:33:24 GMT",
+      "ts": 1791444804
+    },
     {
       "source": "CoinTelegraph",
       "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 07:30:42 +0000",
       "ts": 1791444642
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Downside seen limited near 1.3140 against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-downside-seen-limited-near-13140-against-us-dollar-uob-202610080724",
+      "published": "Thu, 08 Oct 2026 07:24:28 GMT",
+      "ts": 1791444268
     },
     {
       "source": "Investing Forex",
@@ -17,27 +108,6 @@
       "ts": 1791444246
     },
     {
-      "source": "FXStreet",
-      "title": "Forex Today: Euro stabilizes as markets await comments from central bankers",
-      "link": "https://www.fxstreet.com/news/forex-today-euro-stabilizes-as-markets-await-comments-from-central-bankers-202610080720",
-      "published": "Thu, 08 Oct 2026 07:20:47 GMT",
-      "ts": 1791444047
-    },
-    {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: Drifting closer to 18-month lows at 0.5580",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-drifting-closer-to-18-month-lows-at-05580-202610080720",
-      "published": "Thu, 08 Oct 2026 07:20:35 GMT",
-      "ts": 1791444035
-    },
-    {
-      "source": "FXStreet",
-      "title": "Equities: Bond stress triggers global stock retreat - Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-bond-stress-triggers-global-stock-retreat-deutsche-bank-202610080713",
-      "published": "Thu, 08 Oct 2026 07:13:06 GMT",
-      "ts": 1791443586
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin clings to $83K below key averages: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
@@ -45,46 +115,11 @@
       "ts": 1791443537
     },
     {
-      "source": "FXStreet",
-      "title": "Euro gains ground against British Pound despite French debt risks",
-      "link": "https://www.fxstreet.com/news/euro-gains-ground-against-british-pound-despite-french-debt-risks-202610080659",
-      "published": "Thu, 08 Oct 2026 06:59:14 GMT",
-      "ts": 1791442754
-    },
-    {
-      "source": "FXStreet",
-      "title": "Oil: Prices supported by supply risks and Iran tensions – Danske Bank",
-      "link": "https://www.fxstreet.com/news/oil-prices-supported-by-supply-risks-and-iran-tensions-danske-bank-202610080654",
-      "published": "Thu, 08 Oct 2026 06:54:30 GMT",
-      "ts": 1791442470
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: A fresh downside leg looks likely below 0.6900",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-a-fresh-downside-leg-looks-likely-below-06900-202610080653",
-      "published": "Thu, 08 Oct 2026 06:53:36 GMT",
-      "ts": 1791442416
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee: RBI tightening cycle resumes – Commerzbank",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-tightening-cycle-resumes-commerzbank-202610080639",
-      "published": "Thu, 08 Oct 2026 06:39:22 GMT",
-      "ts": 1791441562
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin falls below $83k as M.East tensions, soaring yields dent crypto appetite",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
       "published": "2026-10-08 06:37:24",
       "ts": 1791441444
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecasts: XAG/USD dips to $59.00 amid high yields, geopolitical tensions",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-dips-to-5900-amid-high-yields-geopolitical-tensions-202610080626",
-      "published": "Thu, 08 Oct 2026 06:26:32 GMT",
-      "ts": 1791440792
     },
     {
       "source": "CoinDesk",
@@ -99,13 +134,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 06:00:00 +0000",
       "ts": 1791439200
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee finds temporary support from likely RBI intervention",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-likely-rbis-intervention-202610080554",
-      "published": "Thu, 08 Oct 2026 05:54:27 GMT",
-      "ts": 1791438867
     },
     {
       "source": "CoinDesk",
@@ -304,20 +332,6 @@
       "ts": 1791390600
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
-      "link": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 16:25:38 +0000",
-      "ts": 1791390338
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
-      "link": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 16:06:03 +0000",
-      "ts": 1791389163
-    },
-    {
       "source": "CoinDesk",
       "title": "Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next",
       "link": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
@@ -330,13 +344,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
       "published": "Wed, 07 Oct 2026 15:03:54 +0000",
       "ts": 1791385434
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
-      "link": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
-      "published": "Wed, 07 Oct 2026 14:27:37 +0000",
-      "ts": 1791383257
     },
     {
       "source": "Investing Forex",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
       "published": "2026-10-06 21:06:19",
       "ts": 1791320779
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar weakens near 18-month low despite surprise trade surplus",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-near-18month-low-despite-surprise-trade-surplus-4935268",
-      "published": "2026-10-06 20:46:08",
-      "ts": 1791319568
     }
   ]
 }
