@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-08T06:15:06.983854Z",
+  "updated": "2026-10-08T06:43:26.192951Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Downside risks persist toward 1.1140 against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-persist-toward-11140-against-us-dollar-uob-202610080621",
+      "published": "Thu, 08 Oct 2026 06:21:34 GMT",
+      "ts": 1791440494
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+      "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+      "published": "Thu, 08 Oct 2026 06:17:13 +0000",
+      "ts": 1791440233
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar weakens despite higher oil prices",
@@ -78,13 +92,6 @@
       "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-seem-hesitant-below-8950-amid-middle-east-risks-202610080455",
       "published": "Thu, 08 Oct 2026 04:55:54 GMT",
       "ts": 1791435354
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japan’s Takaichi says does not require reflationary policy now",
-      "link": "https://www.fxstreet.com/news/japans-takaichi-says-does-not-require-reflationary-policy-now-202610080454",
-      "published": "Thu, 08 Oct 2026 04:54:25 GMT",
-      "ts": 1791435265
     },
     {
       "source": "FXStreet",
@@ -330,13 +337,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-dips-on-firm-dollar-eurgbp-at-16month-low-4935921",
       "published": "2026-10-07 13:42:09",
       "ts": 1791380529
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
-      "link": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
-      "published": "Wed, 07 Oct 2026 13:20:54 +0000",
-      "ts": 1791379254
     },
     {
       "source": "Investing Forex",
