@@ -1,13 +1,62 @@
 {
-  "updated": "2026-10-08T15:20:19.788303Z",
+  "updated": "2026-10-08T15:46:04.544948Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+      "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+      "published": "Thu, 08 Oct 2026 15:43:04 +0000",
+      "ts": 1791474184
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The Treasury market is facing a crucial vote of investor confidence",
+      "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 15:37:00 GMT",
+      "ts": 1791473820
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
+      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 15:30:00 GMT",
+      "ts": 1791473400
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US government moves $1B in seized Bitcoin after $770M transfers",
+      "link": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 15:24:16 +0000",
+      "ts": 1791473056
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+      "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+      "published": "Thu, 08 Oct 2026 15:23:26 +0000",
+      "ts": 1791473006
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD slides below $60 as sellers retain control",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slides-below-60-as-sellers-retain-control-202610081518",
+      "published": "Thu, 08 Oct 2026 15:18:58 GMT",
+      "ts": 1791472738
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
       "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
       "published": "Thu, 08 Oct 2026 15:11:15 +0000",
       "ts": 1791472275
+    },
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso: Watching support for reversal signal against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/mexican-peso-watching-support-for-reversal-signal-against-us-dollar-societe-generale-202610081442",
+      "published": "Thu, 08 Oct 2026 14:42:48 GMT",
+      "ts": 1791470568
     },
     {
       "source": "CoinDesk",
@@ -178,20 +227,6 @@
       "ts": 1791463399
     },
     {
-      "source": "FXStreet",
-      "title": "ECB expected to pause in October before hiking rates in December – Reuters poll",
-      "link": "https://www.fxstreet.com/news/ecb-expected-to-pause-in-october-before-hiking-rates-in-december-reuters-poll-202610081239",
-      "published": "Thu, 08 Oct 2026 12:39:00 GMT",
-      "ts": 1791463140
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Initial Jobless Claims dropped to 197K last week",
-      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-197k-last-week-202610081232",
-      "published": "Thu, 08 Oct 2026 12:32:50 GMT",
-      "ts": 1791462770
-    },
-    {
       "source": "MarketWatch",
       "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
       "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
@@ -211,20 +246,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-native-ai-travel-agent-with-bnb-chain--binance-pay-4938960",
       "published": "2026-10-08 12:30:10",
       "ts": 1791462610
-    },
-    {
-      "source": "MarketWatch",
-      "title": "GLP-1s could offer unexpected relief from back and knee pain, but doctors urge caution",
-      "link": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 12:30:00 GMT",
-      "ts": 1791462600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
-      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 12:15:00 GMT",
-      "ts": 1791461700
     },
     {
       "source": "Investing Forex",
@@ -269,13 +290,6 @@
       "ts": 1791459019
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
-      "published": "Thu, 08 Oct 2026 11:15:00 +0000",
-      "ts": 1791458100
-    },
-    {
       "source": "CoinTelegraph",
       "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
       "link": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -288,13 +302,6 @@
       "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-yields-and-hawkish-fed-signals-weigh-202610081055",
       "published": "Thu, 08 Oct 2026 10:55:42 GMT",
       "ts": 1791456942
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin breaks lower from recent trading range, sliding back to $82,000",
-      "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
-      "published": "Thu, 08 Oct 2026 10:44:47 +0000",
-      "ts": 1791456287
     },
     {
       "source": "CoinTelegraph",
@@ -337,13 +344,6 @@
       "link": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 08:24:24 +0000",
       "ts": 1791447864
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "NEAR enters crypto’s top 20 after 140% surge in 30 days",
-      "link": "https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 08:17:14 +0000",
-      "ts": 1791447434
     },
     {
       "source": "Investing Crypto",
