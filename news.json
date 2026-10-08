@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-08T05:30:03.329914Z",
+  "updated": "2026-10-08T05:49:02.754535Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+      "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+      "published": "Thu, 08 Oct 2026 05:40:41 +0000",
+      "ts": 1791438041
+    },
     {
       "source": "CoinTelegraph",
       "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
@@ -330,13 +337,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
       "published": "Wed, 07 Oct 2026 13:20:54 +0000",
       "ts": 1791379254
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
-      "link": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
-      "published": "Wed, 07 Oct 2026 12:40:31 +0000",
-      "ts": 1791376831
     },
     {
       "source": "Investing Forex",
