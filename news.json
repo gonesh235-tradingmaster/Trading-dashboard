@@ -1,13 +1,34 @@
 {
-  "updated": "2026-10-08T00:14:40.903874Z",
+  "updated": "2026-10-08T00:45:22.016958Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+      "published": "Thu, 08 Oct 2026 00:35:24 +0000",
+      "ts": 1791419724
+    },
     {
       "source": "CoinTelegraph",
       "title": "Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months",
       "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 00:04:32 +0000",
       "ts": 1791417872
+    },
+    {
+      "source": "FXStreet",
+      "title": "Pentagon orders readiness for potential Iran strikes as Trump weighs timing",
+      "link": "https://www.fxstreet.com/news/pentagon-orders-readiness-for-potential-iran-strikes-as-trump-weighs-timing-202610072349",
+      "published": "Wed, 07 Oct 2026 23:49:58 GMT",
+      "ts": 1791416998
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold falls to two‑month low near $4,100 on stronger US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-falls-to-two-month-low-near-4-100-on-stronger-us-dollar-202610072325",
+      "published": "Wed, 07 Oct 2026 23:25:06 GMT",
+      "ts": 1791415506
     },
     {
       "source": "FXStreet",
@@ -115,25 +136,11 @@
       "ts": 1791403869
     },
     {
-      "source": "FXStreet",
-      "title": "South Korean Won: Upside risks with key levels in focus against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/south-korean-won-upside-risks-with-key-levels-in-focus-against-us-dollar-ocbc-202610071951",
-      "published": "Wed, 07 Oct 2026 19:51:00 GMT",
-      "ts": 1791402660
-    },
-    {
       "source": "MarketWatch",
       "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
       "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 19:35:00 GMT",
       "ts": 1791401700
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold slides below $4,100 as FOMC Minutes signal further Fed hikes",
-      "link": "https://www.fxstreet.com/news/gold-slides-below-4-100-as-fomc-minutes-signal-further-fed-hikes-202610071929",
-      "published": "Wed, 07 Oct 2026 19:29:05 GMT",
-      "ts": 1791401345
     },
     {
       "source": "Investing Crypto",
@@ -323,13 +330,6 @@
       "link": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
       "published": "Wed, 07 Oct 2026 11:59:24 +0000",
       "ts": 1791374364
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Here’s what bitcoin needs to break above $87,000",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
-      "published": "Wed, 07 Oct 2026 11:30:00 +0000",
-      "ts": 1791372600
     },
     {
       "source": "Investing Crypto",
