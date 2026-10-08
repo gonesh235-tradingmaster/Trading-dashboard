@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-08T21:30:14.199910Z",
+  "updated": "2026-10-08T21:56:39.129272Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 21:45:00 GMT",
+      "ts": 1791495900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "PepsiCo CEO’s message to employees: If you’re not producing growth, you’re out",
+      "link": "https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 21:43:00 GMT",
+      "ts": 1791495780
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Struggles at 209.00 as bearish-engulfing looms",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-struggles-at-20900-as-bearish-engulfing-looms-202610082123",
+      "published": "Thu, 08 Oct 2026 21:23:59 GMT",
+      "ts": 1791494639
+    },
     {
       "source": "CoinDesk",
       "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
@@ -29,6 +50,13 @@
       "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 21:07:00 GMT",
       "ts": 1791493620
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold gains on geopolitics as Fed hike bets shift to December",
+      "link": "https://www.fxstreet.com/news/gold-gains-on-geopolitics-as-fed-hike-bets-shift-to-december-202610082105",
+      "published": "Thu, 08 Oct 2026 21:05:52 GMT",
+      "ts": 1791493552
     },
     {
       "source": "MarketWatch",
@@ -87,13 +115,6 @@
       "ts": 1791488775
     },
     {
-      "source": "MarketWatch",
-      "title": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
-      "link": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 19:41:00 GMT",
-      "ts": 1791488460
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
       "link": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -127,13 +148,6 @@
       "link": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 19:17:18 +0000",
       "ts": 1791487038
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 19:15:00 GMT",
-      "ts": 1791486900
     },
     {
       "source": "Investing Forex",
@@ -220,25 +234,11 @@
       "ts": 1791479410
     },
     {
-      "source": "FXStreet",
-      "title": "US President Trump rules out Iran strike before midterms, talks resume",
-      "link": "https://www.fxstreet.com/news/us-president-trump-rules-out-iran-strike-before-midterms-talks-resume-202610081642",
-      "published": "Thu, 08 Oct 2026 16:42:55 GMT",
-      "ts": 1791477775
-    },
-    {
       "source": "CoinTelegraph",
       "title": "IMF warns tokenized markets could amplify financial risks",
       "link": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 16:25:06 +0000",
       "ts": 1791476706
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dollar Index flatlines as Fed Governor Waller puts no date on more hikes",
-      "link": "https://www.fxstreet.com/news/dollar-index-flatlines-as-fed-governor-waller-puts-no-date-on-more-hikes-202610081618",
-      "published": "Thu, 08 Oct 2026 16:18:39 GMT",
-      "ts": 1791476319
     },
     {
       "source": "Investing Crypto",
