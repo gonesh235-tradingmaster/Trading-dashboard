@@ -1,13 +1,69 @@
 {
-  "updated": "2026-10-08T11:00:12.035559Z",
+  "updated": "2026-10-08T11:30:40.261291Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Euro weakness drives Sterling gains - MUFG",
+      "link": "https://www.fxstreet.com/news/british-pound-euro-weakness-drives-sterling-gains-mufg-202610081125",
+      "published": "Thu, 08 Oct 2026 11:25:39 GMT",
+      "ts": 1791458739
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: ECB Account seen reinforcing hike case – BBH",
+      "link": "https://www.fxstreet.com/news/euro-ecb-account-seen-reinforcing-hike-case-bbh-202610081115",
+      "published": "Thu, 08 Oct 2026 11:15:17 GMT",
+      "ts": 1791458117
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
+      "published": "Thu, 08 Oct 2026 11:15:00 +0000",
+      "ts": 1791458100
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
+      "link": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 11:03:36 +0000",
+      "ts": 1791457416
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+      "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 11:00:00 GMT",
+      "ts": 1791457200
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold struggles as rising yields and hawkish Fed signals weigh",
+      "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-yields-and-hawkish-fed-signals-weigh-202610081055",
+      "published": "Thu, 08 Oct 2026 10:55:42 GMT",
+      "ts": 1791456942
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc retreats further as SNB vice chairman hints at lower-for-longer rates",
+      "link": "https://www.fxstreet.com/news/swiss-franc-retreats-further-as-snb-vice-chairman-hints-at-lower-for-longer-rates-202610081055",
+      "published": "Thu, 08 Oct 2026 10:55:27 GMT",
+      "ts": 1791456927
+    },
     {
       "source": "MarketWatch",
       "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
       "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 10:55:00 GMT",
       "ts": 1791456900
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD slides to fresh two-month low below $59 as US yields eye more gains",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slides-to-fresh-two-month-low-below-59-as-us-yields-eye-more-gains-202610081047",
+      "published": "Thu, 08 Oct 2026 10:47:00 GMT",
+      "ts": 1791456420
     },
     {
       "source": "CoinDesk",
@@ -74,7 +130,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Samsung just did something no tech company has ever done, and investors still aren’t satisfied",
+      "title": "Samsung just did something no tech company has ever done, but investors still aren’t satisfied",
       "link": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 09:50:00 GMT",
       "ts": 1791453000
@@ -85,13 +141,6 @@
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-falters-as-oil-and-yields-rise-202610080946",
       "published": "Thu, 08 Oct 2026 09:46:29 GMT",
       "ts": 1791452789
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Rising oil prices and Fed outlook boost USD – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-rising-oil-prices-and-fed-outlook-boost-usd-bbh-202610080944",
-      "published": "Thu, 08 Oct 2026 09:44:18 GMT",
-      "ts": 1791452658
     },
     {
       "source": "CoinTelegraph",
@@ -106,13 +155,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
       "published": "2026-10-08 09:41:16",
       "ts": 1791452476
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: BoE hawkish shift could support gains against Euro – ING",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-hawkish-shift-could-support-gains-against-euro-ing-202610080933",
-      "published": "Thu, 08 Oct 2026 09:33:19 GMT",
-      "ts": 1791451999
     },
     {
       "source": "MarketWatch",
@@ -136,20 +178,6 @@
       "ts": 1791451920
     },
     {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202610080930",
-      "published": "Thu, 08 Oct 2026 09:30:29 GMT",
-      "ts": 1791451829
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar: Neutral outlook inside tight range against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-neutral-outlook-inside-tight-range-against-us-dollar-uob-202610080924",
-      "published": "Thu, 08 Oct 2026 09:24:24 GMT",
-      "ts": 1791451464
-    },
-    {
       "source": "CoinDesk",
       "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
       "link": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
@@ -162,13 +190,6 @@
       "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 09:15:00 GMT",
       "ts": 1791450900
-    },
-    {
-      "source": "FXStreet",
-      "title": "Oil: Prices supported by supply risks and Iran tensions – Danske Bank",
-      "link": "https://www.fxstreet.com/news/oil-prices-supported-by-supply-risks-and-iran-tensions-danske-bank-202610080914",
-      "published": "Thu, 08 Oct 2026 09:14:24 GMT",
-      "ts": 1791450864
     },
     {
       "source": "Investing Crypto",
@@ -290,25 +311,11 @@
       "ts": 1791436011
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
-      "link": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 04:28:27 +0000",
-      "ts": 1791433707
-    },
-    {
       "source": "CoinDesk",
       "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
       "link": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
       "published": "Thu, 08 Oct 2026 04:23:23 +0000",
       "ts": 1791433403
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
-      "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
-      "published": "Thu, 08 Oct 2026 04:00:07 +0000",
-      "ts": 1791432007
     },
     {
       "source": "MarketWatch",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-to-launch-with-500m-in-capital-backing-adds-anchorage-digital-to-coalition-4937792",
       "published": "2026-10-08 01:30:09",
       "ts": 1791423009
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
-      "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 22:32:00 GMT",
-      "ts": 1791412320
     },
     {
       "source": "Investing Crypto",
