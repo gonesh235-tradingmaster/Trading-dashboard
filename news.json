@@ -1,13 +1,34 @@
 {
-  "updated": "2026-10-08T18:22:13.862485Z",
+  "updated": "2026-10-08T18:47:54.282931Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 18:30:00 GMT",
+      "ts": 1791484200
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 18:29:33 +0000",
+      "ts": 1791484173
+    },
     {
       "source": "MarketWatch",
       "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
       "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 18:19:00 GMT",
       "ts": 1791483540
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+      "link": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 18:17:35 +0000",
+      "ts": 1791483455
     },
     {
       "source": "CoinDesk",
@@ -31,11 +52,39 @@
       "ts": 1791482801
     },
     {
+      "source": "FXStreet",
+      "title": "Forex Today: US flash Consumer Sentiment and Canadian jobs in the limelight",
+      "link": "https://www.fxstreet.com/news/forex-today-us-flash-consumer-sentiment-and-canadian-jobs-in-the-limelight-202610081803",
+      "published": "Thu, 08 Oct 2026 18:03:47 GMT",
+      "ts": 1791482627
+    },
+    {
+      "source": "FXStreet",
+      "title": "Malaysian Ringgit: Fiscal anchor case – MUFG",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-fiscal-anchor-case-mufg-202610081757",
+      "published": "Thu, 08 Oct 2026 17:57:34 GMT",
+      "ts": 1791482254
+    },
+    {
+      "source": "FXStreet",
+      "title": "Fed's Musalem signals more tightening as inflation stays elevated",
+      "link": "https://www.fxstreet.com/news/feds-musalem-signals-more-tightening-as-inflation-stays-elevated-202610081757",
+      "published": "Thu, 08 Oct 2026 17:57:16 GMT",
+      "ts": 1791482236
+    },
+    {
       "source": "MarketWatch",
       "title": "Rising interest rates: The good, the bad and the ugly for retirees",
       "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 17:45:00 GMT",
       "ts": 1791481500
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen finds relief as Trump rules out Iran strikes before midterms",
+      "link": "https://www.fxstreet.com/news/japanese-yen-finds-relief-as-trump-rules-out-iran-strikes-before-midterms-202610081744",
+      "published": "Thu, 08 Oct 2026 17:44:48 GMT",
+      "ts": 1791481488
     },
     {
       "source": "FXStreet",
@@ -136,13 +185,6 @@
       "ts": 1791474716
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound catches bid as Fed’s Waller eyes a pause in October",
-      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-feds-waller-eyes-a-pause-in-october-202610081550",
-      "published": "Thu, 08 Oct 2026 15:50:41 GMT",
-      "ts": 1791474641
-    },
-    {
       "source": "MarketWatch",
       "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
       "link": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
@@ -155,13 +197,6 @@
       "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
       "published": "Thu, 08 Oct 2026 15:43:04 +0000",
       "ts": 1791474184
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 15:30:00 GMT",
-      "ts": 1791473400
     },
     {
       "source": "CoinTelegraph",
@@ -178,25 +213,11 @@
       "ts": 1791473006
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD slides below $60 as sellers retain control",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slides-below-60-as-sellers-retain-control-202610081518",
-      "published": "Thu, 08 Oct 2026 15:18:58 GMT",
-      "ts": 1791472738
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
       "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
       "published": "Thu, 08 Oct 2026 15:11:15 +0000",
       "ts": 1791472275
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso: Watching support for reversal signal against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/mexican-peso-watching-support-for-reversal-signal-against-us-dollar-societe-generale-202610081442",
-      "published": "Thu, 08 Oct 2026 14:42:48 GMT",
-      "ts": 1791470568
     },
     {
       "source": "CoinDesk",
@@ -256,13 +277,6 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 12:58:01 +0000",
-      "ts": 1791464281
-    },
-    {
-      "source": "CoinTelegraph",
       "title": "EU lawmakers push crypto onto anti-corruption agenda",
       "link": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 12:54:21 +0000",
@@ -316,20 +330,6 @@
       "link": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 11:03:36 +0000",
       "ts": 1791457416
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold gains modestly as US Treasury yields ease, Fed hike risks linger",
-      "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-yields-and-hawkish-fed-signals-weigh-202610081055",
-      "published": "Thu, 08 Oct 2026 10:55:42 GMT",
-      "ts": 1791456942
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls",
-      "link": "https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 09:56:07 +0000",
-      "ts": 1791453367
     },
     {
       "source": "Investing Forex",
