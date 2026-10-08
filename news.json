@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-08T12:18:54.258429Z",
+  "updated": "2026-10-08T12:51:07.705694Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Who will benefit more from AI agents when it comes to spending – companies or you?",
+      "link": "https://www.marketwatch.com/story/who-will-benefit-more-from-ai-agents-when-it-comes-to-spending-companies-or-you-cec597ed?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 12:47:00 GMT",
+      "ts": 1791463620
+    },
+    {
+      "source": "MarketWatch",
+      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
+      "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 12:46:00 GMT",
+      "ts": 1791463560
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+      "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 12:32:00 GMT",
+      "ts": 1791462720
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Stablecoins Are Quietly Becoming Business Infrastructure, NOWPayments Data Shows",
+      "link": "https://www.investing.com/news/cryptocurrency-news/stablecoins-are-quietly-becoming-business-infrastructure-nowpayments-data-shows-4938959",
+      "published": "2026-10-08 12:30:10",
+      "ts": 1791462610
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Travala Launches Native AI Travel Agent with BNB Chain & Binance Pay",
+      "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-native-ai-travel-agent-with-bnb-chain--binance-pay-4938960",
+      "published": "2026-10-08 12:30:10",
+      "ts": 1791462610
+    },
+    {
+      "source": "MarketWatch",
+      "title": "GLP-1s could offer unexpected relief from back and knee pain, but doctors urge caution",
+      "link": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 12:30:00 GMT",
+      "ts": 1791462600
+    },
+    {
+      "source": "FXStreet",
+      "title": "Europe: Sovereign stress and China trade tensions – Rabobank",
+      "link": "https://www.fxstreet.com/news/europe-sovereign-stress-and-china-trade-tensions-rabobank-202610081221",
+      "published": "Thu, 08 Oct 2026 12:21:47 GMT",
+      "ts": 1791462107
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro slips against British Pound on France’s fiscal concerns, central bank signals",
+      "link": "https://www.fxstreet.com/news/euro-slips-against-british-pound-on-frances-fiscal-concerns-central-bank-signals-202610081216",
+      "published": "Thu, 08 Oct 2026 12:16:40 GMT",
+      "ts": 1791461800
+    },
     {
       "source": "MarketWatch",
       "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
@@ -17,13 +73,6 @@
       "ts": 1791461700
     },
     {
-      "source": "MarketWatch",
-      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
-      "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 12:14:00 GMT",
-      "ts": 1791461640
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. yields resume upward march while Eurozone finance ministers pressure Paris",
       "link": "https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
@@ -36,6 +85,20 @@
       "link": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 12:03:28 +0000",
       "ts": 1791461008
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar nears 18-month lows as risk aversion buoys the US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-nears-18-month-lows-as-risk-aversion-buoys-the-us-dollar-202610081202",
+      "published": "Thu, 08 Oct 2026 12:02:10 GMT",
+      "ts": 1791460930
+    },
+    {
+      "source": "FXStreet",
+      "title": "United Kingdom: GDP momentum seen slowing – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/united-kingdom-gdp-momentum-seen-slowing-deutsche-bank-202610081200",
+      "published": "Thu, 08 Oct 2026 12:00:53 GMT",
+      "ts": 1791460853
     },
     {
       "source": "CoinDesk",
@@ -59,11 +122,39 @@
       "ts": 1791459765
     },
     {
+      "source": "FXStreet",
+      "title": "ECB Accounts: Upside risks surrounding inflation outlook",
+      "link": "https://www.fxstreet.com/news/ecb-accounts-upside-risks-surrounding-inflation-outlook-202610081142",
+      "published": "Thu, 08 Oct 2026 11:42:11 GMT",
+      "ts": 1791459731
+    },
+    {
+      "source": "FXStreet",
+      "title": "ECB officials agree: Eurozone is still saved from second-round inflation effects",
+      "link": "https://www.fxstreet.com/news/ecb-officials-agree-eurozone-is-still-saved-from-second-round-inflation-effects-202610081142",
+      "published": "Thu, 08 Oct 2026 11:42:00 GMT",
+      "ts": 1791459720
+    },
+    {
+      "source": "FXStreet",
+      "title": "Romanian Leu: Policy on hold as politics weigh – Societe Generale",
+      "link": "https://www.fxstreet.com/news/romanian-leu-policy-on-hold-as-politics-weigh-societe-generale-202610081138",
+      "published": "Thu, 08 Oct 2026 11:38:54 GMT",
+      "ts": 1791459534
+    },
+    {
       "source": "CoinDesk",
       "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
       "link": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
       "published": "Thu, 08 Oct 2026 11:36:25 +0000",
       "ts": 1791459385
+    },
+    {
+      "source": "FXStreet",
+      "title": "Polish Zloty: Dovish hold with limited tightening – ING",
+      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-hold-with-limited-tightening-ing-202610081134",
+      "published": "Thu, 08 Oct 2026 11:34:14 GMT",
+      "ts": 1791459254
     },
     {
       "source": "MarketWatch",
@@ -88,10 +179,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Euro: ECB Account seen reinforcing hike case – BBH",
-      "link": "https://www.fxstreet.com/news/euro-ecb-account-seen-reinforcing-hike-case-bbh-202610081115",
-      "published": "Thu, 08 Oct 2026 11:15:17 GMT",
-      "ts": 1791458117
+      "title": "British Pound: Euro weakness drives Sterling gains - MUFG",
+      "link": "https://www.fxstreet.com/news/british-pound-euro-weakness-drives-sterling-gains-mufg-202610081125",
+      "published": "Thu, 08 Oct 2026 11:25:39 GMT",
+      "ts": 1791458739
     },
     {
       "source": "CoinDesk",
@@ -108,36 +199,8 @@
       "ts": 1791457416
     },
     {
-      "source": "MarketWatch",
-      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
-      "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 11:00:00 GMT",
-      "ts": 1791457200
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold struggles as rising yields and hawkish Fed signals weigh",
-      "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-yields-and-hawkish-fed-signals-weigh-202610081055",
-      "published": "Thu, 08 Oct 2026 10:55:42 GMT",
-      "ts": 1791456942
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc retreats further as SNB vice chairman hints at lower-for-longer rates",
-      "link": "https://www.fxstreet.com/news/swiss-franc-retreats-further-as-snb-vice-chairman-hints-at-lower-for-longer-rates-202610081055",
-      "published": "Thu, 08 Oct 2026 10:55:27 GMT",
-      "ts": 1791456927
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD slides to fresh two-month low below $59 as US yields eye more gains",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slides-to-fresh-two-month-low-below-59-as-us-yields-eye-more-gains-202610081047",
-      "published": "Thu, 08 Oct 2026 10:47:00 GMT",
-      "ts": 1791456420
-    },
-    {
       "source": "CoinDesk",
-      "title": "Live news: Risk assets under pressure as bond selloff and oil rally intensify",
+      "title": "Live updates: Risk assets under pressure as bond selloff and oil rally intensify",
       "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
       "published": "Thu, 08 Oct 2026 10:44:47 +0000",
       "ts": 1791456287
@@ -157,67 +220,11 @@
       "ts": 1791455400
     },
     {
-      "source": "FXStreet",
-      "title": "China: PBoC rules out competitive Yuan devaluation to boost trade",
-      "link": "https://www.fxstreet.com/news/china-pboc-rules-out-competitive-yuan-devaluation-to-boost-trade-202610081021",
-      "published": "Thu, 08 Oct 2026 10:21:14 GMT",
-      "ts": 1791454874
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 10:15:00 GMT",
-      "ts": 1791454500
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc: Range trading holds for now against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-range-trading-holds-for-now-against-us-dollar-uob-202610081000",
-      "published": "Thu, 08 Oct 2026 10:00:51 GMT",
-      "ts": 1791453651
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls",
       "link": "https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 09:56:07 +0000",
       "ts": 1791453367
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss National Bank sees no need to change rates despite Iran risks",
-      "link": "https://www.fxstreet.com/news/swiss-national-bank-sees-no-need-to-change-rates-despite-iran-risks-202610080953",
-      "published": "Thu, 08 Oct 2026 09:53:52 GMT",
-      "ts": 1791453232
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Breakout to set direction against US Dollar - Societe Generale",
-      "link": "https://www.fxstreet.com/news/japanese-yen-breakout-to-set-direction-against-us-dollar-societe-generale-202610080952",
-      "published": "Thu, 08 Oct 2026 09:52:33 GMT",
-      "ts": 1791453153
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Samsung just did something no tech company has ever done, but investors still aren’t satisfied",
-      "link": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 09:50:00 GMT",
-      "ts": 1791453000
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold Price Forecast: XAU/USD recovery falters as Oil and yields rise",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-falters-as-oil-and-yields-rise-202610080946",
-      "published": "Thu, 08 Oct 2026 09:46:29 GMT",
-      "ts": 1791452789
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Rising oil prices and Fed outlook boost USD – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-rising-oil-prices-and-fed-outlook-boost-usd-bbh-202610080944",
-      "published": "Thu, 08 Oct 2026 09:44:18 GMT",
-      "ts": 1791452658
     },
     {
       "source": "CoinTelegraph",
@@ -332,6 +339,13 @@
       "ts": 1791439200
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee remains on track to revisit all-time low",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-likely-rbis-intervention-202610080554",
+      "published": "Thu, 08 Oct 2026 05:54:27 GMT",
+      "ts": 1791438867
+    },
+    {
       "source": "Investing Crypto",
       "title": "Hashi Mainnet to Launch With $500M in Capital Backing, Adds Anchorage Digital to Coalition",
       "link": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-to-launch-with-500m-in-capital-backing-adds-anchorage-digital-to-coalition-4937792",
@@ -407,20 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/yap-kredi-kripto-selects-integral-to-power-digital-asset-trading-services-in-turkiye-4935714",
       "published": "2026-10-07 07:30:09",
       "ts": 1791358209
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BTCC Exchange Launches Refreshed Trust Center: Alex Hung on 15 Years of Earning Traders’ Trust",
-      "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-launches-refreshed-trust-center-alex-hung-on-15-years-of-earning-traders-trust-4935518",
-      "published": "2026-10-07 01:30:09",
-      "ts": 1791336609
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips as oil turns higher, countering bond rout halt and regulatory hopes",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
-      "published": "2026-10-06 21:46:48",
-      "ts": 1791323208
     }
   ]
 }
