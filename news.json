@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-08T14:33:54.682089Z",
+  "updated": "2026-10-08T14:58:45.822314Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
+      "link": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
+      "published": "Thu, 08 Oct 2026 14:39:48 +0000",
+      "ts": 1791470388
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Layoffs haven’t been this low since the 1960s. It’s great if you have a job — but not if you don’t.",
+      "link": "https://www.marketwatch.com/story/layoffs-havent-been-this-low-since-the-1960s-its-great-if-you-have-a-job-but-not-if-you-dont-74cbdf55?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 14:35:00 GMT",
+      "ts": 1791470100
+    },
     {
       "source": "MarketWatch",
       "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
@@ -22,6 +36,13 @@
       "link": "https://www.fxstreet.com/news/euro-steadies-as-us-yields-retreat-traders-assess-fed-and-ecb-signals-202610081419",
       "published": "Thu, 08 Oct 2026 14:19:40 GMT",
       "ts": 1791469180
+    },
+    {
+      "source": "Investing Forex",
+      "title": "South African rand holds steady ahead of manufacturing data",
+      "link": "https://www.investing.com/news/forex-news/south-african-rand-holds-steady-ahead-of-manufacturing-data-93CH-4939314",
+      "published": "2026-10-08 14:18:10",
+      "ts": 1791469090
     },
     {
       "source": "FXStreet",
@@ -199,13 +220,6 @@
       "ts": 1791461700
     },
     {
-      "source": "MarketWatch",
-      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
-      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 12:15:00 GMT",
-      "ts": 1791461700
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. yields resume upward march while Eurozone finance ministers pressure Paris",
       "link": "https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
@@ -263,7 +277,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold struggles as rising yields and hawkish Fed signals weigh",
+      "title": "Gold gains modestly as US Treasury yields ease, Fed hike risks linger",
       "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-yields-and-hawkish-fed-signals-weigh-202610081055",
       "published": "Thu, 08 Oct 2026 10:55:42 GMT",
       "ts": 1791456942
@@ -302,13 +316,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
       "published": "2026-10-08 09:41:16",
       "ts": 1791452476
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
-      "link": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
-      "published": "Thu, 08 Oct 2026 09:32:13 +0000",
-      "ts": 1791451933
     },
     {
       "source": "Investing Forex",
@@ -407,13 +414,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain-40-million-transactions-per-second-4936094",
       "published": "2026-10-07 10:30:10",
       "ts": 1791369010
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Iraq devalues dinar to 1,520 per US dollar, state news agency says",
-      "link": "https://www.investing.com/news/forex-news/iraq-devalues-dinar-to-1520-per-us-dollar-state-news-agency-says-4935843",
-      "published": "2026-10-07 10:00:53",
-      "ts": 1791367253
     },
     {
       "source": "Investing Crypto",
