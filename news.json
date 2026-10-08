@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-08T23:12:30.335515Z",
+  "updated": "2026-10-08T23:30:33.873702Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+      "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 23:14:00 GMT",
+      "ts": 1791501240
+    },
     {
       "source": "CoinTelegraph",
       "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
@@ -85,13 +92,6 @@
       "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 21:15:00 GMT",
       "ts": 1791494100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
-      "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 21:07:00 GMT",
-      "ts": 1791493620
     },
     {
       "source": "FXStreet",
