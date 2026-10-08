@@ -1,13 +1,27 @@
 {
-  "updated": "2026-10-08T16:58:55.746808Z",
+  "updated": "2026-10-08T17:18:41.156872Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "How to provide guaranteed retirement income while paying no commissions",
+      "link": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 16:57:00 GMT",
+      "ts": 1791478620
+    },
     {
       "source": "MarketWatch",
       "title": "I keep comparing myself to my more financially successful friends. How can I stop?",
       "link": "https://www.marketwatch.com/story/i-keep-comparing-myself-to-my-more-financially-successful-friends-how-can-i-stop-716a2009?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 16:52:00 GMT",
       "ts": 1791478320
+    },
+    {
+      "source": "FXStreet",
+      "title": "US President Trump rules out Iran strike before midterms, talks resume",
+      "link": "https://www.fxstreet.com/news/us-president-trump-rules-out-iran-strike-before-midterms-talks-resume-202610081642",
+      "published": "Thu, 08 Oct 2026 16:42:55 GMT",
+      "ts": 1791477775
     },
     {
       "source": "MarketWatch",
@@ -53,7 +67,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Banxico minutes flags upside inflation risks despite 6.50% rate hold",
+      "title": "Banxico minutes flag upside inflation risks despite 6.50% rate hold",
       "link": "https://www.fxstreet.com/news/banxico-minutes-flags-upside-inflation-risks-despite-650-rate-hold-202610081602",
       "published": "Thu, 08 Oct 2026 16:02:28 GMT",
       "ts": 1791475348
@@ -171,13 +185,6 @@
       "ts": 1791470100
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 14:30:00 GMT",
-      "ts": 1791469800
-    },
-    {
       "source": "CoinDesk",
       "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
       "link": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
@@ -197,13 +204,6 @@
       "link": "https://www.investing.com/news/forex-news/south-african-rand-holds-steady-ahead-of-manufacturing-data-93CH-4939314",
       "published": "2026-10-08 14:18:10",
       "ts": 1791469090
-    },
-    {
-      "source": "FXStreet",
-      "title": "Germany: Gradual recovery with energy risks – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/germany-gradual-recovery-with-energy-risks-deutsche-bank-202610081409",
-      "published": "Thu, 08 Oct 2026 14:09:54 GMT",
-      "ts": 1791468594
     },
     {
       "source": "CoinDesk",
