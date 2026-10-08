@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-08T10:44:29.161759Z",
+  "updated": "2026-10-08T11:00:12.035559Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
+      "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 10:55:00 GMT",
+      "ts": 1791456900
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live news: Risk assets under pressure as bond selloff and oil rally intensify",
+      "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
+      "published": "Thu, 08 Oct 2026 10:44:47 +0000",
+      "ts": 1791456287
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
@@ -311,13 +325,6 @@
       "ts": 1791423009
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-      "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-      "published": "Thu, 08 Oct 2026 00:35:24 +0000",
-      "ts": 1791419724
-    },
-    {
       "source": "MarketWatch",
       "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
       "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
       "published": "2026-10-07 20:58:07",
       "ts": 1791406687
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-      "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 20:58:00 GMT",
-      "ts": 1791406680
     },
     {
       "source": "Investing Crypto",
