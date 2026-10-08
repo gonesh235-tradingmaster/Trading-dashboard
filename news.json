@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-08T00:45:22.016958Z",
+  "updated": "2026-10-08T01:12:57.313402Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI posts modest gains above $88.50 on unexpected EIA draw, Middle East conflicts in focus",
+      "link": "https://www.fxstreet.com/news/wti-posts-modest-gains-above-8850-on-unexpected-eia-draw-middle-east-conflicts-in-focus-202610080056",
+      "published": "Thu, 08 Oct 2026 00:56:51 GMT",
+      "ts": 1791421011
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
@@ -127,13 +134,6 @@
       "link": "https://www.fxstreet.com/news/vietnamese-dong-constructive-but-upside-constrained-commerzbank-202610072033",
       "published": "Wed, 07 Oct 2026 20:33:00 GMT",
       "ts": 1791405180
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD cracks $60 as bears eye $56",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-cracks-60-as-bears-eye-56-202610072011",
-      "published": "Wed, 07 Oct 2026 20:11:09 GMT",
-      "ts": 1791403869
     },
     {
       "source": "MarketWatch",
