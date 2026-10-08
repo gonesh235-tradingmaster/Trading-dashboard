@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-08T08:18:14.284239Z",
+  "updated": "2026-10-08T08:45:06.525610Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
+      "link": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+      "published": "Thu, 08 Oct 2026 08:39:23 +0000",
+      "ts": 1791448763
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures drop as US Treasury yields surge",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-us-treasury-yields-surge-202610080832",
+      "published": "Thu, 08 Oct 2026 08:32:44 GMT",
+      "ts": 1791448364
+    },
+    {
+      "source": "FXStreet",
+      "title": "CEE FX: Dovish stance keeps Zloty and Leu under pressure – ING",
+      "link": "https://www.fxstreet.com/news/cee-fx-dovish-stance-keeps-zloty-and-leu-under-pressure-ing-202610080829",
+      "published": "Thu, 08 Oct 2026 08:29:02 GMT",
+      "ts": 1791448142
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+      "link": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 08:24:24 +0000",
+      "ts": 1791447864
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Bullish bias within broad range against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bullish-bias-within-broad-range-against-us-dollar-uob-202610080817",
+      "published": "Thu, 08 Oct 2026 08:17:34 GMT",
+      "ts": 1791447454
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "NEAR enters crypto’s top 20 after 140% surge in 30 days",
+      "link": "https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 08:17:14 +0000",
+      "ts": 1791447434
+    },
     {
       "source": "CoinTelegraph",
       "title": "Standard Chartered plans institutional crypto custody in Singapore",
@@ -80,25 +122,11 @@
       "ts": 1791445049
     },
     {
-      "source": "FXStreet",
-      "title": "ECB’s Moulin: Inflation is clearly 100% energy",
-      "link": "https://www.fxstreet.com/news/ecbs-moulin-inflation-is-clearly-100-energy-202610080733",
-      "published": "Thu, 08 Oct 2026 07:33:24 GMT",
-      "ts": 1791444804
-    },
-    {
       "source": "CoinTelegraph",
       "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 07:30:42 +0000",
       "ts": 1791444642
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound: Downside seen limited near 1.3140 against US Dollar - UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-downside-seen-limited-near-13140-against-us-dollar-uob-202610080724",
-      "published": "Thu, 08 Oct 2026 07:24:28 GMT",
-      "ts": 1791444268
     },
     {
       "source": "Investing Forex",
@@ -148,13 +176,6 @@
       "link": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 05:06:51 +0000",
       "ts": 1791436011
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold bulls remain on the sidelines as hawkish Fed and Middle East jitters underpin USD",
-      "link": "https://www.fxstreet.com/news/gold-moves-away-from-two-month-low-not-out-of-the-woods-yet-amid-hawkish-fed-bullish-usd-202610080432",
-      "published": "Thu, 08 Oct 2026 04:32:31 GMT",
-      "ts": 1791433951
     },
     {
       "source": "CoinTelegraph",
@@ -304,20 +325,6 @@
       "ts": 1791397320
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
-      "link": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 18:00:10 +0000",
-      "ts": 1791396010
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
-      "link": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 17:46:59 +0000",
-      "ts": 1791395219
-    },
-    {
       "source": "MarketWatch",
       "title": "Washington and Wall Street chose to delay paying their bills — and to put them on your tab",
       "link": "https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories",
@@ -337,13 +344,6 @@
       "link": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
       "published": "Wed, 07 Oct 2026 15:13:15 +0000",
       "ts": 1791385995
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
-      "published": "Wed, 07 Oct 2026 15:03:54 +0000",
-      "ts": 1791385434
     },
     {
       "source": "Investing Forex",
