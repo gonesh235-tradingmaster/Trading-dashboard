@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-08T09:31:38.437605Z",
+  "updated": "2026-10-08T09:58:37.113823Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Samsung just did something no tech company has ever done, and investors still aren’t satisfied",
+      "link": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 09:50:00 GMT",
+      "ts": 1791453000
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+      "link": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 09:42:04 +0000",
+      "ts": 1791452524
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro limps toward fifth weekly loss as dollar pauses near 18-month highs",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
+      "published": "2026-10-08 09:41:16",
+      "ts": 1791452476
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
+      "link": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 09:33:00 GMT",
+      "ts": 1791451980
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+      "link": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+      "published": "Thu, 08 Oct 2026 09:32:13 +0000",
+      "ts": 1791451933
+    },
+    {
+      "source": "MarketWatch",
+      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
+      "link": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 09:32:00 GMT",
+      "ts": 1791451920
+    },
     {
       "source": "CoinDesk",
       "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
@@ -17,32 +59,11 @@
       "ts": 1791450900
     },
     {
-      "source": "FXStreet",
-      "title": "Oil: Prices supported by supply risks and Iran tensions – Danske Bank",
-      "link": "https://www.fxstreet.com/news/oil-prices-supported-by-supply-risks-and-iran-tensions-danske-bank-202610080914",
-      "published": "Thu, 08 Oct 2026 09:14:24 GMT",
-      "ts": 1791450864
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar declines as US Dollar gains amid rising Treasury yields",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-as-us-dollar-gains-amid-rising-treasury-yields-202610080913",
-      "published": "Thu, 08 Oct 2026 09:13:05 GMT",
-      "ts": 1791450785
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin muted at $83k as M.East tensions, soaring yields dent crypto appetite",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
       "published": "2026-10-08 09:11:26",
       "ts": 1791450686
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Downside risks persist against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-persist-against-us-dollar-commerzbank-202610080904",
-      "published": "Thu, 08 Oct 2026 09:04:06 GMT",
-      "ts": 1791450246
     },
     {
       "source": "MarketWatch",
@@ -108,11 +129,32 @@
       "ts": 1791449154
     },
     {
+      "source": "FXStreet",
+      "title": "Indian Rupee: Broadening price pressures challenge RBI – Societe Generale",
+      "link": "https://www.fxstreet.com/news/indian-rupee-broadening-price-pressures-challenge-rbi-societe-generale-202610080839",
+      "published": "Thu, 08 Oct 2026 08:39:30 GMT",
+      "ts": 1791448770
+    },
+    {
       "source": "CoinDesk",
       "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
       "link": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
       "published": "Thu, 08 Oct 2026 08:39:23 +0000",
       "ts": 1791448763
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones futures drop as US Treasury yields surge",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-us-treasury-yields-surge-202610080832",
+      "published": "Thu, 08 Oct 2026 08:32:44 GMT",
+      "ts": 1791448364
+    },
+    {
+      "source": "FXStreet",
+      "title": "CEE FX: Dovish stance keeps Zloty and Leu under pressure – ING",
+      "link": "https://www.fxstreet.com/news/cee-fx-dovish-stance-keeps-zloty-and-leu-under-pressure-ing-202610080829",
+      "published": "Thu, 08 Oct 2026 08:29:02 GMT",
+      "ts": 1791448142
     },
     {
       "source": "CoinTelegraph",
@@ -164,13 +206,6 @@
       "ts": 1791444642
     },
     {
-      "source": "Investing Forex",
-      "title": "Asian currencies rangebound as dollar holds 18-month high, euro under pressure",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
-      "published": "2026-10-08 07:24:06",
-      "ts": 1791444246
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin clings to $83K below key averages: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
@@ -192,13 +227,6 @@
       "ts": 1791439200
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee gets relief from likely RBI intervention, downside remains favored",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-likely-rbis-intervention-202610080554",
-      "published": "Thu, 08 Oct 2026 05:54:27 GMT",
-      "ts": 1791438867
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
       "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
@@ -211,6 +239,13 @@
       "link": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 05:06:51 +0000",
       "ts": 1791436011
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold struggles to extend recovery from two-month low as hawkish Fed, strong USD cap gains",
+      "link": "https://www.fxstreet.com/news/gold-moves-away-from-two-month-low-not-out-of-the-woods-yet-amid-hawkish-fed-bullish-usd-202610080432",
+      "published": "Thu, 08 Oct 2026 04:32:31 GMT",
+      "ts": 1791433951
     },
     {
       "source": "CoinTelegraph",
@@ -304,25 +339,11 @@
       "ts": 1791406680
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
-      "link": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 20:48:34 +0000",
-      "ts": 1791406114
-    },
-    {
       "source": "MarketWatch",
       "title": "Options traders are betting on a dramatic drop in interest rates",
       "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 20:36:00 GMT",
       "ts": 1791405360
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
-      "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 19:35:00 GMT",
-      "ts": 1791401700
     },
     {
       "source": "Investing Crypto",
@@ -332,32 +353,11 @@
       "ts": 1791401218
     },
     {
-      "source": "MarketWatch",
-      "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
-      "link": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 19:12:00 GMT",
-      "ts": 1791400320
-    },
-    {
       "source": "CoinDesk",
       "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
       "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
       "published": "Wed, 07 Oct 2026 18:59:32 +0000",
       "ts": 1791399572
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Stocks are increasingly their own best hedge. This chart shows why.",
-      "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 18:31:00 GMT",
-      "ts": 1791397860
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
-      "link": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
-      "published": "Wed, 07 Oct 2026 16:30:00 +0000",
-      "ts": 1791390600
     },
     {
       "source": "Investing Forex",
