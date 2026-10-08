@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-08T17:18:41.156872Z",
+  "updated": "2026-10-08T17:43:50.007562Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Further weakness possible against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-further-weakness-possible-against-us-dollar-uob-202610081710",
+      "published": "Thu, 08 Oct 2026 17:10:10 GMT",
+      "ts": 1791479410
+    },
     {
       "source": "MarketWatch",
       "title": "How to provide guaranteed retirement income while paying no commissions",
@@ -190,13 +197,6 @@
       "link": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
       "published": "Thu, 08 Oct 2026 14:24:24 +0000",
       "ts": 1791469464
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro steadies as US yields retreat, traders assess Fed and ECB signals",
-      "link": "https://www.fxstreet.com/news/euro-steadies-as-us-yields-retreat-traders-assess-fed-and-ecb-signals-202610081419",
-      "published": "Thu, 08 Oct 2026 14:19:40 GMT",
-      "ts": 1791469180
     },
     {
       "source": "Investing Forex",
