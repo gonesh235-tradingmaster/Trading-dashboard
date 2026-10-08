@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-08T03:32:21.169768Z",
+  "updated": "2026-10-08T03:57:24.941565Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar moves sideways as US Dollar stabilizes amid rising bond yields",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-moves-sideways-as-us-dollar-stabilizes-amid-rising-bond-yields-202610080335",
+      "published": "Thu, 08 Oct 2026 03:35:02 GMT",
+      "ts": 1791430502
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro rebounds as Japanese Yen underperforms despite upbeat trade data",
+      "link": "https://www.fxstreet.com/news/euro-rebounds-as-japanese-yen-underperforms-despite-upbeat-trade-data-202610080334",
+      "published": "Thu, 08 Oct 2026 03:34:37 GMT",
+      "ts": 1791430477
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar declines to near 0.6950 on hawkish Fed Minutes",
@@ -80,13 +94,6 @@
       "ts": 1791422006
     },
     {
-      "source": "FXStreet",
-      "title": "WTI posts modest gains above $88.50 on unexpected EIA draw, Middle East conflicts in focus",
-      "link": "https://www.fxstreet.com/news/wti-posts-modest-gains-above-8850-on-unexpected-eia-draw-middle-east-conflicts-in-focus-202610080056",
-      "published": "Thu, 08 Oct 2026 00:56:51 GMT",
-      "ts": 1791421011
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
       "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
@@ -99,13 +106,6 @@
       "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 00:04:32 +0000",
       "ts": 1791417872
-    },
-    {
-      "source": "FXStreet",
-      "title": "Pentagon orders readiness for potential Iran strikes as Trump weighs timing",
-      "link": "https://www.fxstreet.com/news/pentagon-orders-readiness-for-potential-iran-strikes-as-trump-weighs-timing-202610072349",
-      "published": "Wed, 07 Oct 2026 23:49:58 GMT",
-      "ts": 1791416998
     },
     {
       "source": "MarketWatch",
