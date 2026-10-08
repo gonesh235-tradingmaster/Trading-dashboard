@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-07T23:54:27.843484Z",
+  "updated": "2026-10-08T00:14:40.903874Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months",
+      "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 00:04:32 +0000",
+      "ts": 1791417872
+    },
     {
       "source": "FXStreet",
       "title": "The Yen round-trips after Japanese pay beats its forecast",
@@ -316,13 +323,6 @@
       "link": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
       "published": "Wed, 07 Oct 2026 11:59:24 +0000",
       "ts": 1791374364
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Crypto card access doesn’t match global demand, Tangem says",
-      "link": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 11:37:48 +0000",
-      "ts": 1791373068
     },
     {
       "source": "CoinDesk",
