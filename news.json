@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-08T14:01:32.597909Z",
+  "updated": "2026-10-08T14:33:54.682089Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 14:30:00 GMT",
+      "ts": 1791469800
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
+      "link": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+      "published": "Thu, 08 Oct 2026 14:24:24 +0000",
+      "ts": 1791469464
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro steadies as US yields retreat, traders assess Fed and ECB signals",
+      "link": "https://www.fxstreet.com/news/euro-steadies-as-us-yields-retreat-traders-assess-fed-and-ecb-signals-202610081419",
+      "published": "Thu, 08 Oct 2026 14:19:40 GMT",
+      "ts": 1791469180
+    },
+    {
+      "source": "FXStreet",
+      "title": "Germany: Gradual recovery with energy risks – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/germany-gradual-recovery-with-energy-risks-deutsche-bank-202610081409",
+      "published": "Thu, 08 Oct 2026 14:09:54 GMT",
+      "ts": 1791468594
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
+      "link": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
+      "published": "Thu, 08 Oct 2026 14:03:20 +0000",
+      "ts": 1791468200
+    },
     {
       "source": "MarketWatch",
       "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
@@ -10,11 +45,25 @@
       "ts": 1791468000
     },
     {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips to $82.2k as M.East tensions, soaring yields dent crypto appetite",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
+      "published": "2026-10-08 13:53:41",
+      "ts": 1791467621
+    },
+    {
       "source": "MarketWatch",
       "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
       "link": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 13:52:00 GMT",
       "ts": 1791467520
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar: Consolidation near 1.42s against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidation-near-142s-against-us-dollar-scotiabank-202610081346",
+      "published": "Thu, 08 Oct 2026 13:46:04 GMT",
+      "ts": 1791467164
     },
     {
       "source": "MarketWatch",
@@ -143,20 +192,6 @@
       "ts": 1791462600
     },
     {
-      "source": "FXStreet",
-      "title": "Europe: Sovereign stress and China trade tensions – Rabobank",
-      "link": "https://www.fxstreet.com/news/europe-sovereign-stress-and-china-trade-tensions-rabobank-202610081221",
-      "published": "Thu, 08 Oct 2026 12:21:47 GMT",
-      "ts": 1791462107
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro slips against British Pound on France’s fiscal concerns, central bank signals",
-      "link": "https://www.fxstreet.com/news/euro-slips-against-british-pound-on-frances-fiscal-concerns-central-bank-signals-202610081216",
-      "published": "Thu, 08 Oct 2026 12:16:40 GMT",
-      "ts": 1791461800
-    },
-    {
       "source": "MarketWatch",
       "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
       "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
@@ -185,25 +220,11 @@
       "ts": 1791461008
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar nears 18-month lows as risk aversion buoys the US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-nears-18-month-lows-as-risk-aversion-buoys-the-us-dollar-202610081202",
-      "published": "Thu, 08 Oct 2026 12:02:10 GMT",
-      "ts": 1791460930
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
       "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
       "published": "Thu, 08 Oct 2026 11:47:16 +0000",
       "ts": 1791460036
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-      "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 11:43:00 GMT",
-      "ts": 1791459780
     },
     {
       "source": "Investing Forex",
@@ -290,20 +311,6 @@
       "ts": 1791451933
     },
     {
-      "source": "CoinDesk",
-      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-      "link": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
-      "published": "Thu, 08 Oct 2026 09:17:18 +0000",
-      "ts": 1791451038
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin muted at $83k as M.East tensions, soaring yields dent crypto appetite",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
-      "published": "2026-10-08 09:11:26",
-      "ts": 1791450686
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as hawkish Fed minutes lift dollar",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-minutes-lift-dollar-4938198",
@@ -316,13 +323,6 @@
       "link": "https://www.investing.com/news/forex-news/bofa-sees-downside-risks-for-usdjpy-93CH-4938182",
       "published": "2026-10-08 08:58:55",
       "ts": 1791449935
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
-      "link": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
-      "published": "Thu, 08 Oct 2026 08:39:23 +0000",
-      "ts": 1791448763
     },
     {
       "source": "CoinTelegraph",
