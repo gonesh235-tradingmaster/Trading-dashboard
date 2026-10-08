@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-08T07:33:15.647837Z",
+  "updated": "2026-10-08T07:57:35.225063Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 07:30:42 +0000",
+      "ts": 1791444642
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies rangebound as dollar holds 18-month high, euro under pressure",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
+      "published": "2026-10-08 07:24:06",
+      "ts": 1791444246
+    },
     {
       "source": "FXStreet",
       "title": "Forex Today: Euro stabilizes as markets await comments from central bankers",
@@ -127,13 +141,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
       "published": "Thu, 08 Oct 2026 04:23:23 +0000",
       "ts": 1791433403
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies rangebound as dollar holds near 18-month high, yen slips",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
-      "published": "2026-10-08 04:01:47",
-      "ts": 1791432107
     },
     {
       "source": "CoinDesk",
@@ -309,13 +316,6 @@
       "link": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 16:06:03 +0000",
       "ts": 1791389163
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
-      "link": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 15:36:11 +0000",
-      "ts": 1791387371
     },
     {
       "source": "CoinDesk",
