@@ -1,13 +1,34 @@
 {
-  "updated": "2026-10-08T23:30:33.873702Z",
+  "updated": "2026-10-08T23:55:01.338555Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Gold gains ground to near $4,150 as traders weigh Fed rate path",
+      "link": "https://www.fxstreet.com/news/gold-gains-ground-to-near-4-150-as-traders-weigh-fed-rate-path-202610082321",
+      "published": "Thu, 08 Oct 2026 23:21:26 GMT",
+      "ts": 1791501686
+    },
+    {
+      "source": "FXStreet",
+      "title": "Yen gains as Trump rules out Iran strikes before the midterms",
+      "link": "https://www.fxstreet.com/news/yen-gains-as-trump-rules-out-iran-strikes-before-the-midterms-202610082315",
+      "published": "Thu, 08 Oct 2026 23:15:00 GMT",
+      "ts": 1791501300
+    },
     {
       "source": "MarketWatch",
       "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
       "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 23:14:00 GMT",
       "ts": 1791501240
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar slides as AI sell-off rattles Wall Street",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slides-as-ai-sell-off-rattles-wall-street-202610082242",
+      "published": "Thu, 08 Oct 2026 22:42:24 GMT",
+      "ts": 1791499344
     },
     {
       "source": "CoinTelegraph",
@@ -221,31 +242,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Forex Today: US flash Consumer Sentiment and Canadian jobs in the limelight",
-      "link": "https://www.fxstreet.com/news/forex-today-us-flash-consumer-sentiment-and-canadian-jobs-in-the-limelight-202610081803",
-      "published": "Thu, 08 Oct 2026 18:03:47 GMT",
-      "ts": 1791482627
-    },
-    {
-      "source": "FXStreet",
-      "title": "Malaysian Ringgit: Fiscal anchor case – MUFG",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-fiscal-anchor-case-mufg-202610081757",
-      "published": "Thu, 08 Oct 2026 17:57:34 GMT",
-      "ts": 1791482254
-    },
-    {
-      "source": "FXStreet",
       "title": "Fed's Musalem signals more tightening as inflation stays elevated",
       "link": "https://www.fxstreet.com/news/feds-musalem-signals-more-tightening-as-inflation-stays-elevated-202610081757",
       "published": "Thu, 08 Oct 2026 17:57:16 GMT",
       "ts": 1791482236
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen finds relief as Trump rules out Iran strikes before midterms",
-      "link": "https://www.fxstreet.com/news/japanese-yen-finds-relief-as-trump-rules-out-iran-strikes-before-midterms-202610081744",
-      "published": "Thu, 08 Oct 2026 17:44:48 GMT",
-      "ts": 1791481488
     },
     {
       "source": "CoinTelegraph",
