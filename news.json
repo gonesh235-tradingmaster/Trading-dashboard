@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-09T03:58:01.476150Z",
+  "updated": "2026-10-09T04:18:40.086973Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
+      "link": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
+      "published": "Fri, 09 Oct 2026 04:04:36 +0000",
+      "ts": 1791518676
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX muted, dollar heads for fourth straight week of gains",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
+      "published": "2026-10-09 03:44:49",
+      "ts": 1791517489
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
@@ -325,13 +339,6 @@
       "ts": 1791470388
     },
     {
-      "source": "CoinDesk",
-      "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
-      "link": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
-      "published": "Thu, 08 Oct 2026 14:24:24 +0000",
-      "ts": 1791469464
-    },
-    {
       "source": "Investing Forex",
       "title": "South African rand holds steady ahead of manufacturing data",
       "link": "https://www.investing.com/news/forex-news/south-african-rand-holds-steady-ahead-of-manufacturing-data-93CH-4939314",
@@ -400,13 +407,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
       "published": "2026-10-07 19:26:58",
       "ts": 1791401218
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound dips on firm dollar; EUR/GBP at 16-month low",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-dips-on-firm-dollar-eurgbp-at-16month-low-4935921",
-      "published": "2026-10-07 13:42:09",
-      "ts": 1791380529
     },
     {
       "source": "Investing Crypto",
