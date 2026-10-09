@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-09T06:20:02.708928Z",
+  "updated": "2026-10-09T06:51:00.380995Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
+      "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+      "published": "Fri, 09 Oct 2026 06:40:54 +0000",
+      "ts": 1791528054
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Resilient growth supports more BoE hikes - Commerzbank",
+      "link": "https://www.fxstreet.com/news/british-pound-resilient-growth-supports-more-boe-hikes-commerzbank-202610090636",
+      "published": "Fri, 09 Oct 2026 06:36:07 GMT",
+      "ts": 1791527767
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls to $82k, heads for weekly losses amid yield pressure",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
+      "published": "2026-10-09 06:35:55",
+      "ts": 1791527755
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro picks up against British Pound with French debt, Oil prices still weighing",
+      "link": "https://www.fxstreet.com/news/euro-picks-up-against-british-pound-with-french-debt-oil-prices-still-weighing-202610090629",
+      "published": "Fri, 09 Oct 2026 06:29:06 GMT",
+      "ts": 1791527346
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees limited upside for EUR/JPY amid intervention expectations",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-limited-upside-for-eurjpy-amid-intervention-expectations-93CH-4940266",
+      "published": "2026-10-09 06:20:38",
+      "ts": 1791526838
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Recovery capped by resistance against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-recovery-capped-by-resistance-against-us-dollar-uob-202610090618",
+      "published": "Fri, 09 Oct 2026 06:18:12 GMT",
+      "ts": 1791526692
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI declines to near $89.50 as Trump rules out attacks on Iran before midterm elections",
+      "link": "https://www.fxstreet.com/news/wti-declines-to-near-8950-as-trump-rules-out-attacks-on-iran-before-midterm-elections-202610090603",
+      "published": "Fri, 09 Oct 2026 06:03:14 GMT",
+      "ts": 1791525794
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Risk-on sentiment lends support",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-risk-on-sentiment-lends-support-202610090600",
+      "published": "Fri, 09 Oct 2026 06:00:49 GMT",
+      "ts": 1791525649
+    },
     {
       "source": "FXStreet",
       "title": "Indian Rupee gets relief from pullback in US bond yields",
@@ -45,6 +101,13 @@
       "ts": 1791522245
     },
     {
+      "source": "CoinDesk",
+      "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
+      "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+      "published": "Fri, 09 Oct 2026 05:00:52 +0000",
+      "ts": 1791522052
+    },
+    {
       "source": "FXStreet",
       "title": "AUD/JPY Price Forecast: Strengthens above 110.00, but remains bearish below 100-day SMA",
       "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11000-but-remains-bearish-below-100-day-sma-202610090452",
@@ -52,39 +115,11 @@
       "ts": 1791521571
     },
     {
-      "source": "FXStreet",
-      "title": "China set to resume fuel exports in October following brief suspension — Reuters",
-      "link": "https://www.fxstreet.com/news/china-set-to-resume-fuel-exports-in-october-following-brief-suspension-reuters-202610090441",
-      "published": "Fri, 09 Oct 2026 04:41:46 GMT",
-      "ts": 1791520906
-    },
-    {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610090439",
-      "published": "Fri, 09 Oct 2026 04:39:46 GMT",
-      "ts": 1791520786
-    },
-    {
       "source": "CoinDesk",
       "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
       "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
       "published": "Fri, 09 Oct 2026 04:21:36 +0000",
       "ts": 1791519696
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Holds gains near 1.1230 on softer USD; bearish bias persists",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-gains-near-11230-on-softer-usd-bearish-bias-persists-202610090419",
-      "published": "Fri, 09 Oct 2026 04:19:31 GMT",
-      "ts": 1791519571
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Tests 177.50 barrier near nine-day EMA",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-17750-barrier-near-nine-day-ema-202610090412",
-      "published": "Fri, 09 Oct 2026 04:12:18 GMT",
-      "ts": 1791519138
     },
     {
       "source": "CoinDesk",
@@ -113,13 +148,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
       "published": "Fri, 09 Oct 2026 03:27:38 +0000",
       "ts": 1791516458
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index weakens further amid correction in US bond yields",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-further-amid-correction-in-us-bond-yields-202610090318",
-      "published": "Fri, 09 Oct 2026 03:18:40 GMT",
-      "ts": 1791515920
     },
     {
       "source": "CoinTelegraph",
@@ -325,20 +353,6 @@
       "ts": 1791474184
     },
     {
-      "source": "CoinDesk",
-      "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
-      "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
-      "published": "Thu, 08 Oct 2026 15:23:26 +0000",
-      "ts": 1791473006
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
-      "published": "Thu, 08 Oct 2026 15:11:15 +0000",
-      "ts": 1791472275
-    },
-    {
       "source": "Investing Forex",
       "title": "South African rand holds steady ahead of manufacturing data",
       "link": "https://www.investing.com/news/forex-news/south-african-rand-holds-steady-ahead-of-manufacturing-data-93CH-4939314",
@@ -395,13 +409,6 @@
       "ts": 1791408570
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar at nearly 18-month high on Fed minutes, slide in euro and sterling",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
-      "published": "2026-10-07 20:58:07",
-      "ts": 1791406687
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Falls 10% In Bearish Trade",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-as-iran-attacks-oil-surge-fuel-rate-fears-crypto-stocks-slip-4936200",
       "published": "2026-10-07 10:52:38",
       "ts": 1791370358
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Sui Sets Record for Highest Verified Throughput Settled to a Blockchain: 40 Million Transactions Per Second",
-      "link": "https://www.investing.com/news/cryptocurrency-news/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain-40-million-transactions-per-second-4936094",
-      "published": "2026-10-07 10:30:10",
-      "ts": 1791369010
     }
   ]
 }
