@@ -1,13 +1,55 @@
 {
-  "updated": "2026-10-09T09:12:34.450173Z",
+  "updated": "2026-10-09T09:34:28.552934Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202610090931",
+      "published": "Fri, 09 Oct 2026 09:31:07 GMT",
+      "ts": 1791538267
+    },
+    {
+      "source": "FXStreet",
+      "title": "Polish Zloty: Dovish NBP signals weigh on PLN – Commerzbank",
+      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-nbp-signals-weigh-on-pln-commerzbank-202610090925",
+      "published": "Fri, 09 Oct 2026 09:25:27 GMT",
+      "ts": 1791537927
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin edges lower to $82k, heads for weekly losses amid yield pressure",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
+      "published": "2026-10-09 09:21:23",
+      "ts": 1791537683
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
+      "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+      "published": "Fri, 09 Oct 2026 09:20:16 +0000",
+      "ts": 1791537616
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I feel like a loser’: My ETFs go up one day and crash the next. Is this a bad sign?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 09:15:00 GMT",
+      "ts": 1791537300
+    },
     {
       "source": "MarketWatch",
       "title": "Why the price of this one exchange-traded fund has suddenly gone exponential",
       "link": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 09:12:00 GMT",
       "ts": 1791537120
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar: Jobs data and BoC path – ING",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-jobs-data-and-boc-path-ing-202610090909",
+      "published": "Fri, 09 Oct 2026 09:09:38 GMT",
+      "ts": 1791536978
     },
     {
       "source": "CoinDesk",
@@ -24,6 +66,20 @@
       "ts": 1791536760
     },
     {
+      "source": "FXStreet",
+      "title": "Euro extends recovery due to relief from drop in French bond yields",
+      "link": "https://www.fxstreet.com/news/euro-extends-recovery-due-to-relief-from-drop-in-french-bond-yields-202610090905",
+      "published": "Fri, 09 Oct 2026 09:05:07 GMT",
+      "ts": 1791536707
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Mild downside bias against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-mild-downside-bias-against-us-dollar-uob-202610090900",
+      "published": "Fri, 09 Oct 2026 09:00:45 GMT",
+      "ts": 1791536445
+    },
+    {
       "source": "Investing Crypto",
       "title": "OceanBase Launches EvolvingX: A Database Solution for Always-On Performance and Seamless Growth",
       "link": "https://www.investing.com/news/cryptocurrency-news/oceanbase-launches-evolvingx-a-database-solution-for-alwayson-performance-and-seamless-growth-4940421",
@@ -38,6 +94,20 @@
       "ts": 1791536280
     },
     {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Slides back to mid-$89.00s as Mideast jitters limit losses",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-slides-back-to-mid-8900s-as-mideast-jitters-limit-losses-202610090857",
+      "published": "Fri, 09 Oct 2026 08:57:08 GMT",
+      "ts": 1791536228
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/CHF Price Forecast: Testing support at 0.8300 with bearish momentum building up",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-testing-support-at-08300-with-bearish-momentum-building-up-202610090856",
+      "published": "Fri, 09 Oct 2026 08:56:15 GMT",
+      "ts": 1791536175
+    },
+    {
       "source": "MarketWatch",
       "title": "Why one Wall Street firm sees parallels to the late 1970s and recommends shorting U.S. stocks",
       "link": "https://www.marketwatch.com/story/why-one-wall-street-firm-sees-parallels-to-the-late-1970s-and-recommends-shorting-u-s-stocks-bbd0ebd2?mod=mw_rss_topstories",
@@ -46,24 +116,17 @@
     },
     {
       "source": "FXStreet",
-      "title": "Canada Unemployment Rate expected to rise to 6.5% as US tariffs test labor market",
-      "link": "https://www.fxstreet.com/news/canada-unemployment-rate-expected-to-rise-to-65-as-us-tariffs-test-labor-market-202610090830",
-      "published": "Fri, 09 Oct 2026 08:30:00 GMT",
-      "ts": 1791534600
+      "title": "Euro: ECB minutes signal limited need for further tightening - Danske Bank",
+      "link": "https://www.fxstreet.com/news/euro-ecb-minutes-signal-limited-need-for-further-tightening-danske-bank-202610090848",
+      "published": "Fri, 09 Oct 2026 08:48:14 GMT",
+      "ts": 1791535694
     },
     {
       "source": "FXStreet",
-      "title": "Japanese Yen: NISA-driven outflows weigh on currency – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-nisa-driven-outflows-weigh-on-currency-mufg-202610090821",
-      "published": "Fri, 09 Oct 2026 08:21:47 GMT",
-      "ts": 1791534107
-    },
-    {
-      "source": "FXStreet",
-      "title": "NZD/USD Price Forecast: Bullish momentum improves but 0.5630 keeps holding bulls",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bullish-momentum-improves-but-05630-keeps-holding-bulls-202610090815",
-      "published": "Fri, 09 Oct 2026 08:15:46 GMT",
-      "ts": 1791533746
+      "title": "Hungarian Forint: IMF urges reforms before euro timetable – Commerzbank",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-imf-urges-reforms-before-euro-timetable-commerzbank-202610090833",
+      "published": "Fri, 09 Oct 2026 08:33:56 GMT",
+      "ts": 1791534836
     },
     {
       "source": "Investing Forex",
@@ -73,34 +136,6 @@
       "ts": 1791533739
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound extends intraday gains above 209.50 as fiscal woes weigh on Yen",
-      "link": "https://www.fxstreet.com/news/british-pound-extends-intraday-gains-above-20950-as-fiscal-woes-weigh-on-yen-202610090815",
-      "published": "Fri, 09 Oct 2026 08:15:12 GMT",
-      "ts": 1791533712
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD regains ground amid a pullback in US Treasury Yields",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-regains-ground-amid-a-pullback-in-us-treasury-yields-202610090811",
-      "published": "Fri, 09 Oct 2026 08:11:10 GMT",
-      "ts": 1791533470
-    },
-    {
-      "source": "FXStreet",
-      "title": "CEE FX: Zloty faces downside pressure and Leu awaits political clarity - ING",
-      "link": "https://www.fxstreet.com/news/cee-fx-zloty-faces-downside-pressure-and-leu-awaits-political-clarity-ing-202610090807",
-      "published": "Fri, 09 Oct 2026 08:07:00 GMT",
-      "ts": 1791533220
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones futures rebound as OpenAI sales outlook calms tech selloff",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-rebound-as-openai-sales-outlook-calms-tech-selloff-202610090754",
-      "published": "Fri, 09 Oct 2026 07:54:54 GMT",
-      "ts": 1791532494
-    },
-    {
       "source": "Investing Forex",
       "title": "French yields pause near peak as markets fret over Paris’s record debt load",
       "link": "https://www.investing.com/news/forex-news/french-yields-pause-near-peak-as-markets-fret-over-pariss-record-debt-load-4940344",
@@ -108,25 +143,11 @@
       "ts": 1791531973
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar: Neutral tone within tight band against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-neutral-tone-within-tight-band-against-us-dollar-uob-202610090744",
-      "published": "Fri, 09 Oct 2026 07:44:10 GMT",
-      "ts": 1791531850
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
       "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 07:34:44 +0000",
       "ts": 1791531284
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index: DXY bulls have the upper hand above 101.60 pivotal support",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-bulls-have-the-upper-hand-above-10160-pivotal-support-202610090733",
-      "published": "Fri, 09 Oct 2026 07:33:18 GMT",
-      "ts": 1791531198
     },
     {
       "source": "Investing Crypto",
@@ -150,18 +171,18 @@
       "ts": 1791528054
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin falls to $82k, heads for weekly losses amid yield pressure",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
-      "published": "2026-10-09 06:35:55",
-      "ts": 1791527755
-    },
-    {
       "source": "Investing Forex",
       "title": "Citi sees limited upside for EUR/JPY amid intervention expectations",
       "link": "https://www.investing.com/news/forex-news/citi-sees-limited-upside-for-eurjpy-amid-intervention-expectations-93CH-4940266",
       "published": "2026-10-09 06:20:38",
       "ts": 1791526838
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee regains ground as rally in US bond yields hits pause",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-pullback-in-us-bond-yields-202610090538",
+      "published": "Fri, 09 Oct 2026 05:38:09 GMT",
+      "ts": 1791524289
     },
     {
       "source": "CoinTelegraph",
@@ -204,13 +225,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
       "published": "Fri, 09 Oct 2026 04:04:36 +0000",
       "ts": 1791518676
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold bulls retain intraday control near $4,200, weekly high amid retreating USD",
-      "link": "https://www.fxstreet.com/news/gold-advances-to-weekly-high-amid-modest-usd-weakness-not-out-of-the-woods-yet-202610090355",
-      "published": "Fri, 09 Oct 2026 03:55:55 GMT",
-      "ts": 1791518155
     },
     {
       "source": "Investing Forex",
@@ -297,13 +311,6 @@
       "ts": 1791496560
     },
     {
-      "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 21:45:00 GMT",
-      "ts": 1791495900
-    },
-    {
       "source": "CoinDesk",
       "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
       "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
       "published": "2026-10-08 19:56:52",
       "ts": 1791489412
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
-      "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
-      "published": "Thu, 08 Oct 2026 19:46:15 +0000",
-      "ts": 1791488775
     },
     {
       "source": "CoinTelegraph",
