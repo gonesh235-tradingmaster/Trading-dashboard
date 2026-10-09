@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-09T10:17:58.793761Z",
+  "updated": "2026-10-09T10:44:34.299427Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+      "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+      "published": "Fri, 09 Oct 2026 10:16:55 +0000",
+      "ts": 1791541015
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
+      "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 10:16:48 +0000",
+      "ts": 1791541008
+    },
     {
       "source": "MarketWatch",
       "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
@@ -15,6 +29,13 @@
       "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
       "published": "Fri, 09 Oct 2026 10:14:59 +0000",
       "ts": 1791540899
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro limps Toward 5th weekly loss as dollar pause fails to erase rate hike bets",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
+      "published": "2026-10-09 10:07:23",
+      "ts": 1791540443
     },
     {
       "source": "MarketWatch",
@@ -262,20 +283,6 @@
       "ts": 1791518676
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar treads water but set for fourth straight week of gains",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
-      "published": "2026-10-09 03:44:49",
-      "ts": 1791517489
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
-      "published": "Fri, 09 Oct 2026 03:27:38 +0000",
-      "ts": 1791516458
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
       "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -358,13 +365,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-oil-rally-narrower-yield-gap-support-loonie-4939654",
       "published": "2026-10-08 19:22:09",
       "ts": 1791487329
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
-      "link": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 19:17:18 +0000",
-      "ts": 1791487038
     },
     {
       "source": "Investing Forex",
