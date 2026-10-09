@@ -1,13 +1,48 @@
 {
-  "updated": "2026-10-09T15:58:35.006227Z",
+  "updated": "2026-10-09T16:18:49.451789Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies",
+      "link": "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 16:12:00 GMT",
+      "ts": 1791562320
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 16:00:00 GMT",
+      "ts": 1791561600
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
+      "link": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 15:51:53 +0000",
+      "ts": 1791561113
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro struggles as French fiscal concerns and firm US Dollar dominate",
+      "link": "https://www.fxstreet.com/news/euro-struggles-as-french-fiscal-concerns-and-firm-us-dollar-dominate-202610091544",
+      "published": "Fri, 09 Oct 2026 15:44:52 GMT",
+      "ts": 1791560692
+    },
     {
       "source": "MarketWatch",
       "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
       "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 15:27:00 GMT",
       "ts": 1791559620
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar edges higher on softer US yields, Fed hike bets cap recovery",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-higher-on-softer-us-yields-fed-hike-bets-cap-recovery-202610091525",
+      "published": "Fri, 09 Oct 2026 15:25:01 GMT",
+      "ts": 1791559501
     },
     {
       "source": "CoinTelegraph",
@@ -94,20 +129,6 @@
       "ts": 1791556440
     },
     {
-      "source": "MarketWatch",
-      "title": "College students have to use credit cards just to cover basic living expenses. Here’s what it’s costing them.",
-      "link": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 14:33:00 GMT",
-      "ts": 1791556380
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
-      "link": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 14:30:00 GMT",
-      "ts": 1791556200
-    },
-    {
       "source": "FXStreet",
       "title": "WTI holds steady as traders weigh US-Iran tensions and supply risks",
       "link": "https://www.fxstreet.com/news/wti-holds-steady-as-traders-weigh-us-iran-tensions-and-supply-risks-202610091425",
@@ -171,20 +192,6 @@
       "ts": 1791552600
     },
     {
-      "source": "FXStreet",
-      "title": "European Central Bank: Conditional support and French risks – Rabobank",
-      "link": "https://www.fxstreet.com/news/european-central-bank-conditional-support-and-french-risks-rabobank-202610091317",
-      "published": "Fri, 09 Oct 2026 13:17:08 GMT",
-      "ts": 1791551828
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar underperforms after Canada sheds 68.3K jobs in September",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-underperforms-after-canada-sheds-683k-jobs-in-september-202610091316",
-      "published": "Fri, 09 Oct 2026 13:16:32 GMT",
-      "ts": 1791551792
-    },
-    {
       "source": "Investing Forex",
       "title": "EUR/USD outlook as euro stays pinned near multi month lows",
       "link": "https://www.investing.com/news/forex-news/eurusd-outlook-as-euro-stays-pinned-near-multi-month-lows-93CH-4941222",
@@ -221,7 +228,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold recovery stalls near $4,200 as US Dollar, Treasury yields stabilise",
+      "title": "Gold edges higher but remains capped in tight range as Dollar and yields rebound",
       "link": "https://www.fxstreet.com/news/gold-recovery-stalls-near-4-200-as-us-dollar-treasury-yields-stabilise-202610091100",
       "published": "Fri, 09 Oct 2026 11:00:03 GMT",
       "ts": 1791543603
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-limited-upside-for-eurjpy-amid-intervention-expectations-93CH-4940266",
       "published": "2026-10-09 06:20:38",
       "ts": 1791526838
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
-      "link": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 05:34:33 +0000",
-      "ts": 1791524073
     },
     {
       "source": "Investing Crypto",
