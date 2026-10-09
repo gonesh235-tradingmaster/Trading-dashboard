@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-09T17:01:31.351134Z",
+  "updated": "2026-10-09T17:28:37.249729Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+      "link": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 17:21:07 +0000",
+      "ts": 1791566467
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+      "link": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 17:02:47 +0000",
+      "ts": 1791565367
+    },
+    {
+      "source": "FXStreet",
+      "title": "Asia FX: Trade negotiations and resilient macro backdrop – MUFG",
+      "link": "https://www.fxstreet.com/news/asia-fx-trade-negotiations-and-resilient-macro-backdrop-mufg-202610091702",
+      "published": "Fri, 09 Oct 2026 17:02:10 GMT",
+      "ts": 1791565330
+    },
     {
       "source": "MarketWatch",
       "title": "More evidence that broad-market index funds remain unbeatable, even in the era of AI stock-picking",
@@ -15,6 +36,13 @@
       "link": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 16:43:00 GMT",
       "ts": 1791564180
+    },
+    {
+      "source": "FXStreet",
+      "title": "Singapore: Policy slope tightening view – DBS",
+      "link": "https://www.fxstreet.com/news/singapore-policy-slope-tightening-view-dbs-202610091636",
+      "published": "Fri, 09 Oct 2026 16:36:57 GMT",
+      "ts": 1791563817
     },
     {
       "source": "MarketWatch",
@@ -43,6 +71,27 @@
       "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 16:22:00 GMT",
       "ts": 1791562920
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canada loses 68.3K jobs and the Loonie falls to an 18-month low",
+      "link": "https://www.fxstreet.com/news/canada-loses-683k-jobs-and-the-loonie-falls-to-an-18-month-low-202610091617",
+      "published": "Fri, 09 Oct 2026 16:17:14 GMT",
+      "ts": 1791562634
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound holds ground as US Consumer Sentiment deteriorates",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-its-ground-as-us-consumer-sentiment-deteriorates-202610091612",
+      "published": "Fri, 09 Oct 2026 16:12:56 GMT",
+      "ts": 1791562376
+    },
+    {
+      "source": "FXStreet",
+      "title": "France: Budget politics and market testing – Rabobank",
+      "link": "https://www.fxstreet.com/news/france-budget-politics-and-market-testing-rabobank-202610091612",
+      "published": "Fri, 09 Oct 2026 16:12:43 GMT",
+      "ts": 1791562363
     },
     {
       "source": "MarketWatch",
@@ -136,32 +185,11 @@
       "ts": 1791556831
     },
     {
-      "source": "FXStreet",
-      "title": "WTI holds steady as traders weigh US-Iran tensions and supply risks",
-      "link": "https://www.fxstreet.com/news/wti-holds-steady-as-traders-weigh-us-iran-tensions-and-supply-risks-202610091425",
-      "published": "Fri, 09 Oct 2026 14:25:05 GMT",
-      "ts": 1791555905
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canada: Gradual improvement expected – RBC",
-      "link": "https://www.fxstreet.com/news/canada-gradual-improvement-expected-rbc-202610091419",
-      "published": "Fri, 09 Oct 2026 14:19:43 GMT",
-      "ts": 1791555583
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar heads for fourth straight weekly gain as euro slumps on fiscal worries",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
       "published": "2026-10-09 14:00:47",
       "ts": 1791554447
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold: Short covering signals renewed bullish momentum - TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-short-covering-signals-renewed-bullish-momentum-td-securities-202610091358",
-      "published": "Fri, 09 Oct 2026 13:58:54 GMT",
-      "ts": 1791554334
     },
     {
       "source": "CoinTelegraph",
@@ -176,13 +204,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
       "published": "2026-10-09 13:42:49",
       "ts": 1791553369
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee: RBI seen keeping hike option open – DBS",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-seen-keeping-hike-option-open-dbs-202610091336",
-      "published": "Fri, 09 Oct 2026 13:36:10 GMT",
-      "ts": 1791552970
     },
     {
       "source": "CoinTelegraph",
@@ -269,32 +290,11 @@
       "ts": 1791541015
     },
     {
-      "source": "CoinTelegraph",
-      "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-      "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 10:16:48 +0000",
-      "ts": 1791541008
-    },
-    {
       "source": "CoinDesk",
       "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
       "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
       "published": "Fri, 09 Oct 2026 10:14:59 +0000",
       "ts": 1791540899
-    },
-    {
-      "source": "FXStreet",
-      "title": "Breaking: UoM Consumer Sentiment Index declines to 46.3 in October",
-      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000",
-      "published": "Fri, 09 Oct 2026 10:00:00 GMT",
-      "ts": 1791540000
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
-      "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 09:50:01 +0000",
-      "ts": 1791539401
     },
     {
       "source": "Investing Forex",
