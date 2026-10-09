@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-09T04:44:31.671030Z",
+  "updated": "2026-10-09T05:00:16.866078Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610090439",
+      "published": "Fri, 09 Oct 2026 04:39:46 GMT",
+      "ts": 1791520786
+    },
     {
       "source": "CoinDesk",
       "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
@@ -17,11 +24,32 @@
       "ts": 1791519696
     },
     {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Holds gains near 1.1230 on softer USD; bearish bias persists",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-gains-near-11230-on-softer-usd-bearish-bias-persists-202610090419",
+      "published": "Fri, 09 Oct 2026 04:19:31 GMT",
+      "ts": 1791519571
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Tests 177.50 barrier near nine-day EMA",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-17750-barrier-near-nine-day-ema-202610090412",
+      "published": "Fri, 09 Oct 2026 04:12:18 GMT",
+      "ts": 1791519138
+    },
+    {
       "source": "CoinDesk",
       "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
       "link": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
       "published": "Fri, 09 Oct 2026 04:04:36 +0000",
       "ts": 1791518676
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold advances to weekly high amid modest USD weakness; not out of the woods yet",
+      "link": "https://www.fxstreet.com/news/gold-advances-to-weekly-high-amid-modest-usd-weakness-not-out-of-the-woods-yet-202610090355",
+      "published": "Fri, 09 Oct 2026 03:55:55 GMT",
+      "ts": 1791518155
     },
     {
       "source": "Investing Forex",
@@ -85,34 +113,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-edges-higher-to-near-13250-renewed-uk-fiscal-concerns-in-focus-202610090136",
       "published": "Fri, 09 Oct 2026 01:36:23 GMT",
       "ts": 1791509783
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japan’s Katayama says DOGE Initiative to drive growth and fiscal sustainability under Takaichi",
-      "link": "https://www.fxstreet.com/news/japans-katayama-says-doge-initiative-to-drive-growth-and-fiscal-sustainability-under-takaichi-202610090118",
-      "published": "Fri, 09 Oct 2026 01:18:39 GMT",
-      "ts": 1791508719
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar edges higher amid modest USD weakness; upside potential seem limited",
-      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-amid-modest-usd-weakness-upside-potential-seem-limited-202610090117",
-      "published": "Fri, 09 Oct 2026 01:17:01 GMT",
-      "ts": 1791508621
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI slips below $90.50 as Trump signals no pre-election strike on Iran",
-      "link": "https://www.fxstreet.com/news/wti-slips-below-9050-as-trump-signals-no-pre-election-strike-on-iran-202610090116",
-      "published": "Fri, 09 Oct 2026 01:16:07 GMT",
-      "ts": 1791508567
-    },
-    {
-      "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7330 vs. 6.7367 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67330-vs-67367-previous-202610090115",
-      "published": "Fri, 09 Oct 2026 01:15:34 GMT",
-      "ts": 1791508534
     },
     {
       "source": "MarketWatch",
