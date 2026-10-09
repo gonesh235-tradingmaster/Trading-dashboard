@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-09T00:54:47.284491Z",
+  "updated": "2026-10-09T01:15:03.120224Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+      "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 00:52:00 GMT",
+      "ts": 1791507120
+    },
     {
       "source": "CoinTelegraph",
       "title": "Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties",
@@ -155,13 +162,6 @@
       "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 20:55:00 GMT",
       "ts": 1791492900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A big AI super PAC tried to follow crypto’s playbook to influence the midterms. Critics say it’s not working out.",
-      "link": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 20:44:00 GMT",
-      "ts": 1791492240
     },
     {
       "source": "Investing Forex",
