@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-09T06:51:00.380995Z",
+  "updated": "2026-10-09T07:13:27.489283Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+      "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+      "published": "Fri, 09 Oct 2026 06:51:32 +0000",
+      "ts": 1791528692
+    },
     {
       "source": "CoinDesk",
       "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4939477",
       "published": "2026-10-08 16:07:57",
       "ts": 1791475677
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
-      "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-      "published": "Thu, 08 Oct 2026 15:43:04 +0000",
-      "ts": 1791474184
     },
     {
       "source": "Investing Forex",
