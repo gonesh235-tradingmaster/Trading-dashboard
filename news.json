@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-09T05:30:34.502551Z",
+  "updated": "2026-10-09T05:57:05.470855Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee gets relief from pullback in US bond yields",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-pullback-in-us-bond-yields-202610090538",
+      "published": "Fri, 09 Oct 2026 05:38:09 GMT",
+      "ts": 1791524289
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 05:38:03 +0000",
+      "ts": 1791524283
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
+      "link": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 05:34:33 +0000",
+      "ts": 1791524073
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
+      "link": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 05:25:27 +0000",
+      "ts": 1791523527
+    },
+    {
+      "source": "FXStreet",
+      "title": "Asian Stocks struggle as OpenAI revenue miss hits AI sector, trade concerns loom",
+      "link": "https://www.fxstreet.com/news/asian-stocks-struggle-as-openai-revenue-miss-hits-ai-sector-trade-concerns-loom-202610090522",
+      "published": "Fri, 09 Oct 2026 05:22:11 GMT",
+      "ts": 1791523331
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc remains on front foot as USD slips further amid softer bond yields",
+      "link": "https://www.fxstreet.com/news/swiss-franc-remains-on-front-foot-as-usd-slips-further-amid-softer-bond-yields-202610090504",
+      "published": "Fri, 09 Oct 2026 05:04:05 GMT",
+      "ts": 1791522245
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Strengthens above 110.00, but remains bearish below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11000-but-remains-bearish-below-100-day-sma-202610090452",
+      "published": "Fri, 09 Oct 2026 04:52:51 GMT",
+      "ts": 1791521571
+    },
+    {
+      "source": "FXStreet",
+      "title": "China set to resume fuel exports in October following brief suspension — Reuters",
+      "link": "https://www.fxstreet.com/news/china-set-to-resume-fuel-exports-in-october-following-brief-suspension-reuters-202610090441",
+      "published": "Fri, 09 Oct 2026 04:41:46 GMT",
+      "ts": 1791520906
+    },
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610090439",
+      "published": "Fri, 09 Oct 2026 04:39:46 GMT",
+      "ts": 1791520786
+    },
     {
       "source": "CoinDesk",
       "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
@@ -32,7 +95,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold advances to weekly high amid modest USD weakness; not out of the woods yet",
+      "title": "Gold hits fresh weekly top, eyes $4,200 as USD weakens further amid softer bond yields",
       "link": "https://www.fxstreet.com/news/gold-advances-to-weekly-high-amid-modest-usd-weakness-not-out-of-the-woods-yet-202610090355",
       "published": "Fri, 09 Oct 2026 03:55:55 GMT",
       "ts": 1791518155
@@ -59,53 +122,11 @@
       "ts": 1791515920
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD rises above $60.00 as inflation fears ease",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-above-6000-as-inflation-fears-ease-202610090318",
-      "published": "Fri, 09 Oct 2026 03:18:11 GMT",
-      "ts": 1791515891
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
       "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 03:08:51 +0000",
       "ts": 1791515331
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar strengthens above 0.5600 amid softer US Dollar, easing yields",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-strengthens-above-05600-amid-softer-us-dollar-easing-yields-202610090243",
-      "published": "Fri, 09 Oct 2026 02:43:44 GMT",
-      "ts": 1791513824
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar strengthens as risk-on mood weighs on US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-as-risk-on-mood-weighs-on-us-dollar-202610090220",
-      "published": "Fri, 09 Oct 2026 02:20:27 GMT",
-      "ts": 1791512427
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen struggles for firm direction as softer USD limits intraday slide",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-for-firm-direction-as-softer-usd-limits-intraday-slide-202610090205",
-      "published": "Fri, 09 Oct 2026 02:05:15 GMT",
-      "ts": 1791511515
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound edges higher to near 1.3250, renewed UK fiscal concerns in focus",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-to-near-13250-renewed-uk-fiscal-concerns-in-focus-202610090136",
-      "published": "Fri, 09 Oct 2026 01:36:23 GMT",
-      "ts": 1791509783
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japan’s Katayama says DOGE Initiative to drive growth and fiscal sustainability under Takaichi",
-      "link": "https://www.fxstreet.com/news/japans-katayama-says-doge-initiative-to-drive-growth-and-fiscal-sustainability-under-takaichi-202610090118",
-      "published": "Fri, 09 Oct 2026 01:18:39 GMT",
-      "ts": 1791508719
     },
     {
       "source": "MarketWatch",
@@ -263,13 +284,6 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 18:29:33 +0000",
-      "ts": 1791484173
-    },
-    {
-      "source": "CoinTelegraph",
       "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
       "link": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 18:17:35 +0000",
@@ -304,25 +318,11 @@
       "ts": 1791475677
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
-      "link": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 15:55:55 +0000",
-      "ts": 1791474955
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
       "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
       "published": "Thu, 08 Oct 2026 15:43:04 +0000",
       "ts": 1791474184
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "US government moves $1B in seized Bitcoin after $770M transfers",
-      "link": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 15:24:16 +0000",
-      "ts": 1791473056
     },
     {
       "source": "CoinDesk",
