@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-09T18:12:21.974819Z",
+  "updated": "2026-10-09T18:35:18.239272Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 18:30:00 GMT",
+      "ts": 1791570600
+    },
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: MAS tightening but gains constrained – OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-but-gains-constrained-ocbc-202610091827",
+      "published": "Fri, 09 Oct 2026 18:27:00 GMT",
+      "ts": 1791570420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 18:16:00 GMT",
+      "ts": 1791569760
+    },
     {
       "source": "CoinDesk",
       "title": "Robinhood Chain considers technology that gives paying traders priority",
@@ -115,20 +136,6 @@
       "ts": 1791563817
     },
     {
-      "source": "MarketWatch",
-      "title": "Flu season is already here. Here’s what to know about this year’s flu shots.",
-      "link": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 16:31:00 GMT",
-      "ts": 1791563460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 16:30:00 GMT",
-      "ts": 1791563400
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
       "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -162,13 +169,6 @@
       "link": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 15:51:53 +0000",
       "ts": 1791561113
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro struggles as French fiscal concerns and firm US Dollar dominate",
-      "link": "https://www.fxstreet.com/news/euro-struggles-as-french-fiscal-concerns-and-firm-us-dollar-dominate-202610091544",
-      "published": "Fri, 09 Oct 2026 15:44:52 GMT",
-      "ts": 1791560692
     },
     {
       "source": "CoinTelegraph",
