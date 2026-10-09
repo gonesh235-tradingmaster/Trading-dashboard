@@ -1,13 +1,83 @@
 {
-  "updated": "2026-10-09T07:35:39.189821Z",
+  "updated": "2026-10-09T07:58:00.816505Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: Neutral tone within tight band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-neutral-tone-within-tight-band-against-us-dollar-uob-202610090744",
+      "published": "Fri, 09 Oct 2026 07:44:10 GMT",
+      "ts": 1791531850
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
+      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 07:34:44 +0000",
+      "ts": 1791531284
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index: DXY bulls have the upper hand above 101.60 pivotal support",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-bulls-have-the-upper-hand-above-10160-pivotal-support-202610090733",
+      "published": "Fri, 09 Oct 2026 07:33:18 GMT",
+      "ts": 1791531198
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Supported but capped by softer data – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-supported-but-capped-by-softer-data-ocbc-202610090729",
+      "published": "Fri, 09 Oct 2026 07:29:27 GMT",
+      "ts": 1791530967
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro advances against Canadian Dollar as French bond yields, oil prices ease",
+      "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-as-french-bond-yields-oil-prices-ease-202610090723",
+      "published": "Fri, 09 Oct 2026 07:23:05 GMT",
+      "ts": 1791530585
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Wavering around 158.00 with 200-day SMA holding bulls",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-wavering-around-15800-with-200-day-sma-holding-bulls-202610090716",
+      "published": "Fri, 09 Oct 2026 07:16:43 GMT",
+      "ts": 1791530203
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: AI concerns pressure stocks as futures rise – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-ai-concerns-pressure-stocks-as-futures-rise-deutsche-bank-202610090716",
+      "published": "Fri, 09 Oct 2026 07:16:32 GMT",
+      "ts": 1791530192
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin breaks below range, tests $81K support: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-09 07:11:29",
       "ts": 1791529889
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar gathers strength ahead of employment report",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gathers-strength-ahead-of-employment-report-202610090657",
+      "published": "Fri, 09 Oct 2026 06:57:36 GMT",
+      "ts": 1791529056
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar retreats alongside bond yields as mood improves",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-retreats-alongside-bond-yields-as-mood-improves-202610090657",
+      "published": "Fri, 09 Oct 2026 06:57:27 GMT",
+      "ts": 1791529047
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Outperforms on cheerful market mood",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-outperforms-on-cheerful-market-mood-202610090653",
+      "published": "Fri, 09 Oct 2026 06:53:31 GMT",
+      "ts": 1791528811
     },
     {
       "source": "CoinDesk",
@@ -24,25 +94,11 @@
       "ts": 1791528054
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound: Resilient growth supports more BoE hikes - Commerzbank",
-      "link": "https://www.fxstreet.com/news/british-pound-resilient-growth-supports-more-boe-hikes-commerzbank-202610090636",
-      "published": "Fri, 09 Oct 2026 06:36:07 GMT",
-      "ts": 1791527767
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin falls to $82k, heads for weekly losses amid yield pressure",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
       "published": "2026-10-09 06:35:55",
       "ts": 1791527755
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro picks up against British Pound with French debt, Oil prices still weighing",
-      "link": "https://www.fxstreet.com/news/euro-picks-up-against-british-pound-with-french-debt-oil-prices-still-weighing-202610090629",
-      "published": "Fri, 09 Oct 2026 06:29:06 GMT",
-      "ts": 1791527346
     },
     {
       "source": "Investing Forex",
@@ -53,28 +109,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Euro: Recovery capped by resistance against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-recovery-capped-by-resistance-against-us-dollar-uob-202610090618",
-      "published": "Fri, 09 Oct 2026 06:18:12 GMT",
-      "ts": 1791526692
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI declines to near $89.50 as Trump rules out attacks on Iran before midterm elections",
-      "link": "https://www.fxstreet.com/news/wti-declines-to-near-8950-as-trump-rules-out-attacks-on-iran-before-midterm-elections-202610090603",
-      "published": "Fri, 09 Oct 2026 06:03:14 GMT",
-      "ts": 1791525794
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Risk-on sentiment lends support",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-risk-on-sentiment-lends-support-202610090600",
-      "published": "Fri, 09 Oct 2026 06:00:49 GMT",
-      "ts": 1791525649
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee gets relief from pullback in US bond yields",
+      "title": "Indian Rupee rebounds amid a pause in rally in US bond yields",
       "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-pullback-in-us-bond-yields-202610090538",
       "published": "Fri, 09 Oct 2026 05:38:09 GMT",
       "ts": 1791524289
@@ -101,32 +136,11 @@
       "ts": 1791523527
     },
     {
-      "source": "FXStreet",
-      "title": "Asian Stocks struggle as OpenAI revenue miss hits AI sector, trade concerns loom",
-      "link": "https://www.fxstreet.com/news/asian-stocks-struggle-as-openai-revenue-miss-hits-ai-sector-trade-concerns-loom-202610090522",
-      "published": "Fri, 09 Oct 2026 05:22:11 GMT",
-      "ts": 1791523331
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc remains on front foot as USD slips further amid softer bond yields",
-      "link": "https://www.fxstreet.com/news/swiss-franc-remains-on-front-foot-as-usd-slips-further-amid-softer-bond-yields-202610090504",
-      "published": "Fri, 09 Oct 2026 05:04:05 GMT",
-      "ts": 1791522245
-    },
-    {
       "source": "CoinDesk",
       "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
       "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
       "published": "Fri, 09 Oct 2026 05:00:52 +0000",
       "ts": 1791522052
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Strengthens above 110.00, but remains bearish below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11000-but-remains-bearish-below-100-day-sma-202610090452",
-      "published": "Fri, 09 Oct 2026 04:52:51 GMT",
-      "ts": 1791521571
     },
     {
       "source": "CoinDesk",
@@ -141,13 +155,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
       "published": "Fri, 09 Oct 2026 04:04:36 +0000",
       "ts": 1791518676
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold hits fresh weekly top, eyes $4,200 as USD weakens further amid softer bond yields",
-      "link": "https://www.fxstreet.com/news/gold-advances-to-weekly-high-amid-modest-usd-weakness-not-out-of-the-woods-yet-202610090355",
-      "published": "Fri, 09 Oct 2026 03:55:55 GMT",
-      "ts": 1791518155
     },
     {
       "source": "Investing Forex",
@@ -337,13 +344,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
       "published": "Thu, 08 Oct 2026 18:06:41 +0000",
       "ts": 1791482801
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "IMF warns tokenized markets could amplify financial risks",
-      "link": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 16:25:06 +0000",
-      "ts": 1791476706
     },
     {
       "source": "Investing Crypto",
