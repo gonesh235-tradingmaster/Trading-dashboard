@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-09T19:56:48.546843Z",
+  "updated": "2026-10-09T20:13:12.522263Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Here’s how Treasury yields could rise to 6% — even without market upheaval",
+      "link": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 20:03:00 GMT",
+      "ts": 1791576180
+    },
+    {
+      "source": "FXStreet",
+      "title": "Taiwan Dollar: Trade strength but losses capped against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-trade-strength-but-losses-capped-against-us-dollar-commerzbank-202610091949",
+      "published": "Fri, 09 Oct 2026 19:49:00 GMT",
+      "ts": 1791575340
+    },
     {
       "source": "MarketWatch",
       "title": "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after getting married",
@@ -10,11 +24,39 @@
       "ts": 1791575280
     },
     {
+      "source": "FXStreet",
+      "title": "Crude Oil drops on Trump's Russian diesel plan",
+      "link": "https://www.fxstreet.com/news/crude-oil-drops-on-trumps-russian-diesel-plan-202610091923",
+      "published": "Fri, 09 Oct 2026 19:23:58 GMT",
+      "ts": 1791573838
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin clings to $81,121 macro support on 5h chart: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-09 19:18:52",
       "ts": 1791573532
+    },
+    {
+      "source": "FXStreet",
+      "title": "China: Robust trade and rising prices – DBS",
+      "link": "https://www.fxstreet.com/news/china-robust-trade-and-rising-prices-dbs-202610091912",
+      "published": "Fri, 09 Oct 2026 19:12:00 GMT",
+      "ts": 1791573120
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dollar Index stalls under its high as the Fed's hawks repeat themselves",
+      "link": "https://www.fxstreet.com/news/dollar-index-stalls-under-its-high-as-the-feds-hawks-repeat-themselves-202610091910",
+      "published": "Fri, 09 Oct 2026 19:10:33 GMT",
+      "ts": 1791573033
+    },
+    {
+      "source": "FXStreet",
+      "title": "US President Trump says Putin agrees to supply millions of tons of diesel",
+      "link": "https://www.fxstreet.com/news/us-president-trump-says-putin-agrees-to-supply-millions-of-tons-of-diesel-202610091908",
+      "published": "Fri, 09 Oct 2026 19:08:45 GMT",
+      "ts": 1791572925
     },
     {
       "source": "CoinTelegraph",
@@ -115,13 +157,6 @@
       "ts": 1791568800
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 18:00:00 GMT",
-      "ts": 1791568800
-    },
-    {
       "source": "FXStreet",
       "title": "Japanese Yen struggles as wide US-Japan yield gap weighs",
       "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-wide-us-japan-yield-gap-weighs-202610091752",
@@ -150,46 +185,11 @@
       "ts": 1791565367
     },
     {
-      "source": "FXStreet",
-      "title": "Asia FX: Trade negotiations and resilient macro backdrop – MUFG",
-      "link": "https://www.fxstreet.com/news/asia-fx-trade-negotiations-and-resilient-macro-backdrop-mufg-202610091702",
-      "published": "Fri, 09 Oct 2026 17:02:10 GMT",
-      "ts": 1791565330
-    },
-    {
-      "source": "FXStreet",
-      "title": "Singapore: Policy slope tightening view – DBS",
-      "link": "https://www.fxstreet.com/news/singapore-policy-slope-tightening-view-dbs-202610091636",
-      "published": "Fri, 09 Oct 2026 16:36:57 GMT",
-      "ts": 1791563817
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
       "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 16:22:45 +0000",
       "ts": 1791562965
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canada loses 68.3K jobs and the Loonie falls to an 18-month low",
-      "link": "https://www.fxstreet.com/news/canada-loses-683k-jobs-and-the-loonie-falls-to-an-18-month-low-202610091617",
-      "published": "Fri, 09 Oct 2026 16:17:14 GMT",
-      "ts": 1791562634
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound holds ground as US Consumer Sentiment deteriorates",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-its-ground-as-us-consumer-sentiment-deteriorates-202610091612",
-      "published": "Fri, 09 Oct 2026 16:12:56 GMT",
-      "ts": 1791562376
-    },
-    {
-      "source": "FXStreet",
-      "title": "France: Budget politics and market testing – Rabobank",
-      "link": "https://www.fxstreet.com/news/france-budget-politics-and-market-testing-rabobank-202610091612",
-      "published": "Fri, 09 Oct 2026 16:12:43 GMT",
-      "ts": 1791562363
     },
     {
       "source": "CoinTelegraph",
