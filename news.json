@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-09T01:36:26.493246Z",
+  "updated": "2026-10-09T01:57:17.739349Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound edges higher to near 1.3250, renewed UK fiscal concerns in focus",
+      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-to-near-13250-renewed-uk-fiscal-concerns-in-focus-202610090136",
+      "published": "Fri, 09 Oct 2026 01:36:23 GMT",
+      "ts": 1791509783
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japan’s Katayama says DOGE Initiative to drive growth and fiscal sustainability under Takaichi",
+      "link": "https://www.fxstreet.com/news/japans-katayama-says-doge-initiative-to-drive-growth-and-fiscal-sustainability-under-takaichi-202610090118",
+      "published": "Fri, 09 Oct 2026 01:18:39 GMT",
+      "ts": 1791508719
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar edges higher amid modest USD weakness; upside potential seem limited",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-amid-modest-usd-weakness-upside-potential-seem-limited-202610090117",
+      "published": "Fri, 09 Oct 2026 01:17:01 GMT",
+      "ts": 1791508621
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI slips below $90.50 as Trump signals no pre-election strike on Iran",
+      "link": "https://www.fxstreet.com/news/wti-slips-below-9050-as-trump-signals-no-pre-election-strike-on-iran-202610090116",
+      "published": "Fri, 09 Oct 2026 01:16:07 GMT",
+      "ts": 1791508567
+    },
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7330 vs. 6.7367 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67330-vs-67367-previous-202610090115",
+      "published": "Fri, 09 Oct 2026 01:15:34 GMT",
+      "ts": 1791508534
+    },
     {
       "source": "MarketWatch",
       "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
@@ -80,13 +115,6 @@
       "ts": 1791497280
     },
     {
-      "source": "FXStreet",
-      "title": "Pound holds its floor as BoE member Greene presses for a hike",
-      "link": "https://www.fxstreet.com/news/pound-holds-its-floor-as-boe-member-greene-presses-for-a-hike-202610082206",
-      "published": "Thu, 08 Oct 2026 22:06:30 GMT",
-      "ts": 1791497190
-    },
-    {
       "source": "MarketWatch",
       "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
       "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
@@ -122,13 +150,6 @@
       "ts": 1791495780
     },
     {
-      "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Struggles at 209.00 as bearish-engulfing looms",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-struggles-at-20900-as-bearish-engulfing-looms-202610082123",
-      "published": "Thu, 08 Oct 2026 21:23:59 GMT",
-      "ts": 1791494639
-    },
-    {
       "source": "CoinDesk",
       "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
       "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
@@ -148,13 +169,6 @@
       "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 21:15:00 GMT",
       "ts": 1791494100
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold gains on geopolitics as Fed hike bets shift to December",
-      "link": "https://www.fxstreet.com/news/gold-gains-on-geopolitics-as-fed-hike-bets-shift-to-december-202610082105",
-      "published": "Thu, 08 Oct 2026 21:05:52 GMT",
-      "ts": 1791493552
     },
     {
       "source": "MarketWatch",
@@ -192,13 +206,6 @@
       "ts": 1791487329
     },
     {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Upside bias within defined band against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-upside-bias-within-defined-band-against-us-dollar-uob-202610081921",
-      "published": "Thu, 08 Oct 2026 19:21:00 GMT",
-      "ts": 1791487260
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin clings to $81K above 200 SMA after Double Top: Live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
@@ -218,13 +225,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
       "published": "2026-10-08 19:00:45",
       "ts": 1791486045
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso dives on solid US data despite rising inflation",
-      "link": "https://www.fxstreet.com/news/mexican-peso-dives-on-solid-us-data-despite-high-inflation-202610081845",
-      "published": "Thu, 08 Oct 2026 18:45:32 GMT",
-      "ts": 1791485132
     },
     {
       "source": "CoinTelegraph",
