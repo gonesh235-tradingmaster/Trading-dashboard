@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-09T13:59:13.786672Z",
+  "updated": "2026-10-09T14:22:07.147443Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Dollar heads for fourth straight weekly gain as euro slumps on fiscal worries",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
+      "published": "2026-10-09 14:00:47",
+      "ts": 1791554447
+    },
+    {
+      "source": "MarketWatch",
+      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 13:59:00 GMT",
+      "ts": 1791554340
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold: Short covering signals renewed bullish momentum - TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-short-covering-signals-renewed-bullish-momentum-td-securities-202610091358",
+      "published": "Fri, 09 Oct 2026 13:58:54 GMT",
+      "ts": 1791554334
+    },
     {
       "source": "MarketWatch",
       "title": "Should I put my nest egg in a 30-year Treasury bond?",
@@ -122,13 +143,6 @@
       "ts": 1791548452
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Choppy trade inside defined range – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-choppy-trade-inside-defined-range-uob-202610091220",
-      "published": "Fri, 09 Oct 2026 12:20:01 GMT",
-      "ts": 1791548401
-    },
-    {
       "source": "MarketWatch",
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
       "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
@@ -227,22 +241,8 @@
       "ts": 1791540899
     },
     {
-      "source": "Investing Forex",
-      "title": "Euro limps toward 5th weekly loss as dollar pause fails to erase rate hike bets",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
-      "published": "2026-10-09 10:07:23",
-      "ts": 1791540443
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
-      "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 10:04:00 GMT",
-      "ts": 1791540240
-    },
-    {
       "source": "FXStreet",
-      "title": "UoM Consumer Sentiment Index forecast to retreat in October amid rising Oil prices",
+      "title": "Breaking: UoM Consumer Sentiment Index comes at 46.3 in October",
       "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000",
       "published": "Fri, 09 Oct 2026 10:00:00 GMT",
       "ts": 1791540000
@@ -326,7 +326,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin climbs back above $83,000; XRP ETFs only crypto funds with inflows Thursday",
+      "title": "Live updates: Bitcoin steadies near $83,000 as crypto recovers from Thursday selloff",
       "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
       "published": "Fri, 09 Oct 2026 06:51:32 +0000",
       "ts": 1791528692
