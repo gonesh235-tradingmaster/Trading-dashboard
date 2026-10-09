@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-09T17:28:37.249729Z",
+  "updated": "2026-10-09T17:47:35.421217Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+      "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 17:35:00 GMT",
+      "ts": 1791567300
+    },
     {
       "source": "CoinTelegraph",
       "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
@@ -53,7 +60,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. She wants me to leave my home to her two children.",
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
       "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 16:30:00 GMT",
       "ts": 1791563400
@@ -148,13 +155,6 @@
       "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 15:19:00 GMT",
       "ts": 1791559140
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s how much stocks could fall if the Democrats sweep Congress, according to BofA",
-      "link": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 15:02:00 GMT",
-      "ts": 1791558120
     },
     {
       "source": "FXStreet",
