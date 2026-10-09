@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-09T12:22:58.948275Z",
+  "updated": "2026-10-09T12:49:40.952653Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Norwegian Krone: Rate hike risks support currency – BBH",
+      "link": "https://www.fxstreet.com/news/norwegian-krone-rate-hike-risks-support-currency-bbh-202610091240",
+      "published": "Fri, 09 Oct 2026 12:40:15 GMT",
+      "ts": 1791549615
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro zone ministers tell France to pass 2027 budget to calm markets",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
+      "published": "2026-10-09 12:24:47",
+      "ts": 1791548687
+    },
+    {
+      "source": "CoinDesk",
+      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
+      "link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+      "published": "Fri, 09 Oct 2026 12:23:54 +0000",
+      "ts": 1791548634
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound gains ground as Japanese Yen underperforms",
+      "link": "https://www.fxstreet.com/news/british-pound-gains-ground-as-japanese-yen-underperforms-202610091220",
+      "published": "Fri, 09 Oct 2026 12:20:52 GMT",
+      "ts": 1791548452
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen: Choppy trade inside defined range – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-choppy-trade-inside-defined-range-uob-202610091220",
+      "published": "Fri, 09 Oct 2026 12:20:01 GMT",
+      "ts": 1791548401
+    },
     {
       "source": "MarketWatch",
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -45,13 +80,6 @@
       "ts": 1791546547
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar: Labor data may trigger dovish repricing – BBH",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-labor-data-may-trigger-dovish-repricing-bbh-202610091146",
-      "published": "Fri, 09 Oct 2026 11:46:30 GMT",
-      "ts": 1791546390
-    },
-    {
       "source": "MarketWatch",
       "title": "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
       "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
@@ -66,39 +94,11 @@
       "ts": 1791545945
     },
     {
-      "source": "FXStreet",
-      "title": "Euro: Elusive recovery prospects against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-elusive-recovery-prospects-against-us-dollar-ing-202610091136",
-      "published": "Fri, 09 Oct 2026 11:36:43 GMT",
-      "ts": 1791545803
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso: Banxico cautious on cuts as Peso risks linger – Commerzbank",
-      "link": "https://www.fxstreet.com/news/mexican-peso-banxico-cautious-on-cuts-as-peso-risks-linger-commerzbank-202610091127",
-      "published": "Fri, 09 Oct 2026 11:27:06 GMT",
-      "ts": 1791545226
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Upside risks persist with strong demand – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-upside-risks-persist-with-strong-demand-bbh-202610091118",
-      "published": "Fri, 09 Oct 2026 11:18:43 GMT",
-      "ts": 1791544723
-    },
-    {
       "source": "MarketWatch",
       "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
       "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 11:15:00 GMT",
       "ts": 1791544500
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar: Policy divergence weighs on CAD against US Dollar – Rabobank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-policy-divergence-weighs-on-cad-against-us-dollar-rabobank-202610091110",
-      "published": "Fri, 09 Oct 2026 11:10:30 GMT",
-      "ts": 1791544230
     },
     {
       "source": "CoinDesk",
@@ -178,6 +178,13 @@
       "ts": 1791540240
     },
     {
+      "source": "FXStreet",
+      "title": "UoM Consumer Sentiment Index forecast to retreat in October amid rising Oil prices",
+      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000",
+      "published": "Fri, 09 Oct 2026 10:00:00 GMT",
+      "ts": 1791540000
+    },
+    {
       "source": "CoinTelegraph",
       "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
       "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -248,6 +255,13 @@
       "ts": 1791536280
     },
     {
+      "source": "FXStreet",
+      "title": "Breaking: Canada Unemployment Rate rises to 6.5% in September as expected",
+      "link": "https://www.fxstreet.com/news/canada-unemployment-rate-expected-to-rise-to-65-as-us-tariffs-test-labor-market-202610090830",
+      "published": "Fri, 09 Oct 2026 08:30:00 GMT",
+      "ts": 1791534600
+    },
+    {
       "source": "Investing Forex",
       "title": "UBS sees stronger outlook for Brazilian real after election",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-stronger-outlook-for-brazilian-real-after-election-93CH-4940395",
@@ -256,7 +270,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "French yields pause near peak as markets fret over Paris’s record debt load",
+      "title": "Treasuries pause after reaching 24-year highs as $20 billion inflow absorbs supply",
       "link": "https://www.investing.com/news/forex-news/french-yields-pause-near-peak-as-markets-fret-over-pariss-record-debt-load-4940344",
       "published": "2026-10-09 07:46:13",
       "ts": 1791531973
@@ -281,13 +295,6 @@
       "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
       "published": "Fri, 09 Oct 2026 06:51:32 +0000",
       "ts": 1791528692
-    },
-    {
-      "source": "CoinDesk",
-      "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
-      "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
-      "published": "Fri, 09 Oct 2026 06:40:54 +0000",
-      "ts": 1791528054
     },
     {
       "source": "Investing Forex",
@@ -365,13 +372,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-oil-rally-narrower-yield-gap-support-loonie-4939654",
       "published": "2026-10-08 19:22:09",
       "ts": 1791487329
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro zone ministers tell France to pass 2027 budget to calm markets",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
-      "published": "2026-10-08 19:00:45",
-      "ts": 1791486045
     },
     {
       "source": "Investing Crypto",
