@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-09T20:56:41.802433Z",
+  "updated": "2026-10-09T21:13:44.943626Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 21:07:00 GMT",
+      "ts": 1791580020
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 21:00:00 GMT",
+      "ts": 1791579600
+    },
     {
       "source": "MarketWatch",
       "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
@@ -10,11 +24,25 @@
       "ts": 1791579060
     },
     {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds ground above $82k, heads for weekly losses amid yield pressure",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
+      "published": "2026-10-09 20:46:24",
+      "ts": 1791578784
+    },
+    {
       "source": "CoinTelegraph",
       "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
       "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 20:39:17 +0000",
       "ts": 1791578357
+    },
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Range trading persists against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trading-persists-against-us-dollar-uob-202610092031",
+      "published": "Fri, 09 Oct 2026 20:31:00 GMT",
+      "ts": 1791577860
     },
     {
       "source": "Investing Forex",
@@ -150,25 +178,11 @@
       "ts": 1791570420
     },
     {
-      "source": "MarketWatch",
-      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 18:16:00 GMT",
-      "ts": 1791569760
-    },
-    {
       "source": "CoinDesk",
       "title": "Robinhood Chain considers technology that gives paying traders priority",
       "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
       "published": "Fri, 09 Oct 2026 18:11:00 +0000",
       "ts": 1791569460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Microsoft is nearing a big milestone that solidifies its revival",
-      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 18:06:00 GMT",
-      "ts": 1791569160
     },
     {
       "source": "FXStreet",
@@ -183,13 +197,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-wide-us-japan-yield-gap-weighs-202610091752",
       "published": "Fri, 09 Oct 2026 17:52:08 GMT",
       "ts": 1791568328
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: PBoC stance and valuation debate guide currency path – MUFG",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-stance-and-valuation-debate-guide-currency-path-mufg-202610091738",
-      "published": "Fri, 09 Oct 2026 17:38:45 GMT",
-      "ts": 1791567525
     },
     {
       "source": "CoinTelegraph",
@@ -246,13 +253,6 @@
       "link": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 13:49:22 +0000",
       "ts": 1791553762
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steadies above $82k, heads for weekly losses amid yield pressure",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
-      "published": "2026-10-09 13:42:49",
-      "ts": 1791553369
     },
     {
       "source": "Investing Forex",
