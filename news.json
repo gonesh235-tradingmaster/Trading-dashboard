@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-09T14:22:07.147443Z",
+  "updated": "2026-10-09T14:47:16.884864Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults",
+      "link": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 14:38:00 GMT",
+      "ts": 1791556680
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+      "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 14:36:00 GMT",
+      "ts": 1791556560
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Kalshi is coming for ‘Dancing with the Stars’ fans",
+      "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 14:34:00 GMT",
+      "ts": 1791556440
+    },
+    {
+      "source": "MarketWatch",
+      "title": "College students have to use credit cards just to cover basic living expenses. Here’s what it’s costing them.",
+      "link": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 14:33:00 GMT",
+      "ts": 1791556380
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
+      "link": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 14:30:00 GMT",
+      "ts": 1791556200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
+      "link": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 14:28:00 GMT",
+      "ts": 1791556080
+    },
     {
       "source": "Investing Forex",
       "title": "Dollar heads for fourth straight weekly gain as euro slumps on fiscal worries",
@@ -80,13 +122,6 @@
       "ts": 1791552600
     },
     {
-      "source": "MarketWatch",
-      "title": "Nvidia and Micron shares bounce as investors get clarity on a key OpenAI matter",
-      "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 13:21:00 GMT",
-      "ts": 1791552060
-    },
-    {
       "source": "FXStreet",
       "title": "European Central Bank: Conditional support and French risks – Rabobank",
       "link": "https://www.fxstreet.com/news/european-central-bank-conditional-support-and-french-risks-rabobank-202610091317",
@@ -143,39 +178,11 @@
       "ts": 1791548452
     },
     {
-      "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 12:16:00 GMT",
-      "ts": 1791548160
-    },
-    {
-      "source": "MarketWatch",
-      "title": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults",
-      "link": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 12:15:00 GMT",
-      "ts": 1791548100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
-      "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 12:06:00 GMT",
-      "ts": 1791547560
-    },
-    {
       "source": "CoinDesk",
       "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
       "link": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
       "published": "Fri, 09 Oct 2026 11:39:05 +0000",
       "ts": 1791545945
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 11:15:00 GMT",
-      "ts": 1791544500
     },
     {
       "source": "CoinDesk",
@@ -225,13 +232,6 @@
       "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 10:16:48 +0000",
       "ts": 1791541008
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 10:15:00 GMT",
-      "ts": 1791540900
     },
     {
       "source": "CoinDesk",
