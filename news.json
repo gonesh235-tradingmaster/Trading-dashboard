@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-09T19:16:46.345191Z",
+  "updated": "2026-10-09T19:42:58.036993Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin clings to $81,121 macro support on 5h chart: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-09 19:18:52",
+      "ts": 1791573532
+    },
     {
       "source": "CoinTelegraph",
       "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
@@ -337,13 +344,6 @@
       "link": "https://www.investing.com/news/forex-news/french-yields-pause-near-peak-as-markets-fret-over-pariss-record-debt-load-4940344",
       "published": "2026-10-09 07:46:13",
       "ts": 1791531973
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin breaks below range, tests $81K support: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-09 07:11:29",
-      "ts": 1791529889
     },
     {
       "source": "Investing Forex",
