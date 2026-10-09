@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-09T09:34:28.552934Z",
+  "updated": "2026-10-09T09:57:39.821075Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
+      "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 09:50:01 +0000",
+      "ts": 1791539401
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges up as dollar dips on Treasury pause",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-dips-on-treasury-pause-4940524",
+      "published": "2026-10-09 09:46:00",
+      "ts": 1791539160
+    },
     {
       "source": "FXStreet",
       "title": "Silver price today: Silver rises, according to FXStreet data",
@@ -39,7 +53,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why the price of this one exchange-traded fund has suddenly gone exponential",
+      "title": "Why the price of this one ETF has gone exponential",
       "link": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 09:12:00 GMT",
       "ts": 1791537120
@@ -360,13 +374,6 @@
       "ts": 1791486045
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
-      "link": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 18:17:35 +0000",
-      "ts": 1791483455
-    },
-    {
       "source": "Investing Crypto",
       "title": "Cardano Falls 10% In Bearish Trade",
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4939477",
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-native-ai-travel-agent-with-bnb-chain--binance-pay-4938960",
       "published": "2026-10-08 12:30:10",
       "ts": 1791462610
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as hawkish Fed minutes lift dollar",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-minutes-lift-dollar-4938198",
-      "published": "2026-10-08 09:02:01",
-      "ts": 1791450121
     },
     {
       "source": "Investing Crypto",
