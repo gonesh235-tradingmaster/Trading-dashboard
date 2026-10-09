@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-09T13:38:04.314186Z",
+  "updated": "2026-10-09T13:59:13.786672Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 13:51:00 GMT",
+      "ts": 1791553860
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
+      "link": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 13:49:22 +0000",
+      "ts": 1791553762
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 13:47:00 GMT",
+      "ts": 1791553620
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steadies above $82k, heads for weekly losses amid yield pressure",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
+      "published": "2026-10-09 13:42:49",
+      "ts": 1791553369
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: RBI seen keeping hike option open – DBS",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-seen-keeping-hike-option-open-dbs-202610091336",
+      "published": "Fri, 09 Oct 2026 13:36:10 GMT",
+      "ts": 1791552970
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 13:31:41 +0000",
+      "ts": 1791552701
+    },
     {
       "source": "CoinTelegraph",
       "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
@@ -24,11 +66,32 @@
       "ts": 1791552060
     },
     {
+      "source": "FXStreet",
+      "title": "European Central Bank: Conditional support and French risks – Rabobank",
+      "link": "https://www.fxstreet.com/news/european-central-bank-conditional-support-and-french-risks-rabobank-202610091317",
+      "published": "Fri, 09 Oct 2026 13:17:08 GMT",
+      "ts": 1791551828
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar underperforms after Canada sheds 68.3K jobs in September",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-underperforms-after-canada-sheds-683k-jobs-in-september-202610091316",
+      "published": "Fri, 09 Oct 2026 13:16:32 GMT",
+      "ts": 1791551792
+    },
+    {
       "source": "Investing Forex",
       "title": "EUR/USD outlook as euro stays pinned near multi month lows",
       "link": "https://www.investing.com/news/forex-news/eurusd-outlook-as-euro-stays-pinned-near-multi-month-lows-93CH-4941222",
       "published": "2026-10-09 13:14:38",
       "ts": 1791551678
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States: Core CPI trend seen moderating – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-states-core-cpi-trend-seen-moderating-td-securities-202610091256",
+      "published": "Fri, 09 Oct 2026 12:56:18 GMT",
+      "ts": 1791550578
     },
     {
       "source": "FXStreet",
@@ -85,27 +148,6 @@
       "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 12:06:00 GMT",
       "ts": 1791547560
-    },
-    {
-      "source": "FXStreet",
-      "title": "Oil: Iran tensions keep crude prices elevated - Rabobank",
-      "link": "https://www.fxstreet.com/news/oil-iran-tensions-keep-crude-prices-elevated-rabobank-202610091201",
-      "published": "Fri, 09 Oct 2026 12:01:34 GMT",
-      "ts": 1791547294
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Rallies fail above 1.1200 amid high Oil prices, debt woes",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-rallies-fail-above-11200-amid-high-oil-prices-debt-woes-202610091156",
-      "published": "Fri, 09 Oct 2026 11:56:52 GMT",
-      "ts": 1791547012
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen underperforms against its peers into the weekend",
-      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-against-its-peers-into-the-weekend-202610091149",
-      "published": "Fri, 09 Oct 2026 11:49:07 GMT",
-      "ts": 1791546547
     },
     {
       "source": "CoinDesk",
@@ -220,32 +262,11 @@
       "ts": 1791539160
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin edges lower to $82k, heads for weekly losses amid yield pressure",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
-      "published": "2026-10-09 09:21:23",
-      "ts": 1791537683
-    },
-    {
       "source": "CoinDesk",
       "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
       "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
       "published": "Fri, 09 Oct 2026 09:20:16 +0000",
       "ts": 1791537616
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I feel like a loser’: My ETFs go up one day and crash the next. Is this a bad sign?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 09:15:00 GMT",
-      "ts": 1791537300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why the price of this one ETF has gone exponential",
-      "link": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 09:12:00 GMT",
-      "ts": 1791537120
     },
     {
       "source": "CoinDesk",
@@ -318,20 +339,6 @@
       "ts": 1791526838
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee attracts bids as US bond yields cool down",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-pullback-in-us-bond-yields-202610090538",
-      "published": "Fri, 09 Oct 2026 05:38:09 GMT",
-      "ts": 1791524289
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 05:38:03 +0000",
-      "ts": 1791524283
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
       "link": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -344,13 +351,6 @@
       "link": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 05:25:27 +0000",
       "ts": 1791523527
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-      "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 03:08:51 +0000",
-      "ts": 1791515331
     },
     {
       "source": "Investing Crypto",
