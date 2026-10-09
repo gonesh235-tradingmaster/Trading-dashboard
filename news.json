@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-09T11:20:22.646320Z",
+  "updated": "2026-10-09T11:42:41.617102Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
+      "link": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
+      "published": "Fri, 09 Oct 2026 11:39:05 +0000",
+      "ts": 1791545945
+    },
     {
       "source": "MarketWatch",
       "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
@@ -95,7 +102,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Euro limps Toward 5th weekly loss as dollar pause fails to erase rate hike bets",
+      "title": "Euro limps toward 5th weekly loss as dollar pause fails to erase rate hike bets",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
       "published": "2026-10-09 10:07:23",
       "ts": 1791540443
@@ -263,7 +270,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+      "title": "Live updates: Bitcoin steadies above $82,000; XRP ETFs only crypto funds with inflows Thursday",
       "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
       "published": "Fri, 09 Oct 2026 06:51:32 +0000",
       "ts": 1791528692
@@ -302,13 +309,6 @@
       "link": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 05:25:27 +0000",
       "ts": 1791523527
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
-      "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-      "published": "Fri, 09 Oct 2026 05:00:52 +0000",
-      "ts": 1791522052
     },
     {
       "source": "CoinTelegraph",
