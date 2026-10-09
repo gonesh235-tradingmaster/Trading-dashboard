@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-09T11:42:41.617102Z",
+  "updated": "2026-10-09T11:58:44.144311Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
+      "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 11:41:00 GMT",
+      "ts": 1791546060
+    },
     {
       "source": "CoinDesk",
       "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
@@ -22,13 +29,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
       "published": "Fri, 09 Oct 2026 11:09:04 +0000",
       "ts": 1791544144
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Aging bull: Why the four-year old stock-market rally can still pack a punch",
-      "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 11:02:00 GMT",
-      "ts": 1791543720
     },
     {
       "source": "FXStreet",
@@ -109,7 +109,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders",
+      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
       "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 10:04:00 GMT",
       "ts": 1791540240
@@ -270,7 +270,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin steadies above $82,000; XRP ETFs only crypto funds with inflows Thursday",
+      "title": "Live updates: Bitcoin climbs back above $83,000; XRP ETFs only crypto funds with inflows Thursday",
       "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
       "published": "Fri, 09 Oct 2026 06:51:32 +0000",
       "ts": 1791528692
