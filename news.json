@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-10T04:12:54.263644Z",
+  "updated": "2026-10-10T04:32:34.795327Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "published": "Sat, 10 Oct 2026 04:20:07 +0000",
+      "ts": 1791606007
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trades above $82,000 as rising oil prices, Fed outlook weigh",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+      "published": "2026-10-10 03:59:57",
+      "ts": 1791604797
+    },
     {
       "source": "MarketWatch",
       "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
@@ -311,13 +325,6 @@
       "ts": 1791542662
     },
     {
-      "source": "CoinDesk",
-      "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-      "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-      "published": "Fri, 09 Oct 2026 10:16:55 +0000",
-      "ts": 1791541015
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound edges up as dollar dips on Treasury pause",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-dips-on-treasury-pause-4940524",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
       "published": "2026-10-07 21:50:27",
       "ts": 1791409827
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Falls 10% In Bearish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
-      "published": "2026-10-07 19:26:58",
-      "ts": 1791401218
     }
   ]
 }
