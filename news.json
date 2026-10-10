@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-10T11:55:07.722055Z",
+  "updated": "2026-10-10T12:11:46.203910Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "One year after 10/10, bitcoin and ether liquidity have rebuilt, but other altcoins still face risks",
+      "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+      "published": "Sat, 10 Oct 2026 12:00:00 +0000",
+      "ts": 1791633600
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+      "published": "Sat, 10 Oct 2026 12:00:00 +0000",
+      "ts": 1791633600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘What you don’t know is greater than anything you do know’: How Ray Dalio would build a portfolio to withstand a popping AI bubble",
+      "link": "https://www.marketwatch.com/story/what-you-dont-know-is-greater-than-anything-you-do-know-how-ray-dalio-would-build-a-portfolio-to-withstand-a-popping-ai-bubble-2491ac6b?mod=mw_rss_topstories",
+      "published": "Sat, 10 Oct 2026 12:00:00 GMT",
+      "ts": 1791633600
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+      "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 10 Oct 2026 11:52:14 +0000",
+      "ts": 1791633134
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin falls nearly 3% over past week as security fears weigh on sentiment",
@@ -11,7 +39,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
+      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
       "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
       "published": "Sat, 10 Oct 2026 11:00:00 +0000",
       "ts": 1791630000
@@ -157,13 +185,6 @@
       "ts": 1791580860
     },
     {
-      "source": "MarketWatch",
-      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 21:07:00 GMT",
-      "ts": 1791580020
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin holds ground above $82k, heads for weekly losses amid yield pressure",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
@@ -290,25 +311,11 @@
       "ts": 1791562965
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
-      "link": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 15:51:53 +0000",
-      "ts": 1791561113
-    },
-    {
       "source": "CoinDesk",
       "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
       "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
       "published": "Fri, 09 Oct 2026 14:55:23 +0000",
       "ts": 1791557723
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-      "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
-      "published": "Fri, 09 Oct 2026 14:47:27 +0000",
-      "ts": 1791557247
     },
     {
       "source": "Investing Forex",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
       "published": "2026-10-09 12:24:47",
       "ts": 1791548687
-    },
-    {
-      "source": "CoinDesk",
-      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-      "link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-      "published": "Fri, 09 Oct 2026 12:23:54 +0000",
-      "ts": 1791548634
     },
     {
       "source": "Investing Forex",
