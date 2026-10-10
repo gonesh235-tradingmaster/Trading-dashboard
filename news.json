@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-10T02:56:04.326844Z",
+  "updated": "2026-10-10T03:12:17.343473Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+      "published": "Sat, 10 Oct 2026 03:00:00 +0000",
+      "ts": 1791601200
+    },
     {
       "source": "MarketWatch",
       "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
@@ -309,13 +316,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
       "published": "Fri, 09 Oct 2026 10:16:55 +0000",
       "ts": 1791541015
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-      "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-      "published": "Fri, 09 Oct 2026 10:14:59 +0000",
-      "ts": 1791540899
     },
     {
       "source": "Investing Forex",
