@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-10T12:11:46.203910Z",
+  "updated": "2026-10-10T12:35:12.243983Z",
   "count": 60,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "Why Nvidia’s stock is dodging the AI credit scare that is crushing Broadcom and Oracle",
+      "link": "https://www.marketwatch.com/story/why-nvidias-stock-is-dodging-the-ai-credit-scare-that-is-crushing-broadcom-and-oracle-abc8f598?mod=mw_rss_topstories",
+      "published": "Sat, 10 Oct 2026 12:30:00 GMT",
+      "ts": 1791635400
+    },
+    {
       "source": "CoinDesk",
-      "title": "One year after 10/10, bitcoin and ether liquidity have rebuilt, but other altcoins still face risks",
+      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
       "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
       "published": "Sat, 10 Oct 2026 12:00:00 +0000",
       "ts": 1791633600
@@ -162,13 +169,6 @@
       "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 21:27:00 GMT",
       "ts": 1791581220
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Microsoft is nearing a big milestone that solidifies its revival",
-      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 21:24:00 GMT",
-      "ts": 1791581040
     },
     {
       "source": "CoinDesk",
