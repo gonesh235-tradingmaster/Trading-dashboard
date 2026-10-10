@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-10T00:16:03.215269Z",
+  "updated": "2026-10-10T00:52:51.279171Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "published": "Sat, 10 Oct 2026 00:15:00 GMT",
+      "ts": 1791591300
+    },
     {
       "source": "MarketWatch",
       "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
@@ -113,13 +120,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
       "published": "2026-10-09 20:30:15",
       "ts": 1791577815
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 20:15:00 GMT",
-      "ts": 1791576900
     },
     {
       "source": "CoinTelegraph",
