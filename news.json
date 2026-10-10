@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-10T18:32:32.149664Z",
+  "updated": "2026-10-10T18:57:51.707297Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rebounds above $83,000 after weekly slide as oil, yields and security fear",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+      "published": "2026-10-10 18:48:08",
+      "ts": 1791658088
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "published": "Sat, 10 Oct 2026 18:31:00 GMT",
+      "ts": 1791657060
+    },
     {
       "source": "MarketWatch",
       "title": "Elon Musk is now richer than any American ever — and it’s not even close",
@@ -22,20 +36,6 @@
       "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
       "published": "Sat, 10 Oct 2026 15:30:00 GMT",
       "ts": 1791646200
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steadies near $83,000 as spot ETF outflows top $680 million",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
-      "published": "2026-10-10 15:08:04",
-      "ts": 1791644884
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "published": "Sat, 10 Oct 2026 15:05:00 GMT",
-      "ts": 1791644700
     },
     {
       "source": "MarketWatch",
