@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-10T12:35:12.243983Z",
+  "updated": "2026-10-10T12:58:24.725762Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 10 Oct 2026 12:30:00 +0000",
+      "ts": 1791635400
+    },
     {
       "source": "MarketWatch",
       "title": "Why Nvidia’s stock is dodging the AI credit scare that is crushing Broadcom and Oracle",
@@ -267,13 +274,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-bullish-engulfing-pattern-puts-64-in-sight-202610091840",
       "published": "Fri, 09 Oct 2026 18:40:37 GMT",
       "ts": 1791571237
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 18:30:11 +0000",
-      "ts": 1791570611
     },
     {
       "source": "FXStreet",
