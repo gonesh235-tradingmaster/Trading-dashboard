@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-10T06:13:02.886553Z",
+  "updated": "2026-10-10T06:37:56.041440Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 17% In a Green Day",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
+      "published": "2026-10-10 06:16:02",
+      "ts": 1791612962
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-to-launch-with-500m-in-capital-backing-adds-anchorage-digital-to-coalition-4937792",
       "published": "2026-10-08 01:30:09",
       "ts": 1791423009
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin falls to $83k amid pressure from Fed minutes, oil prices, and yields",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
-      "published": "2026-10-07 21:50:27",
-      "ts": 1791409827
     }
   ]
 }
