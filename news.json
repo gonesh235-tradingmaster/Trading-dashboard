@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-10T06:59:11.938946Z",
+  "updated": "2026-10-10T07:18:34.338780Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 10 Oct 2026 07:10:43 +0000",
+      "ts": 1791616243
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin hovers at Fibonacci support near $82,700: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-10 07:02:31",
+      "ts": 1791615751
+    },
     {
       "source": "Investing Crypto",
       "title": "EOS Climbs 17% In a Green Day",
@@ -185,13 +199,6 @@
       "ts": 1791573838
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin clings to $81,121 macro support on 5h chart: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-09 19:18:52",
-      "ts": 1791573532
-    },
-    {
       "source": "FXStreet",
       "title": "China: Robust trade and rising prices – DBS",
       "link": "https://www.fxstreet.com/news/china-robust-trade-and-rising-prices-dbs-202610091912",
@@ -295,13 +302,6 @@
       "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
       "published": "Fri, 09 Oct 2026 14:47:27 +0000",
       "ts": 1791557247
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
-      "link": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 13:49:22 +0000",
-      "ts": 1791553762
     },
     {
       "source": "Investing Forex",
