@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-10T04:32:34.795327Z",
+  "updated": "2026-10-10T04:56:47.116027Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+      "published": "Sat, 10 Oct 2026 04:44:35 +0000",
+      "ts": 1791607475
+    },
     {
       "source": "CoinDesk",
       "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
@@ -316,13 +323,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
       "published": "Fri, 09 Oct 2026 11:09:04 +0000",
       "ts": 1791544144
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-      "published": "Fri, 09 Oct 2026 10:44:22 +0000",
-      "ts": 1791542662
     },
     {
       "source": "Investing Forex",
