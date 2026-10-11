@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-11T07:48:05.375065Z",
+  "updated": "2026-10-11T08:10:48.531352Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 11 Oct 2026 07:44:51 +0000",
+      "ts": 1791704691
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin stuck in $81,300-$85,200 range: Live breakout levels",
@@ -309,13 +316,6 @@
       "link": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 17:02:47 +0000",
       "ts": 1791565367
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-      "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 16:22:45 +0000",
-      "ts": 1791562965
     },
     {
       "source": "CoinDesk",
