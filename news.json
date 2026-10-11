@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-11T16:29:15.116369Z",
+  "updated": "2026-10-11T16:47:55.261884Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+      "published": "Sun, 11 Oct 2026 16:35:00 GMT",
+      "ts": 1791736500
+    },
     {
       "source": "CoinDesk",
       "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
@@ -146,13 +153,6 @@
       "source": "MarketWatch",
       "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
       "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-      "published": "Sat, 10 Oct 2026 19:44:00 GMT",
-      "ts": 1791661440
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
-      "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
       "published": "Sat, 10 Oct 2026 19:44:00 GMT",
       "ts": 1791661440
     },
