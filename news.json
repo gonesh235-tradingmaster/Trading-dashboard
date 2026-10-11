@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-11T15:28:27.951434Z",
+  "updated": "2026-10-11T15:46:37.268641Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "link": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+      "published": "Sun, 11 Oct 2026 15:40:47 +0000",
+      "ts": 1791733247
+    },
     {
       "source": "MarketWatch",
       "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
@@ -69,8 +76,8 @@
       "source": "CoinTelegraph",
       "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
       "link": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 11 Oct 2026 10:22:44 +0000",
-      "ts": 1791714164
+      "published": "Sun, 11 Oct 2026 10:32:00 +0000",
+      "ts": 1791714720
     },
     {
       "source": "CoinTelegraph",
@@ -90,8 +97,8 @@
       "source": "CoinTelegraph",
       "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
       "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 11 Oct 2026 07:44:51 +0000",
-      "ts": 1791704691
+      "published": "Sun, 11 Oct 2026 07:50:00 +0000",
+      "ts": 1791705000
     },
     {
       "source": "Investing Crypto",
@@ -337,13 +344,6 @@
       "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-but-gains-constrained-ocbc-202610091827",
       "published": "Fri, 09 Oct 2026 18:27:00 GMT",
       "ts": 1791570420
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood Chain considers technology that gives paying traders priority",
-      "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-      "published": "Fri, 09 Oct 2026 18:11:00 +0000",
-      "ts": 1791569460
     },
     {
       "source": "Investing Forex",
