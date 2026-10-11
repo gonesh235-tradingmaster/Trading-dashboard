@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-11T22:47:17.007333Z",
+  "updated": "2026-10-11T23:09:27.410702Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 11 Oct 2026 22:57:53 +0000",
+      "ts": 1791759473
+    },
+    {
+      "source": "FXStreet",
+      "title": "US President Donald Trump says Russia and Ukraine agree to an ‘energy ceasefire’",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-russia-and-ukraine-agree-to-an-energy-ceasefire-202610112238",
+      "published": "Sun, 11 Oct 2026 22:38:51 GMT",
+      "ts": 1791758331
+    },
+    {
+      "source": "FXStreet",
+      "title": "Middle East War updates: New attack launched on Saudi airport",
+      "link": "https://www.fxstreet.com/news/middle-east-war-updates-new-attack-launched-on-saudi-airport-202610112228",
+      "published": "Sun, 11 Oct 2026 22:28:57 GMT",
+      "ts": 1791757737
+    },
     {
       "source": "MarketWatch",
       "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
@@ -290,13 +311,6 @@
       "ts": 1791577815
     },
     {
-      "source": "CoinTelegraph",
-      "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
-      "link": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 20:14:02 +0000",
-      "ts": 1791576842
-    },
-    {
       "source": "FXStreet",
       "title": "Taiwan Dollar: Trade strength but losses capped against US Dollar – Commerzbank",
       "link": "https://www.fxstreet.com/news/taiwan-dollar-trade-strength-but-losses-capped-against-us-dollar-commerzbank-202610091949",
@@ -330,20 +344,6 @@
       "link": "https://www.fxstreet.com/news/us-president-trump-says-putin-agrees-to-supply-millions-of-tons-of-diesel-202610091908",
       "published": "Fri, 09 Oct 2026 19:08:45 GMT",
       "ts": 1791572925
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: Bullish engulfing pattern puts $64 in sight",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-bullish-engulfing-pattern-puts-64-in-sight-202610091840",
-      "published": "Fri, 09 Oct 2026 18:40:37 GMT",
-      "ts": 1791571237
-    },
-    {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: MAS tightening but gains constrained – OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-but-gains-constrained-ocbc-202610091827",
-      "published": "Fri, 09 Oct 2026 18:27:00 GMT",
-      "ts": 1791570420
     },
     {
       "source": "Investing Forex",
