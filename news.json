@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-11T15:46:37.268641Z",
+  "updated": "2026-10-11T16:09:35.484564Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "published": "Sun, 11 Oct 2026 16:00:00 +0000",
+      "ts": 1791734400
+    },
     {
       "source": "CoinDesk",
       "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
@@ -239,13 +246,6 @@
       "link": "https://www.fxstreet.com/news/aussie-extends-weekly-gains-as-fed-pause-bets-offset-hawkish-rhetoric-202610092218",
       "published": "Fri, 09 Oct 2026 22:18:12 GMT",
       "ts": 1791584292
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-      "published": "Fri, 09 Oct 2026 21:21:54 +0000",
-      "ts": 1791580914
     },
     {
       "source": "FXStreet",
