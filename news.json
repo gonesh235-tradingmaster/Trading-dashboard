@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-11T18:10:43.502837Z",
+  "updated": "2026-10-11T18:32:31.816915Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "published": "Sun, 11 Oct 2026 18:30:00 +0000",
+      "ts": 1791743400
+    },
     {
       "source": "CoinTelegraph",
       "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
@@ -239,13 +246,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
       "published": "Sat, 10 Oct 2026 04:20:07 +0000",
       "ts": 1791606007
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-      "published": "Sat, 10 Oct 2026 03:00:00 +0000",
-      "ts": 1791601200
     },
     {
       "source": "FXStreet",
