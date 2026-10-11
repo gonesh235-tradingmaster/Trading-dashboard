@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-11T17:09:37.830127Z",
+  "updated": "2026-10-11T17:28:10.154839Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+      "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 11 Oct 2026 17:03:00 +0000",
+      "ts": 1791738180
+    },
     {
       "source": "MarketWatch",
       "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
@@ -323,13 +330,6 @@
       "link": "https://www.fxstreet.com/news/us-president-trump-says-putin-agrees-to-supply-millions-of-tons-of-diesel-202610091908",
       "published": "Fri, 09 Oct 2026 19:08:45 GMT",
       "ts": 1791572925
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-      "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 19:04:03 +0000",
-      "ts": 1791572643
     },
     {
       "source": "FXStreet",
