@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-11T12:59:52.201815Z",
+  "updated": "2026-10-11T13:19:36.490192Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 11% As Investors Gain Confidence",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-as-investors-gain-confidence-4942660",
+      "published": "2026-10-11 13:03:01",
+      "ts": 1791723781
+    },
+    {
+      "source": "CoinDesk",
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "published": "Sun, 11 Oct 2026 13:00:00 +0000",
+      "ts": 1791723600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The bull market is turning 4 years old — but yields could crash the party",
+      "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+      "published": "Sun, 11 Oct 2026 13:00:00 GMT",
+      "ts": 1791723600
+    },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
@@ -118,13 +139,6 @@
       "source": "MarketWatch",
       "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
       "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-      "published": "Sat, 10 Oct 2026 19:44:00 GMT",
-      "ts": 1791661440
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
-      "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
       "published": "Sat, 10 Oct 2026 19:44:00 GMT",
       "ts": 1791661440
     },
@@ -332,13 +346,6 @@
       "ts": 1791569460
     },
     {
-      "source": "CoinDesk",
-      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-      "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-      "published": "Fri, 09 Oct 2026 14:55:23 +0000",
-      "ts": 1791557723
-    },
-    {
       "source": "Investing Forex",
       "title": "EUR/USD outlook as euro stays pinned near multi month lows",
       "link": "https://www.investing.com/news/forex-news/eurusd-outlook-as-euro-stays-pinned-near-multi-month-lows-93CH-4941222",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4939477",
       "published": "2026-10-08 16:07:57",
       "ts": 1791475677
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Stablecoins Are Quietly Becoming Business Infrastructure, NOWPayments Data Shows",
-      "link": "https://www.investing.com/news/cryptocurrency-news/stablecoins-are-quietly-becoming-business-infrastructure-nowpayments-data-shows-4938959",
-      "published": "2026-10-08 12:30:10",
-      "ts": 1791462610
     }
   ]
 }
