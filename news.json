@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-11T05:31:21.701040Z",
+  "updated": "2026-10-11T05:55:33.498220Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin struggles near $83,000 a year after $19 billion crypto crash",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
+      "published": "2026-10-11 05:24:26",
+      "ts": 1791696266
+    },
     {
       "source": "MarketWatch",
       "title": "Should I put my nest egg in a 30-year Treasury bond?",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-native-ai-travel-agent-with-bnb-chain--binance-pay-4938960",
       "published": "2026-10-08 12:30:10",
       "ts": 1791462610
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Hashi Mainnet to Launch With $500M in Capital Backing, Adds Anchorage Digital to Coalition",
-      "link": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-to-launch-with-500m-in-capital-backing-adds-anchorage-digital-to-coalition-4937792",
-      "published": "2026-10-08 01:30:09",
-      "ts": 1791423009
     }
   ]
 }
