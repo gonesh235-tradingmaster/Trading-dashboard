@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-11T12:37:58.010294Z",
+  "updated": "2026-10-11T12:59:52.201815Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 11 Oct 2026 12:45:00 +0000",
+      "ts": 1791722700
+    },
     {
       "source": "MarketWatch",
       "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
@@ -127,13 +134,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
       "published": "2026-10-10 18:48:08",
       "ts": 1791658088
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 10 Oct 2026 12:30:00 +0000",
-      "ts": 1791635400
     },
     {
       "source": "CoinDesk",
