@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-12T01:21:35.006372Z",
+  "updated": "2026-10-12T01:46:31.857641Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+      "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 01:21:29 +0000",
+      "ts": 1791768089
+    },
     {
       "source": "FXStreet",
       "title": "Euro holds gains above 1.1200 despite France’s bond turmoil",
@@ -309,13 +316,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
       "published": "2026-10-09 20:46:24",
       "ts": 1791578784
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-      "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 20:39:17 +0000",
-      "ts": 1791578357
     },
     {
       "source": "FXStreet",
