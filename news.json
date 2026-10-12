@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-12T19:30:21.428139Z",
+  "updated": "2026-10-12T19:57:13.146632Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
+      "link": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 19:43:00 GMT",
+      "ts": 1791834180
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 19:26:13 +0000",
+      "ts": 1791833173
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin clings to $81,479 support under heavy resistance: Live levels",
@@ -211,20 +225,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-84k-as-falling-oil-prices-offer-some-support-4943235",
       "published": "2026-10-12 13:56:30",
       "ts": 1791813390
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Winter heating costs are expected to be 8.3% higher than last year. But could El Niño help?",
-      "link": "https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 13:54:00 GMT",
-      "ts": 1791813240
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 12:46:51 +0000",
-      "ts": 1791809211
     },
     {
       "source": "CoinTelegraph",
