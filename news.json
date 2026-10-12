@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-12T12:20:15.208327Z",
+  "updated": "2026-10-12T13:10:03.394143Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 12:46:51 +0000",
+      "ts": 1791809211
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
+      "link": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 12:31:51 +0000",
+      "ts": 1791808311
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bybit Kicks Off \"Full Stocks Ahead\" With a 150,000 USDC Prize Pool for Its New Stocks Trading Service",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bybit-kicks-off-full-stocks-ahead-with-a-150000-usdc-prize-pool-for-its-new-stocks-trading-service-4944326",
+      "published": "2026-10-12 12:30:06",
+      "ts": 1791808206
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Eurozone yields ease as energy pullback temporarily soothes duration fears",
+      "link": "https://www.investing.com/news/forex-news/eurozone-yields-ease-as-energy-pullback-temporarily-soothesduration-fears-4943436",
+      "published": "2026-10-12 12:26:11",
+      "ts": 1791807971
+    },
     {
       "source": "MarketWatch",
       "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
@@ -43,13 +71,6 @@
       "link": "https://www.fxstreet.com/news/bank-of-canada-policy-path-steady-with-cautious-inflation-stance-td-securities-202610121157",
       "published": "Mon, 12 Oct 2026 11:57:12 GMT",
       "ts": 1791806232
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Eurozone yields ease as energy pullback temporarily soothes duration fears",
-      "link": "https://www.investing.com/news/forex-news/eurozone-yields-ease-as-energy-pullback-temporarily-soothesduration-fears-4943436",
-      "published": "2026-10-12 11:50:59",
-      "ts": 1791805859
     },
     {
       "source": "FXStreet",
@@ -291,13 +312,6 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 05:55:00 +0000",
-      "ts": 1791784500
-    },
-    {
-      "source": "CoinTelegraph",
       "title": "DATA Network to migrate to Sui, retire own chain",
       "link": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 05:15:43 +0000",
@@ -330,13 +344,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data-4943027",
       "published": "2026-10-12 03:30:06",
       "ts": 1791775806
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
-      "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 01:21:29 +0000",
-      "ts": 1791768089
     },
     {
       "source": "Investing Crypto",
@@ -379,13 +386,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
       "published": "2026-10-10 18:48:08",
       "ts": 1791658088
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Climbs 17% In a Green Day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
-      "published": "2026-10-10 06:16:02",
-      "ts": 1791612962
     },
     {
       "source": "Investing Forex",
