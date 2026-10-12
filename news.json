@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-12T04:36:38.913011Z",
+  "updated": "2026-10-12T05:00:00.856951Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+      "published": "Mon, 12 Oct 2026 04:49:30 +0000",
+      "ts": 1791780570
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+      "link": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 04:45:15 +0000",
+      "ts": 1791780315
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Indian rupee surges after RBI unveils measures to support currency",
+      "link": "https://www.investing.com/news/forex-news/indian-rupee-surges-after-rbi-unveils-measures-to-support-currency-4943076",
+      "published": "2026-10-12 04:38:52",
+      "ts": 1791779932
+    },
     {
       "source": "FXStreet",
       "title": "EUR/JPY Price Forecast: Rises to near 177.50 barrier near nine-day EMA",
@@ -311,13 +332,6 @@
       "ts": 1791621900
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-      "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 10 Oct 2026 07:10:43 +0000",
-      "ts": 1791616243
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Climbs 17% In a Green Day",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
@@ -337,13 +351,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
       "published": "Sat, 10 Oct 2026 04:44:35 +0000",
       "ts": 1791607475
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-      "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-      "published": "Sat, 10 Oct 2026 04:20:07 +0000",
-      "ts": 1791606007
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
       "published": "2026-10-08 21:56:08",
       "ts": 1791496568
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. bond market halts rout while Eurozone finance ministers pressure Paris",
-      "link": "https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
-      "published": "2026-10-08 21:15:27",
-      "ts": 1791494127
     }
   ]
 }
