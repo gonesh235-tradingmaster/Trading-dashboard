@@ -1,13 +1,48 @@
 {
-  "updated": "2026-10-12T01:46:31.857641Z",
+  "updated": "2026-10-12T02:12:26.590556Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar flat lines around 1.4250 as sliding oil prices counter USD softness",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-flat-lines-around-14250-as-sliding-oil-prices-counter-usd-softness-202610120200",
+      "published": "Mon, 12 Oct 2026 02:00:41 GMT",
+      "ts": 1791770441
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen holds range amid Japanese holiday, dovish BoJ signals",
+      "link": "https://www.fxstreet.com/news/japanese-yen-holds-range-amid-japanese-holiday-dovish-boj-signals-202610120129",
+      "published": "Mon, 12 Oct 2026 01:29:06 GMT",
+      "ts": 1791768546
+    },
     {
       "source": "CoinTelegraph",
       "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
       "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 01:21:29 +0000",
       "ts": 1791768089
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound gains positive traction as USD remains depressed on softer bond yields",
+      "link": "https://www.fxstreet.com/news/british-pound-gains-positive-traction-as-usd-remains-depressed-on-softer-bond-yields-202610120119",
+      "published": "Mon, 12 Oct 2026 01:19:51 GMT",
+      "ts": 1791767991
+    },
+    {
+      "source": "FXStreet",
+      "title": "Saudi-led coalition says it intercepted Houthi ballistic missile toward Khamis Mushait",
+      "link": "https://www.fxstreet.com/news/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-toward-khamis-mushait-202610120115",
+      "published": "Mon, 12 Oct 2026 01:15:35 GMT",
+      "ts": 1791767735
+    },
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7313 vs. 6.7330 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67313-vs-67330-previous-202610120115",
+      "published": "Mon, 12 Oct 2026 01:15:33 GMT",
+      "ts": 1791767733
     },
     {
       "source": "FXStreet",
@@ -297,20 +332,6 @@
       "ts": 1791606007
     },
     {
-      "source": "FXStreet",
-      "title": "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
-      "link": "https://www.fxstreet.com/news/aussie-extends-weekly-gains-as-fed-pause-bets-offset-hawkish-rhetoric-202610092218",
-      "published": "Fri, 09 Oct 2026 22:18:12 GMT",
-      "ts": 1791584292
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: PBoC defends yuan narrative – Commerzbank",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-defends-yuan-narrative-commerzbank-202610092121",
-      "published": "Fri, 09 Oct 2026 21:21:00 GMT",
-      "ts": 1791580860
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin holds ground above $82k, heads for weekly losses amid yield pressure",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
@@ -318,32 +339,11 @@
       "ts": 1791578784
     },
     {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Range trading persists against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trading-persists-against-us-dollar-uob-202610092031",
-      "published": "Fri, 09 Oct 2026 20:31:00 GMT",
-      "ts": 1791577860
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar gains for fourth straight week on Fed rate outlook",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
       "published": "2026-10-09 20:30:15",
       "ts": 1791577815
-    },
-    {
-      "source": "FXStreet",
-      "title": "Taiwan Dollar: Trade strength but losses capped against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-trade-strength-but-losses-capped-against-us-dollar-commerzbank-202610091949",
-      "published": "Fri, 09 Oct 2026 19:49:00 GMT",
-      "ts": 1791575340
-    },
-    {
-      "source": "FXStreet",
-      "title": "Crude Oil drops on Trump's Russian diesel plan",
-      "link": "https://www.fxstreet.com/news/crude-oil-drops-on-trumps-russian-diesel-plan-202610091923",
-      "published": "Fri, 09 Oct 2026 19:23:58 GMT",
-      "ts": 1791573838
     },
     {
       "source": "Investing Forex",
