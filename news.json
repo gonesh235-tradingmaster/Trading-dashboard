@@ -1,13 +1,48 @@
 {
-  "updated": "2026-10-12T15:04:07.805868Z",
+  "updated": "2026-10-12T15:33:03.229406Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+      "published": "Mon, 12 Oct 2026 15:27:09 +0000",
+      "ts": 1791818829
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron makes a statement with the latest clue about its cash windfall",
+      "link": "https://www.marketwatch.com/story/micron-makes-a-statement-with-the-latest-clue-about-its-cash-windfall-c9e33f7d?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 15:06:00 GMT",
+      "ts": 1791817560
+    },
     {
       "source": "CoinDesk",
       "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
       "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
       "published": "Mon, 12 Oct 2026 15:00:00 +0000",
       "ts": 1791817200
+    },
+    {
+      "source": "FXStreet",
+      "title": "India: Rising inflation pressures challenge RBI – Societe Generale",
+      "link": "https://www.fxstreet.com/news/india-rising-inflation-pressures-challenge-rbi-societe-generale-202610121454",
+      "published": "Mon, 12 Oct 2026 14:54:29 GMT",
+      "ts": 1791816869
+    },
+    {
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Trade détente and PBoC fix support Yuan – Commerzbank",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-trade-detente-and-pboc-fix-support-yuan-commerzbank-202610121439",
+      "published": "Mon, 12 Oct 2026 14:39:15 GMT",
+      "ts": 1791815955
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/CHF Price Forecast: Daily chart favours bulls despite mixed momentum signals",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-daily-chart-favours-bulls-despite-mixed-momentum-signals-202610121426",
+      "published": "Mon, 12 Oct 2026 14:26:00 GMT",
+      "ts": 1791815160
     },
     {
       "source": "CoinTelegraph",
@@ -122,13 +157,6 @@
       "ts": 1791808734
     },
     {
-      "source": "FXStreet",
-      "title": "Canadian Dollar struggles as Fed and BoC policy outlooks diverge",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-as-fed-and-boc-policy-outlooks-diverge-202610121235",
-      "published": "Mon, 12 Oct 2026 12:35:17 GMT",
-      "ts": 1791808517
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
       "link": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -178,20 +206,6 @@
       "ts": 1791806513
     },
     {
-      "source": "FXStreet",
-      "title": "0.8447 under pressure: EUR/GBP tests 16-month lows with France in the spotlight",
-      "link": "https://www.fxstreet.com/news/08447-under-pressure-eur-gbp-tests-16-month-lows-with-france-in-the-spotlight-202610121157",
-      "published": "Mon, 12 Oct 2026 11:57:51 GMT",
-      "ts": 1791806271
-    },
-    {
-      "source": "FXStreet",
-      "title": "Bank of Canada: Policy path steady with cautious inflation stance – TD Securities",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-policy-path-steady-with-cautious-inflation-stance-td-securities-202610121157",
-      "published": "Mon, 12 Oct 2026 11:57:12 GMT",
-      "ts": 1791806232
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Australia proposes leverage caps for crypto-settled derivatives",
       "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -225,13 +239,6 @@
       "link": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 11:14:10 +0000",
       "ts": 1791803650
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
-      "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 11:07:00 GMT",
-      "ts": 1791803220
     },
     {
       "source": "CoinDesk",
@@ -309,13 +316,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-euro-slips-as-fed-bets-back-dollar-4943503",
       "published": "2026-10-12 08:40:09",
       "ts": 1791794409
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
-      "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
-      "published": "Mon, 12 Oct 2026 08:32:17 +0000",
-      "ts": 1791793937
     },
     {
       "source": "Investing Crypto",
