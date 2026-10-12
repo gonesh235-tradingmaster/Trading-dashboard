@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-12T18:14:51.548382Z",
+  "updated": "2026-10-12T18:41:26.850214Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Trump’s ‘energy ceasefire’ collides with real-world problems of dwindling fuel supplies",
+      "link": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 18:36:00 GMT",
+      "ts": 1791830160
+    },
     {
       "source": "FXStreet",
       "title": "Fed’s Hammack sees higher neutral rate, urges more policy restraint",
@@ -183,13 +190,6 @@
       "link": "https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 13:54:00 GMT",
       "ts": 1791813240
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The bull market is turning 4 years old — but yields could crash the party",
-      "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 13:42:00 GMT",
-      "ts": 1791812520
     },
     {
       "source": "CoinTelegraph",
