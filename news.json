@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-12T11:47:53.486764Z",
+  "updated": "2026-10-12T12:20:15.208327Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 12:15:00 GMT",
+      "ts": 1791807300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 12:15:00 GMT",
+      "ts": 1791807300
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+      "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+      "published": "Mon, 12 Oct 2026 12:09:09 +0000",
+      "ts": 1791806949
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93M is traced, $10M frozen",
+      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+      "published": "Mon, 12 Oct 2026 12:01:53 +0000",
+      "ts": 1791806513
+    },
+    {
+      "source": "FXStreet",
+      "title": "0.8447 under pressure: EUR/GBP tests 16-month lows with France in the spotlight",
+      "link": "https://www.fxstreet.com/news/08447-under-pressure-eur-gbp-tests-16-month-lows-with-france-in-the-spotlight-202610121157",
+      "published": "Mon, 12 Oct 2026 11:57:51 GMT",
+      "ts": 1791806271
+    },
+    {
+      "source": "FXStreet",
+      "title": "Bank of Canada: Policy path steady with cautious inflation stance – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-policy-path-steady-with-cautious-inflation-stance-td-securities-202610121157",
+      "published": "Mon, 12 Oct 2026 11:57:12 GMT",
+      "ts": 1791806232
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Eurozone yields ease as energy pullback temporarily soothes duration fears",
+      "link": "https://www.investing.com/news/forex-news/eurozone-yields-ease-as-energy-pullback-temporarily-soothesduration-fears-4943436",
+      "published": "2026-10-12 11:50:59",
+      "ts": 1791805859
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar approaches YTD lows amid a subdued risk appetite",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-approaches-ytd-lows-amid-a-subdued-risk-appetite-202610121144",
+      "published": "Mon, 12 Oct 2026 11:44:10 GMT",
+      "ts": 1791805450
+    },
     {
       "source": "CoinTelegraph",
       "title": "Australia proposes leverage caps for crypto-settled derivatives",
@@ -22,6 +78,20 @@
       "link": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 11:30:00 GMT",
       "ts": 1791804600
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold fails to sustain a break above $4,200, US CPI in focus",
+      "link": "https://www.fxstreet.com/news/gold-fails-to-sustain-a-break-above-4-200-us-cpi-in-focus-202610121129",
+      "published": "Mon, 12 Oct 2026 11:29:34 GMT",
+      "ts": 1791804574
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc: Mixed outlook against Euro around French spread moves – ING",
+      "link": "https://www.fxstreet.com/news/swiss-franc-mixed-outlook-against-euro-around-french-spread-moves-ing-202610121122",
+      "published": "Mon, 12 Oct 2026 11:22:29 GMT",
+      "ts": 1791804149
     },
     {
       "source": "CoinDesk",
@@ -122,32 +192,11 @@
       "ts": 1791800100
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar: Firmer tone but capped at 0.7000 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-firmer-tone-but-capped-at-07000-against-us-dollar-uob-202610121002",
-      "published": "Mon, 12 Oct 2026 10:02:21 GMT",
-      "ts": 1791799341
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee: RBI measures support INR against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-measures-support-inr-against-us-dollar-societe-generale-202610120946",
-      "published": "Mon, 12 Oct 2026 09:46:57 GMT",
-      "ts": 1791798417
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
       "link": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 09:41:17 +0000",
       "ts": 1791798077
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc dips as geopolitical tensions and Oil prices boost the US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-dips-as-geopolitical-tensions-and-oil-prices-boost-the-us-dollar-202610120939",
-      "published": "Mon, 12 Oct 2026 09:39:20 GMT",
-      "ts": 1791797960
     },
     {
       "source": "Investing Forex",
@@ -157,13 +206,6 @@
       "ts": 1791797903
     },
     {
-      "source": "FXStreet",
-      "title": "CEE FX: Inflation data versus global Dollar strength – ING",
-      "link": "https://www.fxstreet.com/news/cee-fx-inflation-data-versus-global-dollar-strength-ing-202610120933",
-      "published": "Mon, 12 Oct 2026 09:33:39 GMT",
-      "ts": 1791797619
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
       "link": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -171,32 +213,11 @@
       "ts": 1791797457
     },
     {
-      "source": "FXStreet",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202610120930",
-      "published": "Mon, 12 Oct 2026 09:30:35 GMT",
-      "ts": 1791797435
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro holds range vs Yen as French strains, Japan’s loose policy offset",
-      "link": "https://www.fxstreet.com/news/euro-holds-range-vs-yen-as-french-strains-japans-loose-policy-offset-202610120923",
-      "published": "Mon, 12 Oct 2026 09:23:55 GMT",
-      "ts": 1791797035
-    },
-    {
       "source": "MarketWatch",
       "title": "The bond market is doing the Fed’s job, and that could be good news for stocks, says Morgan Stanley strategist",
       "link": "https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 09:23:00 GMT",
       "ts": 1791796980
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 09:15:00 GMT",
-      "ts": 1791796500
     },
     {
       "source": "MarketWatch",
@@ -218,13 +239,6 @@
       "link": "https://www.marketwatch.com/story/legal-battle-continues-as-dolly-partons-estate-claims-nephew-put-up-barbed-wire-to-avoid-summons-e4ed0f9a?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 09:05:00 GMT",
       "ts": 1791795900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Dr. Phil lists his lavish Beverly Hills estate for a whopping $67.5 million",
-      "link": "https://www.marketwatch.com/story/dr-phil-lists-his-lavish-beverly-hills-estate-for-a-whopping-67-5-million-5992b370?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 09:02:00 GMT",
-      "ts": 1791795720
     },
     {
       "source": "CoinDesk",
@@ -253,13 +267,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
       "published": "Mon, 12 Oct 2026 08:32:17 +0000",
       "ts": 1791793937
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Eurozone yields ease as energy pullback temporarily soothes duration fears",
-      "link": "https://www.investing.com/news/forex-news/eurozone-yields-ease-as-energy-pullback-temporarily-soothesduration-fears-4943436",
-      "published": "2026-10-12 08:17:56",
-      "ts": 1791793076
     },
     {
       "source": "CoinDesk",
@@ -297,13 +304,6 @@
       "ts": 1791782143
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million",
-      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
-      "published": "Mon, 12 Oct 2026 04:49:30 +0000",
-      "ts": 1791780570
-    },
-    {
       "source": "CoinTelegraph",
       "title": "French lawmakers back reporting rule for crypto wallets over $112K",
       "link": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -316,6 +316,13 @@
       "link": "https://www.investing.com/news/forex-news/indian-rupee-surges-after-rbi-unveils-measures-to-support-currency-4943076",
       "published": "2026-10-12 04:38:52",
       "ts": 1791779932
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee gains significantly on fresh RBI measures",
+      "link": "https://www.fxstreet.com/news/usd-inr-opens-higher-as-rbi-steps-up-measures-to-support-indian-rupee-202610120404",
+      "published": "Mon, 12 Oct 2026 04:04:59 GMT",
+      "ts": 1791777899
     },
     {
       "source": "Investing Crypto",
@@ -337,13 +344,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-11 19:02:17",
       "ts": 1791745337
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
-      "published": "Sun, 11 Oct 2026 18:30:00 +0000",
-      "ts": 1791743400
     },
     {
       "source": "Investing Crypto",
