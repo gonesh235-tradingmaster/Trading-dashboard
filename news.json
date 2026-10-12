@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-12T07:48:52.425017Z",
+  "updated": "2026-10-12T08:15:08.029520Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Oil: Supply risks offset by Russia diesel deal – ING",
+      "link": "https://www.fxstreet.com/news/oil-supply-risks-offset-by-russia-diesel-deal-ing-202610120807",
+      "published": "Mon, 12 Oct 2026 08:07:22 GMT",
+      "ts": 1791792442
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah declines amid policy trade-offs",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-amid-policy-trade-offs-202610120805",
+      "published": "Mon, 12 Oct 2026 08:05:05 GMT",
+      "ts": 1791792305
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+      "published": "Mon, 12 Oct 2026 07:49:40 +0000",
+      "ts": 1791791380
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: Turns sideways after hitting fresh yearly highs near 102.50",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-turns-sideways-after-hitting-fresh-yearly-highs-near-10250-202610120740",
+      "published": "Mon, 12 Oct 2026 07:40:24 GMT",
+      "ts": 1791790824
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro: Bearish sentiment persists into year-end against US Dollar – MUFG",
+      "link": "https://www.fxstreet.com/news/euro-bearish-sentiment-persists-into-year-end-against-us-dollar-mufg-202610120733",
+      "published": "Mon, 12 Oct 2026 07:33:47 GMT",
+      "ts": 1791790427
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound approaches 210.00 vs weak Yen as range play remains intact",
+      "link": "https://www.fxstreet.com/news/british-pound-approaches-21000-vs-weak-yen-as-range-play-remains-intact-202610120729",
+      "published": "Mon, 12 Oct 2026 07:29:48 GMT",
+      "ts": 1791790188
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro hovers near 17-month low against the British Pound as debt woes weigh",
+      "link": "https://www.fxstreet.com/news/euro-hovers-near-17-month-low-against-the-british-pound-as-debt-woes-weigh-202610120728",
+      "published": "Mon, 12 Oct 2026 07:28:09 GMT",
+      "ts": 1791790089
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin wedged at $84,175 between key support and resistance: Live",
@@ -45,46 +94,11 @@
       "ts": 1791787136
     },
     {
-      "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: US Dollar eases within range in a quiet session",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-us-dollar-eases-within-range-in-a-quiet-session-202610120634",
-      "published": "Mon, 12 Oct 2026 06:34:53 GMT",
-      "ts": 1791786893
-    },
-    {
-      "source": "FXStreet",
-      "title": "Equities: Stable oil and yields support stock gains - Danske Bank",
-      "link": "https://www.fxstreet.com/news/equities-stable-oil-and-yields-support-stock-gains-danske-bank-202610120633",
-      "published": "Mon, 12 Oct 2026 06:33:45 GMT",
-      "ts": 1791786825
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
       "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 06:30:21 +0000",
       "ts": 1791786621
-    },
-    {
-      "source": "FXStreet",
-      "title": "Brent: Houthi escalation keeps risk premium elevated – Commerzbank",
-      "link": "https://www.fxstreet.com/news/brent-houthi-escalation-keeps-risk-premium-elevated-commerzbank-202610120621",
-      "published": "Mon, 12 Oct 2026 06:21:19 GMT",
-      "ts": 1791786079
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Downside risks toward 1.1145 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-toward-11145-against-us-dollar-uob-202610120610",
-      "published": "Mon, 12 Oct 2026 06:10:33 GMT",
-      "ts": 1791785433
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI falls to near $90.00 as Russia-Ukraine energy ceasefire fuels supply hopes",
-      "link": "https://www.fxstreet.com/news/wti-falls-to-near-9000-as-russia-ukraine-energy-ceasefire-fuels-supply-hopes-202610120603",
-      "published": "Mon, 12 Oct 2026 06:03:51 GMT",
-      "ts": 1791785031
     },
     {
       "source": "CoinTelegraph",
@@ -102,7 +116,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold eases from one-week top, falls below $4,200 as hawkish Fed and Iran risks support USD",
+      "title": "Gold slides further below $4,200 as USD bulls retain control amid Fed bets, Iran risks",
       "link": "https://www.fxstreet.com/news/gold-holds-near-one-week-top-around-4-200-on-softer-usd-hawkish-fed-caps-gains-202610120452",
       "published": "Mon, 12 Oct 2026 04:52:36 GMT",
       "ts": 1791780756
@@ -127,13 +141,6 @@
       "link": "https://www.investing.com/news/forex-news/indian-rupee-surges-after-rbi-unveils-measures-to-support-currency-4943076",
       "published": "2026-10-12 04:38:52",
       "ts": 1791779932
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee gains 1% on fresh RBI measures at start of the week",
-      "link": "https://www.fxstreet.com/news/usd-inr-opens-higher-as-rbi-steps-up-measures-to-support-indian-rupee-202610120404",
-      "published": "Mon, 12 Oct 2026 04:04:59 GMT",
-      "ts": 1791777899
     },
     {
       "source": "Investing Crypto",
@@ -358,13 +365,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
       "published": "Sat, 10 Oct 2026 05:43:00 +0000",
       "ts": 1791610980
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-      "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-      "published": "Sat, 10 Oct 2026 04:44:35 +0000",
-      "ts": 1791607475
     },
     {
       "source": "Investing Crypto",
