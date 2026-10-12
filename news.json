@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-12T00:58:51.808082Z",
+  "updated": "2026-10-12T01:21:35.006372Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro holds gains above 1.1200 despite France’s bond turmoil",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11200-despite-frances-bond-turmoil-202610120100",
+      "published": "Mon, 12 Oct 2026 01:00:29 GMT",
+      "ts": 1791766829
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI declines to near $90.00 despite escalating Middle East conflict, supply risks",
+      "link": "https://www.fxstreet.com/news/wti-declines-to-near-9000-despite-escalating-middle-east-conflict-supply-risks-202610120047",
+      "published": "Mon, 12 Oct 2026 00:47:20 GMT",
+      "ts": 1791766040
+    },
     {
       "source": "FXStreet",
       "title": "Australian Dollar edges higher to near 0.7000 on weak US Sentiment",
@@ -330,20 +344,6 @@
       "link": "https://www.fxstreet.com/news/crude-oil-drops-on-trumps-russian-diesel-plan-202610091923",
       "published": "Fri, 09 Oct 2026 19:23:58 GMT",
       "ts": 1791573838
-    },
-    {
-      "source": "FXStreet",
-      "title": "China: Robust trade and rising prices – DBS",
-      "link": "https://www.fxstreet.com/news/china-robust-trade-and-rising-prices-dbs-202610091912",
-      "published": "Fri, 09 Oct 2026 19:12:00 GMT",
-      "ts": 1791573120
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dollar Index stalls under its high as the Fed's hawks repeat themselves",
-      "link": "https://www.fxstreet.com/news/dollar-index-stalls-under-its-high-as-the-feds-hawks-repeat-themselves-202610091910",
-      "published": "Fri, 09 Oct 2026 19:10:33 GMT",
-      "ts": 1791573033
     },
     {
       "source": "Investing Forex",
