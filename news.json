@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-12T06:17:24.743687Z",
+  "updated": "2026-10-12T06:56:46.300116Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Range-bound trading within a tight band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-range-bound-trading-within-a-tight-band-against-us-dollar-uob-202610120648",
+      "published": "Mon, 12 Oct 2026 06:48:19 GMT",
+      "ts": 1791787699
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin recovers to near $84k as falling oil prices offer some support",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-84k-as-falling-oil-prices-offer-some-support-4943235",
+      "published": "2026-10-12 06:38:56",
+      "ts": 1791787136
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/CAD Price Forecast: US Dollar eases within range in a quiet session",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-us-dollar-eases-within-range-in-a-quiet-session-202610120634",
+      "published": "Mon, 12 Oct 2026 06:34:53 GMT",
+      "ts": 1791786893
+    },
+    {
+      "source": "FXStreet",
+      "title": "Equities: Stable oil and yields support stock gains - Danske Bank",
+      "link": "https://www.fxstreet.com/news/equities-stable-oil-and-yields-support-stock-gains-danske-bank-202610120633",
+      "published": "Mon, 12 Oct 2026 06:33:45 GMT",
+      "ts": 1791786825
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+      "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 06:30:21 +0000",
+      "ts": 1791786621
+    },
+    {
+      "source": "FXStreet",
+      "title": "Brent: Houthi escalation keeps risk premium elevated – Commerzbank",
+      "link": "https://www.fxstreet.com/news/brent-houthi-escalation-keeps-risk-premium-elevated-commerzbank-202610120621",
+      "published": "Mon, 12 Oct 2026 06:21:19 GMT",
+      "ts": 1791786079
+    },
     {
       "source": "FXStreet",
       "title": "Euro: Downside risks toward 1.1145 against US Dollar – UOB",
@@ -38,13 +80,6 @@
       "ts": 1791783305
     },
     {
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Edges higher near 1.3250, but technical tone stays bearish below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-edges-higher-near-13250-but-technical-tone-stays-bearish-below-100-day-sma-202610120524",
-      "published": "Mon, 12 Oct 2026 05:24:26 GMT",
-      "ts": 1791782666
-    },
-    {
       "source": "CoinTelegraph",
       "title": "DATA Network to migrate to Sui, retire own chain",
       "link": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -53,21 +88,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Australian Dollar fails ahead of 0.7000 as hawkish Fed and Iran risks limit USD losses",
-      "link": "https://www.fxstreet.com/news/australian-dollar-fails-ahead-of-07000-as-hawkish-fed-and-iran-risks-limit-usd-losses-202610120513",
-      "published": "Mon, 12 Oct 2026 05:13:13 GMT",
-      "ts": 1791781993
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Gets some relief from Russia-Ukraine energy ceasefire",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-gets-some-relief-from-russia-ukraine-energy-ceasefire-202610120457",
-      "published": "Mon, 12 Oct 2026 04:57:37 GMT",
-      "ts": 1791781057
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold holds near one-week top, around $4,200 on softer USD; hawkish Fed caps gains",
+      "title": "Gold eases from one-week top, falls below $4,200 as hawkish Fed and Iran risks support USD",
       "link": "https://www.fxstreet.com/news/gold-holds-near-one-week-top-around-4-200-on-softer-usd-hawkish-fed-caps-gains-202610120452",
       "published": "Mon, 12 Oct 2026 04:52:36 GMT",
       "ts": 1791780756
@@ -95,17 +116,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610120430",
-      "published": "Mon, 12 Oct 2026 04:30:56 GMT",
-      "ts": 1791779456
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/JPY Price Forecast: Weakens to near 110.50, maintaining negative bias under 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-weakens-to-near-11050-maintaining-negative-bias-under-100-day-sma-202610120426",
-      "published": "Mon, 12 Oct 2026 04:26:37 GMT",
-      "ts": 1791779197
+      "title": "Indian Rupee gains 1% on fresh RBI measures at start of the week",
+      "link": "https://www.fxstreet.com/news/usd-inr-opens-higher-as-rbi-steps-up-measures-to-support-indian-rupee-202610120404",
+      "published": "Mon, 12 Oct 2026 04:04:59 GMT",
+      "ts": 1791777899
     },
     {
       "source": "Investing Forex",
@@ -318,13 +332,6 @@
       "ts": 1791633600
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-      "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 10 Oct 2026 11:52:14 +0000",
-      "ts": 1791633134
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
       "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-limited-upside-for-eurjpy-amid-intervention-expectations-93CH-4940266",
       "published": "2026-10-09 06:20:38",
       "ts": 1791526838
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips under $82k amid surging oil prices, hit to Wall Street tech stocks",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
-      "published": "2026-10-08 21:56:08",
-      "ts": 1791496568
     }
   ]
 }
