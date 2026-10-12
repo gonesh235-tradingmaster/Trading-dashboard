@@ -1,13 +1,41 @@
 {
-  "updated": "2026-10-12T11:22:10.102538Z",
+  "updated": "2026-10-12T11:47:53.486764Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Australia proposes leverage caps for crypto-settled derivatives",
+      "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 11:41:58 +0000",
+      "ts": 1791805318
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
+      "link": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 11:34:00 GMT",
+      "ts": 1791804840
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Mired in their worst losing streak in years, small caps could be the best way for investors to play crucial CPI data",
+      "link": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 11:30:00 GMT",
+      "ts": 1791804600
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin holds $83,000 as dollar strength keeps markets on edge",
       "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
       "published": "Mon, 12 Oct 2026 11:21:11 +0000",
       "ts": 1791804071
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
+      "link": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 11:14:10 +0000",
+      "ts": 1791803650
     },
     {
       "source": "FXStreet",
@@ -57,13 +85,6 @@
       "link": "https://www.fxstreet.com/news/wti-rebounds-as-middle-east-tensions-clash-with-russia-ukraine-peace-hopes-202610121056",
       "published": "Mon, 12 Oct 2026 10:56:26 GMT",
       "ts": 1791802586
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
-      "link": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 10:52:00 GMT",
-      "ts": 1791802320
     },
     {
       "source": "FXStreet",
@@ -311,20 +332,6 @@
       "ts": 1791768089
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 11 Oct 2026 22:57:53 +0000",
-      "ts": 1791759473
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "published": "Sun, 11 Oct 2026 20:15:00 GMT",
-      "ts": 1791749700
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin trapped in $81K-$84K range: Breakout watch live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
@@ -337,13 +344,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
       "published": "Sun, 11 Oct 2026 18:30:00 +0000",
       "ts": 1791743400
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
-      "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 11 Oct 2026 17:11:00 +0000",
-      "ts": 1791738660
     },
     {
       "source": "Investing Crypto",
