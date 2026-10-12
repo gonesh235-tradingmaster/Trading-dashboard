@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-12T02:58:32.399070Z",
+  "updated": "2026-10-12T03:20:29.340116Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar weakens as Middle East conflict elevates inflation risks",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-middle-east-conflict-elevates-inflation-risks-202610120308",
+      "published": "Mon, 12 Oct 2026 03:08:50 GMT",
+      "ts": 1791774530
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index drifts lower amid softer bond yields; bullish bias intact",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-drifts-lower-amid-softer-bond-yields-bullish-bias-intact-202610120256",
+      "published": "Mon, 12 Oct 2026 02:56:36 GMT",
+      "ts": 1791773796
+    },
+    {
+      "source": "FXStreet",
+      "title": "India steps up currency defense with tougher US Dollar curbs — Reuters",
+      "link": "https://www.fxstreet.com/news/india-steps-up-currency-defense-with-tougher-us-dollar-curbs-reuters-202610120230",
+      "published": "Mon, 12 Oct 2026 02:30:38 GMT",
+      "ts": 1791772238
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold drifts higher above $4,200 on surging ETF inflows, markets await US inflation data this week",
+      "link": "https://www.fxstreet.com/news/gold-drifts-higher-above-4-200-on-surging-etf-inflows-markets-await-us-inflation-data-this-week-202610120213",
+      "published": "Mon, 12 Oct 2026 02:13:44 GMT",
+      "ts": 1791771224
+    },
     {
       "source": "FXStreet",
       "title": "Canadian Dollar flat lines around 1.4250 as sliding oil prices counter USD softness",
@@ -52,39 +80,11 @@
       "ts": 1791766829
     },
     {
-      "source": "FXStreet",
-      "title": "WTI declines to near $90.00 despite escalating Middle East conflict, supply risks",
-      "link": "https://www.fxstreet.com/news/wti-declines-to-near-9000-despite-escalating-middle-east-conflict-supply-risks-202610120047",
-      "published": "Mon, 12 Oct 2026 00:47:20 GMT",
-      "ts": 1791766040
-    },
-    {
-      "source": "FXStreet",
-      "title": "Australian Dollar edges higher to near 0.7000 on weak US Sentiment",
-      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-to-near-07000-on-weak-us-sentiment-202610112344",
-      "published": "Sun, 11 Oct 2026 23:44:14 GMT",
-      "ts": 1791762254
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 11 Oct 2026 22:57:53 +0000",
       "ts": 1791759473
-    },
-    {
-      "source": "FXStreet",
-      "title": "US President Donald Trump says Russia and Ukraine agree to an ‘energy ceasefire’",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-russia-and-ukraine-agree-to-an-energy-ceasefire-202610112238",
-      "published": "Sun, 11 Oct 2026 22:38:51 GMT",
-      "ts": 1791758331
-    },
-    {
-      "source": "FXStreet",
-      "title": "Middle East War updates: New attack launched on Saudi airport",
-      "link": "https://www.fxstreet.com/news/middle-east-war-updates-new-attack-launched-on-saudi-airport-202610112228",
-      "published": "Sun, 11 Oct 2026 22:28:57 GMT",
-      "ts": 1791757737
     },
     {
       "source": "MarketWatch",
