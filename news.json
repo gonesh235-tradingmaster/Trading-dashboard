@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-12T03:20:29.340116Z",
+  "updated": "2026-10-12T03:49:18.583022Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "DATA Network joins Sui and Walrus to scale the supply chain for AI training data",
+      "link": "https://www.investing.com/news/cryptocurrency-news/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data-4943027",
+      "published": "2026-10-12 03:30:06",
+      "ts": 1791775806
+    },
     {
       "source": "FXStreet",
       "title": "New Zealand Dollar weakens as Middle East conflict elevates inflation risks",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
       "published": "2026-10-08 19:56:52",
       "ts": 1791489412
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Cardano Falls 10% In Bearish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4939477",
-      "published": "2026-10-08 16:07:57",
-      "ts": 1791475677
     }
   ]
 }
