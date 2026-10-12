@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-12T23:30:22.716417Z",
+  "updated": "2026-10-12T23:56:22.438137Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 23:31:00 GMT",
+      "ts": 1791847860
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold tumbles below $4,200 on higher oil prices, firmer US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-tumbles-below-4-200-on-higher-oil-prices-firmer-us-dollar-202610122318",
+      "published": "Mon, 12 Oct 2026 23:18:51 GMT",
+      "ts": 1791847131
+    },
     {
       "source": "FXStreet",
       "title": "The Japanese Yen slips on a Tokyo holiday",
@@ -78,13 +92,6 @@
       "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 21:19:00 GMT",
       "ts": 1791839940
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 21:16:00 GMT",
-      "ts": 1791839760
     },
     {
       "source": "CoinTelegraph",
@@ -183,13 +190,6 @@
       "link": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 18:36:00 GMT",
       "ts": 1791830160
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI hits two-week high Middle East tensions overshadow Russian diesel supplies",
-      "link": "https://www.fxstreet.com/news/wti-reverses-losses-as-middle-east-tensions-overshadow-russian-diesel-supplies-202610121822",
-      "published": "Mon, 12 Oct 2026 18:22:53 GMT",
-      "ts": 1791829373
     },
     {
       "source": "CoinTelegraph",
