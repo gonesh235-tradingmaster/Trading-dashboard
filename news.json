@@ -1,13 +1,41 @@
 {
-  "updated": "2026-10-12T20:15:34.367926Z",
+  "updated": "2026-10-12T20:46:04.576865Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Microsoft hits a big milestone that solidifies its revival",
+      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 20:40:00 GMT",
+      "ts": 1791837600
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average edges higher with no memory chips to sell",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-edges-higher-with-no-memory-chips-to-sell-202610122000",
+      "published": "Mon, 12 Oct 2026 20:00:00 GMT",
+      "ts": 1791835200
+    },
+    {
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Building upside momentum toward 6.6800 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-building-upside-momentum-toward-66800-against-us-dollar-uob-202610121945",
+      "published": "Mon, 12 Oct 2026 19:45:00 GMT",
+      "ts": 1791834300
+    },
     {
       "source": "MarketWatch",
       "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
       "link": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 19:43:00 GMT",
       "ts": 1791834180
+    },
+    {
+      "source": "FXStreet",
+      "title": "FX Today: US Dollar hits 17-month high, RBA minutes and Fed speaking, up next",
+      "link": "https://www.fxstreet.com/news/fx-today-us-dollar-hits-17-month-high-rba-minutes-and-fed-speaking-up-next-202610121934",
+      "published": "Mon, 12 Oct 2026 19:34:42 GMT",
+      "ts": 1791833682
     },
     {
       "source": "CoinTelegraph",
@@ -108,13 +136,6 @@
       "ts": 1791823865
     },
     {
-      "source": "FXStreet",
-      "title": "Swedish Krona: Riksbank outlook supports SEK against Euro – Rabobank",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-outlook-supports-sek-against-euro-rabobank-202610121649",
-      "published": "Mon, 12 Oct 2026 16:49:28 GMT",
-      "ts": 1791823768
-    },
-    {
       "source": "MarketWatch",
       "title": "These stocks could be the future winners — and losers — of a massive shift in IT spending",
       "link": "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05?mod=mw_rss_topstories",
@@ -157,20 +178,6 @@
       "ts": 1791821883
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen struggles amid Oil rally, fiscal concerns",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-amid-oil-rally-fiscal-concerns-202610121614",
-      "published": "Mon, 12 Oct 2026 16:14:50 GMT",
-      "ts": 1791821690
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro hits fresh yearly low against British Pound as French fiscal concerns weigh",
-      "link": "https://www.fxstreet.com/news/euro-hits-fresh-yearly-low-against-british-pound-as-french-fiscal-concerns-weigh-202610121604",
-      "published": "Mon, 12 Oct 2026 16:04:39 GMT",
-      "ts": 1791821079
-    },
-    {
       "source": "MarketWatch",
       "title": "Here’s how much extra money could be in your monthly Social Security check next year",
       "link": "https://www.marketwatch.com/story/heres-how-much-extra-money-could-be-in-your-monthly-social-security-check-next-year-2e0c4eb8?mod=mw_rss_topstories",
@@ -204,13 +211,6 @@
       "link": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 14:18:49 +0000",
       "ts": 1791814729
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Microsoft hits a big milestone that solidifies its revival",
-      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 14:18:00 GMT",
-      "ts": 1791814680
     },
     {
       "source": "CoinTelegraph",
