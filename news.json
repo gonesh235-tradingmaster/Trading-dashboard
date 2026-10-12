@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-12T03:49:18.583022Z",
+  "updated": "2026-10-12T04:12:50.840810Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX steady as dollar holds near 18-mth high; rupee jumps on RBI measures",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-rupee-jumps-on-rbi-measures-4943051",
+      "published": "2026-10-12 04:03:26",
+      "ts": 1791777806
+    },
     {
       "source": "Investing Crypto",
       "title": "DATA Network joins Sui and Walrus to scale the supply chain for AI training data",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
       "published": "2026-10-08 21:15:27",
       "ts": 1791494127
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar pauses near 18-month high as U.S bond rout halts, euro rebounds slightly",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
-      "published": "2026-10-08 19:56:52",
-      "ts": 1791489412
     }
   ]
 }
