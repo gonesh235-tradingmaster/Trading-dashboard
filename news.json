@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-12T17:56:32.128312Z",
+  "updated": "2026-10-12T18:14:51.548382Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Hammack sees higher neutral rate, urges more policy restraint",
+      "link": "https://www.fxstreet.com/news/feds-hammack-sees-higher-neutral-rate-urges-more-policy-restraint-202610121753",
+      "published": "Mon, 12 Oct 2026 17:53:52 GMT",
+      "ts": 1791827632
+    },
+    {
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Range bias holds near 1.2835 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-bias-holds-near-12835-against-us-dollar-uob-202610121738",
+      "published": "Mon, 12 Oct 2026 17:38:00 GMT",
+      "ts": 1791826680
+    },
     {
       "source": "MarketWatch",
       "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
@@ -134,20 +148,6 @@
       "link": "https://www.fxstreet.com/news/india-rising-inflation-pressures-challenge-rbi-societe-generale-202610121454",
       "published": "Mon, 12 Oct 2026 14:54:29 GMT",
       "ts": 1791816869
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Trade détente and PBoC fix support Yuan – Commerzbank",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-trade-detente-and-pboc-fix-support-yuan-commerzbank-202610121439",
-      "published": "Mon, 12 Oct 2026 14:39:15 GMT",
-      "ts": 1791815955
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/CHF Price Forecast: Daily chart favours bulls despite mixed momentum signals",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-daily-chart-favours-bulls-despite-mixed-momentum-signals-202610121426",
-      "published": "Mon, 12 Oct 2026 14:26:00 GMT",
-      "ts": 1791815160
     },
     {
       "source": "CoinTelegraph",
