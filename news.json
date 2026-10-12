@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-12T21:10:21.192039Z",
+  "updated": "2026-10-12T21:29:25.911515Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+      "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 21:19:00 GMT",
+      "ts": 1791839940
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 21:16:00 GMT",
+      "ts": 1791839760
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "FTX’s crypto mining venture is now used to advance AI",
+      "link": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 21:11:26 +0000",
+      "ts": 1791839486
+    },
     {
       "source": "MarketWatch",
       "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
@@ -46,7 +67,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "FX Today: US Dollar hits 17-month high, RBA minutes and Fed speaking, up next",
+      "title": "Forex Today: US Dollar hits 17-month high, RBA minutes and Fed speaking up next",
       "link": "https://www.fxstreet.com/news/fx-today-us-dollar-hits-17-month-high-rba-minutes-and-fed-speaking-up-next-202610121934",
       "published": "Mon, 12 Oct 2026 19:34:42 GMT",
       "ts": 1791833682
@@ -171,25 +192,11 @@
       "ts": 1791822600
     },
     {
-      "source": "MarketWatch",
-      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 16:30:00 GMT",
-      "ts": 1791822600
-    },
-    {
       "source": "CoinDesk",
       "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
       "link": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
       "published": "Mon, 12 Oct 2026 16:18:03 +0000",
       "ts": 1791821883
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s how much extra money could be in your monthly Social Security check next year",
-      "link": "https://www.marketwatch.com/story/heres-how-much-extra-money-could-be-in-your-monthly-social-security-check-next-year-2e0c4eb8?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 15:47:00 GMT",
-      "ts": 1791820020
     },
     {
       "source": "CoinDesk",
@@ -274,13 +281,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
       "published": "Mon, 12 Oct 2026 11:21:11 +0000",
       "ts": 1791804071
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "link": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 11:14:10 +0000",
-      "ts": 1791803650
     },
     {
       "source": "CoinDesk",
