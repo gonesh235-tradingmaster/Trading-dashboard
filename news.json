@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-12T16:21:02.574325Z",
+  "updated": "2026-10-12T16:45:18.890826Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Buy these stocks as plays on Google’s big spending, analyst says",
+      "link": "https://www.marketwatch.com/story/buy-these-stocks-as-plays-on-googles-big-spending-analyst-says-a159c170?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 16:31:00 GMT",
+      "ts": 1791822660
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
+      "link": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 16:30:21 +0000",
+      "ts": 1791822621
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 16:30:00 GMT",
+      "ts": 1791822600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 16:30:00 GMT",
+      "ts": 1791822600
+    },
     {
       "source": "CoinDesk",
       "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
@@ -157,13 +185,6 @@
       "ts": 1791810900
     },
     {
-      "source": "MarketWatch",
-      "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
-      "link": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 13:12:00 GMT",
-      "ts": 1791810720
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -190,20 +211,6 @@
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-ease-as-energy-pullback-temporarily-soothesduration-fears-4943436",
       "published": "2026-10-12 12:26:11",
       "ts": 1791807971
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 12:15:00 GMT",
-      "ts": 1791807300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 12:15:00 GMT",
-      "ts": 1791807300
     },
     {
       "source": "CoinDesk",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
       "published": "2026-10-12 07:11:33",
       "ts": 1791789093
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
-      "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 06:30:21 +0000",
-      "ts": 1791786621
     },
     {
       "source": "Investing Forex",
