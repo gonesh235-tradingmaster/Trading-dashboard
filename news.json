@@ -1,13 +1,62 @@
 {
-  "updated": "2026-10-12T13:10:03.394143Z",
+  "updated": "2026-10-12T13:43:01.513253Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 13:16:00 GMT",
+      "ts": 1791810960
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 13:15:00 GMT",
+      "ts": 1791810900
+    },
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso: Steepening curve and carry risks – Rabobank",
+      "link": "https://www.fxstreet.com/news/mexican-peso-steepening-curve-and-carry-risks-rabobank-202610121312",
+      "published": "Mon, 12 Oct 2026 13:12:48 GMT",
+      "ts": 1791810768
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
+      "link": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 13:12:00 GMT",
+      "ts": 1791810720
+    },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 12:46:51 +0000",
       "ts": 1791809211
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar retreats toward 17-month low on Oil-driven risk aversion",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-retreats-toward-17-month-low-on-oil-driven-risk-aversion-202610121244",
+      "published": "Mon, 12 Oct 2026 12:44:29 GMT",
+      "ts": 1791809069
+    },
+    {
+      "source": "FXStreet",
+      "title": "US Dollar: Geopolitics support extends gains – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-geopolitics-support-extends-gains-ing-202610121238",
+      "published": "Mon, 12 Oct 2026 12:38:54 GMT",
+      "ts": 1791808734
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar struggles as Fed and BoC policy outlooks diverge",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-as-fed-and-boc-policy-outlooks-diverge-202610121235",
+      "published": "Mon, 12 Oct 2026 12:35:17 GMT",
+      "ts": 1791808517
     },
     {
       "source": "CoinTelegraph",
@@ -53,7 +102,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Ledger claims CryptoBilis cases are limited as up to $93M is traced, $10M frozen",
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
       "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
       "published": "Mon, 12 Oct 2026 12:01:53 +0000",
       "ts": 1791806513
@@ -88,13 +137,6 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
-      "link": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 11:34:00 GMT",
-      "ts": 1791804840
-    },
-    {
-      "source": "MarketWatch",
       "title": "Mired in their worst losing streak in years, small caps could be the best way for investors to play crucial CPI data",
       "link": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 11:30:00 GMT",
@@ -116,7 +158,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin holds $83,000 as dollar strength keeps markets on edge",
+      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
       "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
       "published": "Mon, 12 Oct 2026 11:21:11 +0000",
       "ts": 1791804071
@@ -129,25 +171,11 @@
       "ts": 1791803650
     },
     {
-      "source": "FXStreet",
-      "title": "US Dollar: Consolidation at higher levels before CPI – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-consolidation-at-higher-levels-before-cpi-mufg-202610121108",
-      "published": "Mon, 12 Oct 2026 11:08:47 GMT",
-      "ts": 1791803327
-    },
-    {
       "source": "MarketWatch",
       "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
       "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 11:07:00 GMT",
       "ts": 1791803220
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound erases early gains against US Dollar, US CPI in focus",
-      "link": "https://www.fxstreet.com/news/british-pound-erases-early-gains-against-us-dollar-us-cpi-in-focus-202610121106",
-      "published": "Mon, 12 Oct 2026 11:06:00 GMT",
-      "ts": 1791803160
     },
     {
       "source": "CoinDesk",
@@ -171,20 +199,6 @@
       "ts": 1791802657
     },
     {
-      "source": "FXStreet",
-      "title": "WTI rebounds as Middle East tensions clash with Russia-Ukraine peace hopes",
-      "link": "https://www.fxstreet.com/news/wti-rebounds-as-middle-east-tensions-clash-with-russia-ukraine-peace-hopes-202610121056",
-      "published": "Mon, 12 Oct 2026 10:56:26 GMT",
-      "ts": 1791802586
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Pound extends gains, nearing 210.00 amid Yen weakness",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-pound-extends-gains-nearing-21000-amid-yen-weakness-202610121037",
-      "published": "Mon, 12 Oct 2026 10:37:48 GMT",
-      "ts": 1791801468
-    },
-    {
       "source": "Investing Crypto",
       "title": "Qore3 and Bhutan’s GCIT Partner to Bring Blockchain Technology to a Himalayan Village",
       "link": "https://www.investing.com/news/cryptocurrency-news/qore3-and-bhutans-gcit-partner-to-bring-blockchain-technology-to-a-himalayan-village-4943834",
@@ -204,13 +218,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
       "published": "Mon, 12 Oct 2026 10:20:54 +0000",
       "ts": 1791800454
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 10:15:00 GMT",
-      "ts": 1791800100
     },
     {
       "source": "CoinTelegraph",
@@ -253,13 +260,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-84k-as-falling-oil-prices-offer-some-support-4943235",
       "published": "2026-10-12 09:10:26",
       "ts": 1791796226
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Legal battle continues as Dolly Parton’s estate claims nephew put up barbed wire to avoid summons",
-      "link": "https://www.marketwatch.com/story/legal-battle-continues-as-dolly-partons-estate-claims-nephew-put-up-barbed-wire-to-avoid-summons-e4ed0f9a?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 09:05:00 GMT",
-      "ts": 1791795900
     },
     {
       "source": "CoinDesk",
