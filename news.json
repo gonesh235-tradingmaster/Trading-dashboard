@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-12T05:00:00.856951Z",
+  "updated": "2026-10-12T05:21:45.072113Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar fails ahead of 0.7000 as hawkish Fed and Iran risks limit USD losses",
+      "link": "https://www.fxstreet.com/news/australian-dollar-fails-ahead-of-07000-as-hawkish-fed-and-iran-risks-limit-usd-losses-202610120513",
+      "published": "Mon, 12 Oct 2026 05:13:13 GMT",
+      "ts": 1791781993
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Gets some relief from Russia-Ukraine energy ceasefire",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-gets-some-relief-from-russia-ukraine-energy-ceasefire-202610120457",
+      "published": "Mon, 12 Oct 2026 04:57:37 GMT",
+      "ts": 1791781057
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold holds near one-week top, around $4,200 on softer USD; hawkish Fed caps gains",
+      "link": "https://www.fxstreet.com/news/gold-holds-near-one-week-top-around-4-200-on-softer-usd-hawkish-fed-caps-gains-202610120452",
+      "published": "Mon, 12 Oct 2026 04:52:36 GMT",
+      "ts": 1791780756
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
@@ -22,6 +43,20 @@
       "link": "https://www.investing.com/news/forex-news/indian-rupee-surges-after-rbi-unveils-measures-to-support-currency-4943076",
       "published": "2026-10-12 04:38:52",
       "ts": 1791779932
+    },
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610120430",
+      "published": "Mon, 12 Oct 2026 04:30:56 GMT",
+      "ts": 1791779456
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Weakens to near 110.50, maintaining negative bias under 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-weakens-to-near-11050-maintaining-negative-bias-under-100-day-sma-202610120426",
+      "published": "Mon, 12 Oct 2026 04:26:37 GMT",
+      "ts": 1791779197
     },
     {
       "source": "FXStreet",
@@ -71,41 +106,6 @@
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-middle-east-conflict-elevates-inflation-risks-202610120308",
       "published": "Mon, 12 Oct 2026 03:08:50 GMT",
       "ts": 1791774530
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index drifts lower amid softer bond yields; bullish bias intact",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-drifts-lower-amid-softer-bond-yields-bullish-bias-intact-202610120256",
-      "published": "Mon, 12 Oct 2026 02:56:36 GMT",
-      "ts": 1791773796
-    },
-    {
-      "source": "FXStreet",
-      "title": "India steps up currency defense with tougher US Dollar curbs — Reuters",
-      "link": "https://www.fxstreet.com/news/india-steps-up-currency-defense-with-tougher-us-dollar-curbs-reuters-202610120230",
-      "published": "Mon, 12 Oct 2026 02:30:38 GMT",
-      "ts": 1791772238
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold drifts higher above $4,200 on surging ETF inflows, markets await US inflation data this week",
-      "link": "https://www.fxstreet.com/news/gold-drifts-higher-above-4-200-on-surging-etf-inflows-markets-await-us-inflation-data-this-week-202610120213",
-      "published": "Mon, 12 Oct 2026 02:13:44 GMT",
-      "ts": 1791771224
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar flat lines around 1.4250 as sliding oil prices counter USD softness",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-flat-lines-around-14250-as-sliding-oil-prices-counter-usd-softness-202610120200",
-      "published": "Mon, 12 Oct 2026 02:00:41 GMT",
-      "ts": 1791770441
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen holds range amid Japanese holiday, dovish BoJ signals",
-      "link": "https://www.fxstreet.com/news/japanese-yen-holds-range-amid-japanese-holiday-dovish-boj-signals-202610120129",
-      "published": "Mon, 12 Oct 2026 01:29:06 GMT",
-      "ts": 1791768546
     },
     {
       "source": "CoinTelegraph",
