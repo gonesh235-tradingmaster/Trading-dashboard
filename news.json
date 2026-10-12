@@ -1,13 +1,41 @@
 {
-  "updated": "2026-10-12T15:59:29.547428Z",
+  "updated": "2026-10-12T16:21:02.574325Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+      "link": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
+      "published": "Mon, 12 Oct 2026 16:18:03 +0000",
+      "ts": 1791821883
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro hits fresh yearly low against British Pound as French fiscal concerns weigh",
+      "link": "https://www.fxstreet.com/news/euro-hits-fresh-yearly-low-against-british-pound-as-french-fiscal-concerns-weigh-202610121604",
+      "published": "Mon, 12 Oct 2026 16:04:39 GMT",
+      "ts": 1791821079
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dollar Index hits an 18-month high as the energy ceasefire fails",
+      "link": "https://www.fxstreet.com/news/dollar-index-hits-an-18-month-high-as-the-energy-ceasefire-fails-202610121554",
+      "published": "Mon, 12 Oct 2026 15:54:22 GMT",
+      "ts": 1791820462
+    },
     {
       "source": "MarketWatch",
       "title": "Here’s how much extra money could be in your monthly Social Security check next year",
       "link": "https://www.marketwatch.com/story/heres-how-much-extra-money-could-be-in-your-monthly-social-security-check-next-year-2e0c4eb8?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 15:47:00 GMT",
       "ts": 1791820020
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound loses ground as Oil rise clouds BoE’s hawkish outlook",
+      "link": "https://www.fxstreet.com/news/british-pound-loses-ground-as-oil-risks-cloud-boes-hawkish-outlook-202610121529",
+      "published": "Mon, 12 Oct 2026 15:29:50 GMT",
+      "ts": 1791818990
     },
     {
       "source": "CoinDesk",
@@ -129,13 +157,6 @@
       "ts": 1791810900
     },
     {
-      "source": "FXStreet",
-      "title": "Mexican Peso: Steepening curve and carry risks – Rabobank",
-      "link": "https://www.fxstreet.com/news/mexican-peso-steepening-curve-and-carry-risks-rabobank-202610121312",
-      "published": "Mon, 12 Oct 2026 13:12:48 GMT",
-      "ts": 1791810768
-    },
-    {
       "source": "MarketWatch",
       "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
       "link": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
@@ -148,20 +169,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 12:46:51 +0000",
       "ts": 1791809211
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar retreats toward 17-month low on Oil-driven risk aversion",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-retreats-toward-17-month-low-on-oil-driven-risk-aversion-202610121244",
-      "published": "Mon, 12 Oct 2026 12:44:29 GMT",
-      "ts": 1791809069
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Geopolitics support extends gains – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-geopolitics-support-extends-gains-ing-202610121238",
-      "published": "Mon, 12 Oct 2026 12:38:54 GMT",
-      "ts": 1791808734
     },
     {
       "source": "CoinTelegraph",
@@ -221,7 +228,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold fails to sustain a break above $4,200, US CPI in focus",
+      "title": "Gold struggles below $4,200 amid stronger US Dollar, US CPI in focus",
       "link": "https://www.fxstreet.com/news/gold-fails-to-sustain-a-break-above-4-200-us-cpi-in-focus-202610121129",
       "published": "Mon, 12 Oct 2026 11:29:34 GMT",
       "ts": 1791804574
@@ -295,13 +302,6 @@
       "link": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 09:30:57 +0000",
       "ts": 1791797457
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
-      "published": "Mon, 12 Oct 2026 08:58:24 +0000",
-      "ts": 1791795504
     },
     {
       "source": "CoinTelegraph",
