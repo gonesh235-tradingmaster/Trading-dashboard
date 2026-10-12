@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-12T14:37:39.291548Z",
+  "updated": "2026-10-12T15:04:07.805868Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+      "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+      "published": "Mon, 12 Oct 2026 15:00:00 +0000",
+      "ts": 1791817200
+    },
     {
       "source": "CoinTelegraph",
       "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
@@ -309,13 +316,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
       "published": "Mon, 12 Oct 2026 08:32:17 +0000",
       "ts": 1791793937
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-      "published": "Mon, 12 Oct 2026 07:49:40 +0000",
-      "ts": 1791791380
     },
     {
       "source": "Investing Crypto",
