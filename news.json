@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-12T08:42:51.948352Z",
+  "updated": "2026-10-12T09:02:29.592551Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+      "published": "Mon, 12 Oct 2026 08:58:24 +0000",
+      "ts": 1791795504
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+      "link": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 08:45:58 +0000",
+      "ts": 1791794758
+    },
     {
       "source": "CoinDesk",
       "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
@@ -311,13 +325,6 @@
       "ts": 1791707966
     },
     {
-      "source": "CoinTelegraph",
-      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
-      "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 11 Oct 2026 07:50:00 +0000",
-      "ts": 1791705000
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin struggles above $83,000 a year after $19 billion crypto crash",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
@@ -358,13 +365,6 @@
       "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
       "published": "Sat, 10 Oct 2026 12:00:00 +0000",
       "ts": 1791633600
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-      "published": "Sat, 10 Oct 2026 11:00:00 +0000",
-      "ts": 1791630000
     },
     {
       "source": "Investing Crypto",
