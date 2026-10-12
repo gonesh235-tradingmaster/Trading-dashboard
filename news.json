@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-12T10:33:32.747145Z",
+  "updated": "2026-10-12T10:59:52.954158Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "South Korea just got its first traditional bank loans backed by bitcoin",
+      "link": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
+      "published": "Mon, 12 Oct 2026 10:57:37 +0000",
+      "ts": 1791802657
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
+      "link": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 10:52:00 GMT",
+      "ts": 1791802320
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Qore3 and Bhutan’s GCIT Partner to Bring Blockchain Technology to a Himalayan Village",
+      "link": "https://www.investing.com/news/cryptocurrency-news/qore3-and-bhutans-gcit-partner-to-bring-blockchain-technology-to-a-himalayan-village-4943834",
+      "published": "2026-10-12 10:30:07",
+      "ts": 1791801007
+    },
     {
       "source": "CoinDesk",
       "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
@@ -22,6 +43,13 @@
       "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 10:15:00 GMT",
       "ts": 1791800100
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar: Firmer tone but capped at 0.7000 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-firmer-tone-but-capped-at-07000-against-us-dollar-uob-202610121002",
+      "published": "Mon, 12 Oct 2026 10:02:21 GMT",
+      "ts": 1791799341
     },
     {
       "source": "FXStreet",
@@ -213,15 +241,8 @@
       "ts": 1791782143
     },
     {
-      "source": "FXStreet",
-      "title": "Gold sticks to modest losses, seems vulnerable below $4,200 on Fed hike bets, bullish USD",
-      "link": "https://www.fxstreet.com/news/gold-holds-near-one-week-top-around-4-200-on-softer-usd-hawkish-fed-caps-gains-202610120452",
-      "published": "Mon, 12 Oct 2026 04:52:36 GMT",
-      "ts": 1791780756
-    },
-    {
       "source": "CoinDesk",
-      "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+      "title": "Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million",
       "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
       "published": "Mon, 12 Oct 2026 04:49:30 +0000",
       "ts": 1791780570
@@ -290,13 +311,6 @@
       "ts": 1791747120
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "published": "Sun, 11 Oct 2026 19:32:00 GMT",
-      "ts": 1791747120
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin trapped in $81K-$84K range: Breakout watch live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
@@ -339,13 +353,6 @@
       "ts": 1791723781
     },
     {
-      "source": "CoinDesk",
-      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
-      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
-      "published": "Sun, 11 Oct 2026 13:00:00 +0000",
-      "ts": 1791723600
-    },
-    {
       "source": "Investing Crypto",
       "title": "EXIT HOUSE Launches on Ethereum, Letting Holders Exit Unwanted NFTs and Tokens for EXIT",
       "link": "https://www.investing.com/news/cryptocurrency-news/exit-house-launches-on-ethereum-letting-holders-exit-unwanted-nfts-and-tokens-for-exit-4942590",
@@ -379,13 +386,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
       "published": "2026-10-10 06:16:02",
       "ts": 1791612962
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin holds ground above $82k, heads for weekly losses amid yield pressure",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
-      "published": "2026-10-09 20:46:24",
-      "ts": 1791578784
     },
     {
       "source": "Investing Forex",
