@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-12T06:56:46.300116Z",
+  "updated": "2026-10-12T07:21:04.592673Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin wedged at $84,175 between key support and resistance: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-12 07:11:33",
+      "ts": 1791789093
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: RBI measures support gains against US Dollar - Commerzbank",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-measures-support-gains-against-us-dollar-commerzbank-202610120709",
+      "published": "Mon, 12 Oct 2026 07:09:17 GMT",
+      "ts": 1791788957
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar holds near 18-mth high; rupee jumps on RBI measures",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-rupee-jumps-on-rbi-measures-4943051",
+      "published": "2026-10-12 07:05:01",
+      "ts": 1791788701
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar softens amid hopes of Russia-Ukraine energy ceasefire",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-softens-amid-hopes-russia-ukraine-energy-ceasefire-202610120654",
+      "published": "Mon, 12 Oct 2026 06:54:58 GMT",
+      "ts": 1791788098
+    },
     {
       "source": "FXStreet",
       "title": "British Pound: Range-bound trading within a tight band against US Dollar – UOB",
@@ -66,20 +94,6 @@
       "ts": 1791784500
     },
     {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Likely find direction in this US CPI week",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-likely-find-direction-in-this-us-cpi-week-202610120551",
-      "published": "Mon, 12 Oct 2026 05:51:52 GMT",
-      "ts": 1791784312
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc struggles as SNB dovish stance lifts USD/CHF",
-      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-as-snb-dovish-stance-lifts-usd-chf-202610120535",
-      "published": "Mon, 12 Oct 2026 05:35:05 GMT",
-      "ts": 1791783305
-    },
-    {
       "source": "CoinTelegraph",
       "title": "DATA Network to migrate to Sui, retire own chain",
       "link": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -120,13 +134,6 @@
       "link": "https://www.fxstreet.com/news/usd-inr-opens-higher-as-rbi-steps-up-measures-to-support-indian-rupee-202610120404",
       "published": "Mon, 12 Oct 2026 04:04:59 GMT",
       "ts": 1791777899
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asia FX steady as dollar holds near 18-mth high; rupee jumps on RBI measures",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-rupee-jumps-on-rbi-measures-4943051",
-      "published": "2026-10-12 04:03:26",
-      "ts": 1791777806
     },
     {
       "source": "Investing Crypto",
@@ -393,13 +400,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-dips-on-treasury-pause-4940524",
       "published": "2026-10-09 09:46:00",
       "ts": 1791539160
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "OceanBase Launches EvolvingX: A Database Solution for Always-On Performance and Seamless Growth",
-      "link": "https://www.investing.com/news/cryptocurrency-news/oceanbase-launches-evolvingx-a-database-solution-for-alwayson-performance-and-seamless-growth-4940421",
-      "published": "2026-10-09 09:00:09",
-      "ts": 1791536409
     },
     {
       "source": "Investing Forex",
