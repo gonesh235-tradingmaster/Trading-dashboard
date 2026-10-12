@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-12T04:12:50.840810Z",
+  "updated": "2026-10-12T04:36:38.913011Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Rises to near 177.50 barrier near nine-day EMA",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-to-near-17750-barrier-near-nine-day-ema-202610120409",
+      "published": "Mon, 12 Oct 2026 04:09:54 GMT",
+      "ts": 1791778194
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/INR drops 1% at open as RBI steps up measures to support Indian Rupee",
+      "link": "https://www.fxstreet.com/news/usd-inr-opens-higher-as-rbi-steps-up-measures-to-support-indian-rupee-202610120404",
+      "published": "Mon, 12 Oct 2026 04:04:59 GMT",
+      "ts": 1791777899
+    },
     {
       "source": "Investing Forex",
       "title": "Asia FX steady as dollar holds near 18-mth high; rupee jumps on RBI measures",
@@ -10,11 +24,25 @@
       "ts": 1791777806
     },
     {
+      "source": "FXStreet",
+      "title": "IMF’s Georgieva says already seeing first wave of impact from AI",
+      "link": "https://www.fxstreet.com/news/imfs-georgieva-says-already-seeing-first-wave-of-impact-from-ai-202610120351",
+      "published": "Mon, 12 Oct 2026 03:51:25 GMT",
+      "ts": 1791777085
+    },
+    {
       "source": "Investing Crypto",
       "title": "DATA Network joins Sui and Walrus to scale the supply chain for AI training data",
       "link": "https://www.investing.com/news/cryptocurrency-news/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data-4943027",
       "published": "2026-10-12 03:30:06",
       "ts": 1791775806
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD holds gains near $61 amid Russia-Ukraine ceasefire",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-gains-near-61-amid-russia-ukraine-ceasefire-202610120326",
+      "published": "Mon, 12 Oct 2026 03:26:11 GMT",
+      "ts": 1791775571
     },
     {
       "source": "FXStreet",
@@ -64,34 +92,6 @@
       "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 01:21:29 +0000",
       "ts": 1791768089
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound gains positive traction as USD remains depressed on softer bond yields",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-positive-traction-as-usd-remains-depressed-on-softer-bond-yields-202610120119",
-      "published": "Mon, 12 Oct 2026 01:19:51 GMT",
-      "ts": 1791767991
-    },
-    {
-      "source": "FXStreet",
-      "title": "Saudi-led coalition says it intercepted Houthi ballistic missile toward Khamis Mushait",
-      "link": "https://www.fxstreet.com/news/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-toward-khamis-mushait-202610120115",
-      "published": "Mon, 12 Oct 2026 01:15:35 GMT",
-      "ts": 1791767735
-    },
-    {
-      "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7313 vs. 6.7330 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67313-vs-67330-previous-202610120115",
-      "published": "Mon, 12 Oct 2026 01:15:33 GMT",
-      "ts": 1791767733
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro holds gains above 1.1200 despite France’s bond turmoil",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11200-despite-frances-bond-turmoil-202610120100",
-      "published": "Mon, 12 Oct 2026 01:00:29 GMT",
-      "ts": 1791766829
     },
     {
       "source": "CoinTelegraph",
