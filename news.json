@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-12T05:46:17.824365Z",
+  "updated": "2026-10-12T06:17:24.743687Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Euro: Downside risks toward 1.1145 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-toward-11145-against-us-dollar-uob-202610120610",
+      "published": "Mon, 12 Oct 2026 06:10:33 GMT",
+      "ts": 1791785433
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI falls to near $90.00 as Russia-Ukraine energy ceasefire fuels supply hopes",
+      "link": "https://www.fxstreet.com/news/wti-falls-to-near-9000-as-russia-ukraine-energy-ceasefire-fuels-supply-hopes-202610120603",
+      "published": "Mon, 12 Oct 2026 06:03:51 GMT",
+      "ts": 1791785031
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 05:55:00 +0000",
+      "ts": 1791784500
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Likely find direction in this US CPI week",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-likely-find-direction-in-this-us-cpi-week-202610120551",
+      "published": "Mon, 12 Oct 2026 05:51:52 GMT",
+      "ts": 1791784312
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc struggles as SNB dovish stance lifts USD/CHF",
+      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-as-snb-dovish-stance-lifts-usd-chf-202610120535",
+      "published": "Mon, 12 Oct 2026 05:35:05 GMT",
+      "ts": 1791783305
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Edges higher near 1.3250, but technical tone stays bearish below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-edges-higher-near-13250-but-technical-tone-stays-bearish-below-100-day-sma-202610120524",
+      "published": "Mon, 12 Oct 2026 05:24:26 GMT",
+      "ts": 1791782666
+    },
     {
       "source": "CoinTelegraph",
       "title": "DATA Network to migrate to Sui, retire own chain",
@@ -46,7 +88,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Indian rupee surges after RBI unveils measures to support currency",
+      "title": "Indian rupee rebounds from near record low after RBI unveils support measures",
       "link": "https://www.investing.com/news/forex-news/indian-rupee-surges-after-rbi-unveils-measures-to-support-currency-4943076",
       "published": "2026-10-12 04:38:52",
       "ts": 1791779932
@@ -66,20 +108,6 @@
       "ts": 1791779197
     },
     {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Rises to near 177.50 barrier near nine-day EMA",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-to-near-17750-barrier-near-nine-day-ema-202610120409",
-      "published": "Mon, 12 Oct 2026 04:09:54 GMT",
-      "ts": 1791778194
-    },
-    {
-      "source": "FXStreet",
-      "title": "USD/INR drops 1% at open as RBI steps up measures to support Indian Rupee",
-      "link": "https://www.fxstreet.com/news/usd-inr-opens-higher-as-rbi-steps-up-measures-to-support-indian-rupee-202610120404",
-      "published": "Mon, 12 Oct 2026 04:04:59 GMT",
-      "ts": 1791777899
-    },
-    {
       "source": "Investing Forex",
       "title": "Asia FX steady as dollar holds near 18-mth high; rupee jumps on RBI measures",
       "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-rupee-jumps-on-rbi-measures-4943051",
@@ -87,32 +115,11 @@
       "ts": 1791777806
     },
     {
-      "source": "FXStreet",
-      "title": "IMF’s Georgieva says already seeing first wave of impact from AI",
-      "link": "https://www.fxstreet.com/news/imfs-georgieva-says-already-seeing-first-wave-of-impact-from-ai-202610120351",
-      "published": "Mon, 12 Oct 2026 03:51:25 GMT",
-      "ts": 1791777085
-    },
-    {
       "source": "Investing Crypto",
       "title": "DATA Network joins Sui and Walrus to scale the supply chain for AI training data",
       "link": "https://www.investing.com/news/cryptocurrency-news/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data-4943027",
       "published": "2026-10-12 03:30:06",
       "ts": 1791775806
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD holds gains near $61 amid Russia-Ukraine ceasefire",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-gains-near-61-amid-russia-ukraine-ceasefire-202610120326",
-      "published": "Mon, 12 Oct 2026 03:26:11 GMT",
-      "ts": 1791775571
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar weakens as Middle East conflict elevates inflation risks",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-middle-east-conflict-elevates-inflation-risks-202610120308",
-      "published": "Mon, 12 Oct 2026 03:08:50 GMT",
-      "ts": 1791774530
     },
     {
       "source": "CoinTelegraph",
@@ -323,13 +330,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
       "published": "Sat, 10 Oct 2026 11:00:00 +0000",
       "ts": 1791630000
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Tech chief says EU can fend off rogue AI risk: Report",
-      "link": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 10 Oct 2026 08:45:00 +0000",
-      "ts": 1791621900
     },
     {
       "source": "Investing Crypto",
