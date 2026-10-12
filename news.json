@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-12T10:00:40.152276Z",
+  "updated": "2026-10-12T10:33:32.747145Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
+      "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
+      "published": "Mon, 12 Oct 2026 10:27:00 +0000",
+      "ts": 1791800820
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
+      "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
+      "published": "Mon, 12 Oct 2026 10:20:54 +0000",
+      "ts": 1791800454
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 10:15:00 GMT",
+      "ts": 1791800100
+    },
     {
       "source": "FXStreet",
       "title": "Indian Rupee: RBI measures support INR against US Dollar – Societe Generale",
@@ -297,13 +318,6 @@
       "ts": 1791738660
     },
     {
-      "source": "MarketWatch",
-      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-      "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-      "published": "Sun, 11 Oct 2026 16:35:00 GMT",
-      "ts": 1791736500
-    },
-    {
       "source": "CoinDesk",
       "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
       "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
@@ -358,20 +372,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
       "published": "2026-10-10 18:48:08",
       "ts": 1791658088
-    },
-    {
-      "source": "CoinDesk",
-      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
-      "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
-      "published": "Sat, 10 Oct 2026 12:00:00 +0000",
-      "ts": 1791633600
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
-      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
-      "published": "Sat, 10 Oct 2026 12:00:00 +0000",
-      "ts": 1791633600
     },
     {
       "source": "Investing Crypto",
