@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-12T08:15:08.029520Z",
+  "updated": "2026-10-12T08:42:51.948352Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+      "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
+      "published": "Mon, 12 Oct 2026 08:32:17 +0000",
+      "ts": 1791793937
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Eurozone yields ease as energy pullback temporarily soothes duration fears",
+      "link": "https://www.investing.com/news/forex-news/eurozone-yields-ease-as-energy-pullback-temporarily-soothesduration-fears-4943436",
+      "published": "2026-10-12 08:17:56",
+      "ts": 1791793076
+    },
     {
       "source": "FXStreet",
       "title": "Oil: Supply risks offset by Russia diesel deal – ING",
@@ -360,13 +374,6 @@
       "ts": 1791612962
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-      "published": "Sat, 10 Oct 2026 05:43:00 +0000",
-      "ts": 1791610980
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin holds ground above $82k, heads for weekly losses amid yield pressure",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/french-yields-pause-near-peak-as-markets-fret-over-pariss-record-debt-load-4940344",
       "published": "2026-10-09 07:46:13",
       "ts": 1791531973
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees limited upside for EUR/JPY amid intervention expectations",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-limited-upside-for-eurjpy-amid-intervention-expectations-93CH-4940266",
-      "published": "2026-10-09 06:20:38",
-      "ts": 1791526838
     }
   ]
 }
