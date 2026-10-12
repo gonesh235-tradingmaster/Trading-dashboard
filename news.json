@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-12T16:45:18.890826Z",
+  "updated": "2026-10-12T17:11:45.210370Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Fed’s Hammack calls for higher rates as inflation pressures broaden",
+      "link": "https://www.fxstreet.com/news/feds-hammack-calls-for-higher-rates-as-inflation-pressures-broaden-202610121702",
+      "published": "Mon, 12 Oct 2026 17:02:26 GMT",
+      "ts": 1791824546
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
+      "link": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 16:51:05 +0000",
+      "ts": 1791823865
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swedish Krona: Riksbank outlook supports SEK against Euro – Rabobank",
+      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-outlook-supports-sek-against-euro-rabobank-202610121649",
+      "published": "Mon, 12 Oct 2026 16:49:28 GMT",
+      "ts": 1791823768
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These stocks could be the future winners — and losers — of a massive shift in IT spending",
+      "link": "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 16:47:00 GMT",
+      "ts": 1791823620
+    },
     {
       "source": "MarketWatch",
       "title": "Buy these stocks as plays on Google’s big spending, analyst says",
@@ -36,6 +64,13 @@
       "link": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
       "published": "Mon, 12 Oct 2026 16:18:03 +0000",
       "ts": 1791821883
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen struggles amid Oil rally, fiscal concerns",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-amid-oil-rally-fiscal-concerns-202610121614",
+      "published": "Mon, 12 Oct 2026 16:14:50 GMT",
+      "ts": 1791821690
     },
     {
       "source": "FXStreet",
@@ -122,25 +157,11 @@
       "ts": 1791814680
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar retreats as Fed hawkish stance, Iran tensions boost US Dollar",
-      "link": "https://www.fxstreet.com/news/australian-dollar-retreats-as-fed-hawkish-stance-iran-tensions-boost-us-dollar-202610121409",
-      "published": "Mon, 12 Oct 2026 14:09:56 GMT",
-      "ts": 1791814196
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
       "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 14:07:00 +0000",
       "ts": 1791814020
-    },
-    {
-      "source": "FXStreet",
-      "title": "Germany: AI boom versus growth drag – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/germany-ai-boom-versus-growth-drag-deutsche-bank-202610121359",
-      "published": "Mon, 12 Oct 2026 13:59:59 GMT",
-      "ts": 1791813599
     },
     {
       "source": "Investing Crypto",
@@ -157,13 +178,6 @@
       "ts": 1791813240
     },
     {
-      "source": "FXStreet",
-      "title": "Euro remains on the back foot amid French debt concerns",
-      "link": "https://www.fxstreet.com/news/euro-remains-on-the-back-foot-amid-french-debt-concerns-us-dollar-strength-202610121344",
-      "published": "Mon, 12 Oct 2026 13:44:17 GMT",
-      "ts": 1791812657
-    },
-    {
       "source": "MarketWatch",
       "title": "The bull market is turning 4 years old — but yields could crash the party",
       "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
@@ -176,13 +190,6 @@
       "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 13:16:00 GMT",
       "ts": 1791810960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 13:15:00 GMT",
-      "ts": 1791810900
     },
     {
       "source": "CoinTelegraph",
@@ -309,13 +316,6 @@
       "link": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 09:30:57 +0000",
       "ts": 1791797457
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-      "link": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 08:45:58 +0000",
-      "ts": 1791794758
     },
     {
       "source": "Investing Forex",
