@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-11T23:58:35.795182Z",
+  "updated": "2026-10-12T00:29:49.239155Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar edges higher to near 0.7000 on weak US Sentiment",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-to-near-07000-on-weak-us-sentiment-202610112344",
+      "published": "Sun, 11 Oct 2026 23:44:14 GMT",
+      "ts": 1791762254
+    },
     {
       "source": "CoinTelegraph",
       "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
@@ -337,13 +344,6 @@
       "link": "https://www.fxstreet.com/news/dollar-index-stalls-under-its-high-as-the-feds-hawks-repeat-themselves-202610091910",
       "published": "Fri, 09 Oct 2026 19:10:33 GMT",
       "ts": 1791573033
-    },
-    {
-      "source": "FXStreet",
-      "title": "US President Trump says Putin agrees to supply millions of tons of diesel",
-      "link": "https://www.fxstreet.com/news/us-president-trump-says-putin-agrees-to-supply-millions-of-tons-of-diesel-202610091908",
-      "published": "Fri, 09 Oct 2026 19:08:45 GMT",
-      "ts": 1791572925
     },
     {
       "source": "Investing Forex",
