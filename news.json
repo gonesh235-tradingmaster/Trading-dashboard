@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-13T05:46:40.389870Z",
+  "updated": "2026-10-13T06:16:29.614589Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "US Dollar Index Price Forecast: Likely extend advance to near 103.00",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-likely-extend-advance-to-near-10300-202610130608",
+      "published": "Tue, 13 Oct 2026 06:08:58 GMT",
+      "ts": 1791871738
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Holds gains above 1.1150, but remains technically bearish under 100-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-gains-above-11150-but-remains-technically-bearish-under-100-day-sma-202610130600",
+      "published": "Tue, 13 Oct 2026 06:00:23 GMT",
+      "ts": 1791871223
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 05:51:31 +0000",
+      "ts": 1791870691
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
@@ -10,11 +31,32 @@
       "ts": 1791870310
     },
     {
+      "source": "CoinTelegraph",
+      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+      "link": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 05:38:37 +0000",
+      "ts": 1791869917
+    },
+    {
       "source": "Investing Crypto",
       "title": "TrustLinq Expands Ripple Partnership, Enabling RLUSD-Funded Bank Payments to 190+ Countries",
       "link": "https://www.investing.com/news/cryptocurrency-news/trustlinq-expands-ripple-partnership-enabling-rlusdfunded-bank-payments-to-190-countries-4945455",
       "published": "2026-10-13 05:30:10",
       "ts": 1791869410
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound trades subduedly against Japanese Yen, BoE’s Greene supports quick rate hikes",
+      "link": "https://www.fxstreet.com/news/british-pound-trades-subduedly-against-japanese-yen-boes-greene-supports-quick-rate-hikes-202610130529",
+      "published": "Tue, 13 Oct 2026 05:29:30 GMT",
+      "ts": 1791869370
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah gains as BI Governor Destry reaffirms rate autonomy",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-as-bi-governor-destry-reaffirms-rate-autonomy-202610130529",
+      "published": "Tue, 13 Oct 2026 05:29:23 GMT",
+      "ts": 1791869363
     },
     {
       "source": "CoinDesk",
@@ -73,32 +115,11 @@
       "ts": 1791866598
     },
     {
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610130435",
-      "published": "Tue, 13 Oct 2026 04:35:10 GMT",
-      "ts": 1791866110
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
       "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
       "published": "Tue, 13 Oct 2026 04:18:20 +0000",
       "ts": 1791865100
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Defends 1.3200 as bears await two-week-old range breakdown",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-defends-13200-as-bears-await-two-week-old-range-breakdown-202610130412",
-      "published": "Tue, 13 Oct 2026 04:12:47 GMT",
-      "ts": 1791864767
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Remains below 177.00 as bearish bias prevails",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-remains-below-17700-as-bearish-bias-prevails-202610130408",
-      "published": "Tue, 13 Oct 2026 04:08:37 GMT",
-      "ts": 1791864517
     },
     {
       "source": "Investing Forex",
@@ -109,17 +130,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Gold bounces off $4,150 amid modest USD pullback but stays in two-week-old range",
+      "title": "Gold advances to $4,200 amid retreating USD; Fed hike bets to cap further gains",
       "link": "https://www.fxstreet.com/news/gold-bounces-off-4-150-amid-modest-usd-pullback-but-stays-in-two-week-old-range-202610130353",
       "published": "Tue, 13 Oct 2026 03:53:32 GMT",
       "ts": 1791863612
-    },
-    {
-      "source": "FXStreet",
-      "title": "Asian stock markets plunge, KOSPI faces bloodbath amid chip competition from China",
-      "link": "https://www.fxstreet.com/news/asian-stock-markets-plunge-kospi-faces-bloodbath-amid-chip-competition-from-china-202610130326",
-      "published": "Tue, 13 Oct 2026 03:26:21 GMT",
-      "ts": 1791861981
     },
     {
       "source": "CoinTelegraph",
@@ -241,13 +255,6 @@
       "ts": 1791837600
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 19:26:13 +0000",
-      "ts": 1791833173
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin clings to $81,479 support under heavy resistance: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
@@ -274,13 +281,6 @@
       "link": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 16:51:05 +0000",
       "ts": 1791823865
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
-      "link": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 16:30:21 +0000",
-      "ts": 1791822621
     },
     {
       "source": "CoinDesk",
