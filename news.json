@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-13T04:13:22.410591Z",
+  "updated": "2026-10-13T04:37:42.403218Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+      "published": "Tue, 13 Oct 2026 04:18:20 +0000",
+      "ts": 1791865100
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Defends 1.3200 as bears await two-week-old range breakdown",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-defends-13200-as-bears-await-two-week-old-range-breakdown-202610130412",
+      "published": "Tue, 13 Oct 2026 04:12:47 GMT",
+      "ts": 1791864767
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Remains below 177.00 as bearish bias prevails",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-remains-below-17700-as-bearish-bias-prevails-202610130408",
+      "published": "Tue, 13 Oct 2026 04:08:37 GMT",
+      "ts": 1791864517
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX steady as dollar holds near 18-mth high, U.S. CPI awaited",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
+      "published": "2026-10-13 04:04:52",
+      "ts": 1791864292
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold bounces off $4,150 amid modest USD pullback but stays in two-week-old range",
+      "link": "https://www.fxstreet.com/news/gold-bounces-off-4-150-amid-modest-usd-pullback-but-stays-in-two-week-old-range-202610130353",
+      "published": "Tue, 13 Oct 2026 03:53:32 GMT",
+      "ts": 1791863612
+    },
+    {
+      "source": "FXStreet",
+      "title": "Asian stock markets plunge, KOSPI faces bloodbath amid chip competition from China",
+      "link": "https://www.fxstreet.com/news/asian-stock-markets-plunge-kospi-faces-bloodbath-amid-chip-competition-from-china-202610130326",
+      "published": "Tue, 13 Oct 2026 03:26:21 GMT",
+      "ts": 1791861981
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar remains steady following RBA September Meeting Minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-steady-following-rba-september-meeting-minutes-202610130318",
+      "published": "Tue, 13 Oct 2026 03:18:19 GMT",
+      "ts": 1791861499
+    },
     {
       "source": "FXStreet",
       "title": "BoE’s Greene: Warns of second-round inflation effects if we act late",
@@ -57,41 +106,6 @@
       "link": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 13 Oct 2026 01:54:31 +0000",
       "ts": 1791856471
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro gathers strength above 1.1150 despite France’s fiscal concerns",
-      "link": "https://www.fxstreet.com/news/euro-gathers-strength-above-11150-despite-frances-fiscal-concerns-202610130154",
-      "published": "Tue, 13 Oct 2026 01:54:23 GMT",
-      "ts": 1791856463
-    },
-    {
-      "source": "FXStreet",
-      "title": "British Pound gains on BRC Like-For-Like Retail Sales data despite geopolitical tensions",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-on-brc-like-for-like-retail-sales-data-despite-geopolitical-tensions-202610130124",
-      "published": "Tue, 13 Oct 2026 01:24:15 GMT",
-      "ts": 1791854655
-    },
-    {
-      "source": "FXStreet",
-      "title": "Canadian Dollar edges higher but remains close to April 2025 lows vs bullish USD",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-edges-higher-but-remains-close-to-april-2025-lows-vs-bullish-usd-202610130121",
-      "published": "Tue, 13 Oct 2026 01:21:47 GMT",
-      "ts": 1791854507
-    },
-    {
-      "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7298 vs. 6.7313 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67298-vs-67313-previous-202610130115",
-      "published": "Tue, 13 Oct 2026 01:15:30 GMT",
-      "ts": 1791854130
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI holds gains above $91.50 as Russia attacks Ukrainian power plant",
-      "link": "https://www.fxstreet.com/news/wti-holds-gains-above-9200-on-persistent-middle-east-supply-risks-202610130101",
-      "published": "Tue, 13 Oct 2026 01:01:57 GMT",
-      "ts": 1791853317
     },
     {
       "source": "Investing Crypto",
@@ -325,13 +339,6 @@
       "ts": 1791800820
     },
     {
-      "source": "CoinDesk",
-      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-      "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-      "published": "Mon, 12 Oct 2026 10:20:54 +0000",
-      "ts": 1791800454
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound edges up, euro slips as Fed bets back dollar",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-euro-slips-as-fed-bets-back-dollar-4943503",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-dips-on-treasury-pause-4940524",
       "published": "2026-10-09 09:46:00",
       "ts": 1791539160
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees stronger outlook for Brazilian real after election",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-stronger-outlook-for-brazilian-real-after-election-93CH-4940395",
-      "published": "2026-10-09 08:15:39",
-      "ts": 1791533739
     }
   ]
 }
