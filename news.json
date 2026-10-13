@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-13T02:35:39.177507Z",
+  "updated": "2026-10-13T02:58:30.802405Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+      "link": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 02:41:30 +0000",
+      "ts": 1791859290
+    },
     {
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG/USD falls to near $60.00 amid higher oil prices, US Dollar",
@@ -253,13 +260,6 @@
       "link": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 14:18:49 +0000",
       "ts": 1791814729
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
-      "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 14:07:00 +0000",
-      "ts": 1791814020
     },
     {
       "source": "Investing Crypto",
