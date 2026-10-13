@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-13T08:14:33.638249Z",
+  "updated": "2026-10-13T08:41:04.794527Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm",
+      "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 08:29:00 GMT",
+      "ts": 1791880140
+    },
     {
       "source": "Investing Forex",
       "title": "Euro bonds stagger on French deficit fears and  AI corporate issuance squeeze",
@@ -10,11 +17,39 @@
       "ts": 1791877559
     },
     {
+      "source": "FXStreet",
+      "title": "Equities: Rotation out of AI as breadth stays positive – Danske Bank",
+      "link": "https://www.fxstreet.com/news/equities-rotation-out-of-ai-as-breadth-stays-positive-danske-bank-202610130744",
+      "published": "Tue, 13 Oct 2026 07:44:48 GMT",
+      "ts": 1791877488
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: RBI support points to softer pair – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-support-points-to-softer-pair-commerzbank-202610130724",
+      "published": "Tue, 13 Oct 2026 07:24:56 GMT",
+      "ts": 1791876296
+    },
+    {
       "source": "Investing Forex",
       "title": "Dollar dips from 18-mth high; rupee extends gains after RBI intervention",
       "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
       "published": "2026-10-13 07:21:48",
       "ts": 1791876108
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD remains capped below $61.00 as bulls seem hesitant",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-capped-below-6100-as-bulls-seem-hesitant-202610130720",
+      "published": "Tue, 13 Oct 2026 07:20:25 GMT",
+      "ts": 1791876025
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro remains depressed against British Pound as France and Oil weighs",
+      "link": "https://www.fxstreet.com/news/euro-remains-depressed-against-british-pound-as-france-and-oil-weighs-202610130718",
+      "published": "Tue, 13 Oct 2026 07:18:15 GMT",
+      "ts": 1791875895
     },
     {
       "source": "Investing Crypto",
@@ -59,27 +94,6 @@
       "ts": 1791873366
     },
     {
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Bulls fail to break the 200-day SMA around 158.50",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-bulls-fail-to-break-the-200-day-sma-around-15850-202610130629",
-      "published": "Tue, 13 Oct 2026 06:29:35 GMT",
-      "ts": 1791872975
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: Likely extend advance to near 103.00",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-likely-extend-advance-to-near-10300-202610130608",
-      "published": "Tue, 13 Oct 2026 06:08:58 GMT",
-      "ts": 1791871738
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Holds gains above 1.1150, but remains technically bearish under 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-gains-above-11150-but-remains-technically-bearish-under-100-day-sma-202610130600",
-      "published": "Tue, 13 Oct 2026 06:00:23 GMT",
-      "ts": 1791871223
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -108,20 +122,6 @@
       "ts": 1791869410
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound trades subduedly against Japanese Yen, BoE’s Greene supports quick rate hikes",
-      "link": "https://www.fxstreet.com/news/british-pound-trades-subduedly-against-japanese-yen-boes-greene-supports-quick-rate-hikes-202610130529",
-      "published": "Tue, 13 Oct 2026 05:29:30 GMT",
-      "ts": 1791869370
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah gains as BI Governor Destry reaffirms rate autonomy",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-as-bi-governor-destry-reaffirms-rate-autonomy-202610130529",
-      "published": "Tue, 13 Oct 2026 05:29:23 GMT",
-      "ts": 1791869363
-    },
-    {
       "source": "CoinDesk",
       "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
       "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
@@ -134,6 +134,13 @@
       "link": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 13 Oct 2026 05:23:26 +0000",
       "ts": 1791869006
+    },
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee hits fresh monthly high on RBI’s measures to curb US Dollar’s demand",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-on-rbis-fresh-measures-to-lower-us-dollars-demand-202610130508",
+      "published": "Tue, 13 Oct 2026 05:08:30 GMT",
+      "ts": 1791868110
     },
     {
       "source": "CoinDesk",
@@ -267,13 +274,6 @@
       "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 20:46:00 GMT",
       "ts": 1791837960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Microsoft hits a big milestone that solidifies its revival",
-      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 20:40:00 GMT",
-      "ts": 1791837600
     },
     {
       "source": "CoinTelegraph",
