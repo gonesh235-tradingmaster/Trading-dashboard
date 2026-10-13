@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-13T01:47:04.751327Z",
+  "updated": "2026-10-13T02:12:44.776535Z",
   "count": 60,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 02:00:00 GMT",
+      "ts": 1791856800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Meta launches Muse Wonder AI models, challenging top rivals",
+      "link": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 01:54:31 +0000",
+      "ts": 1791856471
+    },
     {
       "source": "FXStreet",
       "title": "PBOC sets USD/CNY reference rate at 6.7298 vs. 6.7313 previous",
@@ -171,13 +185,6 @@
       "ts": 1791837600
     },
     {
-      "source": "MarketWatch",
-      "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
-      "link": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 19:43:00 GMT",
-      "ts": 1791834180
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -253,13 +260,6 @@
       "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 14:07:00 +0000",
       "ts": 1791814020
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
-      "link": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 12:31:51 +0000",
-      "ts": 1791808311
     },
     {
       "source": "Investing Crypto",
