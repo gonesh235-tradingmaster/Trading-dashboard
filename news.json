@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-13T02:58:30.802405Z",
+  "updated": "2026-10-13T03:19:18.683948Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "BoE’s Greene: Warns of second-round inflation effects if we act late",
+      "link": "https://www.fxstreet.com/news/boes-greene-warns-of-second-round-inflation-effects-if-we-act-late-202610130310",
+      "published": "Tue, 13 Oct 2026 03:10:15 GMT",
+      "ts": 1791861015
+    },
+    {
+      "source": "FXStreet",
+      "title": "IMF forecasts global real GDP growth of 3.1% in 2026",
+      "link": "https://www.fxstreet.com/news/imf-forecasts-global-real-gdp-growth-of-31-in-2026-202610130300",
+      "published": "Tue, 13 Oct 2026 03:00:10 GMT",
+      "ts": 1791860410
+    },
+    {
+      "source": "FXStreet",
+      "title": "Japanese Yen strengthens despite softer PPI data",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-despite-softer-ppi-data-202610130250",
+      "published": "Tue, 13 Oct 2026 02:50:55 GMT",
+      "ts": 1791859855
+    },
     {
       "source": "CoinTelegraph",
       "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
@@ -67,7 +88,7 @@
     },
     {
       "source": "FXStreet",
-      "title": "WTI holds gains above $92.00 on persistent Middle East supply risks",
+      "title": "WTI holds gains above $91.50 as Russia attacks Ukrainian power plant",
       "link": "https://www.fxstreet.com/news/wti-holds-gains-above-9200-on-persistent-middle-east-supply-risks-202610130101",
       "published": "Tue, 13 Oct 2026 01:01:57 GMT",
       "ts": 1791853317
@@ -87,32 +108,11 @@
       "ts": 1791852772
     },
     {
-      "source": "FXStreet",
-      "title": "RBA Minutes: Case for rates to act promptly to keep inflation expectations anchored",
-      "link": "https://www.fxstreet.com/news/rba-minutes-case-for-rates-to-act-promptly-to-keep-inflation-expectations-anchored-202610130033",
-      "published": "Tue, 13 Oct 2026 00:33:37 GMT",
-      "ts": 1791851617
-    },
-    {
       "source": "MarketWatch",
       "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
       "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
       "published": "Tue, 13 Oct 2026 00:18:00 GMT",
       "ts": 1791850680
-    },
-    {
-      "source": "FXStreet",
-      "title": "Aussie Dollar struggles at 0.70, retreats as Oil shock boosts the USD",
-      "link": "https://www.fxstreet.com/news/aussie-dollar-struggles-at-070-retreats-as-oil-shock-boosts-the-usd-202610122347",
-      "published": "Mon, 12 Oct 2026 23:47:00 GMT",
-      "ts": 1791848820
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Envoy Kushner says diesel deal is an effort to soften Russia",
-      "link": "https://www.fxstreet.com/news/us-envoy-kushner-says-diesel-deal-is-an-effort-to-soften-russia-202610122346",
-      "published": "Mon, 12 Oct 2026 23:46:18 GMT",
-      "ts": 1791848778
     },
     {
       "source": "MarketWatch",
