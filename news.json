@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-13T00:56:42.313395Z",
+  "updated": "2026-10-13T01:18:19.991388Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "WTI holds gains above $92.00 on persistent Middle East supply risks",
+      "link": "https://www.fxstreet.com/news/wti-holds-gains-above-9200-on-persistent-middle-east-supply-risks-202610130101",
+      "published": "Tue, 13 Oct 2026 01:01:57 GMT",
+      "ts": 1791853317
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
+      "link": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 00:52:52 +0000",
+      "ts": 1791852772
+    },
+    {
+      "source": "FXStreet",
+      "title": "RBA Minutes: Case for rates to act promptly to keep inflation expectations anchored",
+      "link": "https://www.fxstreet.com/news/rba-minutes-case-for-rates-to-act-promptly-to-keep-inflation-expectations-anchored-202610130033",
+      "published": "Tue, 13 Oct 2026 00:33:37 GMT",
+      "ts": 1791851617
+    },
     {
       "source": "MarketWatch",
       "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
@@ -143,20 +164,6 @@
       "ts": 1791837600
     },
     {
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average edges higher with no memory chips to sell",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-edges-higher-with-no-memory-chips-to-sell-202610122000",
-      "published": "Mon, 12 Oct 2026 20:00:00 GMT",
-      "ts": 1791835200
-    },
-    {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Building upside momentum toward 6.6800 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-building-upside-momentum-toward-66800-against-us-dollar-uob-202610121945",
-      "published": "Mon, 12 Oct 2026 19:45:00 GMT",
-      "ts": 1791834300
-    },
-    {
       "source": "MarketWatch",
       "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
       "link": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
@@ -274,13 +281,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
       "published": "Mon, 12 Oct 2026 12:01:53 +0000",
       "ts": 1791806513
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Australia proposes leverage caps for crypto-settled derivatives",
-      "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 11:41:58 +0000",
-      "ts": 1791805318
     },
     {
       "source": "CoinDesk",
