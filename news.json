@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-13T04:37:42.403218Z",
+  "updated": "2026-10-13T04:59:51.192742Z",
   "count": 60,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+      "link": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+      "published": "Tue, 13 Oct 2026 04:43:18 +0000",
+      "ts": 1791866598
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
@@ -330,13 +337,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/qore3-and-bhutans-gcit-partner-to-bring-blockchain-technology-to-a-himalayan-village-4943834",
       "published": "2026-10-12 10:30:07",
       "ts": 1791801007
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-      "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
-      "published": "Mon, 12 Oct 2026 10:27:00 +0000",
-      "ts": 1791800820
     },
     {
       "source": "Investing Forex",
