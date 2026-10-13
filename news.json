@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-13T06:55:49.177192Z",
+  "updated": "2026-10-13T07:19:32.877422Z",
   "count": 60,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin pinned below $84k as tech selldown weighs",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-84k-as-tech-selldown-weighs-4945552",
+      "published": "2026-10-13 06:42:23",
+      "ts": 1791873743
+    },
+    {
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Bulls fail to break the 200-day SMA around 158.50",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-bulls-fail-to-break-the-200-day-sma-around-15850-202610130629",
+      "published": "Tue, 13 Oct 2026 06:29:35 GMT",
+      "ts": 1791872975
+    },
     {
       "source": "FXStreet",
       "title": "US Dollar Index Price Forecast: Likely extend advance to near 103.00",
@@ -99,13 +113,6 @@
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-to-near-05600-amid-geopolitical-tensions-and-us-cpi-focus-202610130457",
       "published": "Tue, 13 Oct 2026 04:57:57 GMT",
       "ts": 1791867477
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoJ’s Ueda: Long term interest rates are determined in markets, reflecting various factors",
-      "link": "https://www.fxstreet.com/news/bojs-ueda-long-term-interest-rates-are-determined-in-markets-reflecting-various-factors-202610130453",
-      "published": "Tue, 13 Oct 2026 04:53:05 GMT",
-      "ts": 1791867185
     },
     {
       "source": "CoinDesk",
@@ -379,13 +386,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-as-investors-gain-confidence-4942660",
       "published": "2026-10-11 13:03:01",
       "ts": 1791723781
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EXIT HOUSE Launches on Ethereum, Letting Holders Exit Unwanted NFTs and Tokens for EXIT",
-      "link": "https://www.investing.com/news/cryptocurrency-news/exit-house-launches-on-ethereum-letting-holders-exit-unwanted-nfts-and-tokens-for-exit-4942590",
-      "published": "2026-10-11 11:00:07",
-      "ts": 1791716407
     },
     {
       "source": "Investing Forex",
