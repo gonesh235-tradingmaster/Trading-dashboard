@@ -1,13 +1,55 @@
 {
-  "updated": "2026-10-13T04:59:51.192742Z",
+  "updated": "2026-10-13T05:21:51.227625Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee gains further on RBI’s fresh measures to lower US Dollar’s demand",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-on-rbis-fresh-measures-to-lower-us-dollars-demand-202610130508",
+      "published": "Tue, 13 Oct 2026 05:08:30 GMT",
+      "ts": 1791868110
+    },
+    {
+      "source": "FXStreet",
+      "title": "WTI Price Forecast: Trades with modest losses below $92.00; bullish bias persists",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-trades-with-modest-losses-below-9200-bullish-bias-persists-202610130501",
+      "published": "Tue, 13 Oct 2026 05:01:04 GMT",
+      "ts": 1791867664
+    },
+    {
+      "source": "FXStreet",
+      "title": "Swiss Franc strengthens as US Dollar Index pulls back from 18-month highs",
+      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-as-us-dollar-index-pulls-back-from-18-month-highs-202610130500",
+      "published": "Tue, 13 Oct 2026 05:00:30 GMT",
+      "ts": 1791867630
+    },
+    {
+      "source": "FXStreet",
+      "title": "New Zealand Dollar rebounds to near 0.5600 amid geopolitical tensions and US CPI focus",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-to-near-05600-amid-geopolitical-tensions-and-us-cpi-focus-202610130457",
+      "published": "Tue, 13 Oct 2026 04:57:57 GMT",
+      "ts": 1791867477
+    },
+    {
+      "source": "FXStreet",
+      "title": "BoJ’s Ueda: Long term interest rates are determined in markets, reflecting various factors",
+      "link": "https://www.fxstreet.com/news/bojs-ueda-long-term-interest-rates-are-determined-in-markets-reflecting-various-factors-202610130453",
+      "published": "Tue, 13 Oct 2026 04:53:05 GMT",
+      "ts": 1791867185
+    },
     {
       "source": "CoinDesk",
       "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
       "link": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
       "published": "Tue, 13 Oct 2026 04:43:18 +0000",
       "ts": 1791866598
+    },
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610130435",
+      "published": "Tue, 13 Oct 2026 04:35:10 GMT",
+      "ts": 1791866110
     },
     {
       "source": "CoinDesk",
@@ -52,34 +94,6 @@
       "ts": 1791861981
     },
     {
-      "source": "FXStreet",
-      "title": "Australian Dollar remains steady following RBA September Meeting Minutes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-steady-following-rba-september-meeting-minutes-202610130318",
-      "published": "Tue, 13 Oct 2026 03:18:19 GMT",
-      "ts": 1791861499
-    },
-    {
-      "source": "FXStreet",
-      "title": "BoE’s Greene: Warns of second-round inflation effects if we act late",
-      "link": "https://www.fxstreet.com/news/boes-greene-warns-of-second-round-inflation-effects-if-we-act-late-202610130310",
-      "published": "Tue, 13 Oct 2026 03:10:15 GMT",
-      "ts": 1791861015
-    },
-    {
-      "source": "FXStreet",
-      "title": "IMF forecasts global real GDP growth of 3.1% in 2026",
-      "link": "https://www.fxstreet.com/news/imf-forecasts-global-real-gdp-growth-of-31-in-2026-202610130300",
-      "published": "Tue, 13 Oct 2026 03:00:10 GMT",
-      "ts": 1791860410
-    },
-    {
-      "source": "FXStreet",
-      "title": "Japanese Yen strengthens despite softer PPI data",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-despite-softer-ppi-data-202610130250",
-      "published": "Tue, 13 Oct 2026 02:50:55 GMT",
-      "ts": 1791859855
-    },
-    {
       "source": "CoinTelegraph",
       "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
       "link": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -87,25 +101,11 @@
       "ts": 1791859290
     },
     {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD falls to near $60.00 amid higher oil prices, US Dollar",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6000-amid-higher-oil-prices-us-dollar-202610130206",
-      "published": "Tue, 13 Oct 2026 02:06:48 GMT",
-      "ts": 1791857208
-    },
-    {
       "source": "MarketWatch",
       "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
       "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
       "published": "Tue, 13 Oct 2026 02:00:00 GMT",
       "ts": 1791856800
-    },
-    {
-      "source": "FXStreet",
-      "title": "United States Dollar Index eases from 18-month peak; slips below 102.50",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-eases-from-18-month-peak-slips-below-10250-202610130156",
-      "published": "Tue, 13 Oct 2026 01:56:23 GMT",
-      "ts": 1791856583
     },
     {
       "source": "CoinTelegraph",
