@@ -1,55 +1,328 @@
 {
-  "updated": "2026-10-13T08:41:04.794527Z",
+  "updated": "2026-10-13T16:27:30.386036Z",
   "count": 60,
   "items": [
     {
       "source": "MarketWatch",
-      "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm",
-      "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 08:29:00 GMT",
-      "ts": 1791880140
+      "title": "‘Superintelligence’ may never arrive, Deutsche Bank says. What that could mean for the U.S. economy.",
+      "link": "https://www.marketwatch.com/story/superintelligence-may-never-arrive-deutsche-bank-says-what-that-could-mean-for-the-u-s-economy-765b89a8?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 16:21:00 GMT",
+      "ts": 1791908460
+    },
+    {
+      "source": "FXStreet",
+      "title": "Dollar Index slips from its 18-month high before US CPI",
+      "link": "https://www.fxstreet.com/news/dollar-index-slips-from-its-18-month-high-before-us-cpi-202610131604",
+      "published": "Tue, 13 Oct 2026 16:04:22 GMT",
+      "ts": 1791907462
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+      "link": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 15:57:55 +0000",
+      "ts": 1791907075
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+      "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+      "published": "Tue, 13 Oct 2026 15:52:09 +0000",
+      "ts": 1791906729
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound finds fresh momentum as BoE hawks set stage for US CPI",
+      "link": "https://www.fxstreet.com/news/british-pound-finds-fresh-momentum-as-boe-hawks-set-stage-for-us-cpi-202610131539",
+      "published": "Tue, 13 Oct 2026 15:39:42 GMT",
+      "ts": 1791905982
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Pharma Bro’ Martin Shkreli is in trouble with regulators again, this time for influencing biopharma stocks",
+      "link": "https://www.marketwatch.com/story/pharma-bro-martin-shkreli-is-in-trouble-with-regulators-again-this-time-for-influencing-biopharma-stocks-7356c3bb?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 15:37:00 GMT",
+      "ts": 1791905820
+    },
+    {
+      "source": "FXStreet",
+      "title": "Neither a breakout nor a reversal: What OCBC, Commerzbank and ING expect from the US Dollar",
+      "link": "https://www.fxstreet.com/news/neither-a-breakout-nor-a-reversal-what-ocbc-commerzbank-and-ing-expect-from-the-us-dollar-202610131532",
+      "published": "Tue, 13 Oct 2026 15:32:21 GMT",
+      "ts": 1791905541
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+      "link": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 15:27:32 +0000",
+      "ts": 1791905252
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+      "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+      "published": "Tue, 13 Oct 2026 15:24:52 +0000",
+      "ts": 1791905092
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Raising taxes on investments, estates and benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+      "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 15:22:00 GMT",
+      "ts": 1791904920
+    },
+    {
+      "source": "FXStreet",
+      "title": "Taiwan Dollar: Monetary tightening and housing recovery – DBS",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-monetary-tightening-and-housing-recovery-dbs-202610131516",
+      "published": "Tue, 13 Oct 2026 15:16:38 GMT",
+      "ts": 1791904598
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 15:15:00 GMT",
+      "ts": 1791904500
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro finds support from softer US Dollar, French fiscal risks linger",
+      "link": "https://www.fxstreet.com/news/euro-finds-support-from-softer-us-dollar-french-fiscal-risks-linger-202610131509",
+      "published": "Tue, 13 Oct 2026 15:09:19 GMT",
+      "ts": 1791904159
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 15:00:00 GMT",
+      "ts": 1791903600
+    },
+    {
+      "source": "FXStreet",
+      "title": "British Pound: Upside momentum builds against Euro – Societe Generale",
+      "link": "https://www.fxstreet.com/news/british-pound-upside-momentum-builds-against-euro-societe-generale-202610131459",
+      "published": "Tue, 13 Oct 2026 14:59:20 GMT",
+      "ts": 1791903560
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 14:45:00 GMT",
+      "ts": 1791902700
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 14:31:00 GMT",
+      "ts": 1791901860
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Privacy by Default. Disclosure by Choice: Ricchezza Coin Prepares to Launch Layer 1 Privacy Ecosystem",
+      "link": "https://www.investing.com/news/cryptocurrency-news/privacy-by-default-disclosure-by-choice-ricchezza-coin-prepares-to-launch-layer-1-privacy-ecosystem-4947123",
+      "published": "2026-10-13 14:30:10",
+      "ts": 1791901810
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar: Modest gains against US Dollar - Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-modest-gains-against-us-dollar-scotiabank-202610131423",
+      "published": "Tue, 13 Oct 2026 14:23:57 GMT",
+      "ts": 1791901437
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Who should pay for a birthday dinner? I always treat my guests.",
+      "link": "https://www.marketwatch.com/story/who-should-pay-for-a-birthday-dinner-i-always-treat-my-guests-5bbd1880?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 14:17:00 GMT",
+      "ts": 1791901020
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Hedge-fund legend Paul Tudor Jones says the stock market faces a really challenging 2027. Here’s why.",
+      "link": "https://www.marketwatch.com/story/why-one-hedge-fund-billionaire-believes-stocks-are-heading-for-a-really-challenging-2027-bb68f19e?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 14:10:00 GMT",
+      "ts": 1791900600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Six Flags’ stock slumps toward 16-year low after fatal incident",
+      "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 14:09:00 GMT",
+      "ts": 1791900540
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar : Key support at 0.6935 in focus against US Dollar   – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-key-support-at-06935-in-focus-against-us-dollar-uob-202610131404",
+      "published": "Tue, 13 Oct 2026 14:04:33 GMT",
+      "ts": 1791900273
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin subdued below $84k as tech selldown hurts risk appetite",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-84k-as-tech-selldown-weighs-4945552",
+      "published": "2026-10-13 14:02:39",
+      "ts": 1791900159
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
+      "link": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 13:55:09 +0000",
+      "ts": 1791899709
+    },
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar edges higher amid softer US Dollar, hawkish RBA",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-as-softer-us-dollar-hawkish-rba-offer-support-202610131336",
+      "published": "Tue, 13 Oct 2026 13:36:54 GMT",
+      "ts": 1791898614
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Is Bitcoin kidding itself about the Lightning Network?",
+      "link": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 13:30:00 +0000",
+      "ts": 1791898200
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 13:26:42 +0000",
+      "ts": 1791898002
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
+      "link": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 13:17:17 +0000",
+      "ts": 1791897437
     },
     {
       "source": "Investing Forex",
-      "title": "Euro bonds stagger on French deficit fears and  AI corporate issuance squeeze",
+      "title": "Italy’s bond spread to Germany widens amid French debt pressures",
+      "link": "https://www.investing.com/news/forex-news/italys-bond-spread-to-germany-widens-amid-french-debt-pressures-93CH-4946809",
+      "published": "2026-10-13 13:12:36",
+      "ts": 1791897156
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar gains as U.S. dollar retreats from 18-month high",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-us-dollar-retreats-from-18month-high-4946655",
+      "published": "2026-10-13 12:40:08",
+      "ts": 1791895208
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+      "link": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 12:22:24 +0000",
+      "ts": 1791894144
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S.  debt finds breathing room, countering energy spike",
       "link": "https://www.investing.com/news/forex-news/euro-bonds-stagger-on-french-deficit-fears-and--ai-corporate-issuance-squeeze-4945526",
-      "published": "2026-10-13 07:45:59",
-      "ts": 1791877559
+      "published": "2026-10-13 12:12:02",
+      "ts": 1791893522
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+      "link": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+      "published": "Tue, 13 Oct 2026 11:58:04 +0000",
+      "ts": 1791892684
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+      "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+      "published": "Tue, 13 Oct 2026 11:56:04 +0000",
+      "ts": 1791892564
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
+      "published": "Tue, 13 Oct 2026 11:26:45 +0000",
+      "ts": 1791890805
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
+      "link": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 11:11:27 +0000",
+      "ts": 1791889887
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+      "published": "Tue, 13 Oct 2026 11:06:39 +0000",
+      "ts": 1791889599
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+      "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+      "published": "Tue, 13 Oct 2026 11:02:47 +0000",
+      "ts": 1791889367
     },
     {
       "source": "FXStreet",
-      "title": "Equities: Rotation out of AI as breadth stays positive – Danske Bank",
-      "link": "https://www.fxstreet.com/news/equities-rotation-out-of-ai-as-breadth-stays-positive-danske-bank-202610130744",
-      "published": "Tue, 13 Oct 2026 07:44:48 GMT",
-      "ts": 1791877488
+      "title": "Gold struggles to reclaim $4,200 as Fed interest rate hike risks persist, US CPI looms",
+      "link": "https://www.fxstreet.com/news/gold-struggles-below-4-200-despite-retreat-in-us-dollar-treasury-yields-202610131056",
+      "published": "Tue, 13 Oct 2026 10:56:48 GMT",
+      "ts": 1791889008
     },
     {
-      "source": "FXStreet",
-      "title": "Indian Rupee: RBI support points to softer pair – Commerzbank",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-support-points-to-softer-pair-commerzbank-202610130724",
-      "published": "Tue, 13 Oct 2026 07:24:56 GMT",
-      "ts": 1791876296
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
+      "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+      "published": "Tue, 13 Oct 2026 10:46:57 +0000",
+      "ts": 1791888417
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
+      "published": "Tue, 13 Oct 2026 10:38:51 +0000",
+      "ts": 1791887931
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks",
+      "link": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 10:23:07 +0000",
+      "ts": 1791886987
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
+      "link": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 10:09:01 +0000",
+      "ts": 1791886141
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "link": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+      "published": "Tue, 13 Oct 2026 09:27:47 +0000",
+      "ts": 1791883667
     },
     {
       "source": "Investing Forex",
-      "title": "Dollar dips from 18-mth high; rupee extends gains after RBI intervention",
+      "title": "Rupee extends surge; Dollar consolidates near peaks ahead of inflation data",
       "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
-      "published": "2026-10-13 07:21:48",
-      "ts": 1791876108
-    },
-    {
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD remains capped below $61.00 as bulls seem hesitant",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-capped-below-6100-as-bulls-seem-hesitant-202610130720",
-      "published": "Tue, 13 Oct 2026 07:20:25 GMT",
-      "ts": 1791876025
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro remains depressed against British Pound as France and Oil weighs",
-      "link": "https://www.fxstreet.com/news/euro-remains-depressed-against-british-pound-as-france-and-oil-weighs-202610130718",
-      "published": "Tue, 13 Oct 2026 07:18:15 GMT",
-      "ts": 1791875895
+      "published": "2026-10-13 09:19:48",
+      "ts": 1791883188
     },
     {
       "source": "Investing Crypto",
@@ -59,130 +332,11 @@
       "ts": 1791875470
     },
     {
-      "source": "FXStreet",
-      "title": "Oil: Market focuses on Persian Gulf risks – ING",
-      "link": "https://www.fxstreet.com/news/oil-market-focuses-on-persian-gulf-risks-ing-202610130659",
-      "published": "Tue, 13 Oct 2026 06:59:30 GMT",
-      "ts": 1791874770
-    },
-    {
-      "source": "FXStreet",
-      "title": "Forex Today: US Dollar retreats from 18-month high as bond yields, oil prices ease",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-retreats-from-17-month-high-as-bond-yields-oil-prices-ease-202610130659",
-      "published": "Tue, 13 Oct 2026 06:59:09 GMT",
-      "ts": 1791874749
-    },
-    {
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Declining 20-day EMA builds case for more downside",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-declining-20-day-ema-builds-case-for-more-downside-202610130652",
-      "published": "Tue, 13 Oct 2026 06:52:19 GMT",
-      "ts": 1791874339
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin pinned below $84k as tech selldown weighs",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-84k-as-tech-selldown-weighs-4945552",
-      "published": "2026-10-13 06:42:23",
-      "ts": 1791873743
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Gradual downside toward key support against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-gradual-downside-toward-key-support-against-us-dollar-uob-202610130636",
-      "published": "Tue, 13 Oct 2026 06:36:06 GMT",
-      "ts": 1791873366
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 05:51:31 +0000",
-      "ts": 1791870691
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
-      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
-      "published": "Tue, 13 Oct 2026 05:45:10 +0000",
-      "ts": 1791870310
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
-      "link": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 05:38:37 +0000",
-      "ts": 1791869917
-    },
-    {
       "source": "Investing Crypto",
       "title": "TrustLinq Expands Ripple Partnership, Enabling RLUSD-Funded Bank Payments to 190+ Countries",
       "link": "https://www.investing.com/news/cryptocurrency-news/trustlinq-expands-ripple-partnership-enabling-rlusdfunded-bank-payments-to-190-countries-4945455",
       "published": "2026-10-13 05:30:10",
       "ts": 1791869410
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
-      "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
-      "published": "Tue, 13 Oct 2026 05:27:17 +0000",
-      "ts": 1791869237
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Binance to shut down crypto mining pool services in November",
-      "link": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 05:23:26 +0000",
-      "ts": 1791869006
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indian Rupee hits fresh monthly high on RBI’s measures to curb US Dollar’s demand",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-on-rbis-fresh-measures-to-lower-us-dollars-demand-202610130508",
-      "published": "Tue, 13 Oct 2026 05:08:30 GMT",
-      "ts": 1791868110
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
-      "link": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
-      "published": "Tue, 13 Oct 2026 04:43:18 +0000",
-      "ts": 1791866598
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
-      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
-      "published": "Tue, 13 Oct 2026 04:18:20 +0000",
-      "ts": 1791865100
-    },
-    {
-      "source": "FXStreet",
-      "title": "Gold remains capped near $4,200 as Fed hike bets and Iran risks limit USD corrective slide",
-      "link": "https://www.fxstreet.com/news/gold-bounces-off-4-150-amid-modest-usd-pullback-but-stays-in-two-week-old-range-202610130353",
-      "published": "Tue, 13 Oct 2026 03:53:32 GMT",
-      "ts": 1791863612
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
-      "link": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 02:41:30 +0000",
-      "ts": 1791859290
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
-      "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 02:00:00 GMT",
-      "ts": 1791856800
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
-      "link": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 01:54:31 +0000",
-      "ts": 1791856471
     },
     {
       "source": "Investing Crypto",
@@ -192,41 +346,6 @@
       "ts": 1791852779
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
-      "link": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 00:52:52 +0000",
-      "ts": 1791852772
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
-      "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 00:18:00 GMT",
-      "ts": 1791850680
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 23:31:00 GMT",
-      "ts": 1791847860
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 23:15:00 GMT",
-      "ts": 1791846900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
-      "link": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 22:27:00 GMT",
-      "ts": 1791844020
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips to $82.6k as rise in oil prices weigh on risk sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-84k-as-falling-oil-prices-offer-some-support-4943235",
@@ -234,88 +353,11 @@
       "ts": 1791842659
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 22:00:00 GMT",
-      "ts": 1791842400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
-      "link": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 22:00:00 GMT",
-      "ts": 1791842400
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens",
       "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-rupee-jumps-on-rbi-measures-4943051",
       "published": "2026-10-12 21:26:34",
       "ts": 1791840394
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
-      "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 21:19:00 GMT",
-      "ts": 1791839940
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "FTX’s crypto mining venture is now used to advance AI",
-      "link": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 21:11:26 +0000",
-      "ts": 1791839486
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
-      "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 20:46:00 GMT",
-      "ts": 1791837960
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
-      "link": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 18:55:49 +0000",
-      "ts": 1791831349
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
-      "link": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 18:38:14 +0000",
-      "ts": 1791830294
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
-      "link": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 16:51:05 +0000",
-      "ts": 1791823865
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
-      "link": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
-      "published": "Mon, 12 Oct 2026 16:18:03 +0000",
-      "ts": 1791821883
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-      "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
-      "published": "Mon, 12 Oct 2026 15:27:09 +0000",
-      "ts": 1791818829
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
-      "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
-      "published": "Mon, 12 Oct 2026 15:00:00 +0000",
-      "ts": 1791817200
     },
     {
       "source": "Investing Crypto",
@@ -330,27 +372,6 @@
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-ease-as-energy-pullback-temporarily-soothesduration-fears-4943436",
       "published": "2026-10-12 12:26:11",
       "ts": 1791807971
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
-      "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-      "published": "Mon, 12 Oct 2026 12:09:09 +0000",
-      "ts": 1791806949
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
-      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-      "published": "Mon, 12 Oct 2026 12:01:53 +0000",
-      "ts": 1791806513
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
-      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
-      "published": "Mon, 12 Oct 2026 11:21:11 +0000",
-      "ts": 1791804071
     },
     {
       "source": "Investing Crypto",
@@ -388,13 +409,6 @@
       "ts": 1791745337
     },
     {
-      "source": "Investing Crypto",
-      "title": "EOS Climbs 11% As Investors Gain Confidence",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-as-investors-gain-confidence-4942660",
-      "published": "2026-10-11 13:03:01",
-      "ts": 1791723781
-    },
-    {
       "source": "Investing Forex",
       "title": "Yen weakness since 2025 has been limited to offshore hours: analysis",
       "link": "https://www.investing.com/news/forex-news/yen-weakness-since-2025-has-been-limited-to-offshore-hours-analysis-4942531",
@@ -407,20 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
       "published": "2026-10-09 20:30:15",
       "ts": 1791577815
-    },
-    {
-      "source": "Investing Forex",
-      "title": "EUR/USD outlook as euro stays pinned near multi month lows",
-      "link": "https://www.investing.com/news/forex-news/eurusd-outlook-as-euro-stays-pinned-near-multi-month-lows-93CH-4941222",
-      "published": "2026-10-09 13:14:38",
-      "ts": 1791551678
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro zone ministers tell France to pass 2027 budget to calm markets",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
-      "published": "2026-10-09 12:24:47",
-      "ts": 1791548687
     }
   ]
 }
