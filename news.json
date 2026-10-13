@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-13T07:19:32.877422Z",
+  "updated": "2026-10-13T07:48:33.043272Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Indian Rupee: RBI support points to softer pair – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-support-points-to-softer-pair-commerzbank-202610130724",
+      "published": "Tue, 13 Oct 2026 07:24:56 GMT",
+      "ts": 1791876296
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar dips from 18-mth high; rupee extends gains after RBI intervention",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
+      "published": "2026-10-13 07:21:48",
+      "ts": 1791876108
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD remains capped below $61.00 as bulls seem hesitant",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-capped-below-6100-as-bulls-seem-hesitant-202610130720",
+      "published": "Tue, 13 Oct 2026 07:20:25 GMT",
+      "ts": 1791876025
+    },
+    {
+      "source": "FXStreet",
+      "title": "Euro remains depressed against British Pound as France and Oil weighs",
+      "link": "https://www.fxstreet.com/news/euro-remains-depressed-against-british-pound-as-france-and-oil-weighs-202610130718",
+      "published": "Tue, 13 Oct 2026 07:18:15 GMT",
+      "ts": 1791875895
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates between $82,650 and $84,643: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-13 07:11:10",
+      "ts": 1791875470
+    },
+    {
+      "source": "FXStreet",
+      "title": "Oil: Market focuses on Persian Gulf risks – ING",
+      "link": "https://www.fxstreet.com/news/oil-market-focuses-on-persian-gulf-risks-ing-202610130659",
+      "published": "Tue, 13 Oct 2026 06:59:30 GMT",
+      "ts": 1791874770
+    },
+    {
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar retreats from 18-month high as bond yields, oil prices ease",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-retreats-from-17-month-high-as-bond-yields-oil-prices-ease-202610130659",
+      "published": "Tue, 13 Oct 2026 06:59:09 GMT",
+      "ts": 1791874749
+    },
+    {
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Declining 20-day EMA builds case for more downside",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-declining-20-day-ema-builds-case-for-more-downside-202610130652",
+      "published": "Tue, 13 Oct 2026 06:52:19 GMT",
+      "ts": 1791874339
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin pinned below $84k as tech selldown weighs",
@@ -11,24 +67,17 @@
     },
     {
       "source": "FXStreet",
+      "title": "Euro: Gradual downside toward key support against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-gradual-downside-toward-key-support-against-us-dollar-uob-202610130636",
+      "published": "Tue, 13 Oct 2026 06:36:06 GMT",
+      "ts": 1791873366
+    },
+    {
+      "source": "FXStreet",
       "title": "USD/JPY Price Forecast: Bulls fail to break the 200-day SMA around 158.50",
       "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-bulls-fail-to-break-the-200-day-sma-around-15850-202610130629",
       "published": "Tue, 13 Oct 2026 06:29:35 GMT",
       "ts": 1791872975
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: Likely extend advance to near 103.00",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-likely-extend-advance-to-near-10300-202610130608",
-      "published": "Tue, 13 Oct 2026 06:08:58 GMT",
-      "ts": 1791871738
-    },
-    {
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Holds gains above 1.1150, but remains technically bearish under 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-gains-above-11150-but-remains-technically-bearish-under-100-day-sma-202610130600",
-      "published": "Tue, 13 Oct 2026 06:00:23 GMT",
-      "ts": 1791871223
     },
     {
       "source": "CoinTelegraph",
@@ -59,20 +108,6 @@
       "ts": 1791869410
     },
     {
-      "source": "FXStreet",
-      "title": "British Pound trades subduedly against Japanese Yen, BoE’s Greene supports quick rate hikes",
-      "link": "https://www.fxstreet.com/news/british-pound-trades-subduedly-against-japanese-yen-boes-greene-supports-quick-rate-hikes-202610130529",
-      "published": "Tue, 13 Oct 2026 05:29:30 GMT",
-      "ts": 1791869370
-    },
-    {
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah gains as BI Governor Destry reaffirms rate autonomy",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-as-bi-governor-destry-reaffirms-rate-autonomy-202610130529",
-      "published": "Tue, 13 Oct 2026 05:29:23 GMT",
-      "ts": 1791869363
-    },
-    {
       "source": "CoinDesk",
       "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
       "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
@@ -88,31 +123,10 @@
     },
     {
       "source": "FXStreet",
-      "title": "Indian Rupee gains further on RBI’s fresh measures to lower US Dollar’s demand",
+      "title": "Indian Rupee hits fresh monthly high on RBI’s measures to curb US Dollar’s demand",
       "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-on-rbis-fresh-measures-to-lower-us-dollars-demand-202610130508",
       "published": "Tue, 13 Oct 2026 05:08:30 GMT",
       "ts": 1791868110
-    },
-    {
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Trades with modest losses below $92.00; bullish bias persists",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-trades-with-modest-losses-below-9200-bullish-bias-persists-202610130501",
-      "published": "Tue, 13 Oct 2026 05:01:04 GMT",
-      "ts": 1791867664
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc strengthens as US Dollar Index pulls back from 18-month highs",
-      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-as-us-dollar-index-pulls-back-from-18-month-highs-202610130500",
-      "published": "Tue, 13 Oct 2026 05:00:30 GMT",
-      "ts": 1791867630
-    },
-    {
-      "source": "FXStreet",
-      "title": "New Zealand Dollar rebounds to near 0.5600 amid geopolitical tensions and US CPI focus",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-to-near-05600-amid-geopolitical-tensions-and-us-cpi-focus-202610130457",
-      "published": "Tue, 13 Oct 2026 04:57:57 GMT",
-      "ts": 1791867477
     },
     {
       "source": "CoinDesk",
@@ -129,15 +143,8 @@
       "ts": 1791865100
     },
     {
-      "source": "Investing Forex",
-      "title": "Asia FX steady as dollar holds near 18-mth high, U.S. CPI awaited",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
-      "published": "2026-10-13 04:04:52",
-      "ts": 1791864292
-    },
-    {
       "source": "FXStreet",
-      "title": "Gold advances to $4,200 amid retreating USD; Fed hike bets to cap further gains",
+      "title": "Gold remains capped near $4,200 as Fed hike bets and Iran risks limit USD corrective slide",
       "link": "https://www.fxstreet.com/news/gold-bounces-off-4-150-amid-modest-usd-pullback-but-stays-in-two-week-old-range-202610130353",
       "published": "Tue, 13 Oct 2026 03:53:32 GMT",
       "ts": 1791863612
@@ -260,13 +267,6 @@
       "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 20:40:00 GMT",
       "ts": 1791837600
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin clings to $81,479 support under heavy resistance: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "published": "2026-10-12 19:18:23",
-      "ts": 1791832703
     },
     {
       "source": "CoinTelegraph",
