@@ -1,13 +1,27 @@
 {
-  "updated": "2026-10-13T01:18:19.991388Z",
+  "updated": "2026-10-13T01:47:04.751327Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7298 vs. 6.7313 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67298-vs-67313-previous-202610130115",
+      "published": "Tue, 13 Oct 2026 01:15:30 GMT",
+      "ts": 1791854130
+    },
     {
       "source": "FXStreet",
       "title": "WTI holds gains above $92.00 on persistent Middle East supply risks",
       "link": "https://www.fxstreet.com/news/wti-holds-gains-above-9200-on-persistent-middle-east-supply-risks-202610130101",
       "published": "Tue, 13 Oct 2026 01:01:57 GMT",
       "ts": 1791853317
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Falls 10% In Selloff",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-4945289",
+      "published": "2026-10-13 00:52:59",
+      "ts": 1791852779
     },
     {
       "source": "CoinTelegraph",
@@ -120,13 +134,6 @@
       "link": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 22:00:00 GMT",
       "ts": 1791842400
-    },
-    {
-      "source": "FXStreet",
-      "title": "Fed’s Hammack sees thriving economy, backs further rate hikes",
-      "link": "https://www.fxstreet.com/news/feds-hammack-sees-thriving-economy-backs-further-rate-hikes-202610122150",
-      "published": "Mon, 12 Oct 2026 21:50:29 GMT",
-      "ts": 1791841829
     },
     {
       "source": "Investing Forex",
@@ -379,13 +386,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
       "published": "2026-10-11 05:35:34",
       "ts": 1791696934
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rebounds above $83,000 after weekly slide as oil, yields and security fear",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
-      "published": "2026-10-10 18:48:08",
-      "ts": 1791658088
     },
     {
       "source": "Investing Forex",
