@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-13T21:27:30.308643Z",
+  "updated": "2026-10-14T00:30:50.336719Z",
   "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "title": "Australian Dollar climbs as Fed’s Williams push the brakes on rates",
+      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-as-feds-williams-push-the-brakes-on-rates-202610132334",
+      "published": "Tue, 13 Oct 2026 23:34:13 GMT",
+      "ts": 1791934453
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+      "link": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 23:28:19 +0000",
+      "ts": 1791934099
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "published": "Tue, 13 Oct 2026 23:23:05 +0000",
+      "ts": 1791933785
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold declines to near $4,150 ahead of US CPI inflation data",
+      "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-150-ahead-of-us-cpi-inflation-data-202610132321",
+      "published": "Tue, 13 Oct 2026 23:21:25 GMT",
+      "ts": 1791933685
+    },
+    {
+      "source": "FXStreet",
+      "title": "Yen trails the majors as the BoJ is said to lean against a hike",
+      "link": "https://www.fxstreet.com/news/yen-trails-the-majors-as-the-boj-is-said-to-lean-against-a-hike-202610132241",
+      "published": "Tue, 13 Oct 2026 22:41:05 GMT",
+      "ts": 1791931265
+    },
+    {
+      "source": "FXStreet",
+      "title": "Mexican Peso buckles as Fed inflation fears overshadow dovish Williams",
+      "link": "https://www.fxstreet.com/news/mexican-peso-buckles-as-fed-inflation-fears-overshadow-dovish-williams-202610132217",
+      "published": "Tue, 13 Oct 2026 22:17:16 GMT",
+      "ts": 1791929836
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+      "published": "Tue, 13 Oct 2026 21:52:00 +0000",
+      "ts": 1791928320
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin up 1% to $83.4k, but gains capped as risk appetite takes a hit",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-84k-as-tech-selldown-weighs-4945552",
+      "published": "2026-10-13 21:40:52",
+      "ts": 1791927652
+    },
+    {
+      "source": "FXStreet",
+      "title": "Pound gains as Fed's Williams sees no 2027 hike",
+      "link": "https://www.fxstreet.com/news/pound-gains-and-stays-inside-its-range-for-a-third-week-202610132134",
+      "published": "Tue, 13 Oct 2026 21:34:48 GMT",
+      "ts": 1791927288
+    },
     {
       "source": "FXStreet",
       "title": "Dow Jones Industrial Average gives back a 500-point earnings jump",
@@ -122,13 +185,6 @@
       "ts": 1791922035
     },
     {
-      "source": "FXStreet",
-      "title": "Japanese Yen: Choppy trade after JPY-supportive comments – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-choppy-trade-after-jpy-supportive-comments-scotiabank-202610131951",
-      "published": "Tue, 13 Oct 2026 19:51:24 GMT",
-      "ts": 1791921084
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
       "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -143,39 +199,11 @@
       "ts": 1791920037
     },
     {
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Priced-in MAS move limits gains against US Dollar - OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-priced-in-mas-move-limits-gains-against-us-dollar-ocbc-202610131923",
-      "published": "Tue, 13 Oct 2026 19:23:03 GMT",
-      "ts": 1791919383
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
       "link": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 13 Oct 2026 19:07:04 +0000",
       "ts": 1791918424
-    },
-    {
-      "source": "FXStreet",
-      "title": "US Dollar: Fed pricing leg looks stretched – Societe Generale",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-pricing-leg-looks-stretched-societe-generale-202610131857",
-      "published": "Tue, 13 Oct 2026 18:57:48 GMT",
-      "ts": 1791917868
-    },
-    {
-      "source": "FXStreet",
-      "title": "Swiss Franc strengthens on dovish Fed rhetoric as US CPI looms",
-      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-on-dovish-feds-rhetoric-us-cpi-looms-202610131856",
-      "published": "Tue, 13 Oct 2026 18:56:34 GMT",
-      "ts": 1791917794
-    },
-    {
-      "source": "FXStreet",
-      "title": "Euro: Soft undertone but fair value higher against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-soft-undertone-but-fair-value-higher-against-us-dollar-scotiabank-202610131836",
-      "published": "Tue, 13 Oct 2026 18:36:36 GMT",
-      "ts": 1791916596
     },
     {
       "source": "CoinTelegraph",
@@ -220,13 +248,6 @@
       "ts": 1791901810
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin subdued below $84k as tech selldown hurts risk appetite",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-84k-as-tech-selldown-weighs-4945552",
-      "published": "2026-10-13 14:02:39",
-      "ts": 1791900159
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
       "link": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -260,13 +281,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-us-dollar-retreats-from-18month-high-4946655",
       "published": "2026-10-13 12:40:08",
       "ts": 1791895208
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
-      "link": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 12:22:24 +0000",
-      "ts": 1791894144
     },
     {
       "source": "Investing Forex",
@@ -316,20 +330,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
       "published": "Tue, 13 Oct 2026 10:46:57 +0000",
       "ts": 1791888417
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
-      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
-      "published": "Tue, 13 Oct 2026 10:38:51 +0000",
-      "ts": 1791887931
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
-      "link": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
-      "published": "Tue, 13 Oct 2026 09:27:47 +0000",
-      "ts": 1791883667
     },
     {
       "source": "Investing Crypto",
