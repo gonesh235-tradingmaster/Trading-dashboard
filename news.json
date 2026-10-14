@@ -1,13 +1,132 @@
 {
-  "updated": "2026-10-14T00:30:50.336719Z",
+  "updated": "2026-10-14T05:25:11.371717Z",
   "count": 60,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+      "link": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+      "published": "Wed, 14 Oct 2026 05:24:12 +0000",
+      "ts": 1791955452
+    },
+    {
       "source": "FXStreet",
-      "title": "Australian Dollar climbs as Fed’s Williams push the brakes on rates",
-      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-as-feds-williams-push-the-brakes-on-rates-202610132334",
-      "published": "Tue, 13 Oct 2026 23:34:13 GMT",
-      "ts": 1791934453
+      "title": "WTI Price Forecast: Eases from two-week high; trades below $94.00 amid bullish setup",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-eases-from-two-week-high-trades-below-9400-amid-bullish-setup-202610140513",
+      "published": "Wed, 14 Oct 2026 05:13:31 GMT",
+      "ts": 1791954811
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/JPY Price Forecast: Gains ground below 177.50, but stays bearish below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-gains-ground-below-17750-but-stays-bearish-below-100-day-sma-202610140451",
+      "published": "Wed, 14 Oct 2026 04:51:56 GMT",
+      "ts": 1791953516
+    },
+    {
+      "source": "FXStreet",
+      "title": "India Gold price today: Gold steadies, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202610140435",
+      "published": "Wed, 14 Oct 2026 04:35:13 GMT",
+      "ts": 1791952513
+    },
+    {
+      "source": "FXStreet",
+      "title": "UK Finance Minister Healey to fund budget giveaways without extra borrowing — FT",
+      "link": "https://www.fxstreet.com/news/uk-finance-minister-healey-to-fund-budget-giveaways-without-extra-borrowing-ft-202610140428",
+      "published": "Wed, 14 Oct 2026 04:28:54 GMT",
+      "ts": 1791952134
+    },
+    {
+      "source": "FXStreet",
+      "title": "GBP/USD Price Forecast: Hits one-week top as bulls eye range breakout above 1.3300",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-hits-one-week-top-as-bulls-eye-range-breakout-above-13300-202610140427",
+      "published": "Wed, 14 Oct 2026 04:27:10 GMT",
+      "ts": 1791952030
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+      "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+      "published": "Wed, 14 Oct 2026 04:11:16 +0000",
+      "ts": 1791951076
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX subdued ahead of U.S. CPI;  China data, Singapore GDP in focus",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-ahead-of-us-cpi-china-data-singapore-gdp-in-focus-4947972",
+      "published": "2026-10-14 04:10:40",
+      "ts": 1791951040
+    },
+    {
+      "source": "FXStreet",
+      "title": "Gold draws support from retreating USD; holds above $4,150 as traders await US CPI report",
+      "link": "https://www.fxstreet.com/news/gold-draws-support-from-retreating-usd-holds-above-4-150-as-traders-await-us-cpi-report-202610140409",
+      "published": "Wed, 14 Oct 2026 04:09:37 GMT",
+      "ts": 1791950977
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+      "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+      "published": "Wed, 14 Oct 2026 03:50:54 +0000",
+      "ts": 1791949854
+    },
+    {
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Gains ground near 1.1150, US CPI awaited",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-gains-ground-near-11150-us-cpi-awaited-202610140335",
+      "published": "Wed, 14 Oct 2026 03:35:55 GMT",
+      "ts": 1791948955
+    },
+    {
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD remains above $59.00 amid dovish Fed remarks",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-above-5900-amid-dovish-fed-remarks-202610140333",
+      "published": "Wed, 14 Oct 2026 03:33:50 GMT",
+      "ts": 1791948830
+    },
+    {
+      "source": "FXStreet",
+      "title": "Canadian Dollar edges up against US Dollar ahead of US CPI data",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-edges-up-against-us-dollar-ahead-of-us-cpi-data-202610140307",
+      "published": "Wed, 14 Oct 2026 03:07:20 GMT",
+      "ts": 1791947240
+    },
+    {
+      "source": "FXStreet",
+      "title": "United States Dollar Index weakens to near 102.00 ahead of US CPI release",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-to-near-10200-ahead-of-us-cpi-release-202610140243",
+      "published": "Wed, 14 Oct 2026 02:43:40 GMT",
+      "ts": 1791945820
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+      "link": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 02:19:56 +0000",
+      "ts": 1791944396
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "published": "Wed, 14 Oct 2026 01:31:00 GMT",
+      "ts": 1791941460
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "Wed, 14 Oct 2026 01:25:00 GMT",
+      "ts": 1791941100
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "published": "Wed, 14 Oct 2026 01:00:00 +0000",
+      "ts": 1791939600
     },
     {
       "source": "CoinTelegraph",
@@ -24,27 +143,6 @@
       "ts": 1791933785
     },
     {
-      "source": "FXStreet",
-      "title": "Gold declines to near $4,150 ahead of US CPI inflation data",
-      "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-150-ahead-of-us-cpi-inflation-data-202610132321",
-      "published": "Tue, 13 Oct 2026 23:21:25 GMT",
-      "ts": 1791933685
-    },
-    {
-      "source": "FXStreet",
-      "title": "Yen trails the majors as the BoJ is said to lean against a hike",
-      "link": "https://www.fxstreet.com/news/yen-trails-the-majors-as-the-boj-is-said-to-lean-against-a-hike-202610132241",
-      "published": "Tue, 13 Oct 2026 22:41:05 GMT",
-      "ts": 1791931265
-    },
-    {
-      "source": "FXStreet",
-      "title": "Mexican Peso buckles as Fed inflation fears overshadow dovish Williams",
-      "link": "https://www.fxstreet.com/news/mexican-peso-buckles-as-fed-inflation-fears-overshadow-dovish-williams-202610132217",
-      "published": "Tue, 13 Oct 2026 22:17:16 GMT",
-      "ts": 1791929836
-    },
-    {
       "source": "CoinDesk",
       "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
       "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
@@ -59,27 +157,6 @@
       "ts": 1791927652
     },
     {
-      "source": "FXStreet",
-      "title": "Pound gains as Fed's Williams sees no 2027 hike",
-      "link": "https://www.fxstreet.com/news/pound-gains-and-stays-inside-its-range-for-a-third-week-202610132134",
-      "published": "Tue, 13 Oct 2026 21:34:48 GMT",
-      "ts": 1791927288
-    },
-    {
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average gives back a 500-point earnings jump",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-gives-back-a-500-point-earnings-jump-202610132112",
-      "published": "Tue, 13 Oct 2026 21:12:57 GMT",
-      "ts": 1791925977
-    },
-    {
-      "source": "FXStreet",
-      "title": "Taiwan: AI-driven growth and inflation outlook – DBS",
-      "link": "https://www.fxstreet.com/news/taiwan-ai-driven-growth-and-inflation-outlook-dbs-202610132112",
-      "published": "Tue, 13 Oct 2026 21:12:00 GMT",
-      "ts": 1791925920
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally",
       "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
@@ -92,13 +169,6 @@
       "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
       "published": "Tue, 13 Oct 2026 21:02:00 GMT",
       "ts": 1791925320
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 21:01:00 GMT",
-      "ts": 1791925260
     },
     {
       "source": "Investing Crypto",
@@ -122,25 +192,11 @@
       "ts": 1791924060
     },
     {
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Outlook stays mildly positive against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-outlook-stays-mildly-positive-against-us-dollar-uob-202610132033",
-      "published": "Tue, 13 Oct 2026 20:33:00 GMT",
-      "ts": 1791923580
-    },
-    {
       "source": "MarketWatch",
       "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
       "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
       "published": "Tue, 13 Oct 2026 20:32:00 GMT",
       "ts": 1791923520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 20:30:00 GMT",
-      "ts": 1791923400
     },
     {
       "source": "MarketWatch",
@@ -164,25 +220,11 @@
       "ts": 1791923100
     },
     {
-      "source": "FXStreet",
-      "title": "Fed's Collins backs September hike, sees Oil and AI driving inflation",
-      "link": "https://www.fxstreet.com/news/feds-collins-backs-september-hike-sees-oil-and-ai-driving-inflation-202610132016",
-      "published": "Tue, 13 Oct 2026 20:16:22 GMT",
-      "ts": 1791922582
-    },
-    {
       "source": "MarketWatch",
       "title": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
       "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
       "published": "Tue, 13 Oct 2026 20:16:00 GMT",
       "ts": 1791922560
-    },
-    {
-      "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-challenge-21000-as-breakout-looms-202610132007",
-      "published": "Tue, 13 Oct 2026 20:07:15 GMT",
-      "ts": 1791922035
     },
     {
       "source": "CoinTelegraph",
@@ -262,13 +304,6 @@
       "ts": 1791898200
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
-      "link": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 13:17:17 +0000",
-      "ts": 1791897437
-    },
-    {
       "source": "Investing Forex",
       "title": "Italy’s bond spread to Germany widens amid French debt pressures",
       "link": "https://www.investing.com/news/forex-news/italys-bond-spread-to-germany-widens-amid-french-debt-pressures-93CH-4946809",
@@ -302,34 +337,6 @@
       "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
       "published": "Tue, 13 Oct 2026 11:56:04 +0000",
       "ts": 1791892564
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
-      "published": "Tue, 13 Oct 2026 11:26:45 +0000",
-      "ts": 1791890805
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
-      "published": "Tue, 13 Oct 2026 11:06:39 +0000",
-      "ts": 1791889599
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
-      "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
-      "published": "Tue, 13 Oct 2026 11:02:47 +0000",
-      "ts": 1791889367
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-      "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
-      "published": "Tue, 13 Oct 2026 10:46:57 +0000",
-      "ts": 1791888417
     },
     {
       "source": "Investing Crypto",
@@ -414,13 +421,6 @@
       "link": "https://www.investing.com/news/forex-news/yen-weakness-since-2025-has-been-limited-to-offshore-hours-analysis-4942531",
       "published": "2026-10-11 08:39:26",
       "ts": 1791707966
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar gains for fourth straight week on Fed rate outlook",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
-      "published": "2026-10-09 20:30:15",
-      "ts": 1791577815
     }
   ]
 }
