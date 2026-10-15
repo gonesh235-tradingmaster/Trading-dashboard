@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-15T00:53:24.607173Z",
+  "updated": "2026-10-15T05:34:10.719741Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+      "link": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 05:00:40 +0000",
+      "ts": 1792040440
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX mixed, dollar slips after hot U.S. CPI; yen firms on intervention warnings",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-after-hot-us-cpi-yen-firmson-intervention-warnings-4950494",
+      "published": "2026-10-15 04:27:53",
+      "ts": 1792038473
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+      "published": "Thu, 15 Oct 2026 04:25:15 +0000",
+      "ts": 1792038315
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+      "published": "Thu, 15 Oct 2026 04:13:56 +0000",
+      "ts": 1792037636
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+      "published": "Thu, 15 Oct 2026 03:57:45 +0000",
+      "ts": 1792036665
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+      "link": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 03:29:22 +0000",
+      "ts": 1792034962
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+      "link": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 01:21:52 +0000",
+      "ts": 1792027312
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
+      "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 01:07:00 GMT",
+      "ts": 1792026420
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Polygon gains US payments licenses after closing Coinme deal",
+      "link": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 00:55:21 +0000",
+      "ts": 1792025721
+    },
     {
       "source": "MarketWatch",
       "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
@@ -64,13 +127,6 @@
       "link": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
       "published": "Wed, 14 Oct 2026 21:54:00 GMT",
       "ts": 1792014840
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-      "published": "Wed, 14 Oct 2026 21:40:00 GMT",
-      "ts": 1792014000
     },
     {
       "source": "Investing Crypto",
@@ -171,13 +227,6 @@
       "ts": 1791988274
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 14:21:15 +0000",
-      "ts": 1791987675
-    },
-    {
       "source": "CoinDesk",
       "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
       "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
@@ -206,13 +255,6 @@
       "ts": 1791985619
     },
     {
-      "source": "CoinTelegraph",
-      "title": "‘Bunker mode’ won’t protect your crypto, critics say",
-      "link": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 13:30:00 +0000",
-      "ts": 1791984600
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-softens-before-us-cpi-4948452",
@@ -220,46 +262,11 @@
       "ts": 1791984489
     },
     {
-      "source": "CoinDesk",
-      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-      "link": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
-      "published": "Wed, 14 Oct 2026 13:07:45 +0000",
-      "ts": 1791983265
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
-      "link": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 13:00:00 +0000",
-      "ts": 1791982800
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Qivalis wins Dutch e-money license for euro stablecoin",
-      "link": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 12:53:41 +0000",
-      "ts": 1791982421
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. 10-year yield jumps as hot inflation re-injects rate-hike fears",
       "link": "https://www.investing.com/news/forex-news/eurozone-debt-bourses-consolidate-as-lagarde-rejects-french-bond-backstop-4948176",
       "published": "2026-10-14 12:40:32",
       "ts": 1791981632
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
-      "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
-      "published": "Wed, 14 Oct 2026 12:33:56 +0000",
-      "ts": 1791981236
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Here's how analysts see U.S. inflation influencing bitcoin",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
-      "published": "Wed, 14 Oct 2026 11:15:00 +0000",
-      "ts": 1791976500
     },
     {
       "source": "Investing Crypto",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-4945289",
       "published": "2026-10-13 00:52:59",
       "ts": 1791852779
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-rupee-jumps-on-rbi-measures-4943051",
-      "published": "2026-10-12 21:26:34",
-      "ts": 1791840394
     }
   ]
 }
