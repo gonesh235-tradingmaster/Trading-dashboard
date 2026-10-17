@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-16T23:53:16.631150Z",
+  "updated": "2026-10-17T03:03:39.674489Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "published": "Sat, 17 Oct 2026 02:30:00 +0000",
+      "ts": 1792204200
+    },
     {
       "source": "MarketWatch",
       "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
@@ -302,13 +309,6 @@
       "link": "https://www.investing.com/news/forex-news/bofa-forecasts-eurusd-at-115-by-yearend-120-by-end2027-93CH-4953416",
       "published": "2026-10-16 09:02:02",
       "ts": 1792141322
-    },
-    {
-      "source": "CoinDesk",
-      "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
-      "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
-      "published": "Fri, 16 Oct 2026 08:34:48 +0000",
-      "ts": 1792139688
     },
     {
       "source": "Investing Crypto",
