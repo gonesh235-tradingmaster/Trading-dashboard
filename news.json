@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-17T15:23:59.584943Z",
+  "updated": "2026-10-17T17:53:29.902110Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+      "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+      "published": "Sat, 17 Oct 2026 17:00:00 +0000",
+      "ts": 1792256400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "published": "Sat, 17 Oct 2026 16:47:00 GMT",
+      "ts": 1792255620
+    },
     {
       "source": "CoinDesk",
       "title": "Citrini sees a tokenization boom. The harder question is who profits",
@@ -29,13 +43,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 17 Oct 2026 13:29:00 +0000",
       "ts": 1792243740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 13:00:00 GMT",
-      "ts": 1792242000
     },
     {
       "source": "MarketWatch",
@@ -295,13 +302,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/arbitrum-pitches-european-banks-as-wisdomtree-touts-networks-revenue-model-4953687",
       "published": "2026-10-16 10:50:03",
       "ts": 1792147803
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-      "link": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-      "published": "Fri, 16 Oct 2026 10:48:49 +0000",
-      "ts": 1792147729
     },
     {
       "source": "Investing Forex",
