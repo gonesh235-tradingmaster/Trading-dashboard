@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-18T21:21:33.058840Z",
+  "updated": "2026-10-18T23:29:07.959982Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+      "published": "Sun, 18 Oct 2026 23:28:06 +0000",
+      "ts": 1792366086
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 18 Oct 2026 22:58:17 +0000",
+      "ts": 1792364297
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin trapped at $80,500 support, breakdown risk: Live levels",
@@ -25,7 +39,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
       "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
       "published": "Sun, 18 Oct 2026 16:33:00 +0000",
       "ts": 1792341180
@@ -213,13 +227,6 @@
       "ts": 1792260180
     },
     {
-      "source": "CoinDesk",
-      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-      "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
-      "published": "Sat, 17 Oct 2026 17:00:00 +0000",
-      "ts": 1792256400
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
       "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -281,13 +288,6 @@
       "link": "https://www.investing.com/news/forex-news/swiss-finance-minister-warns-steep-european-debt-could-trigger-euro-crisis-4954687",
       "published": "2026-10-16 17:36:26",
       "ts": 1792172186
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 17:30:09 +0000",
-      "ts": 1792171809
     },
     {
       "source": "Investing Forex",
