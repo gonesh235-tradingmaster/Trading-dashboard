@@ -1,7 +1,77 @@
 {
-  "updated": "2026-10-18T13:16:59.391500Z",
+  "updated": "2026-10-18T16:41:49.751409Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+      "published": "Sun, 18 Oct 2026 16:33:00 +0000",
+      "ts": 1792341180
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 16:15:00 GMT",
+      "ts": 1792340100
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+      "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+      "published": "Sun, 18 Oct 2026 16:00:00 +0000",
+      "ts": 1792339200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 16:00:00 GMT",
+      "ts": 1792339200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
+      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 15:15:00 GMT",
+      "ts": 1792336500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 15:00:00 GMT",
+      "ts": 1792335600
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "published": "Sun, 18 Oct 2026 14:00:00 +0000",
+      "ts": 1792332000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
+      "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 14:00:00 GMT",
+      "ts": 1792332000
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 18 Oct 2026 13:54:00 +0000",
+      "ts": 1792331640
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Most Americans polled oppose betting on elections: Reuters",
+      "link": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 18 Oct 2026 13:48:00 +0000",
+      "ts": 1792331280
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
@@ -41,8 +111,8 @@
       "source": "CoinTelegraph",
       "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
       "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 18 Oct 2026 10:43:12 +0000",
-      "ts": 1792320192
+      "published": "Sun, 18 Oct 2026 10:46:00 +0000",
+      "ts": 1792320360
     },
     {
       "source": "CoinTelegraph",
@@ -90,8 +160,8 @@
       "source": "CoinTelegraph",
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
       "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 18 Oct 2026 06:26:53 +0000",
-      "ts": 1792304813
+      "published": "Sun, 18 Oct 2026 06:29:00 +0000",
+      "ts": 1792304940
     },
     {
       "source": "CoinDesk",
@@ -129,13 +199,6 @@
       "ts": 1792262400
     },
     {
-      "source": "MarketWatch",
-      "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
-      "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 18:40:00 GMT",
-      "ts": 1792262400
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Climbs 18% In a Green Day",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
@@ -150,13 +213,6 @@
       "ts": 1792256400
     },
     {
-      "source": "MarketWatch",
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 16:47:00 GMT",
-      "ts": 1792255620
-    },
-    {
       "source": "CoinDesk",
       "title": "Citrini sees a tokenization boom. The harder question is who profits",
       "link": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
@@ -164,53 +220,11 @@
       "ts": 1792249200
     },
     {
-      "source": "CoinDesk",
-      "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
-      "link": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
-      "published": "Sat, 17 Oct 2026 14:00:00 +0000",
-      "ts": 1792245600
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 17 Oct 2026 13:29:00 +0000",
-      "ts": 1792243740
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
       "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 17 Oct 2026 13:01:00 +0000",
       "ts": 1792242060
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-      "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 13:00:00 GMT",
-      "ts": 1792242000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
-      "link": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 12:31:00 GMT",
-      "ts": 1792240260
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
-      "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 12:30:00 GMT",
-      "ts": 1792240200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-      "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-      "published": "Sat, 17 Oct 2026 12:00:00 +0000",
-      "ts": 1792238400
     },
     {
       "source": "CoinTelegraph",
@@ -239,13 +253,6 @@
       "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 17 Oct 2026 07:28:00 +0000",
       "ts": 1792222080
-    },
-    {
-      "source": "CoinDesk",
-      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-      "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-      "published": "Sat, 17 Oct 2026 06:39:48 +0000",
-      "ts": 1792219188
     },
     {
       "source": "Investing Crypto",
@@ -281,13 +288,6 @@
       "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 16 Oct 2026 17:30:09 +0000",
       "ts": 1792171809
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
-      "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 17:21:45 +0000",
-      "ts": 1792171305
     },
     {
       "source": "Investing Forex",
