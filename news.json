@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-18T00:09:12.931770Z",
+  "updated": "2026-10-18T04:32:49.791552Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "published": "Sun, 18 Oct 2026 01:06:35 +0000",
+      "ts": 1792285595
+    },
     {
       "source": "MarketWatch",
       "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
@@ -295,13 +302,6 @@
       "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
       "published": "Fri, 16 Oct 2026 10:54:35 +0000",
       "ts": 1792148075
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-      "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-      "published": "Fri, 16 Oct 2026 10:52:26 +0000",
-      "ts": 1792147946
     },
     {
       "source": "Investing Crypto",
