@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-18T09:06:20.869223Z",
+  "updated": "2026-10-18T13:16:59.391500Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+      "published": "Sun, 18 Oct 2026 13:00:00 +0000",
+      "ts": 1792328400
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "published": "Sun, 18 Oct 2026 13:00:00 +0000",
+      "ts": 1792328400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 13:00:00 GMT",
+      "ts": 1792328400
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+      "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+      "published": "Sun, 18 Oct 2026 12:00:00 +0000",
+      "ts": 1792324800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
+      "link": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 12:00:00 GMT",
+      "ts": 1792324800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 18 Oct 2026 10:43:12 +0000",
+      "ts": 1792320192
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+      "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 18 Oct 2026 09:14:26 +0000",
+      "ts": 1792314866
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Falls 11% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850",
+      "published": "2026-10-18 09:02:59",
+      "ts": 1792314179
+    },
     {
       "source": "Investing Crypto",
       "title": "Ledger crypto wallets compromised in hardware attack linked to $90M theft",
@@ -122,18 +178,18 @@
       "ts": 1792243740
     },
     {
+      "source": "CoinTelegraph",
+      "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+      "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 17 Oct 2026 13:01:00 +0000",
+      "ts": 1792242060
+    },
+    {
       "source": "MarketWatch",
       "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
       "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
       "published": "Sat, 17 Oct 2026 13:00:00 GMT",
       "ts": 1792242000
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
-      "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 17 Oct 2026 12:58:03 +0000",
-      "ts": 1792241883
     },
     {
       "source": "MarketWatch",
@@ -150,13 +206,6 @@
       "ts": 1792240200
     },
     {
-      "source": "MarketWatch",
-      "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
-      "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 12:01:00 GMT",
-      "ts": 1792238460
-    },
-    {
       "source": "CoinDesk",
       "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
       "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
@@ -164,25 +213,18 @@
       "ts": 1792238400
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 12:00:00 GMT",
-      "ts": 1792238400
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
       "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 17 Oct 2026 10:00:07 +0000",
-      "ts": 1792231207
+      "published": "Sat, 17 Oct 2026 10:03:00 +0000",
+      "ts": 1792231380
     },
     {
       "source": "CoinTelegraph",
-      "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "title": "Lagarde says euro-area economy is resilient, digital euro under development",
       "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 17 Oct 2026 08:32:11 +0000",
-      "ts": 1792225931
+      "published": "Sat, 17 Oct 2026 08:45:00 +0000",
+      "ts": 1792226700
     },
     {
       "source": "Investing Forex",
@@ -195,8 +237,8 @@
       "source": "CoinTelegraph",
       "title": "Bitget to discontinue services for some users in one-off exercise",
       "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 17 Oct 2026 07:26:57 +0000",
-      "ts": 1792222017
+      "published": "Sat, 17 Oct 2026 07:28:00 +0000",
+      "ts": 1792222080
     },
     {
       "source": "CoinDesk",
@@ -204,13 +246,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
       "published": "Sat, 17 Oct 2026 06:39:48 +0000",
       "ts": 1792219188
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-      "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-      "published": "Sat, 17 Oct 2026 02:30:00 +0000",
-      "ts": 1792204200
     },
     {
       "source": "Investing Crypto",
@@ -269,27 +304,6 @@
       "ts": 1792166054
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-      "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 15:52:28 +0000",
-      "ts": 1792165948
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 15:45:43 +0000",
-      "ts": 1792165543
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Big Tech's AI auditors will only see what they're shown",
-      "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-      "published": "Fri, 16 Oct 2026 14:58:22 +0000",
-      "ts": 1792162702
-    },
-    {
       "source": "Investing Forex",
       "title": "Indian rupee posts biggest weekly gain in seven months",
       "link": "https://www.investing.com/news/forex-news/indian-rupee-posts-biggest-weekly-gain-in-seven-months-93CH-4954501",
@@ -309,13 +323,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4954029",
       "published": "2026-10-16 12:25:59",
       "ts": 1792153559
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-      "published": "Fri, 16 Oct 2026 11:15:00 +0000",
-      "ts": 1792149300
     },
     {
       "source": "Investing Crypto",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/bofa-forecasts-eurusd-at-115-by-yearend-120-by-end2027-93CH-4953416",
       "published": "2026-10-16 09:02:02",
       "ts": 1792141322
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin ticks up slightly above $82k as U.S. bond rally lifts risk sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-81k-as-hot-us-cpi-spurs-rate-hike-bets-4950559",
-      "published": "2026-10-15 21:43:22",
-      "ts": 1792100602
     }
   ]
 }
