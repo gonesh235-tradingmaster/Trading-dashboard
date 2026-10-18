@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-18T04:32:49.791552Z",
+  "updated": "2026-10-18T09:06:20.869223Z",
   "count": 50,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Ledger crypto wallets compromised in hardware attack linked to $90M theft",
+      "link": "https://www.investing.com/news/cryptocurrency-news/ledger-crypto-wallets-compromised-in-hardware-attack-linked-to-90m-theft-4955797",
+      "published": "2026-10-18 07:18:32",
+      "ts": 1792307912
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+      "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+      "published": "Sun, 18 Oct 2026 07:13:32 +0000",
+      "ts": 1792307612
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin pivots at $81,443 Fib support with resistance near: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-18 07:02:27",
+      "ts": 1792306947
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
+      "published": "2026-10-18 06:30:40",
+      "ts": 1792305040
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 18 Oct 2026 06:26:53 +0000",
+      "ts": 1792304813
+    },
     {
       "source": "CoinDesk",
       "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
@@ -15,13 +50,6 @@
       "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
       "published": "Sat, 17 Oct 2026 20:53:00 GMT",
       "ts": 1792270380
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin coils at 23.6% Fib level near $81,495: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "published": "2026-10-17 19:02:16",
-      "ts": 1792263736
     },
     {
       "source": "Investing Crypto",
@@ -269,13 +297,6 @@
       "ts": 1792162518
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
-      "link": "https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 14:11:03 +0000",
-      "ts": 1792159863
-    },
-    {
       "source": "Investing Crypto",
       "title": "BTCC Exchange Wraps TOKEN2049 Singapore, Taking Its Zero-Barrier Theme From Platform to Show Floor",
       "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-wraps-token2049-singapore-taking-its-zerobarrier-theme-from-platform-to-show-floor-4954260",
@@ -295,13 +316,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
       "published": "Fri, 16 Oct 2026 11:15:00 +0000",
       "ts": 1792149300
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-      "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-      "published": "Fri, 16 Oct 2026 10:54:35 +0000",
-      "ts": 1792148075
     },
     {
       "source": "Investing Crypto",
@@ -337,20 +351,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-81k-as-hot-us-cpi-spurs-rate-hike-bets-4950559",
       "published": "2026-10-15 21:43:22",
       "ts": 1792100602
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "ChangeNOW Announces NOW AI After Resolving Website Integration Vulnerability",
-      "link": "https://www.investing.com/news/cryptocurrency-news/changenow-announces-now-ai-after-resolving-website-integration-vulnerability-4952721",
-      "published": "2026-10-15 21:30:12",
-      "ts": 1792099812
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Pixagram Announces Free Account Creation for 250 New Users Daily Through 2026",
-      "link": "https://www.investing.com/news/cryptocurrency-news/pixagram-announces-free-account-creation-for-250-new-users-daily-through-2026-4952682",
-      "published": "2026-10-15 21:00:13",
-      "ts": 1792098013
     }
   ]
 }
