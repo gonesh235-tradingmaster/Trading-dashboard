@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-19T01:34:24.381355Z",
+  "updated": "2026-10-19T06:51:36.639449Z",
   "count": 50,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rises to near $83k amid some relief from falling oil prices",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-near-83k-amid-some-relief-from-falling-oil-prices-4956420",
+      "published": "2026-10-19 06:27:48",
+      "ts": 1792391268
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+      "published": "Mon, 19 Oct 2026 06:23:16 +0000",
+      "ts": 1792390996
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
+      "link": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 05:55:44 +0000",
+      "ts": 1792389344
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar steady, euro weakens after French protests turn violent",
+      "link": "https://www.investing.com/news/forex-news/dollar-firmer-euro-weakens-as-french-protests-turn-violent-4956196",
+      "published": "2026-10-19 05:48:41",
+      "ts": 1792388921
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 05:48:07 +0000",
+      "ts": 1792388887
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+      "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+      "published": "Mon, 19 Oct 2026 05:23:02 +0000",
+      "ts": 1792387382
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+      "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 05:14:06 +0000",
+      "ts": 1792386846
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger is set to fix its lending code before anyone can use it",
+      "link": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
+      "published": "Mon, 19 Oct 2026 04:54:31 +0000",
+      "ts": 1792385671
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-ticks-higher-yuan-hits-4yr-high-after-china-q3-gdp-beat-4956302",
+      "published": "2026-10-19 04:17:35",
+      "ts": 1792383455
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+      "published": "Mon, 19 Oct 2026 03:36:58 +0000",
+      "ts": 1792381018
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+      "published": "Mon, 19 Oct 2026 02:00:00 +0000",
+      "ts": 1792375200
+    },
     {
       "source": "CoinTelegraph",
       "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
@@ -102,31 +179,10 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 18 Oct 2026 13:54:00 +0000",
-      "ts": 1792331640
-    },
-    {
-      "source": "CoinTelegraph",
       "title": "Most Americans polled oppose betting on elections: Reuters",
       "link": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 18 Oct 2026 13:48:00 +0000",
       "ts": 1792331280
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-      "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-      "published": "Sun, 18 Oct 2026 13:00:00 +0000",
-      "ts": 1792328400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-      "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-      "published": "Sun, 18 Oct 2026 13:00:00 +0000",
-      "ts": 1792328400
     },
     {
       "source": "MarketWatch",
@@ -134,13 +190,6 @@
       "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
       "published": "Sun, 18 Oct 2026 13:00:00 GMT",
       "ts": 1792328400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-      "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
-      "published": "Sun, 18 Oct 2026 12:00:00 +0000",
-      "ts": 1792324800
     },
     {
       "source": "MarketWatch",
@@ -178,13 +227,6 @@
       "ts": 1792307912
     },
     {
-      "source": "CoinDesk",
-      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-      "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
-      "published": "Sun, 18 Oct 2026 07:13:32 +0000",
-      "ts": 1792307612
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
@@ -197,13 +239,6 @@
       "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 18 Oct 2026 06:29:00 +0000",
       "ts": 1792304940
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-      "published": "Sun, 18 Oct 2026 01:06:35 +0000",
-      "ts": 1792285595
     },
     {
       "source": "MarketWatch",
@@ -239,20 +274,6 @@
       "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 17 Oct 2026 13:01:00 +0000",
       "ts": 1792242060
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-      "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 17 Oct 2026 10:03:00 +0000",
-      "ts": 1792231380
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Lagarde says euro-area economy is resilient, digital euro under development",
-      "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 17 Oct 2026 08:45:00 +0000",
-      "ts": 1792226700
     },
     {
       "source": "Investing Forex",
@@ -325,32 +346,11 @@
       "ts": 1792153559
     },
     {
-      "source": "Investing Crypto",
-      "title": "Arbitrum pitches European banks as WisdomTree touts network’s revenue model",
-      "link": "https://www.investing.com/news/cryptocurrency-news/arbitrum-pitches-european-banks-as-wisdomtree-touts-networks-revenue-model-4953687",
-      "published": "2026-10-16 10:50:03",
-      "ts": 1792147803
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound set to snap 7-week losing run as dollar slips on AI fears",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-set-to-snap-7week-losing-run-as-dollar-slips-on-ai-fears-4953534",
       "published": "2026-10-16 09:54:01",
       "ts": 1792144441
-    },
-    {
-      "source": "Investing Forex",
-      "title": "USD/KRW: Goldman Sachs sees Korean won strengthening",
-      "link": "https://www.investing.com/news/forex-news/usdkrw-goldman-sachs-sees-korean-won-strengthening-93CH-4953507",
-      "published": "2026-10-16 09:50:55",
-      "ts": 1792144255
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BofA forecasts EUR/USD at 1.15 by year-end, 1.20 by end-2027",
-      "link": "https://www.investing.com/news/forex-news/bofa-forecasts-eurusd-at-115-by-yearend-120-by-end2027-93CH-4953416",
-      "published": "2026-10-16 09:02:02",
-      "ts": 1792141322
     }
   ]
 }
