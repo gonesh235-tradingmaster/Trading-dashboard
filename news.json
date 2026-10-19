@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-18T23:29:07.959982Z",
+  "updated": "2026-10-19T01:34:24.381355Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+      "link": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 01:03:27 +0000",
+      "ts": 1792371807
+    },
     {
       "source": "CoinDesk",
       "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
@@ -253,13 +260,6 @@
       "link": "https://www.investing.com/news/forex-news/whats-the-likelihood-of-yen-carry-trade-reversing-4955329",
       "published": "2026-10-17 08:18:04",
       "ts": 1792225084
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitget to discontinue services for some users in one-off exercise",
-      "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 17 Oct 2026 07:28:00 +0000",
-      "ts": 1792222080
     },
     {
       "source": "Investing Crypto",
