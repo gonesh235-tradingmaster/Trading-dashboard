@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-19T23:40:57.235040Z",
+  "updated": "2026-10-20T02:06:24.594833Z",
   "count": 50,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 11% In Rally",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-in-rally-4958658",
+      "published": "2026-10-20 01:53:58",
+      "ts": 1792461238
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+      "link": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 01:35:00 +0000",
+      "ts": 1792460100
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin rises 1% as risk sentiment bounces back, though elevated oil caps gains",
@@ -185,13 +199,6 @@
       "ts": 1792427418
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
-      "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 16:05:57 +0000",
-      "ts": 1792425957
-    },
-    {
       "source": "CoinDesk",
       "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
       "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
@@ -309,13 +316,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
       "published": "2026-10-18 06:30:40",
       "ts": 1792305040
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin price holds above $81,000 as ETF outflows weigh on sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253",
-      "published": "2026-10-17 19:00:45",
-      "ts": 1792263645
     },
     {
       "source": "Investing Forex",
