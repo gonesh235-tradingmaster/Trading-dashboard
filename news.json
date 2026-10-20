@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-20T02:06:24.594833Z",
+  "updated": "2026-10-20T07:32:58.423694Z",
   "count": 50,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips below $82,000 as elevated oil prices, Fed outlook weigh",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82000-as-elevated-oil-prices-fed-outlook-weigh-4958968",
+      "published": "2026-10-20 07:07:05",
+      "ts": 1792480025
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 05:39:20 +0000",
+      "ts": 1792474760
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies firm as dollar retreats; yuan hits four-year high",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
+      "published": "2026-10-20 05:14:34",
+      "ts": 1792473274
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+      "link": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 05:14:11 +0000",
+      "ts": 1792473251
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US bans DeepSeek from civilian agency IT systems",
+      "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 04:07:58 +0000",
+      "ts": 1792469278
+    },
     {
       "source": "Investing Crypto",
       "title": "EOS Climbs 11% In Rally",
@@ -171,32 +206,11 @@
       "ts": 1792436603
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Revolut secures Gibraltar crypto license to support global expansion",
-      "link": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 17:24:49 +0000",
-      "ts": 1792430689
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
       "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
       "published": "Mon, 19 Oct 2026 16:47:00 +0000",
       "ts": 1792428420
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal",
-      "link": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 16:41:55 +0000",
-      "ts": 1792428115
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
-      "link": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 16:30:18 +0000",
-      "ts": 1792427418
     },
     {
       "source": "CoinDesk",
@@ -305,13 +319,6 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Ledger crypto wallets compromised in hardware attack linked to $90M theft",
-      "link": "https://www.investing.com/news/cryptocurrency-news/ledger-crypto-wallets-compromised-in-hardware-attack-linked-to-90m-theft-4955797",
-      "published": "2026-10-18 07:18:32",
-      "ts": 1792307912
-    },
-    {
-      "source": "Investing Crypto",
       "title": "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-80k-as-whale-transfers-signal-mixed-outlook-4955806",
       "published": "2026-10-18 06:30:40",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/swiss-finance-minister-warns-steep-european-debt-could-trigger-euro-crisis-4954687",
       "published": "2026-10-16 17:36:26",
       "ts": 1792172186
-    },
-    {
-      "source": "Investing Forex",
-      "title": "CIBC warns of inflation risks as ‘leaky loonie’ faces further slide",
-      "link": "https://www.investing.com/news/forex-news/cibc-warns-of-inflation-risks-as-leaky-loonie-faces-further-slide-4954580",
-      "published": "2026-10-16 15:56:09",
-      "ts": 1792166169
     }
   ]
 }
