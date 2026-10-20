@@ -1,7 +1,105 @@
 {
-  "updated": "2026-10-20T17:54:45.616199Z",
+  "updated": "2026-10-20T21:16:02.299627Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+      "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+      "published": "Tue, 20 Oct 2026 21:12:21 +0000",
+      "ts": 1792530741
+    },
+    {
+      "source": "MarketWatch",
+      "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
+      "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 20:57:00 GMT",
+      "ts": 1792529820
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+      "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 20:54:00 GMT",
+      "ts": 1792529640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+      "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 20:45:00 GMT",
+      "ts": 1792529100
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "link": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 20:38:00 +0000",
+      "ts": 1792528680
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The Social Security Administration corrected millions of records, and says there’s more to fix",
+      "link": "https://www.marketwatch.com/story/the-social-security-administration-corrected-millions-of-records-and-says-theres-more-to-fix-e57185bd?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 20:26:00 GMT",
+      "ts": 1792527960
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+      "link": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 19:59:39 +0000",
+      "ts": 1792526379
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
+      "link": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 19:35:00 GMT",
+      "ts": 1792524900
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin coils near $82,533 support ahead of breakout: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+      "published": "2026-10-20 19:18:02",
+      "ts": 1792523882
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 19:17:40 +0000",
+      "ts": 1792523860
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs data",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
+      "published": "2026-10-20 18:36:06",
+      "ts": 1792521366
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+      "link": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+      "published": "Tue, 20 Oct 2026 18:26:29 +0000",
+      "ts": 1792520789
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s what matters most to Tesla investors heading into earnings",
+      "link": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 18:15:00 GMT",
+      "ts": 1792520100
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Outpoll Expands Beyond Prediction Markets With Crypto Futures Trading",
+      "link": "https://www.investing.com/news/cryptocurrency-news/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading-4960831",
+      "published": "2026-10-20 18:00:11",
+      "ts": 1792519211
+    },
     {
       "source": "CoinTelegraph",
       "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
@@ -59,13 +157,6 @@
       "ts": 1792514293
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 16:25:00 GMT",
-      "ts": 1792513500
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
       "link": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -78,41 +169,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 20 Oct 2026 16:14:09 +0000",
       "ts": 1792512849
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-      "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 15:58:00 GMT",
-      "ts": 1792511880
-    },
-    {
-      "source": "MarketWatch",
-      "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
-      "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 15:54:00 GMT",
-      "ts": 1792511640
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
-      "link": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 15:35:00 GMT",
-      "ts": 1792510500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
-      "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 15:27:00 GMT",
-      "ts": 1792510020
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-      "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 15:17:00 GMT",
-      "ts": 1792509420
     },
     {
       "source": "CoinDesk",
@@ -157,13 +213,6 @@
       "ts": 1792501800
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 12:50:13 +0000",
-      "ts": 1792500613
-    },
-    {
       "source": "CoinDesk",
       "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
       "link": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
@@ -171,25 +220,11 @@
       "ts": 1792500017
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-      "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 12:38:28 +0000",
-      "ts": 1792499908
-    },
-    {
       "source": "Investing Crypto",
       "title": "Armitage, Wintermute’s onchain curation arm, selects Railnet for vault infrastructure",
       "link": "https://www.investing.com/news/cryptocurrency-news/armitage-wintermutes-onchain-curation-arm-selects-railnet-for-vault-infrastructure-4960006",
       "published": "2026-10-20 12:30:17",
       "ts": 1792499417
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-      "link": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 12:30:00 +0000",
-      "ts": 1792499400
     },
     {
       "source": "Investing Forex",
@@ -227,32 +262,11 @@
       "ts": 1792491775
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin cuts losses as stocks edge higher",
-      "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
-      "published": "Tue, 20 Oct 2026 10:14:19 +0000",
-      "ts": 1792491259
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitget to buy GMO’s Thai crypto exchange in Southeast Asia push",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitget-to-buy-gmos-thai-crypto-exchange-in-southeast-asia-push-4959340",
       "published": "2026-10-20 09:55:13",
       "ts": 1792490113
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar surrenders gains as record Japanese bond auction sparks Yen rally",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
-      "published": "2026-10-20 09:48:03",
-      "ts": 1792489683
-    },
-    {
-      "source": "CoinDesk",
-      "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
-      "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
-      "published": "Tue, 20 Oct 2026 09:32:24 +0000",
-      "ts": 1792488744
     },
     {
       "source": "Investing Forex",
@@ -298,13 +312,6 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin bull flag coils at $81,908: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-      "published": "2026-10-19 19:18:28",
-      "ts": 1792437508
-    },
-    {
-      "source": "Investing Crypto",
       "title": "Strategy buys bitcoin and repurchases preferred shares in weekly update",
       "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-bitcoin-and-repurchases-preferred-shares-in-weekly-update-432SI-4957291",
       "published": "2026-10-19 12:14:02",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/stakerxs-ai-agent-surpasses-passes-40m-staked-assets-on-solana-within-three-months-of-launch-4956865",
       "published": "2026-10-19 10:30:10",
       "ts": 1792405810
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Falls 12% In Selloff",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-12-in-selloff-4956724",
-      "published": "2026-10-19 09:04:01",
-      "ts": 1792400641
     },
     {
       "source": "Investing Forex",
