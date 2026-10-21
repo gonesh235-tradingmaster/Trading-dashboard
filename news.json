@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-21T00:01:12.360508Z",
+  "updated": "2026-10-21T04:45:17.542066Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+      "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+      "published": "Wed, 21 Oct 2026 04:35:52 +0000",
+      "ts": 1792557352
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+      "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+      "published": "Wed, 21 Oct 2026 04:11:58 +0000",
+      "ts": 1792555918
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+      "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+      "published": "Wed, 21 Oct 2026 04:07:07 +0000",
+      "ts": 1792555627
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
+      "link": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 01:19:14 +0000",
+      "ts": 1792545554
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+      "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+      "published": "Wed, 21 Oct 2026 00:24:00 GMT",
+      "ts": 1792542240
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+      "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+      "published": "Wed, 21 Oct 2026 00:15:00 GMT",
+      "ts": 1792541700
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+      "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+      "published": "Wed, 21 Oct 2026 00:14:00 GMT",
+      "ts": 1792541640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+      "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+      "published": "Wed, 21 Oct 2026 00:12:00 GMT",
+      "ts": 1792541520
+    },
     {
       "source": "CoinTelegraph",
       "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
@@ -25,29 +81,8 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
-      "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 22:37:00 GMT",
-      "ts": 1792535820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-      "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 22:33:00 GMT",
-      "ts": 1792535580
-    },
-    {
-      "source": "MarketWatch",
       "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
       "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 22:30:00 GMT",
-      "ts": 1792535400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-      "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
       "published": "Tue, 20 Oct 2026 22:30:00 GMT",
       "ts": 1792535400
     },
@@ -92,13 +127,6 @@
       "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
       "published": "Tue, 20 Oct 2026 20:57:00 GMT",
       "ts": 1792529820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-      "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 20:45:00 GMT",
-      "ts": 1792529100
     },
     {
       "source": "CoinTelegraph",
@@ -185,13 +213,6 @@
       "ts": 1792513397
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 16:14:09 +0000",
-      "ts": 1792512849
-    },
-    {
       "source": "CoinDesk",
       "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
       "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
@@ -239,27 +260,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
       "published": "Tue, 20 Oct 2026 11:25:00 +0000",
       "ts": 1792495500
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
-      "published": "Tue, 20 Oct 2026 11:14:21 +0000",
-      "ts": 1792494861
-    },
-    {
-      "source": "CoinDesk",
-      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
-      "published": "Tue, 20 Oct 2026 11:10:40 +0000",
-      "ts": 1792494640
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
-      "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-      "published": "Tue, 20 Oct 2026 10:22:55 +0000",
-      "ts": 1792491775
     },
     {
       "source": "Investing Crypto",
