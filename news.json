@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-20T21:16:02.299627Z",
+  "updated": "2026-10-21T00:01:12.360508Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 23:26:02 +0000",
+      "ts": 1792538762
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+      "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 23:10:00 GMT",
+      "ts": 1792537800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 22:45:00 GMT",
+      "ts": 1792536300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+      "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 22:37:00 GMT",
+      "ts": 1792535820
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+      "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 22:33:00 GMT",
+      "ts": 1792535580
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 22:30:00 GMT",
+      "ts": 1792535400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+      "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 22:30:00 GMT",
+      "ts": 1792535400
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin climbs above $83k as risk sentiment improves, oil prices dip slightly",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82000-as-elevated-oil-prices-fed-outlook-weigh-4958968",
+      "published": "2026-10-20 22:27:32",
+      "ts": 1792535252
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 22:27:00 GMT",
+      "ts": 1792535220
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
+      "link": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
+      "published": "Tue, 20 Oct 2026 21:47:00 GMT",
+      "ts": 1792532820
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+      "link": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 21:19:15 +0000",
+      "ts": 1792531155
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
@@ -18,13 +95,6 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-      "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 20:54:00 GMT",
-      "ts": 1792529640
-    },
-    {
-      "source": "MarketWatch",
       "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
       "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
       "published": "Tue, 20 Oct 2026 20:45:00 GMT",
@@ -38,25 +108,11 @@
       "ts": 1792528680
     },
     {
-      "source": "MarketWatch",
-      "title": "The Social Security Administration corrected millions of records, and says there’s more to fix",
-      "link": "https://www.marketwatch.com/story/the-social-security-administration-corrected-millions-of-records-and-says-theres-more-to-fix-e57185bd?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 20:26:00 GMT",
-      "ts": 1792527960
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
       "link": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 20 Oct 2026 19:59:39 +0000",
       "ts": 1792526379
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
-      "link": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 19:35:00 GMT",
-      "ts": 1792524900
     },
     {
       "source": "Investing Crypto",
@@ -87,13 +143,6 @@
       "ts": 1792520789
     },
     {
-      "source": "MarketWatch",
-      "title": "Here’s what matters most to Tesla investors heading into earnings",
-      "link": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 18:15:00 GMT",
-      "ts": 1792520100
-    },
-    {
       "source": "Investing Crypto",
       "title": "Outpoll Expands Beyond Prediction Markets With Crypto Futures Trading",
       "link": "https://www.investing.com/news/cryptocurrency-news/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading-4960831",
@@ -108,39 +157,11 @@
       "ts": 1792518000
     },
     {
-      "source": "MarketWatch",
-      "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
-      "link": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 17:38:00 GMT",
-      "ts": 1792517880
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 17:15:00 GMT",
-      "ts": 1792516500
-    },
-    {
       "source": "CoinDesk",
       "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
       "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
       "published": "Tue, 20 Oct 2026 17:02:31 +0000",
       "ts": 1792515751
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
-      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 17:00:00 GMT",
-      "ts": 1792515600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
-      "link": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
-      "published": "Tue, 20 Oct 2026 16:55:00 GMT",
-      "ts": 1792515300
     },
     {
       "source": "CoinTelegraph",
@@ -178,13 +199,6 @@
       "ts": 1792506519
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slides below $82,000 as elevated oil prices, Fed outlook weigh",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82000-as-elevated-oil-prices-fed-outlook-weigh-4958968",
-      "published": "2026-10-20 13:38:23",
-      "ts": 1792503503
-    },
-    {
       "source": "CoinDesk",
       "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
       "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
@@ -197,20 +211,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/grvt-burns-11-million-tokens-as-countdown-to-grvt-20-begins-4960295",
       "published": "2026-10-20 13:30:11",
       "ts": 1792503011
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Agents can trade 24/7 — but Yat Siu warns you could lose access at any time",
-      "link": "https://cointelegraph.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 13:30:00 +0000",
-      "ts": 1792503000
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-      "link": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 13:10:00 +0000",
-      "ts": 1792501800
     },
     {
       "source": "CoinDesk",
