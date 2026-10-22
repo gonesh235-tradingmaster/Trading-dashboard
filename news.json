@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-21T22:20:18.178372Z",
+  "updated": "2026-10-22T00:47:12.044898Z",
   "count": 50,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+      "published": "Wed, 21 Oct 2026 23:29:00 GMT",
+      "ts": 1792625340
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "published": "Wed, 21 Oct 2026 23:07:00 GMT",
+      "ts": 1792624020
+    },
     {
       "source": "CoinTelegraph",
       "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
@@ -94,25 +108,11 @@
       "ts": 1792613700
     },
     {
-      "source": "MarketWatch",
-      "title": "SpaceX’s massive AI targets will test the limits of reality",
-      "link": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 20:15:00 GMT",
-      "ts": 1792613700
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 21 Oct 2026 20:10:47 +0000",
       "ts": 1792613447
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 20:01:00 GMT",
-      "ts": 1792612860
     },
     {
       "source": "Investing Crypto",
