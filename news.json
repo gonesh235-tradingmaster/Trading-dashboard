@@ -1,13 +1,97 @@
 {
-  "updated": "2026-10-22T19:44:24.479250Z",
+  "updated": "2026-10-22T22:47:04.531042Z",
   "count": 50,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+      "published": "Thu, 22 Oct 2026 22:43:36 +0000",
+      "ts": 1792709016
+    },
+    {
       "source": "MarketWatch",
-      "title": "Moderna’s cancer vaccine hits its targets, but an embargo breach rattles investors and the stock tumbles",
+      "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
+      "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 22:17:00 GMT",
+      "ts": 1792707420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
+      "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 22:07:00 GMT",
+      "ts": 1792706820
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin dives 4%, slides below $82k as AI rout, oil surge slams risk sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-to-82k-as-ai-selldown-rising-oil-batter-risk-4964695",
+      "published": "2026-10-22 21:41:46",
+      "ts": 1792705306
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+      "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 21:39:18 +0000",
+      "ts": 1792705158
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
+      "link": "https://www.investing.com/news/forex-news/french-yields-breach-5-amid-paris-budget-paralysis-and-nationwide-unrest-4964673",
+      "published": "2026-10-22 21:35:49",
+      "ts": 1792704949
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Americans are having fewer babies — and pampering them with luxury diapers",
+      "link": "https://www.marketwatch.com/story/americans-are-having-fewer-babies-and-pampering-them-with-luxury-diapers-a84222cd?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 21:28:00 GMT",
+      "ts": 1792704480
+    },
+    {
+      "source": "MarketWatch",
+      "title": "3 big reasons Micron and other chip stocks fell hard on Thursday",
+      "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 21:19:00 GMT",
+      "ts": 1792703940
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar slips while yen jumps to five-week high as traders flock to safe havens",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-near-3wk-low-as-traders-eye-central-bank-meetings-4964617",
+      "published": "2026-10-22 20:53:36",
+      "ts": 1792702416
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+      "link": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 20:46:00 GMT",
+      "ts": 1792701960
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
+      "link": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 20:36:00 +0000",
+      "ts": 1792701360
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled",
       "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 19:31:00 GMT",
-      "ts": 1792697460
+      "published": "Thu, 22 Oct 2026 20:14:00 GMT",
+      "ts": 1792700040
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 20:09:59 +0000",
+      "ts": 1792699799
     },
     {
       "source": "Investing Forex",
@@ -25,7 +109,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is getting a wedding band from Quince a bad idea? ‘It’s a third of the price.’",
+      "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
       "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
       "published": "Thu, 22 Oct 2026 19:25:00 GMT",
       "ts": 1792697100
@@ -73,13 +157,6 @@
       "ts": 1792689660
     },
     {
-      "source": "MarketWatch",
-      "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
-      "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 17:16:00 GMT",
-      "ts": 1792689360
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
       "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -91,20 +168,6 @@
       "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
       "link": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 22 Oct 2026 16:48:00 +0000",
-      "ts": 1792687680
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
-      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 16:48:00 GMT",
-      "ts": 1792687680
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Zuckerberg’s California tax move is a win for Meta — and for him",
-      "link": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 16:48:00 GMT",
       "ts": 1792687680
     },
     {
@@ -122,25 +185,11 @@
       "ts": 1792683625
     },
     {
-      "source": "MarketWatch",
-      "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
-      "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 15:33:00 GMT",
-      "ts": 1792683180
-    },
-    {
       "source": "Investing Crypto",
       "title": "Uniswap v4 Is Now an Aggregator: Uniswap Labs Launches Aggregator Hooks",
       "link": "https://www.investing.com/news/cryptocurrency-news/uniswap-v4-is-now-an-aggregator-uniswap-labs-launches-aggregator-hooks-4966916",
       "published": "2026-10-22 15:30:11",
       "ts": 1792683011
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
-      "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 15:10:00 GMT",
-      "ts": 1792681800
     },
     {
       "source": "CoinDesk",
@@ -164,13 +213,6 @@
       "ts": 1792679832
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin drops back below $82k as AI selldown, rising oil batter risk",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-to-82k-as-ai-selldown-rising-oil-batter-risk-4964695",
-      "published": "2026-10-22 14:15:59",
-      "ts": 1792678559
-    },
-    {
       "source": "CoinTelegraph",
       "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
       "link": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -183,27 +225,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/square-tech-and-goat-network-sign-mou-to-advance-ai-agentpowered-stablecoin-payments-in-south-korea-4966409",
       "published": "2026-10-22 13:30:11",
       "ts": 1792675811
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 13:22:57 +0000",
-      "ts": 1792675377
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
-      "link": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 13:20:57 +0000",
-      "ts": 1792675257
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
-      "link": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 13:13:45 +0000",
-      "ts": 1792674825
     },
     {
       "source": "CoinDesk",
@@ -225,13 +246,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
       "published": "Thu, 22 Oct 2026 12:14:29 +0000",
       "ts": 1792671269
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury yields drop to 1-month lows on safe-haven flows",
-      "link": "https://www.investing.com/news/forex-news/french-yields-breach-5-amid-paris-budget-paralysis-and-nationwide-unrest-4964673",
-      "published": "2026-10-22 11:50:49",
-      "ts": 1792669849
     },
     {
       "source": "CoinDesk",
@@ -262,25 +276,11 @@
       "ts": 1792664308
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
-      "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-      "published": "Thu, 22 Oct 2026 09:54:26 +0000",
-      "ts": 1792662866
-    },
-    {
       "source": "Investing Forex",
       "title": "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
       "link": "https://www.investing.com/news/forex-news/pound-edges-higher-outperforming-as-investor-nerves-rattle-euro-zone-markets-4965186",
       "published": "2026-10-22 09:48:32",
       "ts": 1792662512
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Yen surges to 3-week high as dollar wobbles ahead of c.bank meetings",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-near-3wk-low-as-traders-eye-central-bank-meetings-4964617",
-      "published": "2026-10-22 09:43:40",
-      "ts": 1792662220
     },
     {
       "source": "Investing Forex",
