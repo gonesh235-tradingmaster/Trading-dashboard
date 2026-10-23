@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-23T01:12:32.717676Z",
+  "updated": "2026-10-23T06:03:14.757625Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 05:15:14 +0000",
+      "ts": 1792732514
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 05:09:41 +0000",
+      "ts": 1792732181
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+      "link": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+      "published": "Fri, 23 Oct 2026 05:01:19 +0000",
+      "ts": 1792731679
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+      "published": "Fri, 23 Oct 2026 04:59:34 +0000",
+      "ts": 1792731574
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral",
+      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
+      "published": "2026-10-23 04:50:16",
+      "ts": 1792731016
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+      "published": "Fri, 23 Oct 2026 04:36:51 +0000",
+      "ts": 1792730211
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+      "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 04:34:14 +0000",
+      "ts": 1792730054
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX steadies as oil surge weighs on risk appetite, yen holds gains",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-steadies-as-oil-surge-weighs-on-risk-appetite-yen-holds-gains-4967999",
+      "published": "2026-10-23 03:59:55",
+      "ts": 1792727995
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+      "published": "Fri, 23 Oct 2026 03:13:01 +0000",
+      "ts": 1792725181
+    },
     {
       "source": "CoinTelegraph",
       "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
@@ -129,13 +192,6 @@
       "ts": 1792700040
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 20:09:59 +0000",
-      "ts": 1792699799
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-strengthens-as-oil-prices-boc-rate-hike-bets-support-loonie-4967236",
@@ -176,20 +232,6 @@
       "link": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 22 Oct 2026 17:24:49 +0000",
       "ts": 1792689889
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-      "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 16:50:51 +0000",
-      "ts": 1792687851
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
-      "link": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 16:48:00 +0000",
-      "ts": 1792687680
     },
     {
       "source": "CoinDesk",
@@ -241,39 +283,11 @@
       "ts": 1792672210
     },
     {
-      "source": "CoinDesk",
-      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-      "published": "Thu, 22 Oct 2026 12:14:29 +0000",
-      "ts": 1792671269
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
-      "published": "Thu, 22 Oct 2026 11:20:04 +0000",
-      "ts": 1792668004
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
-      "published": "Thu, 22 Oct 2026 10:50:04 +0000",
-      "ts": 1792666204
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bybit KZ and Alatau City Authority sign MoC on tokenization, digital asset payments, cross-border remittances",
       "link": "https://www.investing.com/news/cryptocurrency-news/bybit-kz-and-alatau-city-authority-sign-moc-on-tokenization-digital-asset-payments-crossborder-remittances-4965324",
       "published": "2026-10-22 10:30:07",
       "ts": 1792665007
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-      "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
-      "published": "Thu, 22 Oct 2026 10:18:28 +0000",
-      "ts": 1792664308
     },
     {
       "source": "Investing Forex",
@@ -337,20 +351,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82000-as-elevated-oil-prices-fed-outlook-weigh-4958968",
       "published": "2026-10-20 22:27:32",
       "ts": 1792535252
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs data",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
-      "published": "2026-10-20 18:36:06",
-      "ts": 1792521366
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Outpoll Expands Beyond Prediction Markets With Crypto Futures Trading",
-      "link": "https://www.investing.com/news/cryptocurrency-news/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading-4960831",
-      "published": "2026-10-20 18:00:11",
-      "ts": 1792519211
     }
   ]
 }
