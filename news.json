@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-22T22:47:04.531042Z",
+  "updated": "2026-10-23T01:12:32.717676Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 00:59:35 +0000",
+      "ts": 1792717175
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Pentagon bans US forces from using military info to bet in prediction markets",
+      "link": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 23:50:42 +0000",
+      "ts": 1792713042
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 23:15:00 GMT",
+      "ts": 1792710900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 23:00:00 GMT",
+      "ts": 1792710000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
+      "link": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 22:54:00 GMT",
+      "ts": 1792709640
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+      "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 22:50:22 +0000",
+      "ts": 1792709422
+    },
     {
       "source": "CoinDesk",
       "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
@@ -129,32 +171,11 @@
       "ts": 1792693857
     },
     {
-      "source": "MarketWatch",
-      "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-      "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 17:29:00 GMT",
-      "ts": 1792690140
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
       "link": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 22 Oct 2026 17:24:49 +0000",
       "ts": 1792689889
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 17:24:00 GMT",
-      "ts": 1792689840
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
-      "link": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 17:21:00 GMT",
-      "ts": 1792689660
     },
     {
       "source": "CoinTelegraph",
@@ -169,13 +190,6 @@
       "link": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 22 Oct 2026 16:48:00 +0000",
       "ts": 1792687680
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
-      "link": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 16:20:35 +0000",
-      "ts": 1792686035
     },
     {
       "source": "CoinDesk",
@@ -199,25 +213,11 @@
       "ts": 1792681111
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-      "link": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 14:41:00 +0000",
-      "ts": 1792680060
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
       "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
       "published": "Thu, 22 Oct 2026 14:37:12 +0000",
       "ts": 1792679832
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
-      "link": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 13:42:34 +0000",
-      "ts": 1792676554
     },
     {
       "source": "Investing Crypto",
