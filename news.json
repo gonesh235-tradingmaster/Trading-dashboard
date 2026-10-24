@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-24T17:36:14.285482Z",
+  "updated": "2026-10-24T19:48:41.710636Z",
   "count": 50,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "published": "Sat, 24 Oct 2026 19:45:00 GMT",
+      "ts": 1792871100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
+      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+      "published": "Sat, 24 Oct 2026 18:45:00 GMT",
+      "ts": 1792867500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
+      "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
+      "published": "Sat, 24 Oct 2026 18:03:00 GMT",
+      "ts": 1792864980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+      "published": "Sat, 24 Oct 2026 17:39:00 GMT",
+      "ts": 1792863540
+    },
     {
       "source": "MarketWatch",
       "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
@@ -52,13 +80,6 @@
       "ts": 1792857600
     },
     {
-      "source": "MarketWatch",
-      "title": "Money-saving habits to cope with higher prices — from our readers",
-      "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
-      "published": "Sat, 24 Oct 2026 15:27:00 GMT",
-      "ts": 1792855620
-    },
-    {
       "source": "CoinDesk",
       "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
       "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
@@ -73,13 +94,6 @@
       "ts": 1792854684
     },
     {
-      "source": "MarketWatch",
-      "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
-      "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-      "published": "Sat, 24 Oct 2026 15:10:00 GMT",
-      "ts": 1792854600
-    },
-    {
       "source": "CoinDesk",
       "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
       "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
@@ -87,25 +101,11 @@
       "ts": 1792854000
     },
     {
-      "source": "MarketWatch",
-      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-      "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
-      "published": "Sat, 24 Oct 2026 14:40:00 GMT",
-      "ts": 1792852800
-    },
-    {
       "source": "CoinDesk",
       "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
       "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
       "published": "Sat, 24 Oct 2026 14:38:47 +0000",
       "ts": 1792852727
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
-      "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
-      "published": "Sat, 24 Oct 2026 14:24:00 GMT",
-      "ts": 1792851840
     },
     {
       "source": "CoinDesk",
@@ -117,7 +117,7 @@
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "link": "https://www.coindesk.com/",
+      "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
       "published": "Sat, 24 Oct 2026 14:00:00 +0000",
       "ts": 1792850400
     },
