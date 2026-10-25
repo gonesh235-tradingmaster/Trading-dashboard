@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-25T05:04:32.931717Z",
+  "updated": "2026-10-25T09:48:20.014426Z",
   "count": 50,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin tests $80K support in descending triangle: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+      "published": "2026-10-25 07:02:00",
+      "ts": 1792911720
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
+      "published": "2026-10-25 04:54:18",
+      "ts": 1792904058
+    },
     {
       "source": "MarketWatch",
       "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
@@ -127,13 +141,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
       "published": "Sat, 24 Oct 2026 12:00:00 +0000",
       "ts": 1792843200
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin range-bound $80.5K-$85K, bears in control: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-      "published": "2026-10-24 07:01:47",
-      "ts": 1792825307
     },
     {
       "source": "Investing Crypto",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/pound-edges-higher-outperforming-as-investor-nerves-rattle-euro-zone-markets-4965186",
       "published": "2026-10-22 09:48:32",
       "ts": 1792662512
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin gains more than 2% to $84.8k as risk sentiment prevails",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-82k-but-oil-ai-jitters-limit-upside-4961711",
-      "published": "2026-10-21 21:46:19",
-      "ts": 1792619179
     }
   ]
 }
