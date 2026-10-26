@@ -1,13 +1,146 @@
 {
-  "updated": "2026-10-26T17:33:32.542370Z",
+  "updated": "2026-10-26T21:52:36.513010Z",
   "count": 50,
   "items": [
     {
+      "source": "Investing Forex",
+      "title": "Dollar rebounds as euro slips ahead of key central bank decisions",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
+      "published": "2026-10-26 21:46:00",
+      "ts": 1793051160
+    },
+    {
       "source": "MarketWatch",
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 17:19:00 GMT",
-      "ts": 1793035140
+      "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
+      "link": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 21:46:00 GMT",
+      "ts": 1793051160
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar steadies after seven-day rally ahead of rate decisions",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-steadies-after-sevenday-rally-ahead-of-rate-decisions-4973829",
+      "published": "2026-10-26 21:44:08",
+      "ts": 1793051048
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 21:44:00 GMT",
+      "ts": 1793051040
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin little-changed at $80.4k as oil, rate jitters dent crypto appetite",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-at-802k-as-oil-rate-jitters-dent-crypto-appetite-4971458",
+      "published": "2026-10-26 21:38:41",
+      "ts": 1793050721
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
+      "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 21:38:30 +0000",
+      "ts": 1793050710
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+      "link": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 21:23:32 +0000",
+      "ts": 1793049812
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
+      "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 21:04:00 GMT",
+      "ts": 1793048640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "With the Anthropic IPO, the devil is in the details",
+      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 20:50:00 GMT",
+      "ts": 1793047800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 20:15:00 GMT",
+      "ts": 1793045700
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Sorry investors, but there’s no such thing as an early ‘Santa Claus rally.’ Here’s when the real gains typically happen.",
+      "link": "https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 20:09:00 GMT",
+      "ts": 1793045340
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 20:00:00 GMT",
+      "ts": 1793044800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+      "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 19:47:40 +0000",
+      "ts": 1793044060
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The house, the kids’ college and the raise: Where people in their 30s and 40s go wrong",
+      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 19:42:00 GMT",
+      "ts": 1793043720
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 19:30:00 GMT",
+      "ts": 1793043000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 19:30:00 GMT",
+      "ts": 1793043000
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin nears oversold as descending triangle forms: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
+      "published": "2026-10-26 19:18:44",
+      "ts": 1793042324
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "AI company Anthropic announces IPO, expected as early as November",
+      "link": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 18:42:41 +0000",
+      "ts": 1793040161
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Alpha Growth Outlines Institutional Blueprint to Attract and Retain Sustainable DeFi TVL",
+      "link": "https://www.investing.com/news/cryptocurrency-news/alpha-growth-outlines-institutional-blueprint-to-attract-and-retain-sustainable-defi-tvl-4973419",
+      "published": "2026-10-26 18:30:15",
+      "ts": 1793039415
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+      "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 17:46:09 +0000",
+      "ts": 1793036769
     },
     {
       "source": "Investing Crypto",
@@ -17,20 +150,6 @@
       "ts": 1793034013
     },
     {
-      "source": "MarketWatch",
-      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 16:30:00 GMT",
-      "ts": 1793032200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 16:30:00 GMT",
-      "ts": 1793032200
-    },
-    {
       "source": "CoinTelegraph",
       "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
       "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -38,39 +157,11 @@
       "ts": 1793031489
     },
     {
-      "source": "MarketWatch",
-      "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 16:15:00 GMT",
-      "ts": 1793031300
-    },
-    {
       "source": "CoinDesk",
       "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
       "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
       "published": "Mon, 26 Oct 2026 16:05:12 +0000",
       "ts": 1793030712
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.",
-      "link": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 16:05:00 GMT",
-      "ts": 1793030700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
-      "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 16:01:00 GMT",
-      "ts": 1793030460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 16:00:00 GMT",
-      "ts": 1793030400
     },
     {
       "source": "CoinDesk",
@@ -92,41 +183,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
       "published": "Mon, 26 Oct 2026 15:45:51 +0000",
       "ts": 1793029551
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 15:31:00 GMT",
-      "ts": 1793028660
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
-      "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 15:15:00 GMT",
-      "ts": 1793027700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
-      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 15:07:00 GMT",
-      "ts": 1793027220
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin little-changed at $80.4k as oil, rate jitters dent crypto appetite",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-at-802k-as-oil-rate-jitters-dent-crypto-appetite-4971458",
-      "published": "2026-10-26 15:03:11",
-      "ts": 1793026991
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar rebounds as euro slips ahead of key central bank decisions",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
-      "published": "2026-10-26 15:01:16",
-      "ts": 1793026876
     },
     {
       "source": "CoinDesk",
@@ -178,13 +234,6 @@
       "ts": 1793020929
     },
     {
-      "source": "CoinTelegraph",
-      "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-      "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 13:12:41 +0000",
-      "ts": 1793020361
-    },
-    {
       "source": "Investing Crypto",
       "title": "Strategy pauses bitcoin purchases, repurchases $204.9M in STRC stock",
       "link": "https://www.investing.com/news/cryptocurrency-news/strategy-pauses-bitcoin-purchases-repurchases-2049m-in-strc-stock-432SI-4972704",
@@ -213,13 +262,6 @@
       "ts": 1793015587
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-      "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 11:39:27 +0000",
-      "ts": 1793014767
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
       "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
@@ -228,17 +270,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live news: Bitcoin sits near $80,000 as tech rallies following Anthropic IPO filing",
+      "title": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
       "link": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
       "published": "Mon, 26 Oct 2026 11:05:31 +0000",
       "ts": 1793012731
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 10:49:55 +0000",
-      "ts": 1793011795
     },
     {
       "source": "CoinDesk",
@@ -248,32 +283,11 @@
       "ts": 1793010780
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Securitize’s tokenized stock value halves as Circle widens lead",
-      "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 10:25:01 +0000",
-      "ts": 1793010301
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as dollar holds firm ahead of Fed decision",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-holds-firm-ahead-of-fed-decision-4971754",
       "published": "2026-10-26 09:38:08",
       "ts": 1793007488
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 08:20:49 +0000",
-      "ts": 1793002849
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin breaks below key MAs amid distribution: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
-      "published": "2026-10-26 07:11:17",
-      "ts": 1792998677
     },
     {
       "source": "Investing Crypto",
@@ -337,20 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-riskoff-selloff-weighs-on-currencies-4968555",
       "published": "2026-10-23 09:27:16",
       "ts": 1792747636
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BofA sees Norwegian krone weakening against Swedish krona",
-      "link": "https://www.investing.com/news/forex-news/bofa-sees-norwegian-krone-weakening-against-swedish-krona-93CH-4968513",
-      "published": "2026-10-23 09:11:24",
-      "ts": 1792746684
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral",
-      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
-      "published": "2026-10-23 04:50:16",
-      "ts": 1792731016
     }
   ]
 }
