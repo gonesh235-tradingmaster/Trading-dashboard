@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-26T00:32:57.397525Z",
+  "updated": "2026-10-26T05:19:18.594240Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+      "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+      "published": "Mon, 26 Oct 2026 05:15:20 +0000",
+      "ts": 1792991720
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
+      "link": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 05:13:33 +0000",
+      "ts": 1792991613
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX muted, yuan at 4-yr high; dollar drifts lower ahead of c.bank-packed week",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
+      "published": "2026-10-26 04:43:36",
+      "ts": 1792989816
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+      "published": "Mon, 26 Oct 2026 04:37:02 +0000",
+      "ts": 1792989422
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 03:21:26 +0000",
+      "ts": 1792984886
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+      "link": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+      "published": "Mon, 26 Oct 2026 03:11:39 +0000",
+      "ts": 1792984299
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+      "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 02:24:04 +0000",
+      "ts": 1792981444
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 01:50:00 GMT",
+      "ts": 1792979400
+    },
     {
       "source": "CoinTelegraph",
       "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
@@ -108,13 +164,6 @@
       "ts": 1792933200
     },
     {
-      "source": "MarketWatch",
-      "title": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
-      "link": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
-      "published": "Sun, 25 Oct 2026 13:00:00 GMT",
-      "ts": 1792933200
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
       "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -164,27 +213,6 @@
       "ts": 1792852727
     },
     {
-      "source": "CoinDesk",
-      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
-      "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
-      "published": "Sat, 24 Oct 2026 14:06:24 +0000",
-      "ts": 1792850784
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
-      "published": "Sat, 24 Oct 2026 14:00:00 +0000",
-      "ts": 1792850400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
-      "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
-      "published": "Sat, 24 Oct 2026 12:00:00 +0000",
-      "ts": 1792843200
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613",
@@ -218,27 +246,6 @@
       "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 23 Oct 2026 18:39:02 +0000",
       "ts": 1792780742
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
-      "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 17:42:12 +0000",
-      "ts": 1792777332
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
-      "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 16:08:40 +0000",
-      "ts": 1792771720
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
-      "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 15:39:17 +0000",
-      "ts": 1792769957
     },
     {
       "source": "Investing Crypto",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bybit-kz-and-alatau-city-authority-sign-moc-on-tokenization-digital-asset-payments-crossborder-remittances-4965324",
       "published": "2026-10-22 10:30:07",
       "ts": 1792665007
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
-      "link": "https://www.investing.com/news/forex-news/pound-edges-higher-outperforming-as-investor-nerves-rattle-euro-zone-markets-4965186",
-      "published": "2026-10-22 09:48:32",
-      "ts": 1792662512
     }
   ]
 }
