@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-27T01:08:32.724908Z",
+  "updated": "2026-10-27T06:16:10.265267Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+      "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+      "published": "Tue, 27 Oct 2026 06:14:41 +0000",
+      "ts": 1793081681
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+      "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+      "published": "Tue, 27 Oct 2026 04:28:49 +0000",
+      "ts": 1793075329
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+      "link": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 04:26:51 +0000",
+      "ts": 1793075211
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "published": "Tue, 27 Oct 2026 04:01:00 GMT",
+      "ts": 1793073660
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds firm, yen retreats ahead of Fed decision",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116",
+      "published": "2026-10-27 03:28:39",
+      "ts": 1793071719
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 01:55:03 +0000",
+      "ts": 1793066103
+    },
     {
       "source": "CoinTelegraph",
       "title": "Ripple wins final US approval for national trust bank",
@@ -108,13 +150,6 @@
       "ts": 1793047800
     },
     {
-      "source": "MarketWatch",
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 20:15:00 GMT",
-      "ts": 1793045700
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
       "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -199,13 +234,6 @@
       "ts": 1793026267
     },
     {
-      "source": "CoinTelegraph",
-      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
-      "link": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 14:25:22 +0000",
-      "ts": 1793024722
-    },
-    {
       "source": "CoinDesk",
       "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
       "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
@@ -218,13 +246,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/casper-forward-welcomes-first-cohort-of-28-builders-to-advance-mainnet-development-4972870",
       "published": "2026-10-26 13:30:08",
       "ts": 1793021408
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 13:27:38 +0000",
-      "ts": 1793021258
     },
     {
       "source": "CoinDesk",
@@ -267,20 +288,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
       "published": "Mon, 26 Oct 2026 11:24:33 +0000",
       "ts": 1793013873
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
-      "link": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
-      "published": "Mon, 26 Oct 2026 11:05:31 +0000",
-      "ts": 1793012731
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
-      "link": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
-      "published": "Mon, 26 Oct 2026 10:33:00 +0000",
-      "ts": 1793010780
     },
     {
       "source": "Investing Forex",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-expects-usdjpy-to-remain-rangebound-amid-bojs-rate-decision-93CH-4968564",
       "published": "2026-10-23 09:30:35",
       "ts": 1792747835
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as risk-off sell-off weighs on currencies",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-riskoff-selloff-weighs-on-currencies-4968555",
-      "published": "2026-10-23 09:27:16",
-      "ts": 1792747636
     }
   ]
 }
