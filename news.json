@@ -1,13 +1,111 @@
 {
-  "updated": "2026-10-28T19:44:24.687750Z",
+  "updated": "2026-10-28T23:37:34.664628Z",
   "count": 50,
   "items": [
     {
       "source": "MarketWatch",
-      "title": "Here’s what just sent Oracle’s stock soaring",
-      "link": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 19:40:00 GMT",
-      "ts": 1793216400
+      "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+      "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 23:18:00 GMT",
+      "ts": 1793229480
+    },
+    {
+      "source": "MarketWatch",
+      "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 23:02:00 GMT",
+      "ts": 1793228520
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 22:41:00 GMT",
+      "ts": 1793227260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
+      "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 22:25:00 GMT",
+      "ts": 1793226300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+      "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 22:08:00 GMT",
+      "ts": 1793225280
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 22:00:00 GMT",
+      "ts": 1793224800
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rises slightly after Fed holds interest rates steady; oil caps gains",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-up-to-near-81k-as-tech-rally-buoys-risk-appetite-fed-meeting-awaited-4977527",
+      "published": "2026-10-28 21:57:17",
+      "ts": 1793224637
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 21:45:00 GMT",
+      "ts": 1793223900
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
+      "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 21:35:52 +0000",
+      "ts": 1793223352
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 21:30:00 GMT",
+      "ts": 1793223000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming.",
+      "link": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 21:27:00 GMT",
+      "ts": 1793222820
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+      "published": "Wed, 28 Oct 2026 21:13:44 +0000",
+      "ts": 1793222024
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar holds gains after Bank of Canada delivers rate hike",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-gains-after-bank-of-canada-delivers-rate-hike-4980887",
+      "published": "2026-10-28 21:02:08",
+      "ts": 1793221328
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+      "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 20:49:00 GMT",
+      "ts": 1793220540
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 19:46:45 +0000",
+      "ts": 1793216805
     },
     {
       "source": "CoinTelegraph",
@@ -24,39 +122,11 @@
       "ts": 1793214113
     },
     {
-      "source": "MarketWatch",
-      "title": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
-      "link": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 18:58:00 GMT",
-      "ts": 1793213880
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
-      "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 18:56:00 GMT",
-      "ts": 1793213760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
-      "link": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 18:56:00 GMT",
-      "ts": 1793213760
-    },
-    {
       "source": "Investing Crypto",
       "title": "001k.bot Introduces 0% Service Fee on Swaps Between USDT and BTC",
       "link": "https://www.investing.com/news/cryptocurrency-news/001kbot-introduces-0-service-fee-on-swaps-between-usdt-and-btc-4980438",
       "published": "2026-10-28 18:30:16",
       "ts": 1793212216
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
-      "link": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 18:30:00 GMT",
-      "ts": 1793212200
     },
     {
       "source": "CoinDesk",
@@ -80,20 +150,6 @@
       "ts": 1793210442
     },
     {
-      "source": "MarketWatch",
-      "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-      "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 17:44:00 GMT",
-      "ts": 1793209440
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
-      "link": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 17:24:00 GMT",
-      "ts": 1793208240
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
       "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -115,32 +171,11 @@
       "ts": 1793206406
     },
     {
-      "source": "MarketWatch",
-      "title": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
-      "link": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 16:49:00 GMT",
-      "ts": 1793206140
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Phantom launches Kalshi-powered prediction markets for US users",
       "link": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 28 Oct 2026 16:40:02 +0000",
       "ts": 1793205602
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bullish on Anthropic but don’t want to wait until the IPO? Here’s how you can invest today.",
-      "link": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 16:13:00 GMT",
-      "ts": 1793203980
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
-      "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 16:03:00 GMT",
-      "ts": 1793203380
     },
     {
       "source": "CoinDesk",
@@ -150,25 +185,11 @@
       "ts": 1793203296
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips back to $80.5k after brief tech-led rebound; Fed meeting awaited",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-up-to-near-81k-as-tech-rally-buoys-risk-appetite-fed-meeting-awaited-4977527",
-      "published": "2026-10-28 15:03:31",
-      "ts": 1793199811
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
       "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 28 Oct 2026 13:47:51 +0000",
       "ts": 1793195271
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 13:35:44 +0000",
-      "ts": 1793194544
     },
     {
       "source": "CoinTelegraph",
@@ -232,20 +253,6 @@
       "link": "https://www.investing.com/news/forex-news/polish-zloty-falls-to-weakest-level-since-november-2023-93CH-4978728",
       "published": "2026-10-28 11:39:01",
       "ts": 1793187541
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-      "published": "Wed, 28 Oct 2026 11:32:31 +0000",
-      "ts": 1793187151
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
-      "link": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 11:24:07 +0000",
-      "ts": 1793186647
     },
     {
       "source": "Investing Crypto",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-steadies-after-sevenday-rally-ahead-of-rate-decisions-4973829",
       "published": "2026-10-26 21:44:08",
       "ts": 1793051048
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Brazil’s real weakens 12% as Lula wins reelection",
-      "link": "https://www.investing.com/news/forex-news/brazils-real-weakens-12-as-lula-wins-reelection-93CH-4972631",
-      "published": "2026-10-26 12:39:30",
-      "ts": 1793018370
     }
   ]
 }
