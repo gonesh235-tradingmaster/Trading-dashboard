@@ -1,13 +1,132 @@
 {
-  "updated": "2026-10-29T02:53:26.932799Z",
+  "updated": "2026-10-29T09:21:49.474361Z",
   "count": 50,
   "items": [
     {
       "source": "MarketWatch",
+      "title": "‘Fancy cars hold no appeal’: My wife and I have a 99% chance of outliving our savings. Why don’t we spend it all?",
+      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "published": "Thu, 29 Oct 2026 09:15:00 GMT",
+      "ts": 1793265300
+    },
+    {
+      "source": "MarketWatch",
       "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
       "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-      "published": "Thu, 29 Oct 2026 01:58:00 GMT",
-      "ts": 1793239080
+      "published": "Thu, 29 Oct 2026 09:08:00 GMT",
+      "ts": 1793264880
+    },
+    {
+      "source": "MarketWatch",
+      "title": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
+      "link": "https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories",
+      "published": "Thu, 29 Oct 2026 09:02:00 GMT",
+      "ts": 1793264520
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
+      "link": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
+      "published": "Thu, 29 Oct 2026 09:01:00 GMT",
+      "ts": 1793264460
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+      "link": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
+      "published": "Thu, 29 Oct 2026 09:00:00 +0000",
+      "ts": 1793264400
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The chart bitcoin traders should be paying attention to",
+      "link": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+      "published": "Thu, 29 Oct 2026 07:44:44 +0000",
+      "ts": 1793259884
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 07:32:20 +0000",
+      "ts": 1793259140
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin tests $79K support with MACD crossover signal: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
+      "published": "2026-10-29 07:11:46",
+      "ts": 1793257906
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar steadies after Fed hold, PCE eyed",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-after-fed-hold-pce-eyed-4981446",
+      "published": "2026-10-29 06:59:30",
+      "ts": 1793257170
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin weakens to $80k as hawkish Fed, mixed tech earnings weigh",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-weakens-to-80k-as-hawkish-fed-mixed-tech-earnings-weigh-4981572",
+      "published": "2026-10-29 06:37:45",
+      "ts": 1793255865
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 06:00:00 +0000",
+      "ts": 1793253600
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+      "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+      "published": "Thu, 29 Oct 2026 05:54:39 +0000",
+      "ts": 1793253279
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+      "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+      "published": "Thu, 29 Oct 2026 05:30:34 +0000",
+      "ts": 1793251834
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Utah charges predictions platform Kalshi with illegal gambling",
+      "link": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
+      "published": "Thu, 29 Oct 2026 05:02:37 +0000",
+      "ts": 1793250157
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+      "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 04:39:49 +0000",
+      "ts": 1793248789
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+      "published": "Thu, 29 Oct 2026 03:32:43 +0000",
+      "ts": 1793244763
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+      "link": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+      "published": "Thu, 29 Oct 2026 03:21:24 +0000",
+      "ts": 1793244084
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+      "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 03:16:32 +0000",
+      "ts": 1793243792
     },
     {
       "source": "CoinTelegraph",
@@ -59,32 +178,11 @@
       "ts": 1793227260
     },
     {
-      "source": "MarketWatch",
-      "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
-      "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 22:25:00 GMT",
-      "ts": 1793226300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 22:00:00 GMT",
-      "ts": 1793224800
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin rises slightly after Fed holds interest rates steady; oil caps gains",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-up-to-near-81k-as-tech-rally-buoys-risk-appetite-fed-meeting-awaited-4977527",
       "published": "2026-10-28 21:57:17",
       "ts": 1793224637
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 21:45:00 GMT",
-      "ts": 1793223900
     },
     {
       "source": "CoinTelegraph",
@@ -106,13 +204,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-gains-after-bank-of-canada-delivers-rate-hike-4980887",
       "published": "2026-10-28 21:02:08",
       "ts": 1793221328
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 19:46:45 +0000",
-      "ts": 1793216805
     },
     {
       "source": "CoinTelegraph",
@@ -150,25 +241,11 @@
       "ts": 1793210454
     },
     {
-      "source": "CoinDesk",
-      "title": "Fed leaves interest rates unchanged, as expected",
-      "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
-      "published": "Wed, 28 Oct 2026 18:00:42 +0000",
-      "ts": 1793210442
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
       "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 28 Oct 2026 17:05:42 +0000",
       "ts": 1793207142
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
-      "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
-      "published": "Wed, 28 Oct 2026 17:02:57 +0000",
-      "ts": 1793206977
     },
     {
       "source": "CoinTelegraph",
@@ -178,34 +255,6 @@
       "ts": 1793206406
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Phantom launches Kalshi-powered prediction markets for US users",
-      "link": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 16:40:02 +0000",
-      "ts": 1793205602
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
-      "published": "Wed, 28 Oct 2026 16:01:36 +0000",
-      "ts": 1793203296
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-      "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 13:47:51 +0000",
-      "ts": 1793195271
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Cybersecurity’s Black October: How to protect yourself",
-      "link": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 13:30:00 +0000",
-      "ts": 1793194200
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling steadies, gilts tick up following Healey’s UK Budget",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-ai-fears-ebb--uk-budget-fed-in-focus-4978200",
@@ -213,39 +262,11 @@
       "ts": 1793193770
     },
     {
-      "source": "CoinDesk",
-      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
-      "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
-      "published": "Wed, 28 Oct 2026 13:14:37 +0000",
-      "ts": 1793193277
-    },
-    {
-      "source": "CoinDesk",
-      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
-      "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
-      "published": "Wed, 28 Oct 2026 12:59:36 +0000",
-      "ts": 1793192376
-    },
-    {
       "source": "Investing Forex",
       "title": "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loom",
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-push-higher-as-french-spread-relief-fades-fed-ecb-eyed-4977652",
       "published": "2026-10-28 12:45:27",
       "ts": 1793191527
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Dissent and more: 3 things to watch for at the Fed meeting",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
-      "published": "Wed, 28 Oct 2026 11:57:26 +0000",
-      "ts": 1793188646
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
-      "link": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
-      "published": "Wed, 28 Oct 2026 11:52:14 +0000",
-      "ts": 1793188334
     },
     {
       "source": "Investing Forex",
@@ -274,13 +295,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116",
       "published": "2026-10-27 20:56:26",
       "ts": 1793134586
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin trapped under 200 SMA with Bear Flag forming: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
-      "published": "2026-10-27 19:19:01",
-      "ts": 1793128741
     },
     {
       "source": "Investing Crypto",
@@ -325,13 +339,6 @@
       "ts": 1793104190
     },
     {
-      "source": "Investing Crypto",
-      "title": "Ripple and BNY expand digital asset custody and blockchain tie-up",
-      "link": "https://www.investing.com/news/cryptocurrency-news/ripple-and-bny-expand-digital-asset-custody-and-blockchain-tieup-432SI-4975326",
-      "published": "2026-10-27 12:04:03",
-      "ts": 1793102643
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound dips on firm dollar as Fed, budget loom",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-dips-on-firm-dollar-as-fed-budget-loom-4974676",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
       "published": "2026-10-26 21:46:00",
       "ts": 1793051160
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar steadies after seven-day rally ahead of rate decisions",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-steadies-after-sevenday-rally-ahead-of-rate-decisions-4973829",
-      "published": "2026-10-26 21:44:08",
-      "ts": 1793051048
     }
   ]
 }
