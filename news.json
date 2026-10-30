@@ -1,7 +1,105 @@
 {
-  "updated": "2026-10-30T01:14:37.693247Z",
+  "updated": "2026-10-30T07:14:45.313719Z",
   "count": 50,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as yen steadies after BOJ hold, dollar weakens",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-retreats-yen-steadies-ahead-of-boj-decision-4985749",
+      "published": "2026-10-30 06:34:28",
+      "ts": 1793342068
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+      "published": "Fri, 30 Oct 2026 06:22:00 +0000",
+      "ts": 1793341320
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 06:00:00 +0000",
+      "ts": 1793340000
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+      "link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 05:53:07 +0000",
+      "ts": 1793339587
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
+      "link": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 05:51:41 +0000",
+      "ts": 1793339501
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+      "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
+      "published": "Fri, 30 Oct 2026 05:45:27 +0000",
+      "ts": 1793339127
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+      "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+      "published": "Fri, 30 Oct 2026 05:43:07 +0000",
+      "ts": 1793338987
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+      "published": "Fri, 30 Oct 2026 04:50:42 +0000",
+      "ts": 1793335842
+    },
+    {
+      "source": "CoinDesk",
+      "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+      "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+      "published": "Fri, 30 Oct 2026 04:00:43 +0000",
+      "ts": 1793332843
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+      "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+      "published": "Fri, 30 Oct 2026 03:56:40 +0000",
+      "ts": 1793332600
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+      "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 03:47:01 +0000",
+      "ts": 1793332021
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+      "published": "Fri, 30 Oct 2026 03:36:11 +0000",
+      "ts": 1793331371
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "published": "Fri, 30 Oct 2026 03:16:00 GMT",
+      "ts": 1793330160
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Binance Says Estimated Impact Of Security Incident At Around $6.3b",
+      "link": "https://www.investing.com/news/cryptocurrency-news/binance-says-estimated-impact-of-security-incident-at-around-63b-432SI-4985748",
+      "published": "2026-10-30 03:12:02",
+      "ts": 1793329922
+    },
     {
       "source": "Investing Forex",
       "title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
@@ -46,7 +144,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
+      "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
       "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 30 Oct 2026 00:11:26 +0000",
       "ts": 1793319086
@@ -67,21 +165,21 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin sinks to $78k after Binance hit with reported $5.3 bln hack",
+      "title": "Bitcoin sinks to $78k after Binance hit with $6.3 bln hack; set for October losses",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-sinks-to-78k-after-binance-hit-with-reported-53-bln-hack-4985613",
       "published": "2026-10-29 23:55:09",
       "ts": 1793318109
     },
     {
       "source": "Investing Crypto",
-      "title": "Binance halts withdrawals after $5.3 bln hack",
+      "title": "Binance halts withdrawals after record $6.3 bln hack",
       "link": "https://www.investing.com/news/cryptocurrency-news/binance-halts-withdrawals-after-53-bln-hack-4985601",
       "published": "2026-10-29 23:35:33",
       "ts": 1793316933
     },
     {
       "source": "CoinTelegraph",
-      "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
       "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 29 Oct 2026 23:24:21 +0000",
       "ts": 1793316261
@@ -137,31 +235,17 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
+      "title": "Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor",
       "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 29 Oct 2026 21:24:36 +0000",
       "ts": 1793309076
     },
     {
       "source": "CoinDesk",
-      "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+      "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
       "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
       "published": "Thu, 29 Oct 2026 21:12:45 +0000",
       "ts": 1793308365
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "published": "Thu, 29 Oct 2026 20:45:00 GMT",
-      "ts": 1793306700
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 19:58:57 +0000",
-      "ts": 1793303937
     },
     {
       "source": "CoinTelegraph",
@@ -199,55 +283,6 @@
       "ts": 1793299517
     },
     {
-      "source": "CoinTelegraph",
-      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
-      "link": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 17:12:03 +0000",
-      "ts": 1793293923
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "KuCoin suspends services in Russia and Belarus",
-      "link": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 17:08:41 +0000",
-      "ts": 1793293721
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
-      "link": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
-      "published": "Thu, 29 Oct 2026 17:04:19 +0000",
-      "ts": 1793293459
-    },
-    {
-      "source": "CoinDesk",
-      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
-      "link": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
-      "published": "Thu, 29 Oct 2026 16:51:18 +0000",
-      "ts": 1793292678
-    },
-    {
-      "source": "CoinDesk",
-      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-      "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
-      "published": "Thu, 29 Oct 2026 16:35:43 +0000",
-      "ts": 1793291743
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
-      "link": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 16:27:39 +0000",
-      "ts": 1793291259
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto exchange HTX exits the UK after settling with the FCA",
-      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
-      "published": "Thu, 29 Oct 2026 16:11:18 +0000",
-      "ts": 1793290278
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar strengthens as traders assess BoC hike, await US data",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-strengthens-as-traders-assess-boc-hike-await-us-data-4984629",
@@ -260,27 +295,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/uniswap-labs-releases-tjar-permissionless-infrastructure-for-onchain-fee-conversion-4984505",
       "published": "2026-10-29 15:00:13",
       "ts": 1793286013
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
-      "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
-      "published": "Thu, 29 Oct 2026 14:55:47 +0000",
-      "ts": 1793285747
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
-      "published": "Thu, 29 Oct 2026 14:39:01 +0000",
-      "ts": 1793284741
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-      "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
-      "published": "Thu, 29 Oct 2026 14:15:46 +0000",
-      "ts": 1793283346
     },
     {
       "source": "Investing Forex",
@@ -311,13 +325,6 @@
       "ts": 1793269748
     },
     {
-      "source": "Investing Crypto",
-      "title": "MetaMask, Trezor, WalletConnect and Other Industry Leaders Join ChangeNOW at TOKEN2049",
-      "link": "https://www.investing.com/news/cryptocurrency-news/metamask-trezor-walletconnect-and-other-industry-leaders-join-changenow-at-token2049-4982142",
-      "published": "2026-10-29 09:30:10",
-      "ts": 1793266210
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar holds gains after Bank of Canada delivers rate hike",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-gains-after-bank-of-canada-delivers-rate-hike-4980887",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/polish-zloty-falls-to-weakest-level-since-november-2023-93CH-4978728",
       "published": "2026-10-28 11:39:01",
       "ts": 1793187541
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar hits 2-week high a day ahead of Fed decision, euro slips on French worries",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116",
-      "published": "2026-10-27 20:56:26",
-      "ts": 1793134586
     }
   ]
 }
