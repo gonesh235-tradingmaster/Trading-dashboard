@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-31T02:28:37.172632Z",
+  "updated": "2026-10-31T08:45:22.187161Z",
   "count": 50,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds above $77,000 as Binance hack recovery takes shape",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
+      "published": "2026-10-31 05:35:10",
+      "ts": 1793424910
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+      "published": "Sat, 31 Oct 2026 05:01:32 +0000",
+      "ts": 1793422892
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+      "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+      "published": "Sat, 31 Oct 2026 04:30:00 GMT",
+      "ts": 1793421000
+    },
     {
       "source": "CoinDesk",
       "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
@@ -99,13 +120,6 @@
       "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
       "published": "Fri, 30 Oct 2026 20:28:00 GMT",
       "ts": 1793392080
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The selloff in tech stocks is shifting into overdrive",
-      "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
-      "published": "Fri, 30 Oct 2026 20:26:00 GMT",
-      "ts": 1793391960
     },
     {
       "source": "Investing Crypto",
@@ -304,13 +318,6 @@
       "ts": 1793352339
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes",
-      "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
-      "published": "Fri, 30 Oct 2026 08:36:52 +0000",
-      "ts": 1793349412
-    },
-    {
       "source": "Investing Crypto",
       "title": "Citi comments on Binance hack and stablecoin response capabilities",
       "link": "https://www.investing.com/news/cryptocurrency-news/citi-comments-on-binance-hack-and-stablecoin-response-capabilities-432SI-4985988",
@@ -330,13 +337,6 @@
       "link": "https://www.investing.com/news/forex-news/bitcoin-cryptocurrency-prices-fall-after-binance-reports-security-issue-4985655",
       "published": "2026-10-30 00:42:22",
       "ts": 1793320942
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Litecoin Falls 10% In Rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-falls-10-in-rout-4985641",
-      "published": "2026-10-30 00:25:01",
-      "ts": 1793319901
     },
     {
       "source": "Investing Forex",
