@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-30T23:14:55.178643Z",
+  "updated": "2026-10-31T02:28:37.172632Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+      "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+      "published": "Sat, 31 Oct 2026 00:48:56 +0000",
+      "ts": 1793407736
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+      "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+      "published": "Fri, 30 Oct 2026 23:14:00 GMT",
+      "ts": 1793402040
+    },
     {
       "source": "MarketWatch",
       "title": "This cybersecurity stock will be the next to join the S&P 500",
@@ -92,13 +106,6 @@
       "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
       "published": "Fri, 30 Oct 2026 20:26:00 GMT",
       "ts": 1793391960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
-      "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
-      "published": "Fri, 30 Oct 2026 20:23:00 GMT",
-      "ts": 1793391780
     },
     {
       "source": "Investing Crypto",
@@ -309,13 +316,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/citi-comments-on-binance-hack-and-stablecoin-response-capabilities-432SI-4985988",
       "published": "2026-10-30 08:13:02",
       "ts": 1793347982
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
-      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
-      "published": "Fri, 30 Oct 2026 07:54:07 +0000",
-      "ts": 1793346847
     },
     {
       "source": "Investing Crypto",
