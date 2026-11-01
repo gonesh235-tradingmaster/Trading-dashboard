@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-01T19:39:04.903543Z",
+  "updated": "2026-11-01T23:05:19.061203Z",
   "count": 50,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "published": "Sun, 01 Nov 2026 20:00:00 GMT",
+      "ts": 1793563200
+    },
     {
       "source": "CoinDesk",
       "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
@@ -176,13 +183,6 @@
       "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
       "published": "Sat, 31 Oct 2026 20:15:00 GMT",
       "ts": 1793477700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This is where most people go wrong in their 30s and 40s",
-      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-      "published": "Sat, 31 Oct 2026 19:02:00 GMT",
-      "ts": 1793473320
     },
     {
       "source": "CoinDesk",
