@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-01T01:28:57.154473Z",
+  "updated": "2026-11-01T08:01:19.547528Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "FBI blames North Korea for record $6.3B Binance hack",
+      "link": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 01 Nov 2026 07:44:38 +0000",
+      "ts": 1793519078
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin tests 38.2% Fib after triangle breakdown: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
+      "published": "2026-11-01 07:01:45",
+      "ts": 1793516505
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
+      "link": "https://www.investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
+      "published": "2026-11-01 06:20:37",
+      "ts": 1793514037
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
+      "published": "2026-11-01 05:19:12",
+      "ts": 1793510352
+    },
     {
       "source": "CoinDesk",
       "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
@@ -248,25 +276,11 @@
       "ts": 1793390642
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin tests critical $76,500 neckline support: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
-      "published": "2026-10-30 19:19:12",
-      "ts": 1793387952
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
       "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 30 Oct 2026 19:01:58 +0000",
       "ts": 1793386918
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
-      "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 17:48:27 +0000",
-      "ts": 1793382507
     },
     {
       "source": "Investing Forex",
@@ -302,20 +316,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-firms-as-dollar-slips-on-midterm-ai-jitters-4986986",
       "published": "2026-10-30 11:10:15",
       "ts": 1793358615
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Falls 12% In Bearish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-12-in-bearish-trade-4986930",
-      "published": "2026-10-30 11:03:14",
-      "ts": 1793358194
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Binance: Already Reserved Over $6.34B Of Company Funds To Cover",
-      "link": "https://www.investing.com/news/cryptocurrency-news/binance-already-reserved-over-634b-of-company-funds-to-cover-432SI-4986886",
-      "published": "2026-10-30 11:00:02",
-      "ts": 1793358002
     },
     {
       "source": "Investing Forex",
