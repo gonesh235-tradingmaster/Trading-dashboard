@@ -1,7 +1,49 @@
 {
-  "updated": "2026-11-01T23:05:19.061203Z",
+  "updated": "2026-11-02T02:30:06.604507Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+      "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 01:51:48 +0000",
+      "ts": 1793584308
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
+      "link": "https://www.investing.com/news/forex-news/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist-4989794",
+      "published": "2026-11-02 01:00:34",
+      "ts": 1793581234
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This is the biggest threat to the AI-powered bull market",
+      "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+      "published": "Mon, 02 Nov 2026 00:22:00 GMT",
+      "ts": 1793578920
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Apple’s new earnings era begins at a critical time for Big Tech",
+      "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+      "published": "Mon, 02 Nov 2026 00:21:00 GMT",
+      "ts": 1793578860
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 01 Nov 2026 23:59:27 +0000",
+      "ts": 1793577567
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 01 Nov 2026 23:09:13 +0000",
+      "ts": 1793574553
+    },
     {
       "source": "MarketWatch",
       "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
@@ -73,13 +115,6 @@
       "ts": 1793545200
     },
     {
-      "source": "MarketWatch",
-      "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-      "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-      "published": "Sun, 01 Nov 2026 15:00:00 GMT",
-      "ts": 1793545200
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -91,13 +126,6 @@
       "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
       "link": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
       "published": "Sun, 01 Nov 2026 14:00:00 +0000",
-      "ts": 1793541600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This is the biggest threat to the AI-powered bull market",
-      "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-      "published": "Sun, 01 Nov 2026 14:00:00 GMT",
       "ts": 1793541600
     },
     {
@@ -227,32 +255,11 @@
       "ts": 1793456872
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
-      "link": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 31 Oct 2026 13:37:49 +0000",
-      "ts": 1793453869
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
-      "link": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 31 Oct 2026 11:22:49 +0000",
-      "ts": 1793445769
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Falls 11% In Rout",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4989240",
       "published": "2026-10-31 11:05:08",
       "ts": 1793444708
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Binance $6.3B record hack sparks pre-election political clashes",
-      "link": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 31 Oct 2026 09:58:50 +0000",
-      "ts": 1793440730
     },
     {
       "source": "Investing Crypto",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-after-fed-hold-pce-eyed-4981446",
       "published": "2026-10-29 18:45:17",
       "ts": 1793299517
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar strengthens as traders assess BoC hike, await US data",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-strengthens-as-traders-assess-boc-hike-await-us-data-4984629",
-      "published": "2026-10-29 15:32:09",
-      "ts": 1793287929
     }
   ]
 }
