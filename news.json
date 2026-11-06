@@ -1,13 +1,118 @@
 {
-  "updated": "2026-11-06T00:01:33.341938Z",
+  "updated": "2026-11-06T06:42:33.436679Z",
   "count": 50,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips to $75k as U.S. regulatory uncertainty grows",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-75k-as-us-regulatory-uncertainty-grows-5006596",
+      "published": "2026-11-06 06:23:03",
+      "ts": 1793946183
+    },
+    {
+      "source": "Investing Forex",
+      "title": "JGB yields plunge to July lows as Wall St tech tout sparks haven rush",
+      "link": "https://www.investing.com/news/forex-news/jgb-yields-plunge-to-july-lows-as-wall-st-tech-tout-sparks-haven-rush-5006590",
+      "published": "2026-11-06 06:16:46",
+      "ts": 1793945806
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 06:04:41 +0000",
+      "ts": 1793945081
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+      "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+      "published": "Fri, 06 Nov 2026 05:14:48 +0000",
+      "ts": 1793942088
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+      "link": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 05:07:00 +0000",
+      "ts": 1793941620
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian FX mixed as yen gains on risk aversion, Taiwan dollar breaks 33 amid AI rout",
+      "link": "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
+      "published": "2026-11-06 04:08:40",
+      "ts": 1793938120
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Trump’s World Liberty Financial launches token buyback program",
+      "link": "https://www.investing.com/news/cryptocurrency-news/trumps-world-liberty-financial-launches-token-buyback-program-5006409",
+      "published": "2026-11-06 04:07:29",
+      "ts": 1793938049
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Trump crypto memecoin slumps to record low after historic midterm loss",
+      "link": "https://www.investing.com/news/cryptocurrency-news/trump-crypto-memecoin-slumps-to-record-low-after-historic-midterm-loss-5006367",
+      "published": "2026-11-06 03:21:24",
+      "ts": 1793935284
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 03:15:00 GMT",
+      "ts": 1793934900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+      "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 03:00:00 GMT",
+      "ts": 1793934000
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Chinese firms’ profit margins trail global peers as domestic demand stays weak",
+      "link": "https://www.investing.com/news/forex-news/chinese-firms-profit-margins-trail-global-peers-as-domestic-demand-stays-weak-5006210",
+      "published": "2026-11-06 02:42:22",
+      "ts": 1793932942
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+      "published": "Fri, 06 Nov 2026 02:24:23 +0000",
+      "ts": 1793931863
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+      "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+      "published": "Fri, 06 Nov 2026 01:30:00 +0000",
+      "ts": 1793928600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
+      "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 01:07:00 GMT",
+      "ts": 1793927220
+    },
     {
       "source": "MarketWatch",
       "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
       "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
-      "published": "Thu, 05 Nov 2026 23:50:00 GMT",
-      "ts": 1793922600
+      "published": "Fri, 06 Nov 2026 01:06:00 GMT",
+      "ts": 1793927160
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+      "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 00:19:49 +0000",
+      "ts": 1793924389
     },
     {
       "source": "MarketWatch",
@@ -15,13 +120,6 @@
       "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
       "published": "Thu, 05 Nov 2026 23:48:00 GMT",
       "ts": 1793922480
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 23:03:41 +0000",
-      "ts": 1793919821
     },
     {
       "source": "Investing Crypto",
@@ -59,13 +157,6 @@
       "ts": 1793917440
     },
     {
-      "source": "MarketWatch",
-      "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
-      "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
-      "published": "Thu, 05 Nov 2026 22:21:00 GMT",
-      "ts": 1793917260
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
       "link": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -92,20 +183,6 @@
       "link": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 05 Nov 2026 21:39:19 +0000",
       "ts": 1793914759
-    },
-    {
-      "source": "MarketWatch",
-      "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
-      "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
-      "published": "Thu, 05 Nov 2026 21:39:00 GMT",
-      "ts": 1793914740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.",
-      "link": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
-      "published": "Thu, 05 Nov 2026 21:37:00 GMT",
-      "ts": 1793914620
     },
     {
       "source": "Investing Forex",
@@ -137,7 +214,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
       "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
       "published": "Thu, 05 Nov 2026 18:48:40 +0000",
       "ts": 1793904520
@@ -178,13 +255,6 @@
       "ts": 1793897348
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 16:48:41 +0000",
-      "ts": 1793897321
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
       "link": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
@@ -220,39 +290,11 @@
       "ts": 1793887200
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
-      "link": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 05 Nov 2026 13:34:57 +0000",
-      "ts": 1793885697
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-      "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-      "published": "Thu, 05 Nov 2026 13:29:40 +0000",
-      "ts": 1793885380
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasuries hover near 2-month lows on 20% weekly oil crash, midterm sweep",
       "link": "https://www.investing.com/news/forex-news/german-yields-slide-to-aug-lows-as-20-weekly-oil-crash-deflates-inflation-fears-5002466",
       "published": "2026-11-05 13:09:00",
       "ts": 1793884140
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
-      "link": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
-      "published": "Thu, 05 Nov 2026 12:55:03 +0000",
-      "ts": 1793883303
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-      "link": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-      "published": "Thu, 05 Nov 2026 12:50:57 +0000",
-      "ts": 1793883057
     },
     {
       "source": "Investing Crypto",
@@ -297,20 +339,6 @@
       "ts": 1793876759
     },
     {
-      "source": "Investing Forex",
-      "title": "HSBC sees Democratic midterm strength weighing on dollar near-term",
-      "link": "https://www.investing.com/news/forex-news/hsbc-sees-democratic-midterm-strength-weighing-on-dollar-nearterm-93CH-5002986",
-      "published": "2026-11-05 10:53:22",
-      "ts": 1793876002
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees Swedish krona strengthening against the euro",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-swedish-krona-strengthening-against-the-euro-93CH-5002864",
-      "published": "2026-11-05 10:12:20",
-      "ts": 1793873540
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin tests SMA(200) after V-bottom recovery: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035",
@@ -323,34 +351,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/coin-theaters-completes-production-rollout-of-creatorowned-entertainment-platform-cre8powered-monetization-5002140",
       "published": "2026-11-05 04:00:14",
       "ts": 1793851214
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin tops $80k as Democrats sweep midterm elections, boosting risk sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-78k-as-democrats-sweep-midterm-elections-4997542",
-      "published": "2026-11-04 22:42:49",
-      "ts": 1793832169
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Crypto tracks stocks higher after Democrat midterm wins",
-      "link": "https://www.investing.com/news/forex-news/crypto-dips-on-democrat-midterm-wins-binance-hack-dent-optimism-4997586",
-      "published": "2026-11-04 19:31:25",
-      "ts": 1793820685
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "TopValue Opens Public Access After 8.1 Million XRP Institutional Phase",
-      "link": "https://www.investing.com/news/cryptocurrency-news/topvalue-opens-public-access-after-81-million-xrp-institutional-phase-4999876",
-      "published": "2026-11-04 14:30:19",
-      "ts": 1793802619
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "NEAR Mobile Hits #1 in Finance App Rankings and Charts Across 38 Countries as NEAR Ecosystem Gains Momentum",
-      "link": "https://www.investing.com/news/cryptocurrency-news/near-mobile-hits-1-in-finance-app-rankings-and-charts-across-38-countries-as-near-ecosystem-gains-momentum-4999164",
-      "published": "2026-11-04 13:00:12",
-      "ts": 1793797212
     }
   ]
 }
