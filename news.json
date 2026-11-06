@@ -1,7 +1,126 @@
 {
-  "updated": "2026-11-06T14:38:02.041120Z",
+  "updated": "2026-11-06T20:35:09.515519Z",
   "count": 50,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 20:15:00 GMT",
+      "ts": 1793996100
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+      "published": "Fri, 06 Nov 2026 20:09:18 +0000",
+      "ts": 1793995758
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+      "link": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 20:04:27 +0000",
+      "ts": 1793995467
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 19:52:00 GMT",
+      "ts": 1793994720
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+      "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 18:54:00 GMT",
+      "ts": 1793991240
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
+      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 18:53:00 GMT",
+      "ts": 1793991180
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+      "link": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 18:47:45 +0000",
+      "ts": 1793990865
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+      "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 18:22:42 +0000",
+      "ts": 1793989362
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 18:15:00 GMT",
+      "ts": 1793988900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "You’re fired! But you can keep the laptop and insurance. And here’s $10,000.",
+      "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 18:03:00 GMT",
+      "ts": 1793988180
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 18:00:00 GMT",
+      "ts": 1793988000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "DraftKings’ expensive bet on prediction markets is crushing its stock",
+      "link": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 17:51:00 GMT",
+      "ts": 1793987460
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 17:49:33 +0000",
+      "ts": 1793987373
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What’s next for your portfolio after the decline in Big Tech stocks?",
+      "link": "https://www.marketwatch.com/story/whats-next-for-your-portfolio-after-the-decline-in-big-tech-stocks-2873452f?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 17:47:00 GMT",
+      "ts": 1793987220
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+      "published": "Fri, 06 Nov 2026 17:45:00 GMT",
+      "ts": 1793987100
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+      "published": "Fri, 06 Nov 2026 17:42:28 +0000",
+      "ts": 1793986948
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+      "published": "Fri, 06 Nov 2026 15:26:38 +0000",
+      "ts": 1793978798
+    },
     {
       "source": "CoinDesk",
       "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
@@ -10,25 +129,18 @@
       "ts": 1793975629
     },
     {
-      "source": "MarketWatch",
-      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-      "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 14:26:00 GMT",
-      "ts": 1793975160
+      "source": "CoinTelegraph",
+      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
+      "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 06 Nov 2026 14:30:00 +0000",
+      "ts": 1793975400
     },
     {
-      "source": "MarketWatch",
-      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 14:15:00 GMT",
-      "ts": 1793974500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Moderna raises its revenue outlook — but all eyes are on what happens next with its experimental cancer vaccine",
-      "link": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 14:10:00 GMT",
-      "ts": 1793974200
+      "source": "Investing Crypto",
+      "title": "Bitcoin drops below $76k on U.S. regulatory uncertainty, hot jobs report",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-75k-as-us-regulatory-uncertainty-grows-5006596",
+      "published": "2026-11-06 14:29:02",
+      "ts": 1793975342
     },
     {
       "source": "CoinTelegraph",
@@ -66,60 +178,11 @@
       "ts": 1793971914
     },
     {
-      "source": "MarketWatch",
-      "title": "Why Democrats should use their new power to embrace Trump’s tariffs",
-      "link": "https://www.marketwatch.com/story/why-democrats-should-use-their-new-power-to-embrace-trumps-tariffs-7c467541?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 13:30:00 GMT",
-      "ts": 1793971800
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
       "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 06 Nov 2026 13:23:08 +0000",
       "ts": 1793971388
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-      "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 13:15:00 GMT",
-      "ts": 1793970900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How do Americans feel about the midterm results? It depends on how much money they make.",
-      "link": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 13:14:00 GMT",
-      "ts": 1793970840
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Billionaires aren’t off the hook for higher taxes, even if they did dodge California’s wealth tax",
-      "link": "https://www.marketwatch.com/story/billionaires-arent-off-the-hook-for-higher-taxes-even-if-they-did-dodge-californias-wealth-tax-a73f9045?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 13:13:00 GMT",
-      "ts": 1793970780
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
-      "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 13:11:00 GMT",
-      "ts": 1793970660
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A record number of first-time home buyers now pay in cash. Here’s where they get the money.",
-      "link": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 13:09:00 GMT",
-      "ts": 1793970540
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How to buy a new car for under $30,000 in this economy",
-      "link": "https://www.marketwatch.com/story/how-to-buy-a-new-car-for-under-30-000-in-this-economy-24b01f99?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 13:08:00 GMT",
-      "ts": 1793970480
     },
     {
       "source": "CoinDesk",
@@ -137,7 +200,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
+      "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
       "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
       "published": "Fri, 06 Nov 2026 11:58:40 +0000",
       "ts": 1793966320
@@ -151,31 +214,10 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+      "title": "Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL",
       "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 06 Nov 2026 11:26:30 +0000",
       "ts": 1793964390
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-      "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 11:16:53 +0000",
-      "ts": 1793963813
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Greece approves 10% tax on crypto gains starting in 2027",
-      "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 11:05:36 +0000",
-      "ts": 1793963136
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
-      "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 10:47:33 +0000",
-      "ts": 1793962053
     },
     {
       "source": "Investing Forex",
@@ -183,20 +225,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-holds-firm-before-us-payrolls-5007166",
       "published": "2026-11-06 10:44:08",
       "ts": 1793961848
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin tumbles to $76k as U.S. regulatory uncertainty grows",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-75k-as-us-regulatory-uncertainty-grows-5006596",
-      "published": "2026-11-06 10:41:11",
-      "ts": 1793961671
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
-      "link": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 10:40:57 +0000",
-      "ts": 1793961657
     },
     {
       "source": "CoinDesk",
@@ -213,13 +241,6 @@
       "ts": 1793958100
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-      "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 09:00:36 +0000",
-      "ts": 1793955636
-    },
-    {
       "source": "CoinDesk",
       "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
       "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
@@ -227,25 +248,11 @@
       "ts": 1793954862
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-      "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-      "published": "Fri, 06 Nov 2026 08:04:52 +0000",
-      "ts": 1793952292
-    },
-    {
       "source": "Investing Crypto",
       "title": "XRP Falls 10% In Selloff",
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5006654",
       "published": "2026-11-06 07:32:04",
       "ts": 1793950324
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
-      "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
-      "published": "Fri, 06 Nov 2026 05:14:48 +0000",
-      "ts": 1793942088
     },
     {
       "source": "Investing Crypto",
@@ -267,13 +274,6 @@
       "link": "https://www.investing.com/news/forex-news/chinese-firms-profit-margins-trail-global-peers-as-domestic-demand-stays-weak-5006210",
       "published": "2026-11-06 02:42:22",
       "ts": 1793932942
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-      "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-      "published": "Fri, 06 Nov 2026 02:24:23 +0000",
-      "ts": 1793931863
     },
     {
       "source": "Investing Crypto",
