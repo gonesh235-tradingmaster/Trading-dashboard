@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-07T06:21:48.277062Z",
+  "updated": "2026-11-07T13:23:58.087620Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
+      "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 07 Nov 2026 11:10:47 +0000",
+      "ts": 1794049847
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Suspicious prediction market activity seen before election poll release: NYT",
+      "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 07 Nov 2026 09:10:35 +0000",
+      "ts": 1794042635
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rebounds to $76,000, but $1.3 billion ETF exodus tests recovery",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-76000-but-13-billion-etf-exodus-tests-recovery-5009767",
+      "published": "2026-11-07 08:12:35",
+      "ts": 1794039155
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "link": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 07 Nov 2026 07:45:24 +0000",
+      "ts": 1794037524
+    },
     {
       "source": "Investing Forex",
       "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
@@ -150,13 +178,6 @@
       "ts": 1793989362
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 17:49:33 +0000",
-      "ts": 1793987373
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
       "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
@@ -176,20 +197,6 @@
       "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
       "published": "Fri, 06 Nov 2026 14:33:49 +0000",
       "ts": 1793975629
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
-      "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 14:30:00 +0000",
-      "ts": 1793975400
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 13:57:14 +0000",
-      "ts": 1793973434
     },
     {
       "source": "Investing Forex",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-ahead-of-boe-decision-as-dollar-slide-pauses-5003115",
       "published": "2026-11-05 12:18:09",
       "ts": 1793881089
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin tests SMA(200) after V-bottom recovery: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035",
-      "published": "2026-11-05 07:10:57",
-      "ts": 1793862657
     }
   ]
 }
