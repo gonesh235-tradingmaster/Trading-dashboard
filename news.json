@@ -1,7 +1,119 @@
 {
-  "updated": "2026-11-07T13:23:58.087620Z",
+  "updated": "2026-11-07T18:09:23.979306Z",
   "count": 50,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+      "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+      "published": "Sat, 07 Nov 2026 17:43:00 GMT",
+      "ts": 1794073380
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "published": "Sat, 07 Nov 2026 17:36:46 +0000",
+      "ts": 1794073006
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "published": "Sat, 07 Nov 2026 17:33:00 GMT",
+      "ts": 1794072780
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
+      "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+      "published": "Sat, 07 Nov 2026 17:04:00 GMT",
+      "ts": 1794071040
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "published": "Sat, 07 Nov 2026 17:01:00 GMT",
+      "ts": 1794070860
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Slop Cash, From elizaOS Creator Shaw Walters, Opens Public Bidding on Umia After Passing Its $400K Minimum",
+      "link": "https://www.investing.com/news/cryptocurrency-news/slop-cash-from-elizaos-creator-shaw-walters-opens-public-bidding-on-umia-after-passing-its-400k-minimum-5009964",
+      "published": "2026-11-07 17:00:13",
+      "ts": 1794070813
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "published": "Sat, 07 Nov 2026 16:51:00 +0000",
+      "ts": 1794070260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "published": "Sat, 07 Nov 2026 16:40:00 GMT",
+      "ts": 1794069600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+      "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+      "published": "Sat, 07 Nov 2026 16:30:00 GMT",
+      "ts": 1794069000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I attend free meals hosted by people promoting annuities. I’ve no intention of buying any. Should I stop going?",
+      "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+      "published": "Sat, 07 Nov 2026 16:30:00 GMT",
+      "ts": 1794069000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+      "published": "Sat, 07 Nov 2026 16:00:00 GMT",
+      "ts": 1794067200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "You follow the rules for smart stock trading. But are they the right rules?",
+      "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+      "published": "Sat, 07 Nov 2026 16:00:00 GMT",
+      "ts": 1794067200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "You’re fired! But you can keep the laptop and insurance. And here’s $10,000.",
+      "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+      "published": "Sat, 07 Nov 2026 15:44:00 GMT",
+      "ts": 1794066240
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 07 Nov 2026 14:22:00 +0000",
+      "ts": 1794061320
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 07 Nov 2026 14:16:00 +0000",
+      "ts": 1794060960
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 07 Nov 2026 13:30:00 +0000",
+      "ts": 1794058200
+    },
     {
       "source": "CoinTelegraph",
       "title": "US sanctions Canadian money-exchange firms over Iran ties",
@@ -46,66 +158,10 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 22:00:15 +0000",
-      "ts": 1794002415
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 21:45:00 GMT",
-      "ts": 1794001500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Elon Musk opens the door for a big SpaceX acquisition",
-      "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 21:45:00 GMT",
-      "ts": 1794001500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
-      "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 21:37:00 GMT",
-      "ts": 1794001020
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 21:24:00 GMT",
-      "ts": 1794000240
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 21:15:00 GMT",
-      "ts": 1793999700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 21:15:00 GMT",
-      "ts": 1793999700
-    },
-    {
-      "source": "CoinTelegraph",
       "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
       "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 06 Nov 2026 21:05:25 +0000",
       "ts": 1793999125
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
-      "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 20:58:00 GMT",
-      "ts": 1793998680
     },
     {
       "source": "Investing Forex",
@@ -129,13 +185,6 @@
       "ts": 1793997385
     },
     {
-      "source": "MarketWatch",
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 20:15:00 GMT",
-      "ts": 1793996100
-    },
-    {
       "source": "CoinDesk",
       "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
       "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
@@ -148,34 +197,6 @@
       "link": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 06 Nov 2026 20:04:27 +0000",
       "ts": 1793995467
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
-      "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 18:54:00 GMT",
-      "ts": 1793991240
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
-      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-      "published": "Fri, 06 Nov 2026 18:53:00 GMT",
-      "ts": 1793991180
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
-      "link": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 18:47:45 +0000",
-      "ts": 1793990865
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
-      "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 18:22:42 +0000",
-      "ts": 1793989362
     },
     {
       "source": "CoinDesk",
@@ -241,25 +262,11 @@
       "ts": 1793961848
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-      "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-      "published": "Fri, 06 Nov 2026 09:53:27 +0000",
-      "ts": 1793958807
-    },
-    {
       "source": "Investing Forex",
       "title": "UBS sees euro-Norwegian krone pullback as stretched",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-euronorwegian-krone-pullback-as-stretched-93CH-5007021",
       "published": "2026-11-06 09:41:40",
       "ts": 1793958100
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-      "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-      "published": "Fri, 06 Nov 2026 08:47:42 +0000",
-      "ts": 1793954862
     },
     {
       "source": "Investing Crypto",
@@ -335,13 +342,6 @@
       "source": "Investing Crypto",
       "title": "Signal Week (formerly Paris Blockchain Week) Returns to Paris in July 2027",
       "link": "https://www.investing.com/news/cryptocurrency-news/signal-week-formerly-paris-blockchain-week-returns-to-paris-in-july-2027-5003707",
-      "published": "2026-11-05 12:30:15",
-      "ts": 1793881815
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "IPX Plans to Bring ‘minicoin’ Payments to LINE FRIENDS Online and Offline Stores, Expanding IP Experiences Beyond Content and Merchandise",
-      "link": "https://www.investing.com/news/cryptocurrency-news/ipx-plans-to-bring-minicoin-payments-to-line-friends-online-and-offline-stores-expanding-ip-experiences-beyond-content-and-merchandise-5003708",
       "published": "2026-11-05 12:30:15",
       "ts": 1793881815
     },
