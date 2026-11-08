@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-08T01:05:39.788084Z",
+  "updated": "2026-11-08T07:18:34.010832Z",
   "count": 50,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
+      "published": "2026-11-08 06:00:07",
+      "ts": 1794117607
+    },
     {
       "source": "MarketWatch",
       "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
@@ -337,13 +344,6 @@
       "link": "https://www.investing.com/news/forex-news/german-yields-slide-to-aug-lows-as-20-weekly-oil-crash-deflates-inflation-fears-5002466",
       "published": "2026-11-05 13:09:00",
       "ts": 1793884140
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Signal Week (formerly Paris Blockchain Week) Returns to Paris in July 2027",
-      "link": "https://www.investing.com/news/cryptocurrency-news/signal-week-formerly-paris-blockchain-week-returns-to-paris-in-july-2027-5003707",
-      "published": "2026-11-05 12:30:15",
-      "ts": 1793881815
     },
     {
       "source": "Investing Forex",
