@@ -1,27 +1,160 @@
 {
-  "updated": "2026-11-13T18:04:37.078566Z",
+  "updated": "2026-11-13T23:32:25.205556Z",
   "count": 50,
   "items": [
     {
-      "source": "MarketWatch",
-      "title": "I am turning 18 next month and want to start investing. What do I do first?",
-      "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 17:56:00 GMT",
-      "ts": 1794592560
+      "source": "CoinDesk",
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "published": "Fri, 13 Nov 2026 23:30:00 +0000",
+      "ts": 1794612600
     },
     {
       "source": "MarketWatch",
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 17:16:00 GMT",
-      "ts": 1794590160
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "Fri, 13 Nov 2026 23:12:00 GMT",
+      "ts": 1794611520
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin set for worst week since early June after more than 10% slide",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-below-70k-as-crypto-appetite-sours-5024070",
+      "published": "2026-11-13 23:10:07",
+      "ts": 1794611407
     },
     {
       "source": "MarketWatch",
-      "title": "How low does Nvidia’s stock need to go before it’s a screaming bargain?",
-      "link": "https://www.marketwatch.com/story/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-bargain-c25302ed?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 17:07:00 GMT",
-      "ts": 1794589620
+      "title": "4 expert tips for signing up for Medicare",
+      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+      "published": "Fri, 13 Nov 2026 22:45:00 GMT",
+      "ts": 1794609900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "published": "Fri, 13 Nov 2026 22:44:00 GMT",
+      "ts": 1794609840
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "published": "Fri, 13 Nov 2026 22:21:00 GMT",
+      "ts": 1794608460
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 22:08:37 +0000",
+      "ts": 1794607717
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+      "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+      "published": "Fri, 13 Nov 2026 22:04:00 GMT",
+      "ts": 1794607440
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+      "link": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 22:01:03 +0000",
+      "ts": 1794607263
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "published": "Fri, 13 Nov 2026 22:00:00 GMT",
+      "ts": 1794607200
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+      "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 21:49:27 +0000",
+      "ts": 1794606567
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
+      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "published": "Fri, 13 Nov 2026 21:32:00 GMT",
+      "ts": 1794605520
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+      "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+      "published": "Fri, 13 Nov 2026 21:26:00 GMT",
+      "ts": 1794605160
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+      "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+      "published": "Fri, 13 Nov 2026 21:10:00 GMT",
+      "ts": 1794604200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The trillion-dollar mistake corporate America is making about retirement",
+      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "published": "Fri, 13 Nov 2026 21:09:00 GMT",
+      "ts": 1794604140
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+      "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 21:01:39 +0000",
+      "ts": 1794603699
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+      "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 20:53:20 +0000",
+      "ts": 1794603200
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-yen-intervention-in-focus-as-rate-hike-bets-put-dollar-near-19mth-high-5024024",
+      "published": "2026-11-13 20:41:10",
+      "ts": 1794602470
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "WSOT 2026 Main Competition Starts Today,With Up to 3.2 Million USDT for Squads",
+      "link": "https://www.investing.com/news/cryptocurrency-news/wsot-2026-main-competition-starts-todaywith-up-to-32-million-usdt-for-squads-5026403",
+      "published": "2026-11-13 20:01:35",
+      "ts": 1794600095
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Chile peso hits 19-month low as copper drops, US rate outlook weighs",
+      "link": "https://www.investing.com/news/forex-news/chile-peso-hits-19month-low-as-copper-drops-us-rate-outlook-weighs-93CH-5026374",
+      "published": "2026-11-13 19:30:07",
+      "ts": 1794598207
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+      "published": "Fri, 13 Nov 2026 18:39:58 +0000",
+      "ts": 1794595198
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+      "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 18:28:29 +0000",
+      "ts": 1794594509
     },
     {
       "source": "CoinDesk",
@@ -31,20 +164,6 @@
       "ts": 1794589543
     },
     {
-      "source": "MarketWatch",
-      "title": "If you could change one thing about caregiving, what would it be?",
-      "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 17:01:00 GMT",
-      "ts": 1794589260
-    },
-    {
-      "source": "MarketWatch",
-      "title": "SpaceX is about to attempt the ‘holy grail’ of rocketry",
-      "link": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 16:54:00 GMT",
-      "ts": 1794588840
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
       "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -52,53 +171,11 @@
       "ts": 1794587951
     },
     {
-      "source": "MarketWatch",
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 16:30:00 GMT",
-      "ts": 1794587400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 16:26:00 GMT",
-      "ts": 1794587160
-    },
-    {
-      "source": "MarketWatch",
-      "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
-      "link": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 16:10:00 GMT",
-      "ts": 1794586200
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
       "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
       "published": "Fri, 13 Nov 2026 16:01:27 +0000",
       "ts": 1794585687
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 16:01:00 GMT",
-      "ts": 1794585660
-    },
-    {
-      "source": "MarketWatch",
-      "title": "14 dividend stocks selected for long-term growth",
-      "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 16:01:00 GMT",
-      "ts": 1794585660
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slumps to $69k, set for deep weekly loss as crypto appetite sours",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-below-70k-as-crypto-appetite-sours-5024070",
-      "published": "2026-11-13 14:59:30",
-      "ts": 1794581970
     },
     {
       "source": "Investing Forex",
@@ -113,20 +190,6 @@
       "link": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
       "published": "Fri, 13 Nov 2026 14:02:00 +0000",
       "ts": 1794578520
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 13:49:44 +0000",
-      "ts": 1794577784
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. dollar eyes biggest weekly gain since September as inflation boosts Fed rate",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-yen-intervention-in-focus-as-rate-hike-bets-put-dollar-near-19mth-high-5024024",
-      "published": "2026-11-13 13:45:15",
-      "ts": 1794577515
     },
     {
       "source": "CoinTelegraph",
@@ -178,29 +241,8 @@
       "ts": 1794570745
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-      "link": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 09:58:21 +0000",
-      "ts": 1794563901
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-      "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 09:39:05 +0000",
-      "ts": 1794562745
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
-      "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 09:27:14 +0000",
-      "ts": 1794562034
-    },
-    {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
+      "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
       "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
       "published": "Fri, 13 Nov 2026 09:16:58 +0000",
       "ts": 1794561418
@@ -211,20 +253,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-hawkish-fed-keeps-dollar-bid-5024553",
       "published": "2026-11-13 09:08:09",
       "ts": 1794560889
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
-      "link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 09:05:10 +0000",
-      "ts": 1794560710
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
-      "link": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 08:26:01 +0000",
-      "ts": 1794558361
     },
     {
       "source": "CoinDesk",
@@ -239,20 +267,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
       "published": "Fri, 13 Nov 2026 06:03:41 +0000",
       "ts": 1794549821
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-      "published": "Fri, 13 Nov 2026 05:45:26 +0000",
-      "ts": 1794548726
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
-      "link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
-      "published": "Fri, 13 Nov 2026 05:08:59 +0000",
-      "ts": 1794546539
     },
     {
       "source": "Investing Forex",
@@ -325,13 +339,6 @@
       "ts": 1794478450
     },
     {
-      "source": "Investing Forex",
-      "title": "Public funds ploughing cash into AI will ’own’ megatrends shaping economy",
-      "link": "https://www.investing.com/news/forex-news/public-funds-ploughing-cash-into-ai-will-own-megatrends-shaping-economy-5020427",
-      "published": "2026-11-12 06:42:52",
-      "ts": 1794465772
-    },
-    {
       "source": "Investing Crypto",
       "title": "MidChains and Standard Chartered establish strategic banking partnership",
       "link": "https://www.investing.com/news/cryptocurrency-news/midchains-and-standard-chartered-establish-strategic-banking-partnership-5020443",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-74k-as-hot-cpi-data-spurs-rate-hike-bets-5017791",
       "published": "2026-11-11 23:24:28",
       "ts": 1794439468
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "ChangeNOW Becomes the Exclusive Bitcoin Swap Provider in CoolWallet",
-      "link": "https://www.investing.com/news/cryptocurrency-news/changenow-becomes-the-exclusive-bitcoin-swap-provider-in-coolwallet-5019082",
-      "published": "2026-11-11 14:00:11",
-      "ts": 1794405611
     }
   ]
 }
