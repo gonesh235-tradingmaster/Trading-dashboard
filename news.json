@@ -1,7 +1,42 @@
 {
-  "updated": "2026-11-14T03:34:41.876236Z",
+  "updated": "2026-11-14T10:56:59.966160Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+      "link": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 14 Nov 2026 10:34:06 +0000",
+      "ts": 1794652446
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 14 Nov 2026 08:12:30 +0000",
+      "ts": 1794643950
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 14 Nov 2026 06:33:13 +0000",
+      "ts": 1794637993
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slides below $68,000 as Anthropic IPO frenzy drains market liquidity",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
+      "published": "2026-11-14 05:49:56",
+      "ts": 1794635396
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+      "published": "Sat, 14 Nov 2026 04:30:00 +0000",
+      "ts": 1794630600
+    },
     {
       "source": "MarketWatch",
       "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
@@ -199,13 +234,6 @@
       "ts": 1794578520
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
-      "link": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 13:41:26 +0000",
-      "ts": 1794577286
-    },
-    {
       "source": "Investing Forex",
       "title": "Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signals",
       "link": "https://www.investing.com/news/forex-news/euro-yields-hit-multiweek-highs-as-hawkish-fed-shatters-global-bond-rally-5024281",
@@ -213,25 +241,11 @@
       "ts": 1794577149
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
-      "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 13:04:19 +0000",
-      "ts": 1794575059
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Falls 15% In Selloff",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-15-in-selloff-5025250",
       "published": "2026-11-13 13:01:04",
       "ts": 1794574864
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
-      "link": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 12:19:01 +0000",
-      "ts": 1794572341
     },
     {
       "source": "CoinDesk",
@@ -267,13 +281,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
       "published": "Fri, 13 Nov 2026 07:05:29 +0000",
       "ts": 1794553529
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
-      "published": "Fri, 13 Nov 2026 06:03:41 +0000",
-      "ts": 1794549821
     },
     {
       "source": "Investing Forex",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/midchains-and-standard-chartered-establish-strategic-banking-partnership-5020443",
       "published": "2026-11-12 06:30:12",
       "ts": 1794465012
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin subdued, hovers under $74k as rise in Fed rate hike expectations weigh",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-74k-as-hot-cpi-data-spurs-rate-hike-bets-5017791",
-      "published": "2026-11-11 23:24:28",
-      "ts": 1794439468
     }
   ]
 }
