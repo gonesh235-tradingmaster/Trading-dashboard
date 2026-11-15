@@ -1,13 +1,34 @@
 {
-  "updated": "2026-11-15T01:01:54.865463Z",
-  "count": 50,
+  "updated": "2026-11-15T07:51:05.424569Z",
+  "count": 40,
   "items": [
     {
-      "source": "MarketWatch",
-      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-      "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
-      "published": "Sun, 15 Nov 2026 00:33:00 GMT",
-      "ts": 1794702780
+      "source": "CoinTelegraph",
+      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+      "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 15 Nov 2026 06:27:26 +0000",
+      "ts": 1794724046
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slides toward $60,000 as ETF outflows and liquidations intensify",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
+      "published": "2026-11-15 05:40:35",
+      "ts": 1794721235
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "published": "Sun, 15 Nov 2026 02:50:57 +0000",
+      "ts": 1794711057
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Ethereum Falls 10% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5027613",
+      "published": "2026-11-15 01:04:01",
+      "ts": 1794704641
     },
     {
       "source": "Investing Crypto",
@@ -24,20 +45,6 @@
       "ts": 1794692042
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
-      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-      "published": "Sat, 14 Nov 2026 21:31:00 GMT",
-      "ts": 1794691860
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "published": "Sat, 14 Nov 2026 21:00:00 GMT",
-      "ts": 1794690000
-    },
-    {
       "source": "Investing Crypto",
       "title": "Litecoin Falls 11% In Rout",
       "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-falls-11-in-rout-5027513",
@@ -52,27 +59,6 @@
       "ts": 1794689579
     },
     {
-      "source": "MarketWatch",
-      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-      "published": "Sat, 14 Nov 2026 20:00:00 GMT",
-      "ts": 1794686400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "published": "Sat, 14 Nov 2026 19:30:00 GMT",
-      "ts": 1794684600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "published": "Sat, 14 Nov 2026 18:30:00 GMT",
-      "ts": 1794681000
-    },
-    {
       "source": "Investing Crypto",
       "title": "Cardano Falls 10% In Selloff",
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-5027456",
@@ -80,36 +66,8 @@
       "ts": 1794680395
     },
     {
-      "source": "MarketWatch",
-      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "published": "Sat, 14 Nov 2026 18:00:00 GMT",
-      "ts": 1794679200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-      "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-      "published": "Sat, 14 Nov 2026 17:50:00 GMT",
-      "ts": 1794678600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The trillion-dollar mistake corporate America is making about retirement",
-      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-      "published": "Sat, 14 Nov 2026 17:50:00 GMT",
-      "ts": 1794678600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
-      "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
-      "published": "Sat, 14 Nov 2026 17:50:00 GMT",
-      "ts": 1794678600
-    },
-    {
       "source": "CoinDesk",
-      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
       "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "published": "Sat, 14 Nov 2026 16:33:29 +0000",
       "ts": 1794674009
@@ -269,20 +227,6 @@
       "ts": 1794594509
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-      "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
-      "published": "Fri, 13 Nov 2026 17:05:43 +0000",
-      "ts": 1794589543
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
-      "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 16:39:11 +0000",
-      "ts": 1794587951
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar holds near one-month low as U.S. producer inflation keeps Fed bets",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-near-onemonth-low-as-us-producer-inflation-keeps-fed-bets-5025909",
@@ -316,20 +260,6 @@
       "link": "https://www.investing.com/news/forex-news/japanese-yen-tests-160-again-drawing-intervention-threats-5023989",
       "published": "2026-11-13 02:55:28",
       "ts": 1794538528
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BTSE Enterprise Solutions Wins Best White-Label Digital Asset Exchange Platform at Digital Banker Awards 2026",
-      "link": "https://www.investing.com/news/cryptocurrency-news/btse-enterprise-solutions-wins-best-whitelabel-digital-asset-exchange-platform-at-digital-banker-awards-2026-5023881",
-      "published": "2026-11-13 01:30:14",
-      "ts": 1794533414
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin hits over 12-week low; Strategy sinks on MSCI index removal",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-736k-strategy-drops-on-msci-index-removal-5020451",
-      "published": "2026-11-12 22:36:36",
-      "ts": 1794522996
     },
     {
       "source": "Investing Forex",
