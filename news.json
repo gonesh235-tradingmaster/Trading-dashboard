@@ -1,7 +1,49 @@
 {
-  "updated": "2026-11-15T15:21:32.275839Z",
+  "updated": "2026-11-15T20:28:31.691211Z",
   "count": 50,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 20:01:00 GMT",
+      "ts": 1794772860
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 20:00:00 GMT",
+      "ts": 1794772800
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+      "published": "Sun, 15 Nov 2026 19:30:00 +0000",
+      "ts": 1794771000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 16:00:00 GMT",
+      "ts": 1794758400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+      "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 15:22:00 GMT",
+      "ts": 1794756120
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin hovers near $65,000 after weekend selloff to lowest since July",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
+      "published": "2026-11-15 15:17:25",
+      "ts": 1794755845
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
@@ -59,20 +101,6 @@
       "ts": 1794749400
     },
     {
-      "source": "MarketWatch",
-      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-      "published": "Sun, 15 Nov 2026 13:00:00 GMT",
-      "ts": 1794747600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
-      "link": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
-      "published": "Sun, 15 Nov 2026 12:30:00 GMT",
-      "ts": 1794745800
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -115,13 +143,6 @@
       "ts": 1794704641
     },
     {
-      "source": "MarketWatch",
-      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-      "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
-      "published": "Sun, 15 Nov 2026 00:33:00 GMT",
-      "ts": 1794702780
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin falls below $64,000 as ETF outflows extend to seventh straight day",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
@@ -134,13 +155,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-rout-5027520",
       "published": "2026-11-14 21:34:02",
       "ts": 1794692042
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
-      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-      "published": "Sat, 14 Nov 2026 21:31:00 GMT",
-      "ts": 1794691860
     },
     {
       "source": "Investing Crypto",
@@ -241,13 +255,6 @@
       "ts": 1794614819
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-      "published": "Fri, 13 Nov 2026 23:30:00 +0000",
-      "ts": 1794612600
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin set for worst week since early June after more than 10% slide",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-below-70k-as-crypto-appetite-sours-5024070",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/forex-news/japanese-yen-tests-160-again-drawing-intervention-threats-5023989",
       "published": "2026-11-13 02:55:28",
       "ts": 1794538528
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BTSE Enterprise Solutions Wins Best White-Label Digital Asset Exchange Platform at Digital Banker Awards 2026",
-      "link": "https://www.investing.com/news/cryptocurrency-news/btse-enterprise-solutions-wins-best-whitelabel-digital-asset-exchange-platform-at-digital-banker-awards-2026-5023881",
-      "published": "2026-11-13 01:30:14",
-      "ts": 1794533414
     },
     {
       "source": "Investing Forex",
