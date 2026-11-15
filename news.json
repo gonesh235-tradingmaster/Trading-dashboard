@@ -1,20 +1,104 @@
 {
-  "updated": "2026-11-15T07:51:05.424569Z",
-  "count": 40,
+  "updated": "2026-11-15T15:21:32.275839Z",
+  "count": 50,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 15:00:00 GMT",
+      "ts": 1794754800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+      "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 15:00:00 GMT",
+      "ts": 1794754800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Enterprise blockchain is going to come back from the dead",
+      "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 15 Nov 2026 14:30:00 +0000",
+      "ts": 1794753000
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+      "published": "Sun, 15 Nov 2026 14:00:00 +0000",
+      "ts": 1794751200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 14:00:00 GMT",
+      "ts": 1794751200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+      "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 14:00:00 GMT",
+      "ts": 1794751200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 13:30:00 GMT",
+      "ts": 1794749400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The U.S. is turning more socialist under Trump 2.0, one analyst says. What could change with a Democratic-run Congress?",
+      "link": "https://www.marketwatch.com/story/the-u-s-is-turning-more-socialist-under-trump-2-0-one-analyst-says-what-could-change-with-a-democratic-run-congress-95d7ff17?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 13:30:00 GMT",
+      "ts": 1794749400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 13:00:00 GMT",
+      "ts": 1794747600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
+      "link": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 12:30:00 GMT",
+      "ts": 1794745800
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 15 Nov 2026 11:18:48 +0000",
+      "ts": 1794741528
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+      "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 15 Nov 2026 10:23:17 +0000",
+      "ts": 1794738197
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Coinone warns of phishing, identity theft after customer data breach",
+      "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 15 Nov 2026 08:07:58 +0000",
+      "ts": 1794730078
+    },
     {
       "source": "CoinTelegraph",
       "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
       "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 15 Nov 2026 06:27:26 +0000",
       "ts": 1794724046
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slides toward $60,000 as ETF outflows and liquidations intensify",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
-      "published": "2026-11-15 05:40:35",
-      "ts": 1794721235
     },
     {
       "source": "CoinDesk",
@@ -31,6 +115,13 @@
       "ts": 1794704641
     },
     {
+      "source": "MarketWatch",
+      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+      "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 00:33:00 GMT",
+      "ts": 1794702780
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin falls below $64,000 as ETF outflows extend to seventh straight day",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
@@ -43,6 +134,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-rout-5027520",
       "published": "2026-11-14 21:34:02",
       "ts": 1794692042
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "published": "Sat, 14 Nov 2026 21:31:00 GMT",
+      "ts": 1794691860
     },
     {
       "source": "Investing Crypto",
@@ -109,13 +207,6 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 14 Nov 2026 11:28:12 +0000",
-      "ts": 1794655692
-    },
-    {
-      "source": "CoinTelegraph",
       "title": "Microsoft confirms global outage resolved, rules out cyberattack",
       "link": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 14 Nov 2026 10:34:06 +0000",
@@ -178,20 +269,6 @@
       "ts": 1794606567
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
-      "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 21:01:39 +0000",
-      "ts": 1794603699
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
-      "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 20:53:20 +0000",
-      "ts": 1794603200
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
       "link": "https://www.investing.com/news/forex-news/asia-fx-yen-intervention-in-focus-as-rate-hike-bets-put-dollar-near-19mth-high-5024024",
@@ -211,20 +288,6 @@
       "link": "https://www.investing.com/news/forex-news/chile-peso-hits-19month-low-as-copper-drops-us-rate-outlook-weighs-93CH-5026374",
       "published": "2026-11-13 19:30:07",
       "ts": 1794598207
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-      "published": "Fri, 13 Nov 2026 18:39:58 +0000",
-      "ts": 1794595198
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
-      "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 18:28:29 +0000",
-      "ts": 1794594509
     },
     {
       "source": "Investing Forex",
@@ -260,6 +323,13 @@
       "link": "https://www.investing.com/news/forex-news/japanese-yen-tests-160-again-drawing-intervention-threats-5023989",
       "published": "2026-11-13 02:55:28",
       "ts": 1794538528
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "BTSE Enterprise Solutions Wins Best White-Label Digital Asset Exchange Platform at Digital Banker Awards 2026",
+      "link": "https://www.investing.com/news/cryptocurrency-news/btse-enterprise-solutions-wins-best-whitelabel-digital-asset-exchange-platform-at-digital-banker-awards-2026-5023881",
+      "published": "2026-11-13 01:30:14",
+      "ts": 1794533414
     },
     {
       "source": "Investing Forex",
