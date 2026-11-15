@@ -1,13 +1,55 @@
 {
-  "updated": "2026-11-14T21:06:06.888689Z",
+  "updated": "2026-11-15T01:01:54.865463Z",
   "count": 50,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+      "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+      "published": "Sun, 15 Nov 2026 00:33:00 GMT",
+      "ts": 1794702780
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls below $64,000 as ETF outflows extend to seventh straight day",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
+      "published": "2026-11-14 22:19:32",
+      "ts": 1794694772
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "XRP Falls 10% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-rout-5027520",
+      "published": "2026-11-14 21:34:02",
+      "ts": 1794692042
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "published": "Sat, 14 Nov 2026 21:31:00 GMT",
+      "ts": 1794691860
+    },
     {
       "source": "MarketWatch",
       "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
       "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
       "published": "Sat, 14 Nov 2026 21:00:00 GMT",
       "ts": 1794690000
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Litecoin Falls 11% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-falls-11-in-rout-5027513",
+      "published": "2026-11-14 20:55:58",
+      "ts": 1794689758
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Falls 13% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-13-in-rout-5027512",
+      "published": "2026-11-14 20:52:59",
+      "ts": 1794689579
     },
     {
       "source": "MarketWatch",
@@ -22,13 +64,6 @@
       "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
       "published": "Sat, 14 Nov 2026 19:30:00 GMT",
       "ts": 1794684600
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
-      "published": "2026-11-14 18:52:05",
-      "ts": 1794682325
     },
     {
       "source": "MarketWatch",
@@ -73,22 +108,8 @@
       "ts": 1794678600
     },
     {
-      "source": "MarketWatch",
-      "title": "The lonely labor of caregiving: ‘You shouldn’t have to be rich to take care of the people you love’",
-      "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
-      "published": "Sat, 14 Nov 2026 17:50:00 GMT",
-      "ts": 1794678600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
-      "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-      "published": "Sat, 14 Nov 2026 17:50:00 GMT",
-      "ts": 1794678600
-    },
-    {
       "source": "CoinDesk",
-      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
       "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "published": "Sat, 14 Nov 2026 16:33:29 +0000",
       "ts": 1794674009
@@ -318,13 +339,6 @@
       "ts": 1794516818
     },
     {
-      "source": "Investing Crypto",
-      "title": "Binance restores all $6.3 billion stolen in October hack",
-      "link": "https://www.investing.com/news/cryptocurrency-news/binance-restores-all-63-billion-stolen-in-october-hack-5022924",
-      "published": "2026-11-12 18:04:25",
-      "ts": 1794506665
-    },
-    {
       "source": "Investing Forex",
       "title": "Is dollar finally ready to break out? BCA weighs in",
       "link": "https://www.investing.com/news/forex-news/is-dollar-finally-ready-to-break-out-bca-weighs-in-5022178",
@@ -337,20 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-hold-near-1week-highs-investors-weigh-hawkish-fed-bets-5020470",
       "published": "2026-11-12 13:01:31",
       "ts": 1794488491
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "AVA Foundation and Travala Unveil AVA 3.0: A Travala-First Roadmap",
-      "link": "https://www.investing.com/news/cryptocurrency-news/ava-foundation-and-travala-unveil-ava-30-a-travalafirst-roadmap-5021415",
-      "published": "2026-11-12 12:30:19",
-      "ts": 1794486619
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Falls 19% In Bearish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-19-in-bearish-trade-5021397",
-      "published": "2026-11-12 12:24:00",
-      "ts": 1794486240
     }
   ]
 }
