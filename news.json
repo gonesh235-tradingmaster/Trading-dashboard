@@ -1,132 +1,272 @@
 {
-  "updated": "2026-11-18T07:57:01.728670Z",
+  "updated": "2026-11-18T17:01:52.534254Z",
   "count": 50,
   "items": [
     {
-      "source": "Investing Forex",
-      "title": "After $6.3 billion crypto heist, Binance plans foray into 5 Asian markets",
-      "link": "https://www.investing.com/news/forex-news/after-63-billion-crypto-heist-binance-plans-foray-into-5-asian-markets-5034971",
-      "published": "2026-11-18 07:42:29",
-      "ts": 1794987749
+      "source": "MarketWatch",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "published": "Wed, 18 Nov 2026 17:00:00 GMT",
+      "ts": 1795021200
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
+      "link": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 16:34:20 +0000",
+      "ts": 1795019660
+    },
+    {
+      "source": "MarketWatch",
+      "title": "CoreWeave’s stock drops as Nvidia talks up a ‘disciplined’ approach to financing",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+      "published": "Wed, 18 Nov 2026 16:30:00 GMT",
+      "ts": 1795019400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Worried investors are paying a premium for these stocks — some with as much as 49% upside, analysts say",
+      "link": "https://www.marketwatch.com/story/worried-investors-are-paying-up-for-these-stocks-some-with-up-to-49-upside-analysts-say-ea8f2c6f?mod=mw_rss_topstories",
+      "published": "Wed, 18 Nov 2026 16:04:00 GMT",
+      "ts": 1795017840
     },
     {
       "source": "CoinDesk",
-      "title": "Google finds self-running AI hacking tool with Russian comments in its files",
-      "link": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
-      "published": "Wed, 18 Nov 2026 07:37:59 +0000",
-      "ts": 1794987479
+      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
+      "published": "Wed, 18 Nov 2026 16:02:54 +0000",
+      "ts": 1795017774
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oracle’s stock is ridiculously cheap even in the most gloomy scenarios, analyst says",
+      "link": "https://www.marketwatch.com/story/oracles-stock-is-ridiculously-cheap-even-under-the-most-gloomy-scenarios-analyst-says-630d30ec?mod=mw_rss_topstories",
+      "published": "Wed, 18 Nov 2026 15:57:00 GMT",
+      "ts": 1795017420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
+      "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+      "published": "Wed, 18 Nov 2026 15:42:00 GMT",
+      "ts": 1795016520
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
-      "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
-      "published": "Wed, 18 Nov 2026 07:27:48 +0000",
-      "ts": 1794986868
+      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+      "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+      "published": "Wed, 18 Nov 2026 15:38:38 +0000",
+      "ts": 1795016318
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar holds near 19-mth high on Fed hike bets",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-19mth-high-on-fed-hike-bets-5034711",
-      "published": "2026-11-18 06:56:05",
-      "ts": 1794984965
+      "source": "MarketWatch",
+      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+      "published": "Wed, 18 Nov 2026 15:32:00 GMT",
+      "ts": 1795015920
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
+      "link": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+      "published": "Wed, 18 Nov 2026 15:23:18 +0000",
+      "ts": 1795015398
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin muted below $65k as rate, tech jitters persist; Fed minutes awaited",
+      "title": "Bitcoin dips to $63.4k as rate jitters persist; Fed minutes awaited",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-muted-below-65k-as-rate-tech-jitters-persist-fed-minutes-awaited-5034879",
-      "published": "2026-11-18 06:46:34",
-      "ts": 1794984394
+      "published": "2026-11-18 15:02:42",
+      "ts": 1795014162
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Fed’s Waller says interest-rate hikes may be needed to ‘shock’ inflation out of the system",
+      "link": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
+      "published": "Wed, 18 Nov 2026 15:00:00 GMT",
+      "ts": 1795014000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025",
+      "link": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
+      "published": "Wed, 18 Nov 2026 14:33:00 GMT",
+      "ts": 1795012380
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Anthropic wants everyday investors to be part of its IPO. Those investors have their doubts.",
+      "link": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories",
+      "published": "Wed, 18 Nov 2026 14:09:00 GMT",
+      "ts": 1795010940
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The AI power scramble is in full force. Which companies really stand to profit?",
+      "link": "https://www.marketwatch.com/story/the-ai-power-scramble-is-in-full-force-which-companies-really-stand-to-profit-f719619c?mod=mw_rss_topstories",
+      "published": "Wed, 18 Nov 2026 14:06:00 GMT",
+      "ts": 1795010760
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
+      "link": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 14:04:50 +0000",
+      "ts": 1795010690
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
+      "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 13:42:37 +0000",
+      "ts": 1795009357
     },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 06:00:00 +0000",
-      "ts": 1794981600
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-      "link": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
-      "published": "Wed, 18 Nov 2026 05:30:10 +0000",
-      "ts": 1794979810
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
-      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
-      "published": "Wed, 18 Nov 2026 04:34:21 +0000",
-      "ts": 1794976461
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
-      "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
-      "published": "Wed, 18 Nov 2026 04:28:37 +0000",
-      "ts": 1794976117
+      "published": "Wed, 18 Nov 2026 13:34:00 +0000",
+      "ts": 1795008840
     },
     {
       "source": "CoinTelegraph",
-      "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
-      "link": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 02:39:52 +0000",
-      "ts": 1794969592
-    },
-    {
-      "source": "MarketWatch",
-      "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
-      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
-      "published": "Wed, 18 Nov 2026 01:59:00 GMT",
-      "ts": 1794967140
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Medicare Part B premiums rise due higher healthcare spending",
-      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-      "published": "Wed, 18 Nov 2026 01:45:00 GMT",
-      "ts": 1794966300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
-      "published": "Wed, 18 Nov 2026 01:28:00 GMT",
-      "ts": 1794965280
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
-      "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
-      "published": "Wed, 18 Nov 2026 00:46:25 +0000",
-      "ts": 1794962785
+      "title": "Sanctions fears loom over Russia’s regulated crypto trading launch",
+      "link": "https://cointelegraph.com/news/sanctions-fears-russia-crypto-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 13:32:19 +0000",
+      "ts": 1795008739
     },
     {
       "source": "CoinTelegraph",
-      "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
-      "link": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 00:16:43 +0000",
-      "ts": 1794961003
+      "title": "How to preserve wealth and access funds during a national emergency",
+      "link": "https://cointelegraph.com/magazine/how-to-preserve-wealth-and-access-it-during-a-national-emergency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 13:30:00 +0000",
+      "ts": 1795008600
     },
     {
-      "source": "MarketWatch",
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "published": "Tue, 17 Nov 2026 23:30:00 GMT",
-      "ts": 1794958200
+      "source": "Investing Forex",
+      "title": "After $6.3 billion crypto heist, Binance plans Asia expansion",
+      "link": "https://www.investing.com/news/forex-news/after-63-billion-crypto-heist-binance-plans-foray-into-5-asian-markets-5034971",
+      "published": "2026-11-18 13:19:01",
+      "ts": 1795007941
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "published": "Tue, 17 Nov 2026 23:15:00 GMT",
-      "ts": 1794957300
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields retreat to near one-week lows ahead of Fed minutes",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-anchor-near-1month-highs-as-traders-brace-for-sticky-inflation-print-5034892",
+      "published": "2026-11-18 13:06:03",
+      "ts": 1795007163
     },
     {
-      "source": "MarketWatch",
-      "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
-      "link": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
-      "published": "Tue, 17 Nov 2026 22:46:00 GMT",
-      "ts": 1794955560
+      "source": "CoinDesk",
+      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+      "published": "Wed, 18 Nov 2026 12:53:34 +0000",
+      "ts": 1795006414
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit",
+      "link": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 12:53:12 +0000",
+      "ts": 1795006392
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+      "link": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
+      "published": "Wed, 18 Nov 2026 12:41:09 +0000",
+      "ts": 1795005669
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
+      "link": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
+      "published": "Wed, 18 Nov 2026 12:25:14 +0000",
+      "ts": 1795004714
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
+      "published": "Wed, 18 Nov 2026 12:15:00 +0000",
+      "ts": 1795004100
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
+      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
+      "published": "Wed, 18 Nov 2026 11:42:52 +0000",
+      "ts": 1795002172
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
+      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
+      "published": "Wed, 18 Nov 2026 10:58:36 +0000",
+      "ts": 1794999516
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar holds near 19-mth high in 7th daily advance on Fed hike bets",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-19mth-high-on-fed-hike-bets-5034711",
+      "published": "2026-11-18 10:39:00",
+      "ts": 1794998340
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound slips as U.S. rate bets outweigh UK CPI rise to 3.6%",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-us-rate-bets-outweigh-uk-cpi-rise-to-36-5035366",
+      "published": "2026-11-18 10:38:12",
+      "ts": 1794998292
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+      "link": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 10:33:07 +0000",
+      "ts": 1794997987
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
+      "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 10:31:20 +0000",
+      "ts": 1794997880
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "More Than a Swap: PancakeSwap Rebrands as Pancake Ahead of Mobile App Launch",
+      "link": "https://www.investing.com/news/cryptocurrency-news/more-than-a-swap-pancakeswap-rebrands-as-pancake-ahead-of-mobile-app-launch-5035291",
+      "published": "2026-11-18 09:58:17",
+      "ts": 1794995897
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy stock could plunge 76% to $23, chart analyst warns",
+      "link": "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns",
+      "published": "Wed, 18 Nov 2026 09:31:41 +0000",
+      "ts": 1794994301
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+      "link": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 09:17:18 +0000",
+      "ts": 1794993438
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Crystal Intelligence unveils AI Investigator to speed up crypto investigations",
+      "link": "https://www.investing.com/news/cryptocurrency-news/crystal-intelligence-unveils-ai-investigator-to-speed-up-crypto-investigations-5035186",
+      "published": "2026-11-18 09:08:37",
+      "ts": 1794992917
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canada adjusts China ties, Carney says, aiming to clinch right deal with US",
+      "link": "https://www.investing.com/news/forex-news/canada-adjusts-china-ties-carney-says-aiming-to-clinch-right-deal-with-us-5035098",
+      "published": "2026-11-18 08:25:10",
+      "ts": 1794990310
     },
     {
       "source": "Investing Crypto",
@@ -136,109 +276,11 @@
       "ts": 1794955147
     },
     {
-      "source": "MarketWatch",
-      "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-      "published": "Tue, 17 Nov 2026 22:30:00 GMT",
-      "ts": 1794954600
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
-      "link": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 22:20:04 +0000",
-      "ts": 1794954004
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
-      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "published": "Tue, 17 Nov 2026 22:15:00 GMT",
-      "ts": 1794953700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
-      "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
-      "published": "Tue, 17 Nov 2026 22:08:00 GMT",
-      "ts": 1794953280
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
-      "link": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 21:56:35 +0000",
-      "ts": 1794952595
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?",
-      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "published": "Tue, 17 Nov 2026 21:30:00 GMT",
-      "ts": 1794951000
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
-      "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
-      "published": "Tue, 17 Nov 2026 21:25:50 +0000",
-      "ts": 1794950750
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
-      "link": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 20:05:04 +0000",
-      "ts": 1794945904
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
-      "link": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
-      "published": "Tue, 17 Nov 2026 19:45:57 +0000",
-      "ts": 1794944757
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
-      "link": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
-      "published": "Tue, 17 Nov 2026 19:16:00 +0000",
-      "ts": 1794942960
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar finally dips after fresh 19-month peak, set to snap five-day win streak",
       "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-hits-19mth-peak-on-fed-tightening-bets-5031600",
       "published": "2026-11-17 19:14:14",
       "ts": 1794942854
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Lighter incident exposes risks beyond withdrawal controls",
-      "link": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 17:51:53 +0000",
-      "ts": 1794937913
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
-      "link": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
-      "published": "Tue, 17 Nov 2026 17:42:40 +0000",
-      "ts": 1794937360
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
-      "link": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 17:39:41 +0000",
-      "ts": 1794937181
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
-      "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 16:39:43 +0000",
-      "ts": 1794933583
     },
     {
       "source": "Investing Forex",
@@ -260,13 +302,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitrue-research-institute-releases-report-finding-growing-interest-in-aiassisted-crypto-trading-5033440",
       "published": "2026-11-17 15:16:41",
       "ts": 1794928601
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
-      "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 14:45:49 +0000",
-      "ts": 1794926749
     },
     {
       "source": "Investing Crypto",
@@ -297,13 +332,6 @@
       "ts": 1794907329
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar hits 19-month high as hawkish Fed signals bolster rate hike bets",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358",
-      "published": "2026-11-16 23:17:29",
-      "ts": 1794871049
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin muted at $65.2k as crypto sentiment dithers, ETF outflows persist",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-65k-as-crypto-sentiment-dithers-etf-outflows-persist-5028381",
@@ -318,39 +346,11 @@
       "ts": 1794845350
     },
     {
-      "source": "Investing Forex",
-      "title": "Treasury yields pause near 1-month highs as traders brace for Fed signals",
-      "link": "https://www.investing.com/news/forex-news/eurozone-yields-stall-after-volatile-week-as-traders-brace-for-ai-megatests-5028425",
-      "published": "2026-11-16 13:45:54",
-      "ts": 1794836754
-    },
-    {
       "source": "Investing Crypto",
       "title": "Strategy buys 485 bitcoin, sells MSTR shares for $244.7M in ATM offering",
       "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-485-bitcoin-sells-mstr-shares-for-2447m-in-atm-offering-432SI-5029704",
       "published": "2026-11-16 13:07:02",
       "ts": 1794834422
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound extends slide as dollar firms on hawkish Fed bets",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-extends-slide-as-dollar-firms-on-hawkish-fed-bets-5028808",
-      "published": "2026-11-16 10:14:08",
-      "ts": 1794824048
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin hovers near $65,000 after weekend selloff to lowest since July",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
-      "published": "2026-11-15 15:17:25",
-      "ts": 1794755845
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Ethereum Falls 10% In Rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5027613",
-      "published": "2026-11-15 01:04:01",
-      "ts": 1794704641
     }
   ]
 }
