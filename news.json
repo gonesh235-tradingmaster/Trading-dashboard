@@ -1,7 +1,70 @@
 {
-  "updated": "2026-11-18T23:22:46.951354Z",
+  "updated": "2026-11-19T04:21:56.116075Z",
   "count": 50,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "published": "Thu, 19 Nov 2026 03:45:00 GMT",
+      "ts": 1795059900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "published": "Thu, 19 Nov 2026 03:45:00 GMT",
+      "ts": 1795059900
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+      "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+      "published": "Thu, 19 Nov 2026 03:40:48 +0000",
+      "ts": 1795059648
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "published": "Thu, 19 Nov 2026 03:30:00 GMT",
+      "ts": 1795059000
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump administration unveils new center to choke off scam payments",
+      "link": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 01:45:33 +0000",
+      "ts": 1795052733
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+      "published": "Thu, 19 Nov 2026 01:02:00 GMT",
+      "ts": 1795050120
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+      "link": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 00:35:49 +0000",
+      "ts": 1795048549
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+      "published": "Thu, 19 Nov 2026 00:33:46 +0000",
+      "ts": 1795048426
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "published": "Thu, 19 Nov 2026 00:30:00 GMT",
+      "ts": 1795048200
+    },
     {
       "source": "MarketWatch",
       "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
@@ -20,13 +83,6 @@
       "source": "MarketWatch",
       "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
       "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
-      "published": "Wed, 18 Nov 2026 22:53:00 GMT",
-      "ts": 1795042380
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
       "published": "Wed, 18 Nov 2026 22:53:00 GMT",
       "ts": 1795042380
     },
@@ -66,13 +122,6 @@
       "ts": 1795039200
     },
     {
-      "source": "MarketWatch",
-      "title": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
-      "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
-      "published": "Wed, 18 Nov 2026 21:58:00 GMT",
-      "ts": 1795039080
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
       "link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -87,32 +136,11 @@
       "ts": 1795038233
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "published": "Wed, 18 Nov 2026 21:30:00 GMT",
-      "ts": 1795037400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
-      "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
-      "published": "Wed, 18 Nov 2026 21:19:00 GMT",
-      "ts": 1795036740
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
       "link": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 18 Nov 2026 21:13:58 +0000",
       "ts": 1795036438
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
-      "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
-      "published": "Wed, 18 Nov 2026 21:01:00 GMT",
-      "ts": 1795035660
     },
     {
       "source": "CoinTelegraph",
@@ -164,13 +192,6 @@
       "ts": 1795021200
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
-      "link": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 16:34:20 +0000",
-      "ts": 1795019660
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
       "link": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
@@ -190,13 +211,6 @@
       "link": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
       "published": "Wed, 18 Nov 2026 15:23:18 +0000",
       "ts": 1795015398
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
-      "link": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 14:04:50 +0000",
-      "ts": 1795010690
     },
     {
       "source": "Investing Forex",
@@ -232,20 +246,6 @@
       "link": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
       "published": "Wed, 18 Nov 2026 12:25:14 +0000",
       "ts": 1795004714
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
-      "published": "Wed, 18 Nov 2026 12:15:00 +0000",
-      "ts": 1795004100
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-      "published": "Wed, 18 Nov 2026 11:42:52 +0000",
-      "ts": 1795002172
     },
     {
       "source": "Investing Forex",
