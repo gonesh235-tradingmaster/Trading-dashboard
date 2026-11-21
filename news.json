@@ -1,20 +1,125 @@
 {
-  "updated": "2026-11-21T07:43:32.312877Z",
+  "updated": "2026-11-21T15:38:56.525675Z",
   "count": 50,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+      "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+      "published": "Sat, 21 Nov 2026 15:35:00 GMT",
+      "ts": 1795275300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "published": "Sat, 21 Nov 2026 15:15:00 GMT",
+      "ts": 1795274100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "published": "Sat, 21 Nov 2026 15:15:00 GMT",
+      "ts": 1795274100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+      "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+      "published": "Sat, 21 Nov 2026 15:03:00 GMT",
+      "ts": 1795273380
+    },
+    {
+      "source": "MarketWatch",
+      "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+      "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+      "published": "Sat, 21 Nov 2026 15:01:00 GMT",
+      "ts": 1795273260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+      "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+      "published": "Sat, 21 Nov 2026 15:00:00 GMT",
+      "ts": 1795273200
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin hits $55,326, lowest since Sept 2024, before rebounding above $60,000",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-crashes-below-56000-as-liquidity-squeeze-deepens-crypto-selloff-5043199",
+      "published": "2026-11-21 14:51:15",
+      "ts": 1795272675
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+      "published": "Sat, 21 Nov 2026 14:42:00 GMT",
+      "ts": 1795272120
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
+      "link": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
+      "published": "Sat, 21 Nov 2026 14:17:00 GMT",
+      "ts": 1795270620
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet",
+      "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+      "published": "Sat, 21 Nov 2026 14:00:00 GMT",
+      "ts": 1795269600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s nonstop drama is keeping buyers away from a historically cheap stock",
+      "link": "https://www.marketwatch.com/story/nvidias-nonstop-drama-is-keeping-buyers-away-from-a-historically-cheap-stock-604022da?mod=mw_rss_topstories",
+      "published": "Sat, 21 Nov 2026 13:30:00 GMT",
+      "ts": 1795267800
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+      "published": "Sat, 21 Nov 2026 12:30:00 +0000",
+      "ts": 1795264200
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 21 Nov 2026 11:18:52 +0000",
+      "ts": 1795259932
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+      "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 21 Nov 2026 09:48:56 +0000",
+      "ts": 1795254536
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Bitcoin falls to its lowest in two years",
+      "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
+      "published": "2026-11-21 09:12:18",
+      "ts": 1795252338
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 21 Nov 2026 07:51:47 +0000",
+      "ts": 1795247507
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
       "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
       "published": "Sat, 21 Nov 2026 06:16:42 +0000",
       "ts": 1795241802
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Bitcoin falls to its lowest in two years",
-      "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
-      "published": "2026-11-21 06:06:19",
-      "ts": 1795241179
     },
     {
       "source": "Investing Crypto",
@@ -39,13 +144,6 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin crashes below $56,000 as liquidity squeeze deepens crypto selloff",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-crashes-below-56000-as-liquidity-squeeze-deepens-crypto-selloff-5043199",
-      "published": "2026-11-21 05:46:26",
-      "ts": 1795239986
-    },
-    {
-      "source": "Investing Crypto",
       "title": "XRP Falls 10% In Selloff",
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5043190",
       "published": "2026-11-21 05:44:04",
@@ -66,13 +164,6 @@
       "ts": 1795234207
     },
     {
-      "source": "MarketWatch",
-      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-      "published": "Sat, 21 Nov 2026 03:20:00 GMT",
-      "ts": 1795231200
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin on track for longest weekly losing streak since May 2022 amid AI rout",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
@@ -85,27 +176,6 @@
       "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
       "published": "Fri, 20 Nov 2026 22:51:14 +0000",
       "ts": 1795215074
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-      "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 22:46:00 GMT",
-      "ts": 1795214760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-      "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 22:44:00 GMT",
-      "ts": 1795214640
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-      "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 22:44:00 GMT",
-      "ts": 1795214640
     },
     {
       "source": "Investing Forex",
@@ -122,53 +192,11 @@
       "ts": 1795212331
     },
     {
-      "source": "MarketWatch",
-      "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 21:58:00 GMT",
-      "ts": 1795211880
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data",
       "link": "https://www.investing.com/news/forex-news/asia-fx-struggles-as-dollar-holds-near-19mth-high-aussie-hits-11month-low-5040667",
       "published": "2026-11-20 21:44:47",
       "ts": 1795211087
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
-      "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 21:39:00 GMT",
-      "ts": 1795210740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
-      "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 21:39:00 GMT",
-      "ts": 1795210740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-      "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 21:36:00 GMT",
-      "ts": 1795210560
-    },
-    {
-      "source": "MarketWatch",
-      "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
-      "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 21:34:00 GMT",
-      "ts": 1795210440
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 21:25:00 GMT",
-      "ts": 1795209900
     },
     {
       "source": "CoinTelegraph",
@@ -253,34 +281,6 @@
       "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
       "published": "Fri, 20 Nov 2026 14:25:57 +0000",
       "ts": 1795184757
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
-      "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-      "published": "Fri, 20 Nov 2026 13:35:33 +0000",
-      "ts": 1795181733
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 13:29:58 +0000",
-      "ts": 1795181398
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
-      "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 13:21:39 +0000",
-      "ts": 1795180899
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
-      "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 11:31:41 +0000",
-      "ts": 1795174301
     },
     {
       "source": "Investing Forex",
