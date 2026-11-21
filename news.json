@@ -1,7 +1,77 @@
 {
-  "updated": "2026-11-21T00:41:43.033883Z",
+  "updated": "2026-11-21T07:43:32.312877Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+      "published": "Sat, 21 Nov 2026 06:16:42 +0000",
+      "ts": 1795241802
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Bitcoin falls to its lowest in two years",
+      "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
+      "published": "2026-11-21 06:06:19",
+      "ts": 1795241179
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin Falls 10% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-10-in-rout-5043212",
+      "published": "2026-11-21 06:02:03",
+      "ts": 1795240923
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+      "published": "Sat, 21 Nov 2026 05:59:19 +0000",
+      "ts": 1795240759
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Falls 10% In Bearish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-5043202",
+      "published": "2026-11-21 05:57:57",
+      "ts": 1795240677
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin crashes below $56,000 as liquidity squeeze deepens crypto selloff",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-crashes-below-56000-as-liquidity-squeeze-deepens-crypto-selloff-5043199",
+      "published": "2026-11-21 05:46:26",
+      "ts": 1795239986
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "XRP Falls 10% In Selloff",
+      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5043190",
+      "published": "2026-11-21 05:44:04",
+      "ts": 1795239844
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 21 Nov 2026 05:40:35 +0000",
+      "ts": 1795239635
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+      "published": "Sat, 21 Nov 2026 04:10:07 +0000",
+      "ts": 1795234207
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+      "published": "Sat, 21 Nov 2026 03:20:00 GMT",
+      "ts": 1795231200
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin on track for longest weekly losing streak since May 2022 amid AI rout",
@@ -101,13 +171,6 @@
       "ts": 1795209900
     },
     {
-      "source": "MarketWatch",
-      "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
-      "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 21:01:00 GMT",
-      "ts": 1795208460
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
       "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -199,13 +262,6 @@
       "ts": 1795181733
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-      "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-      "published": "Fri, 20 Nov 2026 13:30:22 +0000",
-      "ts": 1795181422
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -220,32 +276,11 @@
       "ts": 1795180899
     },
     {
-      "source": "CoinDesk",
-      "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-      "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-      "published": "Fri, 20 Nov 2026 13:11:49 +0000",
-      "ts": 1795180309
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-      "published": "Fri, 20 Nov 2026 12:15:08 +0000",
-      "ts": 1795176908
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
       "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 20 Nov 2026 11:31:41 +0000",
       "ts": 1795174301
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
-      "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 10:54:38 +0000",
-      "ts": 1795172078
     },
     {
       "source": "Investing Forex",
@@ -297,32 +332,11 @@
       "ts": 1795121341
     },
     {
-      "source": "Investing Crypto",
-      "title": "Dinari Launches Tokenized Anthropic Shares on First Day of Nasdaq Trading",
-      "link": "https://www.investing.com/news/cryptocurrency-news/dinari-launches-tokenized-anthropic-shares-on-first-day-of-nasdaq-trading-5039835",
-      "published": "2026-11-19 19:56:08",
-      "ts": 1795118168
-    },
-    {
       "source": "Investing Forex",
       "title": "Offshore yuan dip looks like a liquidity blip, not a trend shift",
       "link": "https://www.investing.com/news/forex-news/offshore-yuan-dip-looks-like-a-liquidity-blip-not-a-trend-shift-93CH-5039801",
       "published": "2026-11-19 19:24:25",
       "ts": 1795116265
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bybit Joins Proof of Talk in Abu Dhabi 2026 as Title Partner and Official Exchange Partner",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bybit-joins-proof-of-talk-in-abu-dhabi-2026-as-title-partner-and-official-exchange-partner-5039600",
-      "published": "2026-11-19 16:53:46",
-      "ts": 1795107226
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitrue Among the First CEXs to Support ANTx as Anthropic Debuts on Nasdaq",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitrue-among-the-first-cexs-to-support-antx-as-anthropic-debuts-on-nasdaq-5039570",
-      "published": "2026-11-19 16:23:20",
-      "ts": 1795105400
     },
     {
       "source": "Investing Forex",
@@ -337,20 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/brazilian-real-near-52week-lows-as-fiscal-concerns-weigh-on-currency-93CH-5039497",
       "published": "2026-11-19 15:47:02",
       "ts": 1795103222
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Mexican peso falls to 52-week low as Banxico-Fed rate gap narrows",
-      "link": "https://www.investing.com/news/forex-news/mexican-peso-falls-to-52week-low-as-banxicofed-rate-gap-narrows-93CH-5039488",
-      "published": "2026-11-19 15:42:30",
-      "ts": 1795102950
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Hashi Mainnet is Live With 20-Plus Partners, Bringing Bitcoin Finance to Sui at Scale",
-      "link": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-is-live-with-20plus-partners-bringing-bitcoin-finance-to-sui-at-scale-5039228",
-      "published": "2026-11-19 14:21:36",
-      "ts": 1795098096
     }
   ]
 }
