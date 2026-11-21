@@ -1,20 +1,132 @@
 {
-  "updated": "2026-11-20T18:57:36.437493Z",
+  "updated": "2026-11-21T00:41:43.033883Z",
   "count": 50,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin on track for longest weekly losing streak since May 2022 amid AI rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
+      "published": "2026-11-20 23:17:58",
+      "ts": 1795216678
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+      "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+      "published": "Fri, 20 Nov 2026 22:51:14 +0000",
+      "ts": 1795215074
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+      "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+      "published": "Fri, 20 Nov 2026 22:46:00 GMT",
+      "ts": 1795214760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+      "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+      "published": "Fri, 20 Nov 2026 22:44:00 GMT",
+      "ts": 1795214640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+      "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+      "published": "Fri, 20 Nov 2026 22:44:00 GMT",
+      "ts": 1795214640
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields and global bond yields plunge as traders flee AI rout",
+      "link": "https://www.investing.com/news/forex-news/global-bond-yields-plunge-as-ai-rout-triggers-flight-to-safety-5040733",
+      "published": "2026-11-20 22:34:35",
+      "ts": 1795214075
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+      "published": "Fri, 20 Nov 2026 22:05:31 +0000",
+      "ts": 1795212331
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "published": "Fri, 20 Nov 2026 21:58:00 GMT",
+      "ts": 1795211880
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-struggles-as-dollar-holds-near-19mth-high-aussie-hits-11month-low-5040667",
+      "published": "2026-11-20 21:44:47",
+      "ts": 1795211087
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+      "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+      "published": "Fri, 20 Nov 2026 21:39:00 GMT",
+      "ts": 1795210740
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+      "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+      "published": "Fri, 20 Nov 2026 21:39:00 GMT",
+      "ts": 1795210740
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+      "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+      "published": "Fri, 20 Nov 2026 21:36:00 GMT",
+      "ts": 1795210560
+    },
+    {
+      "source": "MarketWatch",
+      "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+      "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+      "published": "Fri, 20 Nov 2026 21:34:00 GMT",
+      "ts": 1795210440
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+      "published": "Fri, 20 Nov 2026 21:25:00 GMT",
+      "ts": 1795209900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+      "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+      "published": "Fri, 20 Nov 2026 21:01:00 GMT",
+      "ts": 1795208460
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+      "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 20 Nov 2026 19:37:27 +0000",
+      "ts": 1795203447
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Ethereum Falls 10% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5042458",
+      "published": "2026-11-20 19:18:04",
+      "ts": 1795202284
+    },
     {
       "source": "CoinTelegraph",
       "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
       "link": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 20 Nov 2026 18:37:10 +0000",
       "ts": 1795199830
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 18:15:00 GMT",
-      "ts": 1795198500
     },
     {
       "source": "CoinDesk",
@@ -24,48 +136,6 @@
       "ts": 1795198432
     },
     {
-      "source": "MarketWatch",
-      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 18:00:00 GMT",
-      "ts": 1795197600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why year-end portfolio rebalancing is a risky bet that bonds will beat stocks in 2027",
-      "link": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 17:49:00 GMT",
-      "ts": 1795196940
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 17:47:00 GMT",
-      "ts": 1795196820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 17:15:00 GMT",
-      "ts": 1795194900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 17:15:00 GMT",
-      "ts": 1795194900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 17:05:00 GMT",
-      "ts": 1795194300
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
       "link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -73,32 +143,11 @@
       "ts": 1795193751
     },
     {
-      "source": "MarketWatch",
-      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 16:37:00 GMT",
-      "ts": 1795192620
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nvidia’s stock heads for a stretch of weekly losses unseen since 2008",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 16:19:00 GMT",
-      "ts": 1795191540
-    },
-    {
       "source": "CoinTelegraph",
       "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
       "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 20 Nov 2026 15:55:22 +0000",
       "ts": 1795190122
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Investors fled to healthcare stocks for safety. Now insurance and hospital shares are plunging.",
-      "link": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
-      "published": "Fri, 20 Nov 2026 15:53:00 GMT",
-      "ts": 1795189980
     },
     {
       "source": "CoinTelegraph",
@@ -129,13 +178,6 @@
       "ts": 1795186470
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin drops to near 5-month low below $62k as AI rout batters risk appetite",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
-      "published": "2026-11-20 14:50:11",
-      "ts": 1795186211
-    },
-    {
       "source": "CoinDesk",
       "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
       "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
@@ -151,7 +193,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
       "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
       "published": "Fri, 20 Nov 2026 13:35:33 +0000",
       "ts": 1795181733
@@ -192,13 +234,6 @@
       "ts": 1795176908
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin drops for third straight day as Asian tech shares slide",
-      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-      "published": "Fri, 20 Nov 2026 11:42:02 +0000",
-      "ts": 1795174922
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
       "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -213,13 +248,6 @@
       "ts": 1795172078
     },
     {
-      "source": "CoinDesk",
-      "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-      "link": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-      "published": "Fri, 20 Nov 2026 10:48:04 +0000",
-      "ts": 1795171684
-    },
-    {
       "source": "Investing Forex",
       "title": "UBS flags further euro downside as dollar strength keeps EUR/USD under pressure",
       "link": "https://www.investing.com/news/forex-news/ubs-flags-further-euro-downside-as-dollar-strength-keeps-eurusd-under-pressure-5041144",
@@ -232,27 +260,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-sterling-rebound-later-in-2027-as-fed-rate-cuts-approach-5041141",
       "published": "2026-11-20 10:34:23",
       "ts": 1795170863
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
-      "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 10:29:10 +0000",
-      "ts": 1795170550
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Global bond yields plunge as AI rout triggers flight to safety",
-      "link": "https://www.investing.com/news/forex-news/global-bond-yields-plunge-as-ai-rout-triggers-flight-to-safety-5040733",
-      "published": "2026-11-20 10:01:36",
-      "ts": 1795168896
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar takes a breather near 19-month peak; Yen jumps on hot CPI",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-struggles-as-dollar-holds-near-19mth-high-aussie-hits-11month-low-5040667",
-      "published": "2026-11-20 09:49:42",
-      "ts": 1795168182
     },
     {
       "source": "Investing Forex",
@@ -342,13 +349,6 @@
       "source": "Investing Crypto",
       "title": "Hashi Mainnet is Live With 20-Plus Partners, Bringing Bitcoin Finance to Sui at Scale",
       "link": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-is-live-with-20plus-partners-bringing-bitcoin-finance-to-sui-at-scale-5039228",
-      "published": "2026-11-19 14:21:36",
-      "ts": 1795098096
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Black Betty Universe Announces the Launch of Betty Token (BETTY) on Ethereum",
-      "link": "https://www.investing.com/news/cryptocurrency-news/black-betty-universe-announces-the-launch-of-betty-token-betty-on-ethereum-5039229",
       "published": "2026-11-19 14:21:36",
       "ts": 1795098096
     }
