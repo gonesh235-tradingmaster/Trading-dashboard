@@ -1,7 +1,91 @@
 {
-  "updated": "2026-11-22T08:30:06.700579Z",
+  "updated": "2026-11-22T16:35:36.511404Z",
   "count": 50,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "published": "Sun, 22 Nov 2026 16:32:00 GMT",
+      "ts": 1795365120
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+      "published": "Sun, 22 Nov 2026 16:18:00 GMT",
+      "ts": 1795364280
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+      "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+      "published": "Sun, 22 Nov 2026 16:15:00 GMT",
+      "ts": 1795364100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+      "published": "Sun, 22 Nov 2026 16:10:00 GMT",
+      "ts": 1795363800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+      "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+      "published": "Sun, 22 Nov 2026 16:04:00 GMT",
+      "ts": 1795363440
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+      "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+      "published": "Sun, 22 Nov 2026 15:01:00 GMT",
+      "ts": 1795359660
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 22 Nov 2026 14:30:00 +0000",
+      "ts": 1795357800
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+      "published": "Sun, 22 Nov 2026 14:00:00 +0000",
+      "ts": 1795356000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
+      "link": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
+      "published": "Sun, 22 Nov 2026 14:00:00 GMT",
+      "ts": 1795356000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
+      "link": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
+      "published": "Sun, 22 Nov 2026 12:30:00 GMT",
+      "ts": 1795350600
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 22 Nov 2026 11:25:27 +0000",
+      "ts": 1795346727
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 22 Nov 2026 09:33:06 +0000",
+      "ts": 1795339986
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin struggles below $60,000 as mining profits plunge, security risks grow",
@@ -38,48 +122,6 @@
       "ts": 1795305780
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "published": "Sat, 21 Nov 2026 23:05:00 GMT",
-      "ts": 1795302300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
-      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-      "published": "Sat, 21 Nov 2026 20:15:00 GMT",
-      "ts": 1795292100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "published": "Sat, 21 Nov 2026 19:45:00 GMT",
-      "ts": 1795290300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-      "published": "Sat, 21 Nov 2026 19:45:00 GMT",
-      "ts": 1795290300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
-      "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
-      "published": "Sat, 21 Nov 2026 18:20:00 GMT",
-      "ts": 1795285200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
-      "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-      "published": "Sat, 21 Nov 2026 18:19:00 GMT",
-      "ts": 1795285140
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
       "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
@@ -92,20 +134,6 @@
       "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
       "published": "2026-11-21 17:12:18",
       "ts": 1795281138
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "Sat, 21 Nov 2026 16:50:00 GMT",
-      "ts": 1795279800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "published": "Sat, 21 Nov 2026 16:50:00 GMT",
-      "ts": 1795279800
     },
     {
       "source": "CoinDesk",
@@ -134,13 +162,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
       "published": "Sat, 21 Nov 2026 12:30:00 +0000",
       "ts": 1795264200
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 21 Nov 2026 11:18:52 +0000",
-      "ts": 1795259932
     },
     {
       "source": "CoinTelegraph",
@@ -269,32 +290,11 @@
       "ts": 1795198432
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
-      "link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 16:55:51 +0000",
-      "ts": 1795193751
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
-      "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 15:55:22 +0000",
-      "ts": 1795190122
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin on track for seventh straight weekly loss as ETF outflows hit record",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-on-track-for-seventh-straight-weekly-loss-as-etf-outflows-hit-record-93CH-5042182",
       "published": "2026-11-20 15:38:47",
       "ts": 1795189127
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-      "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
-      "published": "Fri, 20 Nov 2026 14:54:30 +0000",
-      "ts": 1795186470
     },
     {
       "source": "Investing Forex",
