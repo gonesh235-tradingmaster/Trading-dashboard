@@ -1,7 +1,28 @@
 {
-  "updated": "2026-11-22T01:19:09.182077Z",
+  "updated": "2026-11-22T08:30:06.700579Z",
   "count": 50,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin struggles below $60,000 as mining profits plunge, security risks grow",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790",
+      "published": "2026-11-22 07:29:58",
+      "ts": 1795332598
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 22 Nov 2026 07:24:05 +0000",
+      "ts": 1795332245
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 22 Nov 2026 05:28:43 +0000",
+      "ts": 1795325323
+    },
     {
       "source": "MarketWatch",
       "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
@@ -262,25 +283,11 @@
       "ts": 1795190122
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
-      "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 15:52:06 +0000",
-      "ts": 1795189926
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin on track for seventh straight weekly loss as ETF outflows hit record",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-on-track-for-seventh-straight-weekly-loss-as-etf-outflows-hit-record-93CH-5042182",
       "published": "2026-11-20 15:38:47",
       "ts": 1795189127
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "DBS bets it can lose the deposit and keep the client",
-      "link": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 15:32:30 +0000",
-      "ts": 1795188750
     },
     {
       "source": "CoinDesk",
@@ -323,13 +330,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/croo-launches-croo-skill-opening-its-ai-agent-network-to-claude-code-and-codex-users-5040900",
       "published": "2026-11-20 08:08:35",
       "ts": 1795162115
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips, hovers at over four-month low amid rate hike bets, stocks rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-635k-amid-little-relief-from-rate-hike-jitters-5037873",
-      "published": "2026-11-19 23:08:28",
-      "ts": 1795129708
     },
     {
       "source": "Investing Forex",
