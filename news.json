@@ -1,7 +1,196 @@
 {
-  "updated": "2026-11-23T02:44:24.301509Z",
+  "updated": "2026-11-23T11:19:40.692845Z",
   "count": 50,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why don’t others feel the same?",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "published": "Mon, 23 Nov 2026 11:15:00 GMT",
+      "ts": 1795432500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says",
+      "link": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
+      "published": "Mon, 23 Nov 2026 10:57:00 GMT",
+      "ts": 1795431420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang",
+      "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+      "published": "Mon, 23 Nov 2026 10:56:00 GMT",
+      "ts": 1795431360
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea to expand cryptocurrency account freezes and curb illicit transfers abroad",
+      "link": "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad",
+      "published": "Mon, 23 Nov 2026 10:53:19 +0000",
+      "ts": 1795431199
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin breaks a record streak of 'lower highs.' Here's what it means",
+      "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means",
+      "published": "Mon, 23 Nov 2026 10:31:02 +0000",
+      "ts": 1795429862
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar off 19-month peaks as risk appetite rebounds in holiday-shortened week",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-dollar-retreats-from-19month-high-yen-won-weaken-5044324",
+      "published": "2026-11-23 10:30:10",
+      "ts": 1795429810
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A 66-year-old nurse faces retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "published": "Mon, 23 Nov 2026 10:15:00 GMT",
+      "ts": 1795428900
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin climbs back above $61,000 after liquidation-driven selloff",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-61000-after-liquidationdriven-selloff-5044501",
+      "published": "2026-11-23 10:02:38",
+      "ts": 1795428158
+    },
+    {
+      "source": "MarketWatch",
+      "title": "James Bond films were shot all over the world. Here are 5 properties made famous by 007.",
+      "link": "https://www.marketwatch.com/story/james-bond-films-were-shot-all-over-the-world-here-are-5-properties-made-famous-by-007-dabafbe6?mod=mw_rss_topstories",
+      "published": "Mon, 23 Nov 2026 10:02:00 GMT",
+      "ts": 1795428120
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Google co-founder Sergey Brin and ex-wife Nicole Shanahan list Malibu home for $33.5 million",
+      "link": "https://www.marketwatch.com/story/google-co-founder-sergey-brin-and-ex-wife-nicole-shanahan-list-malibu-home-for-33-5-million-0121adcd?mod=mw_rss_topstories",
+      "published": "Mon, 23 Nov 2026 10:01:00 GMT",
+      "ts": 1795428060
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. inflation, Thanksgiving trading: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/11/23/u-s-inflation-thanksgiving-trading-crypto-week-ahead",
+      "published": "Mon, 23 Nov 2026 09:40:25 +0000",
+      "ts": 1795426825
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Stocks are serving up a ‘fat pitch’ for investors right now, says Morgan Stanley’s top strategist",
+      "link": "https://www.marketwatch.com/story/stocks-are-serving-up-a-fat-pitch-for-investors-right-now-as-morgan-stanleys-top-strategist-19abe30a?mod=mw_rss_topstories",
+      "published": "Mon, 23 Nov 2026 09:40:00 GMT",
+      "ts": 1795426800
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound firms as equity rebound trims dollar bid",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-firms-as-equity-rebound-trims-dollar-bid-5044762",
+      "published": "2026-11-23 09:30:09",
+      "ts": 1795426209
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Global bond yields grip multi-week lows amid pandemic-scale tech rout",
+      "link": "https://www.investing.com/news/forex-news/global-bond-yields-grip-multiweek-lows-amid-pandemicscale-tech-rout-5044403",
+      "published": "2026-11-23 09:05:53",
+      "ts": 1795424753
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones",
+      "link": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 09:05:44 +0000",
+      "ts": 1795424744
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Stock-market slides this steep and fast trigger a rebound 91% of the time over the last decade",
+      "link": "https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories",
+      "published": "Mon, 23 Nov 2026 08:37:00 GMT",
+      "ts": 1795423020
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 08:08:52 +0000",
+      "ts": 1795421332
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "HAN CHAIN Schedules Launch of Its First Flagship Project, ARGO, for December 18, 2026",
+      "link": "https://www.investing.com/news/cryptocurrency-news/han-chain-schedules-launch-of-its-first-flagship-project-argo-for-december-18-2026-5044584",
+      "published": "2026-11-23 07:59:04",
+      "ts": 1795420744
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
+      "link": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
+      "published": "Mon, 23 Nov 2026 07:45:30 +0000",
+      "ts": 1795419930
+    },
+    {
+      "source": "CoinDesk",
+      "title": "This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack",
+      "link": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
+      "published": "Mon, 23 Nov 2026 07:18:45 +0000",
+      "ts": 1795418325
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cardano holders are turning down a $4 million request for running its flagship event",
+      "link": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
+      "published": "Mon, 23 Nov 2026 06:15:45 +0000",
+      "ts": 1795414545
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 06:00:00 +0000",
+      "ts": 1795413600
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+      "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+      "published": "Mon, 23 Nov 2026 05:42:22 +0000",
+      "ts": 1795412542
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The number of 401(k) millionaires drops amid stock-market swings",
+      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "published": "Mon, 23 Nov 2026 05:01:00 GMT",
+      "ts": 1795410060
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Market rout kills 50 basis points December Fed rate hike bets",
+      "link": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+      "published": "Mon, 23 Nov 2026 04:45:47 +0000",
+      "ts": 1795409147
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+      "link": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 03:37:20 +0000",
+      "ts": 1795405040
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+      "link": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 02:47:39 +0000",
+      "ts": 1795402059
+    },
     {
       "source": "CoinTelegraph",
       "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
@@ -24,74 +213,11 @@
       "ts": 1795384260
     },
     {
-      "source": "MarketWatch",
-      "title": "Ron Johnson’s Social Security gaffe buried important news",
-      "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
-      "published": "Sun, 22 Nov 2026 21:28:00 GMT",
-      "ts": 1795382880
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Social Security should be shut down, this Republican senator says",
-      "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-      "published": "Sun, 22 Nov 2026 20:26:00 GMT",
-      "ts": 1795379160
-    },
-    {
       "source": "CoinDesk",
       "title": "More on the pending oversight hearings: State of Crypto",
       "link": "https://www.coindesk.com/",
       "published": "Sun, 22 Nov 2026 19:30:00 +0000",
       "ts": 1795375800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-      "published": "Sun, 22 Nov 2026 19:24:00 GMT",
-      "ts": 1795375440
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These little-known investments could be among the best bargains in a crash",
-      "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
-      "published": "Sun, 22 Nov 2026 18:23:00 GMT",
-      "ts": 1795371780
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Private equity has been buying up hospice centers — with striking consequences",
-      "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
-      "published": "Sun, 22 Nov 2026 17:22:00 GMT",
-      "ts": 1795368120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
-      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "published": "Sun, 22 Nov 2026 17:00:00 GMT",
-      "ts": 1795366800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "published": "Sun, 22 Nov 2026 16:32:00 GMT",
-      "ts": 1795365120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-      "published": "Sun, 22 Nov 2026 16:18:00 GMT",
-      "ts": 1795364280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
-      "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-      "published": "Sun, 22 Nov 2026 16:15:00 GMT",
-      "ts": 1795364100
     },
     {
       "source": "CoinTelegraph",
@@ -106,13 +232,6 @@
       "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
       "published": "Sun, 22 Nov 2026 14:00:00 +0000",
       "ts": 1795356000
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 22 Nov 2026 11:25:27 +0000",
-      "ts": 1795346727
     },
     {
       "source": "CoinTelegraph",
@@ -136,32 +255,11 @@
       "ts": 1795332245
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-      "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 22 Nov 2026 05:28:43 +0000",
-      "ts": 1795325323
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-      "published": "Sat, 21 Nov 2026 17:50:00 +0000",
-      "ts": 1795283400
-    },
-    {
       "source": "Investing Forex",
       "title": "Bitcoin rises after falling to two-year low",
       "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
       "published": "2026-11-21 17:12:18",
       "ts": 1795281138
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-      "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-      "published": "Sat, 21 Nov 2026 16:41:00 +0000",
-      "ts": 1795279260
     },
     {
       "source": "Investing Forex",
@@ -178,53 +276,11 @@
       "ts": 1795272675
     },
     {
-      "source": "CoinDesk",
-      "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
-      "link": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
-      "published": "Sat, 21 Nov 2026 14:00:00 +0000",
-      "ts": 1795269600
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-      "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
-      "published": "Sat, 21 Nov 2026 12:30:00 +0000",
-      "ts": 1795264200
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
-      "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 21 Nov 2026 09:48:56 +0000",
-      "ts": 1795254536
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-      "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 21 Nov 2026 07:51:47 +0000",
-      "ts": 1795247507
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
-      "published": "Sat, 21 Nov 2026 06:16:42 +0000",
-      "ts": 1795241802
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin Falls 10% In Rout",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-10-in-rout-5043212",
       "published": "2026-11-21 06:02:03",
       "ts": 1795240923
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-      "published": "Sat, 21 Nov 2026 05:59:19 +0000",
-      "ts": 1795240759
     },
     {
       "source": "Investing Crypto",
@@ -241,32 +297,11 @@
       "ts": 1795239844
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-      "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 21 Nov 2026 05:40:35 +0000",
-      "ts": 1795239635
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-      "published": "Sat, 21 Nov 2026 04:10:07 +0000",
-      "ts": 1795234207
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin on track for longest weekly losing streak since May 2022 amid AI rout",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-near-5mth-low-below-62k-as-ai-rout-batters-risk-appetite-5040746",
       "published": "2026-11-20 23:17:58",
       "ts": 1795216678
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-      "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-      "published": "Fri, 20 Nov 2026 22:51:14 +0000",
-      "ts": 1795215074
     },
     {
       "source": "Investing Forex",
@@ -316,41 +351,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-on-uk-retail-beat-dollar-caps-gains-5041015",
       "published": "2026-11-20 09:22:09",
       "ts": 1795166529
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bybit’s Global User Base Surpasses 90 Million as Company Expands Into Traditional Finance",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bybits-global-user-base-surpasses-90-million-as-company-expands-into-traditional-finance-5040899",
-      "published": "2026-11-20 08:08:35",
-      "ts": 1795162115
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "CROO Launches CROO Skill, Opening Its AI Agent Network to Claude Code and Codex Users",
-      "link": "https://www.investing.com/news/cryptocurrency-news/croo-launches-croo-skill-opening-its-ai-agent-network-to-claude-code-and-codex-users-5040900",
-      "published": "2026-11-20 08:08:35",
-      "ts": 1795162115
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar sits at over 19-month high on surge in Fed rate hike expectations",
-      "link": "https://www.investing.com/news/forex-news/dollar-hits-fresh-19mth-peak-on-hawkish-fed-aussie-slides-after-weak-jobs-data-5037703",
-      "published": "2026-11-19 20:49:01",
-      "ts": 1795121341
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Offshore yuan dip looks like a liquidity blip, not a trend shift",
-      "link": "https://www.investing.com/news/forex-news/offshore-yuan-dip-looks-like-a-liquidity-blip-not-a-trend-shift-93CH-5039801",
-      "published": "2026-11-19 19:24:25",
-      "ts": 1795116265
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar index hits 52-week high, driven by haven demand and rate expectations",
-      "link": "https://www.investing.com/news/forex-news/dollar-index-hits-52week-high-driven-by-haven-demand-and-rate-expectations-93CH-5039556",
-      "published": "2026-11-19 16:17:42",
-      "ts": 1795105062
     }
   ]
 }
