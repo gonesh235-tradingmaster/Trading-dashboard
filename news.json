@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-22T22:03:42.402807Z",
+  "updated": "2026-11-23T02:44:24.301509Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+      "link": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 00:53:49 +0000",
+      "ts": 1795395229
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 22 Nov 2026 22:47:09 +0000",
+      "ts": 1795387629
+    },
     {
       "source": "MarketWatch",
       "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
@@ -109,7 +123,7 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin struggles below $60,000 as mining profits plunge, security risks grow",
+      "title": "Bitcoin makes tentative rebound, rising over 1% to reclaim $60,000",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790",
       "published": "2026-11-22 07:29:58",
       "ts": 1795332598
@@ -269,25 +283,11 @@
       "ts": 1795211087
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-      "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 19:37:27 +0000",
-      "ts": 1795203447
-    },
-    {
       "source": "Investing Crypto",
       "title": "Ethereum Falls 10% In Rout",
       "link": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5042458",
       "published": "2026-11-20 19:18:04",
       "ts": 1795202284
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
-      "link": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 18:37:10 +0000",
-      "ts": 1795199830
     },
     {
       "source": "Investing Crypto",
