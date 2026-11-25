@@ -1,20 +1,230 @@
 {
-  "updated": "2026-11-25T02:47:34.774864Z",
+  "updated": "2026-11-25T12:08:15.920449Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+      "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+      "published": "Wed, 25 Nov 2026 11:57:50 +0000",
+      "ts": 1795607870
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+      "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 11:49:54 +0000",
+      "ts": 1795607394
+    },
+    {
+      "source": "Investing Forex",
+      "title": "EUR/USD may rally to 1.12 before falling to 1.05, BCA says",
+      "link": "https://www.investing.com/news/forex-news/eurusd-may-rally-to-112-before-falling-to-105-bca-says-93CH-5050407",
+      "published": "2026-11-25 11:39:24",
+      "ts": 1795606764
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
+      "link": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 11:31:10 +0000",
+      "ts": 1795606270
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+      "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+      "published": "Wed, 25 Nov 2026 11:30:32 +0000",
+      "ts": 1795606232
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+      "published": "Wed, 25 Nov 2026 11:27:00 GMT",
+      "ts": 1795606020
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 11:12:26 +0000",
+      "ts": 1795605146
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price may fall below $53K if bear-market history repeats",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 11:09:38 +0000",
+      "ts": 1795604978
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
+      "link": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
+      "published": "Wed, 25 Nov 2026 11:00:27 +0000",
+      "ts": 1795604427
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "HYPE drops 8% as Trump bump gives way to 40% slide from peak",
+      "link": "https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 10:57:52 +0000",
+      "ts": 1795604272
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
+      "link": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
+      "published": "Wed, 25 Nov 2026 10:12:00 GMT",
+      "ts": 1795601520
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Kylie Jenner again relists concrete mansion in L.A. for $38 million",
+      "link": "https://www.marketwatch.com/story/kylie-jenner-again-relists-concrete-mansion-in-l-a-for-38-million-2e5143e5?mod=mw_rss_topstories",
+      "published": "Wed, 25 Nov 2026 10:05:00 GMT",
+      "ts": 1795601100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "published": "Wed, 25 Nov 2026 10:05:00 GMT",
+      "ts": 1795601100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "NBA star Kevin Durant lists Arizona mansion for $13.9 million, a year after trade to Houston",
+      "link": "https://www.marketwatch.com/story/nba-star-kevin-durant-lists-arizona-mansion-for-13-9-million-a-year-after-trade-to-houston-1b0ae57e?mod=mw_rss_topstories",
+      "published": "Wed, 25 Nov 2026 10:01:00 GMT",
+      "ts": 1795600860
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
+      "link": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 09:58:12 +0000",
+      "ts": 1795600692
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls below $59,000 as November ETF outflows approach $5 billion",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-extends-losses-below-59000-as-etf-outflows-weigh-5049793",
+      "published": "2026-11-25 09:53:05",
+      "ts": 1795600385
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market",
+      "link": "https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 09:52:22 +0000",
+      "ts": 1795600342
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound falls as risk unwind sends funds back to dollar",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-falls-as-risk-unwind-sends-funds-back-to-dollar-5050111",
+      "published": "2026-11-25 09:48:09",
+      "ts": 1795600089
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Cregis and Centroid Solutions Partner to Expand Digital Asset Payment Capabilities for Financial Institutions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cregis-and-centroid-solutions-partner-to-expand-digital-asset-payment-capabilities-for-financial-institutions-5050091",
+      "published": "2026-11-25 09:29:42",
+      "ts": 1795598982
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
+      "link": "https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 08:40:28 +0000",
+      "ts": 1795596028
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower",
+      "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
+      "published": "Wed, 25 Nov 2026 08:35:47 +0000",
+      "ts": 1795595747
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar firms ahead of U.S. data as Aussie slumps; Asian currencies mixed",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-firms-on-tariff-risks-aussie-hits-11month-low-5049767",
+      "published": "2026-11-25 08:34:40",
+      "ts": 1795595680
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+      "link": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 06:54:59 +0000",
+      "ts": 1795589699
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+      "link": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+      "published": "Wed, 25 Nov 2026 06:33:10 +0000",
+      "ts": 1795588390
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Simpleswap Bringing Prediction Markets to Its Platform",
+      "link": "https://www.investing.com/news/cryptocurrency-news/simpleswap-bringing-prediction-markets-to-its-platform-5049798",
+      "published": "2026-11-25 06:26:46",
+      "ts": 1795588006
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+      "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+      "published": "Wed, 25 Nov 2026 06:15:08 +0000",
+      "ts": 1795587308
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 05:50:43 +0000",
+      "ts": 1795585843
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+      "link": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+      "published": "Wed, 25 Nov 2026 04:57:22 +0000",
+      "ts": 1795582642
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+      "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+      "published": "Wed, 25 Nov 2026 04:50:08 +0000",
+      "ts": 1795582208
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+      "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+      "published": "Wed, 25 Nov 2026 03:35:20 +0000",
+      "ts": 1795577720
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Falls 14% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-14-in-rout-5049590",
+      "published": "2026-11-25 02:55:03",
+      "ts": 1795575303
+    },
     {
       "source": "MarketWatch",
       "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "published": "Wed, 25 Nov 2026 02:00:00 GMT",
       "ts": 1795572000
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-      "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 25 Nov 2026 01:40:59 +0000",
-      "ts": 1795570859
     },
     {
       "source": "MarketWatch",
@@ -31,13 +241,6 @@
       "ts": 1795565100
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
-      "link": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 23:48:16 +0000",
-      "ts": 1795564096
-    },
-    {
       "source": "MarketWatch",
       "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
       "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
@@ -52,67 +255,11 @@
       "ts": 1795561804
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 22:12:10 +0000",
-      "ts": 1795558330
-    },
-    {
       "source": "MarketWatch",
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
       "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
       "published": "Tue, 24 Nov 2026 21:53:00 GMT",
       "ts": 1795557180
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
-      "link": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 21:50:25 +0000",
-      "ts": 1795557025
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Anthropic’s stock just broke below its IPO price for the first time",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 21:46:00 GMT",
-      "ts": 1795556760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 21:45:00 GMT",
-      "ts": 1795556700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
-      "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 21:31:00 GMT",
-      "ts": 1795555860
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 21:30:00 GMT",
-      "ts": 1795555800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
-      "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 21:22:00 GMT",
-      "ts": 1795555320
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-      "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 20:48:27 +0000",
-      "ts": 1795553307
     },
     {
       "source": "Investing Forex",
@@ -129,39 +276,11 @@
       "ts": 1795549761
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-      "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 19:44:23 +0000",
-      "ts": 1795549463
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
-      "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 19:04:26 +0000",
-      "ts": 1795547066
-    },
-    {
       "source": "Investing Crypto",
       "title": "LuqEE Reaches Milestone of 100 Bitcoin Cash Blocks Found Through Its Solo Mining Platform",
       "link": "https://www.investing.com/news/cryptocurrency-news/luqee-reaches-milestone-of-100-bitcoin-cash-blocks-found-through-its-solo-mining-platform-5048870",
       "published": "2026-11-24 18:39:43",
       "ts": 1795545583
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "CFTC sets new prediction market rules as more firms seek US entry",
-      "link": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 18:31:42 +0000",
-      "ts": 1795545102
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
-      "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 18:07:22 +0000",
-      "ts": 1795543642
     },
     {
       "source": "CoinDesk",
@@ -178,13 +297,6 @@
       "ts": 1795541290
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-      "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 17:09:11 +0000",
-      "ts": 1795540151
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bybit Introduces TradFi Earn, Unifying Access to Global ETFs and RWA",
       "link": "https://www.investing.com/news/cryptocurrency-news/bybit-introduces-tradfi-earn-unifying-access-to-global-etfs-and-rwa-5048738",
@@ -192,74 +304,11 @@
       "ts": 1795538267
     },
     {
-      "source": "CoinDesk",
-      "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
-      "link": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
-      "published": "Tue, 24 Nov 2026 16:00:25 +0000",
-      "ts": 1795536025
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Anchorage Digital to unveil new asset-management subsidiary",
-      "link": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
-      "published": "Tue, 24 Nov 2026 15:06:32 +0000",
-      "ts": 1795532792
-    },
-    {
-      "source": "CoinDesk",
-      "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
-      "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
-      "published": "Tue, 24 Nov 2026 14:40:53 +0000",
-      "ts": 1795531253
-    },
-    {
       "source": "Investing Forex",
       "title": "Global yields fall as safe-haven bid meets looming U.S. PCE test",
       "link": "https://www.investing.com/news/forex-news/global-yields-fall-as-safehaven-bid-meets-looming-us-pce-test-5047210",
       "published": "2026-11-24 13:00:01",
       "ts": 1795525201
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
-      "link": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
-      "published": "Tue, 24 Nov 2026 12:47:49 +0000",
-      "ts": 1795524469
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
-      "link": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
-      "published": "Tue, 24 Nov 2026 12:47:40 +0000",
-      "ts": 1795524460
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
-      "published": "Tue, 24 Nov 2026 12:36:28 +0000",
-      "ts": 1795523788
-    },
-    {
-      "source": "CoinDesk",
-      "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
-      "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
-      "published": "Tue, 24 Nov 2026 12:04:39 +0000",
-      "ts": 1795521879
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
-      "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
-      "published": "Tue, 24 Nov 2026 11:31:56 +0000",
-      "ts": 1795519916
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
-      "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
-      "published": "Tue, 24 Nov 2026 11:11:38 +0000",
-      "ts": 1795518698
     },
     {
       "source": "Investing Crypto",
@@ -290,20 +339,6 @@
       "ts": 1795513536
     },
     {
-      "source": "Investing Forex",
-      "title": "UBS sees USD/JPY at 158 through 2027 on rate differentials",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-usdjpy-at-158-through-2027-on-rate-differentials-93CH-5047434",
-      "published": "2026-11-24 09:44:12",
-      "ts": 1795513452
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges higher after dollar-led slide as rally risks overshoot",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-after-dollarled-slide-as-rally-risks-overshoot-5047426",
-      "published": "2026-11-24 09:32:14",
-      "ts": 1795512734
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin cuts gains sparked by AI trade rally on Wall Street, remains above $61,000",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-61000-after-liquidationdriven-selloff-5044501",
@@ -311,46 +346,11 @@
       "ts": 1795475546
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar at nearly 20-month high as AI trade reignites, boosting growth prospects",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-dollar-retreats-from-19month-high-yen-won-weaken-5044324",
-      "published": "2026-11-23 22:32:38",
-      "ts": 1795473158
-    },
-    {
       "source": "Investing Crypto",
       "title": "Armitage and Superform build a stock-strategy franchise on SuperformOS",
       "link": "https://www.investing.com/news/cryptocurrency-news/armitage-and-superform-build-a-stockstrategy-franchise-on-superformos-5045879",
       "published": "2026-11-23 14:32:51",
       "ts": 1795444371
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "XRP Climbs 11% In a Green Day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-11-in-a-green-day-5045861",
-      "published": "2026-11-23 14:28:05",
-      "ts": 1795444085
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Zodia Markets Appoints Jan Brzezek as Chief Executive Officer",
-      "link": "https://www.investing.com/news/cryptocurrency-news/zodia-markets-appoints-jan-brzezek-as-chief-executive-officer-5045794",
-      "published": "2026-11-23 14:02:36",
-      "ts": 1795442556
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitrue AI Finds XRP Echoes November 2022, Before Its Rally the Next Year",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitrue-ai-finds-xrp-echoes-november-2022-before-its-rally-the-next-year-5045671",
-      "published": "2026-11-23 13:32:19",
-      "ts": 1795440739
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Strategy buys bitcoin, expands repurchase program",
-      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-bitcoin-expands-repurchase-program-432SI-5045501",
-      "published": "2026-11-23 13:05:09",
-      "ts": 1795439109
     }
   ]
 }
