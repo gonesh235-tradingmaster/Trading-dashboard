@@ -1,13 +1,153 @@
 {
-  "updated": "2026-11-24T18:38:57.440290Z",
+  "updated": "2026-11-25T02:47:34.774864Z",
   "count": 50,
   "items": [
     {
       "source": "MarketWatch",
+      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "published": "Wed, 25 Nov 2026 02:00:00 GMT",
+      "ts": 1795572000
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+      "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 01:40:59 +0000",
+      "ts": 1795570859
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Dell’s stock rises as the AI boom helps sales more than double",
+      "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "published": "Wed, 25 Nov 2026 01:11:00 GMT",
+      "ts": 1795569060
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "published": "Wed, 25 Nov 2026 00:05:00 GMT",
+      "ts": 1795565100
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+      "link": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 23:48:16 +0000",
+      "ts": 1795564096
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+      "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 23:11:00 GMT",
+      "ts": 1795561860
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin halts three-day win streak, slips to $60k amid hit to risk sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hovers-around-60k-amid-little-relief-from-rate-regulatory-jitters-5047126",
+      "published": "2026-11-24 23:10:04",
+      "ts": 1795561804
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 22:12:10 +0000",
+      "ts": 1795558330
+    },
+    {
+      "source": "MarketWatch",
+      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 21:53:00 GMT",
+      "ts": 1795557180
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
+      "link": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 21:50:25 +0000",
+      "ts": 1795557025
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 21:46:00 GMT",
+      "ts": 1795556760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 21:45:00 GMT",
+      "ts": 1795556700
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
+      "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 21:31:00 GMT",
+      "ts": 1795555860
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 21:30:00 GMT",
+      "ts": 1795555800
+    },
+    {
+      "source": "MarketWatch",
       "title": "Micron’s stock falls as an analyst warns about a future supply glut",
       "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 18:33:00 GMT",
-      "ts": 1795545180
+      "published": "Tue, 24 Nov 2026 21:22:00 GMT",
+      "ts": 1795555320
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
+      "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 20:48:27 +0000",
+      "ts": 1795553307
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar retreats from near 20-month peak, set for worst day in over two weeks",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-20mth-high-on-ai-rally-5046950",
+      "published": "2026-11-24 20:35:38",
+      "ts": 1795552538
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar slips as Nvidia-fueled AI rally fades",
+      "link": "https://www.investing.com/news/forex-news/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets-5046813",
+      "published": "2026-11-24 19:49:21",
+      "ts": 1795549761
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+      "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 19:44:23 +0000",
+      "ts": 1795549463
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
+      "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 19:04:26 +0000",
+      "ts": 1795547066
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "LuqEE Reaches Milestone of 100 Bitcoin Cash Blocks Found Through Its Solo Mining Platform",
+      "link": "https://www.investing.com/news/cryptocurrency-news/luqee-reaches-milestone-of-100-bitcoin-cash-blocks-found-through-its-solo-mining-platform-5048870",
+      "published": "2026-11-24 18:39:43",
+      "ts": 1795545583
     },
     {
       "source": "CoinTelegraph",
@@ -17,39 +157,11 @@
       "ts": 1795545102
     },
     {
-      "source": "MarketWatch",
-      "title": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
-      "link": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 18:28:00 GMT",
-      "ts": 1795544880
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 18:15:00 GMT",
-      "ts": 1795544100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
-      "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 18:14:00 GMT",
-      "ts": 1795544040
-    },
-    {
       "source": "CoinTelegraph",
       "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
       "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 24 Nov 2026 18:07:22 +0000",
       "ts": 1795543642
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 18:00:00 GMT",
-      "ts": 1795543200
     },
     {
       "source": "CoinDesk",
@@ -59,39 +171,11 @@
       "ts": 1795542608
     },
     {
-      "source": "MarketWatch",
-      "title": "The AI debt market isn’t convinced the worst is over for investors",
-      "link": "https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 17:48:00 GMT",
-      "ts": 1795542480
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 17:30:00 GMT",
-      "ts": 1795541400
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar rebounds from 19-month low as U.S. dollar retreats",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-rebounds-from-19month-low-as-us-dollar-retreats-5048801",
       "published": "2026-11-24 17:28:10",
       "ts": 1795541290
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 17:15:00 GMT",
-      "ts": 1795540500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 17:10:00 GMT",
-      "ts": 1795540200
     },
     {
       "source": "CoinTelegraph",
@@ -108,32 +192,11 @@
       "ts": 1795538267
     },
     {
-      "source": "CoinTelegraph",
-      "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
-      "link": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 16:33:26 +0000",
-      "ts": 1795538006
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
-      "link": "https://www.marketwatch.com/story/americans-dont-like-trumps-tariffs-hes-doubling-down-anyway-as-soon-as-this-week-74c8bed5?mod=mw_rss_topstories",
-      "published": "Tue, 24 Nov 2026 16:24:00 GMT",
-      "ts": 1795537440
-    },
-    {
       "source": "CoinDesk",
       "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
       "link": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
       "published": "Tue, 24 Nov 2026 16:00:25 +0000",
       "ts": 1795536025
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar slips as Nvidia-fueled AI rally fades",
-      "link": "https://www.investing.com/news/forex-news/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets-5046813",
-      "published": "2026-11-24 15:18:36",
-      "ts": 1795533516
     },
     {
       "source": "CoinDesk",
@@ -143,46 +206,11 @@
       "ts": 1795532792
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin retreats to $60k amid rate, regulatory jitters",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hovers-around-60k-amid-little-relief-from-rate-regulatory-jitters-5047126",
-      "published": "2026-11-24 14:56:38",
-      "ts": 1795532198
-    },
-    {
       "source": "CoinDesk",
       "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
       "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
       "published": "Tue, 24 Nov 2026 14:40:53 +0000",
       "ts": 1795531253
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
-      "link": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 14:10:23 +0000",
-      "ts": 1795529423
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
-      "link": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 13:57:56 +0000",
-      "ts": 1795528676
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
-      "link": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 13:43:46 +0000",
-      "ts": 1795527826
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
-      "link": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 13:11:44 +0000",
-      "ts": 1795525904
     },
     {
       "source": "Investing Forex",
@@ -220,20 +248,6 @@
       "ts": 1795521879
     },
     {
-      "source": "CoinTelegraph",
-      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
-      "link": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 12:04:16 +0000",
-      "ts": 1795521856
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return",
-      "link": "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 11:40:33 +0000",
-      "ts": 1795520433
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
       "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
@@ -246,13 +260,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
       "published": "Tue, 24 Nov 2026 11:11:38 +0000",
       "ts": 1795518698
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar grips 20-month peak as Nvidia’s AI revival rekindles Fed rate wagers",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-20mth-high-on-ai-rally-5046950",
-      "published": "2026-11-24 10:26:07",
-      "ts": 1795515967
     },
     {
       "source": "Investing Crypto",
@@ -344,13 +351,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-bitcoin-expands-repurchase-program-432SI-5045501",
       "published": "2026-11-23 13:05:09",
       "ts": 1795439109
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "HAN CHAIN Schedules Launch of Its First Flagship Project, ARGO, for December 18, 2026",
-      "link": "https://www.investing.com/news/cryptocurrency-news/han-chain-schedules-launch-of-its-first-flagship-project-argo-for-december-18-2026-5044584",
-      "published": "2026-11-23 07:59:04",
-      "ts": 1795420744
     }
   ]
 }
