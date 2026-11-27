@@ -1,7 +1,63 @@
 {
-  "updated": "2026-11-26T22:36:11.463529Z",
+  "updated": "2026-11-27T04:33:02.529539Z",
   "count": 50,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+      "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+      "published": "Fri, 27 Nov 2026 04:29:47 +0000",
+      "ts": 1795753787
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX weakens as high oil prices weigh; dollar edges lower in holiday trade",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-weakens-as-high-oil-prices-weigh-dollar-edges-lower-in-holiday-trade-5052845",
+      "published": "2026-11-27 04:15:24",
+      "ts": 1795752924
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
+      "link": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 27 Nov 2026 01:47:38 +0000",
+      "ts": 1795744058
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "published": "Fri, 27 Nov 2026 01:15:00 GMT",
+      "ts": 1795742100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "published": "Fri, 27 Nov 2026 01:00:00 GMT",
+      "ts": 1795741200
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+      "link": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 27 Nov 2026 00:35:39 +0000",
+      "ts": 1795739739
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "published": "Fri, 27 Nov 2026 00:31:00 GMT",
+      "ts": 1795739460
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+      "link": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 26 Nov 2026 22:39:46 +0000",
+      "ts": 1795732786
+    },
     {
       "source": "CoinTelegraph",
       "title": "Here’s what happened in crypto today",
@@ -52,13 +108,6 @@
       "ts": 1795728827
     },
     {
-      "source": "MarketWatch",
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "published": "Thu, 26 Nov 2026 21:30:00 GMT",
-      "ts": 1795728600
-    },
-    {
       "source": "CoinTelegraph",
       "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
       "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -78,13 +127,6 @@
       "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
       "published": "Thu, 26 Nov 2026 19:00:00 GMT",
       "ts": 1795719600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "published": "Thu, 26 Nov 2026 18:30:00 GMT",
-      "ts": 1795717800
     },
     {
       "source": "CoinTelegraph",
@@ -115,13 +157,6 @@
       "ts": 1795711823
     },
     {
-      "source": "CoinTelegraph",
-      "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
-      "link": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 26 Nov 2026 16:40:44 +0000",
-      "ts": 1795711244
-    },
-    {
       "source": "MarketWatch",
       "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
@@ -129,25 +164,11 @@
       "ts": 1795708800
     },
     {
-      "source": "CoinTelegraph",
-      "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
-      "link": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 26 Nov 2026 15:45:07 +0000",
-      "ts": 1795707907
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
       "link": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
       "published": "Thu, 26 Nov 2026 15:42:43 +0000",
       "ts": 1795707763
-    },
-    {
-      "source": "MarketWatch",
-      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-      "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "published": "Thu, 26 Nov 2026 15:30:00 GMT",
-      "ts": 1795707000
     },
     {
       "source": "MarketWatch",
@@ -183,13 +204,6 @@
       "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
       "published": "Thu, 26 Nov 2026 14:00:00 GMT",
       "ts": 1795701600
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
-      "link": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 26 Nov 2026 13:47:56 +0000",
-      "ts": 1795700876
     },
     {
       "source": "CoinDesk",
@@ -232,13 +246,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
       "published": "Thu, 26 Nov 2026 10:56:08 +0000",
       "ts": 1795690568
-    },
-    {
-      "source": "CoinDesk",
-      "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
-      "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
-      "published": "Thu, 26 Nov 2026 10:40:33 +0000",
-      "ts": 1795689633
     },
     {
       "source": "Investing Forex",
@@ -316,13 +323,6 @@
       "link": "https://www.investing.com/news/forex-news/swiss-franc-safehaven-demand-and-usdchf-technical-outlook-93CH-5050525",
       "published": "2026-11-25 12:21:35",
       "ts": 1795609295
-    },
-    {
-      "source": "Investing Forex",
-      "title": "EUR/USD may rally to 1.12 before falling to 1.05, BCA says",
-      "link": "https://www.investing.com/news/forex-news/eurusd-may-rally-to-112-before-falling-to-105-bca-says-93CH-5050407",
-      "published": "2026-11-25 11:39:24",
-      "ts": 1795606764
     },
     {
       "source": "Investing Crypto",
